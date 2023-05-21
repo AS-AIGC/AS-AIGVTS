@@ -1,0 +1,8 @@
+OpenAI_Key = "YOUR_OPENAI_API_KEY"
+OpenAI_Organization = "YOUR_OPENAI_ORGANIZATION"
+
+YouTube_List = {
+    # Here, the "GPT4" target file name is mapped to the "oc6RV5c1yd0" video ID
+    "GPT4": "oc6RV5c1yd0",
+}
+
