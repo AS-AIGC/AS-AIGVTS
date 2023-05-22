@@ -6,6 +6,7 @@ from datetime import datetime
 from tqdm import tqdm
 import config
 
+# Retrieve configurations from the config file
 youtube_list = config.YouTube_List
 PREFIX = config.PREFIX
 
@@ -59,13 +60,11 @@ def split_article(article, language="en", max_words=1000):
     return pieces  # return list of article pieces
 
 def summarize_text(text, language="zh"):
-    # Create a question for the AI model to summarize the text
     if language=="zh":
         q = f"請依據下列的影片逐字稿內容，使用繁體中文進行摘要:\n{text}\n\n摘要:"
     else:
         q = f"Please summarize the following text:\n{text}\n\nSummary:"
 
-    # Use OpenAI's GPT-3.5 Turbo model to generate a summary of the text
     rsp = openai.ChatCompletion.create(
         model="gpt-4",
         messages=[
@@ -74,16 +73,11 @@ def summarize_text(text, language="zh"):
         ]
     )
 
-    # Get the summary from the AI model's response
     summary = rsp.get("choices")[0]["message"]["content"].strip()
-
-    # Return the summary
     return summary
 
 # iterate over the items in the youtube_list dictionary
 for k, v in youtube_list.items():
-
-    #print(f"Downloading {k} ({v})")
     start_time = datetime.now()
     try:
         lang = "zh"
@@ -108,15 +102,10 @@ for k, v in youtube_list.items():
             out_file.close()
 
     except BaseException as ex:
-        ex_type, ex_value, ex_traceback = sys.exc_info()
-        trace_back = traceback.extract_tb(ex_traceback)
-        stack_trace = list()
-        for trace in trace_back:
-            stack_trace.append("File : %s , Line : %d, Func.Name : %s, Message : %s" % (trace[0], trace[1], trace[2], trace[3]))
-
-        print("Exception type : %s " % ex_type.__name__)
-        print("Exception message : %s" %ex_value)
-        print("Stack trace : %s" %stack_trace)
+        print(f"Exception type : {type(ex).__name__}")
+        print(f"Exception message : {str(ex)}")
+        print("Stack trace :")
+        traceback.print_exc()
 
     end_time = datetime.now()
     delta_time = end_time - start_time
