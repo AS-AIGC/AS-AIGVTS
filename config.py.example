@@ -6,3 +6,5 @@ YouTube_List = {
     "GPT4": "oc6RV5c1yd0",
 }
 
+LANGUAGES = ['en', 'ja']
+
