@@ -99,13 +99,13 @@ for k, v in youtube_list.items():
                 for lang in LANGUAGES:
                     subtitle = translate_srt_file_by_googletrans(lang, f"/tmp/{fname_offset}.srt", f"/tmp/{fname_offset}_{lang}.srt")
                     concatenate_srt_file(f"{PREFIX}{k}_{lang}.srt", f"/tmp/{fname_offset}_{lang}.srt", offset)
+                    if os.path.exists(f"/tmp/{fname_offset}_{lang}.srt"):
+                        os.remove(f"/tmp/{fname_offset}_{lang}.srt")
         
                 if os.path.exists(f"/tmp/{fname_offset}.txt"):
                     os.remove(f"/tmp/{fname_offset}.txt")
                 if os.path.exists(f"/tmp/{fname_offset}.srt"):
                     os.remove(f"/tmp/{fname_offset}.srt")
-                if os.path.exists(f"/tmp/{fname_offset}_{lang}.srt"):
-                    os.remove(f"/tmp/{fname_offset}_{lang}.srt")
                 if os.path.exists(f"/tmp/{fname_offset}.mp3"):
                     os.remove(f"/tmp/{fname_offset}.mp3")
 
