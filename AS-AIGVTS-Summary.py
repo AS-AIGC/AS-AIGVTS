@@ -5,10 +5,13 @@ import re, os, sys, traceback
 from datetime import datetime
 from tqdm import tqdm
 import config
+from googletrans import Translator, LANGUAGES
+
 
 # Retrieve configurations from the config file
 youtube_list = config.YouTube_List
 PREFIX = config.PREFIX
+LANGUAGES = config.LANGUAGES
 
 def rephrase_text(text, language="zh"):
     if language=="zh":
@@ -97,9 +100,16 @@ for k, v in youtube_list.items():
                 summary += r
             msgs = split_article(summary, lang)
 
-        with open(PREFIX + k + "-summary.txt", "w") as out_file:
+        with open(f"{PREFIX}{k}-summary.txt", "w") as out_file:
             out_file.write(msgs[0])
             out_file.close()
+
+        for lang in LANGUAGES:
+            translator = Translator()
+            translated_text = translator.translate(text=msgs[0], dest=lang)
+            with open(f"{PREFIX}{k}-summary_{lang}.txt", "w") as out_file:
+                out_file.write(translated_text.text)
+                out_file.close()
 
     except BaseException as ex:
         print(f"Exception type : {type(ex).__name__}")
