@@ -19,7 +19,7 @@
 - 用 ChatGPT API 為影片內容撰寫摘要
 - 用 Googletrans 將摘要翻譯成多國語言版本
 
-- Google colab notebook： [[colab_notebook_AS_AIGVTS_Transcript](colab_notebook_AS_AIGVTS_Transcript)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AS-AIGC/AS-AIGVTS/blob/main/colab_notebook_AS_AIGVTS_Transcript)
+- Google colab notebook： [[colab_notebook_AS_AIGVTS_Transcript.ipynb](colab_notebook_AS_AIGVTS_Transcript.ipynb)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AS-AIGC/AS-AIGVTS/blob/main/colab_notebook_AS_AIGVTS_Transcript.ipynb)
 - Python 語言版本
   - 自動產生 FAQ：[[AS-AIGFAQ.py](AS-AIGFAQ.py)]
   - 自動翻譯成多國語言版本：[[AS-AIGFAQ-to-i18n.py](AS-AIGFAQ-to-i18n.py)]
