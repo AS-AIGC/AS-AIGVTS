@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import openai    # library for working with the OpenAI API
-import re, os, sys, traceback
+import re, os, sys, traceback, time
 from datetime import datetime
 from tqdm import tqdm
 import config
@@ -13,22 +13,38 @@ youtube_list = config.YouTube_List
 PREFIX = config.PREFIX
 LANGUAGES = config.LANGUAGES
 
+openai.organization = "YOUR_OPENAI_ORGANIZATION"
+openai.organization = config.OpenAI_Organization
+openai.api_key = "YOUR_OPENAI_API_KEY"
+openai.api_key = config.OpenAI_Key
+
 def rephrase_text(text, language="zh"):
-    if language=="zh":
-      q = f"請幫我將下列文字更正錯字、加標點符號、轉成台灣的繁體中文，並且讓內容更通順:\n\n{text}\n\n 修正後文字:"
-    else:
-      q = f"Please rephrase the following text:\n{text}\n\nRevision:"
+    try:
+        #print("-->" + text)
+        if language=="zh":
+            q = f"請幫我將下列文字更正錯字、加標點符號、轉成台灣的繁體中文，並且讓內容更通順:\n\n{text}\n\n 修正後文字:"
+        else:
+            q = f"Please rephrase the following text:\n{text}\n\nRevision:"
 
-    rsp = openai.ChatCompletion.create(
-        model="gpt-4",
-        messages=[
-            {"role": "system", "content": "Editor"},
-            {"role": "user", "content": q}
-        ]
-    )
+        rsp = openai.ChatCompletion.create(
+            model="gpt-4",
+            messages=[
+                {"role": "system", "content": "Editor"},
+                {"role": "user", "content": q}
+            ]
+        )
 
-    summary = rsp.get("choices")[0]["message"]["content"].strip()
-    return summary
+        summary = rsp.get("choices")[0]["message"]["content"].strip()
+        #print("===>" + summary)
+        return summary
+    except Exception as ex:
+        print(f"Exception type : {type(ex).__name__}")
+        print(f"Exception message : {str(ex)}")
+        print("Stack trace :")
+        traceback.print_exc()
+
+        time.sleep(1)
+        return ""
 
 def split_article(article, language="en", max_words=1000):
     word_count = 0   # word count of the current piece
@@ -51,8 +67,10 @@ def split_article(article, language="en", max_words=1000):
             words_length = len(words)  # get length of words list
 
         if ((word_count + words_length) > max_words):  # if word count exceeds max_words
-            current_piece = rephrase_text(current_piece, language)  # send current piece to rephrase_text function for modification
-            pieces.append(current_piece)  # append modified piece to pieces list
+            rephrased_text = ""
+            while rephrased_text=="":
+                rephrased_text = rephrase_text(current_piece, language)  # send current piece to rephrase_text function for modification
+            pieces.append(rephrased_text)  # append modified piece to pieces list
             current_piece = line  # reset current piece to current line
             word_count = words_length  # reset word count to length of current line's words list
         else:
