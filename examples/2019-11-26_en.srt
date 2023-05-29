@@ -1,0 +1,9844 @@
+1
+00:00:00,000 --> 00:00:05,000
+【music】
+
+2
+00:00:05,000 --> 00:00:07,000
+good welcome
+
+3
+00:00:07,000 --> 00:00:10,000
+Thank you for participating in this month's quiz
+
+4
+00:00:10,000 --> 00:00:12,000
+Today our leader is
+
+5
+00:00:12,000 --> 00:00:14,000
+Researcher Zhao Guangyu
+
+6
+00:00:14,000 --> 00:00:20,000
+Is a researcher at the Institute of Employment and Life Support
+
+7
+00:00:21,000 --> 00:00:26,000
+Dr. Zhao is a member of the National Central University Job Research Institute
+
+8
+00:00:26,000 --> 00:00:28,000
+Graduate Master
+
+9
+00:00:28,000 --> 00:00:30,000
+PhD
+
+10
+00:00:30,000 --> 00:00:32,000
+PhD
+
+11
+00:00:32,000 --> 00:00:34,000
+Zhuo Shi
+
+12
+00:00:34,000 --> 00:00:36,000
+Sui Shi and Zhuo Shi are there
+
+13
+00:00:36,000 --> 00:00:40,000
+Then go to the Union Campus of the University of California
+
+14
+00:00:40,000 --> 00:00:42,000
+This is the Riverside campus
+
+15
+00:00:42,000 --> 00:00:44,000
+Dr. Duke Read
+
+16
+00:00:44,000 --> 00:00:48,000
+Got a doctorate degree in occupational science there
+
+17
+00:00:48,000 --> 00:00:52,000
+Washington State University
+
+18
+00:00:52,000 --> 00:00:54,000
+it's seattle
+
+19
+00:00:54,000 --> 00:00:58,000
+Bouman does Postal
+
+20
+00:00:58,000 --> 00:01:00,000
+Then
+
+21
+00:01:00,000 --> 00:01:01,720
+in molecular biology
+
+22
+00:01:01,720 --> 00:01:03,960
+Should be biochemistry
+
+23
+00:01:03,960 --> 00:01:08,000
+During this process, I have always been interested in the study of plants
+
+24
+00:01:08,000 --> 00:01:11,800
+Returned to Zhongyuan Hospital in 1999
+
+25
+00:01:11,800 --> 00:01:19,000
+Joined the Phytomachine Microbiology Institute team
+
+26
+00:01:19,000 --> 00:01:22,720
+it is now a researcher at the institute
+
+27
+00:01:22,720 --> 00:01:26,640
+And the deputy director
+
+28
+00:01:26,640 --> 00:01:28,800
+director here
+
+29
+00:01:28,800 --> 00:01:31,120
+yes we are
+
+30
+00:01:31,120 --> 00:01:33,520
+The Botanical Sanitation Institute belongs to the Central Plains
+
+31
+00:01:33,520 --> 00:01:36,760
+In the life sciences, it is the first
+
+32
+00:01:36,760 --> 00:01:40,040
+Yes, the land here used to be the land of the Botanical Guard
+
+33
+00:01:40,040 --> 00:01:40,960
+our side too
+
+34
+00:01:40,960 --> 00:01:44,280
+Later, it was given to us by us, it seems like this
+
+35
+00:01:44,280 --> 00:01:46,800
+right
+
+36
+00:01:46,800 --> 00:01:53,080
+So its research work in plant reproduction
+
+37
+00:01:53,080 --> 00:01:58,520
+There are many studies on the process of growth
+
+38
+00:01:58,520 --> 00:02:00,520
+have very good grades
+
+39
+00:02:00,000 --> 00:02:02,000
+Today he will share with us
+
+40
+00:02:02,000 --> 00:02:06,000
+It is using genetic technology
+
+41
+00:02:06,000 --> 00:02:09,000
+To understand the growth process of plants
+
+42
+00:02:09,000 --> 00:02:12,000
+OK, then we welcome Dr. Zhao Guangyu
+
+43
+00:02:20,000 --> 00:02:23,000
+Thank you, Vice President Liu, for your introduction
+
+44
+00:02:23,000 --> 00:02:25,000
+first of all i want to thank you
+
+45
+00:02:25,000 --> 00:02:27,000
+I would also like to thank the secretary of the headquarters for giving me this opportunity
+
+46
+00:02:27,000 --> 00:02:32,000
+Let me share with you the past period of time that we have
+
+47
+00:02:32,000 --> 00:02:33,000
+in botany
+
+48
+00:02:33,000 --> 00:02:36,000
+Especially the research on the reproductive growth of plants
+
+49
+00:02:36,000 --> 00:02:38,000
+More importantly, thank you all for coming today
+
+50
+00:02:38,000 --> 00:02:40,000
+i know tonight
+
+51
+00:02:40,000 --> 00:02:42,000
+You're probably all going to class
+
+52
+00:02:42,000 --> 00:02:43,000
+come back later
+
+53
+00:02:43,000 --> 00:02:46,000
+I try to keep this content from being too old
+
+54
+00:02:46,000 --> 00:02:49,000
+So this time we start today
+
+55
+00:02:49,000 --> 00:02:52,000
+Basically, our laboratory mainly does
+
+56
+00:02:52,000 --> 00:02:54,000
+reproductive growth of plants
+
+57
+00:02:54,000 --> 00:02:56,000
+And that's what I've always been interested in
+
+58
+00:02:56,000 --> 00:02:58,000
+Before we introduce plant reproductive growth
+
+59
+00:02:58,000 --> 00:02:59,000
+Let me introduce you first
+
+60
+00:03:00,000 --> 00:03:02,000
+There is a typical plant cell
+
+61
+00:03:02,000 --> 00:03:05,000
+plant cells and animal cells
+
+62
+00:03:05,000 --> 00:03:06,000
+The biggest difference is
+
+63
+00:03:06,000 --> 00:03:08,000
+it has leaves
+
+64
+00:03:08,000 --> 00:03:09,000
+it has cell arms
+
+65
+00:03:09,000 --> 00:03:10,000
+and most importantly
+
+66
+00:03:10,000 --> 00:03:13,000
+it has a large cell in the middle
+
+67
+00:03:13,000 --> 00:03:15,000
+vacuoles of cells
+
+68
+00:03:15,000 --> 00:03:17,000
+In addition there are many
+
+69
+00:03:17,000 --> 00:03:19,000
+protoplasmic contact wire
+
+70
+00:03:19,000 --> 00:03:20,000
+So this plant cell
+
+71
+00:03:20,000 --> 00:03:22,000
+Can communicate with another plant cell
+
+72
+00:03:22,000 --> 00:03:25,000
+Through this protoplasmic connecting thread
+
+73
+00:03:25,000 --> 00:03:28,000
+They can directly communicate with each other
+
+74
+00:03:28,000 --> 00:03:30,000
+The structure of the whole plant cell
+
+75
+00:03:30,000 --> 00:03:33,000
+We can learn from molecules, loads, entrained gas
+
+76
+00:03:33,000 --> 00:03:35,000
+cells all the way up to the whole plant
+
+77
+00:03:35,000 --> 00:03:38,000
+leaf filter
+
+78
+00:03:38,000 --> 00:03:41,000
+They end up forming leaf filters
+
+79
+00:03:41,000 --> 00:03:43,000
+The leaf filter is an air pocket inside the plant
+
+80
+00:03:43,000 --> 00:03:45,000
+Leaf filter eventually it will become
+
+81
+00:03:45,000 --> 00:03:47,000
+mesophyll cell
+
+82
+00:03:47,000 --> 00:03:49,000
+Post-leaf cells can shape light and function
+
+83
+00:03:49,000 --> 00:03:51,000
+finally forming a leaf
+
+84
+00:03:51,000 --> 00:03:53,000
+This is a construction of a whole plant
+
+85
+00:03:53,000 --> 00:03:57,000
+Our genes for the whole inside of the plant
+
+86
+00:03:57,000 --> 00:04:00,000
+mutant strains
+
+87
+00:04:00,000 --> 00:04:03,000
+You have a mutation in a single gene
+
+88
+00:04:03,000 --> 00:04:06,000
+Will affect the plant a lot of changes
+
+89
+00:04:06,000 --> 00:04:09,000
+For example, this is inside a tomato
+
+90
+00:04:09,000 --> 00:04:12,000
+a gene that you overexpress
+
+91
+00:04:12,000 --> 00:04:15,000
+like this gene it controls the leaves
+
+92
+00:04:15,000 --> 00:04:16,000
+and leaflet development
+
+93
+00:04:16,000 --> 00:04:17,000
+It turned out to be like this
+
+94
+00:04:17,000 --> 00:04:19,000
+you can make it like this
+
+95
+00:04:19,000 --> 00:04:22,000
+Therefore, through such a control
+
+96
+00:04:22,000 --> 00:04:26,000
+to express to change a plant's
+
+97
+00:04:26,000 --> 00:04:29,000
+The pattern of growth and even its function
+
+98
+00:04:29,000 --> 00:04:32,000
+We all know planting
+
+99
+00:04:32,000 --> 00:04:33,000
+All kinds of planting
+
+100
+00:04:33,000 --> 00:04:36,000
+In fact, I also caught it from the Internet, and I don't know much about it.
+
+101
+00:04:36,000 --> 00:04:39,000
+The only thing I saw was this kind of osmanthus seeds
+
+102
+00:04:39,000 --> 00:04:41,000
+Other various plantings
+
+103
+00:04:41,000 --> 00:04:44,000
+Planting is an important part of plants
+
+104
+00:04:44,000 --> 00:04:46,000
+Why is it other than family reception
+
+105
+00:04:46,000 --> 00:04:49,000
+It is also a food for many animals
+
+106
+00:04:49,000 --> 00:04:52,000
+But the whole crop produces
+
+107
+00:04:52,000 --> 00:04:55,000
+Must have very successful reproductive growth
+
+108
+00:04:55,000 --> 00:04:57,000
+So our content today
+
+109
+00:04:57,000 --> 00:05:00,000
+I will divide it with you and you into these
+
+110
+00:05:00,000 --> 00:05:04,000
+First, let me tell you about the reproductive system of plants
+
+111
+00:05:04,000 --> 00:05:06,000
+The second one I will introduce to you
+
+112
+00:05:06,000 --> 00:05:09,000
+In the past twenty years we have
+
+113
+00:05:09,000 --> 00:05:14,000
+There is something new about the development of a molecular biology cytology tool
+
+114
+00:05:14,000 --> 00:05:16,000
+So how do we use these
+
+115
+00:05:16,000 --> 00:05:17,000
+we can explore
+
+116
+00:05:17,000 --> 00:05:20,000
+Some questions we may not have been able to explore before
+
+117
+00:05:20,000 --> 00:05:25,000
+Finally, I will share with you our research work
+
+118
+00:05:25,000 --> 00:05:27,000
+This is a reproduction of the whole angiosperm
+
+119
+00:05:27,000 --> 00:05:29,000
+a life history
+
+120
+00:05:29,000 --> 00:05:33,000
+Angiosperms differ from other plants in that
+
+121
+00:05:33,000 --> 00:05:36,000
+generations of its counterparts
+
+122
+00:05:36,000 --> 00:05:37,000
+Generations of so-called monoquilts
+
+123
+00:05:37,000 --> 00:05:39,000
+very very short
+
+124
+00:05:39,000 --> 00:05:41,000
+For example, this is the male reproductive organs
+
+125
+00:05:41,000 --> 00:05:44,000
+female reproductive organ male is anther
+
+126
+00:05:44,000 --> 00:05:46,000
+Then the female word is
+
+127
+00:05:46,000 --> 00:05:48,000
+match it in the fat
+
+128
+00:05:48,000 --> 00:05:52,000
+Then when the anther goes through a split
+
+129
+00:05:52,000 --> 00:05:54,000
+produce pollen
+
+130
+00:05:54,000 --> 00:05:56,000
+androgenic plant
+
+131
+00:05:56,000 --> 00:05:58,000
+So its implant body stage
+
+132
+00:05:58,000 --> 00:06:00,000
+just a very short time
+
+133
+00:06:00,000 --> 00:06:02,600
+Then the embryo sac of the embryo pig
+
+134
+00:06:02,600 --> 00:06:04,100
+It is the body of the partner
+
+135
+00:06:04,100 --> 00:06:05,400
+it has eggs in it
+
+136
+00:06:05,400 --> 00:06:07,700
+and finally
+
+137
+00:06:07,700 --> 00:06:10,400
+When there is a so-called thin powder effect
+
+138
+00:06:10,400 --> 00:06:12,100
+pollen hall
+
+139
+00:06:12,100 --> 00:06:14,200
+From this pollen will be produced the pollen hall
+
+140
+00:06:14,200 --> 00:06:15,900
+Finally put it two fine packages
+
+141
+00:06:15,900 --> 00:06:18,900
+Sent to embryonic pigs to complete double lean muscle
+
+142
+00:06:18,900 --> 00:06:20,600
+it's a whole process
+
+143
+00:06:20,600 --> 00:06:22,500
+The last skinny egg
+
+144
+00:06:22,500 --> 00:06:25,400
+it will continue to develop into a planting
+
+145
+00:06:25,400 --> 00:06:28,600
+This is a life history of the whole plant
+
+146
+00:06:28,800 --> 00:06:30,000
+so in
+
+147
+00:06:30,000 --> 00:06:31,100
+let's introduce
+
+148
+00:06:31,100 --> 00:06:32,400
+whole plant reproductive system
+
+149
+00:06:32,400 --> 00:06:33,800
+I will probably split it into two parts
+
+150
+00:06:33,800 --> 00:06:35,100
+introduce to you
+
+151
+00:06:35,100 --> 00:06:37,200
+The first is the sexual reproductive organs of plants
+
+152
+00:06:37,200 --> 00:06:40,800
+It is the growth and differentiation of flower teeth
+
+153
+00:06:40,800 --> 00:06:43,900
+For example, flower formation and structure
+
+154
+00:06:43,900 --> 00:06:46,800
+Huaya's clones and flower organs
+
+155
+00:06:46,800 --> 00:06:48,200
+The second one will introduce to you
+
+156
+00:06:48,200 --> 00:06:50,300
+The so-called lean powder effect of plants
+
+157
+00:06:50,300 --> 00:06:51,900
+these partners
+
+158
+00:06:51,900 --> 00:06:54,700
+For example, pollen and the formation of embryonic pigs
+
+159
+00:06:54,700 --> 00:06:56,100
+There is also the effect of the whole thin powder
+
+160
+00:06:56,100 --> 00:06:58,200
+So it's a process of selfing
+
+161
+00:07:00,000 --> 00:07:05,000
+Wait a minute and you'll know there's something good if you see me
+
+162
+00:07:08,000 --> 00:07:10,000
+I want to introduce you to one
+
+163
+00:07:10,000 --> 00:07:12,000
+This is an experimental material we made
+
+164
+00:07:12,000 --> 00:07:14,000
+called the Arab world
+
+165
+00:07:14,000 --> 00:07:15,000
+Arab world
+
+166
+00:07:15,000 --> 00:07:18,000
+It's what we say in terms of our plants
+
+167
+00:07:18,000 --> 00:07:19,000
+so-called model plants
+
+168
+00:07:19,000 --> 00:07:22,000
+like fruit flies or mice
+
+169
+00:07:22,000 --> 00:07:24,000
+or ant ants
+
+170
+00:07:24,000 --> 00:07:25,000
+These are model plants
+
+171
+00:07:25,000 --> 00:07:26,000
+but we plant
+
+172
+00:07:26,000 --> 00:07:28,000
+we are basically arabian
+
+173
+00:07:29,000 --> 00:07:30,000
+why it is
+
+174
+00:07:30,000 --> 00:07:32,000
+its economy is very small
+
+175
+00:07:32,000 --> 00:07:34,000
+The second its sequencing is done
+
+176
+00:07:34,000 --> 00:07:35,000
+The third
+
+177
+00:07:35,000 --> 00:07:38,000
+Because all the scientists all over the world
+
+178
+00:07:38,000 --> 00:07:40,000
+use this as plant material
+
+179
+00:07:40,000 --> 00:07:42,000
+So there are quite a few resources
+
+180
+00:07:42,000 --> 00:07:44,000
+or Internet information
+
+181
+00:07:44,000 --> 00:07:45,000
+you can find
+
+182
+00:07:45,000 --> 00:07:46,000
+Another one is
+
+183
+00:07:46,000 --> 00:07:48,000
+it has many of us now
+
+184
+00:07:48,000 --> 00:07:50,000
+so-called insertion with TDNA
+
+185
+00:07:50,000 --> 00:07:52,000
+mutants
+
+186
+00:07:52,000 --> 00:07:53,000
+it's okay i'll wait
+
+187
+00:07:53,000 --> 00:07:55,000
+What is TDNA insertion?
+
+188
+00:07:55,000 --> 00:07:57,000
+There are other mutants
+
+189
+00:07:57,000 --> 00:08:00,000
+So when we have a mutant strain of this gene
+
+190
+00:08:00,000 --> 00:08:02,000
+We know which gene it plugged in
+
+191
+00:08:02,000 --> 00:08:04,000
+we see what it does
+
+192
+00:08:04,000 --> 00:08:06,000
+We can probably infer the function of this gene
+
+193
+00:08:06,000 --> 00:08:10,000
+So genes get from this information
+
+194
+00:08:10,000 --> 00:08:14,000
+So let it be over the past few years
+
+195
+00:08:14,000 --> 00:08:15,000
+about ten years
+
+196
+00:08:15,000 --> 00:08:18,000
+It makes a very nice plant material
+
+197
+00:08:18,000 --> 00:08:20,000
+We can study the genes of plants
+
+198
+00:08:20,000 --> 00:08:23,000
+participate in the development of, for example, pollen
+
+199
+00:08:23,000 --> 00:08:25,000
+Or bear the growth of graft
+
+200
+00:08:25,000 --> 00:08:28,000
+even pollination and seed growth
+
+201
+00:08:29,000 --> 00:08:31,000
+For a long time what we called
+
+202
+00:08:31,000 --> 00:08:34,000
+We all know that DNA is our genetic material
+
+203
+00:08:34,000 --> 00:08:36,000
+It's a gene it makes a Mason
+
+204
+00:08:36,000 --> 00:08:39,000
+Rapidly follow RNA and finally become protein
+
+205
+00:08:39,000 --> 00:08:41,000
+However, in past research we can find
+
+206
+00:08:41,000 --> 00:08:43,000
+maybe it's not that simple
+
+207
+00:08:43,000 --> 00:08:45,000
+Possibly RNA could also be a genetic material
+
+208
+00:08:45,000 --> 00:08:47,000
+For example, our teacher Lin Nazhen
+
+209
+00:08:47,000 --> 00:08:50,000
+The so-called headquarters he discovered
+
+210
+00:08:50,000 --> 00:08:53,000
+Bamboo coelovirus
+
+211
+00:08:53,000 --> 00:08:54,000
+it is RNA
+
+212
+00:08:54,000 --> 00:08:56,000
+but it can be reversed into DNA
+
+213
+00:08:56,000 --> 00:08:58,000
+Then turn into RNA and donate into protein
+
+214
+00:08:58,000 --> 00:08:59,000
+This is a
+
+215
+00:09:00,000 --> 00:09:02,000
+Another current study found that the so-called
+
+216
+00:09:02,000 --> 00:09:04,000
+Generics related to production
+
+217
+00:09:04,000 --> 00:09:06,000
+none of your genes will change
+
+218
+00:09:06,000 --> 00:09:08,000
+you may see through your
+
+219
+00:09:08,000 --> 00:09:10,000
+change your DNA
+
+220
+00:09:10,000 --> 00:09:12,000
+fake plan
+
+221
+00:09:12,000 --> 00:09:14,000
+or something in your DNA
+
+222
+00:09:14,000 --> 00:09:16,000
+protein with it
+
+223
+00:09:16,000 --> 00:09:18,000
+False project of binding protein
+
+224
+00:09:18,000 --> 00:09:20,000
+Or use sexual expression to control
+
+225
+00:09:20,000 --> 00:09:22,000
+gene expression
+
+226
+00:09:22,000 --> 00:09:24,000
+So it's not just us anymore
+
+227
+00:09:24,000 --> 00:09:26,000
+It is common to think that such a situation
+
+228
+00:09:26,000 --> 00:09:28,000
+This is probably a cartoon
+
+229
+00:09:28,000 --> 00:09:30,000
+The picture can tell you about
+
+230
+00:09:30,000 --> 00:09:32,000
+how does the gene go
+
+231
+00:09:32,000 --> 00:09:34,000
+Execute and command
+
+232
+00:09:34,000 --> 00:09:36,000
+Each of these is based on human genes
+
+233
+00:09:36,000 --> 00:09:38,000
+it has a nucleus
+
+234
+00:09:38,000 --> 00:09:40,000
+cell nucleus in plant
+
+235
+00:09:40,000 --> 00:09:42,000
+Another is the plant nucleus
+
+236
+00:09:42,000 --> 00:09:44,000
+Chromosomes inside
+
+237
+00:09:44,000 --> 00:09:46,000
+What about each of our chromosomes
+
+238
+00:09:46,000 --> 00:09:48,000
+You see, this is equivalent to
+
+239
+00:09:48,000 --> 00:09:50,000
+the whole gene it winds a
+
+240
+00:09:50,000 --> 00:09:52,000
+A protein called Histone
+
+241
+00:09:52,000 --> 00:09:54,000
+This is the DNA
+
+242
+00:09:54,000 --> 00:09:56,000
+DNA coils with
+
+243
+00:09:56,000 --> 00:09:58,000
+these inherited messages
+
+244
+00:09:58,000 --> 00:10:00,000
+we can call it gene
+
+245
+00:10:00,000 --> 00:10:03,000
+It then acts via detour
+
+246
+00:10:04,000 --> 00:10:05,000
+it seems a little slow
+
+247
+00:10:05,000 --> 00:10:07,000
+that has a protein
+
+248
+00:10:07,000 --> 00:10:10,000
+It does this thing called DNA RNA polymerase
+
+249
+00:10:10,000 --> 00:10:13,000
+it opens up this genetic structure
+
+250
+00:10:13,000 --> 00:10:15,000
+Then started doing some messenger RNA
+
+251
+00:10:15,000 --> 00:10:17,000
+Then the messenger RNA of these messages
+
+252
+00:10:17,000 --> 00:10:19,000
+then start doing it slowly
+
+253
+00:10:19,000 --> 00:10:23,000
+It is a way to use ATGC to pair with each other
+
+254
+00:10:23,000 --> 00:10:27,000
+to allow it to produce a message RNA like this
+
+255
+00:10:28,000 --> 00:10:30,000
+These last message RNA
+
+256
+00:10:30,000 --> 00:10:33,000
+and then at the end it goes through some chopping
+
+257
+00:10:33,000 --> 00:10:34,000
+called messenger RNA
+
+258
+00:10:34,000 --> 00:10:35,000
+After the final cut
+
+259
+00:10:35,000 --> 00:10:40,000
+it will start sending to the cytoplasm
+
+260
+00:10:40,000 --> 00:10:42,000
+This is what it is in this cell
+
+261
+00:10:42,000 --> 00:10:43,000
+it cuts some
+
+262
+00:10:43,000 --> 00:10:44,000
+put some unwanted things
+
+263
+00:10:44,000 --> 00:10:48,000
+Or we call intron to remove it
+
+264
+00:10:48,000 --> 00:10:50,000
+Finally turned into a function with
+
+265
+00:10:50,000 --> 00:10:54,000
+It travels from the nucleus to the cytoplasm
+
+266
+00:10:54,000 --> 00:10:57,000
+Then in the cytoplasm it will be called by a
+
+267
+00:10:57,000 --> 00:10:59,000
+ribexon the concrete
+
+268
+00:11:00,000 --> 00:11:01,040
+These two electric machines
+
+269
+00:11:01,040 --> 00:11:02,400
+Then it's called Rapidzone
+
+270
+00:11:02,400 --> 00:11:04,340
+This is a ribose base structure
+
+271
+00:11:04,340 --> 00:11:07,320
+your message it goes along this
+
+272
+00:11:07,320 --> 00:11:09,200
+The ribose base is right along the top
+
+273
+00:11:09,200 --> 00:11:10,160
+there are different things
+
+274
+00:11:10,160 --> 00:11:12,320
+Will put these Transfer RNA above
+
+275
+00:11:12,320 --> 00:11:13,840
+have brought a special IG nucleic acid
+
+276
+00:11:13,840 --> 00:11:15,360
+It will recognize every Code
+
+277
+00:11:15,360 --> 00:11:17,880
+In this way, a protein is finally formed
+
+278
+00:11:17,880 --> 00:11:20,720
+it's a whole process
+
+279
+00:11:23,720 --> 00:11:25,800
+so i think
+
+280
+00:11:25,800 --> 00:11:28,880
+So the growth of the sexual biomass of the whole plant
+
+281
+00:11:28,880 --> 00:11:29,880
+development we want to say
+
+282
+00:11:29,880 --> 00:11:31,280
+The first is to introduce
+
+283
+00:11:31,280 --> 00:11:32,840
+flowering of plants
+
+284
+00:11:32,840 --> 00:11:34,920
+its whole bloom
+
+285
+00:11:34,920 --> 00:11:37,520
+still formed
+
+286
+00:11:37,520 --> 00:11:40,840
+whole plant regulator
+
+287
+00:11:40,840 --> 00:11:42,240
+probably the flowering of the plant
+
+288
+00:11:42,240 --> 00:11:43,640
+by two main factors
+
+289
+00:11:43,640 --> 00:11:45,680
+an intrinsic factor
+
+290
+00:11:45,680 --> 00:11:48,080
+It means that plants must reach a certain stage
+
+291
+00:11:48,080 --> 00:11:49,560
+like all animals
+
+292
+00:11:49,560 --> 00:11:50,560
+must be mature
+
+293
+00:11:50,560 --> 00:11:52,360
+it can bloom
+
+294
+00:11:52,360 --> 00:11:55,280
+For example, these processes have gene expression for flowering
+
+295
+00:11:55,280 --> 00:11:56,720
+or hormonal control
+
+296
+00:11:56,720 --> 00:11:58,520
+Another external factor
+
+297
+00:11:58,520 --> 00:11:59,520
+For example, to have
+
+298
+00:12:00,000 --> 00:12:02,000
+Length, such as photoperiod
+
+299
+00:12:02,000 --> 00:12:04,000
+or a low temperature
+
+300
+00:12:04,000 --> 00:12:05,000
+The so-called vernalization effect
+
+301
+00:12:05,000 --> 00:12:08,000
+The vernalization effect is mainly in the 1st and 2nd year
+
+302
+00:12:08,000 --> 00:12:09,000
+what about a plant
+
+303
+00:12:09,000 --> 00:12:12,000
+It must undergo a low temperature treatment in seedlings
+
+304
+00:12:12,000 --> 00:12:16,000
+later its plants will bloom
+
+305
+00:12:16,000 --> 00:12:18,000
+throughout this process
+
+306
+00:12:18,000 --> 00:12:19,000
+From this picture you can find
+
+307
+00:12:19,000 --> 00:12:22,000
+Whether it's biological clock, photoperiod, growth and delivery
+
+308
+00:12:22,000 --> 00:12:26,000
+Finally, these messages will be
+
+309
+00:12:26,000 --> 00:12:29,000
+are concentrated in a few major ones
+
+310
+00:12:29,000 --> 00:12:30,000
+gene above
+
+311
+00:12:30,000 --> 00:12:32,000
+controlled by these genes
+
+312
+00:12:32,000 --> 00:12:35,000
+Flower formation throughout the plant
+
+313
+00:12:35,000 --> 00:12:38,000
+The development of the whole flower is probably from
+
+314
+00:12:38,000 --> 00:12:41,000
+the whole top the whole top of the branch
+
+315
+00:12:41,000 --> 00:12:44,000
+All top inflorescence clones
+
+316
+00:12:44,000 --> 00:12:47,000
+it will form this flower tooth clone
+
+317
+00:12:47,000 --> 00:12:49,000
+That is Flameris etc.
+
+318
+00:12:49,000 --> 00:12:50,000
+this is the inflorescence
+
+319
+00:12:50,000 --> 00:12:52,000
+Then this is the clone with flower teeth
+
+320
+00:12:52,000 --> 00:12:54,000
+Then grow with infinity
+
+321
+00:12:54,000 --> 00:12:57,000
+For the branches of that plant
+
+322
+00:12:57,000 --> 00:13:00,000
+Its flower teeth are basically limited growth
+
+323
+00:13:00,000 --> 00:13:01,800
+when this place forms a flower
+
+324
+00:13:01,800 --> 00:13:03,000
+it stops growing
+
+325
+00:13:03,600 --> 00:13:06,200
+So in the end, different flower vessels will be formed
+
+326
+00:13:06,600 --> 00:13:08,600
+like, say, primitive cells
+
+327
+00:13:08,600 --> 00:13:10,800
+Finally there are the primitive cells of this flower organ
+
+328
+00:13:10,800 --> 00:13:12,200
+finally form the whole flower
+
+329
+00:13:12,200 --> 00:13:14,400
+The structure of this flower is probably like this
+
+330
+00:13:14,800 --> 00:13:17,800
+Let's talk about the model plant in the Arabian world
+
+331
+00:13:18,200 --> 00:13:21,200
+It has about four from the outside to the inside
+
+332
+00:13:21,600 --> 00:13:23,800
+There are four flowers
+
+333
+00:13:24,600 --> 00:13:26,600
+then there are four petals
+
+334
+00:13:26,800 --> 00:13:29,000
+But there are six stamens in the middle
+
+335
+00:13:29,400 --> 00:13:32,800
+Finally in the middle are two fused cores
+
+336
+00:13:32,800 --> 00:13:34,200
+it's a typical
+
+337
+00:13:34,200 --> 00:13:35,200
+everyone remember
+
+338
+00:13:35,200 --> 00:13:37,200
+wait a minute it will have a little quiz
+
+339
+00:13:37,200 --> 00:13:38,600
+little quiz
+
+340
+00:13:38,800 --> 00:13:39,800
+tell everyone
+
+341
+00:13:40,800 --> 00:13:43,200
+Genes involved in flowering flower buds
+
+342
+00:13:43,200 --> 00:13:46,600
+For example, this gene that controls flower bud formation
+
+343
+00:13:46,600 --> 00:13:49,000
+There are two clones and flowers
+
+344
+00:13:49,400 --> 00:13:51,000
+then or bowl
+
+345
+00:13:51,000 --> 00:13:52,800
+Bowl control over fat development
+
+346
+00:13:52,800 --> 00:13:55,600
+And how do we know which genes
+
+347
+00:13:55,800 --> 00:13:57,400
+control the whole process
+
+348
+00:13:57,400 --> 00:13:59,600
+The most important thing is the mutant strain we just talked about
+
+349
+00:14:00,000 --> 00:14:02,000
+When you have a mutation in one of your genes
+
+350
+00:14:02,000 --> 00:14:04,720
+You can find that the shape of the flower has changed
+
+351
+00:14:04,720 --> 00:14:06,720
+For example, it has more stamens
+
+352
+00:14:06,720 --> 00:14:09,120
+or more petals
+
+353
+00:14:09,120 --> 00:14:10,520
+you know the gene
+
+354
+00:14:10,520 --> 00:14:12,600
+presumably involved in the process
+
+355
+00:14:12,600 --> 00:14:14,240
+So many scientists
+
+356
+00:14:14,240 --> 00:14:15,920
+After slowly accumulating
+
+357
+00:14:15,920 --> 00:14:18,120
+By now we probably know that there are
+
+358
+00:14:18,120 --> 00:14:19,520
+This is the whole Arab world
+
+359
+00:14:19,520 --> 00:14:21,360
+From planting all the way to the whole flower
+
+360
+00:14:21,360 --> 00:14:22,200
+this way of planting
+
+361
+00:14:22,200 --> 00:14:24,320
+such as controlling flower buds
+
+362
+00:14:24,320 --> 00:14:26,280
+you don't want to go
+
+363
+00:14:26,280 --> 00:14:27,560
+you just go to the Internet to check
+
+364
+00:14:27,560 --> 00:14:28,480
+probably many
+
+365
+00:14:28,480 --> 00:14:30,200
+Basically two types
+
+366
+00:14:30,200 --> 00:14:33,800
+The first is to promote the formation of flower bud differentiation tissue
+
+367
+00:14:33,800 --> 00:14:35,680
+For example like LIFI
+
+368
+00:14:35,680 --> 00:14:36,880
+or AP2
+
+369
+00:14:36,880 --> 00:14:38,160
+these things
+
+370
+00:14:38,160 --> 00:14:39,360
+these genes
+
+371
+00:14:39,360 --> 00:14:42,360
+Another one that maintains the flower buds into tissue
+
+372
+00:14:42,360 --> 00:14:43,560
+Let's say this is the Arab world
+
+373
+00:14:43,560 --> 00:14:46,720
+traditional one normal phenotype
+
+374
+00:14:46,720 --> 00:14:49,520
+But you help you with a gene called LIFI
+
+375
+00:14:49,520 --> 00:14:51,720
+when like a leaf
+
+376
+00:14:51,720 --> 00:14:54,320
+it was originally supposed to be where the flower was
+
+377
+00:14:54,320 --> 00:14:56,320
+it becomes like a leaf
+
+378
+00:14:56,320 --> 00:14:57,800
+So you know why it's called LIFI
+
+379
+00:14:57,800 --> 00:14:59,640
+LIFI is like a leaf
+
+380
+00:15:00,000 --> 00:15:03,000
+flower tooth formation
+
+381
+00:15:03,000 --> 00:15:05,000
+Also, for example, this
+
+382
+00:15:05,000 --> 00:15:07,000
+When you find out with another
+
+383
+00:15:07,000 --> 00:15:10,000
+it should stop flowering in this place
+
+384
+00:15:10,000 --> 00:15:12,000
+But with Dang LIFI and another
+
+385
+00:15:12,000 --> 00:15:14,000
+they keep growing
+
+386
+00:15:14,000 --> 00:15:16,000
+So you say that when these two genes can
+
+387
+00:15:16,000 --> 00:15:17,000
+just under control
+
+388
+00:15:17,000 --> 00:15:19,000
+This place should form a flower later
+
+389
+00:15:19,000 --> 00:15:20,000
+should stop
+
+390
+00:15:20,000 --> 00:15:21,000
+But when these two genes are mutated
+
+391
+00:15:21,000 --> 00:15:23,000
+it can keep growing
+
+392
+00:15:23,000 --> 00:15:24,000
+Another one like Terminal Flower
+
+393
+00:15:24,000 --> 00:15:26,000
+That is to say, the gene
+
+394
+00:15:26,000 --> 00:15:28,000
+It just mutates there
+
+395
+00:15:28,000 --> 00:15:30,000
+there will be no such flowers
+
+396
+00:15:30,000 --> 00:15:33,000
+so this is a whole you can go and see
+
+397
+00:15:33,000 --> 00:15:36,000
+the first one so this is the control flower tooth
+
+398
+00:15:36,000 --> 00:15:38,000
+But what about after the flower teeth are born?
+
+399
+00:15:38,000 --> 00:15:39,000
+there will be flowers
+
+400
+00:15:39,000 --> 00:15:41,000
+flower organ
+
+401
+00:15:41,000 --> 00:15:42,000
+have a model
+
+402
+00:15:42,000 --> 00:15:43,000
+Called ABC model
+
+403
+00:15:43,000 --> 00:15:45,000
+is very famous
+
+404
+00:15:45,000 --> 00:15:46,000
+look at
+
+405
+00:15:46,000 --> 00:15:48,000
+A gene controls the second round
+
+406
+00:15:48,000 --> 00:15:49,000
+flower vessel formation
+
+407
+00:15:49,000 --> 00:15:51,000
+A gene alone controls the first round
+
+408
+00:15:51,000 --> 00:15:53,000
+The B gene controls the formation of the second and third rounds
+
+409
+00:15:53,000 --> 00:15:54,000
+flower vessel formation
+
+410
+00:15:54,000 --> 00:15:56,000
+C gene controls third and fourth rounds
+
+411
+00:15:56,000 --> 00:15:57,000
+flower vessel formation
+
+412
+00:15:57,000 --> 00:15:59,000
+A gene alone controls the fourth round
+
+413
+00:16:00,000 --> 00:16:01,000
+Resist each other
+
+414
+00:16:01,000 --> 00:16:02,000
+who can understand
+
+415
+00:16:02,000 --> 00:16:03,000
+probably many do not understand
+
+416
+00:16:03,000 --> 00:16:05,000
+But people use scientists to use this way
+
+417
+00:16:05,000 --> 00:16:06,000
+oh
+
+418
+00:16:06,000 --> 00:16:09,000
+A gene alone controls the first round
+
+419
+00:16:09,000 --> 00:16:11,000
+then B gene
+
+420
+00:16:11,000 --> 00:16:15,000
+B gene controls the first and second rounds
+
+421
+00:16:15,000 --> 00:16:16,000
+second round
+
+422
+00:16:16,000 --> 00:16:18,000
+So use something like this
+
+423
+00:16:18,000 --> 00:16:20,000
+a mechanism for this
+
+424
+00:16:20,000 --> 00:16:22,000
+Then the C gene alone
+
+425
+00:16:22,000 --> 00:16:23,000
+Control is the fourth round
+
+426
+00:16:23,000 --> 00:16:25,000
+Xiong Rui
+
+427
+00:16:25,000 --> 00:16:28,000
+But the A genes neutralize each other
+
+428
+00:16:28,000 --> 00:16:30,000
+That is, when the C gene is broken
+
+429
+00:16:30,000 --> 00:16:31,000
+it occupies
+
+430
+00:16:31,000 --> 00:16:32,000
+Gene A came running
+
+431
+00:16:32,000 --> 00:16:35,000
+Occupies the position of the A gene
+
+432
+00:16:35,000 --> 00:16:36,000
+remember
+
+433
+00:16:36,000 --> 00:16:38,000
+ok let's take the test now
+
+434
+00:16:38,000 --> 00:16:41,000
+There will be prizes in the exam
+
+435
+00:16:49,000 --> 00:16:51,000
+This is what I was looking for today
+
+436
+00:16:51,000 --> 00:16:54,000
+please us yesterday
+
+437
+00:16:54,000 --> 00:16:57,000
+An administrator, Tingyu, he did it
+
+438
+00:16:57,000 --> 00:16:59,000
+This is when our campus is open
+
+439
+00:17:00,000 --> 00:17:01,960
+Shi Hulan's organization seconds
+
+440
+00:17:01,960 --> 00:17:04,120
+guessed right
+
+441
+00:17:04,120 --> 00:17:06,680
+Answer the question correctly
+
+442
+00:17:06,680 --> 00:17:11,560
+Okay, let's see when the A gene is mutated
+
+443
+00:17:11,560 --> 00:17:12,960
+what will happen to it
+
+444
+00:17:12,960 --> 00:17:14,600
+so tell who can raise their hand
+
+445
+00:17:14,600 --> 00:17:17,400
+tell me what the first round turns out to be
+
+446
+00:17:17,400 --> 00:17:19,600
+what happens in the first round
+
+447
+00:17:19,600 --> 00:17:22,120
+good
+
+448
+00:17:22,120 --> 00:17:25,120
+ok so what will it be
+
+449
+00:17:25,120 --> 00:17:28,320
+Xiong Rui, Ci Rui, right?
+
+450
+00:17:28,640 --> 00:17:32,040
+Okay, the second one, you raised your hand, you have to finish it
+
+451
+00:17:32,040 --> 00:17:34,040
+What about the second round?
+
+452
+00:17:37,560 --> 00:17:40,560
+What is BC gold, what will mutual pursuit be
+
+453
+00:17:45,320 --> 00:17:48,080
+BC Jin Xiongrui at any time, right?
+
+454
+00:17:48,080 --> 00:17:50,080
+You have to tell me Xiongrui, Cirui, flower petals
+
+455
+00:17:50,080 --> 00:17:52,080
+What about the third one?
+
+456
+00:17:53,720 --> 00:17:56,720
+good great fourth
+
+457
+00:17:56,720 --> 00:17:58,720
+Okay, so if you don't know what it grows like
+
+458
+00:18:00,000 --> 00:18:04,160
+So this is such a plant
+
+459
+00:18:04,160 --> 00:18:08,640
+Come on, Mr. Zhou, please help me to give it to him
+
+460
+00:18:08,640 --> 00:18:13,440
+Okay, so you can find the words where the petals should be
+
+461
+00:18:13,440 --> 00:18:15,040
+it is now xiong rui
+
+462
+00:18:15,040 --> 00:18:18,000
+So you can't tell it's not quite a flower at all
+
+463
+00:18:18,000 --> 00:18:21,760
+We have A B C three golds and two chances
+
+464
+00:18:21,760 --> 00:18:25,760
+The second one, does anyone know when B gold has a mutation?
+
+465
+00:18:25,760 --> 00:18:27,640
+what happens in the first round
+
+466
+00:18:28,600 --> 00:18:30,600
+Hurry up, it's beautiful
+
+467
+00:18:30,600 --> 00:18:33,400
+It's been a long time today and it's blooming
+
+468
+00:18:33,400 --> 00:18:36,520
+Hands up, what's the first round?
+
+469
+00:18:37,880 --> 00:18:39,400
+good second round
+
+470
+00:18:40,760 --> 00:18:41,880
+third
+
+471
+00:18:46,520 --> 00:18:49,080
+Xiong Rui
+
+472
+00:18:51,400 --> 00:18:53,880
+Fourth, well, I'll give you another chance
+
+473
+00:18:54,840 --> 00:18:56,840
+Cirui good
+
+474
+00:18:56,840 --> 00:19:00,040
+OK this is the flower you think it looks like a flower
+
+475
+00:19:00,000 --> 00:19:01,000
+come to you
+
+476
+00:19:05,000 --> 00:19:08,000
+good third
+
+477
+00:19:08,000 --> 00:19:10,000
+last chance sorry
+
+478
+00:19:10,000 --> 00:19:12,000
+only one left
+
+479
+00:19:12,000 --> 00:19:16,000
+Advertise our position willing to open
+
+480
+00:19:16,000 --> 00:19:17,000
+every year there will be this
+
+481
+00:19:17,000 --> 00:19:19,000
+Welcome to our office next year
+
+482
+00:19:19,000 --> 00:19:21,000
+you can get it, you can get it
+
+483
+00:19:21,000 --> 00:19:24,000
+Not getting it, it may take a little EVER to change it
+
+484
+00:19:24,000 --> 00:19:26,000
+good third suck
+
+485
+00:19:26,000 --> 00:19:28,000
+When Sucking Mutations
+
+486
+00:19:28,000 --> 00:19:30,000
+What would be the mutation A
+
+487
+00:19:30,000 --> 00:19:32,000
+what's the first one at least raise your hand
+
+488
+00:19:32,000 --> 00:19:33,000
+good
+
+489
+00:19:37,000 --> 00:19:39,000
+flower two are you sure
+
+490
+00:19:48,000 --> 00:19:50,000
+What about the second one?
+
+491
+00:19:54,000 --> 00:19:57,000
+Let's see what it looks like
+
+492
+00:19:57,000 --> 00:20:00,000
+it's cool there are flowers in flowers
+
+493
+00:20:00,000 --> 00:20:03,680
+If you are running the original hydraulic power at home today
+
+494
+00:20:03,680 --> 00:20:05,880
+Then you want to pre-summary
+
+495
+00:20:05,880 --> 00:20:07,480
+This would be a great plant material
+
+496
+00:20:07,480 --> 00:20:08,080
+Why
+
+497
+00:20:08,080 --> 00:20:09,480
+it can only be bought like you
+
+498
+00:20:09,480 --> 00:20:11,080
+you don't produce seeds
+
+499
+00:20:11,080 --> 00:20:12,920
+but there are flowers in your flowers
+
+500
+00:20:12,920 --> 00:20:13,960
+isn't it beautiful
+
+501
+00:20:13,960 --> 00:20:16,080
+it's a pretty good one
+
+502
+00:20:16,080 --> 00:20:18,360
+So this is the ABC gene
+
+503
+00:20:18,360 --> 00:20:20,640
+But scientists never give up
+
+504
+00:20:20,640 --> 00:20:22,040
+never satisfied
+
+505
+00:20:22,040 --> 00:20:23,040
+they think so
+
+506
+00:20:23,040 --> 00:20:26,240
+Because after you mutate all the ABC genes
+
+507
+00:20:26,240 --> 00:20:28,080
+but put it all in the plant
+
+508
+00:20:28,080 --> 00:20:28,840
+everyone has performance
+
+509
+00:20:29,000 --> 00:20:30,680
+you didn't turn it into a flower
+
+510
+00:20:30,680 --> 00:20:32,400
+later they found out
+
+511
+00:20:32,400 --> 00:20:34,080
+BC gene
+
+512
+00:20:34,080 --> 00:20:36,600
+when it's going to work
+
+513
+00:20:36,600 --> 00:20:37,200
+they will find
+
+514
+00:20:37,200 --> 00:20:39,840
+There is another group of genes
+
+515
+00:20:39,840 --> 00:20:42,400
+called SEP-123
+
+516
+00:20:42,400 --> 00:20:43,760
+These three genes are very similar
+
+517
+00:20:43,760 --> 00:20:45,440
+they are going to work together
+
+518
+00:20:45,440 --> 00:20:47,640
+When your three genes
+
+519
+00:20:47,640 --> 00:20:49,840
+After SEP-123 is mutated
+
+520
+00:20:49,840 --> 00:20:53,560
+The whole plant will turn into a flower evil
+
+521
+00:20:53,560 --> 00:20:54,760
+so they finally know
+
+522
+00:20:54,760 --> 00:20:56,000
+at this place
+
+523
+00:20:56,000 --> 00:20:58,720
+In fact, the role of the BC gene
+
+524
+00:20:58,720 --> 00:20:59,800
+need to use
+
+525
+00:21:00,000 --> 00:21:01,400
+Involvement of the E gene
+
+526
+00:21:01,720 --> 00:21:03,920
+So they thought it was a very important
+
+527
+00:21:03,920 --> 00:21:07,720
+For example, this is a normal flower in the Arab world
+
+528
+00:21:08,480 --> 00:21:11,000
+This is a mutation in the E gene
+
+529
+00:21:11,000 --> 00:21:14,000
+you take it apart we say outside in
+
+530
+00:21:14,000 --> 00:21:15,400
+four flowers two
+
+531
+00:21:16,280 --> 00:21:17,400
+four petals
+
+532
+00:21:17,400 --> 00:21:18,600
+six stamens
+
+533
+00:21:18,840 --> 00:21:21,640
+The ratio of two fused hearts
+
+534
+00:21:21,640 --> 00:21:25,360
+But you can find that it looks exactly like Hua Er
+
+535
+00:21:26,040 --> 00:21:29,520
+This looks a lot like a mutation in the BC gene
+
+536
+00:21:29,680 --> 00:21:30,840
+so they know
+
+537
+00:21:30,840 --> 00:21:35,480
+The BC gene must be together with the E gene in the future
+
+538
+00:21:35,480 --> 00:21:36,280
+they only use
+
+539
+00:21:36,280 --> 00:21:39,360
+so you can see that it's not just a morphological change
+
+540
+00:21:39,360 --> 00:21:41,880
+When your gene is mutated
+
+541
+00:21:41,880 --> 00:21:43,440
+on our exterior
+
+542
+00:21:43,440 --> 00:21:45,720
+You see we're using an electron microscope
+
+543
+00:21:45,720 --> 00:21:47,080
+Look at the electron microscope
+
+544
+00:21:47,080 --> 00:21:48,960
+In normal Wildtide
+
+545
+00:21:48,960 --> 00:21:51,280
+normal bead words
+
+546
+00:21:51,280 --> 00:21:54,640
+Its flowers look like they have blowholes on them
+
+547
+00:21:54,640 --> 00:21:55,440
+it's green
+
+548
+00:21:55,440 --> 00:21:57,560
+You can find that it has pores for photosynthesis
+
+549
+00:21:57,560 --> 00:21:58,960
+Its petal shape is like this
+
+550
+00:21:58,960 --> 00:21:59,960
+but when you
+
+551
+00:22:00,000 --> 00:22:02,300
+When a gene is mutated
+
+552
+00:22:02,300 --> 00:22:06,800
+you look like flower even in the petals
+
+553
+00:22:06,800 --> 00:22:08,700
+So you're not only a waigan change
+
+554
+00:22:08,700 --> 00:22:11,200
+You change even its very nature
+
+555
+00:22:11,200 --> 00:22:13,600
+So in the end people are now
+
+556
+00:22:13,600 --> 00:22:16,000
+There is a called ABCE Model
+
+557
+00:22:16,000 --> 00:22:19,800
+For example, for the first one this time, you want to control the second petal of the flower
+
+558
+00:22:19,800 --> 00:22:24,400
+You need the ABCE gene to make different combinations
+
+559
+00:22:24,400 --> 00:22:26,200
+I don't think there is any need to remember this.
+
+560
+00:22:26,200 --> 00:22:28,300
+But that is to say it has a
+
+561
+00:22:28,700 --> 00:22:31,900
+So is there something else involved?
+
+562
+00:22:31,900 --> 00:22:32,500
+Yes
+
+563
+00:22:32,500 --> 00:22:34,500
+Because there are still people in the land and land area who have discovered
+
+564
+00:22:34,500 --> 00:22:36,700
+Others may have other proteins involved
+
+565
+00:22:36,700 --> 00:22:37,700
+for example
+
+566
+00:22:38,900 --> 00:22:41,800
+When your other gene is mutated
+
+567
+00:22:41,800 --> 00:22:44,300
+You know why it's called Superman
+
+568
+00:22:44,300 --> 00:22:46,500
+Because it has a lot of stamens
+
+569
+00:22:46,500 --> 00:22:49,400
+When your Superman gene mutates
+
+570
+00:22:49,400 --> 00:22:51,300
+Its stamens will increase
+
+571
+00:22:51,300 --> 00:22:53,300
+Or if you look at this, it has
+
+572
+00:22:53,300 --> 00:22:54,300
+it will have excessive flowering
+
+573
+00:22:54,300 --> 00:22:57,100
+Like this one we just should have a normal flower with
+
+574
+00:22:57,100 --> 00:22:58,100
+four petals
+
+575
+00:22:58,100 --> 00:23:00,100
+You can find it this florescence this
+
+576
+00:23:00,000 --> 00:23:00,720
+have changed
+
+577
+00:23:00,720 --> 00:23:03,000
+even this doesn't look like a flower at all
+
+578
+00:23:03,000 --> 00:23:05,360
+So this is all made of these mutant beads
+
+579
+00:23:05,360 --> 00:23:06,760
+research we can
+
+580
+00:23:06,760 --> 00:23:07,800
+we accumulate
+
+581
+00:23:07,800 --> 00:23:09,200
+we can slowly know
+
+582
+00:23:09,200 --> 00:23:11,680
+How do these genes get involved
+
+583
+00:23:11,680 --> 00:23:13,720
+the whole flower
+
+584
+00:23:13,720 --> 00:23:16,200
+Differentiation and development of flower buds
+
+585
+00:23:16,200 --> 00:23:18,320
+Even the formation of flower organs
+
+586
+00:23:18,320 --> 00:23:19,600
+the role they play
+
+587
+00:23:19,600 --> 00:23:22,200
+In fact, there is quite a lot of space
+
+588
+00:23:22,200 --> 00:23:24,840
+For young students who are interested
+
+589
+00:23:24,840 --> 00:23:26,320
+or other interested
+
+590
+00:23:26,320 --> 00:23:27,640
+and a big one
+
+591
+00:23:27,640 --> 00:23:29,680
+A space for research and development
+
+592
+00:23:29,920 --> 00:23:31,560
+The second one I will introduce to you
+
+593
+00:23:31,560 --> 00:23:33,680
+the so-called pollination of plants
+
+594
+00:23:33,680 --> 00:23:36,120
+What we can talk about first is the so-called configuration body
+
+595
+00:23:36,120 --> 00:23:38,000
+Formation of pollen exudation
+
+596
+00:23:38,000 --> 00:23:39,000
+pollination
+
+597
+00:23:39,000 --> 00:23:41,600
+and the mechanism of pollen tube growth
+
+598
+00:23:41,600 --> 00:23:44,920
+this is a whole plant
+
+599
+00:23:44,920 --> 00:23:47,320
+You can find from here to here
+
+600
+00:23:47,320 --> 00:23:49,160
+the most important is
+
+601
+00:23:49,160 --> 00:23:53,200
+diploid on this side
+
+602
+00:23:53,200 --> 00:23:56,320
+when you go through a deceleration split
+
+603
+00:23:56,360 --> 00:23:58,520
+your so-called
+
+604
+00:23:58,520 --> 00:24:00,000
+this is pollen
+
+605
+00:24:00,000 --> 00:24:02,000
+will form pollen
+
+606
+00:24:02,000 --> 00:24:04,000
+Pollen mother cells make pollen
+
+607
+00:24:04,000 --> 00:24:05,000
+pollen tube
+
+608
+00:24:05,000 --> 00:24:07,000
+This is the last and this is the embryo
+
+609
+00:24:07,000 --> 00:24:09,000
+The central cell will form a
+
+610
+00:24:09,000 --> 00:24:10,000
+so-called embryo sac
+
+611
+00:24:10,000 --> 00:24:11,000
+There are three anti-bamboo cells inside
+
+612
+00:24:11,000 --> 00:24:12,000
+a central cell
+
+613
+00:24:12,000 --> 00:24:13,000
+an egg
+
+614
+00:24:13,000 --> 00:24:15,000
+Next to it are two saprophytic cells
+
+615
+00:24:15,000 --> 00:24:16,000
+this is the last
+
+616
+00:24:16,000 --> 00:24:17,000
+it's a whole
+
+617
+00:24:17,000 --> 00:24:19,000
+throughout the developmental process
+
+618
+00:24:19,000 --> 00:24:20,000
+how do you know this situation
+
+619
+00:24:20,000 --> 00:24:22,000
+because it's still the same
+
+620
+00:24:22,000 --> 00:24:23,000
+Tubian Bamboo
+
+621
+00:24:23,000 --> 00:24:24,000
+so far
+
+622
+00:24:24,000 --> 00:24:26,000
+this is what we are talking about
+
+623
+00:24:26,000 --> 00:24:28,000
+In fact, you can see this in 2008
+
+624
+00:24:28,000 --> 00:24:29,000
+But over the past 10 years
+
+625
+00:24:29,000 --> 00:24:31,000
+more genes found
+
+626
+00:24:31,000 --> 00:24:32,000
+But first with this
+
+627
+00:24:32,000 --> 00:24:34,000
+in the thoracic stamen
+
+628
+00:24:34,000 --> 00:24:35,000
+You can find that the most important thing is
+
+629
+00:24:35,000 --> 00:24:36,000
+pollen mother cell
+
+630
+00:24:36,000 --> 00:24:39,000
+And this big embryo
+
+631
+00:24:39,000 --> 00:24:41,000
+Mother cells they go through like this
+
+632
+00:24:41,000 --> 00:24:42,000
+you can find
+
+633
+00:24:42,000 --> 00:24:43,000
+every gene
+
+634
+00:24:43,000 --> 00:24:44,000
+every process
+
+635
+00:24:44,000 --> 00:24:46,000
+Here is a genetic mutation
+
+636
+00:24:46,000 --> 00:24:48,000
+will affect this
+
+637
+00:24:48,000 --> 00:24:49,000
+so we accumulate
+
+638
+00:24:49,000 --> 00:24:50,000
+We can know that
+
+639
+00:24:50,000 --> 00:24:51,000
+all these genes
+
+640
+00:24:51,000 --> 00:24:53,000
+in the middle of this whole process
+
+641
+00:24:53,000 --> 00:24:54,000
+role involved
+
+642
+00:24:54,000 --> 00:24:55,000
+you don't have to remember
+
+643
+00:24:55,000 --> 00:24:56,000
+because i can't remember
+
+644
+00:24:56,000 --> 00:24:57,000
+But on these files
+
+645
+00:24:57,000 --> 00:24:58,000
+can be found
+
+646
+00:24:58,000 --> 00:24:59,000
+but so later
+
+647
+00:24:59,000 --> 00:25:00,000
+let's do some more research
+
+648
+00:25:00,000 --> 00:25:03,620
+because we see what happens to this pollen at some stage
+
+649
+00:25:03,620 --> 00:25:04,900
+We can go back to the literature and think
+
+650
+00:25:04,900 --> 00:25:06,720
+It turned out that the gene was mutated
+
+651
+00:25:06,720 --> 00:25:10,880
+Is our gene a protein? Does it have any interaction with it?
+
+652
+00:25:10,880 --> 00:25:13,080
+we can make progress
+
+653
+00:25:13,080 --> 00:25:16,420
+So this is some of our information in that place
+
+654
+00:25:16,420 --> 00:25:18,320
+whole pollination
+
+655
+00:25:18,320 --> 00:25:22,160
+The whole pollination basically the pollination of plants is
+
+656
+00:25:22,160 --> 00:25:27,080
+Pollen is an extremely dry condition
+
+657
+00:25:27,240 --> 00:25:30,200
+When the pollen is ripening it dehydrates
+
+658
+00:25:30,200 --> 00:25:31,400
+it will have a dehydration
+
+659
+00:25:31,400 --> 00:25:34,000
+so the pollen falls on the stigma
+
+660
+00:25:34,000 --> 00:25:37,800
+The pollen then absorbs water on the stigma
+
+661
+00:25:37,800 --> 00:25:45,160
+But this process has to go through a lot of so-called cell-to-cell interactions
+
+662
+00:25:45,160 --> 00:25:48,600
+For example, in the plant kingdom, there is a thing called self-inferiority and credible
+
+663
+00:25:48,600 --> 00:25:53,080
+That is to say, your own pool core will repel
+
+664
+00:25:53,080 --> 00:25:58,080
+or keep yourself from pollen with the same genotype
+
+665
+00:25:58,080 --> 00:26:00,080
+One may be absorbing water on the stigma
+
+666
+00:26:00,000 --> 00:26:02,760
+self-ambiguity
+
+667
+00:26:02,760 --> 00:26:04,800
+But if it's inside the style
+
+668
+00:26:04,800 --> 00:26:06,800
+Let it grow to a certain stage
+
+669
+00:26:06,800 --> 00:26:08,800
+Don't let it be long is ligand body
+
+670
+00:26:08,800 --> 00:26:09,600
+self ambiguous
+
+671
+00:26:09,600 --> 00:26:10,800
+I won't be there today
+
+672
+00:26:10,800 --> 00:26:12,800
+Because the mechanism is very, very complicated
+
+673
+00:26:12,800 --> 00:26:15,200
+Finally the pollen hall will enter the style after the growth
+
+674
+00:26:15,200 --> 00:26:17,600
+Finally two packets of information will be
+
+675
+00:26:17,600 --> 00:26:19,800
+Send to distribution to complete double collection
+
+676
+00:26:19,800 --> 00:26:21,600
+Throughout this process you may have
+
+677
+00:26:21,600 --> 00:26:24,200
+There are bee plum blossoms or insect plum blossoms
+
+678
+00:26:24,200 --> 00:26:26,200
+You can take the pollen with you
+
+679
+00:26:26,200 --> 00:26:29,600
+When the last pollen is on the stigma
+
+680
+00:26:29,600 --> 00:26:31,600
+it will generate a
+
+681
+00:26:31,600 --> 00:26:34,600
+This is the epidermis of the stigma
+
+682
+00:26:34,600 --> 00:26:36,600
+That epidermal cell that produces pollen tubes
+
+683
+00:26:36,600 --> 00:26:39,600
+Eventually the pollen hall will grow inside the style
+
+684
+00:26:39,600 --> 00:26:41,600
+This is the practice style
+
+685
+00:26:41,600 --> 00:26:43,600
+you can look under a microscope
+
+686
+00:26:43,600 --> 00:26:46,600
+You go dye a special thing called
+
+687
+00:26:46,600 --> 00:26:47,600
+dye
+
+688
+00:26:47,600 --> 00:26:48,600
+you can see
+
+689
+00:26:48,600 --> 00:26:50,600
+Every growth is a pollen hall
+
+690
+00:26:50,600 --> 00:26:53,600
+These little bits are called Kalus Pluck
+
+691
+00:26:53,600 --> 00:26:55,600
+It's the pollen hall that keeps growing
+
+692
+00:26:55,600 --> 00:26:56,600
+in the middle
+
+693
+00:26:56,600 --> 00:26:58,600
+It keeps forming structures like this
+
+694
+00:26:58,600 --> 00:26:59,600
+only let
+
+695
+00:27:00,000 --> 00:27:03,400
+The tip of the pollen is alive
+
+696
+00:27:03,400 --> 00:27:04,960
+That place brings two exquisite
+
+697
+00:27:04,960 --> 00:27:06,120
+I once did an experiment
+
+698
+00:27:06,120 --> 00:27:07,560
+After losing weight
+
+699
+00:27:07,560 --> 00:27:08,760
+you put that stigma
+
+700
+00:27:08,760 --> 00:27:11,800
+And part of the pollen style is removed
+
+701
+00:27:11,800 --> 00:27:15,800
+as long as you keep the topmost pollen structure intact
+
+702
+00:27:15,800 --> 00:27:17,400
+it last it doesn't need
+
+703
+00:27:17,400 --> 00:27:19,440
+have used those pollen tubes or
+
+704
+00:27:19,440 --> 00:27:21,800
+Thin Gold
+
+705
+00:27:21,800 --> 00:27:23,120
+you turn it upside down
+
+706
+00:27:23,120 --> 00:27:24,640
+It can still grow slower
+
+707
+00:27:24,640 --> 00:27:25,280
+because of this kind of place
+
+708
+00:27:25,280 --> 00:27:26,640
+But you can still lose gold
+
+709
+00:27:26,640 --> 00:27:28,000
+so you know it's a very
+
+710
+00:27:28,000 --> 00:27:30,400
+Active means magnetic sharp
+
+711
+00:27:30,400 --> 00:27:32,280
+will send a message
+
+712
+00:27:32,280 --> 00:27:34,160
+Attracts pollen tubes to my kind
+
+713
+00:27:34,160 --> 00:27:36,200
+This is a hollow style
+
+714
+00:27:36,200 --> 00:27:37,440
+For example like we have
+
+715
+00:27:37,440 --> 00:27:39,120
+One of our experimental materials
+
+716
+00:27:39,120 --> 00:27:40,240
+Iron Cannon Lily
+
+717
+00:27:40,240 --> 00:27:41,840
+You can spot these pollen tubes
+
+718
+00:27:41,840 --> 00:27:45,600
+grows along the inner epidermal cells
+
+719
+00:27:45,600 --> 00:27:47,120
+Pollen tubes are what we just talked about
+
+720
+00:27:47,120 --> 00:27:48,440
+this tip
+
+721
+00:27:48,440 --> 00:27:50,400
+what you see under the tip microscope
+
+722
+00:27:50,400 --> 00:27:51,800
+The previous one is a
+
+723
+00:27:51,800 --> 00:27:53,200
+just very very
+
+724
+00:27:53,200 --> 00:27:54,800
+seems to be a clean place
+
+725
+00:27:54,800 --> 00:27:55,880
+seen under a microscope
+
+726
+00:27:55,960 --> 00:27:58,240
+It is a lot of different packages
+
+727
+00:27:58,240 --> 00:27:59,560
+in this whole structure
+
+728
+00:27:59,560 --> 00:28:00,240
+last this
+
+729
+00:28:00,000 --> 00:28:02,160
+This pollen hall is constantly being formed
+
+730
+00:28:02,160 --> 00:28:03,500
+The so-called Kelas Park
+
+731
+00:28:03,500 --> 00:28:04,500
+take this pollen house
+
+732
+00:28:04,500 --> 00:28:07,500
+So in the end you just need this place to finish
+
+733
+00:28:07,500 --> 00:28:11,300
+Take it today to put the last two gold cells
+
+734
+00:28:11,300 --> 00:28:14,400
+to that pool
+
+735
+00:28:14,400 --> 00:28:16,700
+Match pigs to complete double insemination
+
+736
+00:28:16,700 --> 00:28:19,300
+So the last two gold cells
+
+737
+00:28:19,300 --> 00:28:21,300
+This pollen shop will deliver
+
+738
+00:28:21,300 --> 00:28:23,300
+This place is called the pig hole
+
+739
+00:28:23,300 --> 00:28:24,200
+complete fertilization
+
+740
+00:28:24,200 --> 00:28:25,700
+For example, this is one percent of our iron pack
+
+741
+00:28:25,700 --> 00:28:28,000
+You can find out if you look hard enough
+
+742
+00:28:28,000 --> 00:28:30,000
+This is a pig hole, this is an embryonic pig
+
+743
+00:28:30,000 --> 00:28:31,000
+this is fat
+
+744
+00:28:31,000 --> 00:28:32,000
+you can discover a pollen house
+
+745
+00:28:32,000 --> 00:28:34,000
+just go in from here
+
+746
+00:28:34,000 --> 00:28:35,500
+So throughout the
+
+747
+00:28:35,500 --> 00:28:38,000
+Speaking of the double fertilization of plants as a whole
+
+748
+00:28:38,000 --> 00:28:39,000
+probably
+
+749
+00:28:39,000 --> 00:28:40,500
+so a pollen house
+
+750
+00:28:40,500 --> 00:28:42,500
+last middle gold
+
+751
+00:28:42,500 --> 00:28:46,000
+Pollen hall is the bear plastosome
+
+752
+00:28:46,000 --> 00:28:48,500
+Its purpose is to combine two gold cells
+
+753
+00:28:48,500 --> 00:28:52,500
+sent to this embryo sac
+
+754
+00:28:52,500 --> 00:28:54,500
+Embryo sac should be double fertilized
+
+755
+00:28:54,500 --> 00:28:56,500
+one of them will follow
+
+756
+00:28:56,500 --> 00:28:59,500
+egg is soft fertilization
+
+757
+00:29:00,000 --> 00:29:00,800
+double fertilization
+
+758
+00:29:00,800 --> 00:29:02,280
+a sperm will follow it
+
+759
+00:29:02,280 --> 00:29:04,920
+In addition, it will follow this polar cell
+
+760
+00:29:04,920 --> 00:29:05,760
+cell center
+
+761
+00:29:05,760 --> 00:29:07,880
+The two poles in the central cell
+
+762
+00:29:07,880 --> 00:29:08,600
+complete fertilization
+
+763
+00:29:08,600 --> 00:29:12,040
+So how much is 1 plus 1 equal to an egg?
+
+764
+00:29:12,040 --> 00:29:13,840
+2 is 2n
+
+765
+00:29:13,840 --> 00:29:16,560
+But in the end this central cell
+
+766
+00:29:16,560 --> 00:29:18,440
+What will this fertilized central cell form
+
+767
+00:29:18,440 --> 00:29:19,240
+breastfeeding
+
+768
+00:29:19,240 --> 00:29:21,720
+So the seed of the plant is very special
+
+769
+00:29:21,720 --> 00:29:23,480
+it belongs to 3n
+
+770
+00:29:23,480 --> 00:29:24,800
+so it is triploid
+
+771
+00:29:24,800 --> 00:29:26,680
+So this is a very special construct
+
+772
+00:29:26,680 --> 00:29:28,960
+And finally after this fertilized egg
+
+773
+00:29:28,960 --> 00:29:31,400
+It will eventually go through a series of fetal development
+
+774
+00:29:31,400 --> 00:29:33,040
+will generate interval
+
+775
+00:29:33,040 --> 00:29:35,560
+the last seed formed
+
+776
+00:29:35,560 --> 00:29:37,120
+The following is probably
+
+777
+00:29:37,120 --> 00:29:40,720
+How to grow the high efficiency of this cartoon
+
+778
+00:29:40,720 --> 00:29:42,360
+a pollen tube
+
+779
+00:29:42,360 --> 00:29:44,600
+Inside the pollen tube are two sperm cells
+
+780
+00:29:44,600 --> 00:29:47,360
+will go in along the bead hole
+
+781
+00:29:47,360 --> 00:29:48,720
+There should be a bead hole in it
+
+782
+00:29:48,720 --> 00:29:52,240
+from one of the two so-called saprophytic cells
+
+783
+00:29:52,240 --> 00:29:53,240
+destroyed
+
+784
+00:29:53,240 --> 00:29:55,840
+So in the end one of the sperm cells
+
+785
+00:29:55,880 --> 00:29:58,400
+will follow this soft cell
+
+786
+00:29:58,400 --> 00:29:59,400
+complete fertilization
+
+787
+00:30:00,000 --> 00:30:02,760
+form what is called a Zygote
+
+788
+00:30:02,760 --> 00:30:04,120
+is to receive nuclei
+
+789
+00:30:04,600 --> 00:30:06,720
+This is rotten cell
+
+790
+00:30:07,080 --> 00:30:09,120
+Rot cells, this is pink cells
+
+791
+00:30:09,280 --> 00:30:10,560
+So one of them will follow it
+
+792
+00:30:10,800 --> 00:30:13,440
+Also this is a central cell that has a collection
+
+793
+00:30:14,080 --> 00:30:15,280
+The central cell communicates with it
+
+794
+00:30:15,800 --> 00:30:19,200
+So far, probably the above three are called antipodal cells
+
+795
+00:30:19,920 --> 00:30:20,880
+as far as I know
+
+796
+00:30:21,440 --> 00:30:23,280
+now it must be working
+
+797
+00:30:23,280 --> 00:30:25,400
+Just like everyone has a length
+
+798
+00:30:25,840 --> 00:30:26,880
+People think that Mangchang is nothing
+
+799
+00:30:26,880 --> 00:30:27,720
+but found
+
+800
+00:30:27,920 --> 00:30:29,400
+May now find out that Mang Chang actually
+
+801
+00:30:29,520 --> 00:30:30,880
+In fact, it has some functions
+
+802
+00:30:31,200 --> 00:30:32,440
+I don't know what it does
+
+803
+00:30:32,680 --> 00:30:33,920
+It's just that people say it's useful
+
+804
+00:30:34,240 --> 00:30:36,600
+So I guess the three antipodal cells
+
+805
+00:30:36,600 --> 00:30:38,120
+It's not clear what effect
+
+806
+00:30:38,520 --> 00:30:39,640
+So it's probably over
+
+807
+00:30:39,640 --> 00:30:42,440
+Finally this will form the so-called Peyru
+
+808
+00:30:42,800 --> 00:30:45,120
+This will form the so-called Pey
+
+809
+00:30:45,400 --> 00:30:47,000
+This is a photo of the whole
+
+810
+00:30:48,640 --> 00:30:50,080
+Gum plant
+
+811
+00:30:51,360 --> 00:30:52,240
+plant glue
+
+812
+00:30:52,400 --> 00:30:54,800
+We just talked about the ones with stone cores
+
+813
+00:30:55,080 --> 00:30:57,120
+For example, like our so-called Arab world
+
+814
+00:30:57,440 --> 00:30:58,560
+or hollow
+
+815
+00:30:58,560 --> 00:30:59,960
+This is Iron Cannon Baihe
+
+816
+00:31:00,000 --> 00:31:04,000
+You can find this is them these pollen houses will go along this
+
+817
+00:31:04,000 --> 00:31:08,000
+So in the middle of the pollination process?
+
+818
+00:31:08,000 --> 00:31:15,000
+From the whole stigma pollen falling on the stigma to being completely fat
+
+819
+00:31:15,000 --> 00:31:20,000
+Embryo pigs look throughout and find that there are two pollen halls in the middle of the process
+
+820
+00:31:20,000 --> 00:31:23,000
+Two shop terms means one
+
+821
+00:31:23,000 --> 00:31:26,000
+it's like we're going home today
+
+822
+00:31:26,000 --> 00:31:27,000
+you are now on freeway
+
+823
+00:31:27,000 --> 00:31:30,000
+When you get to the freeway, you see
+
+824
+00:31:30,000 --> 00:31:32,000
+i live in taoyuan
+
+825
+00:31:32,000 --> 00:31:33,000
+I saw Taoyuan
+
+826
+00:31:33,000 --> 00:31:36,000
+I'm leaving home
+
+827
+00:31:36,000 --> 00:31:37,000
+right
+
+828
+00:31:37,000 --> 00:31:38,000
+out of the house
+
+829
+00:31:38,000 --> 00:31:40,000
+you want to go back to your car park
+
+830
+00:31:40,000 --> 00:31:41,000
+do you still have a term
+
+831
+00:31:41,000 --> 00:31:43,000
+so it's like finally he's going home
+
+832
+00:31:43,000 --> 00:31:44,000
+So he has two shop terms
+
+833
+00:31:44,000 --> 00:31:47,000
+These two are very, very important
+
+834
+00:31:47,000 --> 00:31:50,000
+And now scientists are researching that
+
+835
+00:31:50,000 --> 00:31:51,000
+in the middle of this whole process
+
+836
+00:31:51,000 --> 00:31:53,000
+A shop term is called funical
+
+837
+00:31:53,000 --> 00:31:55,000
+It's a guiding for pig pie
+
+838
+00:31:55,000 --> 00:31:57,000
+pollen hall
+
+839
+00:31:57,000 --> 00:31:59,000
+it has to sense
+
+840
+00:32:00,000 --> 00:32:03,060
+message from the gametophyte
+
+841
+00:32:03,060 --> 00:32:05,560
+Told you that you were coming out of here
+
+842
+00:32:05,560 --> 00:32:07,680
+i'm here he's going in
+
+843
+00:32:07,680 --> 00:32:09,720
+The other one is from Zhukou
+
+844
+00:32:09,720 --> 00:32:10,880
+he will
+
+845
+00:32:10,880 --> 00:32:12,680
+So only two attract
+
+846
+00:32:12,680 --> 00:32:13,640
+for example
+
+847
+00:32:14,920 --> 00:32:16,000
+when you plant
+
+848
+00:32:16,000 --> 00:32:18,920
+Under normal conditions of this pollen
+
+849
+00:32:18,920 --> 00:32:21,360
+Every
+
+850
+00:32:21,360 --> 00:32:22,680
+AmbroSecPanel
+
+851
+00:32:22,680 --> 00:32:25,480
+Will only accept one pollen tube
+
+852
+00:32:25,480 --> 00:32:27,680
+so there will only be one pollen tube
+
+853
+00:32:27,680 --> 00:32:30,040
+along the bead handle
+
+854
+00:32:30,040 --> 00:32:33,280
+will enter the micropyle to complete the double release
+
+855
+00:32:33,280 --> 00:32:36,320
+When you plant this it doesn't matter
+
+856
+00:32:36,320 --> 00:32:37,800
+when holding the gametophyte
+
+857
+00:32:37,800 --> 00:32:39,400
+it's basically
+
+858
+00:32:39,400 --> 00:32:42,640
+Pollen will not recognize Signal
+
+859
+00:32:42,640 --> 00:32:46,480
+But other times when some plants mutate
+
+860
+00:32:46,480 --> 00:32:49,440
+For example called Marmut
+
+861
+00:32:49,440 --> 00:32:51,920
+when you do this it can
+
+862
+00:32:51,920 --> 00:32:53,560
+along the micropyle
+
+863
+00:32:53,560 --> 00:32:56,040
+To go along this Funicle is the bead handle
+
+864
+00:32:56,080 --> 00:32:58,200
+it can pollen tubes know where to come out
+
+865
+00:32:58,200 --> 00:32:59,640
+but it can't find a home
+
+866
+00:33:00,000 --> 00:33:02,000
+When this gene is mutated
+
+867
+00:33:02,000 --> 00:33:03,240
+You can find all the pollen tubes
+
+868
+00:33:03,240 --> 00:33:04,440
+can only go around outside
+
+869
+00:33:04,440 --> 00:33:07,240
+It can't find the micropyle of McPad
+
+870
+00:33:07,240 --> 00:33:09,000
+so you know the gene
+
+871
+00:33:09,000 --> 00:33:11,080
+When a mutation occurs, there are two
+
+872
+00:33:11,080 --> 00:33:11,880
+First
+
+873
+00:33:11,880 --> 00:33:14,280
+when your gene is mutated
+
+874
+00:33:14,280 --> 00:33:17,120
+Your pollen tube can't help
+
+875
+00:33:17,120 --> 00:33:19,800
+sense to this from Chirui
+
+876
+00:33:19,800 --> 00:33:21,640
+Embryo sac kidney out information
+
+877
+00:33:21,640 --> 00:33:22,360
+the second
+
+878
+00:33:22,360 --> 00:33:24,960
+Each of our original bead handles
+
+879
+00:33:24,960 --> 00:33:26,360
+only one pollen tube
+
+880
+00:33:26,360 --> 00:33:28,360
+You can find quite a few pollen tubes
+
+881
+00:33:28,480 --> 00:33:30,320
+so you know the role it's involved in
+
+882
+00:33:30,320 --> 00:33:32,320
+The messaging is in this section
+
+883
+00:33:32,320 --> 00:33:34,960
+In addition there is this mute
+
+884
+00:33:34,960 --> 00:33:37,240
+you can spot pollen tubes
+
+885
+00:33:37,240 --> 00:33:39,680
+Yes, the normal pollen tubes I just talked about
+
+886
+00:33:39,680 --> 00:33:41,960
+Go in from McPa
+
+887
+00:33:41,960 --> 00:33:43,440
+After this beadhole goes in
+
+888
+00:33:43,440 --> 00:33:45,160
+pollen tubes will burst
+
+889
+00:33:45,160 --> 00:33:48,080
+Exploding will release two gold pieces
+
+890
+00:33:48,080 --> 00:33:49,280
+but this you can find
+
+891
+00:33:49,280 --> 00:33:51,320
+When your gene mutates
+
+892
+00:33:51,320 --> 00:33:53,560
+Pollen tubes can go in along the stalk
+
+893
+00:33:53,560 --> 00:33:55,080
+Micropyretes can also be found
+
+894
+00:33:55,080 --> 00:33:57,880
+But it won't explode after it goes in
+
+895
+00:33:57,920 --> 00:33:58,800
+so you can know
+
+896
+00:33:58,800 --> 00:34:00,080
+The role of this gene
+
+897
+00:34:00,000 --> 00:34:02,160
+Eventually the pollen tube will burst
+
+898
+00:34:02,160 --> 00:34:04,160
+Release the two economic packages
+
+899
+00:34:04,160 --> 00:34:07,120
+So in this process there is quite a lot of
+
+900
+00:34:07,760 --> 00:34:10,720
+a study of
+
+901
+00:34:10,720 --> 00:34:14,480
+Only then can we know how the entire pollen tube is frightened
+
+902
+00:34:14,480 --> 00:34:16,880
+So now we're going to just ask
+
+903
+00:34:16,880 --> 00:34:18,320
+scientists are never satisfied
+
+904
+00:34:19,200 --> 00:34:20,480
+these molecules
+
+905
+00:34:20,880 --> 00:34:21,760
+pool core
+
+906
+00:34:22,000 --> 00:34:24,800
+Or these pool configuration bodies sent out by it
+
+907
+00:34:24,800 --> 00:34:26,240
+how did it come out
+
+908
+00:34:26,240 --> 00:34:27,920
+where did it come from
+
+909
+00:34:28,240 --> 00:34:31,280
+So there is a scientist who just use the tight
+
+910
+00:34:31,840 --> 00:34:33,040
+material of this plant
+
+911
+00:34:33,040 --> 00:34:35,200
+What's so special about this plant material?
+
+912
+00:34:35,200 --> 00:34:37,280
+it has a bare
+
+913
+00:34:37,840 --> 00:34:38,880
+embrane
+
+914
+00:34:39,280 --> 00:34:40,400
+the scientist
+
+915
+00:34:40,720 --> 00:34:45,840
+He's a pretty good guy
+
+916
+00:34:45,840 --> 00:34:47,760
+Their article was published in Science
+
+917
+00:34:47,760 --> 00:34:49,520
+what's so special about this plant
+
+918
+00:34:49,520 --> 00:34:50,960
+That is to say, it matches
+
+919
+00:34:50,960 --> 00:34:53,760
+We used to pack this bag in it.
+
+920
+00:34:53,760 --> 00:34:56,080
+but this one it's all exposed
+
+921
+00:34:56,240 --> 00:34:59,120
+After you separate the accessory sac
+
+922
+00:34:59,120 --> 00:35:00,080
+put it on your garnish
+
+923
+00:35:00,000 --> 00:35:03,000
+You put it in the pollen hall
+
+924
+00:35:03,000 --> 00:35:04,000
+you can find
+
+925
+00:35:04,000 --> 00:35:07,000
+This is the so-called Mike Pie
+
+926
+00:35:07,000 --> 00:35:08,000
+It's pig's mouth
+
+927
+00:35:08,000 --> 00:35:09,000
+you can find
+
+928
+00:35:09,000 --> 00:35:11,000
+This is the pollen hall that grows outside the body
+
+929
+00:35:11,000 --> 00:35:13,000
+will naturally run in
+
+930
+00:35:13,000 --> 00:35:14,000
+complete fertilization
+
+931
+00:35:14,000 --> 00:35:15,000
+you can find
+
+932
+00:35:15,000 --> 00:35:18,000
+Enter through the middle of the two rotting spiders
+
+933
+00:35:18,000 --> 00:35:19,000
+it completes fertilization
+
+934
+00:35:19,000 --> 00:35:21,000
+They found a system like this
+
+935
+00:35:21,000 --> 00:35:22,000
+so he wants
+
+936
+00:35:22,000 --> 00:35:24,000
+This is a very good system
+
+937
+00:35:24,000 --> 00:35:26,000
+at least we know
+
+938
+00:35:26,000 --> 00:35:28,000
+embryo sac
+
+939
+00:35:28,000 --> 00:35:30,000
+There are two rot lizards inside
+
+940
+00:35:30,000 --> 00:35:31,000
+a central cell
+
+941
+00:35:31,000 --> 00:35:32,000
+one more egg
+
+942
+00:35:32,000 --> 00:35:34,000
+And the above three anti-bamboo cells
+
+943
+00:35:34,000 --> 00:35:35,000
+three anti-bamboo cells
+
+944
+00:35:35,000 --> 00:35:36,000
+maybe too far
+
+945
+00:35:36,000 --> 00:35:37,000
+they got here
+
+946
+00:35:37,000 --> 00:35:39,000
+At least we just look at the following
+
+947
+00:35:39,000 --> 00:35:40,000
+I went in with the pollen house
+
+948
+00:35:40,000 --> 00:35:42,000
+The carrion is more important
+
+949
+00:35:42,000 --> 00:35:43,000
+eggs are more important
+
+950
+00:35:43,000 --> 00:35:44,000
+or the central cell is more important
+
+951
+00:35:44,000 --> 00:35:45,000
+So they made a
+
+952
+00:35:45,000 --> 00:35:47,000
+very interesting experiment
+
+953
+00:35:47,000 --> 00:35:49,000
+controlled by laser
+
+954
+00:35:49,000 --> 00:35:50,000
+look
+
+955
+00:35:50,000 --> 00:35:52,000
+They can use a combination of laser and microscope
+
+956
+00:35:52,000 --> 00:35:56,000
+It can be destroyed with great precision
+
+957
+00:35:56,000 --> 00:35:57,000
+One of the
+
+958
+00:35:57,000 --> 00:35:58,000
+i can destroy
+
+959
+00:35:58,000 --> 00:36:00,000
+Between the two rot packs
+
+960
+00:36:00,000 --> 00:36:03,280
+Destroy this Centro cell
+
+961
+00:36:03,280 --> 00:36:04,400
+or two rotten cells
+
+962
+00:36:04,400 --> 00:36:06,400
+You destroy it with one hit of the laser
+
+963
+00:36:06,400 --> 00:36:08,600
+So you use various permutations
+
+964
+00:36:08,600 --> 00:36:10,800
+Destroys the morphology of various cells
+
+965
+00:36:10,800 --> 00:36:12,600
+You can make a result like this
+
+966
+00:36:12,600 --> 00:36:14,200
+i can destroy a cell
+
+967
+00:36:14,200 --> 00:36:15,600
+destroy two cells
+
+968
+00:36:15,600 --> 00:36:16,600
+destroy three cells
+
+969
+00:36:16,600 --> 00:36:17,800
+various combinations
+
+970
+00:36:17,800 --> 00:36:22,000
+We look at it for the whole ability to attract pollen tubes
+
+971
+00:36:22,000 --> 00:36:23,200
+Will it be affected
+
+972
+00:36:23,200 --> 00:36:24,600
+So in the end they found
+
+973
+00:36:24,600 --> 00:36:26,000
+a fun one is
+
+974
+00:36:26,000 --> 00:36:27,800
+when you find out
+
+975
+00:36:27,800 --> 00:36:30,800
+You just need a rotten cell
+
+976
+00:36:30,800 --> 00:36:34,800
+Next to it are the two cells next to the soft
+
+977
+00:36:34,800 --> 00:36:37,200
+As long as one rotten cell is broken
+
+978
+00:36:37,200 --> 00:36:40,400
+It's basically the ability to attract pollen tubes in
+
+979
+00:36:40,400 --> 00:36:41,200
+just lower
+
+980
+00:36:41,200 --> 00:36:44,000
+Once you help put these two rotten cells
+
+981
+00:36:44,000 --> 00:36:45,600
+when completely destroyed
+
+982
+00:36:45,600 --> 00:36:47,200
+Pollen tubes do not enter
+
+983
+00:36:47,200 --> 00:36:48,800
+so what do they know
+
+984
+00:36:48,800 --> 00:36:52,600
+This signal is sent from two rotting cells
+
+985
+00:36:52,600 --> 00:36:54,600
+you also know never enough
+
+986
+00:36:54,600 --> 00:36:56,400
+directly after ten years
+
+987
+00:36:56,400 --> 00:37:00,000
+they want to know what molecule
+
+988
+00:37:00,000 --> 00:37:02,000
+So after 10 years they found
+
+989
+00:37:02,000 --> 00:37:03,000
+ok let's see
+
+990
+00:37:03,000 --> 00:37:05,000
+In this case I put this
+
+991
+00:37:05,000 --> 00:37:08,000
+They can since they are naked
+
+992
+00:37:08,000 --> 00:37:11,000
+This ambrosex this matching capsule
+
+993
+00:37:11,000 --> 00:37:14,000
+We'll just separate all the cells out of it
+
+994
+00:37:14,000 --> 00:37:15,000
+cells in which we can
+
+995
+00:37:15,000 --> 00:37:17,000
+All it can find is the synergy cell
+
+996
+00:37:17,000 --> 00:37:18,000
+put this synergy cell
+
+997
+00:37:18,000 --> 00:37:20,000
+go inside it protein law
+
+998
+00:37:20,000 --> 00:37:23,000
+found a group of proteins
+
+999
+00:37:23,000 --> 00:37:25,000
+This group of proteins is abundantly expressed
+
+1000
+00:37:25,000 --> 00:37:27,000
+Then it finds the gene
+
+1001
+00:37:27,000 --> 00:37:29,000
+then antibodies
+
+1002
+00:37:29,000 --> 00:37:31,000
+It can be found that it is really
+
+1003
+00:37:31,000 --> 00:37:33,000
+ambrosex in the pig hole
+
+1004
+00:37:33,000 --> 00:37:35,000
+Then they did a cool
+
+1005
+00:37:35,000 --> 00:37:37,000
+Is that the molecule
+
+1006
+00:37:37,000 --> 00:37:39,000
+Really attracts pollen tubes to grow
+
+1007
+00:37:39,000 --> 00:37:40,000
+really
+
+1008
+00:37:40,000 --> 00:37:42,000
+when you are cultivating people
+
+1009
+00:37:42,000 --> 00:37:43,000
+you found click here
+
+1010
+00:37:43,000 --> 00:37:44,000
+you can find the pollen tube
+
+1011
+00:37:44,000 --> 00:37:46,000
+will reduce the growth in this place
+
+1012
+00:37:46,000 --> 00:37:48,000
+So they found this
+
+1013
+00:37:48,000 --> 00:37:50,000
+defending like this protein
+
+1014
+00:37:50,000 --> 00:37:52,000
+is involved in this thing
+
+1015
+00:37:52,000 --> 00:37:53,000
+you can watch this grow
+
+1016
+00:37:53,000 --> 00:37:54,000
+you can watch this cool
+
+1017
+00:37:54,000 --> 00:37:57,000
+It turns when it taps the pollen tube
+
+1018
+00:37:57,000 --> 00:38:00,000
+click it here again
+
+1019
+00:38:00,000 --> 00:38:02,000
+pollen tube turns
+
+1020
+00:38:02,000 --> 00:38:04,000
+so you know something like this
+
+1021
+00:38:04,000 --> 00:38:06,000
+it attracts pollen tubes
+
+1022
+00:38:06,000 --> 00:38:09,000
+That is, guide the growth of pollen tubes
+
+1023
+00:38:09,000 --> 00:38:11,000
+so this is a very interesting
+
+1024
+00:38:11,000 --> 00:38:13,000
+so in this
+
+1025
+00:38:13,000 --> 00:38:16,000
+This is under this tight this plant material
+
+1026
+00:38:16,000 --> 00:38:17,000
+they just
+
+1027
+00:38:17,000 --> 00:38:18,000
+we just found this
+
+1028
+00:38:18,000 --> 00:38:20,000
+Is there any other molecular wild material?
+
+1029
+00:38:20,000 --> 00:38:21,000
+Recently they also found
+
+1030
+00:38:21,000 --> 00:38:22,000
+Arab world has similar
+
+1031
+00:38:22,000 --> 00:38:23,000
+but these
+
+1032
+00:38:23,000 --> 00:38:25,000
+In fact, what I want to tell you is a
+
+1033
+00:38:25,000 --> 00:38:27,000
+Just now that is a dicotyledonous plant
+
+1034
+00:38:27,000 --> 00:38:28,000
+our monocots
+
+1035
+00:38:28,000 --> 00:38:30,000
+Iron Lily
+
+1036
+00:38:30,000 --> 00:38:31,000
+iron lily this is a
+
+1037
+00:38:31,000 --> 00:38:33,000
+it has a hollow style
+
+1038
+00:38:33,000 --> 00:38:34,000
+Then what
+
+1039
+00:38:34,000 --> 00:38:36,000
+We did an experiment
+
+1040
+00:38:36,000 --> 00:38:37,000
+we just want to say
+
+1041
+00:38:37,000 --> 00:38:38,000
+We hollow these styles
+
+1042
+00:38:38,000 --> 00:38:41,000
+Since we want to attract pollen tubes to grow
+
+1043
+00:38:41,000 --> 00:38:44,000
+It should be these things in the style
+
+1044
+00:38:44,000 --> 00:38:46,000
+should play an important role
+
+1045
+00:38:46,000 --> 00:38:47,000
+and we wanted to say
+
+1046
+00:38:47,000 --> 00:38:50,000
+Pollen tubes grow a bit like animal cells
+
+1047
+00:38:50,000 --> 00:38:51,000
+especially in this
+
+1048
+00:38:51,000 --> 00:38:53,000
+so-called hollow pool
+
+1049
+00:38:53,000 --> 00:38:55,000
+The hollow style
+
+1050
+00:38:55,000 --> 00:38:56,000
+it is an attachment
+
+1051
+00:38:56,000 --> 00:38:58,000
+then grow on the move
+
+1052
+00:38:58,000 --> 00:38:59,000
+you just saw
+
+1053
+00:39:00,000 --> 00:39:03,000
+So we developed a way like this
+
+1054
+00:39:03,000 --> 00:39:07,000
+We really found you this is Nitroceus Memes
+
+1055
+00:39:07,000 --> 00:39:09,000
+This is an artificial membrane
+
+1056
+00:39:09,000 --> 00:39:12,000
+When you coat this layer on the film
+
+1057
+00:39:12,000 --> 00:39:15,000
+When this star exits you take the pollen tube
+
+1058
+00:39:15,000 --> 00:39:16,000
+put the film on
+
+1059
+00:39:16,000 --> 00:39:18,000
+You can find that the pollen tube seems to be
+
+1060
+00:39:18,000 --> 00:39:21,000
+It's like a big foot extended like this
+
+1061
+00:39:21,000 --> 00:39:23,000
+And finally we want to say
+
+1062
+00:39:23,000 --> 00:39:25,000
+Indicates the substance inside
+
+1063
+00:39:25,000 --> 00:39:27,000
+Possibly attached to pollen
+
+1064
+00:39:27,000 --> 00:39:29,000
+and attract growth
+
+1065
+00:39:29,000 --> 00:39:31,000
+So after I graduated
+
+1066
+00:39:31,000 --> 00:39:34,000
+The teachers in my doctoral class will continue to have a Post-up
+
+1067
+00:39:34,000 --> 00:39:35,000
+he will remember
+
+1068
+00:39:35,000 --> 00:39:38,000
+From this, they use lust analysis
+
+1069
+00:39:38,000 --> 00:39:39,000
+A substance is separated from it
+
+1070
+00:39:39,000 --> 00:39:41,000
+You can find that when this substance
+
+1071
+00:39:41,000 --> 00:39:43,000
+what he did was very
+
+1072
+00:39:43,000 --> 00:39:45,000
+That girl's eyes are really amazing
+
+1073
+00:39:45,000 --> 00:39:48,000
+he's on this slope
+
+1074
+00:39:48,000 --> 00:39:51,000
+Then dig a hole in the middle of this thing
+
+1075
+00:39:51,000 --> 00:39:53,000
+you put that thing you can put in
+
+1076
+00:39:53,000 --> 00:39:55,000
+you are variously purified
+
+1077
+00:39:55,000 --> 00:39:56,000
+Different Purified Things
+
+1078
+00:39:56,000 --> 00:39:58,000
+Then you take the pollen grains
+
+1079
+00:39:58,000 --> 00:40:00,000
+The benefits of Iron Cannon Lily are
+
+1080
+00:40:00,000 --> 00:40:02,000
+Its pollen grains are super large
+
+1081
+00:40:02,000 --> 00:40:03,000
+it's super big
+
+1082
+00:40:03,000 --> 00:40:04,000
+you can see it with meat
+
+1083
+00:40:04,000 --> 00:40:06,000
+Then it circles around the outside
+
+1084
+00:40:06,000 --> 00:40:09,000
+so that the pollen tube germination is all facing outward
+
+1085
+00:40:09,000 --> 00:40:11,000
+pick slowly with a needle
+
+1086
+00:40:11,000 --> 00:40:12,000
+If today this material
+
+1087
+00:40:12,000 --> 00:40:14,000
+can attract pollen tubes
+
+1088
+00:40:14,000 --> 00:40:16,000
+It will grow outward and grow in again
+
+1089
+00:40:16,000 --> 00:40:17,000
+if it is water
+
+1090
+00:40:17,000 --> 00:40:18,000
+it will grow wildly
+
+1091
+00:40:18,000 --> 00:40:19,000
+So later it found
+
+1092
+00:40:19,000 --> 00:40:20,000
+really this thing
+
+1093
+00:40:20,000 --> 00:40:21,000
+it affects it
+
+1094
+00:40:21,000 --> 00:40:23,000
+and it's a protein
+
+1095
+00:40:23,000 --> 00:40:25,000
+When you, the stored substance
+
+1096
+00:40:25,000 --> 00:40:26,000
+after you add
+
+1097
+00:40:26,000 --> 00:40:27,000
+lost activity
+
+1098
+00:40:27,000 --> 00:40:29,000
+Finally they found a
+
+1099
+00:40:29,000 --> 00:40:30,000
+Cymocyanin
+
+1100
+00:40:30,000 --> 00:40:32,000
+it's a protein
+
+1101
+00:40:32,000 --> 00:40:33,000
+So that means
+
+1102
+00:40:33,000 --> 00:40:35,000
+possibly among different species
+
+1103
+00:40:35,000 --> 00:40:37,000
+have different molecules
+
+1104
+00:40:37,000 --> 00:40:38,000
+or protein
+
+1105
+00:40:38,000 --> 00:40:40,000
+participate in this mechanism
+
+1106
+00:40:40,000 --> 00:40:43,000
+So I think this is a
+
+1107
+00:40:43,000 --> 00:40:45,000
+That means we're in the middle of the process
+
+1108
+00:40:45,000 --> 00:40:47,000
+Now of course one after another
+
+1109
+00:40:47,000 --> 00:40:50,000
+students now
+
+1110
+00:40:50,000 --> 00:40:51,000
+their laboratory
+
+1111
+00:40:51,000 --> 00:40:52,000
+they talk
+
+1112
+00:40:52,000 --> 00:40:53,000
+ok we now know
+
+1113
+00:40:53,000 --> 00:40:55,000
+There is a general definition of Micropile
+
+1114
+00:40:55,000 --> 00:40:57,000
+What is the general definition of Funical?
+
+1115
+00:40:57,000 --> 00:40:59,000
+the other pollen tube
+
+1116
+00:41:00,000 --> 00:41:01,800
+to go all the way down from the casting head
+
+1117
+00:41:01,960 --> 00:41:04,960
+What is this long-distance signal?
+
+1118
+00:41:04,960 --> 00:41:07,000
+So scientists are never satisfied
+
+1119
+00:41:07,000 --> 00:41:08,400
+So they also try to
+
+1120
+00:41:08,400 --> 00:41:10,520
+I heard that I found it
+
+1121
+00:41:10,520 --> 00:41:11,600
+but not yet published
+
+1122
+00:41:11,600 --> 00:41:13,920
+We'd like to say that we'll probably know soon
+
+1123
+00:41:14,040 --> 00:41:17,280
+What molecules are attracted to this petal jar?
+
+1124
+00:41:17,520 --> 00:41:20,000
+All the way from the casting head along the style
+
+1125
+00:41:20,200 --> 00:41:21,520
+finally to the fat
+
+1126
+00:41:21,600 --> 00:41:22,080
+Embryo pig
+
+1127
+00:41:22,880 --> 00:41:23,520
+its growth
+
+1128
+00:41:23,880 --> 00:41:25,760
+so it's a process
+
+1129
+00:41:25,760 --> 00:41:34,080
+The next thing I want to tell you is that we have been here for about ten years
+
+1130
+00:41:34,080 --> 00:41:35,400
+Twenty or ten years
+
+1131
+00:41:35,400 --> 00:41:36,640
+Ten years?
+
+1132
+00:41:36,640 --> 00:41:37,640
+should be about the same
+
+1133
+00:41:37,640 --> 00:41:38,600
+I do Post-Auto there
+
+1134
+00:41:38,600 --> 00:41:39,520
+about ten years
+
+1135
+00:41:39,520 --> 00:41:41,480
+I'm sorry for twenty years
+
+1136
+00:41:41,480 --> 00:41:46,120
+some recent tools
+
+1137
+00:41:46,120 --> 00:41:49,920
+For example, we have long believed that
+
+1138
+00:41:49,920 --> 00:41:52,400
+You want to see the finer structure of the cell
+
+1139
+00:41:52,400 --> 00:41:54,040
+You're going to the electron microscope
+
+1140
+00:41:54,040 --> 00:41:55,400
+electron microscope
+
+1141
+00:41:55,400 --> 00:41:56,040
+right
+
+1142
+00:41:56,040 --> 00:41:58,800
+The light microscope has its one limit
+
+1143
+00:41:58,800 --> 00:42:00,000
+but in the past this
+
+1144
+00:42:00,000 --> 00:42:04,400
+In addition to a research and development of optical microscopes in recent years
+
+1145
+00:42:04,400 --> 00:42:06,760
+There is also the root of a technology called the digital camera
+
+1146
+00:42:06,760 --> 00:42:10,400
+We have something called a confocal optical microscope
+
+1147
+00:42:10,400 --> 00:42:12,920
+This makes the optical microscope
+
+1148
+00:42:12,920 --> 00:42:15,440
+FusionExcel's optical microscope seems to be reborn again
+
+1149
+00:42:15,440 --> 00:42:17,760
+an opportunity for regeneration
+
+1150
+00:42:17,760 --> 00:42:20,600
+The other one is that we now have really good computers
+
+1151
+00:42:20,600 --> 00:42:22,200
+works fast enough
+
+1152
+00:42:22,200 --> 00:42:24,000
+It is possible to process these images
+
+1153
+00:42:24,000 --> 00:42:26,600
+Then there are some fluorescent proteins
+
+1154
+00:42:26,600 --> 00:42:28,400
+Production of fluorescent substances
+
+1155
+00:42:28,400 --> 00:42:30,600
+Finally there is a laser system
+
+1156
+00:42:30,600 --> 00:42:31,680
+These three
+
+1157
+00:42:31,680 --> 00:42:34,600
+These four things finally make a
+
+1158
+00:42:34,600 --> 00:42:37,000
+We now have what's called a confocal microscope
+
+1159
+00:42:37,000 --> 00:42:39,000
+Many research institutes now have
+
+1160
+00:42:39,000 --> 00:42:41,480
+What is the so-called confocal microscope
+
+1161
+00:42:41,480 --> 00:42:44,240
+Our Traditional Fluorescence Microscope
+
+1162
+00:42:44,240 --> 00:42:46,720
+its light source
+
+1163
+00:42:46,720 --> 00:42:49,720
+The message we received was like this
+
+1164
+00:42:49,720 --> 00:42:51,200
+but conjugate focus
+
+1165
+00:42:51,200 --> 00:42:54,040
+It can be said that it can use a computer to see
+
+1166
+00:42:54,200 --> 00:42:56,600
+so you can put your laser
+
+1167
+00:42:56,600 --> 00:42:59,160
+only on a certain layer
+
+1168
+00:42:59,160 --> 00:43:00,080
+it's yours it's yours
+
+1169
+00:43:00,000 --> 00:43:03,920
+This is your specimen of your plant
+
+1170
+00:43:03,920 --> 00:43:06,400
+You can only position in this collar
+
+1171
+00:43:06,400 --> 00:43:07,320
+or locate here
+
+1172
+00:43:07,320 --> 00:43:09,600
+you put other noise signals
+
+1173
+00:43:09,600 --> 00:43:11,960
+Use Filter to filter it out
+
+1174
+00:43:11,960 --> 00:43:13,960
+So what effect does it have
+
+1175
+00:43:13,960 --> 00:43:16,760
+This is the tradition we see
+
+1176
+00:43:16,760 --> 00:43:19,160
+Conventional Fluorescence Microscopy
+
+1177
+00:43:19,160 --> 00:43:19,960
+but you can see
+
+1178
+00:43:19,960 --> 00:43:20,800
+concord microscope
+
+1179
+00:43:20,800 --> 00:43:23,760
+Can make your image see more clearly
+
+1180
+00:43:23,760 --> 00:43:26,320
+Your image can be seen more clearly
+
+1181
+00:43:26,320 --> 00:43:28,480
+For example, we can in this
+
+1182
+00:43:28,480 --> 00:43:30,280
+You can see us using
+
+1183
+00:43:30,280 --> 00:43:32,960
+It can be at different delivery locations
+
+1184
+00:43:32,960 --> 00:43:35,120
+We can scan a pollen tube
+
+1185
+00:43:35,120 --> 00:43:36,360
+top to bottom
+
+1186
+00:43:36,360 --> 00:43:38,000
+you can go from top to bottom
+
+1187
+00:43:38,000 --> 00:43:40,360
+Finally, you can use the computer to combine
+
+1188
+00:43:40,360 --> 00:43:41,720
+a 3D construct
+
+1189
+00:43:41,720 --> 00:43:42,960
+for example
+
+1190
+00:43:42,960 --> 00:43:45,560
+This is an air port that our lab is working on
+
+1191
+00:43:45,560 --> 00:43:46,800
+it's arabian
+
+1192
+00:43:46,800 --> 00:43:49,200
+arabian world you can find
+
+1193
+00:43:49,200 --> 00:43:51,360
+Scanning TV mirrors seem to look like
+
+1194
+00:43:51,360 --> 00:43:53,080
+Give you cool 3D
+
+1195
+00:43:53,080 --> 00:43:55,720
+A bit of a 3D effect, right?
+
+1196
+00:43:55,720 --> 00:43:57,000
+This we also see the fluorescent representative
+
+1197
+00:43:57,000 --> 00:43:58,280
+How can the effect of generating electricity
+
+1198
+00:43:58,320 --> 00:43:59,480
+but
+
+1199
+00:43:59,480 --> 00:44:00,040
+You use
+
+1200
+00:44:00,000 --> 00:44:02,000
+Very focal effect
+
+1201
+00:44:02,000 --> 00:44:03,740
+what effect can you give
+
+1202
+00:44:03,740 --> 00:44:04,740
+you can see
+
+1203
+00:44:06,000 --> 00:44:07,240
+you can scan
+
+1204
+00:44:08,500 --> 00:44:10,300
+you can swipe from top to bottom
+
+1205
+00:44:10,300 --> 00:44:12,500
+You can see that this is a stomata structure
+
+1206
+00:44:13,340 --> 00:44:16,000
+You can make the pores have a three-dimensional structure like this
+
+1207
+00:44:16,580 --> 00:44:18,580
+This is from top to bottom
+
+1208
+00:44:19,200 --> 00:44:20,740
+It's okay if you're not satisfied
+
+1209
+00:44:20,740 --> 00:44:22,240
+we can go from left to right
+
+1210
+00:44:22,940 --> 00:44:24,200
+you can see this blowhole
+
+1211
+00:44:24,200 --> 00:44:25,500
+These are two air pockets
+
+1212
+00:44:25,500 --> 00:44:27,500
+Then there is a hole in the middle
+
+1213
+00:44:27,500 --> 00:44:30,200
+where the gas can freely pass through
+
+1214
+00:44:30,700 --> 00:44:31,800
+you can side
+
+1215
+00:44:32,400 --> 00:44:35,500
+A microscope made like this from the side
+
+1216
+00:44:36,400 --> 00:44:38,200
+So this can be used quite a bit
+
+1217
+00:44:38,400 --> 00:44:40,400
+It's okay if you don't think it's enough
+
+1218
+00:44:40,800 --> 00:44:42,000
+We can do 3D
+
+1219
+00:44:42,900 --> 00:44:44,200
+You can use different
+
+1220
+00:44:44,200 --> 00:44:45,700
+You can make structures in 3D
+
+1221
+00:44:47,000 --> 00:44:48,000
+So you can combine it with
+
+1222
+00:44:48,000 --> 00:44:49,200
+you can scan different
+
+1223
+00:44:49,200 --> 00:44:51,600
+You combine all the images of this thing
+
+1224
+00:44:51,900 --> 00:44:52,700
+you can watch
+
+1225
+00:44:52,700 --> 00:44:54,100
+so you can see
+
+1226
+00:44:54,100 --> 00:44:57,300
+If your protein special Label is in a certain pair
+
+1227
+00:44:57,300 --> 00:45:00,000
+You can see your protein in
+
+1228
+00:45:00,000 --> 00:45:01,000
+this cell
+
+1229
+00:45:01,000 --> 00:45:04,200
+or a particular location inside the cell
+
+1230
+00:45:04,200 --> 00:45:06,400
+So you can push the function to heat it
+
+1231
+00:45:06,400 --> 00:45:08,400
+So this is a pretty interesting
+
+1232
+00:45:08,400 --> 00:45:10,200
+conventional microscope
+
+1233
+00:45:10,200 --> 00:45:11,200
+We can see that
+
+1234
+00:45:11,200 --> 00:45:13,200
+or by silver cursor
+
+1235
+00:45:13,200 --> 00:45:14,400
+or elevator microscope
+
+1236
+00:45:14,400 --> 00:45:15,800
+you can tell
+
+1237
+00:45:15,800 --> 00:45:18,000
+This seems to look fine detail
+
+1238
+00:45:18,000 --> 00:45:19,000
+but what
+
+1239
+00:45:19,000 --> 00:45:21,000
+They are all dead cells
+
+1240
+00:45:21,000 --> 00:45:22,200
+they are all
+
+1241
+00:45:22,200 --> 00:45:23,200
+you will want to say
+
+1242
+00:45:23,200 --> 00:45:26,000
+So what would it be like under the living body?
+
+1243
+00:45:26,000 --> 00:45:29,000
+So by one like this
+
+1244
+00:45:29,000 --> 00:45:32,000
+So finally one of the things we found was
+
+1245
+00:45:32,000 --> 00:45:33,400
+silver light protein
+
+1246
+00:45:33,400 --> 00:45:34,400
+silver light protein
+
+1247
+00:45:34,400 --> 00:45:35,400
+i think everyone knows
+
+1248
+00:45:35,400 --> 00:45:37,400
+We have a lot of news from before the network
+
+1249
+00:45:37,400 --> 00:45:39,600
+silver light fish zebrafish
+
+1250
+00:45:39,600 --> 00:45:40,400
+all kinds
+
+1251
+00:45:40,400 --> 00:45:42,600
+It is mainly a silver light protein
+
+1252
+00:45:42,600 --> 00:45:43,800
+I used to find green
+
+1253
+00:45:43,800 --> 00:45:44,800
+red now
+
+1254
+00:45:44,800 --> 00:45:46,200
+various colors
+
+1255
+00:45:46,200 --> 00:45:47,600
+when your color
+
+1256
+00:45:47,600 --> 00:45:50,400
+When you are the appearance of silver light protein
+
+1257
+00:45:50,400 --> 00:45:52,000
+you can find
+
+1258
+00:45:52,000 --> 00:45:53,600
+assortment you can use on animals
+
+1259
+00:45:53,600 --> 00:45:54,600
+can be used on plants
+
+1260
+00:45:54,600 --> 00:45:55,800
+how it is used in plants
+
+1261
+00:45:55,800 --> 00:45:58,000
+For example, we can use the protein
+
+1262
+00:45:58,000 --> 00:45:59,000
+Although we see stomata
+
+1263
+00:46:00,000 --> 00:46:01,160
+ovules you see
+
+1264
+00:46:01,160 --> 00:46:02,200
+This is the whole embryo
+
+1265
+00:46:02,200 --> 00:46:05,200
+This is the middle of the process of cell division we see
+
+1266
+00:46:05,200 --> 00:46:07,000
+A variation of imitation hammer wire
+
+1267
+00:46:07,000 --> 00:46:10,000
+or inside a plant leaf that we can get
+
+1268
+00:46:10,000 --> 00:46:12,400
+do so-called Potoplas
+
+1269
+00:46:12,400 --> 00:46:14,000
+Then we can do some analysis
+
+1270
+00:46:14,000 --> 00:46:16,000
+Ours is, for example, this is
+
+1271
+00:46:16,000 --> 00:46:17,200
+This is the chloroplast
+
+1272
+00:46:17,200 --> 00:46:19,200
+we can do many many things
+
+1273
+00:46:19,200 --> 00:46:21,000
+others you can see
+
+1274
+00:46:21,000 --> 00:46:22,200
+like a cytoskeleton
+
+1275
+00:46:22,200 --> 00:46:24,000
+Cytoskeleton Sidere Scalata
+
+1276
+00:46:24,000 --> 00:46:25,000
+You can find this is
+
+1277
+00:46:25,000 --> 00:46:27,600
+This is the fresh hair on the surface of the leaf
+
+1278
+00:46:27,600 --> 00:46:29,400
+you can see these cytoskeletons
+
+1279
+00:46:29,400 --> 00:46:32,400
+how do you form such a construct
+
+1280
+00:46:32,400 --> 00:46:33,400
+the one we just talked about
+
+1281
+00:46:33,400 --> 00:46:35,400
+Can see Live Image
+
+1282
+00:46:35,400 --> 00:46:37,400
+This is a Live Image
+
+1283
+00:46:37,400 --> 00:46:40,400
+You can see that its Label is imitation hammer wire
+
+1284
+00:46:40,400 --> 00:46:41,400
+Microtubule
+
+1285
+00:46:41,400 --> 00:46:42,400
+you can find
+
+1286
+00:46:42,400 --> 00:46:43,400
+you see the cells are dividing
+
+1287
+00:46:43,400 --> 00:46:44,400
+you can see
+
+1288
+00:46:44,400 --> 00:46:45,400
+right in front of your eyes
+
+1289
+00:46:45,400 --> 00:46:47,400
+you can see living cells
+
+1290
+00:46:47,400 --> 00:46:49,400
+Live Whole Your Gene Bomber
+
+1291
+00:46:49,400 --> 00:46:51,400
+the whole change
+
+1292
+00:46:51,400 --> 00:46:52,400
+Although I think it's a
+
+1293
+00:46:52,400 --> 00:46:53,400
+for us is a
+
+1294
+00:46:53,400 --> 00:46:56,400
+very useful tool
+
+1295
+00:46:56,400 --> 00:46:57,400
+Is it useful?
+
+1296
+00:46:57,400 --> 00:46:58,400
+So we are now saying
+
+1297
+00:46:58,400 --> 00:46:59,400
+Both these tools
+
+1298
+00:47:00,000 --> 00:47:02,000
+what we couldn't do before
+
+1299
+00:47:02,000 --> 00:47:04,000
+For example, before we could only say
+
+1300
+00:47:04,000 --> 00:47:06,000
+whip out a protein or something
+
+1301
+00:47:06,000 --> 00:47:08,000
+Now you can use fluorescent subtraction to mirror
+
+1302
+00:47:08,000 --> 00:47:10,000
+we use some way to turn straight
+
+1303
+00:47:10,000 --> 00:47:12,000
+We can see these cells in living
+
+1304
+00:47:12,000 --> 00:47:14,000
+even you can see the little cytoplasm
+
+1305
+00:47:14,000 --> 00:47:18,000
+Inside the Cytoskeleton of Matter Research
+
+1306
+00:47:18,000 --> 00:47:19,000
+running in and out
+
+1307
+00:47:19,000 --> 00:47:20,000
+wait till we have one
+
+1308
+00:47:20,000 --> 00:47:23,000
+A video to introduce to you
+
+1309
+00:47:23,000 --> 00:47:25,000
+Then our laboratory research is mainly
+
+1310
+00:47:25,000 --> 00:47:28,000
+Some genes involved in the sexual biomass of plants
+
+1311
+00:47:28,000 --> 00:47:30,000
+Same
+
+1312
+00:47:30,000 --> 00:47:32,000
+This is the life of the whole plant
+
+1313
+00:47:32,000 --> 00:47:34,000
+Our main thing is
+
+1314
+00:47:34,000 --> 00:47:36,000
+The earliest our laboratory
+
+1315
+00:47:36,000 --> 00:47:38,000
+I'm personally interested in pollen
+
+1316
+00:47:38,000 --> 00:47:40,000
+Because I think pollen is really a
+
+1317
+00:47:40,000 --> 00:47:41,000
+very cool
+
+1318
+00:47:41,000 --> 00:47:42,000
+Why
+
+1319
+00:47:42,000 --> 00:47:43,000
+it is a cell
+
+1320
+00:47:43,000 --> 00:47:45,000
+it has its own cell box
+
+1321
+00:47:45,000 --> 00:47:47,000
+we call nutrition box
+
+1322
+00:47:47,000 --> 00:47:48,000
+But inside this cell
+
+1323
+00:47:48,000 --> 00:47:51,000
+two more gold cells
+
+1324
+00:47:51,000 --> 00:47:53,000
+So it is an extremely degenerate
+
+1325
+00:47:53,000 --> 00:47:55,000
+a bear configuration
+
+1326
+00:47:55,000 --> 00:47:56,000
+but it's a cell box
+
+1327
+00:47:56,000 --> 00:47:57,000
+so it can be done
+
+1328
+00:47:57,000 --> 00:47:59,000
+Pretty good for a cytology
+
+1329
+00:47:59,000 --> 00:48:00,000
+study one
+
+1330
+00:48:00,000 --> 00:48:05,000
+Then in the past and later, in the past few years in the future, we will slowly expand
+
+1331
+00:48:05,000 --> 00:48:10,000
+We found that some of the research we did started to lead to the so-called configuration
+
+1332
+00:48:10,000 --> 00:48:13,000
+The development of the male and female gametes
+
+1333
+00:48:13,000 --> 00:48:15,000
+In the end, we also found that something to do with the seeds
+
+1334
+00:48:15,000 --> 00:48:18,000
+So we all revolve around the reproductive growth of so-called plants
+
+1335
+00:48:18,000 --> 00:48:20,000
+For the past few years we have used
+
+1336
+00:48:20,000 --> 00:48:25,000
+We want to be able to study certain genes or proteins
+
+1337
+00:48:25,000 --> 00:48:28,000
+How to participate in so-called male gametes or pollination
+
+1338
+00:48:28,000 --> 00:48:30,000
+or the process of so-called embryonic development
+
+1339
+00:48:30,000 --> 00:48:35,000
+We used iron cannon lily rice and Arabian circles as materials
+
+1340
+00:48:35,000 --> 00:48:37,000
+But let me introduce to you today
+
+1341
+00:48:37,000 --> 00:48:40,000
+We have spent the past few years in Iron Cannon Lily
+
+1342
+00:48:40,000 --> 00:48:42,000
+Iron Lily
+
+1343
+00:48:42,000 --> 00:48:44,000
+Why did we use Iron Cannon Lily in the first place?
+
+1344
+00:48:44,000 --> 00:48:45,000
+You go and see
+
+1345
+00:48:45,000 --> 00:48:48,000
+This is the anther of the iron cannon lily
+
+1346
+00:48:48,000 --> 00:48:51,000
+The small and pitiful one next to it is the flower of the Arabian world
+
+1347
+00:48:51,000 --> 00:48:54,000
+You can find that its anthers are much larger than other people's flowers
+
+1348
+00:48:54,000 --> 00:48:56,000
+It's certainly a good material
+
+1349
+00:48:56,000 --> 00:48:57,000
+Another one you can find
+
+1350
+00:48:57,000 --> 00:48:59,000
+it is a hollow style
+
+1351
+00:49:00,000 --> 00:49:01,280
+There are ways to collect so-called
+
+1352
+00:49:01,280 --> 00:49:03,520
+Pollen House at Invival
+
+1353
+00:49:03,520 --> 00:49:05,520
+The third we found
+
+1354
+00:49:05,520 --> 00:49:07,120
+its stigma
+
+1355
+00:49:07,120 --> 00:49:08,600
+it constantly secretes a
+
+1356
+00:49:08,600 --> 00:49:09,760
+sticky sticky stuff
+
+1357
+00:49:09,760 --> 00:49:11,560
+Our name is Stella Exde
+
+1358
+00:49:11,560 --> 00:49:13,400
+You can find this sticky down
+
+1359
+00:49:13,400 --> 00:49:14,880
+we can collect this
+
+1360
+00:49:14,880 --> 00:49:15,560
+we can find out
+
+1361
+00:49:15,560 --> 00:49:18,080
+Later this Stella Exde is very magical
+
+1362
+00:49:18,080 --> 00:49:19,800
+it has something in it
+
+1363
+00:49:19,800 --> 00:49:22,920
+When your pollen is placed at minus 20 degrees
+
+1364
+00:49:22,920 --> 00:49:24,760
+saved for 6 months
+
+1365
+00:49:24,760 --> 00:49:27,120
+Then you stop normally and take it out
+
+1366
+00:49:27,120 --> 00:49:29,720
+The efficiency of the pollen hall is very poor
+
+1367
+00:49:29,720 --> 00:49:31,080
+right? think about it
+
+1368
+00:49:31,080 --> 00:49:32,240
+Don't talk about people
+
+1369
+00:49:32,240 --> 00:49:32,960
+Pollen House, right?
+
+1370
+00:49:32,960 --> 00:49:34,360
+like a cell
+
+1371
+00:49:34,360 --> 00:49:35,680
+pollen grain
+
+1372
+00:49:35,680 --> 00:49:38,440
+But pollen like you
+
+1373
+00:49:38,440 --> 00:49:39,360
+stored pollen
+
+1374
+00:49:39,360 --> 00:49:40,920
+You add Stella Exde
+
+1375
+00:49:40,920 --> 00:49:43,240
+About 10% Stella Exde
+
+1376
+00:49:43,240 --> 00:49:45,840
+It restores the germination of pollen tubes
+
+1377
+00:49:45,840 --> 00:49:48,160
+So it's kind of like a rejuvenation effect
+
+1378
+00:49:48,160 --> 00:49:48,880
+so our laboratory
+
+1379
+00:49:48,880 --> 00:49:50,480
+interested in this too
+
+1380
+00:49:50,480 --> 00:49:51,680
+We Later We Now Lab
+
+1381
+00:49:51,680 --> 00:49:53,480
+We draw this Stella Exde
+
+1382
+00:49:53,480 --> 00:49:55,800
+We want to be able to Purify its molecule
+
+1383
+00:49:55,840 --> 00:49:57,200
+So we use the so-called
+
+1384
+00:49:57,200 --> 00:49:58,200
+Chromatic Analysis
+
+1385
+00:49:58,200 --> 00:49:59,880
+We have divided into different Fraction
+
+1386
+00:50:00,000 --> 00:50:02,420
+And one of the ones we found now
+
+1387
+00:50:02,420 --> 00:50:06,260
+These two freshers very much retain such activity
+
+1388
+00:50:06,260 --> 00:50:09,620
+And the molecules are now probably identified as well.
+
+1389
+00:50:09,620 --> 00:50:12,000
+just don't know what it is
+
+1390
+00:50:12,000 --> 00:50:16,100
+Its three-dimensional 3D structure is left-handed and right-handed
+
+1391
+00:50:16,100 --> 00:50:19,500
+Or does this molecule have other derivatives?
+
+1392
+00:50:19,500 --> 00:50:22,160
+We look a bit like a derivative of ancetonic acid
+
+1393
+00:50:22,160 --> 00:50:24,000
+But now we have to go further
+
+1394
+00:50:24,000 --> 00:50:26,000
+Hope to be able to synthesize to test
+
+1395
+00:50:26,000 --> 00:50:28,300
+so this is where we are
+
+1396
+00:50:28,300 --> 00:50:30,300
+Because the pollen house I just talked about
+
+1397
+00:50:30,300 --> 00:50:32,300
+You see, the pollen hall can be used as
+
+1398
+00:50:32,300 --> 00:50:35,300
+basically what happens inside a cell
+
+1399
+00:50:35,300 --> 00:50:37,300
+So the message goes
+
+1400
+00:50:37,300 --> 00:50:39,300
+Cap ion goes in
+
+1401
+00:50:39,300 --> 00:50:42,300
+All of these are on the pollen pavilion
+
+1402
+00:50:42,300 --> 00:50:44,300
+so it is a very good as a material
+
+1403
+00:50:44,300 --> 00:50:47,300
+So let's say we have two graduate students
+
+1404
+00:50:47,300 --> 00:50:48,300
+high school student
+
+1405
+00:50:48,300 --> 00:50:51,300
+high school students they will one day
+
+1406
+00:50:51,300 --> 00:50:53,300
+They come to our laboratory
+
+1407
+00:50:53,300 --> 00:50:55,300
+He said he wanted to do a science exhibition, and I said yes.
+
+1408
+00:50:55,300 --> 00:50:56,300
+what do you want to do
+
+1409
+00:50:56,300 --> 00:50:57,300
+I want to say this is good for them to do
+
+1410
+00:50:57,300 --> 00:50:59,300
+you can find them found to do
+
+1411
+00:51:00,000 --> 00:51:04,200
+Finally, it was found that when the pollen tubes are in the middle of the process
+
+1412
+00:51:04,200 --> 00:51:06,720
+What happens to the oil in it
+
+1413
+00:51:06,960 --> 00:51:08,240
+changes in oil
+
+1414
+00:51:08,240 --> 00:51:09,840
+Later in fact we were before
+
+1415
+00:51:09,840 --> 00:51:11,560
+A few years ago we discovered that in plants
+
+1416
+00:51:11,760 --> 00:51:15,480
+We can use Iron Cannon Lily
+
+1417
+00:51:15,680 --> 00:51:19,640
+Although it is an iron cannon lily, although it cannot be genetically modified
+
+1418
+00:51:19,960 --> 00:51:22,520
+But scientists are still very powerful
+
+1419
+00:51:22,640 --> 00:51:24,000
+gene gun
+
+1420
+00:51:24,600 --> 00:51:27,000
+We take the proteins we find
+
+1421
+00:51:27,360 --> 00:51:30,240
+Then we code on an energy
+
+1422
+00:51:30,240 --> 00:51:31,800
+like say this is us
+
+1423
+00:51:32,000 --> 00:51:32,600
+Not sorry
+
+1424
+00:51:32,600 --> 00:51:33,360
+plasticizing
+
+1425
+00:51:33,360 --> 00:51:34,200
+a plastid
+
+1426
+00:51:34,200 --> 00:51:35,440
+have the genes we want
+
+1427
+00:51:35,440 --> 00:51:37,040
+Then we use the gene gun
+
+1428
+00:51:37,040 --> 00:51:38,840
+Hit this gene until after this
+
+1429
+00:51:38,840 --> 00:51:40,360
+Let's use comfoca to see
+
+1430
+00:51:40,360 --> 00:51:41,160
+so you can find
+
+1431
+00:51:41,160 --> 00:51:42,120
+iron lily
+
+1432
+00:51:42,120 --> 00:51:43,000
+you can find
+
+1433
+00:51:43,000 --> 00:51:45,880
+This protein can really express
+
+1434
+00:51:45,880 --> 00:51:48,440
+Then we have this one on the oil body
+
+1435
+00:51:48,440 --> 00:51:50,360
+Purified protein
+
+1436
+00:51:50,360 --> 00:51:51,240
+you can find
+
+1437
+00:51:51,240 --> 00:51:53,280
+As the pollen tube grows
+
+1438
+00:51:53,280 --> 00:51:55,040
+You can find these oil bodies
+
+1439
+00:51:55,040 --> 00:51:56,880
+really works constantly
+
+1440
+00:51:57,040 --> 00:51:59,160
+so we know real pollen tubes
+
+1441
+00:51:59,160 --> 00:51:59,960
+at least we
+
+1442
+00:52:00,000 --> 00:52:01,680
+Later experiments also found
+
+1443
+00:52:01,680 --> 00:52:03,840
+When the whole pollen hall is covered
+
+1444
+00:52:03,840 --> 00:52:07,400
+There is a group of fats that change
+
+1445
+00:52:07,400 --> 00:52:09,760
+Another group of fat will increase
+
+1446
+00:52:09,760 --> 00:52:12,160
+May be involved in cell membrane growth
+
+1447
+00:52:12,160 --> 00:52:15,200
+Because the pollen hall grows it needs the cell membrane
+
+1448
+00:52:15,200 --> 00:52:16,720
+Constant supply of cell membrane
+
+1449
+00:52:16,720 --> 00:52:17,880
+those material
+
+1450
+00:52:17,880 --> 00:52:20,480
+So that might be the mechanism
+
+1451
+00:52:20,480 --> 00:52:22,280
+So we're in the middle of the process
+
+1452
+00:52:22,280 --> 00:52:23,680
+we also found a
+
+1453
+00:52:23,680 --> 00:52:26,360
+a so-called cytoskeletal protein
+
+1454
+00:52:26,360 --> 00:52:27,400
+It's called LIM
+
+1455
+00:52:27,400 --> 00:52:29,440
+Then we also did some experiments
+
+1456
+00:52:29,560 --> 00:52:31,600
+What are cytoskeletal proteins?
+
+1457
+00:52:31,600 --> 00:52:33,520
+it's a cartoon
+
+1458
+00:52:33,520 --> 00:52:34,360
+you can find
+
+1459
+00:52:34,360 --> 00:52:36,440
+this is the root of a plant
+
+1460
+00:52:36,440 --> 00:52:38,120
+this is the root of a plant
+
+1461
+00:52:38,120 --> 00:52:40,000
+Then they made genetically modified plants
+
+1462
+00:52:40,000 --> 00:52:43,080
+He found that this protein only had GFG fluorescence
+
+1463
+00:52:43,080 --> 00:52:45,960
+You can find it manifesting in root hairs
+
+1464
+00:52:45,960 --> 00:52:48,200
+You see and then they order
+
+1465
+00:52:48,200 --> 00:52:49,080
+it's all real
+
+1466
+00:52:49,080 --> 00:52:51,120
+The words below the back are cartoons
+
+1467
+00:52:51,120 --> 00:52:52,800
+that's what they found
+
+1468
+00:52:52,800 --> 00:52:55,840
+This is a cytoskeletal protein
+
+1469
+00:52:55,840 --> 00:52:58,000
+It should help you out of the so-called
+
+1470
+00:52:58,000 --> 00:53:00,000
+Acting Weiss's A Knot
+
+1471
+00:53:00,000 --> 00:53:04,000
+What is the structure of these micro divisions that you finally found out
+
+1472
+00:53:04,000 --> 00:53:09,000
+it's...you can find it walking around
+
+1473
+00:53:09,000 --> 00:53:13,000
+It's these proteins it's an acid binding protein
+
+1474
+00:53:13,000 --> 00:53:17,000
+it has a nonspecies species on it
+
+1475
+00:53:17,000 --> 00:53:20,000
+You can find it can walk up and down on this
+
+1476
+00:53:20,000 --> 00:53:22,000
+So it's fun. This is the Western Gaogu religion.
+
+1477
+00:53:22,000 --> 00:53:24,000
+This is Sytle skeleton
+
+1478
+00:53:24,000 --> 00:53:28,000
+The thing we make doesn't go like this
+
+1479
+00:53:28,000 --> 00:53:31,000
+but also something like
+
+1480
+00:53:31,000 --> 00:53:34,000
+So for example we find
+
+1481
+00:53:34,000 --> 00:53:36,000
+when normal in this pollen house
+
+1482
+00:53:36,000 --> 00:53:38,000
+We still use the gene gun to express
+
+1483
+00:53:38,000 --> 00:53:40,000
+You can find our protein
+
+1484
+00:53:40,000 --> 00:53:44,000
+it will follow the cytoskeleton
+
+1485
+00:53:44,000 --> 00:53:47,000
+It's F acting, it's the combination of micro-teachers
+
+1486
+00:53:47,000 --> 00:53:50,000
+But when you're dealing with this micro division's decomposing matter
+
+1487
+00:53:50,000 --> 00:53:53,000
+You can find that the combination is gone
+
+1488
+00:53:53,000 --> 00:53:56,000
+Then when we do a lot of this performance
+
+1489
+00:53:56,000 --> 00:53:58,000
+you see it found
+
+1490
+00:54:00,000 --> 00:54:01,600
+When pollen tubes are abundant
+
+1491
+00:54:01,900 --> 00:54:03,800
+Originally normal growth pollen tube
+
+1492
+00:54:03,800 --> 00:54:06,920
+You will find that there is a middle pollen tube
+
+1493
+00:54:06,920 --> 00:54:10,480
+There will be a joint-like thing appearing at the tip
+
+1494
+00:54:10,760 --> 00:54:12,640
+Let's say you're like a normal pollen tube
+
+1495
+00:54:14,240 --> 00:54:15,160
+it grows like this
+
+1496
+00:54:15,560 --> 00:54:17,200
+it will keep growing
+
+1497
+00:54:17,600 --> 00:54:19,440
+But when your gene happens
+
+1498
+00:54:19,440 --> 00:54:21,760
+When you let this protein express in large quantities
+
+1499
+00:54:22,240 --> 00:54:23,680
+Pollen tube growth stops
+
+1500
+00:54:23,960 --> 00:54:25,520
+Then you can find that the pollen tubes grow
+
+1501
+00:54:25,520 --> 00:54:28,040
+In the middle of this process, there is a particularly bright
+
+1502
+00:54:28,280 --> 00:54:30,080
+Our protein creates a
+
+1503
+00:54:30,400 --> 00:54:33,000
+a so-called aggregation of thinking
+
+1504
+00:54:33,320 --> 00:54:35,440
+This will affect the pollen tube
+
+1505
+00:54:35,440 --> 00:54:37,920
+It will prevent the pollen tube from continuing to grow.
+
+1506
+00:54:38,200 --> 00:54:39,760
+So use this way
+
+1507
+00:54:39,760 --> 00:54:40,520
+we just know
+
+1508
+00:54:40,520 --> 00:54:43,400
+Our protein may be a Wisdom-binding protein
+
+1509
+00:54:43,680 --> 00:54:45,640
+it for it throughout the pollen tube
+
+1510
+00:54:45,640 --> 00:54:47,400
+It must go through the growth process
+
+1511
+00:54:47,680 --> 00:54:49,680
+very fine regulation
+
+1512
+00:54:50,960 --> 00:54:53,480
+so this is a
+
+1513
+00:54:53,640 --> 00:54:54,840
+Another one we just talked about
+
+1514
+00:54:54,840 --> 00:54:57,680
+A pollination of whole pollen
+
+1515
+00:54:57,680 --> 00:54:59,680
+we want to know
+
+1516
+00:55:00,000 --> 00:55:04,340
+How does pollen grow in the word dimension
+
+1517
+00:55:04,840 --> 00:55:07,240
+Because all of our current literature above
+
+1518
+00:55:07,240 --> 00:55:09,040
+All of us, like what we just said
+
+1519
+00:55:09,040 --> 00:55:11,080
+The Arab world has a lot of information on the Internet
+
+1520
+00:55:11,580 --> 00:55:15,080
+These are all from the incubator
+
+1521
+00:55:15,380 --> 00:55:18,240
+growing pollen hall
+
+1522
+00:55:18,240 --> 00:55:19,380
+then we were thinking
+
+1523
+00:55:19,800 --> 00:55:22,640
+The pollen hall grows inside the style
+
+1524
+00:55:22,640 --> 00:55:24,080
+why you can find out
+
+1525
+00:55:24,400 --> 00:55:27,080
+We grow in in vitro culture machine
+
+1526
+00:55:27,080 --> 00:55:28,580
+and internally grown pollen pavilions
+
+1527
+00:55:28,820 --> 00:55:31,220
+The first pollen pavilion grown inside the body
+
+1528
+00:55:31,220 --> 00:55:32,420
+grow very fast
+
+1529
+00:55:32,420 --> 00:55:33,820
+Iron Lily
+
+1530
+00:55:34,420 --> 00:55:38,860
+its from stigma to style to its fat
+
+1531
+00:55:38,860 --> 00:55:41,060
+The middle can be up to about 15 cm
+
+1532
+00:55:41,060 --> 00:55:43,560
+It can grow from head to tail in two days
+
+1533
+00:55:44,160 --> 00:55:46,760
+But the incubator you grow in vitro
+
+1534
+00:55:46,760 --> 00:55:48,060
+never last that long
+
+1535
+00:55:48,060 --> 00:55:49,560
+can't grow so fast
+
+1536
+00:55:49,560 --> 00:55:51,260
+The other one is in Iron Explosion Lily
+
+1537
+00:55:51,260 --> 00:55:52,060
+we can find out
+
+1538
+00:55:52,560 --> 00:55:54,460
+growing in the stylet
+
+1539
+00:55:54,460 --> 00:55:56,060
+it attaches to each other
+
+1540
+00:55:56,060 --> 00:55:57,560
+Not only attached to each other
+
+1541
+00:55:57,560 --> 00:55:59,560
+will also be tightly attached to the so-called
+
+1542
+00:56:00,000 --> 00:56:02,000
+emits a surface of this layer
+
+1543
+00:56:02,000 --> 00:56:05,000
+a cell called the epidermal
+
+1544
+00:56:05,000 --> 00:56:06,000
+so we were thinking
+
+1545
+00:56:06,000 --> 00:56:09,000
+Is it growing in vitro or in vivo?
+
+1546
+00:56:09,000 --> 00:56:10,000
+the only difference
+
+1547
+00:56:10,000 --> 00:56:11,000
+Teeth
+
+1548
+00:56:11,000 --> 00:56:13,000
+Is it the one played by Gary?
+
+1549
+00:56:13,000 --> 00:56:14,000
+what kind of role
+
+1550
+00:56:14,000 --> 00:56:18,000
+because of some materials
+
+1551
+00:56:18,000 --> 00:56:21,000
+so there's been no way anyone would know
+
+1552
+00:56:21,000 --> 00:56:23,000
+these pollen tubes
+
+1553
+00:56:23,000 --> 00:56:24,000
+what's going on in the body
+
+1554
+00:56:24,000 --> 00:56:26,000
+so a few years ago
+
+1555
+00:56:26,000 --> 00:56:29,000
+we used a special method
+
+1556
+00:56:29,000 --> 00:56:32,000
+let's just let this
+
+1557
+00:56:32,000 --> 00:56:35,000
+We constructed a transplant pig material
+
+1558
+00:56:35,000 --> 00:56:39,000
+It uses pollen-specific proteins
+
+1559
+00:56:39,000 --> 00:56:40,000
+received a call
+
+1560
+00:56:40,000 --> 00:56:42,000
+ribosomal protein
+
+1561
+00:56:42,000 --> 00:56:43,000
+Ribosomes, do you remember?
+
+1562
+00:56:43,000 --> 00:56:44,000
+At first, what I just said earlier
+
+1563
+00:56:44,000 --> 00:56:46,000
+from genes not most
+
+1564
+00:56:46,000 --> 00:56:47,000
+what messenger to use
+
+1565
+00:56:47,000 --> 00:56:48,000
+message messenger
+
+1566
+00:56:48,000 --> 00:56:51,000
+from the nucleus to the cytoplasm
+
+1567
+00:56:51,000 --> 00:56:52,000
+ribosome
+
+1568
+00:56:52,000 --> 00:56:55,000
+final protein
+
+1569
+00:56:55,000 --> 00:56:56,000
+the ribosomal protein
+
+1570
+00:56:56,000 --> 00:56:58,000
+So we put this protein
+
+1571
+00:56:58,000 --> 00:56:59,000
+how about after showing
+
+1572
+00:57:00,000 --> 00:57:03,480
+Because if you think about it, all the genes are going to come from
+
+1573
+00:57:03,480 --> 00:57:04,940
+Gene to Messenger
+
+1574
+00:57:04,940 --> 00:57:07,640
+Messenger ends up in the ribosome
+
+1575
+00:57:07,640 --> 00:57:10,040
+So of course we our
+
+1576
+00:57:10,040 --> 00:57:12,640
+When ribosomes can be labeled
+
+1577
+00:57:12,640 --> 00:57:14,040
+Let's use Country again
+
+1578
+00:57:14,040 --> 00:57:18,840
+This ribosome can contain the incoming
+
+1579
+00:57:18,840 --> 00:57:21,740
+The message RNA precipitates it all together
+
+1580
+00:57:21,740 --> 00:57:24,240
+At this time we use this way
+
+1581
+00:57:24,240 --> 00:57:27,800
+What we can find is inside the style
+
+1582
+00:57:27,800 --> 00:57:30,240
+protein inside growing pollen tube
+
+1583
+00:57:30,240 --> 00:57:31,940
+And with a so-called
+
+1584
+00:57:31,940 --> 00:57:35,240
+Non-destructive we have something called Translator
+
+1585
+00:57:35,240 --> 00:57:38,740
+That is to say, some of the message RNA
+
+1586
+00:57:38,740 --> 00:57:41,240
+inside the pollen tube
+
+1587
+00:57:41,240 --> 00:57:45,500
+A message inside a growing pollen tube
+
+1588
+00:57:45,500 --> 00:57:47,540
+this we can find
+
+1589
+00:57:47,540 --> 00:57:49,940
+what kind of protein
+
+1590
+00:57:49,940 --> 00:57:52,300
+Which gene products of this process
+
+1591
+00:57:52,300 --> 00:57:53,200
+Also we can find
+
+1592
+00:57:53,200 --> 00:57:54,840
+This gene is really fun
+
+1593
+00:57:54,840 --> 00:57:56,200
+This is normal Wildtide
+
+1594
+00:57:56,240 --> 00:57:58,240
+you can spot a pollen tube
+
+1595
+00:57:58,240 --> 00:57:59,840
+Will only meet from a micro
+
+1596
+00:58:00,000 --> 00:58:02,000
+But when you some
+
+1597
+00:58:02,000 --> 00:58:04,000
+We find these genes
+
+1598
+00:58:04,000 --> 00:58:06,000
+to find its mutant
+
+1599
+00:58:06,000 --> 00:58:07,000
+its pollen tube
+
+1600
+00:58:07,000 --> 00:58:13,000
+The first pig's mouth that couldn't find Chi Rui
+
+1601
+00:58:13,000 --> 00:58:17,000
+or that it will pass through
+
+1602
+00:58:17,000 --> 00:58:20,000
+additional or multiple pollen tubes
+
+1603
+00:58:20,000 --> 00:58:21,000
+So this is basically
+
+1604
+00:58:21,000 --> 00:58:24,000
+when these are in the pollen
+
+1605
+00:58:24,000 --> 00:58:26,000
+gene generation
+
+1606
+00:58:26,000 --> 00:58:27,000
+when mutation
+
+1607
+00:58:27,000 --> 00:58:29,000
+The whole behavior of your pollen tubes
+
+1608
+00:58:29,000 --> 00:58:31,000
+changed
+
+1609
+00:58:31,000 --> 00:58:32,000
+another one
+
+1610
+00:58:32,000 --> 00:58:34,000
+A student from one of our most recent labs
+
+1611
+00:58:34,000 --> 00:58:35,000
+what he does is
+
+1612
+00:58:35,000 --> 00:58:36,000
+we found so many
+
+1613
+00:58:36,000 --> 00:58:38,000
+one of them
+
+1614
+00:58:38,000 --> 00:58:39,000
+this gene
+
+1615
+00:58:39,000 --> 00:58:41,000
+it is involved as well
+
+1616
+00:58:41,000 --> 00:58:43,000
+Related to Raboson synthesis
+
+1617
+00:58:43,000 --> 00:58:45,000
+But when your gene mutates
+
+1618
+00:58:45,000 --> 00:58:47,000
+You can discover the structure of the entire pollen tube
+
+1619
+00:58:47,000 --> 00:58:49,000
+The structure of this cell currency
+
+1620
+00:58:49,000 --> 00:58:51,000
+or the inner cytoskeleton
+
+1621
+00:58:51,000 --> 00:58:53,000
+have changed
+
+1622
+00:58:53,000 --> 00:58:55,000
+Finally, I would like to introduce to you a
+
+1623
+00:58:55,000 --> 00:58:57,000
+gene transfer technology
+
+1624
+00:58:57,000 --> 00:58:59,000
+We just talked about TDNA
+
+1625
+00:59:00,000 --> 00:59:01,960
+This is what we rely on, Mr. Ermin
+
+1626
+00:59:01,960 --> 00:59:03,460
+he is the expert
+
+1627
+00:59:03,460 --> 00:59:05,300
+Actually I don't really understand
+
+1628
+00:59:05,300 --> 00:59:07,300
+If you really want to change jobs on this
+
+1629
+00:59:07,300 --> 00:59:07,960
+go to him
+
+1630
+00:59:07,960 --> 00:59:10,500
+He must give you a very perfect answer
+
+1631
+00:59:10,500 --> 00:59:12,160
+But what kind of sex is this
+
+1632
+00:59:12,160 --> 00:59:14,960
+That is to say, we are in the plant of Agrobacterium
+
+1633
+00:59:14,960 --> 00:59:16,360
+this pathogen
+
+1634
+00:59:16,360 --> 00:59:19,260
+We found out that it has something called TiPlasma
+
+1635
+00:59:19,260 --> 00:59:20,160
+plastid
+
+1636
+00:59:20,160 --> 00:59:21,660
+This thing is very special
+
+1637
+00:59:21,660 --> 00:59:23,560
+We can do something on it
+
+1638
+00:59:23,560 --> 00:59:24,160
+do something
+
+1639
+00:59:24,160 --> 00:59:25,840
+This TiPlasma will eventually
+
+1640
+00:59:25,840 --> 00:59:28,440
+pinch pinch see first come
+
+1641
+00:59:28,440 --> 00:59:30,300
+will be delivered to the plant
+
+1642
+00:59:30,300 --> 00:59:32,940
+Then look inside the genes of the plants first
+
+1643
+00:59:32,940 --> 00:59:34,000
+top of gene body
+
+1644
+00:59:34,000 --> 00:59:35,000
+will then result in a
+
+1645
+00:59:35,000 --> 00:59:37,700
+It can make it grow and mutate
+
+1646
+00:59:37,700 --> 00:59:39,040
+can also
+
+1647
+00:59:39,040 --> 00:59:40,200
+Sew in
+
+1648
+00:59:40,200 --> 00:59:43,100
+Can cause a certain gene in the plant to be destroyed
+
+1649
+00:59:43,100 --> 00:59:43,640
+so we talk
+
+1650
+00:59:43,640 --> 00:59:45,900
+The TiPlasma mutant just mentioned
+
+1651
+00:59:45,900 --> 00:59:47,640
+Or you can make a gene
+
+1652
+00:59:47,640 --> 00:59:49,100
+massive performance
+
+1653
+00:59:49,100 --> 00:59:55,000
+This is one I found on the Internet
+
+1654
+00:59:55,060 --> 00:59:56,000
+It is TiPlasma
+
+1655
+00:59:56,000 --> 00:59:58,460
+You can put the gene you want
+
+1656
+00:59:58,460 --> 00:59:59,260
+put in
+
+1657
+00:59:59,260 --> 01:00:00,160
+then send it
+
+1658
+01:00:00,000 --> 01:00:02,240
+In this so-called concentrated bacteria
+
+1659
+01:00:02,240 --> 01:00:03,880
+Concentrated bacteria?
+
+1660
+01:00:03,880 --> 01:00:06,760
+Then you can use it to infect plants
+
+1661
+01:00:06,760 --> 01:00:08,720
+you can use it to infect plants
+
+1662
+01:00:08,720 --> 01:00:10,480
+What about after you infect the plant?
+
+1663
+01:00:10,480 --> 01:00:12,360
+this is a normal operation
+
+1664
+01:00:12,360 --> 01:00:14,040
+What about after infecting plants?
+
+1665
+01:00:14,040 --> 01:00:17,280
+This highly sensitive bacterium will use a special structure
+
+1666
+01:00:17,280 --> 01:00:19,560
+will put the so-called TiPlasma
+
+1667
+01:00:19,560 --> 01:00:21,960
+into the plant
+
+1668
+01:00:21,960 --> 01:00:23,480
+well you get infected
+
+1669
+01:00:23,480 --> 01:00:27,800
+The Ecopter is attached to the cell wall of this plant
+
+1670
+01:00:27,800 --> 01:00:29,600
+when it attaches to the plant cell wall
+
+1671
+01:00:29,600 --> 01:00:31,080
+What about this TiPlasma?
+
+1672
+01:00:31,080 --> 01:00:33,880
+it enters the cell
+
+1673
+01:00:33,880 --> 01:00:35,640
+then run to the cell wall
+
+1674
+01:00:35,640 --> 01:00:37,440
+Then the whole of your gene
+
+1675
+01:00:37,440 --> 01:00:39,960
+with this thing it carries
+
+1676
+01:00:39,960 --> 01:00:43,400
+You can shoot first in the whole gene's
+
+1677
+01:00:43,400 --> 01:00:45,360
+TiTiA will pick up here
+
+1678
+01:00:45,360 --> 01:00:45,640
+entire
+
+1679
+01:00:45,640 --> 01:00:48,200
+so you can make genes
+
+1680
+01:00:48,200 --> 01:00:50,600
+Genetic
+
+1681
+01:00:50,600 --> 01:00:53,640
+a destruction of
+
+1682
+01:00:53,640 --> 01:00:55,760
+So you might be causing what's called a mutation
+
+1683
+01:00:55,760 --> 01:00:56,640
+then you end up
+
+1684
+01:00:56,640 --> 01:00:59,120
+Previous words could be generated using
+
+1685
+01:01:00,000 --> 01:01:02,200
+tissue culture
+
+1686
+01:01:02,200 --> 01:01:05,120
+Then you from tissue culture can finally generate
+
+1687
+01:01:05,120 --> 01:01:06,280
+Then your tissue culture
+
+1688
+01:01:06,280 --> 01:01:08,800
+Your DNA has a
+
+1689
+01:01:08,800 --> 01:01:10,560
+For example, the volition potion of sand herb potion
+
+1690
+01:01:10,560 --> 01:01:12,440
+when you spray sand
+
+1691
+01:01:12,440 --> 01:01:14,560
+as long as you have a job change
+
+1692
+01:01:14,560 --> 01:01:17,120
+it's anti-weed
+
+1693
+01:01:17,120 --> 01:01:18,160
+so you know it
+
+1694
+01:01:18,160 --> 01:01:20,000
+in such a way
+
+1695
+01:01:20,000 --> 01:01:22,400
+we can do it at last
+
+1696
+01:01:22,400 --> 01:01:24,720
+so we were a few years ago
+
+1697
+01:01:24,720 --> 01:01:26,640
+We have a way like this
+
+1698
+01:01:26,640 --> 01:01:27,440
+Let's go
+
+1699
+01:01:27,440 --> 01:01:29,840
+because in the Arab world it is a
+
+1700
+01:01:30,000 --> 01:01:32,000
+There is a nice support library
+
+1701
+01:01:32,000 --> 01:01:33,360
+called DNA Library
+
+1702
+01:01:33,360 --> 01:01:34,560
+let's go find
+
+1703
+01:01:34,560 --> 01:01:36,880
+At that time we were interested in saying
+
+1704
+01:01:37,760 --> 01:01:39,360
+when your seed
+
+1705
+01:01:39,360 --> 01:01:41,680
+when you chicken mutant pig
+
+1706
+01:01:41,680 --> 01:01:45,200
+As long as it has no so-called homologous offspring
+
+1707
+01:01:45,200 --> 01:01:47,040
+It only has Historzygone
+
+1708
+01:01:47,040 --> 01:01:49,520
+That is to say, if its homologous descendants
+
+1709
+01:01:49,520 --> 01:01:50,960
+when you plant
+
+1710
+01:01:50,960 --> 01:01:52,960
+There are two DNA's in it
+
+1711
+01:01:52,960 --> 01:01:53,600
+homologous offspring
+
+1712
+01:01:53,600 --> 01:01:55,040
+What does the absence of this homologous offspring mean?
+
+1713
+01:01:55,040 --> 01:01:56,720
+There will be a problem with your configuration body
+
+1714
+01:01:56,720 --> 01:01:59,120
+So you can't spawn poor people or plants
+
+1715
+01:01:59,120 --> 01:02:00,000
+or yours
+
+1716
+01:02:00,000 --> 01:02:02,000
+There is a problem with the entire embryonic development
+
+1717
+01:02:02,000 --> 01:02:04,400
+So we use a strategy like this
+
+1718
+01:02:04,400 --> 01:02:07,400
+We found quite a few genes
+
+1719
+01:02:07,400 --> 01:02:08,800
+it's basically
+
+1720
+01:02:09,400 --> 01:02:11,000
+This is the development of the whole embryo
+
+1721
+01:02:11,000 --> 01:02:12,000
+we discover
+
+1722
+01:02:12,600 --> 01:02:15,000
+Quite a few are related to embryonic development
+
+1723
+01:02:15,000 --> 01:02:16,400
+It's a normal spider
+
+1724
+01:02:16,400 --> 01:02:17,200
+you can find
+
+1725
+01:02:17,200 --> 01:02:19,500
+it will be ten weeks different
+
+1726
+01:02:19,500 --> 01:02:21,700
+But we take this gene
+
+1727
+01:02:21,700 --> 01:02:23,800
+when a gene is mutated
+
+1728
+01:02:23,800 --> 01:02:24,600
+you can find
+
+1729
+01:02:24,600 --> 01:02:26,000
+It turned out to be the so-called WATER
+
+1730
+01:02:26,000 --> 01:02:26,800
+is in the Hard stage
+
+1731
+01:02:26,800 --> 01:02:28,200
+At this time it is basically
+
+1732
+01:02:28,200 --> 01:02:29,600
+There is a problem with the whole development
+
+1733
+01:02:29,600 --> 01:02:31,000
+so we know that means
+
+1734
+01:02:31,000 --> 01:02:32,200
+say it in this way
+
+1735
+01:02:32,200 --> 01:02:33,900
+This gene is involved in
+
+1736
+01:02:33,900 --> 01:02:35,900
+throughout embryonic development
+
+1737
+01:02:35,900 --> 01:02:37,900
+a certain process
+
+1738
+01:02:37,900 --> 01:02:39,400
+we have been in the past
+
+1739
+01:02:39,400 --> 01:02:41,400
+We probably found quite a few
+
+1740
+01:02:41,400 --> 01:02:43,400
+You can find that it may be following
+
+1741
+01:02:44,200 --> 01:02:45,200
+Embryo magnet development
+
+1742
+01:02:45,200 --> 01:02:47,600
+One related to cell division
+
+1743
+01:02:47,600 --> 01:02:51,000
+In addition or some of the cells
+
+1744
+01:02:51,000 --> 01:02:54,100
+or nuclear RNA metabolism
+
+1745
+01:02:54,100 --> 01:02:55,000
+e.g. RNA
+
+1746
+01:02:55,000 --> 01:02:56,400
+Methanageal RNA to be produced
+
+1747
+01:02:56,400 --> 01:02:58,600
+to go through so called some nuclei
+
+1748
+01:03:00,000 --> 01:03:01,960
+Add a Polyase to the whole process
+
+1749
+01:03:01,960 --> 01:03:03,520
+the process it participates in
+
+1750
+01:03:03,520 --> 01:03:04,240
+What about the third one?
+
+1751
+01:03:04,240 --> 01:03:05,720
+is to affect the so-called
+
+1752
+01:03:05,720 --> 01:03:06,800
+Endome Memet trafficking
+
+1753
+01:03:06,800 --> 01:03:09,280
+For example, the cytoskeleton we just talked about
+
+1754
+01:03:09,280 --> 01:03:11,560
+those proteins like this
+
+1755
+01:03:11,560 --> 01:03:14,520
+So we use the time in the past
+
+1756
+01:03:14,520 --> 01:03:15,880
+we are probably
+
+1757
+01:03:15,880 --> 01:03:18,400
+There is quite a bit of research
+
+1758
+01:03:18,400 --> 01:03:19,200
+say we are here
+
+1759
+01:03:19,200 --> 01:03:20,760
+We can find that it is possible to
+
+1760
+01:03:20,760 --> 01:03:22,560
+on the ribose base
+
+1761
+01:03:22,560 --> 01:03:26,640
+The brevity of that RNA or
+
+1762
+01:03:26,640 --> 01:03:28,600
+nuclear human development
+
+1763
+01:03:28,600 --> 01:03:30,600
+or a
+
+1764
+01:03:30,600 --> 01:03:31,600
+with these
+
+1765
+01:03:31,600 --> 01:03:32,920
+Or Endome Memet trafficking
+
+1766
+01:03:32,920 --> 01:03:34,480
+When your gene discovers
+
+1767
+01:03:34,480 --> 01:03:35,320
+when mutation
+
+1768
+01:03:35,320 --> 01:03:36,920
+You can find the whole different package
+
+1769
+01:03:36,920 --> 01:03:39,680
+changes in growth
+
+1770
+01:03:39,680 --> 01:03:41,280
+So probably this is our past
+
+1771
+01:03:41,280 --> 01:03:41,920
+we were
+
+1772
+01:03:41,920 --> 01:03:44,960
+We're mostly following the development of pollen
+
+1773
+01:03:44,960 --> 01:03:45,960
+then fertilized
+
+1774
+01:03:45,960 --> 01:03:47,760
+And finally we now also follow
+
+1775
+01:03:47,760 --> 01:03:49,080
+planting development
+
+1776
+01:03:49,080 --> 01:03:50,240
+this is us in the past
+
+1777
+01:03:50,240 --> 01:03:53,600
+During this time we mainly do
+
+1778
+01:03:54,160 --> 01:03:56,160
+Finally, I want to tell you that
+
+1779
+01:03:56,640 --> 01:03:58,360
+In basic research we often ask
+
+1780
+01:03:58,360 --> 01:03:59,680
+what's the use of you doing that
+
+1781
+01:04:00,000 --> 01:04:02,000
+In fact, the Basic Research Institute
+
+1782
+01:04:02,000 --> 01:04:04,000
+I feel like we are here today
+
+1783
+01:04:04,000 --> 01:04:06,000
+professional research institute
+
+1784
+01:04:06,000 --> 01:04:08,000
+should say
+
+1785
+01:04:08,000 --> 01:04:10,000
+I should thank professional institute
+
+1786
+01:04:10,000 --> 01:04:12,000
+give me a place to fulfill my dreams
+
+1787
+01:04:12,000 --> 01:04:14,000
+i probably from college
+
+1788
+01:04:14,000 --> 01:04:16,000
+until the Ph.D.
+
+1789
+01:04:16,000 --> 01:04:18,000
+I'm probably doing this basic research
+
+1790
+01:04:18,000 --> 01:04:20,000
+But I think it's really a
+
+1791
+01:04:20,000 --> 01:04:22,000
+very interesting one
+
+1792
+01:04:22,000 --> 01:04:24,000
+a subject
+
+1793
+01:04:24,000 --> 01:04:26,000
+then the second we are here
+
+1794
+01:04:26,000 --> 01:04:28,000
+I think I have another mission
+
+1795
+01:04:28,000 --> 01:04:30,000
+in this education
+
+1796
+01:04:30,000 --> 01:04:32,000
+we are in the middle of this process
+
+1797
+01:04:32,000 --> 01:04:34,000
+We have trained a considerable number of doctoral students
+
+1798
+01:04:34,000 --> 01:04:36,000
+postdoctoral fellow
+
+1799
+01:04:36,000 --> 01:04:38,000
+Or say we have bred
+
+1800
+01:04:38,000 --> 01:04:40,000
+PhD students
+
+1801
+01:04:40,000 --> 01:04:42,000
+later returned to their country
+
+1802
+01:04:42,000 --> 01:04:44,000
+Costa Rica
+
+1803
+01:04:44,000 --> 01:04:46,000
+He is now an assistant professor
+
+1804
+01:04:46,000 --> 01:04:48,000
+We have a postdoctoral fellow at Pingtung University of Science and Technology
+
+1805
+01:04:48,000 --> 01:04:50,000
+We have a postdoc in the US
+
+1806
+01:04:50,000 --> 01:04:52,000
+find a politics professor
+
+1807
+01:04:52,000 --> 01:04:54,000
+These are a mission we are here
+
+1808
+01:04:54,000 --> 01:04:56,000
+so i think it is
+
+1809
+01:04:56,000 --> 01:04:58,000
+What is the role of industry
+
+1810
+01:04:58,000 --> 01:05:00,000
+I want to eat is a good one
+
+1811
+01:05:00,000 --> 01:05:02,000
+Five Fingers Watermelon
+
+1812
+01:05:02,000 --> 01:05:04,000
+five fingers watermelon we use
+
+1813
+01:05:04,000 --> 01:05:06,000
+For example we can generate
+
+1814
+01:05:06,000 --> 01:05:08,000
+pistil
+
+1815
+01:05:08,000 --> 01:05:10,000
+double generation
+
+1816
+01:05:10,000 --> 01:05:11,000
+triploid pistil
+
+1817
+01:05:11,000 --> 01:05:13,000
+Then the male is diploid
+
+1818
+01:05:13,000 --> 01:05:15,000
+We ended up using pollen tubes
+
+1819
+01:05:15,000 --> 01:05:16,000
+when fertilized
+
+1820
+01:05:16,000 --> 01:05:18,000
+cause the fruit to expand
+
+1821
+01:05:18,000 --> 01:05:20,000
+But the fruit
+
+1822
+01:05:20,000 --> 01:05:22,000
+Seeds cannot be produced
+
+1823
+01:05:22,000 --> 01:05:23,000
+so what's the end result
+
+1824
+01:05:23,000 --> 01:05:24,000
+double silver
+
+1825
+01:05:24,000 --> 01:05:26,000
+Consumers do not need to repaint after eating
+
+1826
+01:05:26,000 --> 01:05:28,000
+don't paint that paper
+
+1827
+01:05:28,000 --> 01:05:29,000
+right
+
+1828
+01:05:29,000 --> 01:05:31,000
+but you use
+
+1829
+01:05:31,000 --> 01:05:33,000
+To buy this seed from a seed company
+
+1830
+01:05:33,000 --> 01:05:34,000
+because it has no seeds
+
+1831
+01:05:34,000 --> 01:05:35,000
+You can't respond to the next generation
+
+1832
+01:05:35,000 --> 01:05:36,000
+so i want to say
+
+1833
+01:05:36,000 --> 01:05:38,000
+While you're in the middle of this process
+
+1834
+01:05:38,000 --> 01:05:39,000
+you understand
+
+1835
+01:05:39,000 --> 01:05:40,000
+you have a chance like this
+
+1836
+01:05:40,000 --> 01:05:42,000
+like i just said
+
+1837
+01:05:42,000 --> 01:05:44,000
+You can produce these with flowers within flowers
+
+1838
+01:05:44,000 --> 01:05:46,000
+I think that's what we know
+
+1839
+01:05:46,000 --> 01:05:47,000
+a cumulative
+
+1840
+01:05:47,000 --> 01:05:50,000
+One result we can have
+
+1841
+01:05:50,000 --> 01:05:52,000
+Finally I think I'd like to thank you
+
+1842
+01:05:52,000 --> 01:05:53,000
+is ours
+
+1843
+01:05:53,000 --> 01:05:54,000
+over the past few years
+
+1844
+01:05:54,000 --> 01:05:56,000
+This is the first few years
+
+1845
+01:05:56,000 --> 01:05:57,000
+then it's the two of us
+
+1846
+01:05:57,000 --> 01:05:58,000
+mathematics student
+
+1847
+01:06:00,000 --> 01:06:03,840
+These two high school students seem to win prizes at every science fair they attend
+
+1848
+01:06:03,840 --> 01:06:08,200
+Probably going well is to be able to represent Taiwan to participate in the international science and technology exhibition
+
+1849
+01:06:08,200 --> 01:06:10,500
+And then here's our executive team
+
+1850
+01:06:10,500 --> 01:06:12,540
+Today I want to thank this Tingyu
+
+1851
+01:06:12,540 --> 01:06:14,840
+The three organizations he does today
+
+1852
+01:06:14,840 --> 01:06:17,660
+He was the one who did the tissue training in the Shihu Lake
+
+1853
+01:06:17,660 --> 01:06:20,220
+And then here's our administrative team across the command post
+
+1854
+01:06:20,220 --> 01:06:21,760
+Our Research Assistants
+
+1855
+01:06:21,760 --> 01:06:23,300
+I don't think there are some
+
+1856
+01:06:23,300 --> 01:06:26,880
+So we need supplies for the logistics force
+
+1857
+01:06:26,880 --> 01:06:29,440
+Only then can we do some research ahead
+
+1858
+01:06:29,440 --> 01:06:32,000
+And finally thanks to the Ministry of Science and Technology
+
+1859
+01:06:32,000 --> 01:06:33,120
+And our Academia Sinica
+
+1860
+01:06:33,120 --> 01:06:36,480
+Cheviso and this agricultural development center
+
+1861
+01:06:36,480 --> 01:06:39,680
+All of this is a financial subsidy for us
+
+1862
+01:06:39,680 --> 01:06:42,760
+i think i'll stop here for today
+
+1863
+01:06:42,760 --> 01:06:44,800
+Fortunately, everyone didn't sleep too much.
+
+1864
+01:06:44,800 --> 01:06:47,880
+Then I welcome you if you have any questions
+
+1865
+01:06:47,880 --> 01:06:48,640
+Thanks
+
+1866
+01:06:51,720 --> 01:06:56,080
+Well, we thank Dr. Zhao for a very good presentation
+
+1867
+01:06:56,080 --> 01:06:59,400
+so we now open the question
+
+1868
+01:07:00,000 --> 01:07:02,720
+Work hard everyone, the public album will mention it to him on April 1
+
+1869
+01:07:02,720 --> 01:07:06,040
+say yes we have a little gift for the speakers
+
+1870
+01:07:06,040 --> 01:07:09,120
+On the side of the question asked, Mr. Zhao still has
+
+1871
+01:07:09,120 --> 01:07:10,120
+still have
+
+1872
+01:07:10,120 --> 01:07:12,120
+Responsibilities of our position
+
+1873
+01:07:12,120 --> 01:07:14,120
+There is an introduction to us above and our
+
+1874
+01:07:14,120 --> 01:07:17,120
+Information from our Facebook page
+
+1875
+01:07:17,120 --> 01:07:19,120
+Welcome everyone, ginseng can come
+
+1876
+01:07:19,120 --> 01:07:20,120
+good
+
+1877
+01:07:20,120 --> 01:07:32,120
+Excuse me, there are bear flowers and snake flowers
+
+1878
+01:07:32,120 --> 01:07:36,120
+So how did the source of what is called a false flower come from?
+
+1879
+01:07:36,120 --> 01:07:37,120
+What
+
+1880
+01:07:37,120 --> 01:07:39,120
+false flower
+
+1881
+01:07:39,120 --> 01:07:41,120
+Generally speaking, we
+
+1882
+01:07:41,120 --> 01:07:43,120
+we have bisexual flowers
+
+1883
+01:07:43,120 --> 01:07:46,120
+That is to say, this kind of flower has tooth stamen and bear stamen
+
+1884
+01:07:46,120 --> 01:07:48,120
+this is normal
+
+1885
+01:07:48,120 --> 01:07:50,120
+There's a so-called bear stamen
+
+1886
+01:07:50,120 --> 01:07:53,120
+holding bear example like corn
+
+1887
+01:07:53,120 --> 01:07:55,120
+its pistil is on top
+
+1888
+01:07:55,120 --> 01:07:57,120
+Its stamens are at the bottom
+
+1889
+01:07:57,120 --> 01:08:00,120
+So this is two generations called unisexual flowers
+
+1890
+01:08:00,000 --> 01:08:03,240
+I'm not very clear about false flowers
+
+1891
+01:08:04,440 --> 01:08:06,340
+So this is according to
+
+1892
+01:08:06,340 --> 01:08:07,740
+this is the same flower
+
+1893
+01:08:07,740 --> 01:08:09,140
+it has a sex
+
+1894
+01:08:09,140 --> 01:08:10,540
+we call bisexual flowers
+
+1895
+01:08:10,540 --> 01:08:11,840
+If you want unisexual flowers
+
+1896
+01:08:11,840 --> 01:08:13,940
+That is, Chi Wei and Xiong Wei are separated
+
+1897
+01:08:17,640 --> 01:08:18,640
+yes
+
+1898
+01:08:20,340 --> 01:08:21,240
+teacher sorry
+
+1899
+01:08:21,240 --> 01:08:22,540
+Just now you mentioned that
+
+1900
+01:08:22,540 --> 01:08:24,640
+you used to take that pollen tube
+
+1901
+01:08:24,640 --> 01:08:26,040
+Yes, the pollen tube grows by itself
+
+1902
+01:08:26,040 --> 01:08:27,340
+it you cut it off
+
+1903
+01:08:27,340 --> 01:08:28,600
+because we need sperm
+
+1904
+01:08:28,600 --> 01:08:30,640
+a humid space
+
+1905
+01:08:30,640 --> 01:08:32,200
+in a humid environment
+
+1906
+01:08:32,200 --> 01:08:33,840
+Yeah so I'll tell you which one are you talking about
+
+1907
+01:08:33,840 --> 01:08:34,600
+Because what I just said
+
+1908
+01:08:34,600 --> 01:08:35,600
+because when you said cut off
+
+1909
+01:08:35,600 --> 01:08:37,600
+I'm sending it will it dry?
+
+1910
+01:08:37,600 --> 01:08:38,760
+very good right
+
+1911
+01:08:38,760 --> 01:08:40,160
+I didn't speak very carefully just now
+
+1912
+01:08:40,160 --> 01:08:41,840
+that means we are the first
+
+1913
+01:08:41,840 --> 01:08:45,000
+We're going to make pollen, lean powder about 24
+
+1914
+01:08:45,000 --> 01:08:47,360
+about 12 hours to 24 hours
+
+1915
+01:08:47,360 --> 01:08:49,900
+maybe i know where it grows
+
+1916
+01:08:49,900 --> 01:08:51,400
+At this time, after you cut off
+
+1917
+01:08:51,400 --> 01:08:53,700
+you need to seal it up
+
+1918
+01:08:53,700 --> 01:08:56,700
+Or paint with decorative bells to prevent moisture from evaporating
+
+1919
+01:08:56,700 --> 01:08:59,060
+this is what needs to be done
+
+1920
+01:09:00,000 --> 01:09:01,300
+but you just
+
+1921
+01:09:01,300 --> 01:09:02,700
+you don't care how much you cut
+
+1922
+01:09:02,700 --> 01:09:04,500
+as long as you can maintain
+
+1923
+01:09:04,500 --> 01:09:06,000
+because it is in the whole pollen hall
+
+1924
+01:09:06,000 --> 01:09:07,300
+grow in style
+
+1925
+01:09:07,300 --> 01:09:08,900
+it keeps forming
+
+1926
+01:09:08,900 --> 01:09:10,800
+I was talking about Keris Pluck
+
+1927
+01:09:10,800 --> 01:09:13,300
+it can be a totally pollen house
+
+1928
+01:09:13,300 --> 01:09:15,800
+The most active place at the front
+
+1929
+01:09:15,800 --> 01:09:17,200
+seal it up completely
+
+1930
+01:09:17,200 --> 01:09:19,000
+you just keep that place
+
+1931
+01:09:19,000 --> 01:09:20,700
+Don't destroy the whole pollen hall
+
+1932
+01:09:20,700 --> 01:09:24,600
+It can deliver two gold cells to embryonic pigs
+
+1933
+01:09:24,600 --> 01:09:26,100
+complete double fertilization
+
+1934
+01:09:26,100 --> 01:09:26,900
+so amazing
+
+1935
+01:09:26,900 --> 01:09:28,700
+So it means it will
+
+1936
+01:09:28,700 --> 01:09:30,600
+it pollen house will know
+
+1937
+01:09:30,600 --> 01:09:33,400
+will feel the pool class
+
+1938
+01:09:33,400 --> 01:09:34,600
+Embryo sac
+
+1939
+01:09:34,600 --> 01:09:36,200
+send a message like this
+
+1940
+01:09:36,200 --> 01:09:37,600
+to attract it to grow
+
+1941
+01:09:55,100 --> 01:09:57,000
+At once
+
+1942
+01:09:57,000 --> 01:09:59,900
+we just talked about emptiness
+
+1943
+01:10:00,000 --> 01:10:02,600
+like iron lily
+
+1944
+01:10:02,600 --> 01:10:04,400
+it belongs to the style of the stroke
+
+1945
+01:10:04,400 --> 01:10:07,400
+It's actually filled with liquid
+
+1946
+01:10:07,400 --> 01:10:09,300
+we call it from
+
+1947
+01:10:09,300 --> 01:10:11,200
+Its front capital is divided into
+
+1948
+01:10:11,200 --> 01:10:12,900
+Our name is Standard Exte
+
+1949
+01:10:12,900 --> 01:10:14,700
+it keeps going from the bottom
+
+1950
+01:10:14,700 --> 01:10:17,900
+secrete something like this
+
+1951
+01:10:17,900 --> 01:10:19,600
+still have this
+
+1952
+01:10:19,600 --> 01:10:21,200
+yes still
+
+1953
+01:10:21,200 --> 01:10:23,000
+But pollen tubes are actually fun
+
+1954
+01:10:23,000 --> 01:10:26,800
+That means it's just been pollinated on the stigma
+
+1955
+01:10:26,800 --> 01:10:29,600
+grow and grow into the style
+
+1956
+01:10:29,600 --> 01:10:31,400
+for a while
+
+1957
+01:10:31,400 --> 01:10:33,100
+it needs its own nourishment
+
+1958
+01:10:33,100 --> 01:10:35,400
+So it's a pollen tube, you go straight to the inside
+
+1959
+01:10:35,400 --> 01:10:37,400
+it has a lot of oil bodies
+
+1960
+01:10:37,400 --> 01:10:38,800
+There is still a lot of Starch
+
+1961
+01:10:38,800 --> 01:10:40,800
+starch liquid
+
+1962
+01:10:40,800 --> 01:10:43,400
+But wait until it grows in the style for a while
+
+1963
+01:10:43,400 --> 01:10:45,200
+it will be from
+
+1964
+01:10:45,200 --> 01:10:48,400
+Sirac is here to absorb nutrients
+
+1965
+01:10:48,400 --> 01:10:50,800
+yes
+
+1966
+01:10:52,400 --> 01:10:53,600
+in the video just now
+
+1967
+01:10:53,600 --> 01:10:55,800
+It says that the DNA is not there are four of that
+
+1968
+01:10:55,800 --> 01:10:57,400
+to combine?
+
+1969
+01:10:57,400 --> 01:11:00,000
+Then it itself will delete what it says it doesn't want
+
+1970
+01:11:00,000 --> 01:11:03,900
+So have you learned from this
+
+1971
+01:11:03,900 --> 01:11:06,140
+how does the plant itself go about removing
+
+1972
+01:11:06,140 --> 01:11:08,060
+because we now have
+
+1973
+01:11:08,060 --> 01:11:10,060
+Is there any progress on this?
+
+1974
+01:11:10,060 --> 01:11:12,860
+Is there any technology in this area?
+
+1975
+01:11:12,860 --> 01:11:16,700
+Our current results are as far as I know
+
+1976
+01:11:16,700 --> 01:11:18,980
+Yes know we have a program called
+
+1977
+01:11:18,980 --> 01:11:22,140
+A mechanism of splicing to do these donations
+
+1978
+01:11:22,140 --> 01:11:24,140
+if you are interested
+
+1979
+01:11:24,140 --> 01:11:26,540
+We recently had a teacher named Tu Shilong in our Institute of Botany
+
+1980
+01:11:26,540 --> 01:11:30,140
+He posted an article on Plain cell last month
+
+1981
+01:11:30,140 --> 01:11:33,940
+Just to tell you what this mechanism will affect
+
+1982
+01:11:33,940 --> 01:11:36,540
+it may take to plants affected by light
+
+1983
+01:11:36,540 --> 01:11:37,740
+will affect flowering
+
+1984
+01:11:37,740 --> 01:11:40,140
+This is an article from our recent teacher
+
+1985
+01:11:40,140 --> 01:11:42,740
+It is to do this so-called splicing mechanism
+
+1986
+01:11:42,740 --> 01:11:45,540
+If you have a chance, you can go and find out
+
+1987
+01:11:45,540 --> 01:11:46,540
+Thanks
+
+1988
+01:11:52,540 --> 01:11:54,540
+The two techniques I've heard are
+
+1989
+01:11:54,540 --> 01:11:56,540
+One is strong and the other is
+
+1990
+01:11:56,540 --> 01:11:58,540
+That female dragon feels like you have a body
+
+1991
+01:11:58,540 --> 01:12:00,540
+into plant cells
+
+1992
+01:12:00,000 --> 01:12:04,440
+Is there any other way to create a picture group
+
+1993
+01:12:04,440 --> 01:12:07,640
+For example, the recent hot gene editing and the like
+
+1994
+01:12:08,000 --> 01:12:09,760
+Gene editing is right
+
+1995
+01:12:09,760 --> 01:12:10,280
+yes
+
+1996
+01:12:10,280 --> 01:12:13,520
+This is a good mechanism
+
+1997
+01:12:13,520 --> 01:12:15,920
+It's a system that uses CRISPR
+
+1998
+01:12:16,640 --> 01:12:19,120
+The so-called TDNA
+
+1999
+01:12:19,400 --> 01:12:21,800
+What is the benefit of this system of insertion or CRISPR
+
+2000
+01:12:22,240 --> 01:12:24,360
+you know where you insert
+
+2001
+01:12:25,640 --> 01:12:28,160
+Also we have a mutant technology called EMS
+
+2002
+01:12:28,720 --> 01:12:32,320
+You can treat something like this with the seeds from which it was planted
+
+2003
+01:12:32,440 --> 01:12:37,360
+You can see that it might be breaking a certain clip of DNA
+
+2004
+01:12:37,800 --> 01:12:39,800
+You can cause Point Mutation
+
+2005
+01:12:40,040 --> 01:12:42,480
+When you Point Mutation is you three
+
+2006
+01:12:42,480 --> 01:12:44,280
+You alone decide on an amino acid
+
+2007
+01:12:44,520 --> 01:12:49,000
+You may be at the end after you put this Point Mutation mutation
+
+2008
+01:12:49,280 --> 01:12:50,560
+it should keep doing it
+
+2009
+01:12:50,560 --> 01:12:51,760
+it stops here
+
+2010
+01:12:52,080 --> 01:12:55,240
+so you gene it has no way to complete one to produce a complete
+
+2011
+01:12:55,400 --> 01:12:56,640
+but this thing you
+
+2012
+01:12:57,200 --> 01:12:58,200
+We call it Mapping
+
+2013
+01:12:58,520 --> 01:12:59,800
+you don't know which gene
+
+2014
+01:13:00,000 --> 01:13:02,000
+backcross
+
+2015
+01:13:02,000 --> 01:13:04,000
+But this can also be done
+
+2016
+01:13:04,000 --> 01:13:05,000
+can also do
+
+2017
+01:13:05,000 --> 01:13:06,000
+But that is to say, it is slower
+
+2018
+01:13:06,000 --> 01:13:07,000
+is this another one
+
+2019
+01:13:07,000 --> 01:13:08,000
+What you just said is also a way
+
+2020
+01:13:08,000 --> 01:13:10,000
+now there are quite a few
+
+2021
+01:13:10,000 --> 01:13:14,000
+A gene gun is basically just a
+
+2022
+01:13:14,000 --> 01:13:16,000
+We are called Train Sink
+
+2023
+01:13:16,000 --> 01:13:18,000
+not a stable offspring
+
+2024
+01:13:18,000 --> 01:13:21,000
+it's just for a short time you're in a certain
+
+2025
+01:13:21,000 --> 01:13:22,000
+For example, today
+
+2026
+01:13:22,000 --> 01:13:24,000
+In addition, what we just said is called
+
+2027
+01:13:24,000 --> 01:13:26,000
+we can work
+
+2028
+01:13:26,000 --> 01:13:28,000
+called protoplasts
+
+2029
+01:13:28,000 --> 01:13:30,000
+you can go with some genes
+
+2030
+01:13:30,000 --> 01:13:31,000
+fleeting performance
+
+2031
+01:13:31,000 --> 01:13:34,000
+but this one has two
+
+2032
+01:13:34,000 --> 01:13:36,000
+Your brief performance is actually
+
+2033
+01:13:36,000 --> 01:13:38,000
+you may be too short the first time
+
+2034
+01:13:38,000 --> 01:13:41,000
+You didn't grow to say a few weeks
+
+2035
+01:13:41,000 --> 01:13:43,000
+You don't get through the whole development process
+
+2036
+01:13:43,000 --> 01:13:44,000
+This is a
+
+2037
+01:13:44,000 --> 01:13:46,000
+The second process of your Train Sink
+
+2038
+01:13:46,000 --> 01:13:49,000
+You would put, for example, in a normal cell
+
+2039
+01:13:49,000 --> 01:13:51,000
+maybe only 100 proteins
+
+2040
+01:13:51,000 --> 01:13:52,000
+You Train Sink go down
+
+2041
+01:13:52,000 --> 01:13:54,000
+give it 10,000 protein
+
+2042
+01:13:54,000 --> 01:13:56,000
+it is more than itself
+
+2043
+01:13:56,000 --> 01:13:57,000
+so you see something
+
+2044
+01:13:57,000 --> 01:13:59,000
+sometimes you don't know
+
+2045
+01:14:00,000 --> 01:14:02,240
+It turned out to be a rather troublesome one.
+
+2046
+01:14:02,240 --> 01:14:03,660
+So we sometimes experiment
+
+2047
+01:14:03,660 --> 01:14:05,520
+We would prefer the so-called
+
+2048
+01:14:05,520 --> 01:14:06,520
+stable line
+
+2049
+01:14:06,520 --> 01:14:07,800
+after turning around
+
+2050
+01:14:07,800 --> 01:14:09,860
+We're not even going to use a
+
+2051
+01:14:09,860 --> 01:14:11,440
+Driving values ​​for a large number of representations
+
+2052
+01:14:11,440 --> 01:14:12,960
+Let this gene be expressed in large quantities
+
+2053
+01:14:12,960 --> 01:14:15,440
+We're going to use its own drive value instead
+
+2054
+01:14:15,440 --> 01:14:16,640
+what is its own driving value
+
+2055
+01:14:16,640 --> 01:14:18,440
+it at a certain time
+
+2056
+01:14:18,440 --> 01:14:21,040
+The amount of performance will be very precisely controlled
+
+2057
+01:14:21,040 --> 01:14:22,320
+let's take a look
+
+2058
+01:14:22,320 --> 01:14:24,120
+For example, the protein value
+
+2059
+01:14:24,120 --> 01:14:25,520
+silver light protein
+
+2060
+01:14:25,520 --> 01:14:27,400
+Let's see where it behaves
+
+2061
+01:14:27,400 --> 01:14:30,240
+will it help you on something
+
+2062
+01:14:30,240 --> 01:14:31,680
+These we can do research on
+
+2063
+01:14:31,680 --> 01:14:32,720
+so we sometimes
+
+2064
+01:14:32,720 --> 01:14:35,040
+You have to be very precise to control these things
+
+2065
+01:14:38,760 --> 01:14:39,480
+is there any problem
+
+2066
+01:14:42,560 --> 01:14:43,600
+I just saw that
+
+2067
+01:14:43,600 --> 01:14:47,960
+This little Liu is a set of black hole postcards
+
+2068
+01:14:47,960 --> 01:14:48,760
+very good
+
+2069
+01:14:48,760 --> 01:14:50,000
+Does he know about black holes?
+
+2070
+01:14:50,000 --> 01:14:50,840
+it's us
+
+2071
+01:14:50,840 --> 01:14:53,240
+With this very bright spot Zhongyuanyuan
+
+2072
+01:14:53,240 --> 01:14:54,920
+Cooperate with all over the world
+
+2073
+01:14:54,920 --> 01:14:56,560
+so we must strive
+
+2074
+01:14:56,600 --> 01:14:57,240
+still a few
+
+2075
+01:14:57,240 --> 01:14:58,160
+i want to ask questions
+
+2076
+01:15:00,000 --> 01:15:01,640
+I want to ask
+
+2077
+01:15:01,640 --> 01:15:04,040
+that for example
+
+2078
+01:15:04,040 --> 01:15:06,340
+The pollen house that the teacher said
+
+2079
+01:15:06,340 --> 01:15:09,540
+In this way, the seed can be produced
+
+2080
+01:15:09,540 --> 01:15:10,740
+Matching strain
+
+2081
+01:15:10,740 --> 01:15:12,840
+ask me like this
+
+2082
+01:15:12,840 --> 01:15:15,480
+For example, our guava
+
+2083
+01:15:15,480 --> 01:15:18,600
+Suppose its seed has 100 flowers
+
+2084
+01:15:18,600 --> 01:15:20,300
+like this
+
+2085
+01:15:20,300 --> 01:15:23,840
+Is it the pollen of every pollen house
+
+2086
+01:15:23,840 --> 01:15:25,900
+both from the same
+
+2087
+01:15:26,900 --> 01:15:30,900
+The other ones also come from the same flower
+
+2088
+01:15:30,900 --> 01:15:32,900
+it's the gold here thank you
+
+2089
+01:15:32,900 --> 01:15:35,400
+So this thing we will
+
+2090
+01:15:35,400 --> 01:15:36,900
+actually very similar
+
+2091
+01:15:36,900 --> 01:15:38,900
+For example, you say we
+
+2092
+01:15:38,900 --> 01:15:40,740
+Is it yours that can be told in another way?
+
+2093
+01:15:40,740 --> 01:15:43,400
+Did we generate those plants with bad heads all the same?
+
+2094
+01:15:43,400 --> 01:15:44,640
+you can ask
+
+2095
+01:15:44,640 --> 01:15:46,400
+In fact, we say that we are all the same
+
+2096
+01:15:46,400 --> 01:15:49,400
+Our brothers and sisters unless you are a twin today
+
+2097
+01:15:49,400 --> 01:15:51,400
+Otherwise, you will be different from your brothers and sisters
+
+2098
+01:15:51,400 --> 01:15:53,900
+So the same pollen house
+
+2099
+01:15:53,900 --> 01:15:55,900
+fertilization process
+
+2100
+01:15:55,900 --> 01:15:57,900
+its last so-called single back bottom
+
+2101
+01:15:57,900 --> 01:15:59,900
+With the single back, they will have the so-called dye combination
+
+2102
+01:16:00,000 --> 01:16:00,920
+when together
+
+2103
+01:16:00,920 --> 01:16:02,320
+This intermediate chromosome will call
+
+2104
+01:16:02,320 --> 01:16:04,360
+many things will happen
+
+2105
+01:16:04,360 --> 01:16:06,160
+So we sometimes do experiments
+
+2106
+01:16:06,160 --> 01:16:07,320
+will find
+
+2107
+01:16:07,320 --> 01:16:10,080
+You can see every pollen store
+
+2108
+01:16:10,080 --> 01:16:14,480
+The seed produced by fertilization is a single individual
+
+2109
+01:16:14,480 --> 01:16:16,680
+Every seed behaves differently
+
+2110
+01:16:16,680 --> 01:16:18,160
+you all look the same
+
+2111
+01:16:18,160 --> 01:16:19,160
+right? people all look the same
+
+2112
+01:16:19,160 --> 01:16:20,320
+everyone is different
+
+2113
+01:16:20,320 --> 01:16:21,560
+You are different from your brothers and sisters
+
+2114
+01:16:21,560 --> 01:16:22,280
+you go and see
+
+2115
+01:16:22,280 --> 01:16:25,120
+Every seed is like your brothers and sisters
+
+2116
+01:16:25,120 --> 01:16:26,680
+looks like seeds
+
+2117
+01:16:26,680 --> 01:16:28,520
+But their reactions are totally different
+
+2118
+01:16:28,520 --> 01:16:30,200
+So really throughout
+
+2119
+01:16:30,200 --> 01:16:32,360
+so what good is it
+
+2120
+01:16:32,360 --> 01:16:35,360
+When your plant goes through what is called a chromosome
+
+2121
+01:16:35,360 --> 01:16:36,800
+The pair calls for these
+
+2122
+01:16:36,800 --> 01:16:38,520
+bullets you spawn
+
+2123
+01:16:38,520 --> 01:16:39,680
+there will always be one
+
+2124
+01:16:39,680 --> 01:16:42,240
+when your environment is not suitable
+
+2125
+01:16:42,240 --> 01:16:45,000
+Maybe under these 1000 seeds
+
+2126
+01:16:45,000 --> 01:16:46,760
+have one or two
+
+2127
+01:16:46,760 --> 01:16:48,280
+can survive
+
+2128
+01:16:48,280 --> 01:16:49,320
+so your species
+
+2129
+01:16:49,320 --> 01:16:51,040
+Only then can we continue to react
+
+2130
+01:16:51,040 --> 01:16:52,800
+Like the Iron Lily we just talked about
+
+2131
+01:16:52,800 --> 01:16:53,920
+Iron Lily Seeds
+
+2132
+01:16:53,920 --> 01:16:55,080
+if i count
+
+2133
+01:16:55,120 --> 01:16:59,600
+A seed of an iron blast lily grown out of a flower
+
+2134
+01:16:59,600 --> 01:17:00,040
+500
+
+2135
+01:17:00,000 --> 01:17:02,500
+so quite a lot
+
+2136
+01:17:02,500 --> 01:17:03,500
+but each made
+
+2137
+01:17:03,500 --> 01:17:04,500
+Probably not the same
+
+2138
+01:17:04,500 --> 01:17:06,500
+So this fun place is
+
+2139
+01:17:06,500 --> 01:17:08,500
+So sometimes we make mutant beads
+
+2140
+01:17:08,500 --> 01:17:10,500
+You see, this is a mutant strain of the pollen tube
+
+2141
+01:17:10,500 --> 01:17:12,000
+you should think it's gonna die
+
+2142
+01:17:12,000 --> 01:17:13,500
+but it's weird
+
+2143
+01:17:13,500 --> 01:17:15,500
+I don't know I don't understand now
+
+2144
+01:17:15,500 --> 01:17:17,500
+life always will
+
+2145
+01:17:17,500 --> 01:17:19,500
+will find its way out
+
+2146
+01:17:19,500 --> 01:17:21,500
+it will always have in you
+
+2147
+01:17:21,500 --> 01:17:24,500
+Five or six seeds will be able to bear fruit
+
+2148
+01:17:24,500 --> 01:17:26,500
+So you can keep doing time
+
+2149
+01:17:26,500 --> 01:17:27,500
+so fun
+
+2150
+01:17:27,500 --> 01:17:29,000
+its not all dead
+
+2151
+01:17:29,000 --> 01:17:31,000
+it means you are an arab
+
+2152
+01:17:31,000 --> 01:17:33,000
+Can produce fifty or sixty flowers
+
+2153
+01:17:33,000 --> 01:17:35,000
+One flower can bear fifty or sixty seeds
+
+2154
+01:17:35,000 --> 01:17:37,000
+but you are important
+
+2155
+01:17:37,000 --> 01:17:38,000
+severe mutant beads
+
+2156
+01:17:38,000 --> 01:17:40,000
+there are always a few seeds left
+
+2157
+01:17:40,000 --> 01:17:41,000
+you can keep doing
+
+2158
+01:17:41,000 --> 01:17:42,000
+A lot of fun
+
+2159
+01:17:42,000 --> 01:17:43,000
+I don't know why
+
+2160
+01:17:43,000 --> 01:17:44,000
+this is what we actually
+
+2161
+01:17:44,000 --> 01:17:45,000
+we always wanted
+
+2162
+01:17:45,000 --> 01:17:46,000
+also want to know
+
+2163
+01:17:46,000 --> 01:17:47,000
+Why
+
+2164
+01:17:48,000 --> 01:17:50,000
+Thank you, excellent talk
+
+2165
+01:17:50,000 --> 01:17:51,000
+i want to ask
+
+2166
+01:17:51,000 --> 01:17:52,000
+You want to talk about an iron cannon board
+
+2167
+01:17:52,000 --> 01:17:54,000
+Is it native to Taiwan?
+
+2168
+01:17:54,000 --> 01:17:56,000
+Is it Nectar Lili?
+
+2169
+01:17:56,000 --> 01:17:57,000
+iron cannon board
+
+2170
+01:17:57,000 --> 01:17:59,000
+I use East Lili
+
+2171
+01:18:00,000 --> 01:18:07,000
+we want to find out now
+
+2172
+01:18:07,000 --> 01:18:11,000
+We know when there is essence
+
+2173
+01:18:11,000 --> 01:18:14,000
+There are also medical treatments that cannot be let go
+
+2174
+01:18:14,000 --> 01:18:17,000
+With medical treatment and discounts
+
+2175
+01:18:17,000 --> 01:18:21,000
+very close to lilly
+
+2176
+01:18:21,000 --> 01:18:23,000
+So if your research
+
+2177
+01:18:23,000 --> 01:18:25,000
+You use this seed in Taiwan
+
+2178
+01:18:25,000 --> 01:18:26,000
+is the seed of Taiwan
+
+2179
+01:18:26,000 --> 01:18:29,000
+or bio-decoration seeds for sale
+
+2180
+01:18:29,000 --> 01:18:33,000
+The iron cannon box we used before
+
+2181
+01:18:33,000 --> 01:18:34,000
+Is East Lily
+
+2182
+01:18:34,000 --> 01:18:37,000
+basically bought by the seed company
+
+2183
+01:18:37,000 --> 01:18:39,000
+But in the future we will use
+
+2184
+01:18:39,000 --> 01:18:41,000
+What I just said will use Taiwan
+
+2185
+01:18:41,000 --> 01:18:42,000
+Taiwan box
+
+2186
+01:18:42,000 --> 01:18:43,000
+among us
+
+2187
+01:18:43,000 --> 01:18:44,000
+Another No. 1 Taiwan pendulum box
+
+2188
+01:18:44,000 --> 01:18:47,000
+These are the ones I use now
+
+2189
+01:18:47,000 --> 01:18:50,000
+Commercial of these East Lily
+
+2190
+01:18:50,000 --> 01:18:52,000
+It is self incompatible
+
+2191
+01:18:52,000 --> 01:18:53,000
+That is to say, my own flowers are not able to
+
+2192
+01:18:53,000 --> 01:18:54,000
+receive flowers produce flowers
+
+2193
+01:18:54,000 --> 01:18:56,000
+But Taiwan's display box is very special
+
+2194
+01:18:56,000 --> 01:18:57,000
+it can
+
+2195
+01:18:57,000 --> 01:18:58,000
+So it gives us another big
+
+2196
+01:18:58,000 --> 01:19:00,000
+yes i want to ask him
+
+2197
+01:19:00,000 --> 01:19:02,000
+common environment is
+
+2198
+01:19:02,000 --> 01:19:04,000
+environmental
+
+2199
+01:19:04,000 --> 01:19:05,000
+is different
+
+2200
+01:19:05,000 --> 01:19:08,000
+OK Taiwan Lily is basically found in the mountains
+
+2201
+01:19:08,000 --> 01:19:10,000
+But we can grow in the greenhouse
+
+2202
+01:19:10,000 --> 01:19:13,000
+We also did Xiao Xiang here
+
+2203
+01:19:13,000 --> 01:19:15,000
+We could have done it last time too
+
+2204
+01:19:15,000 --> 01:19:16,000
+We self-pollinate to produce
+
+2205
+01:19:16,000 --> 01:19:18,000
+received quite a lot of fruit
+
+2206
+01:19:18,000 --> 01:19:19,000
+probably too
+
+2207
+01:19:19,000 --> 01:19:20,000
+it can receive hundreds no problem
+
+2208
+01:19:20,000 --> 01:19:21,000
+so we have been doing
+
+2209
+01:19:21,000 --> 01:19:24,000
+So it's like a worm cage
+
+2210
+01:19:24,000 --> 01:19:26,000
+or that ginger
+
+2211
+01:19:26,000 --> 01:19:29,000
+Its flowering is the same as Lily's
+
+2212
+01:19:29,000 --> 01:19:31,000
+this chicken is the same
+
+2213
+01:19:31,000 --> 01:19:33,000
+sorry i really don't know that
+
+2214
+01:19:33,000 --> 01:19:34,000
+OK
+
+2215
+01:19:34,000 --> 01:19:35,000
+Thanks
+
+2216
+01:19:38,000 --> 01:19:42,000
+Seems like this black hole is funny
+
+2217
+01:19:42,000 --> 01:19:47,000
+I was asked just now
+
+2218
+01:19:47,000 --> 01:19:50,000
+actually quite interesting
+
+2219
+01:19:50,000 --> 01:19:55,000
+I would love to ask about flowering plants
+
+2220
+01:19:55,000 --> 01:19:58,000
+some are blossoming in the industry
+
+2221
+01:19:58,000 --> 01:20:00,000
+is it possible to change
+
+2222
+01:20:00,000 --> 01:20:02,600
+make it bloom by day
+
+2223
+01:20:05,100 --> 01:20:06,800
+Of course I think this is for example
+
+2224
+01:20:06,800 --> 01:20:09,200
+You can be like our director
+
+2225
+01:20:09,200 --> 01:20:10,700
+What he does is related to light
+
+2226
+01:20:10,700 --> 01:20:12,400
+Light can regulate flowering
+
+2227
+01:20:12,400 --> 01:20:15,300
+you can make these changes
+
+2228
+01:20:15,300 --> 01:20:18,100
+But I miss Ye Lai Xiang
+
+2229
+01:20:18,100 --> 01:20:20,900
+If you let it open during the day, I don’t know if it smells good or not
+
+2230
+01:20:20,900 --> 01:20:22,200
+So I feel this thing
+
+2231
+01:20:22,200 --> 01:20:24,600
+We knew you could change into one of its shapes
+
+2232
+01:20:24,600 --> 01:20:27,000
+but you may lose other
+
+2233
+01:20:27,000 --> 01:20:28,500
+So I think it's a lot
+
+2234
+01:20:28,500 --> 01:20:31,100
+We may need improvement as a whole
+
+2235
+01:20:31,100 --> 01:20:34,700
+is there any good for us doing this
+
+2236
+01:20:34,700 --> 01:20:36,500
+so i think sometimes
+
+2237
+01:20:36,500 --> 01:20:39,000
+But actually I think we sometimes
+
+2238
+01:20:39,000 --> 01:20:41,400
+when we're all doing
+
+2239
+01:20:41,400 --> 01:20:47,000
+We are the caretakers who discover its creation
+
+2240
+01:20:47,000 --> 01:20:49,800
+we are not inventing we are discovering
+
+2241
+01:20:49,800 --> 01:20:52,700
+But its discovery must have its uses
+
+2242
+01:20:52,700 --> 01:20:56,700
+So I can say that it should be possible to make this adjustment
+
+2243
+01:20:56,700 --> 01:20:59,800
+Even we say they have done a lot
+
+2244
+01:21:00,000 --> 01:21:02,000
+How to tune with light for flowering
+
+2245
+01:21:02,000 --> 01:21:05,000
+But this we basically understand its mechanism
+
+2246
+01:21:05,000 --> 01:21:06,000
+But I don't think it does
+
+2247
+01:21:06,000 --> 01:21:10,000
+I don't know if there is such an attempt in the future to make
+
+2248
+01:21:10,000 --> 01:21:12,000
+Arab worlds bloom at night
+
+2249
+01:21:12,000 --> 01:21:13,000
+but i don't know what's the use
+
+2250
+01:21:23,000 --> 01:21:24,000
+if there is no problem
+
+2251
+01:21:24,000 --> 01:21:28,000
+Our black hole is about as fun as it gets.
+
+2252
+01:21:28,000 --> 01:21:29,000
+So here's another
+
+2253
+01:21:29,000 --> 01:21:30,000
+yes
+
+2254
+01:21:39,000 --> 01:21:41,000
+study process
+
+2255
+01:21:41,000 --> 01:21:42,000
+I think
+
+2256
+01:21:42,000 --> 01:21:43,000
+not i think
+
+2257
+01:21:43,000 --> 01:21:49,000
+In fact, I have always liked biological things.
+
+2258
+01:21:49,000 --> 01:21:50,000
+this
+
+2259
+01:21:50,000 --> 01:21:54,000
+And then the one that really let me pluck it in
+
+2260
+01:21:54,000 --> 01:21:57,000
+I was very impressed that I was a freshman
+
+2261
+01:21:57,000 --> 01:22:00,000
+i don't know what to do now
+
+2262
+01:22:00,000 --> 01:22:05,000
+I'm talking about my freshman year
+
+2263
+01:22:05,000 --> 01:22:07,000
+university metropolis
+
+2264
+01:22:07,000 --> 01:22:10,000
+We used to have bank dances when we first entered college.
+
+2265
+01:22:10,000 --> 01:22:11,000
+right
+
+2266
+01:22:11,000 --> 01:22:13,000
+You'll probably all go to the bank dance
+
+2267
+01:22:13,000 --> 01:22:15,000
+We were also unavoidable that time
+
+2268
+01:22:15,000 --> 01:22:17,000
+Let's go to the bank dance
+
+2269
+01:22:17,000 --> 01:22:18,000
+you know us
+
+2270
+01:22:18,000 --> 01:22:20,000
+Country kids are always shy
+
+2271
+01:22:20,000 --> 01:22:22,000
+I guess it's not fun
+
+2272
+01:22:22,000 --> 01:22:23,000
+He and I are above the theater
+
+2273
+01:22:23,000 --> 01:22:25,000
+above our own theater
+
+2274
+01:22:25,000 --> 01:22:27,000
+There is a bright classroom
+
+2275
+01:22:27,000 --> 01:22:30,000
+It turned out that a senior was doing an experiment
+
+2276
+01:22:30,000 --> 01:22:31,000
+I'll go in and talk to him
+
+2277
+01:22:31,000 --> 01:22:33,000
+Senior, I'm just going to strike up a conversation anyway.
+
+2278
+01:22:33,000 --> 01:22:34,000
+What are you doing
+
+2279
+01:22:34,000 --> 01:22:37,000
+After we're done talking, the dance is over.
+
+2280
+01:22:37,000 --> 01:22:39,000
+But from that day I knew
+
+2281
+01:22:39,000 --> 01:22:41,000
+i want to do research
+
+2282
+01:22:41,000 --> 01:22:44,000
+so i really didn't lie to you
+
+2283
+01:22:44,000 --> 01:22:47,000
+I study hard in college
+
+2284
+01:22:47,000 --> 01:22:48,000
+everyone can
+
+2285
+01:22:48,000 --> 01:22:49,000
+we play too, right?
+
+2286
+01:22:49,000 --> 01:22:50,000
+but also play
+
+2287
+01:22:50,000 --> 01:22:52,000
+but we study hard
+
+2288
+01:22:52,000 --> 01:22:54,000
+Of course, you may be all about books
+
+2289
+01:22:54,000 --> 01:22:55,000
+Why
+
+2290
+01:22:55,000 --> 01:22:56,000
+Because my senior told me
+
+2291
+01:22:56,000 --> 01:22:57,000
+We are also very obedient
+
+2292
+01:22:57,000 --> 01:23:00,000
+The senior said you want to apply to go abroad
+
+2293
+01:23:00,000 --> 01:23:02,000
+your grades are better
+
+2294
+01:23:02,000 --> 01:23:04,000
+so how about good grades
+
+2295
+01:23:04,000 --> 01:23:05,000
+study
+
+2296
+01:23:05,000 --> 01:23:06,000
+so you play and play
+
+2297
+01:23:06,000 --> 01:23:08,000
+but you know what you want
+
+2298
+01:23:08,000 --> 01:23:10,000
+so i finished college
+
+2299
+01:23:10,000 --> 01:23:12,000
+Then go to graduate school
+
+2300
+01:23:12,000 --> 01:23:14,000
+then became a soldier
+
+2301
+01:23:14,000 --> 01:23:15,000
+After serving as a soldier
+
+2302
+01:23:15,000 --> 01:23:16,000
+because i know i'm in
+
+2303
+01:23:16,000 --> 01:23:18,000
+I used to do it myself
+
+2304
+01:23:18,000 --> 01:23:20,000
+Comparing the traditional research on occupational science
+
+2305
+01:23:20,000 --> 01:23:23,000
+Don't know anything about molecular biology
+
+2306
+01:23:23,000 --> 01:23:24,000
+i know that's a trend
+
+2307
+01:23:24,000 --> 01:23:26,000
+So after I finish my military service
+
+2308
+01:23:26,000 --> 01:23:29,000
+i served as a soldier at the youth headquarters
+
+2309
+01:23:29,000 --> 01:23:30,000
+it's very close
+
+2310
+01:23:30,000 --> 01:23:32,000
+So after my young headquarters served as a soldier
+
+2311
+01:23:32,000 --> 01:23:34,000
+Come to Zhongying Yuan as a doppelganger
+
+2312
+01:23:34,000 --> 01:23:35,000
+research assistant
+
+2313
+01:23:35,000 --> 01:23:36,000
+our same issue
+
+2314
+01:23:36,000 --> 01:23:38,000
+Later, they are our current colleagues
+
+2315
+01:23:38,000 --> 01:23:39,000
+many
+
+2316
+01:23:39,000 --> 01:23:41,000
+So after two years as an assistant
+
+2317
+01:23:41,000 --> 01:23:42,000
+study abroad
+
+2318
+01:23:42,000 --> 01:23:43,000
+study abroad
+
+2319
+01:23:43,000 --> 01:23:44,000
+So I've been all the way
+
+2320
+01:23:44,000 --> 01:23:46,000
+thanks for the grades
+
+2321
+01:23:46,000 --> 01:23:47,000
+everything went well
+
+2322
+01:23:47,000 --> 01:23:49,000
+I'm all over this
+
+2323
+01:23:49,000 --> 01:23:51,000
+environment of this study
+
+2324
+01:23:51,000 --> 01:23:52,000
+research environment
+
+2325
+01:23:52,000 --> 01:23:53,000
+because i just want
+
+2326
+01:23:53,000 --> 01:23:55,000
+So I was in America
+
+2327
+01:23:55,000 --> 01:23:57,000
+when you come back
+
+2328
+01:23:57,000 --> 01:24:00,000
+I also only apply for the position of the China Campus Institute
+
+2329
+01:24:00,000 --> 01:24:01,740
+I didn't upgrade any other
+
+2330
+01:24:01,740 --> 01:24:03,240
+also really thank god
+
+2331
+01:24:03,240 --> 01:24:04,160
+just came back
+
+2332
+01:24:04,160 --> 01:24:07,680
+Then it is really a very
+
+2333
+01:24:07,680 --> 01:24:10,480
+In the future, I hope that all young students will have the opportunity
+
+2334
+01:24:10,480 --> 01:24:12,240
+You can come to our job site to have a look
+
+2335
+01:24:12,240 --> 01:24:14,440
+These teachers are really great.
+
+2336
+01:24:14,440 --> 01:24:16,320
+They are many, many times stronger than me
+
+2337
+01:24:16,320 --> 01:24:17,480
+especially those new
+
+2338
+01:24:17,480 --> 01:24:18,680
+you can get from everyone
+
+2339
+01:24:18,680 --> 01:24:19,800
+like us
+
+2340
+01:24:19,800 --> 01:24:22,120
+I just said after we got back here
+
+2341
+01:24:22,120 --> 01:24:23,200
+we have all been
+
+2342
+01:24:23,200 --> 01:24:25,360
+I think education is very important
+
+2343
+01:24:25,360 --> 01:24:28,520
+So I'm probably all except us math students
+
+2344
+01:24:28,520 --> 01:24:29,920
+we will take students number of students
+
+2345
+01:24:29,960 --> 01:24:32,360
+Our program is very good
+
+2346
+01:24:32,360 --> 01:24:33,760
+Look at these two summer students
+
+2347
+01:24:33,760 --> 01:24:35,160
+the year before last year
+
+2348
+01:24:35,160 --> 01:24:36,080
+they last
+
+2349
+01:24:36,080 --> 01:24:38,680
+We won our last games
+
+2350
+01:24:38,680 --> 01:24:40,720
+The two high school students I just talked about
+
+2351
+01:24:40,720 --> 01:24:42,520
+They got awards
+
+2352
+01:24:42,520 --> 01:24:44,760
+They are also participating in the National Science Fair
+
+2353
+01:24:44,760 --> 01:24:46,040
+get this too
+
+2354
+01:24:46,040 --> 01:24:48,280
+so we have a lot of opportunities like this
+
+2355
+01:24:48,280 --> 01:24:50,000
+able to attract students
+
+2356
+01:24:50,000 --> 01:24:52,640
+I think this is probably us
+
+2357
+01:24:52,640 --> 01:24:54,280
+high school
+
+2358
+01:24:54,280 --> 01:24:55,160
+high school i
+
+2359
+01:24:55,160 --> 01:24:57,840
+I also participate in the biological society
+
+2360
+01:24:57,840 --> 01:24:59,960
+The senior generation participates in clubs and other high schools
+
+2361
+01:25:00,000 --> 01:25:03,240
+In the second-generation high school clubs, only the third-year students are studying
+
+2362
+01:25:03,240 --> 01:25:04,440
+So I didn't do very well
+
+2363
+01:25:06,720 --> 01:25:07,220
+same is
+
+2364
+01:25:13,680 --> 01:25:15,120
+thanks for sharing
+
+2365
+01:25:15,120 --> 01:25:16,200
+you just spoke
+
+2366
+01:25:17,040 --> 01:25:18,840
+thank god twice
+
+2367
+01:25:19,400 --> 01:25:20,200
+yes
+
+2368
+01:25:20,200 --> 01:25:21,720
+so you're probably a christian
+
+2369
+01:25:21,720 --> 01:25:22,840
+yes
+
+2370
+01:25:22,840 --> 01:25:23,760
+i think that
+
+2371
+01:25:23,760 --> 01:25:25,440
+sorry i'm a christian too
+
+2372
+01:25:25,680 --> 01:25:27,560
+we in christian education we speak
+
+2373
+01:25:27,800 --> 01:25:30,080
+Evolution and Creation
+
+2374
+01:25:30,640 --> 01:25:31,920
+in your experience
+
+2375
+01:25:31,920 --> 01:25:33,720
+Who do you think is more likely to summon
+
+2376
+01:25:35,080 --> 01:25:37,320
+In fact, I think evolution
+
+2377
+01:25:37,320 --> 01:25:38,480
+your speech
+
+2378
+01:25:38,480 --> 01:25:39,440
+actually stand by me
+
+2379
+01:25:40,120 --> 01:25:41,720
+I think the theory of evolution is
+
+2380
+01:25:41,720 --> 01:25:43,400
+I mean something about you
+
+2381
+01:25:43,840 --> 01:25:44,600
+He can
+
+2382
+01:25:44,600 --> 01:25:45,880
+probably means
+
+2383
+01:25:45,880 --> 01:25:47,280
+giraffe neck
+
+2384
+01:25:47,280 --> 01:25:47,640
+right
+
+2385
+01:25:47,640 --> 01:25:48,760
+longer
+
+2386
+01:25:49,280 --> 01:25:50,480
+as long as in that environment
+
+2387
+01:25:50,480 --> 01:25:51,400
+it's getting less and less
+
+2388
+01:25:51,400 --> 01:25:52,280
+it's getting higher
+
+2389
+01:25:52,280 --> 01:25:54,240
+But you said the giraffe was going to turn into a rhino
+
+2390
+01:25:54,240 --> 01:25:54,960
+but a bit difficult
+
+2391
+01:25:56,040 --> 01:25:57,240
+But the giraffe neck
+
+2392
+01:25:57,240 --> 01:25:58,320
+just run out
+
+2393
+01:25:58,320 --> 01:25:59,160
+this means
+
+2394
+01:26:00,000 --> 01:26:02,420
+Come to agree. From this point of view, I agree.
+
+2395
+01:26:04,080 --> 01:26:05,800
+creation theory
+
+2396
+01:26:07,080 --> 01:26:10,120
+If there is a word, it is impossible for you to be more difficult
+
+2397
+01:26:10,120 --> 01:26:10,680
+I have no idea
+
+2398
+01:26:10,680 --> 01:26:11,040
+I think
+
+2399
+01:26:12,000 --> 01:26:14,040
+We are so complicated now alone
+
+2400
+01:26:14,040 --> 01:26:17,040
+You said you want to start with the original one
+
+2401
+01:26:17,040 --> 01:26:17,880
+maybe tens of thousands of years
+
+2402
+01:26:18,440 --> 01:26:19,520
+I think it's a little difficult
+
+2403
+01:26:19,520 --> 01:26:20,640
+I find it difficult
+
+2404
+01:26:21,960 --> 01:26:23,040
+I think it's almost time
+
+2405
+01:26:23,040 --> 01:26:25,000
+Our other postcards must be given to Mr. Zhao
+
+2406
+01:26:25,000 --> 01:26:25,320
+good
+
+2407
+01:26:26,760 --> 01:26:28,320
+I'm just curious, that's what
+
+2408
+01:26:28,360 --> 01:26:29,320
+in that
+
+2409
+01:26:29,320 --> 01:26:30,440
+Infertility
+
+2410
+01:26:30,440 --> 01:26:31,040
+Can
+
+2411
+01:26:31,360 --> 01:26:32,920
+infertile hybrid
+
+2412
+01:26:32,920 --> 01:26:34,240
+And that self-pollinating hand
+
+2413
+01:26:34,240 --> 01:26:35,920
+In the process of pollen hall formation
+
+2414
+01:26:35,920 --> 01:26:38,120
+What would be the difference in those lead substances
+
+2415
+01:26:38,120 --> 01:26:38,720
+OK
+
+2416
+01:26:39,280 --> 01:26:41,160
+Self-incompatibility of Baozi body
+
+2417
+01:26:41,160 --> 01:26:42,240
+is the so-called
+
+2418
+01:26:42,240 --> 01:26:44,640
+Because the so-called incompatible thing
+
+2419
+01:26:44,640 --> 01:26:46,920
+on the surface of pollen grains
+
+2420
+01:26:46,920 --> 01:26:48,800
+The surface of the pollen grain is from
+
+2421
+01:26:48,800 --> 01:26:49,320
+So-called
+
+2422
+01:26:49,320 --> 01:26:51,840
+flowers are coming
+
+2423
+01:26:51,840 --> 01:26:54,120
+So the one where the flower will come is a diploid
+
+2424
+01:26:54,120 --> 01:26:55,320
+So it's bun body
+
+2425
+01:26:55,320 --> 01:26:57,040
+The gametophyte is indistinct
+
+2426
+01:26:57,040 --> 01:27:00,000
+When the pollen house the gamete grows in the pistil
+
+2427
+01:27:00,000 --> 01:27:02,000
+Inside, this is the configuration body
+
+2428
+01:27:02,000 --> 01:27:03,000
+what about this time
+
+2429
+01:27:03,000 --> 01:27:06,500
+From its suffix, it will be clear that it is called SRNS
+
+2430
+01:27:06,500 --> 01:27:09,500
+This goes into the pollen tube of the plant
+
+2431
+01:27:09,500 --> 01:27:12,500
+This SRNS will put the Mission-9NS inside
+
+2432
+01:27:12,500 --> 01:27:13,500
+so7RNA
+
+2433
+01:27:13,500 --> 01:27:15,000
+All of these RNAs are kneeled down
+
+2434
+01:27:15,000 --> 01:27:17,000
+So it has no way to cause
+
+2435
+01:27:17,000 --> 01:27:19,000
+Another one is the so-called
+
+2436
+01:27:19,000 --> 01:27:20,500
+Jia Riko
+
+2437
+01:27:20,500 --> 01:27:21,500
+Not Kelson
+
+2438
+01:27:21,500 --> 01:27:24,000
+some have one another
+
+2439
+01:27:24,000 --> 01:27:26,500
+in the so-called self-infertility
+
+2440
+01:27:26,500 --> 01:27:28,000
+Also the pollen tubes are on the inside
+
+2441
+01:27:28,000 --> 01:27:29,000
+but it caused
+
+2442
+01:27:29,000 --> 01:27:31,000
+No, this is Jia Lizi
+
+2443
+01:27:31,000 --> 01:27:34,000
+That lid makes it impossible to get in
+
+2444
+01:27:34,000 --> 01:27:35,000
+so the whole later
+
+2445
+01:27:35,000 --> 01:27:38,000
+The entire pollen tube cannot grow
+
+2446
+01:27:38,000 --> 01:27:40,000
+So the mechanism is slightly different
+
+2447
+01:27:40,000 --> 01:27:42,000
+OK, I'll just NAS
+
+2448
+01:27:42,000 --> 01:27:44,000
+The next trial
+
+2449
+01:27:44,000 --> 01:27:45,000
+December 17th
+
+2450
+01:27:45,000 --> 01:27:47,000
+Hu Shi
+
+2451
+01:27:47,000 --> 01:27:49,000
+We have a lecture by Dean Gu
+
+2452
+01:27:49,000 --> 01:27:52,000
+It is a popular science lecture given by President Gu of Hu Shi
+
+2453
+01:27:52,000 --> 01:27:55,000
+that's from the Institute of History and
+
+2454
+01:27:55,000 --> 01:27:57,000
+Lecture by Wang Hongtai Research Institute
+
+2455
+01:27:57,000 --> 01:28:00,000
+From Ximenqing to Jiabaoying
+
+2456
+01:28:00,000 --> 01:28:07,000
+Feminist Review and Emotional Evolution with the People of the Ming and Qing Dynasties
+
+2457
+01:28:07,000 --> 01:28:08,600
+very different subject
+
+2458
+01:28:08,600 --> 01:28:10,800
+These grids are for everyone to participate in
+
+2459
+01:28:10,800 --> 01:28:13,000
+next science talk
+
+2460
+01:28:13,000 --> 01:28:16,400
+Well, we thank Dr. Gao Guangyu, Gao Guang Researcher
+
+2461
+01:28:30,000 --> 01:28:35,000
+"Female Reviews and Emotional Actors in the Ming and Qing Dynasties"
+

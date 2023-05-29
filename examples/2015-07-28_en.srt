@@ -1,0 +1,10664 @@
+1
+00:00:00,000 --> 00:00:08,000
+music
+
+2
+00:00:08,000 --> 00:00:15,000
+music
+
+3
+00:00:15,000 --> 00:00:22,000
+music
+
+4
+00:00:22,000 --> 00:00:29,000
+music
+
+5
+00:00:29,000 --> 00:00:35,000
+music
+
+6
+00:00:35,000 --> 00:00:40,000
+music
+
+7
+00:00:40,000 --> 00:00:44,000
+music
+
+8
+00:00:44,000 --> 00:00:49,000
+music
+
+9
+00:00:49,000 --> 00:00:54,000
+applause
+
+10
+00:00:54,000 --> 00:01:00,000
+applause
+
+11
+00:01:00,000 --> 00:01:02,600
+Our feast of knowledge tonight
+
+12
+00:01:02,600 --> 00:01:04,440
+Our monthly feast of knowledge
+
+13
+00:01:04,440 --> 00:01:08,520
+I am very happy to invite the director of our physics institute today
+
+14
+00:01:08,520 --> 00:01:11,200
+Director Li Dingguo
+
+15
+00:01:11,200 --> 00:01:14,880
+He is also a Special Review Researcher of the Institute
+
+16
+00:01:14,880 --> 00:01:20,440
+Director Li was born in 1976
+
+17
+00:01:20,440 --> 00:01:26,360
+Ph.D. from Brown University
+
+18
+00:01:26,960 --> 00:01:33,320
+He was also at Virginia Tech
+
+19
+00:01:33,320 --> 00:01:35,520
+after a while
+
+20
+00:01:35,520 --> 00:01:36,560
+and then back to Taiwan
+
+21
+00:01:36,560 --> 00:01:38,840
+He has been back to Taiwan for a long time
+
+22
+00:01:38,840 --> 00:01:44,320
+I believe everyone in academia knows him
+
+23
+00:01:44,320 --> 00:01:47,600
+Also served in the hospital
+
+24
+00:01:47,600 --> 00:01:52,920
+Executive Secretary of our Academic Association
+
+25
+00:01:52,920 --> 00:01:59,920
+This is an academic program within the Chancellery
+
+26
+00:02:00,000 --> 00:02:02,000
+And review and so on
+
+27
+00:02:02,000 --> 00:02:06,000
+at the National Science Council
+
+28
+00:02:06,000 --> 00:02:08,000
+which is now the Ministry of Science and Technology
+
+29
+00:02:08,000 --> 00:02:12,000
+He also served as the director of the Theory Center
+
+30
+00:02:12,000 --> 00:02:18,000
+Program host at the Nano Center, etc.
+
+31
+00:02:18,000 --> 00:02:20,000
+That
+
+32
+00:02:22,000 --> 00:02:28,000
+Dr. Li has also won the membership of the Physical Society of the Republic of China
+
+33
+00:02:28,000 --> 00:02:31,000
+Also a meeting of the British Physical Society
+
+34
+00:02:31,000 --> 00:02:34,000
+Also a meeting of the American Physical Society
+
+35
+00:02:34,000 --> 00:02:37,000
+Needless to say, he has won numerous awards
+
+36
+00:02:37,000 --> 00:02:41,000
+We have the Outstanding Honor Award of Houjindui in China
+
+37
+00:02:41,000 --> 00:02:46,000
+National Science Council Outstanding Research Award
+
+38
+00:02:46,000 --> 00:02:51,000
+And the Outstanding Talent Award from the Outstanding Talent Foundation, etc.
+
+39
+00:02:51,000 --> 00:02:56,000
+Then I always say that our basic science
+
+40
+00:02:56,000 --> 00:03:00,000
+To say that everyone knows
+
+41
+00:03:00,000 --> 00:03:02,000
+is working very hard
+
+42
+00:03:02,000 --> 00:03:05,680
+But every time we look for a speaker
+
+43
+00:03:05,680 --> 00:03:07,680
+satisfies power
+
+44
+00:03:07,680 --> 00:03:09,680
+I believe
+
+45
+00:03:09,680 --> 00:03:13,360
+Although everyone read the topic today, it seems a bit
+
+46
+00:03:13,360 --> 00:03:16,800
+Seeking to generate higher overheating
+
+47
+00:03:16,800 --> 00:03:19,600
+Mechanism of superconducting temperature
+
+48
+00:03:19,600 --> 00:03:21,200
+high temperature superconductivity
+
+49
+00:03:21,200 --> 00:03:24,480
+I believe everyone has heard of this term
+
+50
+00:03:24,480 --> 00:03:27,120
+he is trying to put
+
+51
+00:03:27,200 --> 00:03:30,560
+whole process mechanism
+
+52
+00:03:30,560 --> 00:03:33,120
+to tell everyone
+
+53
+00:03:33,120 --> 00:03:34,000
+I think
+
+54
+00:03:34,000 --> 00:03:36,320
+We use these two hours
+
+55
+00:03:36,320 --> 00:03:37,120
+I believe
+
+56
+00:03:37,120 --> 00:03:38,480
+Director must
+
+57
+00:03:38,480 --> 00:03:43,280
+Let everyone know how this high-temperature superconductivity came about
+
+58
+00:03:43,280 --> 00:03:45,120
+the future potential
+
+59
+00:03:45,120 --> 00:03:47,120
+future
+
+60
+00:03:47,120 --> 00:03:48,720
+this
+
+61
+00:03:48,720 --> 00:03:50,080
+practical application
+
+62
+00:03:50,080 --> 00:03:51,680
+people say you can see
+
+63
+00:03:51,680 --> 00:03:55,040
+He has already placed a resignation in front of this
+
+64
+00:03:55,120 --> 00:03:57,600
+Our goal is to say
+
+65
+00:03:57,600 --> 00:03:59,440
+this resignation train
+
+66
+00:03:59,440 --> 00:04:01,440
+Actually now
+
+67
+00:04:00,000 --> 00:04:04,600
+Already have how to take a step further
+
+68
+00:04:04,860 --> 00:04:08,200
+I believe we will gain a lot tonight
+
+69
+00:04:08,460 --> 00:04:09,720
+We welcome Director Li
+
+70
+00:04:14,080 --> 00:04:15,360
+Thank you Vice President Wang
+
+71
+00:04:15,620 --> 00:04:19,720
+Thank you all for coming to the party tonight
+
+72
+00:04:19,960 --> 00:04:24,580
+This is just now Vice President Wang also said that this is a big challenge
+
+73
+00:04:24,840 --> 00:04:26,120
+because it's me
+
+74
+00:04:26,880 --> 00:04:27,640
+first
+
+75
+00:04:28,160 --> 00:04:28,920
+to use
+
+76
+00:04:29,280 --> 00:04:32,760
+Talk about the superconducting mechanism in a popular speech
+
+77
+00:04:33,020 --> 00:04:37,360
+This is something that everyone may have heard of but may not know about superconductivity.
+
+78
+00:04:37,880 --> 00:04:43,760
+The reason why I took this name was because of the magic I thought about this research topic is
+
+79
+00:04:44,020 --> 00:04:45,820
+most interested have done
+
+80
+00:04:46,320 --> 00:04:47,860
+decades of this
+
+81
+00:04:48,380 --> 00:04:49,400
+Superconducting
+
+82
+00:04:49,660 --> 00:04:52,720
+The problem is this is what I've been looking for
+
+83
+00:04:52,980 --> 00:04:54,520
+an important direction
+
+84
+00:04:54,520 --> 00:05:00,160
+Then today I may try to share with you why this topic is very
+
+85
+00:05:00,000 --> 00:05:02,300
+very interesting very challenging
+
+86
+00:05:02,300 --> 00:05:08,000
+So how can we gain some new understanding of physics
+
+87
+00:05:08,000 --> 00:05:11,300
+So here's what I'm talking about today
+
+88
+00:05:11,300 --> 00:05:14,100
+The main thing is to talk first, of course talk a little bit
+
+89
+00:05:14,100 --> 00:05:16,900
+What exactly is directed? What does it mean?
+
+90
+00:05:16,900 --> 00:05:19,200
+It may be more than you imagine
+
+91
+00:05:19,200 --> 00:05:22,800
+And a little more strange phenomenon
+
+92
+00:05:22,800 --> 00:05:25,800
+with some of its mechanics is very simple
+
+93
+00:05:25,800 --> 00:05:28,500
+Why do we have so many strange phenomena
+
+94
+00:05:28,500 --> 00:05:31,300
+But if you know something about this
+
+95
+00:05:31,300 --> 00:05:34,700
+you can imagine what it does
+
+96
+00:05:34,700 --> 00:05:37,100
+You may hear more about this
+
+97
+00:05:37,100 --> 00:05:41,800
+That is the aspect of the possible application of the steering material
+
+98
+00:05:41,800 --> 00:05:43,700
+that's been done a lot
+
+99
+00:05:43,700 --> 00:05:47,500
+The other one, of course, is what Wang Fuyuan said just now.
+
+100
+00:05:47,500 --> 00:05:51,700
+The discovery of this high-temperature conductor
+
+101
+00:05:52,700 --> 00:05:56,300
+Near the end of 1986
+
+102
+00:05:56,300 --> 00:05:58,700
+almost 30 years now
+
+103
+00:05:58,700 --> 00:05:59,900
+the discovery of this
+
+104
+00:06:00,000 --> 00:06:02,300
+a lot of confusion
+
+105
+00:06:02,300 --> 00:06:04,340
+that's confusing we're still trying to understand
+
+106
+00:06:04,340 --> 00:06:08,000
+don't already have quite a few close
+
+107
+00:06:08,000 --> 00:06:10,840
+To understand the cause of this problem
+
+108
+00:06:10,840 --> 00:06:12,840
+With the source of this tide island
+
+109
+00:06:12,840 --> 00:06:14,840
+Well we just discovered a lot
+
+110
+00:06:14,840 --> 00:06:17,840
+It's not the same as the old tide island
+
+111
+00:06:17,840 --> 00:06:20,840
+Then of course the next step is
+
+112
+00:06:20,840 --> 00:06:22,840
+How to find higher tide temperature
+
+113
+00:06:22,840 --> 00:06:24,540
+Then of course why seek this
+
+114
+00:06:24,540 --> 00:06:27,840
+I have quite a big idea with this
+
+115
+00:06:28,840 --> 00:06:31,840
+OK, let's talk about this tide island phenomenon
+
+116
+00:06:31,840 --> 00:06:34,840
+Of course, the English name of this Superconductor is Superconductor
+
+117
+00:06:34,840 --> 00:06:38,840
+Calling this name, of course, ordinary people will think of it as one.
+
+118
+00:06:38,840 --> 00:06:40,840
+This English conductor has several opinions
+
+119
+00:06:40,840 --> 00:06:44,840
+One is the conductor and the other is the length of the vehicle
+
+120
+00:06:44,840 --> 00:06:47,840
+If the conductor of the train is also called conductor
+
+121
+00:06:47,840 --> 00:06:50,840
+The other one is the conductor, the conductor of the orchestra.
+
+122
+00:06:50,840 --> 00:06:52,840
+Then this Super is of course Superman
+
+123
+00:06:52,840 --> 00:06:54,840
+This Superconductor is what it means
+
+124
+00:06:54,840 --> 00:06:56,840
+Then there is another kind of Taiwan that everyone is more familiar with.
+
+125
+00:06:56,840 --> 00:06:59,840
+Well done called Semiconductor
+
+126
+00:07:00,000 --> 00:07:02,120
+there is a comic
+
+127
+00:07:02,120 --> 00:07:05,000
+Let’s say this conductor only has work part time
+
+128
+00:07:05,560 --> 00:07:07,560
+So it is semiconductor
+
+129
+00:07:08,000 --> 00:07:09,680
+Of course with SumSent is also right
+
+130
+00:07:09,680 --> 00:07:13,000
+This semiconductor will see its resistance later
+
+131
+00:07:13,000 --> 00:07:15,760
+part of it is like conducting
+
+132
+00:07:15,760 --> 00:07:16,880
+sometimes not like
+
+133
+00:07:16,880 --> 00:07:19,000
+So it is a general semiconductor
+
+134
+00:07:19,000 --> 00:07:19,880
+the name goes
+
+135
+00:07:19,880 --> 00:07:21,240
+Then this superconductor
+
+136
+00:07:21,240 --> 00:07:22,360
+when he takes a good name
+
+137
+00:07:22,360 --> 00:07:24,440
+Dangdang doesn't sound very familiar
+
+138
+00:07:24,440 --> 00:07:26,920
+what does super mean
+
+139
+00:07:27,920 --> 00:07:30,360
+what about this gentleman
+
+140
+00:07:30,360 --> 00:07:31,800
+is honest
+
+141
+00:07:31,800 --> 00:07:36,080
+this is dutch
+
+142
+00:07:36,080 --> 00:07:38,280
+At the University of Leiden
+
+143
+00:07:38,280 --> 00:07:40,520
+in 1911
+
+144
+00:07:40,520 --> 00:07:43,880
+about 100 years ago
+
+145
+00:07:43,880 --> 00:07:46,920
+In 1911, he conducted an experiment
+
+146
+00:07:46,920 --> 00:07:49,040
+Of course he wasn't
+
+147
+00:07:49,040 --> 00:07:51,240
+especially to find
+
+148
+00:07:51,240 --> 00:07:52,760
+This super early experiment
+
+149
+00:07:52,760 --> 00:07:53,800
+this is a resistor
+
+150
+00:07:53,800 --> 00:07:54,600
+let me explain
+
+151
+00:07:54,600 --> 00:07:56,280
+What does this resistor mean?
+
+152
+00:07:56,280 --> 00:07:59,320
+This is the resistance represented by the OMU
+
+153
+00:08:00,000 --> 00:08:06,000
+Its special experiment is that it can reduce the temperature to a very low
+
+154
+00:08:06,000 --> 00:08:10,000
+It is a liquid state, but it turns into a liquid state at 4.2 degrees
+
+155
+00:08:10,000 --> 00:08:12,000
+Above 4.2 degrees it is gaseous
+
+156
+00:08:12,000 --> 00:08:14,000
+It can make liquid damage
+
+157
+00:08:14,000 --> 00:08:17,000
+that is its most important job
+
+158
+00:08:17,000 --> 00:08:19,000
+After this work it is done
+
+159
+00:08:19,000 --> 00:08:25,000
+It puts some metals and other things in the low temperature to see
+
+160
+00:08:25,000 --> 00:08:27,000
+what happened
+
+161
+00:08:27,000 --> 00:08:30,000
+This approach is often a scientific approach
+
+162
+00:08:30,000 --> 00:08:32,000
+It's just going to a place that no one else has been to.
+
+163
+00:08:32,000 --> 00:08:34,000
+See questions that people have never seen before
+
+164
+00:08:34,000 --> 00:08:36,000
+Of course the problem is the low temperature
+
+165
+00:08:36,000 --> 00:08:38,000
+Occurs at very low temperatures
+
+166
+00:08:38,000 --> 00:08:41,000
+Of course, low temperature is very important now.
+
+167
+00:08:41,000 --> 00:08:44,000
+This whole is under low temperature and it goes to measure
+
+168
+00:08:44,000 --> 00:08:46,000
+It this resistance of course from high temperature
+
+169
+00:08:46,000 --> 00:08:49,000
+This 270 degrees can be 273 degrees
+
+170
+00:08:49,000 --> 00:08:53,000
+So this is about 269 degrees
+
+171
+00:08:53,000 --> 00:08:56,000
+Just -269 degrees facility
+
+172
+00:08:56,000 --> 00:08:59,000
+Zero degrees at our facility is
+
+173
+00:09:00,000 --> 00:09:01,800
+273 degrees absolute
+
+174
+00:09:01,800 --> 00:09:02,760
+This is the absolute temperature
+
+175
+00:09:02,760 --> 00:09:05,840
+So you are now saying that from this room temperature all the way down
+
+176
+00:09:05,960 --> 00:09:07,800
+You're going to get down to about 300 degrees
+
+177
+00:09:08,080 --> 00:09:09,800
+you can get to this temperature
+
+178
+00:09:09,880 --> 00:09:12,320
+Absolute temperature below 0 degrees is no temperature
+
+179
+00:09:12,320 --> 00:09:14,040
+This temperature has an absolute value
+
+180
+00:09:14,240 --> 00:09:14,960
+is 0 degrees
+
+181
+00:09:15,320 --> 00:09:17,880
+it keeps cooling
+
+182
+00:09:17,880 --> 00:09:20,520
+Then watch the resistor drop all the way down
+
+183
+00:09:20,520 --> 00:09:21,000
+to here
+
+184
+00:09:21,000 --> 00:09:22,480
+suddenly fell fast
+
+185
+00:09:23,000 --> 00:09:27,400
+down to 3 orders of magnitude 4 orders of magnitude
+
+186
+00:09:27,560 --> 00:09:29,320
+Negatives from here to 10
+
+187
+00:09:29,560 --> 00:09:30,440
+fall here
+
+188
+00:09:30,720 --> 00:09:33,000
+then 4.15 degrees
+
+189
+00:09:33,520 --> 00:09:35,520
+It can be seen here that 4.2 degrees
+
+190
+00:09:35,520 --> 00:09:38,160
+just too high
+
+191
+00:09:38,160 --> 00:09:39,000
+a little lower temperature
+
+192
+00:09:39,000 --> 00:09:40,040
+So too high is very important
+
+193
+00:09:40,040 --> 00:09:40,800
+put it in
+
+194
+00:09:40,800 --> 00:09:41,520
+it's lower
+
+195
+00:09:41,520 --> 00:09:41,800
+Eh
+
+196
+00:09:42,480 --> 00:09:43,200
+it got
+
+197
+00:09:43,400 --> 00:09:44,280
+this phenomenon
+
+198
+00:09:44,280 --> 00:09:45,280
+this is
+
+199
+00:09:46,080 --> 00:09:46,720
+superconducting
+
+200
+00:09:47,240 --> 00:09:48,280
+found for the first time
+
+201
+00:09:48,280 --> 00:09:49,960
+This is 1911
+
+202
+00:09:49,960 --> 00:09:52,400
+You will probably see this picture many times
+
+203
+00:09:52,400 --> 00:09:53,080
+this is
+
+204
+00:09:53,280 --> 00:09:56,120
+This temperature is called the part temperature Tc
+
+205
+00:09:56,240 --> 00:09:57,000
+C is
+
+206
+00:09:57,200 --> 00:09:58,680
+English is called Critical Temperature
+
+207
+00:09:58,680 --> 00:09:59,840
+is the part temperature
+
+208
+00:10:00,000 --> 00:10:04,160
+The Tc I used in this talk is the representative
+
+209
+00:10:04,520 --> 00:10:07,240
+just go from normal to super old temperature
+
+210
+00:10:08,400 --> 00:10:11,280
+What we are looking for is to increase the temperature
+
+211
+00:10:11,520 --> 00:10:12,840
+best to mention room temperature
+
+212
+00:10:14,320 --> 00:10:16,320
+this is everyone's dream
+
+213
+00:10:16,320 --> 00:10:18,000
+Of course it is asking why
+
+214
+00:10:18,000 --> 00:10:20,240
+This zero resistance is of course here you see
+
+215
+00:10:20,600 --> 00:10:22,080
+Its resistance is not zero
+
+216
+00:10:22,760 --> 00:10:24,760
+It is also a real parent, a real mother
+
+217
+00:10:25,240 --> 00:10:26,320
+Just good resistance
+
+218
+00:10:26,680 --> 00:10:28,120
+not exactly zero
+
+219
+00:10:28,120 --> 00:10:29,760
+How do we know this is zero resistance
+
+220
+00:10:31,000 --> 00:10:35,000
+After this material comes out
+
+221
+00:10:35,000 --> 00:10:39,000
+Of course it slowly started to become popular in cryogenics
+
+222
+00:10:39,000 --> 00:10:40,000
+so many people do
+
+223
+00:10:40,000 --> 00:10:41,000
+it is
+
+224
+00:10:41,000 --> 00:10:44,000
+Then from just now what it does is mercury
+
+225
+00:10:44,000 --> 00:10:45,000
+is the arch
+
+226
+00:10:45,000 --> 00:10:46,000
+then there is lead
+
+227
+00:10:46,000 --> 00:10:48,000
+These materials one by one
+
+228
+00:10:48,000 --> 00:10:52,000
+Then first do single-atom metals in the periodic table
+
+229
+00:10:52,000 --> 00:10:54,000
+Then do the bimetallic
+
+230
+00:10:54,000 --> 00:10:56,000
+alloy of two elements
+
+231
+00:10:56,000 --> 00:10:57,000
+do it
+
+232
+00:10:57,000 --> 00:10:59,000
+do here almost
+
+233
+00:10:59,000 --> 00:11:00,000
+almost
+
+234
+00:11:00,000 --> 00:11:01,540
+Then later do three elements
+
+235
+00:11:01,540 --> 00:11:02,340
+you can tell
+
+236
+00:11:02,340 --> 00:11:04,840
+The physicist starts from the simplest kind of element
+
+237
+00:11:04,840 --> 00:11:06,120
+Then do two more elements
+
+238
+00:11:06,120 --> 00:11:07,420
+make three elements
+
+239
+00:11:07,420 --> 00:11:09,460
+start looking for
+
+240
+00:11:09,460 --> 00:11:11,460
+Say the superconducting temperature
+
+241
+00:11:11,460 --> 00:11:13,920
+So doing here is actually the highest at that time
+
+242
+00:11:13,920 --> 00:11:14,880
+23 degrees
+
+243
+00:11:14,880 --> 00:11:17,160
+I was doing a postdoc at the time
+
+244
+00:11:17,160 --> 00:11:18,960
+I'll study this when I do
+
+245
+00:11:18,960 --> 00:11:22,080
+Why is the superconducting temperature 23 degrees?
+
+246
+00:11:22,080 --> 00:11:24,260
+Back then I called it a high temperature superconductor
+
+247
+00:11:24,260 --> 00:11:26,080
+Of course it looks funny now
+
+248
+00:11:26,080 --> 00:11:28,580
+That's only 23 degrees absolute temperature
+
+249
+00:11:29,160 --> 00:11:31,920
+At that time, this material was also difficult to make.
+
+250
+00:11:31,920 --> 00:11:34,000
+Only one group can make it
+
+251
+00:11:34,000 --> 00:11:34,920
+that is a world record
+
+252
+00:11:34,920 --> 00:11:38,580
+back then i remember in ganis
+
+253
+00:11:38,580 --> 00:11:40,500
+It is also written in the world record
+
+254
+00:11:40,500 --> 00:11:44,120
+This is the world's highest temperature superconductor
+
+255
+00:11:44,120 --> 00:11:45,620
+23 degrees
+
+256
+00:11:45,620 --> 00:11:46,820
+that's a big deal
+
+257
+00:11:46,820 --> 00:11:48,380
+then this is
+
+258
+00:11:48,380 --> 00:11:51,040
+After that, of course, new materials started to come out.
+
+259
+00:11:51,040 --> 00:11:53,080
+but it's too late
+
+260
+00:11:53,080 --> 00:11:54,700
+At that time in 1970
+
+261
+00:11:54,700 --> 00:11:55,660
+At that time we were the earth
+
+262
+00:11:55,660 --> 00:11:57,580
+The material is also interesting
+
+263
+00:11:57,580 --> 00:11:59,840
+but at that time
+
+264
+00:12:00,000 --> 00:12:02,300
+Everyone do this temperature
+
+265
+00:12:02,300 --> 00:12:06,140
+This was 4 years ago in 2011
+
+266
+00:12:06,140 --> 00:12:08,540
+This is a British magazine
+
+267
+00:12:08,540 --> 00:12:09,340
+journal of physics
+
+268
+00:12:09,340 --> 00:12:11,900
+published a special issue
+
+269
+00:12:11,900 --> 00:12:14,540
+100 Years of Drilling Development
+
+270
+00:12:15,800 --> 00:12:16,500
+just said
+
+271
+00:12:16,500 --> 00:12:18,140
+The words developed in the past 100 years
+
+272
+00:12:18,140 --> 00:12:19,460
+Of course there are some
+
+273
+00:12:19,460 --> 00:12:22,240
+Nuo Biao said it was related to this drill
+
+274
+00:12:22,240 --> 00:12:23,840
+In fact, the first person is of course
+
+275
+00:12:23,840 --> 00:12:26,840
+It's that Mr. Ones just now
+
+276
+00:12:26,840 --> 00:12:27,240
+campman
+
+277
+00:12:27,240 --> 00:12:28,940
+Now at University Leiden
+
+278
+00:12:28,940 --> 00:12:30,780
+There is a Museum
+
+279
+00:12:30,780 --> 00:12:32,200
+If you go to University Leiden
+
+280
+00:12:32,200 --> 00:12:33,140
+that is very old
+
+281
+00:12:33,140 --> 00:12:34,580
+300+ Years of University
+
+282
+00:12:34,580 --> 00:12:37,980
+There is a laboratory in that university
+
+283
+00:12:37,980 --> 00:12:40,040
+There is this Museum
+
+284
+00:12:40,040 --> 00:12:42,040
+dedicated to his cryogenic laboratory
+
+285
+00:12:42,040 --> 00:12:45,180
+That is the most famous cryogenic laboratory in the world
+
+286
+00:12:45,180 --> 00:12:46,140
+He spoke with a promise
+
+287
+00:12:46,140 --> 00:12:47,800
+In fact, it is not because of the discovery of the manipulation
+
+288
+00:12:47,800 --> 00:12:51,380
+It's because he lowered the temperature to one too high
+
+289
+00:12:51,380 --> 00:12:52,740
+this is
+
+290
+00:12:52,740 --> 00:12:54,240
+Sorry I didn't translate
+
+291
+00:12:54,240 --> 00:12:56,540
+This is the original promise
+
+292
+00:12:56,540 --> 00:12:59,980
+Citation when Community gave him a promise
+
+293
+00:13:00,000 --> 00:13:01,800
+not about coaching
+
+294
+00:13:01,800 --> 00:13:03,520
+Because at that time, I didn't understand manipulation at all.
+
+295
+00:13:03,520 --> 00:13:05,800
+Back then there was no quantum physics
+
+296
+00:13:05,800 --> 00:13:06,840
+I don't know what that means
+
+297
+00:13:06,840 --> 00:13:08,560
+wait a minute and you'll think about it
+
+298
+00:13:08,560 --> 00:13:11,360
+so don't appreciate at all
+
+299
+00:13:11,360 --> 00:13:13,080
+And at that time, they were also speculating on the teacher's parents
+
+300
+00:13:13,080 --> 00:13:15,440
+Sifang shopkeeper is not a spirit
+
+301
+00:13:15,440 --> 00:13:17,120
+what's special
+
+302
+00:13:17,120 --> 00:13:19,360
+There are of course many explanations for this
+
+303
+00:13:19,360 --> 00:13:20,840
+So this is probably when
+
+304
+00:13:20,840 --> 00:13:22,920
+But in 1972 this paper
+
+305
+00:13:22,920 --> 00:13:25,040
+Of course it is a theoretical paper
+
+306
+00:13:25,040 --> 00:13:27,120
+explains the phenomenon of manipulation
+
+307
+00:13:27,120 --> 00:13:29,680
+This is written by water
+
+308
+00:13:29,680 --> 00:13:30,560
+after this comes out
+
+309
+00:13:30,560 --> 00:13:34,640
+The overall understanding of manipulation is greatly increased
+
+310
+00:13:34,640 --> 00:13:36,600
+That's an important theory
+
+311
+00:13:36,600 --> 00:13:38,040
+a breakthrough theory
+
+312
+00:13:38,040 --> 00:13:41,200
+So it's actually the same as the discovery of the God Particle
+
+313
+00:13:41,200 --> 00:13:42,360
+everything matters
+
+314
+00:13:42,360 --> 00:13:45,840
+This theory has far-reaching
+
+315
+00:13:45,840 --> 00:13:49,720
+Many developments in high-energy particle physics
+
+316
+00:13:49,720 --> 00:13:52,080
+the two
+
+317
+00:13:52,080 --> 00:13:54,280
+Even three of them are also physicists
+
+318
+00:13:54,280 --> 00:13:56,640
+Same County NOW WebPly 1973
+
+319
+00:13:56,680 --> 00:13:59,280
+I also saw some manipulative phenomena
+
+320
+00:13:59,280 --> 00:14:00,080
+special phenomenon
+
+321
+00:14:00,000 --> 00:14:02,560
+Of course I won't talk about this, just 90 points a piece
+
+322
+00:14:02,560 --> 00:14:07,160
+One of the books that this gentleman gave is that he is doing a Ph.D.
+
+323
+00:14:07,160 --> 00:14:11,760
+Dissertation written during PhD studentship
+
+324
+00:14:11,760 --> 00:14:15,200
+His teacher is a very famous physicist
+
+325
+00:14:15,200 --> 00:14:17,400
+A question came up during class
+
+326
+00:14:17,400 --> 00:14:18,680
+Said the question is very interesting
+
+327
+00:14:18,680 --> 00:14:20,480
+do it and see what happens
+
+328
+00:14:20,480 --> 00:14:22,720
+He just did it and made a promise
+
+329
+00:14:22,720 --> 00:14:27,280
+This is the simplest paper I have ever seen
+
+330
+00:14:27,280 --> 00:14:29,880
+Of course he has great consequence
+
+331
+00:14:30,160 --> 00:14:34,360
+These are the two who discovered high temperature very early in 1987
+
+332
+00:14:34,360 --> 00:14:37,480
+Bennel's Swiss and German Mueller
+
+333
+00:14:37,480 --> 00:14:39,000
+Take the promise
+
+334
+00:14:39,000 --> 00:14:42,520
+Three more in 2003 with two Russians
+
+335
+00:14:42,520 --> 00:14:45,840
+Because the American professor took the promise
+
+336
+00:14:45,840 --> 00:14:47,080
+it's all about theory
+
+337
+00:14:47,080 --> 00:14:48,800
+So there are two related to the theory
+
+338
+00:14:48,800 --> 00:14:50,120
+out of twelve
+
+339
+00:14:50,120 --> 00:14:52,600
+Ten are related to experiments
+
+340
+00:14:52,600 --> 00:14:54,600
+wait some people i will mention
+
+341
+00:14:54,600 --> 00:14:55,880
+not all
+
+342
+00:14:55,880 --> 00:14:57,680
+First we have to remind
+
+343
+00:14:57,680 --> 00:15:00,080
+Because everyone may go to college for a long time
+
+344
+00:15:00,000 --> 00:15:03,320
+Probably a long time ago or in high school what is a resistor
+
+345
+00:15:03,320 --> 00:15:06,440
+Let's take a look at what zero resistance means
+
+346
+00:15:06,440 --> 00:15:08,200
+Resistors are actually very simple
+
+347
+00:15:08,200 --> 00:15:10,720
+take a material
+
+348
+00:15:10,720 --> 00:15:13,120
+Then you add a direct current like
+
+349
+00:15:13,120 --> 00:15:14,440
+add a battery
+
+350
+00:15:14,440 --> 00:15:18,240
+Current flows from positive to negative
+
+351
+00:15:18,240 --> 00:15:19,760
+That's what we both said
+
+352
+00:15:19,760 --> 00:15:23,480
+Just put a Ford battery
+
+353
+00:15:23,480 --> 00:15:27,200
+Then how many tenths of an ampere do I have
+
+354
+00:15:27,200 --> 00:15:29,000
+I divide it and I am my resistor
+
+355
+00:15:29,000 --> 00:15:32,600
+That resistance is just ohms
+
+356
+00:15:32,600 --> 00:15:34,920
+But this is of course a bit simple
+
+357
+00:15:34,920 --> 00:15:36,320
+because this thing has a problem
+
+358
+00:15:36,320 --> 00:15:39,800
+Let's say that if the length becomes longer
+
+359
+00:15:39,800 --> 00:15:44,440
+If say the length of this conductor is doubled
+
+360
+00:15:44,440 --> 00:15:46,480
+Then of course we are as small as water
+
+361
+00:15:46,480 --> 00:15:47,680
+if you manage to double
+
+362
+00:15:47,680 --> 00:15:50,760
+your flow is reduced by half
+
+363
+00:15:50,760 --> 00:15:52,240
+Cut the current in half
+
+364
+00:15:52,240 --> 00:15:53,880
+then you double the resistance
+
+365
+00:15:53,880 --> 00:15:55,320
+because you cut this in half
+
+366
+00:15:55,320 --> 00:15:57,720
+If the entire value remains unchanged
+
+367
+00:15:57,720 --> 00:16:00,040
+you just doubled
+
+368
+00:16:00,000 --> 00:16:01,300
+this resistor
+
+369
+00:16:01,300 --> 00:16:03,500
+Then if you take this area
+
+370
+00:16:03,500 --> 00:16:06,300
+double doubled
+
+371
+00:16:06,300 --> 00:16:07,700
+then the current doubles
+
+372
+00:16:07,700 --> 00:16:08,400
+we all know that
+
+373
+00:16:08,400 --> 00:16:10,800
+If the tube is doubled
+
+374
+00:16:10,800 --> 00:16:12,500
+the flow of water doubles it
+
+375
+00:16:12,500 --> 00:16:14,600
+Then the resistance is reduced by half
+
+376
+00:16:14,600 --> 00:16:17,600
+So the resistor itself acts as a
+
+377
+00:16:17,600 --> 00:16:20,900
+It depends on the length and area of ​​the material
+
+378
+00:16:20,900 --> 00:16:22,100
+It will be different if you measure it
+
+379
+00:16:22,100 --> 00:16:24,200
+Although both take the same line
+
+380
+00:16:24,200 --> 00:16:25,800
+coarse wire fine wire
+
+381
+00:16:25,800 --> 00:16:27,700
+length you will get different
+
+382
+00:16:27,700 --> 00:16:29,200
+so it's not a good number
+
+383
+00:16:29,200 --> 00:16:31,900
+because it will experiment with everyone
+
+384
+00:16:31,900 --> 00:16:35,600
+The amount of this material is different
+
+385
+00:16:35,600 --> 00:16:36,700
+Although the same
+
+386
+00:16:36,700 --> 00:16:37,900
+but you will measure the difference
+
+387
+00:16:37,900 --> 00:16:38,600
+because this
+
+388
+00:16:38,600 --> 00:16:40,600
+So use a resistivity
+
+389
+00:16:40,600 --> 00:16:42,400
+Using resistivity is not equal to
+
+390
+00:16:42,400 --> 00:16:43,600
+It is only a negative film as a material
+
+391
+00:16:43,600 --> 00:16:45,000
+so everything
+
+392
+00:16:45,000 --> 00:16:46,800
+if you check now
+
+393
+00:16:46,800 --> 00:16:48,000
+just check everything
+
+394
+00:16:48,000 --> 00:16:50,600
+arch gold copper silver
+
+395
+00:16:50,600 --> 00:16:54,200
+have a certain resistivity at room temperature
+
+396
+00:16:54,200 --> 00:16:56,000
+Then this is a table
+
+397
+00:16:56,000 --> 00:16:57,100
+everyone this is
+
+398
+00:16:57,200 --> 00:16:59,400
+If Ohm's Law
+
+399
+00:16:59,400 --> 00:17:00,200
+Then this is electricity
+
+400
+00:17:00,000 --> 00:17:01,000
+it's easy
+
+401
+00:17:01,000 --> 00:17:02,000
+just like the flow of water
+
+402
+00:17:02,000 --> 00:17:03,000
+Water press
+
+403
+00:17:03,000 --> 00:17:04,000
+then you have flow
+
+404
+00:17:04,000 --> 00:17:07,000
+And then you just viscosity it
+
+405
+00:17:07,000 --> 00:17:09,000
+This is called a resistor here
+
+406
+00:17:10,000 --> 00:17:13,000
+Then if you are in an ideal body
+
+407
+00:17:13,000 --> 00:17:14,000
+I take this at this time
+
+408
+00:17:14,000 --> 00:17:18,000
+A Nature Physics cover that came out to draw the cover
+
+409
+00:17:18,000 --> 00:17:20,000
+draw this beautifully
+
+410
+00:17:20,000 --> 00:17:21,000
+these atoms
+
+411
+00:17:21,000 --> 00:17:23,000
+Different sizes represent different atoms
+
+412
+00:17:23,000 --> 00:17:24,000
+Ranked seventy-seven
+
+413
+00:17:24,000 --> 00:17:27,000
+This is our hypothetical ideal body
+
+414
+00:17:27,000 --> 00:17:30,000
+Every atom is in its rightful place
+
+415
+00:17:30,000 --> 00:17:34,000
+A very regular structure arranged neatly
+
+416
+00:17:35,000 --> 00:17:37,000
+where are you high
+
+417
+00:17:37,000 --> 00:17:39,000
+Plus it's a superconductor
+
+418
+00:17:39,000 --> 00:17:40,000
+It's the same as the blue back
+
+419
+00:17:40,000 --> 00:17:42,000
+This is Wu Maokun Su Jingwu
+
+420
+00:17:42,000 --> 00:17:43,000
+this was done
+
+421
+00:17:43,000 --> 00:17:44,000
+This is the Nano watch award
+
+422
+00:17:44,000 --> 00:17:47,000
+No they're the one Bandle Mueller found
+
+423
+00:17:47,000 --> 00:17:49,000
+This is what you see neatly arranged
+
+424
+00:17:49,000 --> 00:17:51,000
+if you imagine this is this
+
+425
+00:17:51,000 --> 00:17:52,000
+These atoms are
+
+426
+00:17:52,000 --> 00:17:54,000
+it lined up the whole
+
+427
+00:17:54,000 --> 00:17:57,000
+The body is very structured
+
+428
+00:17:57,000 --> 00:17:58,000
+Then under such words
+
+429
+00:17:58,000 --> 00:17:59,000
+of course you can ask
+
+430
+00:18:00,000 --> 00:18:01,400
+Where do I get the resistors?
+
+431
+00:18:01,680 --> 00:18:02,680
+In fact, there is no resistance
+
+432
+00:18:02,680 --> 00:18:03,760
+If your resistor
+
+433
+00:18:03,760 --> 00:18:04,920
+If it is very powerful
+
+434
+00:18:04,920 --> 00:18:06,080
+It's all the same
+
+435
+00:18:06,080 --> 00:18:07,160
+You won't have resistors anymore
+
+436
+00:18:08,360 --> 00:18:09,760
+So everyone thought of it before
+
+437
+00:18:09,760 --> 00:18:10,520
+you may not have a resistor
+
+438
+00:18:10,520 --> 00:18:11,560
+the so-called resistance
+
+439
+00:18:11,560 --> 00:18:13,040
+The possible reason everyone thinks
+
+440
+00:18:13,040 --> 00:18:14,440
+that must be out of alignment
+
+441
+00:18:14,440 --> 00:18:16,360
+One of the reasons is right
+
+442
+00:18:16,360 --> 00:18:18,040
+if you these
+
+443
+00:18:18,720 --> 00:18:20,560
+position of some atoms
+
+444
+00:18:20,920 --> 00:18:23,240
+not your usual
+
+445
+00:18:23,600 --> 00:18:25,080
+If this position is placed
+
+446
+00:18:25,560 --> 00:18:26,520
+The position of the pendulum
+
+447
+00:18:26,520 --> 00:18:27,840
+it went sideways a bit
+
+448
+00:18:27,840 --> 00:18:28,440
+a little to the right
+
+449
+00:18:28,440 --> 00:18:29,960
+There is an extra charge in the hole
+
+450
+00:18:30,040 --> 00:18:30,720
+atom
+
+451
+00:18:30,720 --> 00:18:32,080
+Then when your electrons are running
+
+452
+00:18:32,080 --> 00:18:33,600
+will collide
+
+453
+00:18:33,600 --> 00:18:35,280
+Just like everyone sitting here
+
+454
+00:18:35,280 --> 00:18:36,120
+sit well
+
+455
+00:18:36,120 --> 00:18:37,040
+then if you have to go through
+
+456
+00:18:37,040 --> 00:18:39,200
+If there is no middle
+
+457
+00:18:39,200 --> 00:18:40,480
+Everyone sit well
+
+458
+00:18:40,480 --> 00:18:43,520
+Then if there are a few people crooked
+
+459
+00:18:43,520 --> 00:18:44,800
+Then it will be difficult for you to leave
+
+460
+00:18:44,800 --> 00:18:45,800
+you will hit
+
+461
+00:18:45,800 --> 00:18:47,520
+Then when you hit this electron
+
+462
+00:18:47,520 --> 00:18:49,080
+you will have resistance
+
+463
+00:18:49,080 --> 00:18:51,560
+This is where the main resistance comes from
+
+464
+00:18:51,560 --> 00:18:53,520
+It is because of the flash of impurities
+
+465
+00:18:53,520 --> 00:18:55,960
+Of course, a piece as big as the body
+
+466
+00:18:55,960 --> 00:18:59,960
+The body is one centimeter in length, width and height
+
+467
+00:19:00,000 --> 00:19:03,900
+But if it is not perfect, you will have this problem
+
+468
+00:19:03,900 --> 00:19:08,100
+This is one of the main sources of resistance.
+
+469
+00:19:08,600 --> 00:19:11,640
+This is what everyone probably knew before
+
+470
+00:19:11,640 --> 00:19:15,860
+I'm just talking about the previous resistance problem that reminds everyone
+
+471
+00:19:15,860 --> 00:19:17,940
+Every time this resistor hits
+
+472
+00:19:17,940 --> 00:19:20,240
+In fact, it will make this atom move
+
+473
+00:19:20,240 --> 00:19:21,700
+so energy is lost
+
+474
+00:19:21,700 --> 00:19:24,940
+This is why there is energy when there is resistance
+
+475
+00:19:24,940 --> 00:19:28,440
+That's what we have in this resistor problem
+
+476
+00:19:28,440 --> 00:19:31,280
+Why is there heat when there is resistance?
+
+477
+00:19:31,280 --> 00:19:32,680
+all computers are
+
+478
+00:19:32,680 --> 00:19:36,840
+Most of the heat in all computers is due to the resistance born
+
+479
+00:19:36,840 --> 00:19:39,840
+That is, what we are moistening are all resistances.
+
+480
+00:19:39,840 --> 00:19:42,480
+So most of the heat comes out of the resistor
+
+481
+00:19:42,480 --> 00:19:45,680
+all electronic everything
+
+482
+00:19:45,680 --> 00:19:47,240
+this is one of the factors
+
+483
+00:19:47,240 --> 00:19:48,980
+Of course there is another factor
+
+484
+00:19:48,980 --> 00:19:51,280
+It's that you arrange these atoms neatly
+
+485
+00:19:51,280 --> 00:19:55,740
+They were also disturbed to break up and sat there huddled
+
+486
+00:19:55,740 --> 00:19:58,080
+It's not like everyone here is doing a good job listening
+
+487
+00:19:58,080 --> 00:20:00,080
+But after a while you probably don't want to move
+
+488
+00:20:00,000 --> 00:20:03,800
+Move your hands, move your feet, move your head
+
+489
+00:20:03,800 --> 00:20:05,600
+It also moves on this principle
+
+490
+00:20:05,600 --> 00:20:10,200
+And the reason it moves is of course related to quantum mechanics
+
+491
+00:20:10,200 --> 00:20:13,400
+A characteristic of quantum mechanics is that
+
+492
+00:20:13,400 --> 00:20:17,000
+The more motionless you are, the higher your energy will be
+
+493
+00:20:17,000 --> 00:20:19,400
+The more you have to expand your range of motion
+
+494
+00:20:19,400 --> 00:20:20,500
+In fact, the lower the energy
+
+495
+00:20:20,500 --> 00:20:25,800
+This is the Uncertainty Principle of Quantum Mechanics
+
+496
+00:20:25,800 --> 00:20:28,800
+you may have heard it before
+
+497
+00:20:28,800 --> 00:20:30,200
+this is related to this
+
+498
+00:20:30,200 --> 00:20:34,200
+So atoms even at absolute zero temperature
+
+499
+00:20:34,200 --> 00:20:37,800
+Atoms can still move, it is impossible to stay still
+
+500
+00:20:37,800 --> 00:20:39,000
+this thing is troublesome
+
+501
+00:20:39,000 --> 00:20:41,800
+When it moves, you, the electron, are running
+
+502
+00:20:41,800 --> 00:20:43,700
+will bump into
+
+503
+00:20:43,700 --> 00:20:46,700
+Because of it, you were good at first, and everyone took a pat to do it well.
+
+504
+00:20:46,700 --> 00:20:49,700
+You now hit like this atom passing by
+
+505
+00:20:49,700 --> 00:20:51,800
+atoms hit
+
+506
+00:20:51,800 --> 00:20:55,400
+Especially if you're going from one end to the other
+
+507
+00:20:55,400 --> 00:20:57,600
+The distance on the other end is
+
+508
+00:20:57,600 --> 00:21:00,000
+Usually we say that less than one is unavoidable
+
+509
+00:21:00,000 --> 00:21:02,820
+This distance is less than one nanometer
+
+510
+00:21:02,820 --> 00:21:09,000
+But you have to go from one end of the electron to the other end by walking 10 to the 7th power of Naimi
+
+511
+00:21:09,000 --> 00:21:13,000
+It is 7 orders of magnitude of rice
+
+512
+00:21:13,000 --> 00:21:16,000
+That's 10 million times
+
+513
+00:21:16,000 --> 00:21:18,000
+Then of course you have a very high chance of colliding.
+
+514
+00:21:18,000 --> 00:21:19,000
+bump bump bump bump bump
+
+515
+00:21:19,000 --> 00:21:22,000
+The current becomes very small
+
+516
+00:21:22,000 --> 00:21:23,000
+Not many pass
+
+517
+00:21:23,000 --> 00:21:24,000
+That's a lot of heat
+
+518
+00:21:24,000 --> 00:21:25,000
+So this is also a
+
+519
+00:21:25,000 --> 00:21:27,000
+I just said half of what I just said about semiconductors.
+
+520
+00:21:27,000 --> 00:21:29,000
+You see it looks like metal when it's hot
+
+521
+00:21:29,000 --> 00:21:32,000
+Acts like an insulator at low temperatures
+
+522
+00:21:32,000 --> 00:21:33,000
+this is semiconductor
+
+523
+00:21:33,000 --> 00:21:35,000
+It's just that it only works for half a day.
+
+524
+00:21:35,000 --> 00:21:37,000
+then stop
+
+525
+00:21:37,000 --> 00:21:39,000
+The metal is completely different.
+
+526
+00:21:39,000 --> 00:21:42,000
+But the colder it is, the lower its resistance
+
+527
+00:21:42,000 --> 00:21:44,000
+This has a feature
+
+528
+00:21:44,000 --> 00:21:45,000
+but when it won't go to zero
+
+529
+00:21:45,000 --> 00:21:47,000
+There is a problem with this
+
+530
+00:21:47,000 --> 00:21:51,000
+The performance of this is to say
+
+531
+00:21:51,000 --> 00:21:54,000
+It is a characteristic of metal
+
+532
+00:21:54,000 --> 00:21:56,000
+The characteristics of that semiconductor
+
+533
+00:21:56,000 --> 00:21:59,000
+If it is an insulator, it will run up from the beginning
+
+534
+00:22:00,000 --> 00:22:02,840
+It just looks like there's no resistance and it's very high
+
+535
+00:22:03,040 --> 00:22:04,340
+That's another reason
+
+536
+00:22:04,540 --> 00:22:06,740
+the atom itself
+
+537
+00:22:07,100 --> 00:22:09,240
+That is, you have grown a very good body
+
+538
+00:22:09,400 --> 00:22:11,040
+That atom is not very safe
+
+539
+00:22:12,240 --> 00:22:14,440
+Then this will also cause resistance
+
+540
+00:22:16,300 --> 00:22:17,340
+There is another one, of course
+
+541
+00:22:17,500 --> 00:22:20,440
+The problem with electrons is that they all carry a charge
+
+542
+00:22:20,800 --> 00:22:21,600
+same charge
+
+543
+00:22:21,760 --> 00:22:24,160
+We all know that like charges repel each other.
+
+544
+00:22:24,340 --> 00:22:25,200
+cool wheel force
+
+545
+00:22:26,040 --> 00:22:26,900
+Everyone remembers this
+
+546
+00:22:27,060 --> 00:22:29,140
+Then of course the cool wheel force can cause problems too.
+
+547
+00:22:29,640 --> 00:22:32,100
+Then your electron will hit you as soon as you move.
+
+548
+00:22:32,280 --> 00:22:34,300
+This cool wheel force affects the battery next door
+
+549
+00:22:34,480 --> 00:22:35,300
+next to the battery
+
+550
+00:22:35,600 --> 00:22:36,700
+all will be affected
+
+551
+00:22:37,100 --> 00:22:38,200
+if you go astray
+
+552
+00:22:38,380 --> 00:22:39,200
+you should have gone like this
+
+553
+00:22:39,340 --> 00:22:40,180
+Everyone should go like this
+
+554
+00:22:40,340 --> 00:22:41,180
+when the current flows
+
+555
+00:22:41,340 --> 00:22:42,240
+we all want to go together
+
+556
+00:22:42,400 --> 00:22:44,000
+you come across this EY
+
+557
+00:22:44,180 --> 00:22:45,140
+you will hit other
+
+558
+00:22:45,300 --> 00:22:46,040
+hit hit hit hit
+
+559
+00:22:46,780 --> 00:22:48,340
+hit a lot of electrons
+
+560
+00:22:48,700 --> 00:22:50,340
+Then the whole scattering is very troublesome
+
+561
+00:22:50,500 --> 00:22:52,800
+becomes a very fast loss of energy
+
+562
+00:22:53,140 --> 00:22:54,300
+Then the current becomes smaller
+
+563
+00:22:55,400 --> 00:22:56,940
+It hit a lot of water pipes
+
+564
+00:22:57,100 --> 00:22:59,100
+something other than water flowing past
+
+565
+00:22:59,140 --> 00:23:00,140
+will hit
+
+566
+00:23:00,000 --> 00:23:02,560
+your miscosy gets bigger
+
+567
+00:23:02,560 --> 00:23:06,560
+the same principle
+
+568
+00:23:06,560 --> 00:23:11,760
+So the main thing I'm talking about here is these factors.
+
+569
+00:23:11,760 --> 00:23:15,360
+This problem is what I just said about resistors.
+
+570
+00:23:15,360 --> 00:23:16,640
+just said it was mentioned
+
+571
+00:23:16,640 --> 00:23:19,840
+Is this resistor really 0?
+
+572
+00:23:19,840 --> 00:23:21,760
+10 negative quad ohms
+
+573
+00:23:21,760 --> 00:23:24,560
+You say you look small when measured
+
+574
+00:23:24,560 --> 00:23:27,680
+If you change what I just said today
+
+575
+00:23:27,840 --> 00:23:30,800
+Change your same material to increase the section area
+
+576
+00:23:30,800 --> 00:23:32,160
+Isn't the resistance half
+
+577
+00:23:32,160 --> 00:23:34,000
+then you're smaller again
+
+578
+00:23:34,000 --> 00:23:37,520
+Then if you make this material longer
+
+579
+00:23:37,520 --> 00:23:38,880
+double the resistance
+
+580
+00:23:38,880 --> 00:23:39,360
+right
+
+581
+00:23:39,360 --> 00:23:41,680
+That means you are 0 or not 0
+
+582
+00:23:41,680 --> 00:23:44,400
+If it is 0, how can I width and length
+
+583
+00:23:44,400 --> 00:23:45,600
+it should all be 0
+
+584
+00:23:45,600 --> 00:23:46,880
+So are you really 0?
+
+585
+00:23:46,880 --> 00:23:48,000
+Or your equipment is not very good
+
+586
+00:23:48,000 --> 00:23:50,640
+Of course in 1911 I don't think the instruments are very good
+
+587
+00:23:50,640 --> 00:23:51,440
+we all know
+
+588
+00:23:51,440 --> 00:23:53,280
+This is far from now
+
+589
+00:23:53,280 --> 00:23:55,200
+Is the small 0 of water really 0?
+
+590
+00:23:55,280 --> 00:23:59,440
+So why not 0.00001?
+
+591
+00:23:59,440 --> 00:24:00,320
+plus a 0
+
+592
+00:24:00,000 --> 00:24:01,000
+10-6 is 0
+
+593
+00:24:02,000 --> 00:24:03,000
+that's not 0
+
+594
+00:24:03,000 --> 00:24:05,000
+So this topic is kind of interesting
+
+595
+00:24:05,000 --> 00:24:06,000
+is what is called 0
+
+596
+00:24:06,000 --> 00:24:10,000
+Certainly a very special concept
+
+597
+00:24:10,000 --> 00:24:13,000
+i remember where i read
+
+598
+00:24:13,000 --> 00:24:16,000
+0 Chinese people did not have 0 at the beginning
+
+599
+00:24:16,000 --> 00:24:18,000
+It seems that there is no 0 in Chinese numbers.
+
+600
+00:24:18,000 --> 00:24:20,000
+When it hits 0, it jumps over
+
+601
+00:24:20,000 --> 00:24:22,000
+We have negative certificates but no 0
+
+602
+00:24:22,000 --> 00:24:26,000
+But it seems that a mathematician in India invented
+
+603
+00:24:26,000 --> 00:24:29,000
+it's a bold move
+
+604
+00:24:29,000 --> 00:24:32,000
+This proxy is really 0
+
+605
+00:24:32,000 --> 00:24:34,000
+the question of course
+
+606
+00:24:34,000 --> 00:24:35,000
+someone will bring it up soon
+
+607
+00:24:35,000 --> 00:24:37,000
+you see this you say 0
+
+608
+00:24:37,000 --> 00:24:38,000
+So he didn't dare to say 0 o'clock
+
+609
+00:24:38,000 --> 00:24:39,000
+His name is supercanda
+
+610
+00:24:39,000 --> 00:24:41,000
+he got a good name
+
+611
+00:24:41,000 --> 00:24:42,000
+called super
+
+612
+00:24:43,000 --> 00:24:45,000
+Not small things call it super
+
+613
+00:24:45,000 --> 00:24:47,000
+Probably a very good idea
+
+614
+00:24:47,000 --> 00:24:49,000
+this is a good thing
+
+615
+00:24:49,000 --> 00:24:51,000
+so he called super
+
+616
+00:24:52,000 --> 00:24:55,000
+This is English, this word is very useful
+
+617
+00:24:55,000 --> 00:24:59,000
+Of course, there will be a challenge immediately
+
+618
+00:25:00,000 --> 00:25:02,800
+Better Instruments More Accurate Measurements
+
+619
+00:25:02,800 --> 00:25:04,600
+can i get this
+
+620
+00:25:04,600 --> 00:25:06,200
+How to do it?
+
+621
+00:25:06,200 --> 00:25:06,800
+then they say
+
+622
+00:25:06,800 --> 00:25:08,400
+if we just said
+
+623
+00:25:08,400 --> 00:25:10,500
+voltage equals current times resistance
+
+624
+00:25:10,500 --> 00:25:12,200
+right? everyone has learned this
+
+625
+00:25:12,200 --> 00:25:14,200
+If you say this thing is equal to 0
+
+626
+00:25:14,200 --> 00:25:15,800
+If there is a thing
+
+627
+00:25:15,800 --> 00:25:17,000
+The right side here is equal to 0
+
+628
+00:25:17,000 --> 00:25:18,400
+Of course, the left side must be equal to 0
+
+629
+00:25:18,400 --> 00:25:20,200
+That means I didn't add the battery
+
+630
+00:25:20,200 --> 00:25:21,200
+I can also have current
+
+631
+00:25:21,200 --> 00:25:21,800
+How is that?
+
+632
+00:25:21,800 --> 00:25:24,200
+Let's say you start by adding a little bit of voltage
+
+633
+00:25:24,200 --> 00:25:26,200
+Let the current start to run and then exceed
+
+634
+00:25:26,200 --> 00:25:28,200
+Then you take the battery away
+
+635
+00:25:30,000 --> 00:25:30,800
+most of the material
+
+636
+00:25:30,800 --> 00:25:32,400
+If you do this the battery will die immediately
+
+637
+00:25:32,400 --> 00:25:33,000
+you can measure
+
+638
+00:25:33,000 --> 00:25:35,600
+Everyone knows that there will be no current
+
+639
+00:25:35,600 --> 00:25:37,400
+If you take the usual conductor
+
+640
+00:25:37,400 --> 00:25:38,600
+you do this
+
+641
+00:25:38,600 --> 00:25:39,600
+the current will be back soon
+
+642
+00:25:39,600 --> 00:25:41,200
+Then they did this experiment
+
+643
+00:25:41,200 --> 00:25:42,400
+take it away
+
+644
+00:25:42,400 --> 00:25:44,000
+just let the current run
+
+645
+00:25:44,000 --> 00:25:46,400
+As soon as it runs it takes the battery away
+
+646
+00:25:46,400 --> 00:25:47,400
+then watch
+
+647
+00:25:47,400 --> 00:25:49,800
+When will this current disappear
+
+648
+00:25:49,800 --> 00:25:51,600
+This is a good TES
+
+649
+00:25:51,600 --> 00:25:52,400
+If you have resistance
+
+650
+00:25:52,400 --> 00:25:53,600
+it's gone
+
+651
+00:25:53,600 --> 00:25:55,600
+Then they went for more than a year
+
+652
+00:25:55,600 --> 00:25:57,400
+This is really an experiment
+
+653
+00:25:57,400 --> 00:25:58,600
+more than a year
+
+654
+00:25:58,600 --> 00:26:00,600
+This current is almost
+
+655
+00:26:00,000 --> 00:26:02,000
+Of course they can't wait any longer
+
+656
+00:26:02,000 --> 00:26:04,000
+It is also difficult to write paper
+
+657
+00:26:04,000 --> 00:26:06,000
+Even a little bit is fine
+
+658
+00:26:06,000 --> 00:26:08,000
+almost you are small
+
+659
+00:26:08,000 --> 00:26:10,000
+It means there is little resistance
+
+660
+00:26:10,000 --> 00:26:13,000
+The current estimate is 10-2
+
+661
+00:26:13,000 --> 00:26:15,000
+Is its square ohm meter
+
+662
+00:26:15,000 --> 00:26:17,000
+is resistivity
+
+663
+00:26:17,000 --> 00:26:19,000
+Of course this is the best instrument
+
+664
+00:26:19,000 --> 00:26:21,000
+may be this orum
+
+665
+00:26:21,000 --> 00:26:25,000
+In fact the result
+
+666
+00:26:25,000 --> 00:26:26,000
+then very important
+
+667
+00:26:26,000 --> 00:26:29,000
+it is not 0.0001
+
+668
+00:26:29,000 --> 00:26:32,000
+It is likely to be exactly 0
+
+669
+00:26:32,000 --> 00:26:34,000
+this is interesting
+
+670
+00:26:34,000 --> 00:26:36,000
+because most things
+
+671
+00:26:36,000 --> 00:26:38,000
+We learn things like
+
+672
+00:26:38,000 --> 00:26:40,000
+you have many decimal points
+
+673
+00:26:40,000 --> 00:26:41,000
+you can take 10-6
+
+674
+00:26:41,000 --> 00:26:43,000
+What - 100 times
+
+675
+00:26:43,000 --> 00:26:45,000
+Just -100 is not 0
+
+676
+00:26:45,000 --> 00:26:48,000
+How do you say it is exactly 0
+
+677
+00:26:48,000 --> 00:26:50,000
+this is an interesting question
+
+678
+00:26:50,000 --> 00:26:53,000
+we have words for each of you
+
+679
+00:26:53,000 --> 00:26:54,000
+It's easy to say 0
+
+680
+00:26:54,000 --> 00:26:57,000
+If we are 1 2 3
+
+681
+00:26:57,000 --> 00:26:59,000
+we say one person two people
+
+682
+00:27:00,000 --> 00:27:03,400
+You can say that the 0 people are no one in the room
+
+683
+00:27:03,400 --> 00:27:04,900
+Of course then I thought there was a problem
+
+684
+00:27:04,900 --> 00:27:08,200
+Someone comes in with one foot, do you want to count it as 0.3 people
+
+685
+00:27:08,200 --> 00:27:09,600
+it's a bit of a hassle
+
+686
+00:27:09,600 --> 00:27:13,200
+But if you use him to count, you will say 1, 2, 3
+
+687
+00:27:13,200 --> 00:27:15,400
+-1-2, 0 is very simple
+
+688
+00:27:15,400 --> 00:27:19,700
+But what if you want to count by 10, 0.001, 0.001, 0.001?
+
+689
+00:27:19,700 --> 00:27:24,600
+This reminds me of the Sanju Qing'an in Taiwan a while ago
+
+690
+00:27:24,600 --> 00:27:28,800
+If you want to subtract 0, it will be troublesome. What is 0 minus?
+
+691
+00:27:29,000 --> 00:27:33,800
+This obviously depends a lot on what instrument you're using.
+
+692
+00:27:33,800 --> 00:27:35,600
+It's just that the equipment I just mentioned is a bit rotten.
+
+693
+00:27:35,600 --> 00:27:38,400
+You subtract everything from 0, because you can't measure anything
+
+694
+00:27:38,400 --> 00:27:41,200
+But if you use a good instrument, nothing is 0 minus
+
+695
+00:27:41,200 --> 00:27:43,000
+because there is something to see
+
+696
+00:27:43,000 --> 00:27:45,100
+So this thing is here, and this is the same
+
+697
+00:27:45,100 --> 00:27:50,100
+This question is of course a long time quarrel, isn't it exactly 0?
+
+698
+00:27:50,100 --> 00:27:52,900
+But what I'm talking about here is that this is the real 0
+
+699
+00:27:52,900 --> 00:27:58,100
+exactly 0, mathematically you can say it is precisely
+
+700
+00:27:58,100 --> 00:28:00,000
+not that almost
+
+701
+00:28:00,000 --> 00:28:02,200
+or not there is or there is not
+
+702
+00:28:02,200 --> 00:28:04,700
+It only has one or no resistance or no resistance
+
+703
+00:28:06,200 --> 00:28:09,200
+The one without resistance is exactly no resistance
+
+704
+00:28:09,800 --> 00:28:13,000
+So this state is immediately small from this perspective.
+
+705
+00:28:13,000 --> 00:28:16,300
+Because in physics we study classical physics
+
+706
+00:28:16,300 --> 00:28:21,600
+What variables and phenomena are continuous
+
+707
+00:28:22,200 --> 00:28:25,200
+0.001 is fine, you look at 0.001
+
+708
+00:28:26,200 --> 00:28:29,200
+Keep going, you measure more and more
+
+709
+00:28:29,200 --> 00:28:32,600
+decimal point but never exactly
+
+710
+00:28:32,600 --> 00:28:35,000
+but in quantum mechanics
+
+711
+00:28:35,000 --> 00:28:39,000
+everything is discrete
+
+712
+00:28:39,800 --> 00:28:42,000
+So when you see this you know
+
+713
+00:28:42,000 --> 00:28:46,400
+This state is beyond our classical understanding
+
+714
+00:28:47,600 --> 00:28:53,400
+state, the electron enters a new state
+
+715
+00:28:53,400 --> 00:28:56,400
+The electron suddenly changed
+
+716
+00:28:56,400 --> 00:29:00,000
+It becomes a product of a quantum
+
+717
+00:29:00,000 --> 00:29:02,000
+it must be bright small
+
+718
+00:29:02,000 --> 00:29:05,000
+Otherwise it wouldn't be exacting
+
+719
+00:29:05,000 --> 00:29:06,000
+only bright
+
+720
+00:29:06,000 --> 00:29:09,000
+we are 1 2 3 0
+
+721
+00:29:09,000 --> 00:29:11,000
+Now of course there are other examples
+
+722
+00:29:11,000 --> 00:29:15,000
+some other its conductance
+
+723
+00:29:15,000 --> 00:29:20,000
+are called bright numbers
+
+724
+00:29:20,000 --> 00:29:22,000
+This is all because of the small size of the light
+
+725
+00:29:22,000 --> 00:29:25,000
+It is not an ordinary material
+
+726
+00:29:25,000 --> 00:29:26,000
+you can see it
+
+727
+00:29:26,000 --> 00:29:27,000
+this is the first point
+
+728
+00:29:27,000 --> 00:29:28,000
+it is bright small
+
+729
+00:29:28,000 --> 00:29:31,000
+At first this guide
+
+730
+00:29:31,000 --> 00:29:32,000
+did not understand this
+
+731
+00:29:32,000 --> 00:29:34,000
+so didn't give that onus
+
+732
+00:29:34,000 --> 00:29:35,000
+Because of discovery manipulation
+
+733
+00:29:35,000 --> 00:29:39,000
+This discovery is of course an extraordinary thing
+
+734
+00:29:39,000 --> 00:29:40,000
+for finding a new quantum
+
+735
+00:29:40,000 --> 00:29:42,000
+of course at that time
+
+736
+00:29:42,000 --> 00:29:44,000
+We've only just begun with the mechanics of the light
+
+737
+00:29:44,000 --> 00:29:45,000
+don't understand at all
+
+738
+00:29:45,000 --> 00:29:47,000
+I don't even dare to say now
+
+739
+00:29:47,000 --> 00:29:49,000
+Our understanding of the mechanics of light
+
+740
+00:29:49,000 --> 00:29:50,000
+just we know how to use it
+
+741
+00:29:50,000 --> 00:29:51,000
+wait a minute we'll talk
+
+742
+00:29:51,000 --> 00:29:54,000
+But it can have a definite
+
+743
+00:29:54,000 --> 00:29:56,000
+We know that it must be discrete
+
+744
+00:29:56,000 --> 00:29:57,000
+discontinuity
+
+745
+00:29:57,000 --> 00:29:59,000
+This is a characteristic of the leon phenomenon
+
+746
+00:30:00,000 --> 00:30:02,000
+give it many other features
+
+747
+00:30:02,000 --> 00:30:05,000
+Like the uncertainty principle just mentioned, etc.
+
+748
+00:30:05,000 --> 00:30:08,000
+well-known phenomenon
+
+749
+00:30:08,000 --> 00:30:09,000
+that this is a feature
+
+750
+00:30:09,000 --> 00:30:11,000
+is discrete
+
+751
+00:30:11,000 --> 00:30:13,000
+it is not a continuum
+
+752
+00:30:13,000 --> 00:30:16,000
+Then everyone knows this very clearly, right?
+
+753
+00:30:16,000 --> 00:30:18,000
+If you look at the periodic table
+
+754
+00:30:18,000 --> 00:30:20,000
+Did you learn the periodic table
+
+755
+00:30:20,000 --> 00:30:22,000
+It is very hard to memorize this periodic table
+
+756
+00:30:22,000 --> 00:30:24,000
+i can never get it back
+
+757
+00:30:24,000 --> 00:30:26,000
+But if the periodic table is here
+
+758
+00:30:26,000 --> 00:30:28,000
+You look carefully at every periodic table
+
+759
+00:30:28,000 --> 00:30:30,000
+How does it define its atomic number
+
+760
+00:30:30,000 --> 00:30:37,000
+It is like this is this Sodium
+
+761
+00:30:37,000 --> 00:30:41,000
+Then its electron is an orbital
+
+762
+00:30:41,000 --> 00:30:43,000
+It's called ES2,2S2P6
+
+763
+00:30:43,000 --> 00:30:45,000
+Then you see it is represented by numbers
+
+764
+00:30:45,000 --> 00:30:46,000
+very discreet
+
+765
+00:30:46,000 --> 00:30:47,000
+Discrete
+
+766
+00:30:47,000 --> 00:30:49,000
+it is not a continuous
+
+767
+00:30:49,000 --> 00:30:52,000
+Nothing 0.99sqa
+
+768
+00:30:52,000 --> 00:30:56,000
+it has a special track for everything
+
+769
+00:30:56,000 --> 00:30:58,000
+its orbit is discrete
+
+770
+00:31:00,000 --> 00:31:03,000
+Then all these things are according to this card
+
+771
+00:31:03,000 --> 00:31:05,000
+Of course, the real inside is a little richer than this.
+
+772
+00:31:05,000 --> 00:31:07,000
+But it is a discrete
+
+773
+00:31:07,000 --> 00:31:09,000
+It's very simple, it's an electron
+
+774
+00:31:09,000 --> 00:31:11,000
+the one we just talked about
+
+775
+00:31:11,000 --> 00:31:16,000
+The electrons in the conductor are 10 in the 23-foot room
+
+776
+00:31:16,000 --> 00:31:22,000
+There are 10 to 23 electrons in a conductor of one centimeter or three centimeters
+
+777
+00:31:22,000 --> 00:31:25,000
+But it is also discrete
+
+778
+00:31:25,000 --> 00:31:28,000
+That is of course a very miraculous thing
+
+779
+00:31:29,000 --> 00:31:36,000
+This is just an example, the quantum mechanics that everyone is familiar with must be discrete
+
+780
+00:31:38,000 --> 00:31:41,000
+This theory was solved in 1957
+
+781
+00:31:41,000 --> 00:31:44,000
+They held it in 1973 and don't talk about it
+
+782
+00:31:44,000 --> 00:31:48,000
+It is very surprising that this theory was proposed in 1957
+
+783
+00:31:48,000 --> 00:31:50,000
+because they solved the problem
+
+784
+00:31:50,000 --> 00:31:54,000
+Of course, many people do not get this question completely right.
+
+785
+00:31:54,000 --> 00:31:56,000
+they are totally right
+
+786
+00:31:56,000 --> 00:31:58,000
+They not only explain the mechanism of superconductivity
+
+787
+00:31:58,000 --> 00:32:00,000
+Also explains the quantum state of superconductivity
+
+788
+00:32:00,000 --> 00:32:05,000
+The whole topic starts from using quantum physics to solve this problem
+
+789
+00:32:05,000 --> 00:32:07,000
+that can fully explain
+
+790
+00:32:07,000 --> 00:32:08,000
+Of course it's amazing
+
+791
+00:32:08,000 --> 00:32:10,000
+amazing job
+
+792
+00:32:10,000 --> 00:32:12,000
+able to explain the problem
+
+793
+00:32:12,000 --> 00:32:15,000
+Of course there are a lot of new ideas coming from here
+
+794
+00:32:15,000 --> 00:32:17,000
+They don't even know they've done it themselves.
+
+795
+00:32:17,000 --> 00:32:20,000
+Some are amazing new ideas
+
+796
+00:32:20,000 --> 00:32:22,000
+This was of course understood later
+
+797
+00:32:22,000 --> 00:32:25,000
+Let me explain their main theories a little bit today
+
+798
+00:32:25,000 --> 00:32:28,000
+Why does this mechanism exceed
+
+799
+00:32:29,000 --> 00:32:32,000
+Electronics, we know that besides electric nuclear, there are optional
+
+800
+00:32:32,000 --> 00:32:36,000
+Everyone says that electrons revolve around themselves
+
+801
+00:32:36,000 --> 00:32:40,000
+In fact, of course, with a unique concept
+
+802
+00:32:40,000 --> 00:32:42,000
+Actually it has one thing
+
+803
+00:32:42,000 --> 00:32:43,000
+like optional
+
+804
+00:32:43,000 --> 00:32:45,000
+it can have up or down
+
+805
+00:32:45,000 --> 00:32:46,000
+By or by or whatever you say
+
+806
+00:32:46,000 --> 00:32:48,000
+Anyway, there are two states
+
+807
+00:32:48,000 --> 00:32:50,000
+it sometimes goes up and sometimes it goes down
+
+808
+00:32:50,000 --> 00:32:52,000
+This thing is powerful
+
+809
+00:32:52,000 --> 00:32:54,000
+So it can work in strength
+
+810
+00:32:54,000 --> 00:32:57,000
+Therefore, in addition to the energy expansion effect between electrons and electrons
+
+811
+00:32:57,000 --> 00:32:59,000
+In addition to this, it also has the effect of strength
+
+812
+00:33:00,000 --> 00:33:03,800
+There are also continuous words with atoms and ions
+
+813
+00:33:03,800 --> 00:33:05,000
+it will all work
+
+814
+00:33:05,000 --> 00:33:07,600
+Well here are some new
+
+815
+00:33:07,600 --> 00:33:09,700
+The characteristic of this theory is that
+
+816
+00:33:09,700 --> 00:33:12,200
+They have a guy named Cooper
+
+817
+00:33:12,200 --> 00:33:14,800
+Then CooperPay is pairing
+
+818
+00:33:14,800 --> 00:33:17,500
+Electronic pairing is called CooperPay
+
+819
+00:33:17,500 --> 00:33:20,900
+is its most important job
+
+820
+00:33:20,900 --> 00:33:23,600
+It states that electrons can form a pair
+
+821
+00:33:23,600 --> 00:33:25,500
+Especially these two electrons
+
+822
+00:33:25,500 --> 00:33:29,100
+Different choices can form a pair
+
+823
+00:33:29,100 --> 00:33:31,600
+This is a simple Picture that says
+
+824
+00:33:31,600 --> 00:33:32,700
+they will form a pair
+
+825
+00:33:32,700 --> 00:33:33,700
+then of course you are weird
+
+826
+00:33:33,700 --> 00:33:36,600
+There is Kuren force in it
+
+827
+00:33:36,600 --> 00:33:39,400
+how does it come to form a pair
+
+828
+00:33:39,400 --> 00:33:40,900
+what makes it pair
+
+829
+00:33:40,900 --> 00:33:43,400
+because it clearly should exclude
+
+830
+00:33:43,400 --> 00:33:46,100
+then how does it pair
+
+831
+00:33:46,100 --> 00:33:48,900
+what about this pairing
+
+832
+00:33:48,900 --> 00:33:52,500
+that question of course
+
+833
+00:33:52,500 --> 00:33:54,400
+They came up with a mechanism
+
+834
+00:33:54,400 --> 00:33:55,700
+of course proven
+
+835
+00:33:55,700 --> 00:33:57,400
+Otherwise, I wouldn't be speaking outside
+
+836
+00:33:57,400 --> 00:33:59,800
+Experiments Many experiments have shown
+
+837
+00:34:00,000 --> 00:34:03,020
+The mechanism is actually quite simple
+
+838
+00:34:03,020 --> 00:34:03,980
+From that point of view
+
+839
+00:34:03,980 --> 00:34:05,120
+because we know
+
+840
+00:34:05,120 --> 00:34:06,720
+In addition to the electrons in the meridian
+
+841
+00:34:06,720 --> 00:34:07,980
+You still have ions, right?
+
+842
+00:34:08,620 --> 00:34:09,440
+shock drive
+
+843
+00:34:09,680 --> 00:34:11,020
+because its electrons run away
+
+844
+00:34:11,020 --> 00:34:12,380
+run around
+
+845
+00:34:12,380 --> 00:34:14,020
+have one or two electrons
+
+846
+00:34:14,020 --> 00:34:16,460
+don't follow this atom box
+
+847
+00:34:16,460 --> 00:34:19,160
+it ran out by itself and wandered around
+
+848
+00:34:19,660 --> 00:34:22,620
+Its atomic box is of course the shock driver
+
+849
+00:34:22,620 --> 00:34:24,060
+electron is attached
+
+850
+00:34:24,060 --> 00:34:25,540
+you atomic box
+
+851
+00:34:25,540 --> 00:34:26,300
+will again
+
+852
+00:34:27,100 --> 00:34:28,740
+This ion will vibrate
+
+853
+00:34:29,240 --> 00:34:30,180
+this is what we just said
+
+854
+00:34:30,180 --> 00:34:31,480
+oscillate to oscillate
+
+855
+00:34:31,480 --> 00:34:33,340
+So if you say you have a
+
+856
+00:34:34,380 --> 00:34:35,780
+Electrons go here first
+
+857
+00:34:35,780 --> 00:34:37,340
+Atom boxes next to these two
+
+858
+00:34:37,340 --> 00:34:38,280
+Because it's shocking
+
+859
+00:34:38,280 --> 00:34:39,040
+see additional
+
+860
+00:34:39,040 --> 00:34:40,580
+Of course they squeeze in
+
+861
+00:34:40,580 --> 00:34:41,380
+like
+
+862
+00:34:41,380 --> 00:34:44,080
+if we have this here
+
+863
+00:34:44,080 --> 00:34:45,020
+different gender
+
+864
+00:34:45,020 --> 00:34:46,640
+It's all about a woman
+
+865
+00:34:46,640 --> 00:34:47,120
+sit here
+
+866
+00:34:47,120 --> 00:34:48,880
+come closer
+
+867
+00:34:48,880 --> 00:34:51,580
+the role of this
+
+868
+00:34:51,580 --> 00:34:54,280
+created a little attraction
+
+869
+00:34:54,280 --> 00:34:55,180
+this attraction
+
+870
+00:34:55,180 --> 00:34:57,840
+Then when the two atomic boxes are close together
+
+871
+00:34:57,880 --> 00:34:59,040
+just a little bit more shocking
+
+872
+00:34:59,040 --> 00:34:59,920
+because it appends
+
+873
+00:35:00,000 --> 00:35:01,360
+If those two are aligned
+
+874
+00:35:01,360 --> 00:35:03,840
+These two add up to one more regular price
+
+875
+00:35:03,840 --> 00:35:06,160
+The other electron also wants to join in the fun
+
+876
+00:35:07,400 --> 00:35:10,240
+between such mutual influences
+
+877
+00:35:10,240 --> 00:35:11,560
+on this principle
+
+878
+00:35:11,560 --> 00:35:15,240
+From another point of view, it is equal to these atomic boxes
+
+879
+00:35:15,240 --> 00:35:16,360
+dug a hole
+
+880
+00:35:16,360 --> 00:35:18,440
+Those two electrons jumped in
+
+881
+00:35:19,760 --> 00:35:22,840
+It's because of this atomic hole
+
+882
+00:35:22,840 --> 00:35:24,360
+So you electronic background
+
+883
+00:35:24,360 --> 00:35:25,400
+it ran in one by two
+
+884
+00:35:25,400 --> 00:35:26,760
+Just take this potential
+
+885
+00:35:26,760 --> 00:35:29,640
+This negative failed to increase
+
+886
+00:35:29,680 --> 00:35:32,360
+Negative fails to add another electron
+
+887
+00:35:32,360 --> 00:35:33,240
+just saw again
+
+888
+00:35:33,240 --> 00:35:34,000
+have jumped in
+
+889
+00:35:34,000 --> 00:35:37,880
+So these two are starting to become each other
+
+890
+00:35:37,880 --> 00:35:38,480
+attracting
+
+891
+00:35:38,480 --> 00:35:41,640
+This is of course a very simple diagram.
+
+892
+00:35:41,640 --> 00:35:45,040
+This situation means that the child
+
+893
+00:35:45,040 --> 00:35:46,160
+We call this child
+
+894
+00:35:46,160 --> 00:35:47,440
+ion vibration
+
+895
+00:35:47,440 --> 00:35:48,440
+we call birth
+
+896
+00:35:48,440 --> 00:35:49,680
+on sound transmission
+
+897
+00:35:49,680 --> 00:35:50,840
+your metal
+
+898
+00:35:50,840 --> 00:35:52,480
+If you hit it, there will be a sound transmission
+
+899
+00:35:52,480 --> 00:35:54,640
+That sound is transmitted by this vibration
+
+900
+00:35:54,640 --> 00:35:56,560
+The vibration of this atom
+
+901
+00:35:56,560 --> 00:35:58,400
+Then this vibration is giving birth
+
+902
+00:35:58,400 --> 00:36:00,120
+Then this child is acting
+
+903
+00:36:00,000 --> 00:36:04,480
+Eliminate a Glu combination
+
+904
+00:36:04,480 --> 00:36:05,840
+just out of medicine
+
+905
+00:36:05,840 --> 00:36:06,800
+it comes here
+
+906
+00:36:06,800 --> 00:36:08,600
+grab these two
+
+907
+00:36:08,600 --> 00:36:11,800
+the two of them can be exchanged
+
+908
+00:36:11,800 --> 00:36:14,000
+information can work
+
+909
+00:36:14,000 --> 00:36:16,000
+If this is strong enough to dig the composition
+
+910
+00:36:16,000 --> 00:36:19,000
+It's better if their repulsion isn't that strong.
+
+911
+00:36:19,000 --> 00:36:20,800
+Of course, this fitting picture is drawn very small
+
+912
+00:36:20,800 --> 00:36:21,800
+real time
+
+913
+00:36:21,800 --> 00:36:26,600
+The distance between these two pads can be quite far
+
+914
+00:36:26,600 --> 00:36:29,400
+If we each count as a round
+
+915
+00:36:29,800 --> 00:36:30,600
+If it fits
+
+916
+00:36:30,600 --> 00:36:31,600
+if you sit here
+
+917
+00:36:31,600 --> 00:36:35,600
+These two cushions can be partitioned behind the wall
+
+918
+00:36:35,600 --> 00:36:36,400
+this pair of electrons
+
+919
+00:36:36,400 --> 00:36:39,400
+So the mat pairs in question are not necessarily the closest neighbors
+
+920
+00:36:39,400 --> 00:36:43,200
+it can pad for a long distance
+
+921
+00:36:43,200 --> 00:36:46,600
+This can also cause this reaction
+
+922
+00:36:46,600 --> 00:36:48,600
+Dara has a few special ones in it
+
+923
+00:36:48,600 --> 00:36:54,400
+What it says is that the vibration of the rope is very important
+
+924
+00:36:54,400 --> 00:36:55,400
+it will produce
+
+925
+00:36:55,400 --> 00:36:57,400
+if it doesn't work with the rope
+
+926
+00:36:57,400 --> 00:36:59,400
+I said if these things can't move
+
+927
+00:37:00,000 --> 00:37:01,460
+fix it there then it's gone
+
+928
+00:37:02,620 --> 00:37:03,460
+that doesn't need a guide
+
+929
+00:37:03,500 --> 00:37:05,640
+Because we can have perfect love
+
+930
+00:37:05,660 --> 00:37:08,700
+The ideal classic also has no resistance
+
+931
+00:37:09,740 --> 00:37:10,960
+But that one has no resistance
+
+932
+00:37:11,000 --> 00:37:12,960
+It's a completely different mechanism than this
+
+933
+00:37:13,500 --> 00:37:14,660
+this is there
+
+934
+00:37:14,860 --> 00:37:16,700
+But it creates another situation
+
+935
+00:37:16,740 --> 00:37:17,660
+no resistance
+
+936
+00:37:17,960 --> 00:37:19,900
+It goes from having a resistor to one without a resistor
+
+937
+00:37:19,940 --> 00:37:22,040
+The most important thing is that it will form a CouplePet
+
+938
+00:37:22,300 --> 00:37:23,300
+That's what CouplePet has
+
+939
+00:37:23,340 --> 00:37:25,540
+So why is there no resistance?
+
+940
+00:37:26,540 --> 00:37:30,000
+This is what I found for a painting
+
+941
+00:37:30,040 --> 00:37:32,900
+the russian painter
+
+942
+00:37:32,940 --> 00:37:35,700
+Drawings by Pervoninsky
+
+943
+00:37:35,740 --> 00:37:38,540
+I think this is my favorite way to express
+
+944
+00:37:38,580 --> 00:37:41,700
+The end electrons in the CouplePet pair
+
+945
+00:37:41,740 --> 00:37:42,900
+what to do in there
+
+946
+00:37:43,540 --> 00:37:45,540
+Like so many people dancing Wars
+
+947
+00:37:45,580 --> 00:37:46,540
+waltz
+
+948
+00:37:46,580 --> 00:37:47,400
+in that hall
+
+949
+00:37:47,440 --> 00:37:48,700
+you see so many people jumping
+
+950
+00:37:48,740 --> 00:37:50,840
+A man and a woman are making noise
+
+951
+00:37:50,880 --> 00:37:54,700
+Then you can exchange pottener with each other
+
+952
+00:37:54,860 --> 00:37:57,060
+Exchange your Pay
+
+953
+00:37:57,100 --> 00:37:58,360
+can be exchanged
+
+954
+00:37:58,400 --> 00:37:59,400
+How does he turn?
+
+955
+00:37:59,440 --> 00:38:00,000
+here again
+
+956
+00:38:00,000 --> 00:38:02,560
+There are flowers, chairs, tables, and pillars
+
+957
+00:38:02,560 --> 00:38:03,600
+no problem
+
+958
+00:38:03,600 --> 00:38:04,720
+it keeps turning around
+
+959
+00:38:04,720 --> 00:38:05,720
+The whole weave jumps
+
+960
+00:38:05,720 --> 00:38:06,720
+so you can imagine
+
+961
+00:38:06,720 --> 00:38:08,520
+Suppose there is such a beautiful
+
+962
+00:38:08,520 --> 00:38:10,240
+so many teams jumping over there
+
+963
+00:38:10,240 --> 00:38:11,680
+how to dance
+
+964
+00:38:11,680 --> 00:38:13,040
+dancing to the music
+
+965
+00:38:13,040 --> 00:38:14,000
+don't imagine each other
+
+966
+00:38:14,000 --> 00:38:15,920
+won't run into any obstacles
+
+967
+00:38:15,920 --> 00:38:19,760
+What kind of pillars are the tables and chairs?
+
+968
+00:38:19,760 --> 00:38:20,960
+just can go around
+
+969
+00:38:20,960 --> 00:38:22,080
+no matter what
+
+970
+00:38:22,080 --> 00:38:23,320
+and then exchange each other
+
+971
+00:38:23,320 --> 00:38:24,560
+of these two
+
+972
+00:38:24,560 --> 00:38:25,720
+can't express it all
+
+973
+00:38:25,720 --> 00:38:27,200
+Because the two of them are still close
+
+974
+00:38:27,200 --> 00:38:28,040
+but you can imagine
+
+975
+00:38:28,040 --> 00:38:28,760
+some dancing
+
+976
+00:38:28,760 --> 00:38:30,480
+We could have separated when we were kids
+
+977
+00:38:30,480 --> 00:38:31,360
+two jump like this
+
+978
+00:38:31,360 --> 00:38:32,200
+then go over
+
+979
+00:38:32,200 --> 00:38:32,920
+jump like this
+
+980
+00:38:32,920 --> 00:38:34,000
+then if you imagine
+
+981
+00:38:34,000 --> 00:38:36,000
+In the current situation
+
+982
+00:38:36,000 --> 00:38:37,360
+That's what all the electrons are doing
+
+983
+00:38:37,360 --> 00:38:39,200
+The electrons are divided one by one
+
+984
+00:38:39,200 --> 00:38:40,840
+Well done
+
+985
+00:38:40,840 --> 00:38:42,800
+That is the last election
+
+986
+00:38:42,800 --> 00:38:44,520
+Next time choose one to one red electron
+
+987
+00:38:44,520 --> 00:38:45,720
+Every electron can see
+
+988
+00:38:45,720 --> 00:38:46,440
+it's one come one red
+
+989
+00:38:46,440 --> 00:38:48,080
+just jump each other once
+
+990
+00:38:48,080 --> 00:38:50,920
+This is probably the most beautiful dancing episode
+
+991
+00:38:50,920 --> 00:38:52,000
+no matter how you dance
+
+992
+00:38:52,000 --> 00:38:58,280
+They are all very synchronized
+
+993
+00:38:58,280 --> 00:39:00,080
+then this is real
+
+994
+00:39:00,000 --> 00:39:02,000
+it's a huge amount
+
+995
+00:39:02,000 --> 00:39:03,000
+Why talk about macro
+
+996
+00:39:03,000 --> 00:39:05,000
+Because it's not about an electron
+
+997
+00:39:05,000 --> 00:39:06,000
+two electrons
+
+998
+00:39:06,000 --> 00:39:07,000
+real
+
+999
+00:39:08,000 --> 00:39:10,000
+This 23rd power electron
+
+1000
+00:39:10,000 --> 00:39:12,000
+Tongtong is doing the same thing
+
+1001
+00:39:13,000 --> 00:39:14,000
+this is incredible
+
+1002
+00:39:14,000 --> 00:39:16,000
+This miracle of nature is
+
+1003
+00:39:16,000 --> 00:39:17,000
+far more than we think
+
+1004
+00:39:17,000 --> 00:39:19,000
+how do you get all the electrons
+
+1005
+00:39:19,000 --> 00:39:22,000
+They all do this synchronous operation
+
+1006
+00:39:22,000 --> 00:39:24,000
+and won't install that episode
+
+1007
+00:39:24,000 --> 00:39:25,000
+so no electrons
+
+1008
+00:39:25,000 --> 00:39:27,000
+there are these pillars
+
+1009
+00:39:27,000 --> 00:39:28,000
+What table and chairs are there in the middle?
+
+1010
+00:39:28,000 --> 00:39:31,000
+also won't pretend
+
+1011
+00:39:31,000 --> 00:39:32,000
+It's all over
+
+1012
+00:39:32,000 --> 00:39:37,000
+These can also jump farther
+
+1013
+00:39:37,000 --> 00:39:38,000
+that's what i'm talking about here
+
+1014
+00:39:38,000 --> 00:39:39,000
+one there
+
+1015
+00:39:39,000 --> 00:39:41,000
+how much are you right
+
+1016
+00:39:41,000 --> 00:39:42,000
+dance here
+
+1017
+00:39:42,000 --> 00:39:44,000
+So there are many pairs in between
+
+1018
+00:39:44,000 --> 00:39:46,000
+But I can still pair with that
+
+1019
+00:39:46,000 --> 00:39:47,000
+you paired with that
+
+1020
+00:39:47,000 --> 00:39:48,000
+jumping
+
+1021
+00:39:48,000 --> 00:39:51,000
+But this is the closest I found
+
+1022
+00:39:51,000 --> 00:39:53,000
+I can't find a better icon
+
+1023
+00:39:53,000 --> 00:39:55,000
+if you go and close your eyes
+
+1024
+00:39:55,000 --> 00:39:57,000
+think about this scenario
+
+1025
+00:39:57,000 --> 00:39:59,000
+Just thought this is so beautiful
+
+1026
+00:40:00,000 --> 00:40:03,200
+This real physics is indeed very beautiful
+
+1027
+00:40:03,200 --> 00:40:05,200
+It's so hard to imagine
+
+1028
+00:40:05,200 --> 00:40:07,000
+then they are not human
+
+1029
+00:40:07,000 --> 00:40:11,000
+How can they be so harmonious
+
+1030
+00:40:11,000 --> 00:40:13,000
+such
+
+1031
+00:40:13,000 --> 00:40:16,000
+this is what i said
+
+1032
+00:40:16,000 --> 00:40:18,000
+This coordination and harmony synchronize
+
+1033
+00:40:18,000 --> 00:40:21,000
+this word is hard to come by
+
+1034
+00:40:21,000 --> 00:40:23,000
+but they do it all
+
+1035
+00:40:23,000 --> 00:40:25,000
+So that means that every electron
+
+1036
+00:40:25,000 --> 00:40:28,000
+is actually doing the same thing for every electron
+
+1037
+00:40:28,000 --> 00:40:29,800
+Of course, we cannot tell the difference between electrons and electrons.
+
+1038
+00:40:29,800 --> 00:40:31,800
+people we can see
+
+1039
+00:40:31,800 --> 00:40:33,800
+This man has a beard and no beard
+
+1040
+00:40:33,800 --> 00:40:34,800
+that just means
+
+1041
+00:40:34,800 --> 00:40:36,800
+Of course you can't tell the difference
+
+1042
+00:40:36,800 --> 00:40:38,800
+This is the electronics rack
+
+1043
+00:40:38,800 --> 00:40:39,800
+electronic handle
+
+1044
+00:40:39,800 --> 00:40:40,800
+of course not
+
+1045
+00:40:40,800 --> 00:40:42,800
+Then all the electrons are like
+
+1046
+00:40:42,800 --> 00:40:44,800
+Then of course all electrons do the same thing
+
+1047
+00:40:44,800 --> 00:40:48,800
+This is the real view. It's too good.
+
+1048
+00:40:48,800 --> 00:40:51,800
+Then this can also be exchanged partners
+
+1049
+00:40:51,800 --> 00:40:52,800
+Of course I won't say more now
+
+1050
+00:40:52,800 --> 00:40:54,800
+It also goes in the opposite direction
+
+1051
+00:40:54,800 --> 00:40:55,800
+I just didn't say
+
+1052
+00:40:55,800 --> 00:40:56,800
+I can't fix this picture
+
+1053
+00:40:56,800 --> 00:40:57,800
+you go ahead
+
+1054
+00:40:57,800 --> 00:41:00,800
+This is your cooperation
+
+1055
+00:41:00,000 --> 00:41:02,300
+go here mate, go here
+
+1056
+00:41:02,300 --> 00:41:05,000
+if you go to the right, it goes to the left
+
+1057
+00:41:05,000 --> 00:41:07,200
+If you go backwards, it will go backwards
+
+1058
+00:41:07,200 --> 00:41:09,400
+walk in the opposite direction, all steps
+
+1059
+00:41:09,400 --> 00:41:11,000
+So it's like dancing
+
+1060
+00:41:11,000 --> 00:41:12,600
+Because this pace is to match
+
+1061
+00:41:14,600 --> 00:41:17,200
+The console of the same nature doesn't like it
+
+1062
+00:41:17,200 --> 00:41:19,600
+Of course, because of this same article, it doesn't like it
+
+1063
+00:41:19,600 --> 00:41:22,000
+You will be paired to guess good, subject to different
+
+1064
+00:41:22,000 --> 00:41:24,300
+Because as you can imagine, it dances so harmoniously
+
+1065
+00:41:24,300 --> 00:41:26,000
+If someone suddenly sees
+
+1066
+00:41:26,000 --> 00:41:29,000
+That's terrible, many people next to me will follow suit
+
+1067
+00:41:29,600 --> 00:41:31,600
+a lot is going to go wrong
+
+1068
+00:41:32,400 --> 00:41:35,000
+If someone goes to a dance buddy one hits the wall
+
+1069
+00:41:35,000 --> 00:41:36,200
+The other one will be miserable
+
+1070
+00:41:36,200 --> 00:41:38,200
+Someone next to me will hit the wall
+
+1071
+00:41:38,200 --> 00:41:41,600
+Creates a lot of matching at once , guess good
+
+1072
+00:41:41,600 --> 00:41:44,000
+This is not a good thing, it will be lost
+
+1073
+00:41:44,000 --> 00:41:47,000
+Just now I saw that one of them dug a trap
+
+1074
+00:41:47,000 --> 00:41:49,300
+Now if you want to guess Shan, there will be no more
+
+1075
+00:41:49,300 --> 00:41:50,200
+there is no way
+
+1076
+00:41:50,200 --> 00:41:53,000
+The other one is, if you say
+
+1077
+00:41:53,000 --> 00:41:56,400
+The pair of blue and red in the middle is jumping
+
+1078
+00:41:56,400 --> 00:41:58,800
+The blue ones are much more than the red ones, so how do you match them?
+
+1079
+00:42:00,000 --> 00:42:01,000
+one question
+
+1080
+00:42:01,000 --> 00:42:04,000
+Difficult to match even if the numbers are different
+
+1081
+00:42:04,000 --> 00:42:06,000
+how to become a guide
+
+1082
+00:42:06,000 --> 00:42:08,000
+So both of these will cause manipulation
+
+1083
+00:42:08,000 --> 00:42:12,000
+unstable attitude
+
+1084
+00:42:12,000 --> 00:42:16,000
+Then this is of course the CooperPair
+
+1085
+00:42:16,000 --> 00:42:17,000
+broke it apart
+
+1086
+00:42:17,000 --> 00:42:19,000
+That's because it's too much
+
+1087
+00:42:19,000 --> 00:42:21,000
+CooperPair has an up and a down
+
+1088
+00:42:21,000 --> 00:42:22,000
+There are a lot more up than down.
+
+1089
+00:42:22,000 --> 00:42:23,000
+no right
+
+1090
+00:42:23,000 --> 00:42:25,000
+dancing alone
+
+1091
+00:42:25,000 --> 00:42:27,000
+Of course it is not possible
+
+1092
+00:42:27,000 --> 00:42:29,000
+performance evenly
+
+1093
+00:42:29,000 --> 00:42:32,000
+In fact, this thing is an external magnetic field
+
+1094
+00:42:32,000 --> 00:42:33,000
+will cause the phenomenon
+
+1095
+00:42:33,000 --> 00:42:36,000
+Because the electron I just mentioned has
+
+1096
+00:42:36,000 --> 00:42:37,000
+self-taught backspin
+
+1097
+00:42:37,000 --> 00:42:38,000
+it is magnetic
+
+1098
+00:42:38,000 --> 00:42:40,000
+So the magnetic field will affect it
+
+1099
+00:42:40,000 --> 00:42:45,000
+The influence of the magnetic field will cause these things
+
+1100
+00:42:45,000 --> 00:42:47,000
+then this is what we are now
+
+1101
+00:42:47,000 --> 00:42:50,000
+Let's do some experiments for you
+
+1102
+00:42:50,000 --> 00:42:52,000
+This is the magnetic field you see
+
+1103
+00:42:52,000 --> 00:42:53,000
+Why is there a magnetic field
+
+1104
+00:42:53,000 --> 00:42:56,000
+In fact, it has a lot to do with this
+
+1105
+00:42:56,000 --> 00:42:59,000
+Because this is why it prefers Chen Taitai
+
+1106
+00:43:00,000 --> 00:43:03,640
+If a magnetic field is forced to be applied, what kind of phenomenon will it produce?
+
+1107
+00:43:03,640 --> 00:43:08,500
+Just because it doesn't like this, so it does weird things
+
+1108
+00:43:08,500 --> 00:43:14,940
+shall we do this demonstration
+
+1109
+00:43:14,940 --> 00:43:20,440
+Of course this will burn, 77 degrees is very cold
+
+1110
+00:43:20,440 --> 00:43:25,560
+If you take a small piece of metal, it'll all sit in there, and it'll become brittle
+
+1111
+00:43:25,560 --> 00:43:29,520
+So this is pretty awesome
+
+1112
+00:43:29,720 --> 00:43:32,720
+so be sure to wear gloves
+
+1113
+00:43:34,720 --> 00:43:43,520
+The experiment it does is to put a magnet on this high-temperature conductor
+
+1114
+00:43:43,520 --> 00:43:46,520
+Hang it up, hang it up from that cup, hang it up
+
+1115
+00:43:46,520 --> 00:43:51,320
+Hanging fish is a fun place, there is no line for hanging fish
+
+1116
+00:43:51,320 --> 00:43:57,720
+That is, Jiang Taigong does not use a line to hang fish, and he also does not use a line to hang fish
+
+1117
+00:43:57,720 --> 00:44:00,120
+it has no wires but it won't soak
+
+1118
+00:44:00,000 --> 00:44:02,760
+It can be sent to the high temperature conductor itself
+
+1119
+00:44:02,760 --> 00:44:04,400
+there is no rope to pull it up
+
+1120
+00:44:04,400 --> 00:44:08,800
+it can pull the material out of it
+
+1121
+00:44:08,800 --> 00:44:11,400
+from inside this cup of it
+
+1122
+00:44:11,400 --> 00:44:14,200
+can go pull it out
+
+1123
+00:44:17,400 --> 00:44:21,800
+so it has a magnet on it
+
+1124
+00:44:21,800 --> 00:44:24,200
+so it's now stuck to its
+
+1125
+00:44:24,200 --> 00:44:25,160
+not your family
+
+1126
+00:44:25,160 --> 00:44:26,400
+stick to this
+
+1127
+00:44:26,400 --> 00:44:30,800
+take it take it
+
+1128
+00:44:46,200 --> 00:44:48,200
+then if you look carefully
+
+1129
+00:44:50,200 --> 00:44:51,400
+it should only be five to ten seconds
+
+1130
+00:44:51,400 --> 00:44:53,400
+yes you only have five to ten seconds
+
+1131
+00:44:54,400 --> 00:44:57,200
+The reason for my show here is that the light consumption can be rushed through.
+
+1132
+00:44:57,200 --> 00:44:59,200
+there is nothing in it
+
+1133
+00:44:59,200 --> 00:45:00,000
+it's grungy
+
+1134
+00:45:00,000 --> 00:45:02,700
+Empty, it's just not long enough
+
+1135
+00:45:02,860 --> 00:45:04,860
+It's about to pull, it's not enough, it's space
+
+1136
+00:45:04,860 --> 00:45:07,060
+But you can see that it's not very stable when you pull it up.
+
+1137
+00:45:07,060 --> 00:45:08,200
+wait a minute i'll talk about it this
+
+1138
+00:45:08,700 --> 00:45:11,400
+Why is it not too stable
+
+1139
+00:45:14,560 --> 00:45:17,300
+because when it is held
+
+1140
+00:45:21,500 --> 00:45:24,700
+It was put on after the tide island has been changed.
+
+1141
+00:45:25,460 --> 00:45:27,900
+You can see that the two are actually separated
+
+1142
+00:45:28,160 --> 00:45:29,200
+it didn't touch
+
+1143
+00:45:29,800 --> 00:45:32,200
+This itself if not frozen
+
+1144
+00:45:32,200 --> 00:45:33,500
+it can't be picked up
+
+1145
+00:45:33,800 --> 00:45:37,800
+So this can levitate it
+
+1146
+00:45:38,000 --> 00:45:41,000
+This is another kind, the magnetic point is below
+
+1147
+00:45:48,600 --> 00:45:50,600
+you can tell it's floating
+
+1148
+00:45:51,700 --> 00:45:54,200
+and quite stable
+
+1149
+00:45:54,200 --> 00:45:57,200
+The one just now was not so stable
+
+1150
+00:46:00,000 --> 00:46:02,000
+this is very stable
+
+1151
+00:46:02,000 --> 00:46:03,500
+wait there is a reason
+
+1152
+00:46:03,500 --> 00:46:06,000
+Why is it that one or two are a bit different
+
+1153
+00:46:06,000 --> 00:46:11,000
+It's a magnet that's already on it
+
+1154
+00:46:11,000 --> 00:46:12,500
+under this track
+
+1155
+00:46:12,500 --> 00:46:16,500
+So it can float
+
+1156
+00:46:16,500 --> 00:46:18,500
+This is floating
+
+1157
+00:46:18,500 --> 00:46:23,000
+This can last a long time
+
+1158
+00:46:23,000 --> 00:46:26,000
+This time it's completely stopped
+
+1159
+00:46:26,000 --> 00:46:27,000
+I keep looking
+
+1160
+00:46:27,000 --> 00:46:28,000
+this is so enjoyable
+
+1161
+00:46:28,000 --> 00:46:30,000
+Of course it's fun to be inside the gate
+
+1162
+00:46:30,000 --> 00:46:33,000
+Not this one
+
+1163
+00:46:33,000 --> 00:46:34,000
+that was done
+
+1164
+00:46:34,000 --> 00:46:38,000
+Somebody make a person this big stand on it and float
+
+1165
+00:46:38,000 --> 00:46:40,000
+this
+
+1166
+00:46:42,000 --> 00:46:43,000
+good
+
+1167
+00:46:43,000 --> 00:46:44,000
+Thanks
+
+1168
+00:46:44,000 --> 00:46:45,000
+thank you both
+
+1169
+00:46:45,000 --> 00:46:46,000
+good
+
+1170
+00:46:53,000 --> 00:46:54,000
+explained
+
+1171
+00:46:54,000 --> 00:46:57,000
+The place where this explanation was just now
+
+1172
+00:46:57,000 --> 00:47:00,000
+it's this thing
+
+1173
+00:47:00,000 --> 00:47:02,420
+The characteristic is the magnetic field of our home
+
+1174
+00:47:02,420 --> 00:47:05,660
+Of course, the magnetic fields of the two homes are actually different.
+
+1175
+00:47:05,660 --> 00:47:07,560
+It can be said that this is
+
+1176
+00:47:07,560 --> 00:47:10,500
+Originally, the magnetic field acts on this
+
+1177
+00:47:10,500 --> 00:47:13,120
+Before becoming superconducting
+
+1178
+00:47:13,120 --> 00:47:16,000
+The magnetic field is already acting on the material
+
+1179
+00:47:16,000 --> 00:47:18,120
+and then you cool it down
+
+1180
+00:47:18,120 --> 00:47:21,000
+This one originally had no magnetic field.
+
+1181
+00:47:21,000 --> 00:47:24,120
+That you cool it first and then add the magnetic field
+
+1182
+00:47:24,120 --> 00:47:26,120
+These two are actually not the same
+
+1183
+00:47:26,120 --> 00:47:27,640
+It can be seen that this is not stable
+
+1184
+00:47:27,640 --> 00:47:30,640
+It's very stable when you pull it up
+
+1185
+00:47:30,640 --> 00:47:32,600
+very stable species
+
+1186
+00:47:32,600 --> 00:47:34,960
+Of course there is a very simple reason for this
+
+1187
+00:47:34,960 --> 00:47:39,560
+But the most important reason is that these are
+
+1188
+00:47:39,560 --> 00:47:42,920
+These superconductors don't like this magnetic field too much
+
+1189
+00:47:42,920 --> 00:47:44,320
+so what does he do
+
+1190
+00:47:44,320 --> 00:47:45,000
+Of course it's easy
+
+1191
+00:47:45,000 --> 00:47:46,360
+drain it
+
+1192
+00:47:46,360 --> 00:47:50,680
+If it's not good and you don't like it, let it out
+
+1193
+00:47:50,680 --> 00:47:52,920
+is their greatest practice
+
+1194
+00:47:52,920 --> 00:47:56,440
+Well, of course, the situation of this discharge is like this
+
+1195
+00:47:56,440 --> 00:47:58,360
+Usually we think of common metals
+
+1196
+00:47:58,360 --> 00:48:00,000
+We all learned about Faraday
+
+1197
+00:48:00,000 --> 00:48:02,000
+cognitive law
+
+1198
+00:48:02,000 --> 00:48:04,000
+That is, if you take a metal
+
+1199
+00:48:04,000 --> 00:48:06,000
+with a magnetic field
+
+1200
+00:48:06,000 --> 00:48:08,000
+when you put in
+
+1201
+00:48:08,000 --> 00:48:11,000
+The magnetic field causes a current in the metal
+
+1202
+00:48:11,000 --> 00:48:12,000
+Current is usually
+
+1203
+00:48:12,000 --> 00:48:14,000
+Sensing direction
+
+1204
+00:48:14,000 --> 00:48:16,000
+Just enough to cancel your magnetic field
+
+1205
+00:48:16,000 --> 00:48:18,000
+but ordinary metal
+
+1206
+00:48:18,000 --> 00:48:19,000
+not very strong
+
+1207
+00:48:19,000 --> 00:48:20,000
+because of what
+
+1208
+00:48:20,000 --> 00:48:21,000
+because of current
+
+1209
+00:48:21,000 --> 00:48:22,000
+there will be resistance
+
+1210
+00:48:22,000 --> 00:48:23,000
+at last there will be no more
+
+1211
+00:48:23,000 --> 00:48:24,000
+The current is gone
+
+1212
+00:48:24,000 --> 00:48:25,000
+So other than this is not very strong
+
+1213
+00:48:25,000 --> 00:48:27,000
+but in dick too
+
+1214
+00:48:27,000 --> 00:48:29,000
+This current will not disappear
+
+1215
+00:48:29,000 --> 00:48:31,000
+So its current can be very strong
+
+1216
+00:48:31,000 --> 00:48:32,000
+can stay for a long time
+
+1217
+00:48:32,000 --> 00:48:34,000
+can generate a strong magnetic field
+
+1218
+00:48:34,000 --> 00:48:38,000
+The two magnetic fields are of course opposite to each other.
+
+1219
+00:48:38,000 --> 00:48:40,000
+This is called shielding current
+
+1220
+00:48:40,000 --> 00:48:41,000
+that you now have
+
+1221
+00:48:41,000 --> 00:48:43,000
+the experiment just now
+
+1222
+00:48:43,000 --> 00:48:45,000
+That is, a magnet is placed under it and above it.
+
+1223
+00:48:45,000 --> 00:48:47,000
+when it is placed like this
+
+1224
+00:48:47,000 --> 00:48:50,000
+This magnetic field goes from North Pole to South Pole
+
+1225
+00:48:50,000 --> 00:48:53,000
+When going through this tutorial material
+
+1226
+00:48:53,000 --> 00:48:54,000
+it is squeezed
+
+1227
+00:48:54,000 --> 00:48:55,000
+Look at this magnetic force line
+
+1228
+00:48:55,000 --> 00:48:58,000
+It is logical that it should come down like this
+
+1229
+00:48:58,000 --> 00:49:00,000
+But it's not it's squeezed out
+
+1230
+00:49:00,000 --> 00:49:03,880
+How is it squeezed? Because the superconductivity here will generate a current
+
+1231
+00:49:03,880 --> 00:49:05,880
+Just like ordinary metal, as I just said
+
+1232
+00:49:05,880 --> 00:49:08,000
+If you add a permanent, it will generate current
+
+1233
+00:49:08,000 --> 00:49:11,880
+The superconducting current will not disappear because it has no resistance
+
+1234
+00:49:11,880 --> 00:49:14,880
+So it keeps flowing, and it produces the exact opposite
+
+1235
+00:49:14,880 --> 00:49:16,720
+It also generates a North Pole here
+
+1236
+00:49:16,720 --> 00:49:19,120
+The two north poles face each other, everyone will move if they know it
+
+1237
+00:49:19,120 --> 00:49:20,240
+Yes, take two battery holders
+
+1238
+00:49:20,240 --> 00:49:22,240
+Sometimes it's similar, sometimes it's different
+
+1239
+00:49:22,240 --> 00:49:25,520
+Your North Pole is like the North Pole, and the North Pole is like the South Pole
+
+1240
+00:49:25,520 --> 00:49:27,440
+Then it happens to be North Pole to North Pole
+
+1241
+00:49:27,440 --> 00:49:29,600
+This is the famous symbol
+
+1242
+00:49:29,600 --> 00:49:32,480
+That is to say, this word has been known for a long time
+
+1243
+00:49:32,480 --> 00:49:33,680
+It doesn't have to be superconducting
+
+1244
+00:49:33,680 --> 00:49:37,280
+But with superconductivity, this force becomes much larger
+
+1245
+00:49:37,280 --> 00:49:40,160
+This is what I copied from the picture in their Shuangyuehai
+
+1246
+00:49:40,160 --> 00:49:42,280
+I don't know how to draw this
+
+1247
+00:49:42,280 --> 00:49:44,160
+They drew it very well, the magnetic lines look like this
+
+1248
+00:49:44,160 --> 00:49:48,160
+Look at this, bending like this actually creates force
+
+1249
+00:49:48,160 --> 00:49:50,640
+Because the lines of force don't like to bend like this
+
+1250
+00:49:50,640 --> 00:49:52,560
+If you bend it like this, it will only compress tightly.
+
+1251
+00:49:52,560 --> 00:49:57,240
+So you can't fall, you can't hold down even with gravity
+
+1252
+00:49:57,240 --> 00:49:59,240
+Magnetic lines lift you up
+
+1253
+00:50:00,000 --> 00:50:03,960
+At that time, it was also said that there was an arctic market here.
+
+1254
+00:50:03,960 --> 00:50:04,960
+so lift him up
+
+1255
+00:50:04,960 --> 00:50:06,120
+that this is amazing
+
+1256
+00:50:06,120 --> 00:50:07,080
+because why doesn't he like
+
+1257
+00:50:07,080 --> 00:50:07,960
+that's what i just said
+
+1258
+00:50:07,960 --> 00:50:09,960
+because you're going to ruin his match
+
+1259
+00:50:09,960 --> 00:50:15,360
+You have to make him not able to dance there harmoniously
+
+1260
+00:50:15,360 --> 00:50:16,760
+make him unhappy
+
+1261
+00:50:16,760 --> 00:50:17,520
+what will he do
+
+1262
+00:50:17,520 --> 00:50:18,480
+he puts you out
+
+1263
+00:50:18,480 --> 00:50:19,920
+don't let you eat sugar
+
+1264
+00:50:19,920 --> 00:50:23,440
+This is of course an interesting thing
+
+1265
+00:50:23,440 --> 00:50:26,960
+This is what nature does automatically
+
+1266
+00:50:26,960 --> 00:50:28,120
+get you out
+
+1267
+00:50:28,120 --> 00:50:29,760
+That way, the energy is relatively low.
+
+1268
+00:50:30,680 --> 00:50:32,400
+This is just floating
+
+1269
+00:50:32,400 --> 00:50:34,320
+But this buoy is only repulsive
+
+1270
+00:50:34,320 --> 00:50:37,000
+This brain is not very stable
+
+1271
+00:50:37,000 --> 00:50:38,240
+So just now it can be seen
+
+1272
+00:50:38,240 --> 00:50:39,440
+then he is not very stable
+
+1273
+00:50:39,440 --> 00:50:44,280
+In fact, some of this stuff will slowly seep in.
+
+1274
+00:50:44,280 --> 00:50:46,480
+seeps into its edge
+
+1275
+00:50:46,480 --> 00:50:48,240
+Then this just said that MineSyn
+
+1276
+00:50:48,240 --> 00:50:50,000
+That's what happened just now
+
+1277
+00:50:50,000 --> 00:50:51,640
+In fact, there is another way
+
+1278
+00:50:51,640 --> 00:50:56,080
+If your magnetic field strength is too high
+
+1279
+00:50:56,080 --> 00:50:58,320
+it has another way
+
+1280
+00:50:58,320 --> 00:50:59,200
+it can't be discharged
+
+1281
+00:50:59,200 --> 00:51:00,000
+because you are too strong
+
+1282
+00:51:00,000 --> 00:51:01,000
+What should he do then?
+
+1283
+00:51:01,000 --> 00:51:04,000
+well , he confines you to a small space
+
+1284
+00:51:04,000 --> 00:51:06,000
+Think about how clever this nature is
+
+1285
+00:51:06,000 --> 00:51:08,000
+Then I can't deal with you, you are too strong
+
+1286
+00:51:08,000 --> 00:51:12,000
+What am I doing? I keep all your magnetic fields small
+
+1287
+00:51:12,000 --> 00:51:14,000
+Just like the pillars, the same pillars you just jumped on
+
+1288
+00:51:14,000 --> 00:51:16,000
+then i'll be fine i'm old
+
+1289
+00:51:16,000 --> 00:51:18,000
+nothing to do with me
+
+1290
+00:51:18,000 --> 00:51:20,000
+what he can do
+
+1291
+00:51:20,000 --> 00:51:23,000
+Someone figured this out
+
+1292
+00:51:23,000 --> 00:51:27,000
+Then this thing is, let's talk about it later and get the road sign to talk about it
+
+1293
+00:51:28,000 --> 00:51:30,000
+Well, this thing is very interesting. It's called a mixing station.
+
+1294
+00:51:30,000 --> 00:51:34,000
+That is, some lines of magnetic force are discharged to the outside, and some are mixed in.
+
+1295
+00:51:34,000 --> 00:51:37,000
+The one in that row, this one is called
+
+1296
+00:51:37,000 --> 00:51:39,000
+Just now we called the Myzen effect
+
+1297
+00:51:39,000 --> 00:51:42,000
+It's weird that this guy didn't get the road sign
+
+1298
+00:51:42,000 --> 00:51:47,000
+This, this has got the road sign to tell
+
+1299
+00:51:47,000 --> 00:51:52,000
+Arranged in a small space, this is called a mixing table
+
+1300
+00:51:52,000 --> 00:51:55,000
+Well, this is of course very important
+
+1301
+00:51:55,000 --> 00:52:00,000
+Then the mixing station mentioned just now is actually even more mysterious if you really look at it carefully.
+
+1302
+00:52:00,000 --> 00:52:05,380
+That is, you still had this shielding current just now.
+
+1303
+00:52:05,380 --> 00:52:08,280
+I just said that you have shielding current when you hold the field.
+
+1304
+00:52:08,280 --> 00:52:11,040
+This pool line will go in
+
+1305
+00:52:11,040 --> 00:52:13,320
+Then we discovered the pool line
+
+1306
+00:52:13,320 --> 00:52:16,160
+It's actually a pool
+
+1307
+00:52:16,160 --> 00:52:21,760
+Each pool line has a certain pool moment
+
+1308
+00:52:21,760 --> 00:52:22,640
+not casual
+
+1309
+00:52:22,640 --> 00:52:24,600
+we usually talk about pool
+
+1310
+00:52:24,600 --> 00:52:30,400
+Let's talk about 0.1 high humidity or Tesla
+
+1311
+00:52:30,400 --> 00:52:33,760
+0.001 is the speed per hour
+
+1312
+00:52:33,760 --> 00:52:35,560
+continuous
+
+1313
+00:52:35,560 --> 00:52:38,240
+but here to tell you it's not
+
+1314
+00:52:38,240 --> 00:52:39,840
+In this quantum state
+
+1315
+00:52:39,840 --> 00:52:42,840
+This thing itself is a quantum number
+
+1316
+00:52:42,840 --> 00:52:49,040
+Each of these original rights represents a certain basic holding
+
+1317
+00:52:49,040 --> 00:52:50,600
+Everyone is well arranged
+
+1318
+00:52:50,600 --> 00:52:52,800
+Here it's actually neatly drawn
+
+1319
+00:52:52,800 --> 00:52:57,800
+Each has six neighboring triangular lattices next to it
+
+1320
+00:52:57,800 --> 00:52:59,880
+This is Abbey Kossoff narrating
+
+1321
+00:53:00,000 --> 00:53:03,400
+It is what I talked about in 2003 with the Noble Watch
+
+1322
+00:53:03,400 --> 00:53:04,300
+Just because I solved it
+
+1323
+00:53:04,300 --> 00:53:05,700
+mainly a job
+
+1324
+00:53:05,700 --> 00:53:07,600
+Let him speak with a watch
+
+1325
+00:53:07,600 --> 00:53:11,800
+Is to lift this Ubricos of lattice
+
+1326
+00:53:11,800 --> 00:53:16,200
+This proof is of course too much time to prove now
+
+1327
+00:53:16,200 --> 00:53:16,800
+this is right
+
+1328
+00:53:16,800 --> 00:53:18,200
+you can go straight to it
+
+1329
+00:53:18,200 --> 00:53:20,700
+You sprinkle some iron powder on it
+
+1330
+00:53:20,700 --> 00:53:24,600
+You can look directly at this magnetic flux
+
+1331
+00:53:24,600 --> 00:53:25,200
+how
+
+1332
+00:53:25,200 --> 00:53:27,600
+Of course each one has a vortice
+
+1333
+00:53:27,600 --> 00:53:31,200
+there is no superconducting team in it don't like to be in it
+
+1334
+00:53:31,200 --> 00:53:33,200
+superconducting team is right outside it
+
+1335
+00:53:33,200 --> 00:53:34,800
+All the superconducting teams are out of it
+
+1336
+00:53:34,800 --> 00:53:36,000
+make a fuss
+
+1337
+00:53:36,000 --> 00:53:38,000
+It's like you've got lots of assistants and you're dancing
+
+1338
+00:53:38,000 --> 00:53:40,000
+You are making trouble with the assistant
+
+1339
+00:53:40,000 --> 00:53:42,800
+then don't run inside
+
+1340
+00:53:42,800 --> 00:53:45,800
+That's what they do electronically
+
+1341
+00:53:45,800 --> 00:53:48,000
+Then this CobraPack is amazing
+
+1342
+00:53:48,000 --> 00:53:49,000
+he would do it himself
+
+1343
+00:53:49,000 --> 00:53:50,800
+and not one or two
+
+1344
+00:53:50,800 --> 00:53:54,000
+That's what everyone does
+
+1345
+00:53:54,000 --> 00:53:55,800
+That's what I just said
+
+1346
+00:53:55,800 --> 00:53:57,400
+Why is it more stable?
+
+1347
+00:53:57,400 --> 00:54:00,000
+In fact, the magnetic flux is in this
+
+1348
+00:54:00,000 --> 00:54:01,360
+will also lock
+
+1349
+00:54:01,360 --> 00:54:02,520
+it's somewhere
+
+1350
+00:54:02,520 --> 00:54:03,760
+For example, some impurities
+
+1351
+00:54:03,760 --> 00:54:04,720
+it likes to be in the impurities
+
+1352
+00:54:04,720 --> 00:54:07,240
+We just said that impurities are not very good, right?
+
+1353
+00:54:07,240 --> 00:54:09,160
+When there is this magnetism
+
+1354
+00:54:09,160 --> 00:54:11,680
+This magnetic flux will be hired on the impurity
+
+1355
+00:54:11,680 --> 00:54:12,480
+very strong
+
+1356
+00:54:12,480 --> 00:54:14,160
+So just say that
+
+1357
+00:54:14,160 --> 00:54:16,800
+Just now this experiment here
+
+1358
+00:54:16,800 --> 00:54:19,000
+this small
+
+1359
+00:54:19,000 --> 00:54:21,160
+This experiment with this little train
+
+1360
+00:54:21,160 --> 00:54:22,920
+It's on top of this
+
+1361
+00:54:22,920 --> 00:54:24,720
+because it is in the magnetic field
+
+1362
+00:54:24,720 --> 00:54:26,000
+The magnet is already inside
+
+1363
+00:54:26,000 --> 00:54:27,200
+you cool it down
+
+1364
+00:54:27,200 --> 00:54:29,080
+All the magnetic flux goes inside.
+
+1365
+00:54:29,200 --> 00:54:30,280
+just stay in there
+
+1366
+00:54:30,280 --> 00:54:31,720
+so locked
+
+1367
+00:54:31,720 --> 00:54:32,280
+equal to lock
+
+1368
+00:54:32,280 --> 00:54:33,400
+when you lift it up now
+
+1369
+00:54:33,400 --> 00:54:35,160
+This magnetic flux has no place to run
+
+1370
+00:54:35,160 --> 00:54:36,920
+Everything inside is equivalent to being locked.
+
+1371
+00:54:36,920 --> 00:54:38,680
+So it's like an invisible rope
+
+1372
+00:54:38,680 --> 00:54:39,680
+the rope you can't see
+
+1373
+00:54:39,680 --> 00:54:41,400
+In fact, this material can be smashed
+
+1374
+00:54:41,400 --> 00:54:42,000
+very stable
+
+1375
+00:54:42,000 --> 00:54:43,640
+So it runs very stable
+
+1376
+00:54:43,640 --> 00:54:44,280
+it can't move
+
+1377
+00:54:44,280 --> 00:54:45,360
+because so much
+
+1378
+00:54:45,360 --> 00:54:46,280
+stay still
+
+1379
+00:54:46,280 --> 00:54:47,040
+it can't move
+
+1380
+00:54:47,040 --> 00:54:49,680
+The one just now is because you didn't add it at the beginning
+
+1381
+00:54:49,680 --> 00:54:50,960
+no magnet here
+
+1382
+00:54:50,960 --> 00:54:52,400
+You later surpassed to have
+
+1383
+00:54:52,400 --> 00:54:53,320
+you want to add
+
+1384
+00:54:53,320 --> 00:54:55,120
+In fact it is added next to
+
+1385
+00:54:55,120 --> 00:54:56,160
+very weak
+
+1386
+00:54:56,160 --> 00:54:56,560
+beside
+
+1387
+00:54:56,560 --> 00:54:58,400
+so it's not very stable
+
+1388
+00:54:58,400 --> 00:55:00,040
+So I can't live if I smashed it like that just now
+
+1389
+00:55:00,000 --> 00:55:01,000
+there is a difference between the two
+
+1390
+00:55:01,000 --> 00:55:03,800
+If it is placed in a magnetic field first and then cooled
+
+1391
+00:55:03,800 --> 00:55:06,400
+The two results are not the same
+
+1392
+00:55:07,200 --> 00:55:08,600
+This result is to tell you
+
+1393
+00:55:08,600 --> 00:55:12,000
+This is a company with a very stable employment
+
+1394
+00:55:12,000 --> 00:55:13,400
+so what can this be used for
+
+1395
+00:55:13,400 --> 00:55:15,400
+can be used as an application
+
+1396
+00:55:15,400 --> 00:55:17,200
+Now we understand this thing
+
+1397
+00:55:17,200 --> 00:55:18,600
+we also know why
+
+1398
+00:55:18,600 --> 00:55:22,600
+Because the Cooper team wants everyone to be harmonious
+
+1399
+00:55:22,600 --> 00:55:24,600
+if you mess up
+
+1400
+00:55:24,600 --> 00:55:26,200
+some of the others it's not good
+
+1401
+00:55:26,200 --> 00:55:29,000
+But it has a way to solve this problem
+
+1402
+00:55:29,800 --> 00:55:31,200
+it can solve this problem
+
+1403
+00:55:31,200 --> 00:55:33,600
+Make a Perfect Solution
+
+1404
+00:55:34,600 --> 00:55:36,800
+All of this I just talked about is consciousness
+
+1405
+00:55:36,800 --> 00:55:40,000
+Of course quantum mechanics can help you figure it out
+
+1406
+00:55:40,000 --> 00:55:42,600
+Everything I said can be calculated exactly
+
+1407
+00:55:43,800 --> 00:55:49,000
+This is an incredible result of the BCS theory
+
+1408
+00:55:49,000 --> 00:55:53,400
+It is not possible to do this quantitatively
+
+1409
+00:55:53,400 --> 00:55:54,000
+alright
+
+1410
+00:55:54,000 --> 00:55:57,200
+But there is another not-so-good place in BCS theory
+
+1411
+00:55:57,200 --> 00:55:59,800
+Its temperature probably won't exceed 40 degrees
+
+1412
+00:56:00,000 --> 00:56:05,000
+Because someone has done the math on how hard it is for me to increase the temperature
+
+1413
+00:56:05,000 --> 00:56:09,000
+Because it must have a strong electron ion
+
+1414
+00:56:09,000 --> 00:56:11,000
+We just talked about the role of biomass, right?
+
+1415
+00:56:11,000 --> 00:56:15,000
+Electrons and biomass must have an attractive force to dig a hole for it to enter
+
+1416
+00:56:15,000 --> 00:56:20,000
+It must be very strong, the stronger it is, the deeper the hole will be dug, and the faster it will fall, right, the better
+
+1417
+00:56:20,000 --> 00:56:25,000
+But you also need a high electron density, that is, a lot of electrons
+
+1418
+00:56:26,000 --> 00:56:30,000
+At a certain energy, there must be many electrons in a place close to the low energy
+
+1419
+00:56:30,000 --> 00:56:33,000
+But there is no superconductivity without electrons
+
+1420
+00:56:33,000 --> 00:56:36,000
+So it's impossible for an insulator to superconduct, right?
+
+1421
+00:56:36,000 --> 00:56:40,000
+But if you want to put electrons in it, it needs to be superconducting, the more the better
+
+1422
+00:56:40,000 --> 00:56:45,000
+Then these two must be very large, but when these two are very large, there are actually other problems
+
+1423
+00:56:45,000 --> 00:56:49,000
+When this is too strong, like this strong, if this thing is getting stronger
+
+1424
+00:56:49,000 --> 00:56:51,000
+This electron can't escape anymore
+
+1425
+00:56:51,000 --> 00:56:54,000
+Then we just said that it will continue to dance.
+
+1426
+00:56:54,000 --> 00:56:57,000
+This is not jumping all the time, jumping from here to that two people have to switch
+
+1427
+00:56:57,000 --> 00:57:00,000
+run around, then you may...
+
+1428
+00:57:00,000 --> 00:57:01,700
+Synchronize Harmony
+
+1429
+00:57:01,700 --> 00:57:03,000
+it jumps now if you don't give it
+
+1430
+00:57:03,000 --> 00:57:05,300
+Each is fixed in a certain area
+
+1431
+00:57:05,300 --> 00:57:07,000
+That's an insulator
+
+1432
+00:57:07,000 --> 00:57:09,700
+You cushion it, even if you add cushions, it can’t jump out
+
+1433
+00:57:09,700 --> 00:57:11,200
+it can't conduct
+
+1434
+00:57:11,200 --> 00:57:13,000
+that's over, that's over
+
+1435
+00:57:13,000 --> 00:57:15,400
+So it has a limitation
+
+1436
+00:57:15,400 --> 00:57:17,300
+That is to say, if you are too strong
+
+1437
+00:57:17,300 --> 00:57:19,300
+I can't help it either
+
+1438
+00:57:19,300 --> 00:57:21,800
+Too weak and I don't have superconductivity
+
+1439
+00:57:21,800 --> 00:57:24,000
+Then I have to be stronger to resist my rejection point
+
+1440
+00:57:24,000 --> 00:57:25,500
+I just said that there is a cool person effect
+
+1441
+00:57:25,500 --> 00:57:29,300
+So there is a lot of balance in it
+
+1442
+00:57:29,300 --> 00:57:30,700
+have a balance
+
+1443
+00:57:30,700 --> 00:57:31,500
+that sometimes more
+
+1444
+00:57:31,500 --> 00:57:34,700
+That's why we want the temperature to be higher, higher and higher
+
+1445
+00:57:34,700 --> 00:57:36,700
+Then how do you get this out
+
+1446
+00:57:36,700 --> 00:57:38,300
+So this question was originally
+
+1447
+00:57:38,300 --> 00:57:43,500
+Someone suggested that it is impossible to exceed 40 degrees
+
+1448
+00:57:43,500 --> 00:57:47,500
+This question is of course very frustrating
+
+1449
+00:57:47,500 --> 00:57:49,500
+Because we just showed 1980
+
+1450
+00:57:49,500 --> 00:57:51,100
+Of course people who do experiments, people who do physics
+
+1451
+00:57:51,100 --> 00:57:52,300
+never respond
+
+1452
+00:57:52,300 --> 00:57:53,600
+What is the limit
+
+1453
+00:57:53,600 --> 00:57:55,300
+we still have to try
+
+1454
+00:57:55,300 --> 00:57:56,000
+keep trying
+
+1455
+00:57:56,000 --> 00:57:58,600
+Then someone tried it
+
+1456
+00:57:58,600 --> 00:58:00,600
+Then of course do this test
+
+1457
+00:58:00,000 --> 00:58:03,400
+That's what you see all the way here until 1986
+
+1458
+00:58:05,960 --> 00:58:07,720
+A total of 74 years later
+
+1459
+00:58:07,720 --> 00:58:10,160
+These two people won the Nobel Prize
+
+1460
+00:58:10,160 --> 00:58:12,720
+This was in 1913 and he made it in 1911
+
+1461
+00:58:12,720 --> 00:58:14,400
+He was made in 1986
+
+1462
+00:58:14,920 --> 00:58:16,560
+Received the Nobel Prize in 1987
+
+1463
+00:58:16,560 --> 00:58:17,880
+The Battle of Mirror
+
+1464
+00:58:18,240 --> 00:58:19,080
+because why
+
+1465
+00:58:19,080 --> 00:58:21,960
+Because Wu Maokun and Zhu Jinwu helped them dance
+
+1466
+00:58:21,960 --> 00:58:23,560
+jump from here to here
+
+1467
+00:58:23,560 --> 00:58:26,760
+this is liquid egg
+
+1468
+00:58:27,520 --> 00:58:31,360
+So I can now do this experiment and show you guys here
+
+1469
+00:58:31,360 --> 00:58:33,040
+because they made the material
+
+1470
+00:58:33,040 --> 00:58:35,040
+it would be hard if i was here
+
+1471
+00:58:35,040 --> 00:58:36,520
+I'm going to do liquid harm
+
+1472
+00:58:36,520 --> 00:58:37,960
+Liquid Hazard is very expensive now
+
+1473
+00:58:37,960 --> 00:58:40,680
+One liter costs five or six hundred Taiwan dollars
+
+1474
+00:58:40,680 --> 00:58:42,200
+and very troublesome
+
+1475
+00:58:42,200 --> 00:58:43,520
+evaporated in one go
+
+1476
+00:58:43,520 --> 00:58:44,240
+very expensive
+
+1477
+00:58:44,240 --> 00:58:46,240
+But liquid eggs are cheap
+
+1478
+00:58:46,240 --> 00:58:48,200
+about as cheap as beer
+
+1479
+00:58:49,000 --> 00:58:51,360
+So it's very convenient to follow this
+
+1480
+00:58:51,360 --> 00:58:52,720
+then i can show you guys here
+
+1481
+00:58:52,720 --> 00:58:54,560
+as soon as they make it
+
+1482
+00:58:54,560 --> 00:58:56,240
+This is 90 degrees
+
+1483
+00:58:56,280 --> 00:58:59,520
+Afterwards, everyone followed suit and made similar materials.
+
+1484
+00:58:59,520 --> 00:59:00,080
+all these are
+
+1485
+00:59:00,000 --> 00:59:01,840
+The same series has been here
+
+1486
+00:59:01,840 --> 00:59:05,960
+Of course here we have stopped for many years now
+
+1487
+00:59:08,440 --> 00:59:09,440
+here comes the problem
+
+1488
+00:59:09,440 --> 00:59:10,440
+where to find
+
+1489
+00:59:10,440 --> 00:59:11,640
+Four temperature operation
+
+1490
+00:59:12,480 --> 00:59:15,720
+But of course this is a very big jump
+
+1491
+00:59:15,720 --> 00:59:17,120
+jump from here to here
+
+1492
+00:59:17,120 --> 00:59:19,480
+the whole situation has changed
+
+1493
+00:59:19,480 --> 00:59:22,760
+because it immediately has a large impact on the application
+
+1494
+00:59:22,760 --> 00:59:24,320
+This is of course our year
+
+1495
+00:59:24,320 --> 00:59:26,000
+I have to attend this March Meeting
+
+1496
+00:59:26,000 --> 00:59:27,360
+Everyone is like the wind
+
+1497
+00:59:27,360 --> 00:59:28,240
+so old man
+
+1498
+00:59:28,240 --> 00:59:30,560
+You see, they are all great physicists.
+
+1499
+00:59:30,560 --> 00:59:32,080
+this is night
+
+1500
+00:59:32,080 --> 00:59:34,720
+Everyone rush to this special
+
+1501
+00:59:34,720 --> 00:59:38,280
+Because this is their paper coming out in January
+
+1502
+00:59:38,280 --> 00:59:39,640
+This meeting will be held in March
+
+1503
+00:59:39,640 --> 00:59:45,040
+This is the largest open-ended physics meeting of the American Physical Society
+
+1504
+00:59:45,040 --> 00:59:49,040
+There were two to three thousand people at that meeting
+
+1505
+00:59:49,040 --> 00:59:50,480
+Of course it's tens of thousands now
+
+1506
+00:59:50,480 --> 00:59:52,120
+There are only two or three thousand people for this mission
+
+1507
+00:59:52,120 --> 00:59:53,400
+But the waterlines of a few are different
+
+1508
+00:59:53,400 --> 00:59:55,440
+That hall is full of people
+
+1509
+00:59:55,440 --> 00:59:56,280
+don't sleep at night
+
+1510
+00:59:56,280 --> 00:59:56,960
+stop eating
+
+1511
+00:59:57,000 --> 00:59:58,280
+everyone ran to listen
+
+1512
+00:59:58,280 --> 00:59:59,040
+everyone wants
+
+1513
+00:59:59,040 --> 01:00:00,040
+everyone has a speech
+
+1514
+01:00:00,000 --> 01:00:01,840
+few minutes if you have new results
+
+1515
+01:00:01,840 --> 01:00:03,200
+because they came out
+
+1516
+01:00:03,200 --> 01:00:04,600
+Everyone hurry back and do it
+
+1517
+01:00:04,600 --> 01:00:05,400
+Actually I remember that time
+
+1518
+01:00:05,400 --> 01:00:06,440
+I'm doing theory
+
+1519
+01:00:06,440 --> 01:00:07,880
+Our colleagues
+
+1520
+01:00:07,880 --> 01:00:09,200
+We at Virginia Tech
+
+1521
+01:00:09,200 --> 01:00:12,200
+Our colleagues are also burning this material
+
+1522
+01:00:12,200 --> 01:00:13,400
+everyone is doing
+
+1523
+01:00:13,400 --> 01:00:14,680
+Let him measure this and that
+
+1524
+01:00:14,680 --> 01:00:15,880
+say everyone has to go
+
+1525
+01:00:15,880 --> 01:00:16,880
+Can't talk for five minutes
+
+1526
+01:00:16,880 --> 01:00:17,680
+say what we did
+
+1527
+01:00:17,680 --> 01:00:19,000
+what did we do
+
+1528
+01:00:19,000 --> 01:00:20,000
+what did you measure
+
+1529
+01:00:20,000 --> 01:00:21,680
+There are a lot of people crowded in Allah
+
+1530
+01:00:21,680 --> 01:00:23,600
+You have to listen to this high tide early
+
+1531
+01:00:23,600 --> 01:00:24,280
+this is a
+
+1532
+01:00:24,280 --> 01:00:25,400
+This is Wuastau
+
+1533
+01:00:25,400 --> 01:00:26,600
+Do you think of this story?
+
+1534
+01:00:26,600 --> 01:00:29,080
+Wuastau this is the concert
+
+1535
+01:00:29,080 --> 01:00:31,280
+is an american concert
+
+1536
+01:00:31,280 --> 01:00:35,160
+This is Wuastau in physics
+
+1537
+01:00:35,160 --> 01:00:37,080
+This situation is hard to find now
+
+1538
+01:00:37,080 --> 01:00:38,120
+unless you find now
+
+1539
+01:00:38,120 --> 01:00:39,360
+Lume Time Media Subbattlete
+
+1540
+01:00:39,360 --> 01:00:40,080
+You can Battle
+
+1541
+01:00:40,080 --> 01:00:41,480
+Because it's better than this
+
+1542
+01:00:41,480 --> 01:00:44,120
+Everyone will be squeezed out
+
+1543
+01:00:44,120 --> 01:00:45,160
+what about this
+
+1544
+01:00:45,160 --> 01:00:46,680
+Of course this picture is my favorite
+
+1545
+01:00:46,680 --> 01:00:48,720
+This is Time Magazine
+
+1546
+01:00:48,720 --> 01:00:49,680
+Picture from May 11th
+
+1547
+01:00:49,680 --> 01:00:52,440
+Look, wow, I jumped up excitedly
+
+1548
+01:00:52,440 --> 01:00:54,000
+This temperature keeps going up
+
+1549
+01:00:54,000 --> 01:00:55,480
+Say Heating Up
+
+1550
+01:00:55,480 --> 01:00:57,760
+they are good at writing these
+
+1551
+01:00:57,760 --> 01:01:00,000
+very nice cover
+
+1552
+01:01:00,000 --> 01:01:03,560
+This is an important breakthrough for them
+
+1553
+01:01:04,160 --> 01:01:06,360
+Of course there are many applications
+
+1554
+01:01:06,360 --> 01:01:08,360
+Let's talk about the various possible applications
+
+1555
+01:01:08,360 --> 01:01:10,280
+This is Mueller
+
+1556
+01:01:10,280 --> 01:01:11,320
+Flocks
+
+1557
+01:01:11,320 --> 01:01:12,880
+The Mueller two
+
+1558
+01:01:12,880 --> 01:01:14,320
+Take the Noble watch to say happy
+
+1559
+01:01:15,920 --> 01:01:18,000
+This is what I just said
+
+1560
+01:01:18,000 --> 01:01:20,040
+ran here suddenly
+
+1561
+01:01:20,040 --> 01:01:22,440
+in fact a few years ago
+
+1562
+01:01:22,440 --> 01:01:24,480
+In 2008 there was another group
+
+1563
+01:01:24,720 --> 01:01:26,960
+temperature high temperature superconducting industry out
+
+1564
+01:01:26,960 --> 01:01:28,200
+This group has the highest temperature
+
+1565
+01:01:28,200 --> 01:01:29,520
+now it's 55 degrees
+
+1566
+01:01:29,760 --> 01:01:30,960
+I'm not just waiting for me to talk
+
+1567
+01:01:30,960 --> 01:01:31,880
+still higher
+
+1568
+01:01:32,800 --> 01:01:34,320
+related to this group
+
+1569
+01:01:34,320 --> 01:01:35,560
+it's iron
+
+1570
+01:01:35,560 --> 01:01:36,600
+This is copper
+
+1571
+01:01:36,600 --> 01:01:37,320
+here is iron
+
+1572
+01:01:37,320 --> 01:01:39,000
+The most important element here is copper
+
+1573
+01:01:39,000 --> 01:01:40,800
+The most important element is iron
+
+1574
+01:01:40,800 --> 01:01:41,840
+This is also strange
+
+1575
+01:01:41,840 --> 01:01:43,480
+Because iron is magnetic
+
+1576
+01:01:43,480 --> 01:01:44,760
+how can this be superconducting
+
+1577
+01:01:44,760 --> 01:01:46,840
+Here are all materials that are not magnetic
+
+1578
+01:01:46,840 --> 01:01:47,760
+all here
+
+1579
+01:01:47,760 --> 01:01:48,400
+you can watch
+
+1580
+01:01:48,400 --> 01:01:49,840
+Neither are magnetic materials
+
+1581
+01:01:50,640 --> 01:01:52,720
+At that time, it was not possible to use magnetism for angles.
+
+1582
+01:01:52,720 --> 01:01:53,400
+it's here
+
+1583
+01:01:53,400 --> 01:01:55,800
+All of a sudden a complete change
+
+1584
+01:01:55,800 --> 01:01:57,320
+This is also magnetic
+
+1585
+01:01:57,480 --> 01:01:58,640
+so the whole
+
+1586
+01:01:58,640 --> 01:01:59,760
+the whole is
+
+1587
+01:02:00,000 --> 01:02:02,560
+After super-temperature operation, I found a lot of confusion
+
+1588
+01:02:02,800 --> 01:02:04,200
+Then let me talk about its application first.
+
+1589
+01:02:04,200 --> 01:02:05,560
+I may be a little slow
+
+1590
+01:02:05,760 --> 01:02:07,240
+The application I'm going to talk about will be over soon
+
+1591
+01:02:07,240 --> 01:02:09,560
+Everyone may laugh about the energy crisis
+
+1592
+01:02:09,560 --> 01:02:12,160
+If you can find energy storage materials
+
+1593
+01:02:12,160 --> 01:02:13,700
+Renewable Energy and Savings
+
+1594
+01:02:14,160 --> 01:02:16,840
+Don't turn electricity into heat
+
+1595
+01:02:17,560 --> 01:02:18,640
+it will be much better, right?
+
+1596
+01:02:18,640 --> 01:02:20,360
+We're all turning electricity into heat now
+
+1597
+01:02:20,560 --> 01:02:22,560
+But the problem is that you need
+
+1598
+01:02:22,840 --> 01:02:23,800
+If there is a conductor
+
+1599
+01:02:23,800 --> 01:02:26,240
+That manipulator can now do a lot of things with magnets
+
+1600
+01:02:26,560 --> 01:02:28,040
+I just said that because it doesn't
+
+1601
+01:02:28,280 --> 01:02:30,280
+It does not consume this current
+
+1602
+01:02:30,600 --> 01:02:32,200
+Therefore, a large current can be passed
+
+1603
+01:02:32,200 --> 01:02:33,800
+Why couldn't magnets be made before?
+
+1604
+01:02:33,800 --> 01:02:36,320
+What can't be done with this current wire
+
+1605
+01:02:36,320 --> 01:02:39,800
+because you're going to be very hot
+
+1606
+01:02:40,320 --> 01:02:42,440
+So you burn out this one
+
+1607
+01:02:42,440 --> 01:02:43,640
+So transformer
+
+1608
+01:02:43,640 --> 01:02:45,080
+almost often the small ones will break
+
+1609
+01:02:45,080 --> 01:02:46,320
+Transformers often say
+
+1610
+01:02:46,320 --> 01:02:47,640
+Whoa, the transformer exploded.
+
+1611
+01:02:48,600 --> 01:02:50,080
+it's too hot and there's trouble
+
+1612
+01:02:51,080 --> 01:02:52,000
+That wire is thick
+
+1613
+01:02:52,000 --> 01:02:54,120
+then you start leaking
+
+1614
+01:02:54,680 --> 01:02:55,200
+trouble
+
+1615
+01:02:55,360 --> 01:02:57,040
+So if you don't have a resistor
+
+1616
+01:02:57,040 --> 01:02:59,040
+Of course you can put a lot of current
+
+1617
+01:03:00,000 --> 01:03:01,300
+you put the car up
+
+1618
+01:03:01,300 --> 01:03:08,500
+You can make a cable to pull electricity from the power plant
+
+1619
+01:03:08,500 --> 01:03:11,800
+Then you can do this MRI
+
+1620
+01:03:11,800 --> 01:03:14,200
+This is quantum interference
+
+1621
+01:03:14,200 --> 01:03:17,500
+In fact, you can also do MRI, what is it called?
+
+1622
+01:03:19,900 --> 01:03:21,500
+NMR
+
+1623
+01:03:21,500 --> 01:03:22,900
+It can also be used as a super disturbance green wave machine
+
+1624
+01:03:22,900 --> 01:03:24,700
+This is an existing product
+
+1625
+01:03:24,700 --> 01:03:26,400
+Super disturbance green wave machine and so on
+
+1626
+01:03:26,400 --> 01:03:27,300
+I won't talk much
+
+1627
+01:03:27,300 --> 01:03:29,000
+The main thing is of course
+
+1628
+01:03:29,000 --> 01:03:33,300
+like Japan made this stone ax train
+
+1629
+01:03:33,300 --> 01:03:34,300
+too much to eat
+
+1630
+01:03:34,300 --> 01:03:36,600
+Its benefit is of course energy saving
+
+1631
+01:03:36,600 --> 01:03:39,900
+Low noise and high speed can reach 550
+
+1632
+01:03:39,900 --> 01:03:44,700
+This is twice the speed of our high-speed rail
+
+1633
+01:03:44,700 --> 01:03:46,700
+can reach this speed
+
+1634
+01:03:46,700 --> 01:03:52,700
+This is the establishment of superconducting Cable in the United States
+
+1635
+01:03:52,700 --> 01:03:53,700
+for electricity
+
+1636
+01:03:53,700 --> 01:03:57,900
+They're the latest in Albany, the richest man in New York
+
+1637
+01:03:57,900 --> 01:03:59,900
+make this cable
+
+1638
+01:04:00,000 --> 01:04:01,400
+this is very complicated
+
+1639
+01:04:01,400 --> 01:04:03,600
+high temperature superconductor
+
+1640
+01:04:03,600 --> 01:04:06,400
+Then pick up this Nitrogen
+
+1641
+01:04:06,400 --> 01:04:08,900
+It's the liquid nitrogen we just mentioned.
+
+1642
+01:04:08,900 --> 01:04:09,700
+in it
+
+1643
+01:04:09,700 --> 01:04:11,400
+Then there are copper wires outside
+
+1644
+01:04:11,400 --> 01:04:14,000
+I'm afraid that if something goes wrong
+
+1645
+01:04:14,000 --> 01:04:15,700
+Immediately this current is so big
+
+1646
+01:04:15,700 --> 01:04:16,900
+it's a big deal
+
+1647
+01:04:16,900 --> 01:04:20,000
+so there must be another emergency rescue
+
+1648
+01:04:20,000 --> 01:04:22,400
+This is also done with the Koreans
+
+1649
+01:04:22,400 --> 01:04:26,000
+This is the continental superconducting system
+
+1650
+01:04:26,500 --> 01:04:29,700
+The mainland is also doing
+
+1651
+01:04:29,700 --> 01:04:32,400
+Started to make this cable system in 2012
+
+1652
+01:04:32,400 --> 01:04:33,200
+business
+
+1653
+01:04:33,200 --> 01:04:35,400
+make this superconducting
+
+1654
+01:04:35,400 --> 01:04:36,000
+OK
+
+1655
+01:04:36,000 --> 01:04:38,000
+The whole world is progressing
+
+1656
+01:04:38,000 --> 01:04:43,700
+Japan also bought an American company
+
+1657
+01:04:43,700 --> 01:04:45,600
+Super Power
+
+1658
+01:04:45,600 --> 01:04:46,300
+bought it
+
+1659
+01:04:46,300 --> 01:04:47,300
+and then they
+
+1660
+01:04:47,300 --> 01:04:48,900
+This is about Power density
+
+1661
+01:04:48,900 --> 01:04:49,900
+you can get there
+
+1662
+01:04:49,900 --> 01:04:52,300
+It can pull up to 816 meters
+
+1663
+01:04:52,300 --> 01:04:54,000
+Such a long cable
+
+1664
+01:04:54,100 --> 01:04:57,600
+572 amps already
+
+1665
+01:04:57,600 --> 01:04:58,400
+that's big
+
+1666
+01:04:58,400 --> 01:04:59,300
+Awesome
+
+1667
+01:04:59,300 --> 01:05:00,000
+has become more and more
+
+1668
+01:05:00,000 --> 01:05:03,200
+This is strong, this line is of course going up
+
+1669
+01:05:03,200 --> 01:05:06,800
+Of course, the stronger the better, you can pull electricity for several kilometers
+
+1670
+01:05:06,800 --> 01:05:12,200
+And if there are more than 500 arrangements, of course it is a very good transmission system
+
+1671
+01:05:12,200 --> 01:05:19,200
+So here they have, and there are Korean companies that are also doing this
+
+1672
+01:05:19,200 --> 01:05:22,700
+So the major countries are doing this
+
+1673
+01:05:22,700 --> 01:05:25,500
+The other one is to do non-human energy storage
+
+1674
+01:05:25,500 --> 01:05:28,800
+Inhumans have actually used it to store energy for a long time
+
+1675
+01:05:28,800 --> 01:05:33,800
+But that object is because you have kinetic energy, because the energy of rotation
+
+1676
+01:05:33,800 --> 01:05:36,400
+You let that thing if there is no friction a thing keeps turning
+
+1677
+01:05:36,400 --> 01:05:40,300
+You can treat it as if you turn it faster and faster to transfer energy into it
+
+1678
+01:05:40,300 --> 01:05:43,800
+When you want to take it out, let it work with a certain
+
+1679
+01:05:43,800 --> 01:05:47,100
+Let it think slowly, let it transfer energy to another
+
+1680
+01:05:47,100 --> 01:05:51,800
+As for this non-human being, it is of course better to use the drill now, because there is no friction
+
+1681
+01:05:51,800 --> 01:05:57,800
+So it can do a good job, the first one published by Superpower America
+
+1682
+01:06:00,000 --> 01:06:02,000
+Storage now saves energy
+
+1683
+01:06:02,000 --> 01:06:04,000
+stored energy is a large
+
+1684
+01:06:04,000 --> 01:06:08,000
+Staying true to energy is important
+
+1685
+01:06:08,000 --> 01:06:12,000
+So this is a very important technique
+
+1686
+01:06:12,000 --> 01:06:14,000
+Of course you can do what you just said
+
+1687
+01:06:14,000 --> 01:06:16,000
+NMR etc.
+
+1688
+01:06:16,000 --> 01:06:18,000
+you need big magnets
+
+1689
+01:06:18,000 --> 01:06:22,000
+Now of course in the collider of the High Energy Experiment
+
+1690
+01:06:22,000 --> 01:06:24,000
+They all use super old magnets.
+
+1691
+01:06:24,000 --> 01:06:26,000
+because it is relatively small
+
+1692
+01:06:26,000 --> 01:06:28,000
+but smaller
+
+1693
+01:06:28,000 --> 01:06:32,000
+But its amount and duration are much larger
+
+1694
+01:06:32,000 --> 01:06:33,000
+because it has no discretion
+
+1695
+01:06:33,000 --> 01:06:34,000
+so much better
+
+1696
+01:06:34,000 --> 01:06:36,000
+of course you have to cool it
+
+1697
+01:06:36,000 --> 01:06:39,000
+you need a cooling system
+
+1698
+01:06:39,000 --> 01:06:41,000
+OK but the confusion of high temperature superconductors
+
+1699
+01:06:41,000 --> 01:06:43,000
+Let's talk about its confusion now
+
+1700
+01:06:43,000 --> 01:06:45,000
+this all sounds good
+
+1701
+01:06:45,000 --> 01:06:48,000
+But we found a lot of strange things
+
+1702
+01:06:48,000 --> 01:06:51,000
+This is a picture we made ourselves
+
+1703
+01:06:51,000 --> 01:06:55,000
+I asked my postdoc to go and look up those things
+
+1704
+01:06:55,000 --> 01:06:57,000
+what does this picture mean
+
+1705
+01:06:57,000 --> 01:07:00,000
+This is its superconducting transition temperature
+
+1706
+01:07:00,000 --> 01:07:03,440
+with it at room temperature right now
+
+1707
+01:07:03,440 --> 01:07:06,040
+If you measure its resistivity
+
+1708
+01:07:06,240 --> 01:07:07,640
+you take log
+
+1709
+01:07:09,080 --> 01:07:11,200
+Because the number is far from
+
+1710
+01:07:11,200 --> 01:07:12,200
+many times
+
+1711
+01:07:12,200 --> 01:07:15,040
+So with this scheme, the difference is 10 to the power of one
+
+1712
+01:07:15,040 --> 01:07:16,840
+This is 10 to the power of -1
+
+1713
+01:07:16,840 --> 01:07:18,160
+This 10 to the power of -2
+
+1714
+01:07:18,160 --> 01:07:19,040
+Resistivity
+
+1715
+01:07:19,040 --> 01:07:21,040
+Then you can see these new
+
+1716
+01:07:22,400 --> 01:07:25,000
+superconducting iron
+
+1717
+01:07:25,240 --> 01:07:27,040
+all in this paragraph
+
+1718
+01:07:27,280 --> 01:07:28,840
+are high resistivity
+
+1719
+01:07:29,800 --> 01:07:31,800
+But they usually also have a higher TC
+
+1720
+01:07:32,040 --> 01:07:34,680
+But this one is old like quicksilver
+
+1721
+01:07:34,680 --> 01:07:37,000
+The 23 degrees mentioned just now are all here
+
+1722
+01:07:37,000 --> 01:07:38,680
+TC is lower here
+
+1723
+01:07:38,680 --> 01:07:42,880
+But its resistivity is very low at room temperature
+
+1724
+01:07:42,880 --> 01:07:45,200
+means it's a good metal
+
+1725
+01:07:45,640 --> 01:07:48,200
+You measure it at room temperature and say these are good metals
+
+1726
+01:07:48,200 --> 01:07:49,680
+these are bad metal
+
+1727
+01:07:50,800 --> 01:07:52,760
+Later found another MGB2
+
+1728
+01:07:52,760 --> 01:07:54,200
+See it is the same as the old one
+
+1729
+01:07:54,200 --> 01:07:55,720
+Its resistivity is also very low
+
+1730
+01:07:55,720 --> 01:07:57,120
+just at room temperature
+
+1731
+01:07:57,120 --> 01:07:58,640
+These are good conductors
+
+1732
+01:07:58,840 --> 01:08:00,120
+can be used for normal
+
+1733
+01:08:00,000 --> 01:08:03,000
+the same wire or something
+
+1734
+01:08:03,000 --> 01:08:05,000
+this is very good
+
+1735
+01:08:05,000 --> 01:08:07,000
+But this is all bad
+
+1736
+01:08:07,000 --> 01:08:09,000
+Here's a weirder one
+
+1737
+01:08:09,000 --> 01:08:10,000
+very complicated
+
+1738
+01:08:10,000 --> 01:08:13,000
+This is called organic
+
+1739
+01:08:13,000 --> 01:08:15,000
+organic superconductor
+
+1740
+01:08:15,000 --> 01:08:17,000
+Stranger and Larger Molecules
+
+1741
+01:08:17,000 --> 01:08:18,000
+very complicated
+
+1742
+01:08:18,000 --> 01:08:20,000
+This is also very resistive
+
+1743
+01:08:20,000 --> 01:08:22,000
+But the temperature is also around 20 degrees
+
+1744
+01:08:22,000 --> 01:08:24,000
+So it's kind of weird
+
+1745
+01:08:24,000 --> 01:08:26,000
+Usually we think
+
+1746
+01:08:26,000 --> 01:08:28,000
+More conductive metals should be better at superconducting
+
+1747
+01:08:28,000 --> 01:08:30,000
+that was the old idea
+
+1748
+01:08:30,000 --> 01:08:32,000
+BCS also predicts like this
+
+1749
+01:08:32,000 --> 01:08:36,000
+But now I find that this kind of new ones are not
+
+1750
+01:08:36,000 --> 01:08:38,000
+It's a bad resistor
+
+1751
+01:08:38,000 --> 01:08:39,000
+very bad
+
+1752
+01:08:39,000 --> 01:08:41,000
+On the contrary, superconducting temperature is very high
+
+1753
+01:08:41,000 --> 01:08:42,000
+this is strange
+
+1754
+01:08:42,000 --> 01:08:44,000
+The other is that these are bilingual systems
+
+1755
+01:08:44,000 --> 01:08:46,000
+is copper
+
+1756
+01:08:46,000 --> 01:08:48,000
+You see copper is a plane
+
+1757
+01:08:48,000 --> 01:08:49,000
+another plane
+
+1758
+01:08:49,000 --> 01:08:50,000
+another circle
+
+1759
+01:08:50,000 --> 01:08:53,000
+The main superconductivity is in the copper plane
+
+1760
+01:08:53,000 --> 01:08:56,000
+The main superconductivity is in the iron plane
+
+1761
+01:08:58,000 --> 01:09:00,000
+most
+
+1762
+01:09:00,000 --> 01:09:04,400
+They all look like two-dimensional systems when their electrons move
+
+1763
+01:09:04,400 --> 01:09:06,800
+It's not three-dimensional, so it's very different from before
+
+1764
+01:09:06,800 --> 01:09:08,800
+some features of this
+
+1765
+01:09:08,800 --> 01:09:12,800
+Something else weird is that these superconducting states
+
+1766
+01:09:12,800 --> 01:09:16,800
+If you dope you can make it superconducting or not superconducting
+
+1767
+01:09:16,800 --> 01:09:18,800
+But it's all similar to this magnetic
+
+1768
+01:09:18,800 --> 01:09:23,800
+This phase diagram is if I put different numbers to replace a certain atom
+
+1769
+01:09:23,800 --> 01:09:27,800
+If silk is used instead of blue, if it is replaced by a little
+
+1770
+01:09:27,800 --> 01:09:29,000
+The more I replace, the more I become superconducting
+
+1771
+01:09:29,000 --> 01:09:31,000
+Instead of a little I am antiferromagnetic
+
+1772
+01:09:31,000 --> 01:09:33,000
+is magnetic
+
+1773
+01:09:33,000 --> 01:09:36,000
+Upper wisdom and lower wisdom are ranked
+
+1774
+01:09:36,000 --> 01:09:38,000
+one up next next up
+
+1775
+01:09:38,000 --> 01:09:41,000
+It is equal to the blue, red, blue and red gold grids arranged well
+
+1776
+01:09:41,000 --> 01:09:43,000
+a square square
+
+1777
+01:09:43,000 --> 01:09:45,000
+Next to your blue is red
+
+1778
+01:09:45,000 --> 01:09:47,000
+blue next to red
+
+1779
+01:09:47,000 --> 01:09:49,000
+This is a well-arranged antiferromagnetic
+
+1780
+01:09:49,000 --> 01:09:53,000
+But if you put a little more in it, it becomes superconducting
+
+1781
+01:09:53,000 --> 01:09:55,000
+But it's so close
+
+1782
+01:09:55,000 --> 01:10:00,000
+Another point is that the product superconductivity of iron is the same
+
+1783
+01:10:00,000 --> 01:10:01,640
+they have many similarities
+
+1784
+01:10:01,640 --> 01:10:04,000
+But this is a phenomenon that the old superconductors did not have before.
+
+1785
+01:10:04,000 --> 01:10:06,140
+The farther away they are from persistence the better
+
+1786
+01:10:06,140 --> 01:10:07,740
+So there is no persistent material
+
+1787
+01:10:07,740 --> 01:10:09,440
+But this persistence is quite high
+
+1788
+01:10:09,440 --> 01:10:12,140
+The sustaining temperature is actually quite high, 300 degrees here
+
+1789
+01:10:13,640 --> 01:10:15,540
+so strong persistence
+
+1790
+01:10:15,540 --> 01:10:18,140
+But instead a very high superconducting temperature
+
+1791
+01:10:18,140 --> 01:10:19,340
+this is very strange
+
+1792
+01:10:19,340 --> 01:10:21,840
+This is the Waterfall team I was talking about
+
+1793
+01:10:21,840 --> 01:10:23,000
+don't like holding sex
+
+1794
+01:10:23,000 --> 01:10:24,540
+What did you do, persistent
+
+1795
+01:10:25,740 --> 01:10:28,120
+The organic superconductivity just mentioned
+
+1796
+01:10:28,120 --> 01:10:29,840
+also near here
+
+1797
+01:10:30,040 --> 01:10:33,640
+All the shopkeepers around here have poor sight temperatures
+
+1798
+01:10:34,880 --> 01:10:35,580
+don't even think about it
+
+1799
+01:10:35,580 --> 01:10:37,040
+because it has persistence in it
+
+1800
+01:10:37,040 --> 01:10:38,540
+bumping, bumping, bumping
+
+1801
+01:10:38,540 --> 01:10:39,840
+so it doesn't like
+
+1802
+01:10:40,840 --> 01:10:43,440
+But its superconducting temperature is very high
+
+1803
+01:10:44,040 --> 01:10:45,440
+Of course everyone thinks about it
+
+1804
+01:10:45,440 --> 01:10:46,840
+how do i solve this problem
+
+1805
+01:10:46,840 --> 01:10:49,740
+How can I help form a CooporPair
+
+1806
+01:10:49,740 --> 01:10:51,040
+Coopor team
+
+1807
+01:10:51,040 --> 01:10:53,240
+possible communication we have already talked about reproduction
+
+1808
+01:10:53,240 --> 01:10:54,440
+Of course everyone wants to do theory
+
+1809
+01:10:54,440 --> 01:10:56,740
+Of course you can sit at home and think a lot
+
+1810
+01:10:56,740 --> 01:10:58,200
+We also did this plasma
+
+1811
+01:10:58,200 --> 01:10:59,280
+Plasma
+
+1812
+01:10:59,280 --> 01:11:00,280
+Plasma
+
+1813
+01:11:00,000 --> 01:11:02,000
+You don't understand, it means you have a lot of batteries
+
+1814
+01:11:02,000 --> 01:11:07,000
+Because positively charged ions are on the grid
+
+1815
+01:11:07,000 --> 01:11:09,000
+Then you have electrons that can run around and it can go the right way
+
+1816
+01:11:09,000 --> 01:11:12,000
+Collective Righteous Way It is not just one or two electricity, many electric righteousness
+
+1817
+01:11:12,000 --> 01:11:15,000
+Of course, if there is the right way, there will be more batteries here.
+
+1818
+01:11:15,000 --> 01:11:18,000
+There is less battery over there, less battery looks like righteousness
+
+1819
+01:11:18,000 --> 01:11:23,000
+Positive and multi-battery, this kind of positive way can also cause two batteries
+
+1820
+01:11:23,000 --> 01:11:27,000
+Of course, this has never been found. This is a theory that is often said.
+
+1821
+01:11:27,000 --> 01:11:31,000
+And then there's another one that we notice because electrons also have a magnetic moment
+
+1822
+01:11:31,000 --> 01:11:35,000
+We just mentioned that there is a magnetic whirl, so we have the body just mentioned
+
+1823
+01:11:35,000 --> 01:11:39,000
+Everything uses the force of cool people because it uses electric charges
+
+1824
+01:11:39,000 --> 01:11:43,000
+We did not talk about the influence of the magnetic moment, if there is a magnetic moment
+
+1825
+01:11:43,000 --> 01:11:47,000
+It can also work by itself, just the magnetic force of the magnetic wire is working
+
+1826
+01:11:47,000 --> 01:11:52,000
+It doesn't have to rely on the effect of charge, so there are other possibilities.
+
+1827
+01:11:53,000 --> 01:11:56,000
+Then this is what I just said about high temperature exceeding the body. We just talked about it.
+
+1828
+01:11:56,000 --> 01:12:00,000
+This is the super-body mentioned by Naobiao.
+
+1829
+01:12:00,000 --> 01:12:02,800
+Replaced a little bit with back heel silk
+
+1830
+01:12:02,800 --> 01:12:04,600
+If not it's as simple as
+
+1831
+01:12:04,600 --> 01:12:05,920
+very nice a jingle
+
+1832
+01:12:05,920 --> 01:12:06,920
+well arranged
+
+1833
+01:12:06,920 --> 01:12:10,320
+The red inside is copper
+
+1834
+01:12:10,320 --> 01:12:11,520
+next to copper is oxygen
+
+1835
+01:12:11,520 --> 01:12:15,120
+Below the middle is a large pile of this blue or stone
+
+1836
+01:12:15,120 --> 01:12:16,920
+Blue if you want Ginger not
+
+1837
+01:12:16,920 --> 01:12:18,400
+That's copper oxide again
+
+1838
+01:12:18,400 --> 01:12:19,680
+Copper Oxygen Plane Again
+
+1839
+01:12:19,680 --> 01:12:20,560
+if so
+
+1840
+01:12:20,560 --> 01:12:22,160
+I drew all the copper planes
+
+1841
+01:12:22,160 --> 01:12:24,200
+it is each with a word string
+
+1842
+01:12:24,200 --> 01:12:26,200
+This is the anti-iron pool I just mentioned
+
+1843
+01:12:26,920 --> 01:12:28,200
+one up one down one up one down
+
+1844
+01:12:28,200 --> 01:12:30,400
+Well lined up
+
+1845
+01:12:30,400 --> 01:12:33,120
+This is its anti-iron pool
+
+1846
+01:12:33,120 --> 01:12:35,720
+But in fact we remember
+
+1847
+01:12:35,720 --> 01:12:39,280
+We are in a quantum world
+
+1848
+01:12:39,280 --> 01:12:41,480
+Quantum doesn't like things that don't move
+
+1849
+01:12:41,480 --> 01:12:42,280
+Didn't I say it just now?
+
+1850
+01:12:42,280 --> 01:12:43,200
+it doesn't like you not moving
+
+1851
+01:12:43,200 --> 01:12:44,600
+High energy due to motionless
+
+1852
+01:12:44,600 --> 01:12:46,480
+This sea cucumber treasure is not sure how far away
+
+1853
+01:12:46,480 --> 01:12:47,440
+so what does it do
+
+1854
+01:12:47,440 --> 01:12:48,960
+It still needs to exchange the two
+
+1855
+01:12:48,960 --> 01:12:50,840
+You can imagine everyone doing row after row
+
+1856
+01:12:50,840 --> 01:12:53,920
+Well done Blue Red Blue Red Ginger
+
+1857
+01:12:53,920 --> 01:12:55,480
+Swap the blue one with the red one
+
+1858
+01:12:55,480 --> 01:12:56,880
+exchange over there again
+
+1859
+01:12:56,880 --> 01:12:58,600
+swap it and swap it back
+
+1860
+01:12:58,600 --> 01:13:00,000
+just keep swapping
+
+1861
+01:13:00,000 --> 01:13:04,160
+it swaps to go , but an average of one-fifth swaps again
+
+1862
+01:13:05,200 --> 01:13:08,000
+If you take a photo at any time, about one-fifth of it is an exchange
+
+1863
+01:13:08,000 --> 01:13:10,000
+But most of them are in the right place
+
+1864
+01:13:11,000 --> 01:13:13,800
+This is probably the state when it is half full.
+
+1865
+01:13:14,600 --> 01:13:17,600
+This is because of quantum effects, making it exchange
+
+1866
+01:13:19,600 --> 01:13:22,600
+This exchange is like what you just said, think about it, it's like red
+
+1867
+01:13:22,600 --> 01:13:23,600
+but it can't run very far
+
+1868
+01:13:24,700 --> 01:13:26,600
+because it's coming back soon
+
+1869
+01:13:26,600 --> 01:13:29,700
+It's in the wrong place, the energy is a little higher
+
+1870
+01:13:29,700 --> 01:13:31,700
+so it likes to come back, after a while it jumps back
+
+1871
+01:13:31,700 --> 01:13:34,300
+But it's not okay to stay still, so it jumps around
+
+1872
+01:13:34,300 --> 01:13:38,100
+This is a very simple quantum action
+
+1873
+01:13:38,100 --> 01:13:42,700
+Now if we use back or silk instead
+
+1874
+01:13:42,700 --> 01:13:44,900
+There were originally three blue planes, but two on the back
+
+1875
+01:13:44,900 --> 01:13:47,300
+So it has one less electron
+
+1876
+01:13:47,700 --> 01:13:50,300
+So there are fewer electrons in it.
+
+1877
+01:13:50,900 --> 01:13:53,100
+The same surface suddenly lost an electron
+
+1878
+01:13:53,100 --> 01:13:55,900
+It means that there is a hole, that is, the electron is removed.
+
+1879
+01:13:55,900 --> 01:13:57,100
+it has an extra hole
+
+1880
+01:13:57,100 --> 01:13:59,900
+that's even better
+
+1881
+01:14:00,000 --> 01:14:01,860
+Because he just said he doesn't like to stop there
+
+1882
+01:14:01,860 --> 01:14:04,160
+He just jumps right into the hole now
+
+1883
+01:14:04,920 --> 01:14:07,540
+He has one more, the emperor can jump to the vacant seat
+
+1884
+01:14:07,540 --> 01:14:09,460
+So as soon as you have a void
+
+1885
+01:14:09,460 --> 01:14:12,460
+He started to play a little more role
+
+1886
+01:14:12,460 --> 01:14:16,060
+In addition to electron up-spin down-spin exchange
+
+1887
+01:14:16,060 --> 01:14:18,060
+he can jump with holes
+
+1888
+01:14:18,060 --> 01:14:18,760
+he keeps jumping
+
+1889
+01:14:18,760 --> 01:14:20,260
+This jump is great
+
+1890
+01:14:20,260 --> 01:14:22,700
+Because of jumping, this arrangement is gone.
+
+1891
+01:14:22,700 --> 01:14:25,060
+As you can imagine, there are a lot of vacancies now
+
+1892
+01:14:25,060 --> 01:14:27,140
+If you are a blue building and the next door is red
+
+1893
+01:14:27,140 --> 01:14:28,500
+You are now asking you to change chairs
+
+1894
+01:14:28,500 --> 01:14:31,200
+It won't be a mess after a while
+
+1895
+01:14:31,200 --> 01:14:35,500
+All of a sudden, the neatly arranged golden grids disappeared.
+
+1896
+01:14:36,840 --> 01:14:37,600
+gone soon
+
+1897
+01:14:37,600 --> 01:14:40,900
+Of course it was broken up with this
+
+1898
+01:14:40,900 --> 01:14:42,500
+He can move around again
+
+1899
+01:14:42,500 --> 01:14:43,740
+Now the team can
+
+1900
+01:14:43,740 --> 01:14:45,000
+not only in the original place
+
+1901
+01:14:45,000 --> 01:14:48,000
+It turns out that you are all near
+
+1902
+01:14:48,000 --> 01:14:50,340
+I can run far now
+
+1903
+01:14:50,340 --> 01:14:51,800
+this team can run
+
+1904
+01:14:51,800 --> 01:14:53,600
+This dry foil team starts again
+
+1905
+01:14:53,660 --> 01:14:54,960
+like the one i just said
+
+1906
+01:14:54,960 --> 01:14:57,560
+The situation where the dance was drawn
+
+1907
+01:14:57,560 --> 01:14:59,500
+he can run far
+
+1908
+01:14:59,500 --> 01:15:00,000
+because now there are
+
+1909
+01:15:00,000 --> 01:15:04,000
+If there is a hole, you can't run far without a hole, and if there is a hole, it's easy to run
+
+1910
+01:15:05,000 --> 01:15:11,000
+This spaced one, this adjacent one, this one because of fanning
+
+1911
+01:15:12,000 --> 01:15:15,000
+So there isn't such a strong force to keep him in the same position
+
+1912
+01:15:16,000 --> 01:15:17,000
+so he can run around
+
+1913
+01:15:18,000 --> 01:15:20,000
+Then dance with the Cooper team that we were talking about
+
+1914
+01:15:21,000 --> 01:15:23,000
+Come to think of it, it's actually very close
+
+1915
+01:15:24,000 --> 01:15:26,000
+It doesn't make a difference because he's doing the same thing
+
+1916
+01:15:27,000 --> 01:15:29,000
+One up, one down, one up and one down exchange over there
+
+1917
+01:15:30,000 --> 01:15:31,000
+he is going to run
+
+1918
+01:15:32,000 --> 01:15:36,000
+That, that, that, when he said it like this, it would be resolved, it was the reason for the guidance
+
+1919
+01:15:37,000 --> 01:15:40,000
+Of course it's not that simple, because if you take a closer look
+
+1920
+01:15:41,000 --> 01:15:43,000
+He still has a lot to crawl, but I don't talk about so much confusion today
+
+1921
+01:15:44,000 --> 01:15:47,000
+He has a lot of confusion, if you look carefully at any time, you will be confused
+
+1922
+01:15:48,000 --> 01:15:51,000
+There is a very important experiment, which is the reason for the development of Naimi Technology
+
+1923
+01:15:52,000 --> 01:15:57,000
+I just invented this, this, that is a picture number I copied from someone else’s online inspection
+
+1924
+01:15:57,000 --> 01:15:59,000
+This is called Scanning internally my...
+
+1925
+01:16:00,000 --> 01:16:02,000
+scanning through sleep microscope
+
+1926
+01:16:02,000 --> 01:16:04,000
+it has a very real extension
+
+1927
+01:16:04,000 --> 01:16:06,000
+This is your original sample
+
+1928
+01:16:06,000 --> 01:16:08,000
+If you add a little bit of voltage to the current
+
+1929
+01:16:08,000 --> 01:16:10,000
+There are electrons that wear and sleep from here
+
+1930
+01:16:10,000 --> 01:16:12,000
+what can this do
+
+1931
+01:16:12,000 --> 01:16:14,000
+can measure its height
+
+1932
+01:16:14,000 --> 01:16:16,000
+each of which can be measured
+
+1933
+01:16:16,000 --> 01:16:18,000
+In particular, different electron densities are different
+
+1934
+01:16:18,000 --> 01:16:20,000
+it can measure anything
+
+1935
+01:16:20,000 --> 01:16:22,000
+This is called STM
+
+1936
+01:16:22,000 --> 01:16:24,000
+叫Scanning internally micro
+
+1937
+01:16:24,000 --> 01:16:26,000
+This is the work that won the Nobel Prize
+
+1938
+01:16:26,000 --> 01:16:28,000
+The whole nanotechnology starts here
+
+1939
+01:16:28,000 --> 01:16:30,000
+Then if you read what I just said
+
+1940
+01:16:30,000 --> 01:16:32,000
+High temperature superconducting samples
+
+1941
+01:16:32,000 --> 01:16:34,000
+You see what it measures
+
+1942
+01:16:34,000 --> 01:16:36,000
+under the same voltage
+
+1943
+01:16:36,000 --> 01:16:38,000
+This current is very uneven
+
+1944
+01:16:38,000 --> 01:16:40,000
+If you look closely, it is very uneven
+
+1945
+01:16:40,000 --> 01:16:42,000
+It's a bit like we're uneven here
+
+1946
+01:16:44,000 --> 01:16:46,000
+very messy
+
+1947
+01:16:46,000 --> 01:16:48,000
+the one i was talking about
+
+1948
+01:16:48,000 --> 01:16:50,000
+Ordinary superconductors are different
+
+1949
+01:16:50,000 --> 01:16:52,000
+Normal superconductors are perfect
+
+1950
+01:16:52,000 --> 01:16:54,000
+This is superconducting too cool
+
+1951
+01:16:54,000 --> 01:16:56,000
+it's very uneven
+
+1952
+01:16:56,000 --> 01:16:58,000
+Then carefully put this into these ten nanometers
+
+1953
+01:17:00,000 --> 01:17:01,000
+you make it bigger
+
+1954
+01:17:01,000 --> 01:17:03,400
+This is only four nanometers
+
+1955
+01:17:03,760 --> 01:17:04,600
+you make it bigger
+
+1956
+01:17:04,600 --> 01:17:05,400
+Zoom in again
+
+1957
+01:17:05,400 --> 01:17:06,760
+it looks at every atom
+
+1958
+01:17:06,760 --> 01:17:08,360
+every copper atom
+
+1959
+01:17:08,360 --> 01:17:09,600
+between two atoms
+
+1960
+01:17:09,600 --> 01:17:10,760
+you are uneven
+
+1961
+01:17:11,160 --> 01:17:15,160
+this is incredible this measurement
+
+1962
+01:17:15,160 --> 01:17:16,120
+we have a colleague now
+
+1963
+01:17:16,120 --> 01:17:17,400
+There are ways to measure more like this
+
+1964
+01:17:17,800 --> 01:17:19,120
+This makes its measurement
+
+1965
+01:17:19,400 --> 01:17:21,000
+measure out
+
+1966
+01:17:21,400 --> 01:17:22,600
+These are uneven
+
+1967
+01:17:23,200 --> 01:17:25,000
+Electrons are not uniform in this
+
+1968
+01:17:25,000 --> 01:17:28,200
+This is like the dance I just mentioned
+
+1969
+01:17:28,200 --> 01:17:30,000
+there's more in dancing
+
+1970
+01:17:30,800 --> 01:17:31,800
+more complicated
+
+1971
+01:17:32,400 --> 01:17:35,000
+here's this jump time
+
+1972
+01:17:35,000 --> 01:17:37,000
+There is a group of people walking to the left
+
+1973
+01:17:37,000 --> 01:17:39,200
+There is a group of that Couple going to the right
+
+1974
+01:17:39,400 --> 01:17:41,000
+So I will think a lot here
+
+1975
+01:17:41,000 --> 01:17:42,000
+less here
+
+1976
+01:17:42,200 --> 01:17:45,400
+Just started everyone has updated shots
+
+1977
+01:17:45,400 --> 01:17:46,900
+Not only did it jump like this
+
+1978
+01:17:46,900 --> 01:17:51,000
+It also has a certain mutual motion with each other
+
+1979
+01:17:51,200 --> 01:17:52,200
+that's what you can imagine
+
+1980
+01:17:52,200 --> 01:17:54,000
+Some earth dances are so complicated
+
+1981
+01:17:55,000 --> 01:17:56,400
+Jumping is so complicated
+
+1982
+01:17:56,600 --> 01:17:58,200
+This electron does complicated things
+
+1983
+01:17:58,400 --> 01:18:00,000
+it's still uneven
+
+1984
+01:18:00,000 --> 01:18:03,800
+It's in Cao Daotai, so this is very novel
+
+1985
+01:18:03,800 --> 01:18:08,500
+This is the old one from the past, it is the traditional Caodao, and it is completely non-existent
+
+1986
+01:18:08,500 --> 01:18:11,500
+Impossible things are here
+
+1987
+01:18:11,500 --> 01:18:14,500
+It started to have various variations again
+
+1988
+01:18:14,500 --> 01:18:17,000
+This is what I just mentioned above
+
+1989
+01:18:17,000 --> 01:18:20,500
+When the force is very strong, the force here is of course very strong
+
+1990
+01:18:20,500 --> 01:18:24,500
+The force of Kuren is very strong, this is a very strange thing
+
+1991
+01:18:24,500 --> 01:18:27,500
+The strong Kuren force has a very high Caodao temperature
+
+1992
+01:18:28,500 --> 01:18:33,000
+That's the complete opposite, completely different from what we usually imagine
+
+1993
+01:18:33,000 --> 01:18:37,500
+So in the bcs theory here is a big problem
+
+1994
+01:18:37,500 --> 01:18:42,500
+Now everyone believes that probably the bcs theory cannot explain this phenomenon
+
+1995
+01:18:42,500 --> 01:18:46,500
+The main reason is that there is complexity
+
+1996
+01:18:46,500 --> 01:18:50,000
+Far beyond this simplest theory
+
+1997
+01:18:50,000 --> 01:18:53,000
+So this is why we have been studying this for so many years
+
+1998
+01:18:53,500 --> 01:18:58,000
+Now we understand that the electricity and number of this are different here
+
+1999
+01:18:58,000 --> 01:18:59,500
+everything is different
+
+2000
+01:19:00,000 --> 01:19:05,000
+We haven’t measured this until the experiment. We can tell him that it’s different.
+
+2001
+01:19:05,000 --> 01:19:09,000
+Now let's finally talk about higher superconducting temperatures.
+
+2002
+01:19:09,000 --> 01:19:13,000
+There are several possibilities, one is to find new materials
+
+2003
+01:19:13,000 --> 01:19:17,000
+Then this is a new one just mentioned, this is actually just now
+
+2004
+01:19:17,000 --> 01:19:21,000
+This is the first quick delivery made by Academician Wu Maokun.
+
+2005
+01:19:21,000 --> 01:19:24,000
+People develop it into a plane
+
+2006
+01:19:24,000 --> 01:19:29,000
+This is an incredible technique on one material
+
+2007
+01:19:29,000 --> 01:19:34,000
+I don’t know how to say this in Chinese Stranding Titanium Oxide
+
+2008
+01:19:34,000 --> 01:19:39,000
+On top of this material, grow a layer on a very thin material
+
+2009
+01:19:39,000 --> 01:19:46,000
+It is one layer of iron and T, iron and C, one layer of iron C
+
+2010
+01:19:46,000 --> 01:19:50,000
+Then they measure the superconducting temperature, there are many papers
+
+2011
+01:19:50,000 --> 01:19:55,000
+It came out in this journal that the superconducting temperature should reach 100
+
+2012
+01:19:55,000 --> 01:19:59,000
+09 degrees
+
+2013
+01:20:00,000 --> 01:20:01,780
+it must be shaken to death
+
+2014
+01:20:01,780 --> 01:20:05,540
+But 65 degrees is probably no problem.
+
+2015
+01:20:05,540 --> 01:20:07,540
+109 degrees will shock you to death
+
+2016
+01:20:07,540 --> 01:20:11,780
+But that temperature is only 8 degrees higher than the original temperature of this thing
+
+2017
+01:20:11,780 --> 01:20:13,480
+It's time to make a wish without fainting
+
+2018
+01:20:13,480 --> 01:20:14,980
+That temperature is only 8 degrees
+
+2019
+01:20:14,980 --> 01:20:16,480
+Now people use this method
+
+2020
+01:20:16,480 --> 01:20:18,180
+When it is not the same as it is made
+
+2021
+01:20:18,180 --> 01:20:19,180
+why?
+
+2022
+01:20:19,180 --> 01:20:22,380
+that may be new physics on this surface
+
+2023
+01:20:22,380 --> 01:20:24,280
+This is the mechanism we just disturbed
+
+2024
+01:20:24,280 --> 01:20:27,180
+This is what experiments tell us
+
+2025
+01:20:27,180 --> 01:20:29,780
+The temperature here is much, much higher than before.
+
+2026
+01:20:29,780 --> 01:20:31,780
+This mechanism may not be the original
+
+2027
+01:20:31,780 --> 01:20:33,780
+Then it has a new possibility
+
+2028
+01:20:33,780 --> 01:20:35,780
+that's certainly possible
+
+2029
+01:20:35,780 --> 01:20:40,780
+Because it is possible that the biomass here has a great influence on it
+
+2030
+01:20:40,780 --> 01:20:44,780
+But here the biomass influence is very large causing this electron
+
+2031
+01:20:44,780 --> 01:20:45,780
+because it is compartment
+
+2032
+01:20:45,780 --> 01:20:46,780
+The electron is still here
+
+2033
+01:20:46,780 --> 01:20:48,780
+So I didn't trap it very hard
+
+2034
+01:20:48,780 --> 01:20:50,780
+Didn't dig it deep just now
+
+2035
+01:20:50,780 --> 01:20:52,780
+so it can run fast
+
+2036
+01:20:52,780 --> 01:20:54,780
+But electrons are strong
+
+2037
+01:20:54,780 --> 01:20:59,780
+So it is possible that its superconducting temperature increases
+
+2038
+01:21:00,000 --> 01:21:07,000
+This lead is a hot end of term doing research
+
+2039
+01:21:07,000 --> 01:21:12,000
+You can see that this paper is very popular at the end of the term
+
+2040
+01:21:12,000 --> 01:21:15,000
+This guide pull is an interesting idea
+
+2041
+01:21:15,000 --> 01:21:19,000
+Some people have thought about using this interface to control
+
+2042
+01:21:19,000 --> 01:21:23,000
+an electron in a layer
+
+2043
+01:21:23,000 --> 01:21:25,000
+that rope is on another layer
+
+2044
+01:21:25,000 --> 01:21:26,000
+or positively charged on another layer
+
+2045
+01:21:26,000 --> 01:21:28,000
+Your negative charge is on another layer
+
+2046
+01:21:28,000 --> 01:21:30,000
+How to control? This Nimi technology is here
+
+2047
+01:21:30,000 --> 01:21:32,000
+We can now control the material
+
+2048
+01:21:32,000 --> 01:21:37,000
+Think of ways to make a variety of such interfaces to
+
+2049
+01:21:37,000 --> 01:21:39,000
+This can also increase the operating temperature
+
+2050
+01:21:39,000 --> 01:21:42,000
+Another more exciting thing is that under high pressure
+
+2051
+01:21:42,000 --> 01:21:44,000
+Just now we said that increasing the high pressure is a
+
+2052
+01:21:44,000 --> 01:21:48,000
+But this high pressure is as high as 200GP
+
+2053
+01:21:48,000 --> 01:21:50,000
+There are only a few in the world
+
+2054
+01:21:50,000 --> 01:21:52,000
+Someone use this ability to do this high pressure
+
+2055
+01:21:52,000 --> 01:21:55,000
+The person who mainly made this
+
+2056
+01:21:55,000 --> 01:21:58,000
+I used to do a post with that Wang Heguangyuan
+
+2057
+01:22:00,000 --> 01:22:01,000
+Aremes
+
+2058
+01:22:01,240 --> 01:22:03,840
+they recently discovered
+
+2059
+01:22:04,080 --> 01:22:07,000
+Everyone thinks of Liu Huaqing smelling bad
+
+2060
+01:22:07,280 --> 01:22:10,880
+In Jiang Mishan, you may often smell some
+
+2061
+01:22:10,880 --> 01:22:12,360
+This is of course poisonous proof
+
+2062
+01:22:12,360 --> 01:22:13,080
+not good
+
+2063
+01:22:13,080 --> 01:22:14,800
+very bad gas
+
+2064
+01:22:14,800 --> 01:22:15,920
+this is fine now
+
+2065
+01:22:15,920 --> 01:22:18,040
+Squeeze the shit out of it
+
+2066
+01:22:18,640 --> 01:22:20,960
+Physicists are crazy
+
+2067
+01:22:20,960 --> 01:22:22,160
+Of course it makes sense
+
+2068
+01:22:22,160 --> 01:22:23,960
+squeeze it down
+
+2069
+01:22:24,600 --> 01:22:26,400
+He said 200 shower 3 degrees
+
+2070
+01:22:27,800 --> 01:22:28,600
+Oops
+
+2071
+01:22:29,320 --> 01:22:31,040
+Of course if he's proven right
+
+2072
+01:22:31,040 --> 01:22:33,200
+This is the job Noble talked about again.
+
+2073
+01:22:34,160 --> 01:22:35,480
+But this problem is difficult to prove
+
+2074
+01:22:35,480 --> 01:22:37,280
+Because few people have 200
+
+2075
+01:22:37,640 --> 01:22:38,840
+Gagapet kettle
+
+2076
+01:22:39,760 --> 01:22:41,280
+This instrument and especially complex
+
+2077
+01:22:41,280 --> 01:22:41,920
+he does
+
+2078
+01:22:41,920 --> 01:22:44,720
+This is of course an early theory
+
+2079
+01:22:45,200 --> 01:22:45,920
+let me talk about theory
+
+2080
+01:22:45,920 --> 01:22:48,440
+Anyway, it doesn't cost anything
+
+2081
+01:22:48,440 --> 01:22:52,360
+Said that maybe in such a material
+
+2082
+01:22:52,360 --> 01:22:53,360
+Kiyomi
+
+2083
+01:22:53,520 --> 01:22:55,680
+Because everyone thinks clearly
+
+2084
+01:22:55,680 --> 01:22:57,040
+So vibrate so much
+
+2085
+01:22:57,040 --> 01:22:58,640
+high frequency of vibration
+
+2086
+01:23:00,000 --> 01:23:03,020
+Farmers’ comments are also very high, which is related to the BCS theory just mentioned
+
+2087
+01:23:03,020 --> 01:23:06,400
+It is easy to operate and the temperature will increase
+
+2088
+01:23:06,900 --> 01:23:09,100
+That is what I want to say, if farmers are not orthodox, they must not operate
+
+2089
+01:23:09,800 --> 01:23:11,200
+The more orthodox, the better
+
+2090
+01:23:12,400 --> 01:23:14,100
+The higher the comment, the better
+
+2091
+01:23:14,400 --> 01:23:16,700
+So very early on Prediction said
+
+2092
+01:23:16,800 --> 01:23:19,800
+Theoretically speaking, it’s more than three hundred. Of course, no one believes it when they come here often
+
+2093
+01:23:19,900 --> 01:23:22,800
+How could it be more than 200 or 300 to do this job?
+
+2094
+01:23:22,800 --> 01:23:25,500
+But these they do, of course I don't know if this is this
+
+2095
+01:23:26,500 --> 01:23:31,500
+Of course this is, because everyone knows that it is easy for electrons to escape
+
+2096
+01:23:31,600 --> 01:23:34,900
+But it is also easy to become H-minor, there are two electrons coming
+
+2097
+01:23:35,400 --> 01:23:36,200
+one more electron
+
+2098
+01:23:36,900 --> 01:23:38,300
+So it's kind of like Cooper Pet
+
+2099
+01:23:38,300 --> 01:23:39,900
+From here to here there is a couple
+
+2100
+01:23:41,300 --> 01:23:42,600
+so this is interesting
+
+2101
+01:23:43,000 --> 01:23:45,300
+Is there an extra physics
+
+2102
+01:23:45,300 --> 01:23:47,000
+Not so simple physics
+
+2103
+01:23:47,000 --> 01:23:48,600
+Of course this has not been confirmed
+
+2104
+01:23:48,600 --> 01:23:51,300
+I'm just talking, that is to say, I have some new ideas
+
+2105
+01:23:51,400 --> 01:23:55,100
+That is, if we find a stronger force
+
+2106
+01:23:55,500 --> 01:23:57,800
+It is not necessary to say that we cannot
+
+2107
+01:23:57,800 --> 01:24:00,000
+But of course how do you prevent what I just said
+
+2108
+01:24:00,000 --> 01:24:01,800
+nothing else to add
+
+2109
+01:24:01,800 --> 01:24:03,600
+because you tied it too tight
+
+2110
+01:24:03,600 --> 01:24:05,200
+It's simple and it's not too tight
+
+2111
+01:24:05,200 --> 01:24:06,900
+Because the person itself will vibrate very much
+
+2112
+01:24:06,900 --> 01:24:08,400
+so maybe not tied too tight
+
+2113
+01:24:08,400 --> 01:24:10,800
+It's hard to tie a kiss too tight
+
+2114
+01:24:11,500 --> 01:24:12,800
+because it is very light
+
+2115
+01:24:14,400 --> 01:24:16,600
+So the problem is under this
+
+2116
+01:24:16,600 --> 01:24:19,700
+There may also be other operators
+
+2117
+01:24:19,700 --> 01:24:23,800
+Of course you will often see it in newspapers
+
+2118
+01:24:23,800 --> 01:24:25,100
+And who found another operator
+
+2119
+01:24:25,100 --> 01:24:27,400
+this will be a lot
+
+2120
+01:24:27,400 --> 01:24:29,800
+we used to joke a lot
+
+2121
+01:24:29,800 --> 01:24:30,800
+this is called
+
+2122
+01:24:30,800 --> 01:24:33,400
+We are called UFO and everyone knows that
+
+2123
+01:24:33,400 --> 01:24:35,400
+Unidentified Flying Object
+
+2124
+01:24:35,400 --> 01:24:39,200
+It's just an unidentified flying object.
+
+2125
+01:24:39,200 --> 01:24:41,000
+what is flying
+
+2126
+01:24:41,000 --> 01:24:43,400
+We often say that this superconducting world also has
+
+2127
+01:24:43,400 --> 01:24:46,800
+USO Unidentified Superconducting Object
+
+2128
+01:24:46,800 --> 01:24:47,800
+superconducting
+
+2129
+01:24:47,800 --> 01:24:48,800
+many people posted
+
+2130
+01:24:48,800 --> 01:24:50,300
+i see 300 degrees
+
+2131
+01:24:50,300 --> 01:24:52,300
+I saw 200 for a while
+
+2132
+01:24:52,300 --> 01:24:53,400
+head pass
+
+2133
+01:24:53,400 --> 01:24:55,100
+haven't found it for so many years
+
+2134
+01:24:55,100 --> 01:24:57,600
+But of course there is some evidence here
+
+2135
+01:24:57,600 --> 01:25:00,000
+Some of its rugs still look obvious
+
+2136
+01:25:00,000 --> 01:25:02,820
+But it's obviously early. Why on earth?
+
+2137
+01:25:03,120 --> 01:25:05,120
+I don't know if it's really too high
+
+2138
+01:25:05,120 --> 01:25:08,360
+But this question
+
+2139
+01:25:08,360 --> 01:25:10,460
+Lume Temporary called this dream
+
+2140
+01:25:10,620 --> 01:25:12,260
+i think we'll always have
+
+2141
+01:25:12,860 --> 01:25:14,800
+I thank you all for this
+
+2142
+01:25:14,800 --> 01:25:16,600
+I also thank my assistants
+
+2143
+01:25:17,160 --> 01:25:19,660
+Professor Chen Yingqian gave me a lot of slides
+
+2144
+01:25:19,660 --> 01:25:22,060
+Principal Wu Maokun gave me some slides
+
+2145
+01:25:22,060 --> 01:25:23,660
+but thanks for their help
+
+2146
+01:25:23,660 --> 01:25:24,660
+thank you all
+
+2147
+01:25:28,260 --> 01:25:29,260
+Okay, thank you
+
+2148
+01:25:30,160 --> 01:25:31,660
+well timed
+
+2149
+01:25:32,660 --> 01:25:33,660
+good
+
+2150
+01:25:33,660 --> 01:25:34,660
+you
+
+2151
+01:25:35,360 --> 01:25:36,660
+Do you have any questions?
+
+2152
+01:25:36,660 --> 01:25:37,160
+or
+
+2153
+01:25:37,960 --> 01:25:38,960
+please
+
+2154
+01:25:40,160 --> 01:25:42,460
+Thank you teacher for a very wonderful speech
+
+2155
+01:25:42,460 --> 01:25:44,860
+Let me first admit that I am a student of biology
+
+2156
+01:25:44,860 --> 01:25:45,860
+so
+
+2157
+01:25:45,860 --> 01:25:48,460
+I don't really understand the details
+
+2158
+01:25:48,460 --> 01:25:50,360
+but in my mind
+
+2159
+01:25:50,360 --> 01:25:51,760
+I used to send
+
+2160
+01:25:51,760 --> 01:25:53,100
+It has been said since the beginning of the year
+
+2161
+01:25:53,100 --> 01:25:55,160
+start as a single atomic material
+
+2162
+01:25:55,160 --> 01:25:57,260
+Later, it gradually became multi-atomic
+
+2163
+01:25:57,260 --> 01:25:59,860
+In my impression, at that super high temperature
+
+2164
+01:26:00,000 --> 01:26:02,200
+When the super-heated high temperature jumps
+
+2165
+01:26:02,200 --> 01:26:04,720
+It seems to have been predicted
+
+2166
+01:26:04,720 --> 01:26:06,320
+the composite material
+
+2167
+01:26:06,320 --> 01:26:09,600
+Is the atom in it replaced by which one?
+
+2168
+01:26:09,600 --> 01:26:11,520
+it may become high temperature
+
+2169
+01:26:11,520 --> 01:26:13,200
+Then it was math
+
+2170
+01:26:13,200 --> 01:26:15,880
+Forget it, which element may be extrapolated later
+
+2171
+01:26:15,880 --> 01:26:17,640
+The substitution was successful.
+
+2172
+01:26:17,640 --> 01:26:20,480
+That's especially new from what you introduced today
+
+2173
+01:26:20,480 --> 01:26:21,600
+Two cases in 2015
+
+2174
+01:26:21,600 --> 01:26:22,920
+that's what i think
+
+2175
+01:26:22,920 --> 01:26:24,480
+i think at that time
+
+2176
+01:26:24,480 --> 01:26:27,800
+Of course they're a bit disrespectful
+
+2177
+01:26:27,800 --> 01:26:29,520
+This is quite a lot
+
+2178
+01:26:29,520 --> 01:26:33,440
+The blue quilt is the same one that won the Nobel Prize
+
+2179
+01:26:33,440 --> 01:26:34,960
+he is not for this reason
+
+2180
+01:26:34,960 --> 01:26:36,840
+His reason is not calculation
+
+2181
+01:26:36,840 --> 01:26:40,280
+His idea was to increase the effect of electroplasma
+
+2182
+01:26:40,280 --> 01:26:41,400
+he knows this
+
+2183
+01:26:41,400 --> 01:26:42,400
+usually this
+
+2184
+01:26:42,400 --> 01:26:44,480
+These are ceramic materials weird
+
+2185
+01:26:44,480 --> 01:26:46,040
+I just talked about these new high temperatures
+
+2186
+01:26:46,040 --> 01:26:48,480
+The Blue Bell of Taobao body is the same
+
+2187
+01:26:48,480 --> 01:26:50,000
+Mao Kun Zhu Jin Weapon
+
+2188
+01:26:50,000 --> 01:26:52,080
+they found out
+
+2189
+01:26:52,080 --> 01:26:54,440
+ceramic material is very fragile
+
+2190
+01:26:54,440 --> 01:26:55,840
+That's what you can't imagine saying
+
+2191
+01:26:55,840 --> 01:26:57,160
+it becomes superconducting
+
+2192
+01:26:57,160 --> 01:26:58,520
+but he made it superconducting
+
+2193
+01:26:58,520 --> 01:27:00,120
+So they know that there are electric
+
+2194
+01:27:00,000 --> 01:27:04,000
+So the original Bandau's Mule was for electric birth to many people
+
+2195
+01:27:04,000 --> 01:27:06,000
+He did it to see if the temperature was up to
+
+2196
+01:27:06,000 --> 01:27:08,000
+As a result, he found that the temperature was very high
+
+2197
+01:27:08,000 --> 01:27:11,000
+Of course, now we know that he has nothing to do with the effect of electrogenesis
+
+2198
+01:27:11,000 --> 01:27:13,000
+It's not for that reason that it becomes over
+
+2199
+01:27:13,000 --> 01:27:18,000
+but usually the right answer for the wrong reasons
+
+2200
+01:27:18,000 --> 01:27:20,000
+That's okay too
+
+2201
+01:27:20,000 --> 01:27:22,000
+This is what science is all about.
+
+2202
+01:27:22,000 --> 01:27:26,000
+Then he is single, you just talked about calculating
+
+2203
+01:27:26,000 --> 01:27:29,000
+In fact, many people have calculated many materials and said that the temperature is very high
+
+2204
+01:27:29,000 --> 01:27:31,000
+Experiments that were wrong at first proved to be wrong
+
+2205
+01:27:31,000 --> 01:27:32,000
+we are not right yet
+
+2206
+01:27:32,000 --> 01:27:34,000
+So I just said the last one, I don’t know if it’s right
+
+2207
+01:27:34,000 --> 01:27:37,000
+Most of them are 99% wrong
+
+2208
+01:27:37,000 --> 01:27:39,000
+what you imagine is not real
+
+2209
+01:27:39,000 --> 01:27:41,000
+Yeah, I want to ask this too
+
+2210
+01:27:41,000 --> 01:27:44,000
+Because that microscope that just looked at that tunnel
+
+2211
+01:27:44,000 --> 01:27:46,000
+It looks like another rule
+
+2212
+01:27:46,000 --> 01:27:49,000
+You also mentioned that it may have another physical law
+
+2213
+01:27:49,000 --> 01:27:50,000
+In fact, it is not clear
+
+2214
+01:27:50,000 --> 01:27:51,000
+have what
+
+2215
+01:27:51,000 --> 01:27:53,000
+another physical phenomenon
+
+2216
+01:27:53,000 --> 01:27:56,000
+That is, can these be described by mathematics?
+
+2217
+01:27:56,000 --> 01:27:58,000
+I think the extrapolated way
+
+2218
+01:27:58,000 --> 01:28:00,000
+is described by mathematics
+
+2219
+01:28:00,000 --> 01:28:03,240
+you don't really quantify
+
+2220
+01:28:03,240 --> 01:28:06,840
+Then you can't really predict
+
+2221
+01:28:06,840 --> 01:28:08,440
+Many experiments are useless
+
+2222
+01:28:08,440 --> 01:28:10,040
+theory is to quantify
+
+2223
+01:28:10,040 --> 01:28:11,640
+It is useful to predict
+
+2224
+01:28:11,640 --> 01:28:15,440
+So all the talking things have to be spread out
+
+2225
+01:28:15,440 --> 01:28:16,640
+only useful
+
+2226
+01:28:16,640 --> 01:28:18,040
+so must
+
+2227
+01:28:18,040 --> 01:28:20,040
+so even though
+
+2228
+01:28:20,040 --> 01:28:24,600
+I talked about such a miraculous quantum state
+
+2229
+01:28:24,600 --> 01:28:25,840
+macroscopic quantum state
+
+2230
+01:28:25,840 --> 01:28:27,440
+Giants are rare
+
+2231
+01:28:27,440 --> 01:28:28,640
+Then this is beyond
+
+2232
+01:28:28,800 --> 01:28:30,080
+If in the test
+
+2233
+01:28:30,080 --> 01:28:31,240
+I say this
+
+2234
+01:28:31,240 --> 01:28:32,240
+so it's a big deal
+
+2235
+01:28:32,240 --> 01:28:33,480
+because only
+
+2236
+01:28:33,480 --> 01:28:37,040
+Only after sniffing our little quantum mechanics
+
+2237
+01:28:37,040 --> 01:28:39,000
+should not be very important
+
+2238
+01:28:39,000 --> 01:28:40,720
+Then if there is a huge amount
+
+2239
+01:28:40,720 --> 01:28:42,880
+Of course it's a great thing
+
+2240
+01:28:42,880 --> 01:28:45,080
+this is difficult
+
+2241
+01:28:45,080 --> 01:28:46,840
+Because the quantum state must
+
+2242
+01:28:46,840 --> 01:28:48,720
+should be kept at a very low temperature
+
+2243
+01:28:48,720 --> 01:28:51,880
+small size
+
+2244
+01:28:51,880 --> 01:28:53,280
+but now it's about
+
+2245
+01:28:53,280 --> 01:28:55,480
+It was a big size just now
+
+2246
+01:28:55,480 --> 01:28:56,640
+you have seen
+
+2247
+01:28:56,640 --> 01:28:59,080
+The performance of the quantum state
+
+2248
+01:29:00,000 --> 01:29:02,920
+This is likely to have more
+
+2249
+01:29:03,260 --> 01:29:06,400
+So we wish to find the temperature
+
+2250
+01:29:06,820 --> 01:29:07,820
+All four temperatures are superconducting
+
+2251
+01:29:07,820 --> 01:29:09,700
+You have to reheat it so it doesn't superconduct
+
+2252
+01:29:10,260 --> 01:29:12,700
+this is dream
+
+2253
+01:29:13,140 --> 01:29:17,100
+It would be a very good thing if it came out
+
+2254
+01:29:18,540 --> 01:29:19,880
+This is still difficult
+
+2255
+01:29:20,220 --> 01:29:20,720
+There are a lot more
+
+2256
+01:29:20,720 --> 01:29:22,760
+Of course it is because of difficulties
+
+2257
+01:29:22,940 --> 01:29:24,740
+we have research to do
+
+2258
+01:29:26,220 --> 01:29:26,460
+please
+
+2259
+01:29:27,340 --> 01:29:28,660
+ask the professor
+
+2260
+01:29:28,980 --> 01:29:32,900
+The one that just experimented with the one that floated
+
+2261
+01:29:32,900 --> 01:29:35,900
+It's also called the principle of Chifu
+
+2262
+01:29:35,900 --> 01:29:36,180
+Yes or no
+
+2263
+01:29:36,180 --> 01:29:36,580
+right
+
+2264
+01:29:36,820 --> 01:29:41,500
+Excuse me, the rotten train in Japan that you just introduced
+
+2265
+01:29:41,900 --> 01:29:42,860
+this is the principle
+
+2266
+01:29:43,180 --> 01:29:45,060
+So that means their train is running
+
+2267
+01:29:45,060 --> 01:29:47,220
+Will there be a lot of smoke?
+
+2268
+01:29:48,340 --> 01:29:48,820
+No
+
+2269
+01:29:48,820 --> 01:29:49,380
+certainly
+
+2270
+01:29:49,900 --> 01:29:51,260
+we can't help it
+
+2271
+01:29:52,060 --> 01:29:54,540
+if we cover you up
+
+2272
+01:29:54,660 --> 01:29:56,780
+Then put another train on top of it
+
+2273
+01:29:56,820 --> 01:29:58,740
+Toys can be compared and analyzed like this
+
+2274
+01:29:58,740 --> 01:30:00,020
+Put another toy on top
+
+2275
+01:30:00,000 --> 01:30:01,400
+You can't see the train from above
+
+2276
+01:30:01,400 --> 01:30:03,240
+just sealed it up inside
+
+2277
+01:30:03,240 --> 01:30:05,080
+that liquid doesn't evaporate
+
+2278
+01:30:05,080 --> 01:30:08,640
+it has a cooling system all closed
+
+2279
+01:30:08,640 --> 01:30:11,400
+This way it will last longer
+
+2280
+01:30:11,400 --> 01:30:12,260
+This cooling system
+
+2281
+01:30:12,260 --> 01:30:13,560
+So probably save this
+
+2282
+01:30:13,560 --> 01:30:14,760
+it keeps it sealed
+
+2283
+01:30:14,760 --> 01:30:15,760
+you can't see the smoke
+
+2284
+01:30:15,760 --> 01:30:18,680
+So their shameful car is going
+
+2285
+01:30:18,680 --> 01:30:20,440
+smoke is invisible
+
+2286
+01:30:20,440 --> 01:30:22,040
+we taiwan
+
+2287
+01:30:22,040 --> 01:30:24,280
+I remember almost 20 years ago
+
+2288
+01:30:24,280 --> 01:30:29,400
+That explosive magazine has talked about this shameful car
+
+2289
+01:30:29,480 --> 01:30:31,800
+But to this day, there is still no Taiwan
+
+2290
+01:30:31,800 --> 01:30:33,240
+then ask the professor
+
+2291
+01:30:33,240 --> 01:30:37,560
+Will there be superconducting cars in the future?
+
+2292
+01:30:37,560 --> 01:30:38,000
+Thanks
+
+2293
+01:30:38,000 --> 01:30:41,080
+Japan is ready to build one
+
+2294
+01:30:41,080 --> 01:30:46,560
+from tokyo to i think it was osaka
+
+2295
+01:30:46,560 --> 01:30:49,920
+This is already a national strategy
+
+2296
+01:30:49,920 --> 01:30:54,200
+It's going to build this in 2025
+
+2297
+01:30:54,200 --> 01:30:55,240
+superconducting car
+
+2298
+01:30:55,240 --> 01:30:56,080
+right
+
+2299
+01:30:56,320 --> 01:30:59,560
+Of course it is not completely superconducting now
+
+2300
+01:30:59,560 --> 01:31:00,240
+i listen now
+
+2301
+01:31:00,000 --> 01:31:02,200
+Sounds like it's not exactly hot tide
+
+2302
+01:31:02,200 --> 01:31:03,840
+I said it also uses some low temperature tide
+
+2303
+01:31:03,840 --> 01:31:06,000
+it has some hybrid designs
+
+2304
+01:31:06,000 --> 01:31:07,300
+Because all use high temperature tide
+
+2305
+01:31:07,300 --> 01:31:09,100
+can be expensive now
+
+2306
+01:31:09,100 --> 01:31:10,240
+too expensive
+
+2307
+01:31:10,240 --> 01:31:12,240
+so it may now have a
+
+2308
+01:31:12,240 --> 01:31:14,600
+But this cryogenic industry
+
+2309
+01:31:14,600 --> 01:31:16,740
+It is Japan's century-old plan
+
+2310
+01:31:16,740 --> 01:31:18,040
+Japan now has
+
+2311
+01:31:18,040 --> 01:31:20,640
+Japan seems to like to make a hundred-year plan
+
+2312
+01:31:20,640 --> 01:31:21,460
+planning
+
+2313
+01:31:21,460 --> 01:31:23,000
+Then it has a big plan
+
+2314
+01:31:23,000 --> 01:31:25,160
+cryogenic industry
+
+2315
+01:31:25,160 --> 01:31:27,940
+become the most important industry in their country
+
+2316
+01:31:27,940 --> 01:31:28,900
+What is cryogenic industry
+
+2317
+01:31:28,900 --> 01:31:31,000
+That is, making many things is related to low temperature
+
+2318
+01:31:31,000 --> 01:31:33,700
+There are many benefits of low temperature
+
+2319
+01:31:33,700 --> 01:31:36,060
+So what are they going to do with these low temperature
+
+2320
+01:31:36,060 --> 01:31:40,460
+So build this superconducting train
+
+2321
+01:31:40,460 --> 01:31:43,700
+is the plan of one of its elephants
+
+2322
+01:31:43,700 --> 01:31:45,360
+so you just mentioned
+
+2323
+01:31:45,360 --> 01:31:47,900
+The high temperature tide guide and the low tide guide
+
+2324
+01:31:47,900 --> 01:31:51,200
+The cost of low temperature tidal conduction is much lower
+
+2325
+01:31:51,200 --> 01:31:52,760
+because it's been years
+
+2326
+01:31:52,760 --> 01:31:53,140
+Done
+
+2327
+01:31:53,140 --> 01:31:56,360
+Therefore, the trouble caused by high temperature tide is just mentioned
+
+2328
+01:31:56,360 --> 01:31:59,920
+That is, it is more fragile than it is a ceramic material
+
+2329
+01:32:00,000 --> 01:32:05,760
+OK, the other Mr. Lu, these are good materials
+
+2330
+01:32:05,760 --> 01:32:07,160
+It's easier to do, the same
+
+2331
+01:32:07,160 --> 01:32:09,560
+I mean those blue pill cakes
+
+2332
+01:32:09,560 --> 01:32:13,040
+The ingredients of the blue medicine cake just mentioned are relatively easy to make
+
+2333
+01:32:13,040 --> 01:32:14,600
+less easy to consume
+
+2334
+01:32:14,600 --> 01:32:17,880
+Yes, it is not easy, because it is relatively flexible and flexible to make this kind of
+
+2335
+01:32:17,880 --> 01:32:20,920
+You know the cable, you say you can bend it
+
+2336
+01:32:20,920 --> 01:32:23,680
+It's broken after a bend, it's okay
+
+2337
+01:32:23,680 --> 01:32:26,560
+That electric current is incredible, so it absolutely cannot happen
+
+2338
+01:32:27,160 --> 01:32:29,400
+When doing this kind of thing is the most difficult to apply
+
+2339
+01:32:29,400 --> 01:32:31,080
+safety is the most important
+
+2340
+01:32:31,080 --> 01:32:32,400
+But security is
+
+2341
+01:32:32,400 --> 01:32:34,840
+Many problems with shooting are not physical problems
+
+2342
+01:32:34,840 --> 01:32:37,320
+It's about mechanics and engineering.
+
+2343
+01:32:37,320 --> 01:32:38,400
+that's hard
+
+2344
+01:32:38,400 --> 01:32:42,280
+So why did he only do one kilometer for so many years?
+
+2345
+01:32:42,280 --> 01:32:45,680
+The long is what you want to do so long
+
+2346
+01:32:45,680 --> 01:32:46,680
+pull such a long line
+
+2347
+01:32:46,680 --> 01:32:48,440
+Everyone you can bend, right?
+
+2348
+01:32:48,440 --> 01:32:49,720
+The cable can't be bent
+
+2349
+01:32:49,720 --> 01:32:51,160
+It must be able to bend, right?
+
+2350
+01:32:51,160 --> 01:32:54,280
+then you will be fine
+
+2351
+01:32:54,280 --> 01:32:55,400
+that is difficult
+
+2352
+01:32:55,440 --> 01:32:57,840
+Of course they've been improving and you can see that.
+
+2353
+01:32:57,840 --> 01:32:59,720
+These countries are doing their best
+
+2354
+01:33:00,000 --> 01:33:01,200
+always improving
+
+2355
+01:33:01,440 --> 01:33:04,160
+Because this is a big industry
+
+2356
+01:33:04,320 --> 01:33:08,040
+Who can do it? It's a very good job, of course.
+
+2357
+01:33:08,400 --> 01:33:10,960
+whoever has a very big industry
+
+2358
+01:33:12,160 --> 01:33:14,160
+this is no problem
+
+2359
+01:33:14,440 --> 01:33:16,120
+so this is what they do
+
+2360
+01:33:16,120 --> 01:33:18,240
+Taiwan does not have this aspect
+
+2361
+01:33:18,240 --> 01:33:20,040
+thank you professor thank you
+
+2362
+01:33:22,240 --> 01:33:25,360
+I would like to ask you, Professor, what you just said
+
+2363
+01:33:26,320 --> 01:33:28,520
+CurvePair is electronics and childbirth
+
+2364
+01:33:28,520 --> 01:33:31,320
+Its interaction causes overrun to
+
+2365
+01:33:31,320 --> 01:33:33,320
+but my problem is
+
+2366
+01:33:33,320 --> 01:33:37,800
+When you use a single or a single cooling down to 1K 2K
+
+2367
+01:33:37,800 --> 01:33:40,400
+At this time, giving birth should be
+
+2368
+01:33:40,400 --> 01:33:43,000
+Your Ginger should not vibrate
+
+2369
+01:33:43,000 --> 01:33:46,360
+That is, childbirth should be fixed there.
+
+2370
+01:33:46,360 --> 01:33:47,840
+I just can't
+
+2371
+01:33:47,840 --> 01:33:52,000
+Just understanding is how the electronics interact with the child at this time
+
+2372
+01:33:52,000 --> 01:33:53,680
+This is what I just said
+
+2373
+01:33:53,680 --> 01:33:56,240
+absolute temperature zero
+
+2374
+01:33:56,240 --> 01:34:00,240
+The atoms and ions will still oscillate
+
+2375
+01:34:00,000 --> 01:34:02,000
+this is quantum mechanics
+
+2376
+01:34:02,000 --> 01:34:06,000
+Otherwise, the uncertainty principle is violated
+
+2377
+01:34:06,000 --> 01:34:08,000
+We all know the uncertainty principle
+
+2378
+01:34:08,000 --> 01:34:10,000
+is that you must never have a thing
+
+2379
+01:34:10,000 --> 01:34:12,000
+my position
+
+2380
+01:34:12,000 --> 01:34:14,000
+The position of space is immobile
+
+2381
+01:34:14,000 --> 01:34:16,000
+because if you don't move at all
+
+2382
+01:34:16,000 --> 01:34:22,000
+The kinetic energy of that thing is infinite
+
+2383
+01:34:22,000 --> 01:34:24,000
+unlimited
+
+2384
+01:34:24,000 --> 01:34:26,000
+is impossible
+
+2385
+01:34:26,000 --> 01:34:28,000
+so it must move
+
+2386
+01:34:28,000 --> 01:34:30,000
+will definitely move
+
+2387
+01:34:30,000 --> 01:34:35,000
+So why is superconductivity so difficult to say?
+
+2388
+01:34:35,000 --> 01:34:37,000
+That is, it is all related to quantum mechanics
+
+2389
+01:34:37,000 --> 01:34:40,000
+It's all about quantum mechanics
+
+2390
+01:34:40,000 --> 01:34:42,000
+Classical mechanics is completely inexplicable
+
+2391
+01:34:42,000 --> 01:34:45,000
+Of course it was 1911 and no one wanted to appreciate
+
+2392
+01:34:45,000 --> 01:34:47,000
+After I understand quantum mechanics, I want to say
+
+2393
+01:34:47,000 --> 01:34:50,000
+This is a full quantum
+
+2394
+01:34:50,000 --> 01:34:52,000
+Then you just said it will still move
+
+2395
+01:34:52,000 --> 01:34:56,000
+you can't keep it from moving
+
+2396
+01:34:56,000 --> 01:34:59,000
+this is impossible
+
+2397
+01:35:00,000 --> 01:35:03,560
+So this shock is bound to happen
+
+2398
+01:35:03,560 --> 01:35:05,920
+That's how it is
+
+2399
+01:35:05,920 --> 01:35:06,960
+this is
+
+2400
+01:35:06,960 --> 01:35:08,840
+he sounds bad
+
+2401
+01:35:08,840 --> 01:35:10,240
+Actually it's his benefit
+
+2402
+01:35:10,240 --> 01:35:13,560
+There are so many strange phenomena
+
+2403
+01:35:13,560 --> 01:35:15,760
+If it could happen in the quantum world
+
+2404
+01:35:15,760 --> 01:35:19,040
+These strange phenomena will all appear
+
+2405
+01:35:19,040 --> 01:35:23,400
+He has a new statement
+
+2406
+01:35:23,400 --> 01:35:27,840
+Not the usual world we are familiar with
+
+2407
+01:35:31,000 --> 01:35:32,000
+No
+
+2408
+01:35:32,000 --> 01:35:33,000
+Can
+
+2409
+01:35:33,000 --> 01:35:36,000
+The teacher just mentioned superconductivity
+
+2410
+01:35:36,000 --> 01:35:37,000
+we take the battery away
+
+2411
+01:35:37,000 --> 01:35:39,000
+The current will still run inside
+
+2412
+01:35:39,000 --> 01:35:42,000
+May I ask if this situation is impossible?
+
+2413
+01:35:42,000 --> 01:35:44,000
+have what
+
+2414
+01:35:44,000 --> 01:35:45,000
+have what
+
+2415
+01:35:45,000 --> 01:35:46,000
+That is to say, I made a machine
+
+2416
+01:35:46,000 --> 01:35:48,000
+I don't need to attack its energy
+
+2417
+01:35:48,000 --> 01:35:50,000
+it can work forever
+
+2418
+01:35:50,000 --> 01:35:52,000
+But the current you just said keeps running
+
+2419
+01:35:52,000 --> 01:35:54,000
+it sounds like this
+
+2420
+01:35:54,000 --> 01:35:56,000
+that's because
+
+2421
+01:35:56,000 --> 01:35:58,000
+this is here
+
+2422
+01:35:58,000 --> 01:36:01,000
+because this is here
+
+2423
+01:36:00,000 --> 01:36:02,000
+It can manipulate state, it can use
+
+2424
+01:36:02,000 --> 01:36:03,000
+You can't talk about motivation
+
+2425
+01:36:03,000 --> 01:36:06,000
+If you use the motivation to say that you still want to use this
+
+2426
+01:36:06,000 --> 01:36:09,000
+if you put this, this, this
+
+2427
+01:36:09,000 --> 01:36:11,000
+The flywheel just mentioned is
+
+2428
+01:36:11,000 --> 01:36:12,000
+It's done now
+
+2429
+01:36:12,000 --> 01:36:14,000
+Just steer it around
+
+2430
+01:36:14,000 --> 01:36:17,000
+The purpose of its rotation is to transfer kinetic energy
+
+2431
+01:36:17,000 --> 01:36:18,000
+Because rotation is kinetic energy
+
+2432
+01:36:18,000 --> 01:36:20,000
+put energy in
+
+2433
+01:36:20,000 --> 01:36:21,000
+that can store a lot of energy
+
+2434
+01:36:21,000 --> 01:36:24,000
+Because it depends on the volume and shape of your work
+
+2435
+01:36:24,000 --> 01:36:25,000
+can be very big
+
+2436
+01:36:25,000 --> 01:36:28,000
+Then you put it in, how do you take it out?
+
+2437
+01:36:28,000 --> 01:36:30,000
+Then you have to connect to another thing
+
+2438
+01:36:30,000 --> 01:36:32,000
+it will turn slower and slower
+
+2439
+01:36:32,000 --> 01:36:35,000
+Because energy is conserved
+
+2440
+01:36:35,000 --> 01:36:36,000
+no motivation
+
+2441
+01:36:36,000 --> 01:36:38,000
+There is something wrong with this word
+
+2442
+01:36:38,000 --> 01:36:40,000
+This is not a motive here
+
+2443
+01:36:40,000 --> 01:36:42,000
+Its energy is also conserved
+
+2444
+01:36:42,000 --> 01:36:44,000
+Then if you take it off, it's gone
+
+2445
+01:36:44,000 --> 01:36:46,000
+OK, this is
+
+2446
+01:36:46,000 --> 01:36:49,000
+Energy is always in balance
+
+2447
+01:36:49,000 --> 01:36:52,000
+OK, energy will never come out when you are empty
+
+2448
+01:36:52,000 --> 01:36:55,000
+There are several laws in this physics
+
+2449
+01:36:55,000 --> 01:36:57,000
+without exception
+
+2450
+01:37:00,000 --> 01:37:06,000
+I would like to ask, does the current definition of superconductivity mean that its resistance must be zero?
+
+2451
+01:37:06,000 --> 01:37:11,000
+Or when you said the number of degrees in the data just now?
+
+2452
+01:37:11,000 --> 01:37:16,000
+Its resistivity also has a value, what does that mean?
+
+2453
+01:37:16,000 --> 01:37:22,000
+No, it has value in Siwenhao, but it has no value below a certain TCE, it is 0
+
+2454
+01:37:22,000 --> 01:37:29,000
+The so-called superconducting train used in Japan also uses this phenomenon of reaching zero to let...
+
+2455
+01:37:29,000 --> 01:37:33,000
+That's right, what you saw just now is the high-temperature superconductor here, and the spirited one floated up just now
+
+2456
+01:37:33,000 --> 01:37:40,000
+It is superconducting there. A few pieces of superconducting material here had a resistance of 0 at that time.
+
+2457
+01:37:40,000 --> 01:37:45,000
+That must be 0, that is, as I just said, it must be 0
+
+2458
+01:37:45,000 --> 01:37:52,000
+Then if it is not 0, that thing will be taken soon, it will not run for so long
+
+2459
+01:37:52,000 --> 01:37:56,000
+It's just because of its metal, right, you... you need to get the battery
+
+2460
+01:37:56,000 --> 01:37:59,000
+It will have this man named Eddie Curran, which is what I just said
+
+2461
+01:38:00,000 --> 01:38:01,300
+It's gone in no time
+
+2462
+01:38:01,600 --> 01:38:02,900
+If you want to keep adding a lot
+
+2463
+01:38:02,900 --> 01:38:04,200
+A lot of your hands will be hot
+
+2464
+01:38:04,200 --> 01:38:05,400
+Because the metal will be hot
+
+2465
+01:38:06,300 --> 01:38:09,100
+They all turn into resistors and dissipate energy.
+
+2466
+01:38:09,700 --> 01:38:10,600
+but not here
+
+2467
+01:38:11,700 --> 01:38:12,600
+it just keeps running
+
+2468
+01:38:14,600 --> 01:38:17,000
+The only thing that didn't end up was because it evaporated
+
+2469
+01:38:17,000 --> 01:38:17,800
+take this liquid
+
+2470
+01:38:18,400 --> 01:38:21,300
+but evaporated
+
+2471
+01:38:21,300 --> 01:38:22,100
+it's not too early
+
+2472
+01:38:22,100 --> 01:38:23,200
+it warmed up
+
+2473
+01:38:23,200 --> 01:38:23,900
+it's not too early
+
+2474
+01:38:23,900 --> 01:38:25,200
+That's why the price stopped
+
+2475
+01:38:25,200 --> 01:38:26,300
+but the question just asked
+
+2476
+01:38:26,300 --> 01:38:27,400
+if i seal it up
+
+2477
+01:38:27,400 --> 01:38:28,800
+It's fine if it's sealed well
+
+2478
+01:38:28,900 --> 01:38:30,500
+Now there are many laboratories
+
+2479
+01:38:30,500 --> 01:38:32,400
+These liquids are all sealed.
+
+2480
+01:38:32,700 --> 01:38:33,600
+so it's been inside
+
+2481
+01:38:33,600 --> 01:38:34,800
+it doesn't evaporate
+
+2482
+01:38:36,600 --> 01:38:38,500
+that can be a long time
+
+2483
+01:38:39,300 --> 01:38:40,300
+then there is no such problem
+
+2484
+01:38:42,600 --> 01:38:44,000
+So why save energy
+
+2485
+01:38:44,400 --> 01:38:46,200
+Why do they think this is energy saving
+
+2486
+01:38:46,500 --> 01:38:49,100
+It saves electricity compared to usual current trains
+
+2487
+01:38:49,100 --> 01:38:50,000
+there is a reason
+
+2488
+01:38:50,400 --> 01:38:52,100
+You just need to close it up
+
+2489
+01:38:52,100 --> 01:38:54,300
+It's not that hard when the machine arrives
+
+2490
+01:38:55,100 --> 01:38:58,000
+you don't have to do it again
+
+2491
+01:38:58,000 --> 01:39:00,000
+don't add oil
+
+2492
+01:39:00,000 --> 01:39:01,960
+Oil sells nothing
+
+2493
+01:39:01,960 --> 01:39:02,660
+then ask again
+
+2494
+01:39:02,660 --> 01:39:06,460
+When the current of this material runs with zero resistance
+
+2495
+01:39:06,460 --> 01:39:08,960
+Is there any damage or consumption of this material?
+
+2496
+01:39:08,960 --> 01:39:09,940
+No
+
+2497
+01:39:11,860 --> 01:39:13,460
+as far as i know no
+
+2498
+01:39:15,760 --> 01:39:18,160
+because it doesn't hit anything
+
+2499
+01:39:19,860 --> 01:39:21,260
+No, you and I don't have resistors
+
+2500
+01:39:21,260 --> 01:39:22,660
+so it didn't hit the good stuff
+
+2501
+01:39:23,260 --> 01:39:25,060
+no way to consume it
+
+2502
+01:39:31,000 --> 01:39:32,160
+ok, is there any more
+
+2503
+01:39:32,160 --> 01:39:34,000
+But theoretically no
+
+2504
+01:39:34,000 --> 01:39:36,660
+Of course I don't know what your question is
+
+2505
+01:39:36,660 --> 01:39:38,960
+After your engineer
+
+2506
+01:39:38,960 --> 01:39:42,000
+it must still have some condition
+
+2507
+01:39:42,000 --> 01:39:43,060
+it's better
+
+2508
+01:39:43,060 --> 01:39:44,000
+the only thing is
+
+2509
+01:39:44,000 --> 01:39:46,460
+Yes, the only thing is in transform energy conversion
+
+2510
+01:39:46,460 --> 01:39:47,960
+Switch from this to another time
+
+2511
+01:39:47,960 --> 01:39:50,000
+There may be some energy savings there will be
+
+2512
+01:39:50,000 --> 01:39:55,000
+Because you're not everything manipulative
+
+2513
+01:39:55,000 --> 01:39:56,000
+No
+
+2514
+01:39:56,000 --> 01:39:58,000
+Because usually when the energy conversion
+
+2515
+01:39:58,000 --> 01:40:00,000
+You need to convert this energy
+
+2516
+01:40:00,000 --> 01:40:02,000
+Energy summoned into another energy
+
+2517
+01:40:02,000 --> 01:40:05,000
+into electric energy or into mk
+
+2518
+01:40:05,000 --> 01:40:07,000
+Of course you will have some provincial numbers
+
+2519
+01:40:07,000 --> 01:40:12,000
+Energy summoning is like burning gasoline to become a machine leader
+
+2520
+01:40:12,000 --> 01:40:14,000
+You won't be 100% efficient
+
+2521
+01:40:14,000 --> 01:40:16,000
+The problem with this energy call
+
+2522
+01:40:16,000 --> 01:40:19,000
+But it itself has no province number energy
+
+2523
+01:40:19,000 --> 01:40:23,000
+But when you use it or facilitate it
+
+2524
+01:40:23,000 --> 01:40:25,000
+Of course there will be some energy provinces
+
+2525
+01:40:25,000 --> 01:40:26,000
+it's inevitable
+
+2526
+01:40:31,000 --> 01:40:33,000
+I want to ask the teacher
+
+2527
+01:40:33,000 --> 01:40:36,000
+Is Ci Fu superconducting?
+
+2528
+01:40:36,000 --> 01:40:38,000
+Or is it like the one from Shanghai Cifu?
+
+2529
+01:40:38,000 --> 01:40:39,000
+Is it still a type of superconductor?
+
+2530
+01:40:39,000 --> 01:40:41,000
+Yes, but it doesn't have to be superconducting
+
+2531
+01:40:41,000 --> 01:40:42,000
+that's what i just said
+
+2532
+01:40:42,000 --> 01:40:43,000
+first time i show that
+
+2533
+01:40:43,000 --> 01:40:44,000
+That is, you usually take a metal
+
+2534
+01:40:44,000 --> 01:40:47,000
+Take a magnetist's back and go back
+
+2535
+01:40:47,000 --> 01:40:49,000
+In fact, there will be inverse
+
+2536
+01:40:49,000 --> 01:40:50,000
+you will
+
+2537
+01:40:50,000 --> 01:40:52,000
+if you are strong enough
+
+2538
+01:40:52,000 --> 01:40:54,000
+you'll feel it resist
+
+2539
+01:40:54,000 --> 01:40:55,000
+just be kind
+
+2540
+01:40:55,000 --> 01:40:56,000
+so which two
+
+2541
+01:40:56,000 --> 01:40:58,000
+It is equal to South Pole to South Pole
+
+2542
+01:40:58,000 --> 01:41:00,000
+North Pole to North Pole can float
+
+2543
+01:41:00,000 --> 01:41:04,000
+But this thing is not very stable, just like what I said just now, it is not very stable,
+
+2544
+01:41:04,000 --> 01:41:08,000
+Because you have to face it just right, and if you tilt it a little bit, you will be in trouble, and the trouble will be reversed.
+
+2545
+01:41:08,000 --> 01:41:15,000
+It's not very stable, but you can't do it without instability, stability is the most important thing.
+
+2546
+01:41:15,000 --> 01:41:21,000
+So I just said that another group repaired your superconducting hair, and it has the magnetic flux of the magnetic field line locked inside.
+
+2547
+01:41:21,000 --> 01:41:26,000
+So it is equivalent to having a thread inside, clamping it, so it is very stable,
+
+2548
+01:41:26,000 --> 01:41:31,000
+Like the magnet just now, you can see that it is very stable, very stable, and if you look carefully, it is very stable, very stable,
+
+2549
+01:41:31,000 --> 01:41:38,000
+You can drill like this by yourself, right? It drills, you can see that it follows the magnetic force line,
+
+2550
+01:41:38,000 --> 01:41:45,000
+It flew out without drilling that day, of course not so fast, but it can be seen that it drilled along this way,
+
+2551
+01:41:45,000 --> 01:41:49,000
+That's very strange, isn't it? People don't have a track, and it's nothing. Why does it drill along this?
+
+2552
+01:41:49,000 --> 01:41:59,000
+Then if there is a superconducting train in the future, it will be safer than a running train.
+
+2553
+01:42:00,000 --> 01:42:02,000
+Superconductivity is also a kind of surrender
+
+2554
+01:42:02,000 --> 01:42:05,000
+But wouldn't superconductivity be safer?
+
+2555
+01:42:06,000 --> 01:42:08,000
+More power saving, is it safer?
+
+2556
+01:42:08,000 --> 01:42:11,000
+But if it's more than 500 kilometers, I hope it's safe
+
+2557
+01:42:12,000 --> 01:42:14,000
+they are going to try now
+
+2558
+01:42:14,000 --> 01:42:16,000
+so why would they do it
+
+2559
+01:42:16,000 --> 01:42:19,000
+I just saw that Japan was trying to make a one-kilometer-long
+
+2560
+01:42:19,000 --> 01:42:21,000
+have been trying for a long time
+
+2561
+01:42:21,000 --> 01:42:23,000
+This kilometer-long superconducting train
+
+2562
+01:42:23,000 --> 01:42:25,000
+right ? that of course is to try
+
+2563
+01:42:26,000 --> 01:42:29,000
+Many are engineering problems
+
+2564
+01:42:29,000 --> 01:42:31,000
+Actually speaking, many of those things are projects.
+
+2565
+01:42:31,000 --> 01:42:34,000
+Of course, one is the issue of price, the other is the issue of engineering
+
+2566
+01:42:34,000 --> 01:42:36,000
+Now mainly these two issues
+
+2567
+01:42:36,000 --> 01:42:38,000
+I think it's probably technically resolved.
+
+2568
+01:42:38,000 --> 01:42:41,000
+Because they also make cables, America makes so many cables
+
+2569
+01:42:42,000 --> 01:42:44,000
+Also trying to test this problem
+
+2570
+01:42:44,000 --> 01:42:47,000
+That is to say, everything else is a supporting engineering problem now.
+
+2571
+01:42:47,000 --> 01:42:49,000
+is more important
+
+2572
+01:42:49,000 --> 01:42:53,000
+Then the cost of this suit and the cost of superconductivity
+
+2573
+01:42:53,000 --> 01:42:55,000
+superconductor is more expensive
+
+2574
+01:42:55,000 --> 01:42:57,000
+Superconductors are now more expensive
+
+2575
+01:42:57,000 --> 01:43:00,000
+Yes, this high-temperature superconductor is of course more expensive to manufacture now
+
+2576
+01:43:00,000 --> 01:43:02,000
+Of course it's also because he doesn't have mass production.
+
+2577
+01:43:04,000 --> 01:43:06,500
+Wait until they progress to mass production
+
+2578
+01:43:06,500 --> 01:43:07,500
+Of course it's different
+
+2579
+01:43:09,000 --> 01:43:10,000
+this is totally different
+
+2580
+01:43:10,000 --> 01:43:12,000
+Of course countries are competing
+
+2581
+01:43:12,000 --> 01:43:14,500
+So the cost is the same for large quantities
+
+2582
+01:43:14,500 --> 01:43:15,500
+right
+
+2583
+01:43:15,500 --> 01:43:18,500
+The advantage is that the film energy saves a lot
+
+2584
+01:43:18,500 --> 01:43:19,500
+that's not noisy
+
+2585
+01:43:19,500 --> 01:43:20,500
+he floated
+
+2586
+01:43:20,500 --> 01:43:21,500
+that's fast, right?
+
+2587
+01:43:21,500 --> 01:43:22,500
+not noisy
+
+2588
+01:43:22,500 --> 01:43:23,500
+no sound
+
+2589
+01:43:24,500 --> 01:43:26,500
+Of course it's good, right?
+
+2590
+01:43:26,500 --> 01:43:28,000
+If it is floating in front
+
+2591
+01:43:28,000 --> 01:43:29,500
+I think it must be very comfortable to sit on
+
+2592
+01:43:29,500 --> 01:43:30,500
+I was wondering right?
+
+2593
+01:43:30,500 --> 01:43:33,000
+I sat in the one in Beishang
+
+2594
+01:43:33,000 --> 01:43:34,000
+That's not bad
+
+2595
+01:43:34,000 --> 01:43:36,000
+Of course he wasn't fast enough.
+
+2596
+01:43:36,000 --> 01:43:37,000
+all at once
+
+2597
+01:43:37,000 --> 01:43:38,000
+but that's fine
+
+2598
+01:43:39,000 --> 01:43:41,000
+that floats is a good thing
+
+2599
+01:43:41,000 --> 01:43:44,000
+You said that it will be faster if you overtake it in the future
+
+2600
+01:43:44,000 --> 01:43:45,500
+will be faster
+
+2601
+01:43:45,500 --> 01:43:47,000
+certainly
+
+2602
+01:43:47,000 --> 01:43:48,000
+Of course
+
+2603
+01:43:48,000 --> 01:43:49,000
+Will
+
+2604
+01:43:49,000 --> 01:43:51,000
+Technology is improving every day
+
+2605
+01:43:57,000 --> 01:43:58,000
+good last step
+
+2606
+01:43:58,000 --> 01:43:59,500
+Teacher, you just said that
+
+2607
+01:44:00,000 --> 01:44:01,800
+Energy conversion consumes energy
+
+2608
+01:44:01,800 --> 01:44:04,360
+But just now you have experienced so much
+
+2609
+01:44:04,360 --> 01:44:07,000
+The electrons are swapped again, this and that
+
+2610
+01:44:07,000 --> 01:44:09,600
+Then you said they were dancing together as a metaphor
+
+2611
+01:44:09,600 --> 01:44:10,600
+dancing is tiring
+
+2612
+01:44:10,600 --> 01:44:12,800
+Then why do they change their own words?
+
+2613
+01:44:12,800 --> 01:44:14,800
+Doesn't seem to consume energy
+
+2614
+01:44:14,800 --> 01:44:18,600
+No, this is the look of this super old lady
+
+2615
+01:44:18,600 --> 01:44:21,000
+It's not an exchange to exchange energy
+
+2616
+01:44:21,000 --> 01:44:23,200
+Because your electron is here, right?
+
+2617
+01:44:23,200 --> 01:44:26,400
+Then when I actually exchange like this
+
+2618
+01:44:26,400 --> 01:44:27,700
+when you swap with your neighbor
+
+2619
+01:44:27,700 --> 01:44:29,800
+You don't imagine it's tiring for you
+
+2620
+01:44:29,800 --> 01:44:32,100
+You have to change the chair with him, right?
+
+2621
+01:44:32,100 --> 01:44:34,100
+But I just said that for electronics
+
+2622
+01:44:34,100 --> 01:44:36,600
+He will be tired if he doesn't change
+
+2623
+01:44:36,600 --> 01:44:44,100
+Because of this Helenberg Uncertainty Principle
+
+2624
+01:44:44,100 --> 01:44:46,600
+On the contrary, it is very comfortable
+
+2625
+01:44:46,600 --> 01:44:48,900
+The more you change, the better
+
+2626
+01:44:48,900 --> 01:44:52,300
+So electrons in quantum teraroots
+
+2627
+01:44:52,300 --> 01:44:56,100
+Our usual thinking is wrong
+
+2628
+01:44:56,100 --> 01:44:57,600
+because in quantum too
+
+2629
+01:44:57,600 --> 01:44:59,500
+he is not sure
+
+2630
+01:45:00,000 --> 01:45:02,400
+That's how the uncertainty principle in mechanics sounds
+
+2631
+01:45:02,400 --> 01:45:03,800
+usually very simple
+
+2632
+01:45:03,800 --> 01:45:06,800
+In fact, the impact of the uncertainty principle is very far-reaching.
+
+2633
+01:45:07,600 --> 01:45:08,600
+this is
+
+2634
+01:45:08,600 --> 01:45:11,000
+Of course we don't know why nature
+
+2635
+01:45:11,000 --> 01:45:12,400
+uncertainty principle
+
+2636
+01:45:12,900 --> 01:45:15,600
+But it obviously has this principle
+
+2637
+01:45:15,600 --> 01:45:17,300
+And that's what you just said
+
+2638
+01:45:17,300 --> 01:45:19,300
+it gets better and better
+
+2639
+01:45:19,300 --> 01:45:22,000
+It doesn't like it and stays there
+
+2640
+01:45:22,800 --> 01:45:25,000
+is high energy
+
+2641
+01:45:25,000 --> 01:45:26,000
+so it won't happen
+
+2642
+01:45:26,000 --> 01:45:29,700
+in the real material
+
+2643
+01:45:30,700 --> 01:45:32,100
+this won't happen
+
+2644
+01:45:35,300 --> 01:45:36,500
+unless you have great strength
+
+2645
+01:45:36,500 --> 01:45:37,500
+hold it hard
+
+2646
+01:45:37,500 --> 01:45:38,500
+that's what i just said
+
+2647
+01:45:38,500 --> 01:45:39,900
+then it won't exceed
+
+2648
+01:45:39,900 --> 01:45:41,100
+Then this can't be helped
+
+2649
+01:45:41,100 --> 01:45:43,900
+Otherwise, it's best to change
+
+2650
+01:45:48,100 --> 01:45:49,100
+good i think
+
+2651
+01:45:50,100 --> 01:45:51,300
+director
+
+2652
+01:45:51,300 --> 01:45:54,300
+I just said that everyone is
+
+2653
+01:45:54,300 --> 01:45:56,500
+this is very well prepared
+
+2654
+01:45:56,500 --> 01:45:59,500
+Then I worked hard
+
+2655
+01:45:59,500 --> 01:46:00,300
+this
+
+2656
+01:46:00,000 --> 01:46:04,000
+take a very difficult question
+
+2657
+01:46:04,000 --> 01:46:07,000
+and let everyone know at least a little bit about
+
+2658
+01:46:07,000 --> 01:46:11,000
+I am also very grateful to these two students
+
+2659
+01:46:11,000 --> 01:46:13,000
+this i just saw that
+
+2660
+01:46:13,000 --> 01:46:15,000
+The barrel of the liquid bomb is there
+
+2661
+01:46:15,000 --> 01:46:17,000
+That's a heavy thing to move here
+
+2662
+01:46:17,000 --> 01:46:19,000
+move all the props
+
+2663
+01:46:19,000 --> 01:46:23,000
+I just hope you can get some
+
+2664
+01:46:23,000 --> 01:46:25,000
+At least some knowledge
+
+2665
+01:46:25,000 --> 01:46:28,000
+This achieves the purpose of our knowledge miss
+
+2666
+01:46:28,000 --> 01:46:31,000
+Well, we are very grateful to Li Xiugang
+

@@ -1,0 +1,10538 @@
+1
+00:00:00,000 --> 00:00:15,800
+train wig ride
+
+2
+00:00:30,000 --> 00:00:43,000
+Academia Sinica's August knowledge test lecture begins
+
+3
+00:00:43,000 --> 00:00:46,000
+We ask Vice President Liu Dong to host for us
+
+4
+00:01:00,000 --> 00:01:08,000
+It is an honor and a pleasure to introduce the multi-institute Institute of Biomedical Sciences
+
+5
+00:01:08,000 --> 00:01:12,000
+Also my colleague Tao Minghua researcher
+
+6
+00:01:12,000 --> 00:01:19,000
+Dr. Tao graduated from the first-level department of National Taiwan University
+
+7
+00:01:19,000 --> 00:01:21,000
+He went to study in America
+
+8
+00:01:21,000 --> 00:01:25,000
+Bea University at the Top Individual
+
+9
+00:01:25,000 --> 00:01:32,000
+Get a Ph.D. in Immunology and Microbiology
+
+10
+00:01:32,000 --> 00:01:35,000
+Then he went to another top university
+
+11
+00:01:35,000 --> 00:01:39,000
+Postdoctoral Research at Stanford University in California
+
+12
+00:01:39,000 --> 00:01:43,000
+where the main research is related to the total flow
+
+13
+00:01:43,000 --> 00:01:48,000
+After that, he returned to Taiwan to enter the Academia Sinica
+
+14
+00:01:48,000 --> 00:01:53,000
+From assistant researcher to associate researcher to researcher very smoothly
+
+15
+00:01:53,000 --> 00:01:55,000
+Now a researcher at the Institute of Biomedical Sciences
+
+16
+00:01:55,000 --> 00:01:59,000
+His research work has always been related to total flow
+
+17
+00:02:00,000 --> 00:02:05,640
+This year is gene therapy or immunotherapy
+
+18
+00:02:05,640 --> 00:02:07,640
+It's also his topic today
+
+19
+00:02:07,640 --> 00:02:10,740
+In this regard, he has made many contacts and contributions.
+
+20
+00:02:10,740 --> 00:02:13,440
+also published in good journals
+
+21
+00:02:13,440 --> 00:02:15,340
+He also received many awards
+
+22
+00:02:15,340 --> 00:02:17,720
+including hospital
+
+23
+00:02:17,720 --> 00:02:21,120
+Here are the many awards for young scholars
+
+24
+00:02:21,120 --> 00:02:23,520
+and the Ministry of Science and Technology
+
+25
+00:02:23,520 --> 00:02:28,520
+Contact Research Award
+
+26
+00:02:28,520 --> 00:02:32,260
+Immunotherapy has been
+
+27
+00:02:32,260 --> 00:02:37,460
+Attention in Oncology World
+
+28
+00:02:37,460 --> 00:02:39,660
+Some breakthroughs in recent years
+
+29
+00:02:39,660 --> 00:02:42,960
+And it's a very exciting breakthrough
+
+30
+00:02:42,960 --> 00:02:46,460
+In fact I was about a year ago
+
+31
+00:02:46,460 --> 00:02:48,160
+I also give a talk on immuno-oncology
+
+32
+00:02:48,160 --> 00:02:49,460
+immune therapy
+
+33
+00:02:49,460 --> 00:02:51,400
+I recognize the title after
+
+34
+00:02:51,400 --> 00:02:55,200
+Immunotherapy sees light
+
+35
+00:02:55,200 --> 00:02:57,400
+But in fact it's not just sign light
+
+36
+00:02:57,400 --> 00:03:00,240
+It should be fairly obvious by now
+
+37
+00:03:00,000 --> 00:03:07,000
+Very excited, Dr. Tao has his expertise in this area and the results of his research
+
+38
+00:03:07,000 --> 00:03:11,000
+So I believe he will give us a very incisive and wonderful speech today
+
+39
+00:03:11,000 --> 00:03:15,000
+We welcome Dr. Tao with warm applause
+
+40
+00:03:15,000 --> 00:03:28,000
+Hello everyone Man An
+
+41
+00:03:28,000 --> 00:03:33,000
+Today is more tense than in the international lecture hall
+
+42
+00:03:33,000 --> 00:03:40,000
+Because in Chinese, the task we received was to put all the slides in Chinese
+
+43
+00:03:41,000 --> 00:03:43,000
+Then the speeches all use Chinese nouns
+
+44
+00:03:43,000 --> 00:03:46,000
+This is a big challenge for our researchers at Academia Sinica
+
+45
+00:03:46,000 --> 00:03:51,000
+So actually these slides for this talk took quite a while to make
+
+46
+00:03:51,000 --> 00:03:58,000
+I hope to be able to use some relatively easy-to-understand scientific language
+
+47
+00:04:00,000 --> 00:04:02,000
+then communicate with everyone
+
+48
+00:04:02,000 --> 00:04:08,000
+Currently this rather promising approach to cancer treatment
+
+49
+00:04:08,000 --> 00:04:13,000
+Then I will try to introduce to you today what is immunotherapy
+
+50
+00:04:13,000 --> 00:04:15,000
+In fact, immunotherapy
+
+51
+00:04:15,000 --> 00:04:17,000
+Or our simplest is this
+
+52
+00:04:17,000 --> 00:04:19,000
+Does everyone in English understand this?
+
+53
+00:04:19,000 --> 00:04:21,000
+using the body to fight cancer
+
+54
+00:04:21,000 --> 00:04:24,000
+with your own body
+
+55
+00:04:24,000 --> 00:04:26,000
+to fight cancer
+
+56
+00:04:26,000 --> 00:04:30,000
+In fact, against these tumors against cancer
+
+57
+00:04:30,000 --> 00:04:34,000
+These key weapons are needed
+
+58
+00:04:34,000 --> 00:04:36,000
+we all have
+
+59
+00:04:36,000 --> 00:04:40,000
+just because of different genetic background
+
+60
+00:04:40,000 --> 00:04:42,000
+some people his immune system
+
+61
+00:04:42,000 --> 00:04:45,000
+Easier and more effective against cancer
+
+62
+00:04:45,000 --> 00:04:47,000
+some people are worse
+
+63
+00:04:47,000 --> 00:04:48,000
+Now in immunotherapy
+
+64
+00:04:48,000 --> 00:04:52,000
+I just hope to use some foreign medicine
+
+65
+00:04:52,000 --> 00:04:55,000
+Overcome stimulates the patient's immune system
+
+66
+00:04:55,000 --> 00:04:56,000
+to fight cancer
+
+67
+00:04:56,000 --> 00:04:58,000
+This is Cancer Immunotherapy
+
+68
+00:05:00,000 --> 00:05:02,000
+has been going on for quite a long time
+
+69
+00:05:02,000 --> 00:05:04,000
+Then I will start today
+
+70
+00:05:04,000 --> 00:05:06,000
+Because we are in a hurry
+
+71
+00:05:06,000 --> 00:05:08,000
+I will learn from his past
+
+72
+00:05:08,000 --> 00:05:10,000
+In fact, there have been more than 100 years of research history in the past
+
+73
+00:05:12,000 --> 00:05:15,000
+The current situation is what Vice President Liu just said
+
+74
+00:05:15,000 --> 00:05:19,000
+Most recently this has been around since 2010
+
+75
+00:05:19,000 --> 00:05:21,000
+a big breakthrough of
+
+76
+00:05:21,000 --> 00:05:23,000
+Also see very good prospects in patients
+
+77
+00:05:23,000 --> 00:05:25,000
+but only just started
+
+78
+00:05:26,000 --> 00:05:27,000
+the future means
+
+79
+00:05:27,000 --> 00:05:29,000
+how do we go from here
+
+80
+00:05:30,000 --> 00:05:32,000
+Can have a bigger breakthrough
+
+81
+00:05:32,000 --> 00:05:34,000
+can bring more patients
+
+82
+00:05:34,000 --> 00:05:36,000
+Then this is the mission of our Academia Sinica Research Institute
+
+83
+00:05:36,000 --> 00:05:38,000
+Because we're not on the front lines caring for clinical patients
+
+84
+00:05:38,000 --> 00:05:41,000
+This is the job of the clinician
+
+85
+00:05:41,000 --> 00:05:43,000
+But all we have to do is
+
+86
+00:05:43,000 --> 00:05:45,000
+How can medical
+
+87
+00:05:45,000 --> 00:05:47,000
+Problems that have not yet been resolved
+
+88
+00:05:48,000 --> 00:05:50,000
+These results can then be
+
+89
+00:05:50,000 --> 00:05:52,000
+Transfer to clinic for treatment
+
+90
+00:05:52,000 --> 00:05:55,000
+Then this is the expectation of our Academia Sinica
+
+91
+00:05:55,000 --> 00:05:57,000
+It is also our responsibility now
+
+92
+00:05:57,000 --> 00:05:59,000
+then i will today
+
+93
+00:06:00,000 --> 00:06:04,000
+From here, the more detailed content
+
+94
+00:06:04,000 --> 00:06:08,000
+Actually, last month, our weekly report in Zhongyuan Hospital
+
+95
+00:06:08,000 --> 00:06:13,000
+I also wrote on the same topic, and also wrote all his Chinese
+
+96
+00:06:13,000 --> 00:06:17,000
+And I found a colleague, he is an editor, so he can understand
+
+97
+00:06:17,000 --> 00:06:23,000
+So I believe it will be easier for everyone to understand
+
+98
+00:06:23,000 --> 00:06:27,000
+What about everyone, there will be some lectures on the sidelines, and it will be on the Internet
+
+99
+00:06:27,000 --> 00:06:31,000
+You can also extract his PDF file
+
+100
+00:06:31,000 --> 00:06:35,000
+Then my entire speech today will probably focus on this content.
+
+101
+00:06:35,000 --> 00:06:39,000
+Plus some new developments
+
+102
+00:06:39,000 --> 00:06:44,000
+Then, let yourself vent first, lest you get too late
+
+103
+00:06:44,000 --> 00:06:49,000
+So in our lab, today I'm going to have a short, last short
+
+104
+00:06:49,000 --> 00:06:52,000
+Let’s talk about our voice first, then the results, which is the Zhongyuan Hospital just mentioned
+
+105
+00:06:52,000 --> 00:06:56,000
+That is, we need to make some breakthroughs on the basis of existing
+
+106
+00:06:56,000 --> 00:07:00,000
+Let's use some animal models to see
+
+107
+00:07:00,000 --> 00:07:04,600
+Uh, how can immunotherapy go a step further, uh, to improve the effect of lung transformation?
+
+108
+00:07:04,600 --> 00:07:07,200
+Then this is my postdoctoral researcher Dr. Jiaren Wu
+
+109
+00:07:07,200 --> 00:07:09,480
+And the lab assistant, uh
+
+110
+00:07:09,480 --> 00:07:12,280
+He used to be National Taiwan University, uh, Vincent & Associates
+
+111
+00:07:12,280 --> 00:07:13,680
+Graduating master's students
+
+112
+00:07:13,680 --> 00:07:15,200
+Yes, Cai Yiting
+
+113
+00:07:15,200 --> 00:07:17,080
+oh their work
+
+114
+00:07:17,080 --> 00:07:21,080
+What about the other thing? Today’s slides are all in Chinese.
+
+115
+00:07:21,080 --> 00:07:22,800
+that includes some animation
+
+116
+00:07:22,800 --> 00:07:24,760
+Then invite us to this one
+
+117
+00:07:24,760 --> 00:07:28,600
+Mr. Zhang Fengbi from the art room, Mr. Zhang Zimin, assisted
+
+118
+00:07:28,680 --> 00:07:31,200
+come on make these slides
+
+119
+00:07:33,920 --> 00:07:36,480
+ok first sentence
+
+120
+00:07:36,480 --> 00:07:39,200
+This may scare many people
+
+121
+00:07:39,200 --> 00:07:43,440
+Everyone has cancer cells in their bodies, including the current
+
+122
+00:07:43,440 --> 00:07:47,360
+In fact, of course I can't say so, uh, sure
+
+123
+00:07:47,360 --> 00:07:52,120
+But from the evidence of many animal experiments, I will show you the evidence later
+
+124
+00:07:52,120 --> 00:07:54,600
+Maybe we all have cancer cells in our bodies
+
+125
+00:07:54,600 --> 00:07:55,720
+good
+
+126
+00:07:55,760 --> 00:07:59,440
+So why are most of us still cancer-free?
+
+127
+00:07:59,440 --> 00:08:00,040
+that's because we
+
+128
+00:08:00,000 --> 00:08:01,000
+no immune system
+
+129
+00:08:01,460 --> 00:08:02,460
+help you in
+
+130
+00:08:02,760 --> 00:08:03,760
+overcome
+
+131
+00:08:05,200 --> 00:08:06,820
+against these cancer cells
+
+132
+00:08:08,180 --> 00:08:11,200
+then let me first introduce
+
+133
+00:08:11,200 --> 00:08:13,860
+Cancers that are common in Taiwan and the world
+
+134
+00:08:14,080 --> 00:08:16,580
+this is 104 years
+
+135
+00:08:16,580 --> 00:08:18,080
+Cancer Ranking in Taiwan
+
+136
+00:08:18,080 --> 00:08:20,420
+In fact, almost none of these have changed.
+
+137
+00:08:20,420 --> 00:08:22,920
+Lung cancer in the first three years
+
+138
+00:08:23,420 --> 00:08:26,340
+Liver cancer Muscle intestine Spinal bowel
+
+139
+00:08:26,340 --> 00:08:29,000
+Fatty bowel, liver cancer, colorectal cancer
+
+140
+00:08:30,000 --> 00:08:31,840
+Look at the world ranking
+
+141
+00:08:32,120 --> 00:08:33,120
+he
+
+142
+00:08:33,460 --> 00:08:36,960
+The top few are lung cancer, brain cancer and colorectal cancer
+
+143
+00:08:36,960 --> 00:08:39,460
+So your brain cancer ranks fourth in Taiwan
+
+144
+00:08:39,460 --> 00:08:41,960
+But it is second in the world
+
+145
+00:08:42,160 --> 00:08:44,160
+highest death rate
+
+146
+00:08:44,600 --> 00:08:46,260
+The highest death rate is lung cancer
+
+147
+00:08:47,200 --> 00:08:49,940
+Then came liver cancer, then colon cancer
+
+148
+00:08:51,340 --> 00:08:53,500
+So this is our common
+
+149
+00:08:53,500 --> 00:08:56,160
+Right now it's been going on for 20+ years
+
+150
+00:08:57,000 --> 00:08:59,160
+Cancer is the first of the top ten experiments
+
+151
+00:09:00,000 --> 00:09:02,600
+So the shape of human disease will actually change
+
+152
+00:09:02,600 --> 00:09:06,240
+related to our medical technology
+
+153
+00:09:07,240 --> 00:09:08,920
+I'll show you guys later
+
+154
+00:09:08,920 --> 00:09:10,840
+is how medical technology
+
+155
+00:09:10,840 --> 00:09:12,840
+How to change the shape of our disease
+
+156
+00:09:12,840 --> 00:09:14,840
+Now everyone is most afraid of cancer
+
+157
+00:09:15,400 --> 00:09:17,240
+but 50 years ago
+
+158
+00:09:17,240 --> 00:09:18,640
+Everyone is most afraid that it is not cancer
+
+159
+00:09:19,160 --> 00:09:20,320
+is another disease
+
+160
+00:09:20,320 --> 00:09:21,640
+many infectious diseases
+
+161
+00:09:22,640 --> 00:09:27,640
+Another point is the treatment of cancer
+
+162
+00:09:27,640 --> 00:09:30,640
+The most effective cancer treatment available now
+
+163
+00:09:30,640 --> 00:09:32,640
+should be detected early
+
+164
+00:09:33,640 --> 00:09:35,640
+if you catch cancer early
+
+165
+00:09:36,640 --> 00:09:37,640
+no matter what treatment
+
+166
+00:09:38,640 --> 00:09:40,640
+its cure rate
+
+167
+00:09:40,640 --> 00:09:42,640
+are very high
+
+168
+00:09:43,640 --> 00:09:45,640
+For example, take this example
+
+169
+00:09:45,640 --> 00:09:47,640
+this colorectal cancer
+
+170
+00:09:47,640 --> 00:09:49,640
+colorectal cancer
+
+171
+00:09:49,640 --> 00:09:52,640
+colorectal cancer in this place
+
+172
+00:09:52,640 --> 00:09:54,640
+Original colorectal cancer
+
+173
+00:09:54,640 --> 00:09:55,640
+when you find out
+
+174
+00:09:55,640 --> 00:09:57,640
+If it belongs to the early
+
+175
+00:09:57,640 --> 00:09:59,640
+Doctors have many ways to control
+
+176
+00:10:00,000 --> 00:10:02,000
+Surgical disaster was probably the first
+
+177
+00:10:02,000 --> 00:10:07,000
+In addition, you can use local radiation therapy
+
+178
+00:10:07,000 --> 00:10:12,000
+But if this IC package spreads
+
+179
+00:10:12,000 --> 00:10:16,000
+Diffusion is about leaving this original position
+
+180
+00:10:16,000 --> 00:10:19,000
+Transfer to Hall 08 Vascular
+
+181
+00:10:19,000 --> 00:10:23,000
+For example, in this case it will go through this dry portal vein
+
+182
+00:10:23,000 --> 00:10:26,000
+The dry portal vein is where our intestines
+
+183
+00:10:26,000 --> 00:10:30,000
+a very important source of blood supply
+
+184
+00:10:30,000 --> 00:10:32,000
+With this dry portal vein
+
+185
+00:10:32,000 --> 00:10:35,000
+The IC package will spread to the first station
+
+186
+00:10:35,000 --> 00:10:36,000
+just do it
+
+187
+00:10:36,000 --> 00:10:38,000
+Many colorectal cancer patients
+
+188
+00:10:38,000 --> 00:10:40,000
+may exceed 50%
+
+189
+00:10:40,000 --> 00:10:43,000
+after diagnosis
+
+190
+00:10:43,000 --> 00:10:48,000
+dry transfer
+
+191
+00:10:48,000 --> 00:10:49,000
+25%
+
+192
+00:10:49,000 --> 00:10:53,000
+Another 45% were found to have dry metastases after treatment
+
+193
+00:10:54,000 --> 00:10:56,000
+So if we can detect early
+
+194
+00:10:56,000 --> 00:10:58,000
+before dry transfer
+
+195
+00:10:58,000 --> 00:11:00,000
+able to treat patients of this size
+
+196
+00:11:00,000 --> 00:11:02,000
+Colorectal cancer has a very high cure rate
+
+197
+00:11:04,440 --> 00:11:06,440
+What's more
+
+198
+00:11:06,440 --> 00:11:08,440
+This is it
+
+199
+00:11:08,440 --> 00:11:09,440
+metastatic cancer
+
+200
+00:11:09,440 --> 00:11:12,440
+In fact, it is the biggest difficulty in our treatment.
+
+201
+00:11:12,440 --> 00:11:14,440
+Once the cancer has metastasized
+
+202
+00:11:14,440 --> 00:11:16,440
+In fact, we have very few weapons at our disposal.
+
+203
+00:11:16,440 --> 00:11:17,940
+chemotherapy
+
+204
+00:11:17,940 --> 00:11:19,940
+Still the first-line drug
+
+205
+00:11:19,940 --> 00:11:21,940
+additional targeted therapy
+
+206
+00:11:21,940 --> 00:11:25,940
+But these are very difficult
+
+207
+00:11:25,940 --> 00:11:27,940
+completely cured
+
+208
+00:11:27,940 --> 00:11:29,940
+The patient with metastatic cancer
+
+209
+00:11:29,940 --> 00:11:31,940
+Immunotherapy until now
+
+210
+00:11:31,940 --> 00:11:33,940
+start to see
+
+211
+00:11:33,940 --> 00:11:34,940
+seems to be ok
+
+212
+00:11:34,940 --> 00:11:36,940
+it can be cured
+
+213
+00:11:36,940 --> 00:11:37,940
+Metastatic cancer in the past
+
+214
+00:11:37,940 --> 00:11:39,940
+You rarely use a term like cure
+
+215
+00:11:39,940 --> 00:11:41,940
+Most of the past
+
+216
+00:11:41,940 --> 00:11:43,940
+years of survival
+
+217
+00:11:43,940 --> 00:11:44,940
+one year survival rate
+
+218
+00:11:44,940 --> 00:11:45,940
+three-year survival rate
+
+219
+00:11:45,940 --> 00:11:46,940
+five-year survival rate
+
+220
+00:11:46,940 --> 00:11:48,940
+rarely cured
+
+221
+00:11:48,940 --> 00:11:50,940
+so now we can start talking slowly
+
+222
+00:11:50,940 --> 00:11:52,940
+It seems that some patients
+
+223
+00:11:52,940 --> 00:11:53,940
+seems to be cured
+
+224
+00:11:53,940 --> 00:11:55,940
+But since I haven't observed long enough
+
+225
+00:11:55,940 --> 00:11:57,940
+So it takes experience
+
+226
+00:11:57,940 --> 00:11:59,940
+But from the current data
+
+227
+00:12:00,000 --> 00:12:03,900
+Looking at these data, it looks like he is very rich, very rich
+
+228
+00:12:06,140 --> 00:12:07,680
+that this
+
+229
+00:12:08,460 --> 00:12:11,980
+The research is published in very top journals called Nature journals
+
+230
+00:12:11,980 --> 00:12:13,640
+You may have heard
+
+231
+00:12:14,060 --> 00:12:16,060
+That's actually this
+
+232
+00:12:16,060 --> 00:12:19,360
+It turns out that I like to use it as a reference
+
+233
+00:12:19,360 --> 00:12:22,560
+to prove that it is possible that every normal human body
+
+234
+00:12:22,560 --> 00:12:23,560
+may be cancerous
+
+235
+00:12:24,000 --> 00:12:28,060
+That's how he does it, he does this experiment
+
+236
+00:12:28,060 --> 00:12:29,060
+signature
+
+237
+00:12:29,220 --> 00:12:32,740
+Then inject some chemical natural substances into this experimental department
+
+238
+00:12:33,440 --> 00:12:36,780
+It seems that we usually come into contact with some natural substances
+
+239
+00:12:36,780 --> 00:12:40,080
+You eat the sun that shines inside our environment
+
+240
+00:12:40,080 --> 00:12:43,140
+Some natural substances exist, so we have been exposed to
+
+241
+00:12:43,680 --> 00:12:46,360
+Then this experiment he found
+
+242
+00:12:46,580 --> 00:12:49,580
+He injected these natural substances, a few mice
+
+243
+00:12:49,580 --> 00:12:50,960
+a tumor
+
+244
+00:12:52,740 --> 00:12:54,260
+then he knocks him out
+
+245
+00:12:55,700 --> 00:12:58,100
+What he really wants to ask is, and
+
+246
+00:12:58,100 --> 00:12:59,960
+what about most mice
+
+247
+00:13:00,000 --> 00:13:03,240
+after two hundred days
+
+248
+00:13:03,240 --> 00:13:04,740
+looks healthy
+
+249
+00:13:04,740 --> 00:13:08,240
+so he asked a few questions
+
+250
+00:13:08,240 --> 00:13:11,940
+First, these contacts
+
+251
+00:13:11,940 --> 00:13:16,440
+Rats exposed to chemicals from tap water 200 days ago
+
+252
+00:13:16,440 --> 00:13:18,940
+inside his body
+
+253
+00:13:18,940 --> 00:13:20,740
+Are there cancer cells?
+
+254
+00:13:20,740 --> 00:13:22,840
+This is the first question
+
+255
+00:13:22,840 --> 00:13:25,640
+The second question is
+
+256
+00:13:25,640 --> 00:13:27,440
+if he
+
+257
+00:13:27,440 --> 00:13:29,440
+These mice have cancer cells in them
+
+258
+00:13:29,640 --> 00:13:31,640
+why doesn't he grow into a cancer
+
+259
+00:13:31,640 --> 00:13:33,640
+Why does it still look healthy
+
+260
+00:13:35,640 --> 00:13:37,640
+The third question is
+
+261
+00:13:37,640 --> 00:13:43,640
+Is that because of the protection provided by the immune system in these mice
+
+262
+00:13:43,640 --> 00:13:47,640
+So he aimed at this experiment to answer these questions
+
+263
+00:13:47,640 --> 00:13:49,140
+His method is very simple
+
+264
+00:13:49,140 --> 00:13:52,640
+Because in the laboratory where we do immunization
+
+265
+00:13:52,640 --> 00:13:54,140
+have some tools
+
+266
+00:13:54,140 --> 00:13:57,140
+We can regulate, control our immune system
+
+267
+00:13:57,140 --> 00:13:58,640
+For example
+
+268
+00:13:58,640 --> 00:13:59,740
+For example this, if
+
+269
+00:14:00,000 --> 00:14:03,320
+The immune system provides protection
+
+270
+00:14:03,320 --> 00:14:06,000
+Then if we destroy the immunity of this mouse
+
+271
+00:14:06,000 --> 00:14:08,920
+So if the mouse has cancer cells
+
+272
+00:14:08,920 --> 00:14:10,160
+Will it grow out then?
+
+273
+00:14:10,160 --> 00:14:13,160
+So logically it should be easy to understand
+
+274
+00:14:13,160 --> 00:14:15,400
+So that's really how it works
+
+275
+00:14:15,400 --> 00:14:18,280
+It can use some antibody drugs
+
+276
+00:14:18,280 --> 00:14:22,120
+different types of immune cells
+
+277
+00:14:22,120 --> 00:14:24,040
+clear up destroy
+
+278
+00:14:24,040 --> 00:14:26,800
+it turns out that
+
+279
+00:14:26,920 --> 00:14:31,120
+If you destroy the immune cells of the mice
+
+280
+00:14:31,120 --> 00:14:32,600
+especially cell
+
+281
+00:14:32,600 --> 00:14:33,600
+this is us tonight
+
+282
+00:14:33,600 --> 00:14:37,280
+The most important protagonist of all is to lift the cells
+
+283
+00:14:37,280 --> 00:14:39,680
+it found that fifty percent of the mice
+
+284
+00:14:39,680 --> 00:14:42,040
+You see it's here two hundred days later
+
+285
+00:14:42,040 --> 00:14:44,440
+It puts this antibody drug in
+
+286
+00:14:44,440 --> 00:14:47,760
+destroy our immune cells
+
+287
+00:14:47,760 --> 00:14:50,320
+As a result, once it destroys the cell
+
+288
+00:14:50,320 --> 00:14:55,840
+You can see that more than half of the mice grow out of their seeds
+
+289
+00:14:55,840 --> 00:14:59,760
+So this experiment clearly proves that
+
+290
+00:15:00,000 --> 00:15:05,000
+In mice that had been exposed to chemicals
+
+291
+00:15:05,000 --> 00:15:07,000
+must have cancer cells
+
+292
+00:15:08,000 --> 00:15:12,000
+It's just the mouse's immune system
+
+293
+00:15:12,000 --> 00:15:16,000
+Especially the protection provided by kick cells
+
+294
+00:15:16,000 --> 00:15:21,000
+So although it has cancer cells, it can coexist peacefully with it
+
+295
+00:15:21,000 --> 00:15:24,000
+It's fine if it doesn't grow cancer
+
+296
+00:15:24,000 --> 00:15:26,000
+so think about it
+
+297
+00:15:26,000 --> 00:15:30,000
+That means we can be exposed to chemicals that may be more
+
+298
+00:15:30,000 --> 00:15:33,000
+chemical source may be more
+
+299
+00:15:33,000 --> 00:15:34,000
+We have native objects in the environment
+
+300
+00:15:34,000 --> 00:15:37,000
+There are chemical origins and physical origins
+
+301
+00:15:37,000 --> 00:15:40,000
+There are also some viruses that come from
+
+302
+00:15:40,000 --> 00:15:43,000
+But most of us are actually pretty healthy.
+
+303
+00:15:44,000 --> 00:15:46,000
+He has to thank our immune system
+
+304
+00:15:47,000 --> 00:15:49,000
+Do we really have cancer cells in our body?
+
+305
+00:15:49,000 --> 00:15:52,000
+It's actually hard to judge
+
+306
+00:15:53,000 --> 00:15:57,000
+This may depend on our most sophisticated
+
+307
+00:15:57,000 --> 00:16:00,000
+Cancer cell detection system
+
+308
+00:16:00,000 --> 00:16:05,000
+Well, now it’s probably CT, this kind of computerized tomography
+
+309
+00:16:05,000 --> 00:16:09,000
+The computerized tomography scan, we all know its sensitivity
+
+310
+00:16:09,000 --> 00:16:18,000
+If it is about 0.3 cm to 0.5 cm, it is difficult to confirm
+
+311
+00:16:18,000 --> 00:16:22,000
+a little bit, the size of a grain of rice
+
+312
+00:16:22,000 --> 00:16:27,000
+But everyone knows this, how many cancer cells are there in a tumor of this size
+
+313
+00:16:28,000 --> 00:16:33,000
+Hundreds of millions, that is to say, the sensitivity of our current detection
+
+314
+00:16:33,000 --> 00:16:38,000
+For example, below 0.3 cm, it is actually difficult for us to detect this kind of
+
+315
+00:16:38,000 --> 00:16:42,000
+But there are already very, very many cancer cells in it.
+
+316
+00:16:44,000 --> 00:16:47,000
+Fortunately, most of the immune types are healthy.
+
+317
+00:16:47,000 --> 00:16:50,000
+The other thing is that we have to take care of our immune system
+
+318
+00:16:50,000 --> 00:16:53,000
+Then let it work normally
+
+319
+00:16:53,000 --> 00:16:57,000
+So maintaining a healthy lifestyle has become very important
+
+320
+00:17:00,000 --> 00:17:05,320
+Next, I will talk about immunotherapy from the beginning.
+
+321
+00:17:05,320 --> 00:17:07,200
+The Past of Cancer Immunotherapy
+
+322
+00:17:07,200 --> 00:17:12,480
+This is about a very young doctor at that time.
+
+323
+00:17:12,480 --> 00:17:17,240
+Called Dr. Corley
+
+324
+00:17:17,240 --> 00:17:23,600
+This Dr. Corley was around the end of the 19th century
+
+325
+00:17:23,600 --> 00:17:25,360
+he is a surgeon
+
+326
+00:17:25,360 --> 00:17:28,520
+At that time there was only one treatment for cancer
+
+327
+00:17:29,440 --> 00:17:31,280
+It's surgery
+
+328
+00:17:31,280 --> 00:17:34,040
+Traditional Therapeutic Radiation Today
+
+329
+00:17:34,040 --> 00:17:37,160
+Madam Juju hadn't discovered
+
+330
+00:17:37,160 --> 00:17:38,440
+chemotherapy not yet
+
+331
+00:17:38,440 --> 00:17:40,120
+Don't put off treatment later
+
+332
+00:17:40,120 --> 00:17:43,000
+The only thing is to cut
+
+333
+00:17:43,000 --> 00:17:46,000
+Dr. Corley found
+
+334
+00:17:46,000 --> 00:17:47,920
+he observed clinically
+
+335
+00:17:47,920 --> 00:17:50,480
+In fact, many of our medical advances are like this
+
+336
+00:17:50,480 --> 00:17:52,240
+Just start from observation
+
+337
+00:17:52,240 --> 00:17:53,600
+then you will be curious
+
+338
+00:17:53,600 --> 00:17:56,720
+Curiosity triggers your research motivation
+
+339
+00:17:56,720 --> 00:17:58,040
+he found out
+
+340
+00:17:58,040 --> 00:17:59,960
+He found a patient in Fresh Stand
+
+341
+00:18:00,000 --> 00:18:06,000
+With his surgeon expertise, he thinks this patient probably won't live long.
+
+342
+00:18:06,000 --> 00:18:12,000
+However, this patient developed a bacterial infection during hospitalization.
+
+343
+00:18:12,000 --> 00:18:16,000
+He thought at that time, there were no antibiotics for humans
+
+344
+00:18:16,000 --> 00:18:19,000
+Bacterial infection is very serious
+
+345
+00:18:19,000 --> 00:18:23,000
+Then some patients may not make it through, and some patients may survive.
+
+346
+00:18:23,000 --> 00:18:28,000
+He discovered this Fresh Dan bacterial infection, repeated bacterial infections
+
+347
+00:18:28,000 --> 00:18:34,000
+But it is strange that after his bacterial infection is cured, he always disappears
+
+348
+00:18:34,000 --> 00:18:37,000
+So this was a big shock to him.
+
+349
+00:18:37,000 --> 00:18:42,000
+Because for his profession, the cancer he judged is already a terminal cancer patient.
+
+350
+00:18:42,000 --> 00:18:44,000
+how can it be good
+
+351
+00:18:44,000 --> 00:18:46,000
+So he put forward a hypothesis
+
+352
+00:18:46,000 --> 00:18:52,000
+In fact, you see, our science is all about observation, making hypotheses, and making bold assumptions.
+
+353
+00:18:52,000 --> 00:18:54,000
+Be careful next time
+
+354
+00:18:54,000 --> 00:19:00,000
+Then he did it and came up with a hypothesis. He thought maybe it was a bacterial infection and it was cured.
+
+355
+00:19:00,000 --> 00:19:04,720
+This Freshden's cancer
+
+356
+00:19:04,720 --> 00:19:08,320
+Then he went back to find their hospital
+
+357
+00:19:08,320 --> 00:19:10,920
+this new york cancer hospital
+
+358
+00:19:10,920 --> 00:19:14,120
+Is there a similar case
+
+359
+00:19:14,120 --> 00:19:17,320
+As a result, he found more than 30 similar cases
+
+360
+00:19:17,320 --> 00:19:18,800
+Bacterial infection occurs
+
+361
+00:19:18,800 --> 00:19:21,280
+As a result, almost half of the cancer disappeared
+
+362
+00:19:21,280 --> 00:19:26,760
+So this caused him to be more active
+
+363
+00:19:26,760 --> 00:19:30,680
+So he started to execute the first
+
+364
+00:19:30,680 --> 00:19:33,560
+looks dangerous now
+
+365
+00:19:33,560 --> 00:19:36,280
+a so-called human experiment
+
+366
+00:19:36,280 --> 00:19:40,800
+He finds the next patient to see him
+
+367
+00:19:40,800 --> 00:19:42,640
+Called Signal Zola
+
+368
+00:19:42,640 --> 00:19:45,440
+Everyone look at this, he has a photo to keep
+
+369
+00:19:45,440 --> 00:19:46,680
+have invested in
+
+370
+00:19:46,680 --> 00:19:50,560
+Then it has metastasized to the lungs and variable glands
+
+371
+00:19:50,560 --> 00:19:54,880
+This patient probably won't live long.
+
+372
+00:19:54,880 --> 00:19:59,160
+Then this case will carry out his clinical trial
+
+373
+00:19:59,160 --> 00:19:59,880
+Bacteria
+
+374
+00:20:00,000 --> 00:20:03,000
+injected into his tumor
+
+375
+00:20:03,000 --> 00:20:08,000
+In the end, I called once, twice, three times, but it didn't seem to work.
+
+376
+00:20:08,000 --> 00:20:10,000
+He also does not cause infection
+
+377
+00:20:10,000 --> 00:20:13,000
+Of course the tumor is fine
+
+378
+00:20:13,000 --> 00:20:15,000
+Then he wondered if his bacteria wasn't doing well
+
+379
+00:20:15,000 --> 00:20:19,000
+So I found this one
+
+380
+00:20:19,000 --> 00:20:23,000
+Those who have attended junior high school, high school, or religious studies
+
+381
+00:20:23,000 --> 00:20:26,000
+This is the famous Koho
+
+382
+00:20:26,000 --> 00:20:28,000
+father of bacteriology
+
+383
+00:20:28,000 --> 00:20:31,000
+He's the one who came up with the Koho collimator
+
+384
+00:20:31,000 --> 00:20:34,000
+german science prize
+
+385
+00:20:34,000 --> 00:20:36,000
+just go ask him
+
+386
+00:20:36,000 --> 00:20:39,000
+because he invented a way to grow bacteria
+
+387
+00:20:39,000 --> 00:20:44,000
+So you get the purest, most powerful bacteria
+
+388
+00:20:44,000 --> 00:20:46,000
+As a result, after he injected the bacteria
+
+389
+00:20:46,000 --> 00:20:51,000
+Sure enough, it caused a serious bacterial infection.
+
+390
+00:20:51,000 --> 00:20:56,000
+chills, nausea, vomiting, fever
+
+391
+00:20:56,000 --> 00:20:58,000
+This isolated symptom occurs
+
+392
+00:20:58,000 --> 00:21:00,000
+This is a serious bacterial infection
+
+393
+00:21:00,000 --> 00:21:01,000
+if found
+
+394
+00:21:02,400 --> 00:21:05,400
+Symptoms of this bacterial infection
+
+395
+00:21:05,400 --> 00:21:07,400
+What did you find?
+
+396
+00:21:07,640 --> 00:21:09,920
+This patient has cancer in his head
+
+397
+00:21:09,920 --> 00:21:12,640
+It disappeared completely within two weeks.
+
+398
+00:21:13,200 --> 00:21:15,280
+Cancer is also under control
+
+399
+00:21:16,800 --> 00:21:18,200
+Then the patient will be discharged
+
+400
+00:21:19,120 --> 00:21:21,600
+This was supposed to last a few weeks
+
+401
+00:21:21,840 --> 00:21:23,360
+eight more years
+
+402
+00:21:23,360 --> 00:21:25,520
+But then his cancer came back
+
+403
+00:21:26,640 --> 00:21:28,560
+But these eight years are earned
+
+404
+00:21:29,120 --> 00:21:31,120
+The healthy ones lived for eight years
+
+405
+00:21:31,920 --> 00:21:33,120
+What about Koho?
+
+406
+00:21:33,120 --> 00:21:35,120
+the collie
+
+407
+00:21:35,480 --> 00:21:37,080
+he invented
+
+408
+00:21:37,360 --> 00:21:41,880
+He thought he was doing the right thing
+
+409
+00:21:42,480 --> 00:21:43,480
+for treatment
+
+410
+00:21:43,480 --> 00:21:45,800
+Therefore, during his decades as a criminal doctor
+
+411
+00:21:45,800 --> 00:21:47,880
+He published about 1500 cases
+
+412
+00:21:48,880 --> 00:21:50,520
+he has 500 cases
+
+413
+00:21:51,240 --> 00:21:53,320
+is effective for cancer
+
+414
+00:21:54,400 --> 00:21:55,320
+is one third
+
+415
+00:21:55,920 --> 00:21:57,720
+This is actually from the current point of view
+
+416
+00:21:57,720 --> 00:22:00,160
+It is also an unlikely figure
+
+417
+00:22:00,000 --> 00:22:03,720
+but it's a pity to say
+
+418
+00:22:03,720 --> 00:22:06,240
+At that time, everyone didn't know about immunology
+
+419
+00:22:06,240 --> 00:22:08,320
+no basis in immunology
+
+420
+00:22:08,320 --> 00:22:10,000
+don't know how it works
+
+421
+00:22:10,000 --> 00:22:13,040
+Its biggest problem is that it can do it well and others can't do it
+
+422
+00:22:13,040 --> 00:22:14,080
+other people's consciousness can't do it
+
+423
+00:22:14,080 --> 00:22:17,320
+for any medical action
+
+424
+00:22:17,320 --> 00:22:20,200
+The method of medical treatment must be repeated
+
+425
+00:22:20,200 --> 00:22:21,520
+That is to say, I did it at National Taiwan University.
+
+426
+00:22:21,520 --> 00:22:23,360
+It should be done in City University
+
+427
+00:22:23,360 --> 00:22:29,000
+Otherwise, if you only rely on some individual reports
+
+428
+00:22:29,320 --> 00:22:33,120
+The absence of recurrence does not actually constitute an effective medical
+
+429
+00:22:33,120 --> 00:22:35,720
+So this is what we need to do clinical trials
+
+430
+00:22:35,720 --> 00:22:39,320
+Different levels of clinical trials are a big reason
+
+431
+00:22:39,320 --> 00:22:47,080
+So an early result of this Coly like this
+
+432
+00:22:47,080 --> 00:22:51,400
+have received little attention from the medical profession.
+
+433
+00:22:51,400 --> 00:22:55,360
+Slowly, after a few years
+
+434
+00:22:55,360 --> 00:22:58,640
+Mrs. Gilly found Ray
+
+435
+00:22:58,640 --> 00:22:59,800
+then start
+
+436
+00:23:00,000 --> 00:23:03,360
+Even entered the era of Radiation radiation therapy
+
+437
+00:23:04,440 --> 00:23:06,720
+Then around 1940
+
+438
+00:23:07,600 --> 00:23:11,720
+Discovery of chemical drug that kills cancer cells
+
+439
+00:23:12,520 --> 00:23:15,520
+entered the era of chemotherapy
+
+440
+00:23:16,320 --> 00:23:17,880
+then around 2000
+
+441
+00:23:18,520 --> 00:23:23,000
+It was found that cancer cells have mutations in some genes than normal cells
+
+442
+00:23:23,520 --> 00:23:28,720
+That can use some drugs to control these mutant receptors
+
+443
+00:23:28,880 --> 00:23:30,360
+This is called targeted therapy
+
+444
+00:23:32,000 --> 00:23:33,240
+it's listed here
+
+445
+00:23:34,520 --> 00:23:38,400
+Surgery Radiotherapy Chemotherapy Targeted Therapy
+
+446
+00:23:39,560 --> 00:23:42,320
+Then this constitutes the mainstream of cancer treatment now.
+
+447
+00:23:42,840 --> 00:23:45,000
+Immunotherapy has been only in academia
+
+448
+00:23:45,400 --> 00:23:47,280
+And even in academia people don't quite believe
+
+449
+00:23:48,440 --> 00:23:49,400
+until recently
+
+450
+00:23:50,200 --> 00:23:54,360
+These are the developments that I want to introduce to you after today.
+
+451
+00:23:54,360 --> 00:23:54,860
+good
+
+452
+00:23:57,480 --> 00:23:59,720
+Alright, the next thing I want to do is to introduce to you
+
+453
+00:24:00,000 --> 00:24:02,000
+the body's immune system
+
+454
+00:24:03,000 --> 00:24:07,000
+The immune system is not actually developed to treat cancer
+
+455
+00:24:08,000 --> 00:24:11,000
+Because of our surrounding environment
+
+456
+00:24:11,000 --> 00:24:13,000
+There have always been a lot of vitamins
+
+457
+00:24:13,000 --> 00:24:17,000
+Everyone is protected by the immune system without realizing it.
+
+458
+00:24:17,000 --> 00:24:19,000
+you don't know how precious it is
+
+459
+00:24:19,000 --> 00:24:20,000
+because everyone looks healthy
+
+460
+00:24:20,000 --> 00:24:22,000
+But you need to know the importance of the immune system to health
+
+461
+00:24:22,000 --> 00:24:23,000
+it's actually really easy
+
+462
+00:24:23,000 --> 00:24:26,000
+You can know it from immunocompromised patients
+
+463
+00:24:27,000 --> 00:24:28,000
+If the patient
+
+464
+00:24:28,000 --> 00:24:30,000
+Whether congenital or acquired
+
+465
+00:24:30,000 --> 00:24:32,000
+lack of immune system
+
+466
+00:24:32,000 --> 00:24:35,000
+He can't survive under normal circumstances
+
+467
+00:24:35,000 --> 00:24:39,000
+Like a famous example called Bobble Child
+
+468
+00:24:39,000 --> 00:24:40,000
+His innate immune switch
+
+469
+00:24:40,000 --> 00:24:46,000
+He lives in a segregated village
+
+470
+00:24:47,000 --> 00:24:49,000
+and then all the activities
+
+471
+00:24:49,000 --> 00:24:51,000
+must be performed in a sterile environment
+
+472
+00:24:52,000 --> 00:24:53,000
+Generally speaking, it is normal for us
+
+473
+00:24:53,000 --> 00:24:55,000
+These dimensional creatures are not at all a problem
+
+474
+00:24:55,000 --> 00:24:57,000
+Probably well known to him
+
+475
+00:25:00,000 --> 00:25:03,260
+The immune system is actually helping us deal with all these creatures
+
+476
+00:25:05,760 --> 00:25:07,760
+This is innate, each of us has
+
+477
+00:25:09,260 --> 00:25:11,560
+We just need to learn now
+
+478
+00:25:11,560 --> 00:25:15,460
+How to apply it and train it
+
+479
+00:25:15,960 --> 00:25:21,460
+Let it help us fight the disease
+
+480
+00:25:22,460 --> 00:25:25,260
+But the immune system is actually doing two things at once
+
+481
+00:25:25,600 --> 00:25:27,600
+it should have heard font immune disease
+
+482
+00:25:30,300 --> 00:25:33,300
+If immune hyperactivation
+
+483
+00:25:34,200 --> 00:25:37,700
+or it was supposed to attack dimensional creatures
+
+484
+00:25:37,700 --> 00:25:40,200
+If it turns out to attack your own cells,
+
+485
+00:25:40,700 --> 00:25:41,700
+that's an autoimmune disease
+
+486
+00:25:42,200 --> 00:25:44,000
+Font immune disease is actually very difficult to treat
+
+487
+00:25:44,000 --> 00:25:46,300
+related to genetics
+
+488
+00:25:46,800 --> 00:25:48,300
+So how to control the immune system
+
+489
+00:25:48,300 --> 00:25:52,700
+Make it able to deal with alien invading dimensional creatures
+
+490
+00:25:53,000 --> 00:25:55,000
+If it's cancer, let it fight the cancer
+
+491
+00:25:55,600 --> 00:25:58,400
+But don't kill your own cells
+
+492
+00:25:58,400 --> 00:25:59,400
+then become a big
+
+493
+00:26:00,000 --> 00:26:02,000
+an important area
+
+494
+00:26:06,000 --> 00:26:08,000
+Then I will briefly introduce
+
+495
+00:26:08,000 --> 00:26:10,000
+immune system
+
+496
+00:26:11,000 --> 00:26:14,000
+all immune cells
+
+497
+00:26:14,000 --> 00:26:16,000
+it has an immune
+
+498
+00:26:16,000 --> 00:26:18,000
+Blast cells that we call bone marrow
+
+499
+00:26:18,000 --> 00:26:20,000
+hematopoietic stem cells
+
+500
+00:26:20,000 --> 00:26:22,000
+Called Hematopoietis stem cells
+
+501
+00:26:24,000 --> 00:26:27,000
+In adults these hematopoietic stem cells
+
+502
+00:26:27,000 --> 00:26:30,000
+is the marrow in our bones
+
+503
+00:26:30,000 --> 00:26:32,000
+Look at the red bone marrow
+
+504
+00:26:33,000 --> 00:26:35,000
+That hematopoietic stem cell
+
+505
+00:26:35,000 --> 00:26:38,000
+It will be divided into two categories
+
+506
+00:26:38,000 --> 00:26:41,000
+Myeloid Globlasts
+
+507
+00:26:41,000 --> 00:26:44,000
+or lymphoblast
+
+508
+00:26:45,000 --> 00:26:49,000
+bone marrow blast
+
+509
+00:26:49,000 --> 00:26:52,000
+responsible for making our blood cells
+
+510
+00:26:53,000 --> 00:26:55,000
+erythrocyte
+
+511
+00:26:55,000 --> 00:26:57,000
+it has a lot of phagocytes
+
+512
+00:26:57,000 --> 00:26:59,000
+We are called white blood cells
+
+513
+00:26:59,000 --> 00:27:00,000
+so you see white blood cells
+
+514
+00:27:00,000 --> 00:27:06,000
+Another large group we call lymphoblasts
+
+515
+00:27:06,000 --> 00:27:11,000
+These lymphoblasts are responsible for making T lymphocytes
+
+516
+00:27:11,000 --> 00:27:14,000
+And B lymphocytes
+
+517
+00:27:14,000 --> 00:27:17,000
+Everyone has heard of antibodies
+
+518
+00:27:17,000 --> 00:27:21,000
+Antibodies are mainly after activation of B lymphocytes
+
+519
+00:27:21,000 --> 00:27:25,000
+These proteins that are produced and secreted into the blood
+
+520
+00:27:25,000 --> 00:27:28,000
+Can recognize external whys
+
+521
+00:27:29,000 --> 00:27:32,000
+entire immune system
+
+522
+00:27:32,000 --> 00:27:35,000
+The most important category is probably this
+
+523
+00:27:35,000 --> 00:27:37,000
+that you want to phagocyte
+
+524
+00:27:37,000 --> 00:27:40,000
+Phagocyte encounters bacteria within the first instant
+
+525
+00:27:40,000 --> 00:27:42,000
+devour it
+
+526
+00:27:42,000 --> 00:27:44,000
+We use the following reality to explain
+
+527
+00:27:44,000 --> 00:27:47,000
+Write a few slides for everyone to see
+
+528
+00:27:47,000 --> 00:27:49,000
+This is seen with an electron microscope
+
+529
+00:27:49,000 --> 00:27:52,000
+This is a white blood cell
+
+530
+00:27:52,000 --> 00:27:54,000
+erythrocyte
+
+531
+00:27:54,000 --> 00:27:56,000
+Red blood cells are much more numerous than white blood cells
+
+532
+00:27:56,000 --> 00:27:58,000
+So let's look at red first
+
+533
+00:28:00,000 --> 00:28:03,020
+It is difficult for you to distinguish the electronic behavior of white blood cells
+
+534
+00:28:03,020 --> 00:28:05,520
+Which are phagocytes
+
+535
+00:28:05,520 --> 00:28:08,020
+Which ones are mention cells? They look similar
+
+536
+00:28:08,020 --> 00:28:11,020
+But if you do some special dyeing
+
+537
+00:28:11,280 --> 00:28:14,280
+Like the hematology department, he can go to draw blood after it comes out
+
+538
+00:28:14,280 --> 00:28:17,020
+He can do some special dyes and you'll see this form
+
+539
+00:28:17,020 --> 00:28:18,780
+Let's say these are red blood cells
+
+540
+00:28:19,520 --> 00:28:22,020
+Those are the white blood cells.
+
+541
+00:28:22,100 --> 00:28:25,160
+You see, the white blood cells look different, but here they look the same
+
+542
+00:28:26,040 --> 00:28:29,380
+It doesn't look the same on this side, it's just a four-neutral
+
+543
+00:28:30,020 --> 00:28:32,020
+leukocyte
+
+544
+00:28:32,360 --> 00:28:33,860
+This is a mononuclear ball
+
+545
+00:28:34,640 --> 00:28:37,440
+Then this should be a four-acid white blood cell
+
+546
+00:28:38,900 --> 00:28:40,700
+If you get leukemia
+
+547
+00:28:42,700 --> 00:28:46,860
+you'll find that certain types of this
+
+548
+00:28:47,100 --> 00:28:49,300
+A large increase in the number of white blood cells
+
+549
+00:28:54,400 --> 00:28:57,400
+Next, I will introduce to you
+
+550
+00:28:57,400 --> 00:28:59,400
+I clearly want to know how to deal with foreigners for a living
+
+551
+00:29:00,000 --> 00:29:03,000
+Everyone, look at this secret
+
+552
+00:29:05,000 --> 00:29:08,000
+These tubular systems
+
+553
+00:29:08,000 --> 00:29:10,000
+These are called lymphatic vessels
+
+554
+00:29:11,000 --> 00:29:14,000
+And what about these little black balls?
+
+555
+00:29:14,000 --> 00:29:15,000
+want lymph nodes
+
+556
+00:29:17,000 --> 00:29:20,000
+After the blood cells are made from that bone marrow
+
+557
+00:29:21,000 --> 00:29:22,000
+climbed into the blood vessel
+
+558
+00:29:22,000 --> 00:29:25,000
+Then search for blood vessels all over the body
+
+559
+00:29:26,000 --> 00:29:28,000
+with lymphatic circulation
+
+560
+00:29:30,000 --> 00:29:32,000
+first person to find it
+
+561
+00:29:33,000 --> 00:29:34,000
+if found
+
+562
+00:29:34,000 --> 00:29:38,000
+It sends out the function of going straight to destroy the invading creatures
+
+563
+00:29:39,000 --> 00:29:40,000
+can't find it
+
+564
+00:29:40,000 --> 00:29:41,000
+it has a certain lifespan
+
+565
+00:29:41,000 --> 00:29:42,000
+it will die
+
+566
+00:29:43,000 --> 00:29:44,000
+after death
+
+567
+00:29:44,000 --> 00:29:48,000
+Our modeling mother cells continue to make these white blood cells
+
+568
+00:29:49,000 --> 00:29:51,000
+So let's maintain a certain balance
+
+569
+00:29:52,000 --> 00:29:52,000
+
+570
+00:29:52,000 --> 00:29:53,000
+if cancer
+
+571
+00:29:54,000 --> 00:29:54,000
+
+572
+00:29:54,000 --> 00:29:56,000
+Chemo here has serious side effects
+
+573
+00:29:56,000 --> 00:29:58,000
+That is, it will cause the white blood cells to drop
+
+574
+00:30:00,000 --> 00:30:02,240
+Of course this becomes very susceptible to nosocomial infections
+
+575
+00:30:03,020 --> 00:30:06,720
+In fact, because chemotherapy drugs will kill our hematopoietic mother cells
+
+576
+00:30:07,520 --> 00:30:10,960
+After killing, its ability to produce white blood cells declines
+
+577
+00:30:11,760 --> 00:30:12,520
+will become less
+
+578
+00:30:14,080 --> 00:30:19,080
+So these phagocytes in our body
+
+579
+00:30:19,720 --> 00:30:22,680
+It will be the first time of course there are aliens as creatures once invaded
+
+580
+00:30:23,560 --> 00:30:26,520
+It will be the first time these alien creatures
+
+581
+00:30:27,520 --> 00:30:28,520
+swallow
+
+582
+00:30:28,520 --> 00:30:29,520
+So everyone phagocytes
+
+583
+00:30:29,520 --> 00:30:32,520
+I'll show you this video later
+
+584
+00:30:32,520 --> 00:30:37,520
+After swallowing, of course, many bacteria are controlled in this way
+
+585
+00:30:38,520 --> 00:30:41,520
+But some are more pathogenic
+
+586
+00:30:41,520 --> 00:30:43,520
+it is not afraid of phagocytes
+
+587
+00:30:45,520 --> 00:30:48,520
+Like the phagocytic cells I mentioned, it has another characteristic
+
+588
+00:30:48,520 --> 00:30:50,520
+it will after phagocytosis bacteria
+
+589
+00:30:50,520 --> 00:30:54,520
+it transforms into what are called antigen presenting cells
+
+590
+00:30:55,520 --> 00:30:58,520
+It will carry this germ, the devoured germ
+
+591
+00:30:58,520 --> 00:30:59,520
+Enter the 08 system
+
+592
+00:31:00,000 --> 00:31:02,000
+Go to Section 08
+
+593
+00:31:02,000 --> 00:31:06,000
+In Section 08, it will encounter the T cell just mentioned
+
+594
+00:31:08,000 --> 00:31:14,000
+Then this antigen presenting cell is exposed to activate 08 cell in section 08
+
+595
+00:31:14,000 --> 00:31:17,000
+triggers a germ-specific immune response
+
+596
+00:31:19,000 --> 00:31:22,000
+Then what about these 08 cells
+
+597
+00:31:22,000 --> 00:31:25,000
+Through blood circulation and 08 circulation
+
+598
+00:31:25,000 --> 00:31:29,000
+find invading bacteria
+
+599
+00:31:30,000 --> 00:31:31,000
+destroy it
+
+600
+00:31:31,000 --> 00:31:35,000
+This is how all our immune systems work
+
+601
+00:31:35,000 --> 00:31:38,000
+Then I will show you the video now
+
+602
+00:31:43,000 --> 00:31:46,000
+this is a phagocyte
+
+603
+00:31:46,000 --> 00:31:50,000
+an electron to kill bacteria
+
+604
+00:31:50,000 --> 00:31:52,000
+a microscope film
+
+605
+00:31:57,000 --> 00:31:58,000
+wait a minute
+
+606
+00:31:58,000 --> 00:32:00,000
+Here spread a neutrophil is
+
+607
+00:32:00,000 --> 00:32:02,000
+red blood cells in the middle
+
+608
+00:32:17,280 --> 00:32:19,780
+Because some people may not understand English well
+
+609
+00:32:19,780 --> 00:32:21,280
+i was explaining
+
+610
+00:32:23,080 --> 00:32:25,080
+This is a four middle white blood cell
+
+611
+00:32:25,960 --> 00:32:27,460
+it's just bacteria
+
+612
+00:32:27,460 --> 00:32:28,960
+it's just red blood cells
+
+613
+00:32:30,000 --> 00:32:32,000
+Staphylococcus aureus
+
+614
+00:32:33,520 --> 00:32:35,520
+start chasing this
+
+615
+00:32:38,520 --> 00:32:40,520
+Chemicals in the middle of bacteria four
+
+616
+00:32:40,520 --> 00:32:42,200
+attract it to chase
+
+617
+00:33:00,000 --> 00:33:02,000
+So the Uighurs it produces are called phagocytes
+
+618
+00:33:02,000 --> 00:33:04,000
+So it's called a phagocyte
+
+619
+00:33:04,000 --> 00:33:06,000
+right
+
+620
+00:33:06,000 --> 00:33:08,000
+oh no
+
+621
+00:33:08,000 --> 00:33:10,000
+this it has some that
+
+622
+00:33:10,000 --> 00:33:12,000
+that
+
+623
+00:33:12,000 --> 00:33:14,000
+Adjustment
+
+624
+00:33:14,000 --> 00:33:16,000
+so you see it says
+
+625
+00:33:16,000 --> 00:33:18,000
+if you use those
+
+626
+00:33:18,000 --> 00:33:20,000
+To see our body's detailed multi-dimensional organisms
+
+627
+00:33:20,000 --> 00:33:22,000
+Once the software is hacked
+
+628
+00:33:22,000 --> 00:33:24,000
+Phagocytes will immediately
+
+629
+00:33:24,000 --> 00:33:26,000
+become a cell
+
+630
+00:33:26,000 --> 00:33:28,000
+so it is
+
+631
+00:33:28,000 --> 00:33:30,000
+After hacking software
+
+632
+00:33:30,000 --> 00:33:32,000
+Phagocytes immediately go after it
+
+633
+00:33:32,000 --> 00:33:34,000
+that swallows it up
+
+634
+00:33:34,000 --> 00:33:36,000
+After talking about devouring
+
+635
+00:33:36,000 --> 00:33:38,000
+it will go to section 08 first
+
+636
+00:33:38,000 --> 00:33:40,000
+present antigen to cells
+
+637
+00:33:40,000 --> 00:33:42,000
+so this is the first step
+
+638
+00:33:42,000 --> 00:33:44,000
+Phagocytosis
+
+639
+00:33:44,000 --> 00:33:46,000
+ok then let's
+
+640
+00:33:46,000 --> 00:33:48,000
+look at
+
+641
+00:33:48,000 --> 00:33:50,000
+next
+
+642
+00:33:58,000 --> 00:34:00,000
+Subtitler Zither Harp
+
+643
+00:34:00,000 --> 00:34:13,000
+Well, here, this one looks like bacteria, over there hairs, bacteria are completely different from our human cells
+
+644
+00:34:13,000 --> 00:34:23,000
+So for the immune system, this job is very easy, it is very easy, it is easy to distinguish which are bacteria and which are cells of our limbs
+
+645
+00:34:24,000 --> 00:34:33,000
+It does not attack its own cells, it attacks bacteria, and bacteria have some special structures, which we call pathogen-associated molecular structures
+
+646
+00:34:33,000 --> 00:34:39,000
+Those who speak English don’t need to read it, because the fraiserin means to become hairy
+
+647
+00:34:39,000 --> 00:34:49,000
+Then there are some components called lipopolisaccharide, cell B, bacterial cell B, human cells do not have cell B
+
+648
+00:34:49,000 --> 00:35:00,000
+So of course there is no lps, but the plate below is its receptor, the receptor that recognizes these molecular structures
+
+649
+00:35:00,000 --> 00:35:06,000
+Some of these receptors recognize different molecular structures
+
+650
+00:35:06,000 --> 00:35:17,000
+So this is the principle why our phagocytic cells can find bacteria and viruses to swallow them
+
+651
+00:35:17,000 --> 00:35:27,000
+Phagocytosis when bacteria just don't see V. aureus being phagocytized by our secondary neutrophils
+
+652
+00:35:27,000 --> 00:35:30,000
+One thing happens after devouring
+
+653
+00:35:30,000 --> 00:35:37,000
+Just looking for our artist, is it a big principle or how bacteria phagocytosis
+
+654
+00:35:37,000 --> 00:35:42,000
+It will have a different molecular structure on the bacteria due to phagocytosis
+
+655
+00:35:42,000 --> 00:35:46,000
+In addition to devouring it, it actually activates it
+
+656
+00:35:46,000 --> 00:35:48,000
+it gets fierce
+
+657
+00:35:48,000 --> 00:35:54,000
+It's pretty empty after phagocytizing bacteria
+
+658
+00:35:54,000 --> 00:35:57,000
+an activated phagocyte
+
+659
+00:35:57,000 --> 00:36:00,000
+Activated phagocytes have
+
+660
+00:36:00,000 --> 00:36:02,820
+Ability to present antigens to T cells
+
+661
+00:36:03,480 --> 00:36:05,500
+If you are just one of these
+
+662
+00:36:06,240 --> 00:36:09,080
+original antigenicity
+
+663
+00:36:09,080 --> 00:36:11,640
+It presents to T cells that function is actually poor
+
+664
+00:36:12,160 --> 00:36:14,980
+What about activated antigen-presenting cells?
+
+665
+00:36:14,980 --> 00:36:17,980
+It can present antigens, which are derived from bacteria
+
+666
+00:36:17,980 --> 00:36:20,360
+right if it's kennzer
+
+667
+00:36:20,360 --> 00:36:23,220
+tumor antigen
+
+668
+00:36:25,340 --> 00:36:28,440
+But, it also needs to represent co-stimulatory molecules
+
+669
+00:36:28,460 --> 00:36:30,220
+It has to represent cell technology
+
+670
+00:36:30,380 --> 00:36:32,780
+This is only activated
+
+671
+00:36:32,780 --> 00:36:36,780
+Phagocytes, which look fierce, have this ability
+
+672
+00:36:39,000 --> 00:36:40,000
+Then
+
+673
+00:36:40,940 --> 00:36:43,580
+Next this activated phagocyte
+
+674
+00:36:43,580 --> 00:36:47,080
+I just talked about antigens, it shows antigens, a little bit of red
+
+675
+00:36:48,780 --> 00:36:52,000
+co-stimulatory molecular cell technology
+
+676
+00:36:52,000 --> 00:36:55,000
+act together on a single T cell
+
+677
+00:36:55,080 --> 00:36:56,960
+When T cells activate
+
+678
+00:36:57,840 --> 00:36:58,840
+Split
+
+679
+00:36:59,400 --> 00:37:00,400
+differentiation
+
+680
+00:37:00,000 --> 00:37:02,000
+he lived a long time
+
+681
+00:37:02,000 --> 00:37:06,000
+What about T cells like this?
+
+682
+00:37:06,000 --> 00:37:09,000
+He was also a very kind T cell
+
+683
+00:37:09,000 --> 00:37:12,000
+After being educated by antigen presenting cells
+
+684
+00:37:12,000 --> 00:37:16,000
+He'll also turn into an empty T-cell
+
+685
+00:37:16,000 --> 00:37:19,000
+and he will split
+
+686
+00:37:19,000 --> 00:37:24,000
+He has an immunity, that system has a characteristic
+
+687
+00:37:24,000 --> 00:37:27,000
+that is, T cells
+
+688
+00:37:28,000 --> 00:37:32,000
+A certain type of T cell, such as the T cell activated by this bacterium
+
+689
+00:37:32,000 --> 00:37:34,000
+He can only recognize this bacterium
+
+690
+00:37:34,000 --> 00:37:37,000
+He doesn't care about other enemies
+
+691
+00:37:37,000 --> 00:37:40,000
+For example, if I'm working on the hepatitis B virus
+
+692
+00:37:40,000 --> 00:37:45,000
+What if antigenic phagocytes present this hepatitis B virus
+
+693
+00:37:45,000 --> 00:37:47,000
+antigen to this T cell
+
+694
+00:37:47,000 --> 00:37:50,000
+The trained T cells only recognize liver B
+
+695
+00:37:50,000 --> 00:37:53,000
+He doesn't care about other enemies
+
+696
+00:37:54,000 --> 00:37:56,000
+This is what vaccines do
+
+697
+00:37:56,000 --> 00:37:58,000
+After we have a certain vaccine
+
+698
+00:37:58,000 --> 00:38:00,000
+these immune responses
+
+699
+00:38:00,000 --> 00:38:01,600
+Only recognize this vaccine
+
+700
+00:38:01,600 --> 00:38:02,900
+other viruses
+
+701
+00:38:02,900 --> 00:38:03,900
+sorry he doesn't care
+
+702
+00:38:05,400 --> 00:38:07,600
+So we have to find the right antigen
+
+703
+00:38:08,600 --> 00:38:11,000
+to elicit a response to this antigen
+
+704
+00:38:11,000 --> 00:38:12,100
+T cell response
+
+705
+00:38:14,500 --> 00:38:15,300
+That
+
+706
+00:38:16,500 --> 00:38:17,100
+microorganism
+
+707
+00:38:17,100 --> 00:38:18,600
+You can easily know what his antigen is
+
+708
+00:38:19,300 --> 00:38:21,200
+But cancer is hard for you to know
+
+709
+00:38:21,500 --> 00:38:22,900
+cancer cells
+
+710
+00:38:22,900 --> 00:38:25,000
+It's actually a change in your own cells
+
+711
+00:38:25,800 --> 00:38:27,700
+It's actually very, very similar to your own cells
+
+712
+00:38:28,500 --> 00:38:29,800
+I just talked about the immune system
+
+713
+00:38:29,800 --> 00:38:31,000
+actually training
+
+714
+00:38:31,000 --> 00:38:31,700
+exist
+
+715
+00:38:31,700 --> 00:38:34,000
+in the process of growing
+
+716
+00:38:34,000 --> 00:38:35,500
+it will have received an education
+
+717
+00:38:35,500 --> 00:38:37,200
+We call it negative selection
+
+718
+00:38:38,200 --> 00:38:39,300
+in immune cells
+
+719
+00:38:39,300 --> 00:38:40,400
+Trained in T cells
+
+720
+00:38:40,400 --> 00:38:43,200
+It does not recognize antigens on its own cells
+
+721
+00:38:44,200 --> 00:38:45,900
+avoid autoimmune disease
+
+722
+00:38:46,900 --> 00:38:48,500
+But because the i cells are different from your own cells
+
+723
+00:38:48,500 --> 00:38:49,400
+almost the same
+
+724
+00:38:50,200 --> 00:38:51,800
+So the immune system basically doesn't recognize him
+
+725
+00:38:52,600 --> 00:38:53,700
+or don't want to know him
+
+726
+00:38:55,100 --> 00:38:56,300
+In this situation
+
+727
+00:38:56,300 --> 00:38:57,900
+Is there a way to train the immune system
+
+728
+00:38:58,300 --> 00:38:58,700
+separate
+
+729
+00:38:58,700 --> 00:38:59,800
+because of i-cell disease
+
+730
+00:39:00,000 --> 00:39:02,400
+Now scientific research is more and more clear
+
+731
+00:39:02,400 --> 00:39:04,680
+found that although it looks a lot alike
+
+732
+00:39:04,680 --> 00:39:06,680
+but not exactly the same
+
+733
+00:39:06,680 --> 00:39:09,680
+Because if it's exactly the same it won't become a cancer cell
+
+734
+00:39:09,680 --> 00:39:13,180
+So we find some differences
+
+735
+00:39:13,180 --> 00:39:15,180
+train your immune system
+
+736
+00:39:15,180 --> 00:39:17,680
+to identify these differences
+
+737
+00:39:17,680 --> 00:39:19,180
+if it really works
+
+738
+00:39:19,180 --> 00:39:22,180
+It can specifically attack cancer cells
+
+739
+00:39:22,180 --> 00:39:25,180
+Achieve the effect of healing Kensel
+
+740
+00:39:27,180 --> 00:39:29,680
+So there is actually a concept here
+
+741
+00:39:29,680 --> 00:39:33,680
+The immune system is inactive under normal conditions
+
+742
+00:39:33,680 --> 00:39:36,680
+It only activates when it touches an enemy
+
+743
+00:39:36,680 --> 00:39:38,680
+when the enemy is eliminated
+
+744
+00:39:38,680 --> 00:39:42,680
+It means that those activated cells will die in large numbers
+
+745
+00:39:42,680 --> 00:39:46,680
+So this is what was just said
+
+746
+00:39:46,680 --> 00:39:48,680
+These T cells have several properties
+
+747
+00:39:48,680 --> 00:39:50,680
+the first one it will split a lot
+
+748
+00:39:50,680 --> 00:39:53,680
+When you encounter, say, the hepatitis B virus
+
+749
+00:39:53,680 --> 00:39:56,680
+To deal with liver B, the T cells will divide in large numbers
+
+750
+00:39:56,680 --> 00:39:58,680
+This number becomes many
+
+751
+00:40:00,000 --> 00:40:03,400
+You can effectively control invasive sanitary species
+
+752
+00:40:04,280 --> 00:40:06,040
+The second is medical expertise
+
+753
+00:40:06,560 --> 00:40:09,160
+activated T cells
+
+754
+00:40:09,160 --> 00:40:11,400
+I only know this one virus that invaded
+
+755
+00:40:11,400 --> 00:40:13,200
+it doesn't care
+
+756
+00:40:13,360 --> 00:40:15,600
+So sometimes we have to get a lot of vaccines
+
+757
+00:40:15,600 --> 00:40:16,400
+play a dozen
+
+758
+00:40:16,560 --> 00:40:18,360
+train different T cells
+
+759
+00:40:18,360 --> 00:40:19,640
+different G8,G9 cells
+
+760
+00:40:19,640 --> 00:40:20,800
+against different bacteria
+
+761
+00:40:22,520 --> 00:40:23,800
+and memory
+
+762
+00:40:24,200 --> 00:40:25,600
+after a vaccination
+
+763
+00:40:25,600 --> 00:40:27,040
+some are lifetime
+
+764
+00:40:27,840 --> 00:40:30,640
+Because T cells are constantly replicating molecules by themselves
+
+765
+00:40:30,800 --> 00:40:31,600
+knitting
+
+766
+00:40:31,920 --> 00:40:34,040
+So when we meet again next time
+
+767
+00:40:34,040 --> 00:40:35,640
+It can be trained very quickly
+
+768
+00:40:36,240 --> 00:40:38,360
+So it has these basic properties
+
+769
+00:40:38,640 --> 00:40:40,440
+Expertise and memory
+
+770
+00:40:40,440 --> 00:40:41,360
+this is very good
+
+771
+00:40:41,360 --> 00:40:43,240
+because our cancer cells
+
+772
+00:40:43,720 --> 00:40:45,240
+We want to train T cells
+
+773
+00:40:45,240 --> 00:40:45,880
+only medical
+
+774
+00:40:45,880 --> 00:40:47,640
+it only targets cancer cells
+
+775
+00:40:47,640 --> 00:40:49,640
+not to deal with our normal cells
+
+776
+00:40:50,240 --> 00:40:51,640
+memory is also very good
+
+777
+00:40:52,360 --> 00:40:54,360
+your metastatic cancer cells
+
+778
+00:40:54,480 --> 00:40:55,400
+not yet killed
+
+779
+00:40:55,400 --> 00:40:56,920
+But we have T cells if they are still there
+
+780
+00:40:56,920 --> 00:40:58,840
+It can help you train again in the long run
+
+781
+00:41:00,000 --> 00:41:04,000
+Then you don't care where the diversion is to hide
+
+782
+00:41:04,000 --> 00:41:06,000
+Your T-C bag can track it
+
+783
+00:41:07,000 --> 00:41:09,000
+Then achieve the effect of long-term control
+
+784
+00:41:09,000 --> 00:41:11,000
+like just saw that mouse
+
+785
+00:41:11,000 --> 00:41:13,000
+It actually has cancer cells
+
+786
+00:41:13,000 --> 00:41:16,000
+But because it has a sound immune system, it is not afraid
+
+787
+00:41:17,000 --> 00:41:20,000
+It can still maintain a roughly healthy state of life
+
+788
+00:41:24,000 --> 00:41:27,000
+Then let me show you
+
+789
+00:41:27,000 --> 00:41:30,000
+It's the trained T-C bag, it's useless to stay in Section 08
+
+790
+00:41:30,000 --> 00:41:32,000
+Because its enemy is not in the 08 section
+
+791
+00:41:32,000 --> 00:41:35,000
+It goes to find its invading vitamins, which are bacteria.
+
+792
+00:41:35,000 --> 00:41:38,000
+If it's a cancer cell, it finds the metastatic cancer cells
+
+793
+00:41:38,000 --> 00:41:40,000
+It can't just stay in section 08
+
+794
+00:41:41,000 --> 00:41:45,000
+Then there are some complicated principles
+
+795
+00:41:45,000 --> 00:41:48,000
+then i will describe a little bit
+
+796
+00:41:48,000 --> 00:41:50,000
+watch a video later
+
+797
+00:41:50,000 --> 00:41:52,000
+That's a viral infection
+
+798
+00:41:52,000 --> 00:41:55,000
+1 The phagocytic cell will of course swallow it
+
+799
+00:41:55,000 --> 00:41:59,000
+After swallowing it, it will also be at the site of the infection
+
+800
+00:42:00,000 --> 00:42:03,160
+inflammatory reaction
+
+801
+00:42:03,160 --> 00:42:04,500
+Inflammatory reaction?
+
+802
+00:42:04,500 --> 00:42:06,140
+At this time, there will actually be some
+
+803
+00:42:06,140 --> 00:42:09,160
+compartmentalizing hormone and adsorbin
+
+804
+00:42:09,160 --> 00:42:11,720
+present at the site of infection
+
+805
+00:42:11,720 --> 00:42:12,720
+capillaries
+
+806
+00:42:13,060 --> 00:42:14,060
+above blood vessels
+
+807
+00:42:14,660 --> 00:42:16,580
+these in the blood
+
+808
+00:42:16,900 --> 00:42:19,160
+White blood cells when it goes in
+
+809
+00:42:19,420 --> 00:42:21,540
+It interacts with these adsorbed proteins
+
+810
+00:42:22,000 --> 00:42:24,840
+Then the white blood cells
+
+811
+00:42:26,000 --> 00:42:27,000
+Can
+
+812
+00:42:27,060 --> 00:42:29,060
+won't leave so quickly
+
+813
+00:42:29,060 --> 00:42:31,660
+It rolls over the infection site
+
+814
+00:42:31,660 --> 00:42:32,660
+out of shape
+
+815
+00:42:33,020 --> 00:42:36,020
+divert transfer into our organization
+
+816
+00:42:36,020 --> 00:42:37,860
+compartmentalization
+
+817
+00:42:37,860 --> 00:42:39,060
+find inflamed tissue
+
+818
+00:42:39,060 --> 00:42:41,360
+The inflamed tissue is actually the site of the infection.
+
+819
+00:42:42,360 --> 00:42:44,560
+Then by looping like this
+
+820
+00:42:44,560 --> 00:42:46,960
+can be expelled from the blood vessel
+
+821
+00:42:47,160 --> 00:42:48,460
+leave blood vessel
+
+822
+00:42:49,060 --> 00:42:51,560
+Find where the enemy is attacking
+
+823
+00:42:51,560 --> 00:42:53,560
+If it's cancer, find the cancer cells
+
+824
+00:42:53,760 --> 00:42:56,860
+If it is a bacterial infection, find the site of the bacterial infection
+
+825
+00:42:57,160 --> 00:42:58,160
+to destroy it
+
+826
+00:42:58,160 --> 00:43:00,160
+OK, let's see what happens next.
+
+827
+00:43:00,000 --> 00:43:01,000
+then you cut the video
+
+828
+00:43:12,120 --> 00:43:14,120
+Lukasite is white
+
+829
+00:43:14,120 --> 00:43:15,620
+Usually it's inside a blood vessel
+
+830
+00:43:15,620 --> 00:43:16,620
+It's the inflamed area
+
+831
+00:43:18,620 --> 00:43:21,620
+Bacterial infection releases cytokines
+
+832
+00:43:22,620 --> 00:43:24,620
+blood vessels at the site of infection
+
+833
+00:43:26,620 --> 00:43:28,620
+Expressed Adsorbin
+
+834
+00:43:31,000 --> 00:43:32,000
+to break
+
+835
+00:43:32,000 --> 00:43:33,400
+Appraisal component
+
+836
+00:43:33,400 --> 00:43:35,400
+Identify the parts of the ingredients
+
+837
+00:43:35,400 --> 00:43:37,080
+make them close
+
+838
+00:43:37,080 --> 00:43:39,080
+sugars on white blood cells
+
+839
+00:43:39,080 --> 00:43:40,080
+combine
+
+840
+00:43:40,080 --> 00:43:42,080
+They start rolling in the veins
+
+841
+00:43:42,080 --> 00:43:44,080
+sugars on white blood cells
+
+842
+00:43:44,080 --> 00:43:46,080
+They start rolling in the veins
+
+843
+00:43:50,080 --> 00:43:52,080
+or by cell
+
+844
+00:43:52,080 --> 00:43:54,080
+really insist
+
+845
+00:43:54,080 --> 00:43:55,080
+Enter
+
+846
+00:43:55,080 --> 00:43:57,080
+then the inflamed area
+
+847
+00:43:57,080 --> 00:43:59,080
+Parts that have not been identified
+
+848
+00:44:00,000 --> 00:44:07,000
+Then find the inflamed site, which is the site of bacterial infection, and eliminate it
+
+849
+00:44:07,000 --> 00:44:10,000
+it's a live animation
+
+850
+00:44:10,000 --> 00:44:13,000
+Here everyone see, this is an artery
+
+851
+00:44:13,000 --> 00:44:14,000
+This is the front
+
+852
+00:44:14,000 --> 00:44:16,000
+This direction is the direction of blood flow
+
+853
+00:44:16,000 --> 00:44:18,000
+Probably the flow speed is very fast, but in fact there are many, many blood cells
+
+854
+00:44:18,000 --> 00:44:21,000
+Then some white blood cells are absorbed here
+
+855
+00:44:21,000 --> 00:44:23,000
+some of them have entered the organization
+
+856
+00:44:23,000 --> 00:44:28,000
+You see, all these blood cells are absorbed in the veins
+
+857
+00:44:29,000 --> 00:44:31,000
+The arterial bleeds, blood cells cannot absorb
+
+858
+00:44:33,000 --> 00:44:35,000
+thanks then , some are crawling
+
+859
+00:44:36,000 --> 00:44:38,000
+some have gone in
+
+860
+00:44:41,000 --> 00:44:42,000
+then if you
+
+861
+00:44:45,000 --> 00:44:47,000
+This, this has entered the organization
+
+862
+00:44:51,000 --> 00:44:54,000
+This has entered your organization
+
+863
+00:44:54,000 --> 00:44:56,000
+out of blood vessels into tissue
+
+864
+00:44:56,000 --> 00:44:59,000
+It is for you to see the cells inside the blood vessel
+
+865
+00:45:00,000 --> 00:45:01,400
+clamp the blood vessels
+
+866
+00:45:01,400 --> 00:45:05,000
+So you see, so many cells can't flow now
+
+867
+00:45:05,000 --> 00:45:07,600
+So you can see, very, very cells inside that blood vessel
+
+868
+00:45:11,600 --> 00:45:13,400
+then turn it on
+
+869
+00:45:13,400 --> 00:45:14,400
+blood starts flowing again
+
+870
+00:45:16,400 --> 00:45:17,600
+As soon as you let it go, it starts flowing again
+
+871
+00:45:20,000 --> 00:45:23,000
+So our blood vessels are full of these blood vessels
+
+872
+00:45:30,000 --> 00:45:34,000
+So, the T cells after education
+
+873
+00:45:34,000 --> 00:45:36,000
+Involved in blood vessels
+
+874
+00:45:36,000 --> 00:45:38,000
+Then, through the effect just mentioned called adsorption
+
+875
+00:45:38,000 --> 00:45:41,000
+find the enemy it wants to attack
+
+876
+00:45:41,000 --> 00:45:43,000
+then go in and destroy it
+
+877
+00:45:48,000 --> 00:45:50,000
+ok , let ' s see next
+
+878
+00:45:54,000 --> 00:45:56,000
+Lukasites are white blood cells
+
+879
+00:46:00,000 --> 00:46:06,140
+ok then next
+
+880
+00:46:06,400 --> 00:46:15,100
+Actually I don't know
+
+881
+00:46:15,360 --> 00:46:18,940
+But it doesn’t seem to be because oil should be fat, it’s in the blood, I think
+
+882
+00:46:19,200 --> 00:46:21,500
+When it is very oily, there will be a lot of that and that lipid in it
+
+883
+00:46:21,760 --> 00:46:23,800
+Will this ingredient be in it?
+
+884
+00:46:24,060 --> 00:46:28,920
+It causes the blood cells not to absorb and don’t imagine that the principle of water pipes is not the same
+
+885
+00:46:29,120 --> 00:46:33,540
+But will it be true? In fact, when we do science, there is evidence to speak for itself. So
+
+886
+00:46:33,800 --> 00:46:34,300
+don't know
+
+887
+00:46:35,580 --> 00:46:36,600
+but
+
+888
+00:46:37,120 --> 00:46:38,640
+It must be bad for your health
+
+889
+00:46:41,720 --> 00:46:43,000
+especially for that new blood vessel
+
+890
+00:46:43,260 --> 00:46:44,800
+sure it must be bad
+
+891
+00:46:46,080 --> 00:46:47,360
+then next is
+
+892
+00:46:47,620 --> 00:46:48,900
+Didn't he just go in
+
+893
+00:46:49,400 --> 00:46:50,160
+Is the inflamed area right?
+
+894
+00:46:50,680 --> 00:46:52,980
+So if you find that infected cell, how does he kill him?
+
+895
+00:46:53,500 --> 00:46:54,520
+show him next
+
+896
+00:46:55,040 --> 00:46:56,060
+current
+
+897
+00:46:56,320 --> 00:46:57,600
+this this video this is a
+
+898
+00:46:57,600 --> 00:46:59,140
+electron microscope photo
+
+899
+00:47:00,000 --> 00:47:03,120
+A is the target cell is the Target Cell
+
+900
+00:47:03,120 --> 00:47:05,920
+So this could be a virus-infected cell
+
+901
+00:47:06,920 --> 00:47:08,320
+or cancer cells
+
+902
+00:47:09,820 --> 00:47:11,900
+Then this CTL
+
+903
+00:47:11,900 --> 00:47:14,240
+These are called killer T cells
+
+904
+00:47:14,240 --> 00:47:16,060
+Here I am called T cell, this is it
+
+905
+00:47:18,240 --> 00:47:21,480
+Then it recognizes the antigen by this
+
+906
+00:47:21,920 --> 00:47:23,520
+followed by T cell binding
+
+907
+00:47:23,520 --> 00:47:27,440
+Atrophy of target cells after binding
+
+908
+00:47:27,440 --> 00:47:29,920
+Within minutes the target cells begin to shrink
+
+909
+00:47:30,000 --> 00:47:32,680
+Because after it combines it will dissolve some mold
+
+910
+00:47:33,040 --> 00:47:35,720
+combined it creates a channel
+
+911
+00:47:36,040 --> 00:47:39,720
+Let this killer, some lytic mold in this T cell
+
+912
+00:47:39,720 --> 00:47:42,200
+Injected through this channel
+
+913
+00:47:42,200 --> 00:47:45,760
+This target cell to attack
+
+914
+00:47:46,140 --> 00:47:49,160
+Then the dissolving mold will work after it goes in.
+
+915
+00:47:49,160 --> 00:47:52,200
+Let the target cell start shrinking in a few minutes
+
+916
+00:47:52,200 --> 00:47:56,140
+Then its cell membrane will form some protruding small bubbles
+
+917
+00:47:56,760 --> 00:47:58,980
+Then the last cell dies
+
+918
+00:47:58,980 --> 00:48:00,120
+die
+
+919
+00:48:00,000 --> 00:48:03,300
+After that, everyone, everyone, look at the holes one by one.
+
+920
+00:48:05,460 --> 00:48:06,640
+this is in
+
+921
+00:48:07,020 --> 00:48:09,020
+Add ginger cells to break through
+
+922
+00:48:09,140 --> 00:48:10,380
+what is this cell
+
+923
+00:48:11,780 --> 00:48:14,020
+this is the whole process
+
+924
+00:48:14,020 --> 00:48:15,120
+I'll come then
+
+925
+00:48:16,340 --> 00:48:18,100
+control the time
+
+926
+00:48:18,780 --> 00:48:21,060
+We haven't even talked about the protagonist Ai Zheng yet.
+
+927
+00:48:22,920 --> 00:48:25,360
+Don't let him talk for so long
+
+928
+00:48:25,760 --> 00:48:28,080
+Let everyone see it directly
+
+929
+00:48:31,000 --> 00:48:32,000
+good
+
+930
+00:48:33,000 --> 00:48:35,000
+This is a white blood cell
+
+931
+00:48:39,940 --> 00:48:41,340
+This is a T cell
+
+932
+00:48:43,380 --> 00:48:46,440
+This is the target cell, the antigen on it
+
+933
+00:48:46,720 --> 00:48:48,340
+then after combining it with
+
+934
+00:48:49,140 --> 00:48:51,920
+will dissolve some concentrated mold
+
+935
+00:48:51,920 --> 00:48:53,220
+inject into
+
+936
+00:48:53,580 --> 00:48:54,580
+target cell
+
+937
+00:48:56,780 --> 00:48:59,100
+that makes the target cell die
+
+938
+00:49:00,000 --> 00:49:05,380
+we'll see next
+
+939
+00:49:05,380 --> 00:49:07,940
+there should be one
+
+940
+00:49:07,940 --> 00:49:12,040
+This is a virus-infected cell
+
+941
+00:49:12,040 --> 00:49:13,300
+before he was killed
+
+942
+00:49:13,300 --> 00:49:14,600
+He keeps releasing these viruses
+
+943
+00:49:14,600 --> 00:49:15,880
+He will kill himself and the virus will come out
+
+944
+00:49:15,880 --> 00:49:19,960
+We kill after TGPOL passes
+
+945
+00:49:19,960 --> 00:49:21,760
+Of course he won't know about the virus after killing it
+
+946
+00:49:21,760 --> 00:49:26,360
+So this is a principle of controlling viral infection
+
+947
+00:49:27,360 --> 00:49:32,000
+He has electron microscope pictures next
+
+948
+00:49:32,000 --> 00:49:35,060
+This is one of his Target Sales
+
+949
+00:49:35,060 --> 00:49:37,120
+This is white shoes
+
+950
+00:49:37,120 --> 00:49:38,400
+after combining
+
+951
+00:49:38,400 --> 00:49:41,200
+He now has a channel called Bridge
+
+952
+00:49:41,200 --> 00:49:42,740
+dissolve some mold
+
+953
+00:49:42,740 --> 00:49:44,540
+everyone see
+
+954
+00:49:44,540 --> 00:49:48,120
+inject it
+
+955
+00:49:48,120 --> 00:49:52,480
+After injection, it causes the shrinkage of the target cells
+
+956
+00:49:52,480 --> 00:49:54,000
+the cell membrane
+
+957
+00:49:54,060 --> 00:49:56,060
+transmission
+
+958
+00:49:56,060 --> 00:49:58,360
+look at it
+
+959
+00:49:58,360 --> 00:49:59,880
+in transmission
+
+960
+00:50:00,000 --> 00:50:12,000
+In the end, the cell is too big to die.
+
+961
+00:50:12,000 --> 00:50:16,000
+produce some small bubbles, then decompose
+
+962
+00:50:16,000 --> 00:50:20,000
+This T cell, it can find its next enemy
+
+963
+00:50:20,000 --> 00:50:26,000
+If this is an I cell, that's hopefully going to happen
+
+964
+00:50:26,000 --> 00:50:31,000
+And it's I cells, wherever they hide, T cells have the ability to find them
+
+965
+00:50:38,000 --> 00:50:41,000
+Next, what is immunotherapy?
+
+966
+00:50:41,000 --> 00:50:44,000
+The first one is really using your own body
+
+967
+00:50:44,000 --> 00:50:48,000
+In fact, it should be that you use your own body's immune system
+
+968
+00:50:48,000 --> 00:50:51,000
+to cure disease
+
+969
+00:50:51,000 --> 00:50:55,000
+immunotherapy
+
+970
+00:50:55,000 --> 00:50:58,000
+Here are some examples
+
+971
+00:51:00,000 --> 00:51:03,000
+or immune watermelon, or immune-related proteins
+
+972
+00:51:03,000 --> 00:51:05,000
+To treat a disease, it's called immunotherapy
+
+973
+00:51:05,000 --> 00:51:10,000
+There are two categories, active immunotherapy and passive immunotherapy
+
+974
+00:51:10,000 --> 00:51:14,000
+Active is immunotherapy, that is, using some drugs or vaccines
+
+975
+00:51:14,000 --> 00:51:18,000
+Activate the patient's own immune miniature
+
+976
+00:51:18,000 --> 00:51:21,000
+That is to say, this immune miniature is actually not stimulated, but stimulated.
+
+977
+00:51:21,000 --> 00:51:25,000
+For example, the vaccine itself does not have the ability to resist bacteria
+
+978
+00:51:25,000 --> 00:51:30,000
+It triggers the immune system of the immunized person, and it produces a protective effect
+
+979
+00:51:30,000 --> 00:51:35,000
+So the real active people are produced by the vaccine
+
+980
+00:51:35,000 --> 00:51:40,000
+So this is what we call active immunization, for example, you are injected with type B liver cancer vaccine
+
+981
+00:51:40,000 --> 00:51:46,000
+Afterwards, the injected baby will produce specialized comprehensive antibodies
+
+982
+00:51:46,000 --> 00:51:49,000
+Then it is no longer afraid of hepatitis B virus infection
+
+983
+00:51:49,000 --> 00:51:53,000
+So this antibody is produced by the baby, not injected by us
+
+984
+00:51:53,000 --> 00:51:58,000
+So this is what we call active immunotherapy
+
+985
+00:52:00,000 --> 00:52:03,000
+Then there are some critical situations
+
+986
+00:52:03,000 --> 00:52:06,000
+Because it takes a while for a vaccine to develop
+
+987
+00:52:06,000 --> 00:52:09,000
+Then when you are infected by a virus
+
+988
+00:52:09,000 --> 00:52:10,000
+it can't wait that long
+
+989
+00:52:10,000 --> 00:52:11,000
+it just keeps replicating
+
+990
+00:52:11,000 --> 00:52:14,000
+Waiting until your grass is not easy to produce is already bad
+
+991
+00:52:14,000 --> 00:52:18,000
+So when you say you accidentally get rubbed on your body
+
+992
+00:52:18,000 --> 00:52:21,000
+And know that this is like the love stagnation virus
+
+993
+00:52:21,000 --> 00:52:24,000
+There is this heteromorphic hepatic heart virus
+
+994
+00:52:24,000 --> 00:52:26,000
+Then you can no longer use vaccines at this time
+
+995
+00:52:26,000 --> 00:52:27,000
+Because it's too late
+
+996
+00:52:27,000 --> 00:52:30,000
+At this time, a large amount of antibodies are injected into the
+
+997
+00:52:30,000 --> 00:52:34,000
+So this antibody is produced by our event
+
+998
+00:52:34,000 --> 00:52:36,000
+then type in
+
+999
+00:52:36,000 --> 00:52:37,000
+So is tetanus
+
+1000
+00:52:37,000 --> 00:52:39,000
+you got rubbed by that rusty nail
+
+1001
+00:52:39,000 --> 00:52:40,000
+Hurry up and call
+
+1002
+00:52:40,000 --> 00:52:42,000
+That tetanus is vaccinated
+
+1003
+00:52:42,000 --> 00:52:44,000
+but some are poisonous
+
+1004
+00:52:44,000 --> 00:52:46,000
+Snake venom is directly injected with snake venom serum
+
+1005
+00:52:46,000 --> 00:52:51,000
+Synthesize the bacteria or virus
+
+1006
+00:52:51,000 --> 00:52:53,000
+or these toxins they produce
+
+1007
+00:52:53,000 --> 00:52:56,000
+This is called passive immunity
+
+1008
+00:53:00,000 --> 00:53:03,600
+are now used as cancer immunizers
+
+1009
+00:53:06,600 --> 00:53:09,500
+The next example in this period will come to an end.
+
+1010
+00:53:09,500 --> 00:53:11,100
+our body's immune system
+
+1011
+00:53:11,100 --> 00:53:14,300
+The immune person that everyone does not know in the body
+
+1012
+00:53:14,300 --> 00:53:15,600
+It turned out to be so effective
+
+1013
+00:53:15,600 --> 00:53:18,100
+But his example might scare me
+
+1014
+00:53:18,100 --> 00:53:19,300
+in roman times
+
+1015
+00:53:19,300 --> 00:53:21,900
+The average human life span is only in their 20s
+
+1016
+00:53:21,900 --> 00:53:23,400
+His so-called life is
+
+1017
+00:53:23,400 --> 00:53:24,800
+as long as you are born
+
+1018
+00:53:24,800 --> 00:53:26,800
+with death
+
+1019
+00:53:26,800 --> 00:53:28,000
+The death of the little baby is also counted
+
+1020
+00:53:29,000 --> 00:53:31,100
+because at that time
+
+1021
+00:53:31,100 --> 00:53:31,700
+think about it
+
+1022
+00:53:31,700 --> 00:53:32,700
+that's us now
+
+1023
+00:53:32,700 --> 00:53:33,800
+Born in Taiwan
+
+1024
+00:53:33,800 --> 00:53:37,200
+You get a dozen different vaccines
+
+1025
+00:53:37,200 --> 00:53:38,200
+why? because
+
+1026
+00:53:38,200 --> 00:53:41,000
+Babies are very susceptible to infection
+
+1027
+00:53:41,000 --> 00:53:43,400
+He may have received his mother in the first half of the year
+
+1028
+00:53:43,400 --> 00:53:44,000
+mother protection
+
+1029
+00:53:44,000 --> 00:53:47,400
+if breastfeeding
+
+1030
+00:53:47,400 --> 00:53:48,300
+but after that
+
+1031
+00:53:48,300 --> 00:53:51,200
+He needs to immunize himself
+
+1032
+00:53:51,200 --> 00:53:52,500
+to protect himself
+
+1033
+00:53:52,500 --> 00:53:55,500
+But for a while, it's actually quite dangerous
+
+1034
+00:53:55,600 --> 00:53:58,000
+So need to be vaccinated
+
+1035
+00:53:58,000 --> 00:54:00,400
+to accelerate the effect of this protection
+
+1036
+00:54:00,000 --> 00:54:05,000
+Even in medieval England in the 1500s
+
+1037
+00:54:05,000 --> 00:54:07,000
+Its overall average condition is still around 30 years
+
+1038
+00:54:07,000 --> 00:54:09,000
+it's been a long time now
+
+1039
+00:54:09,000 --> 00:54:12,000
+Now both Japan and Taiwan are 80 years old
+
+1040
+00:54:12,000 --> 00:54:15,000
+But some countries are still at 50
+
+1041
+00:54:15,000 --> 00:54:20,000
+In fact, this is a very important human invention
+
+1042
+00:54:20,000 --> 00:54:22,000
+is the vaccine
+
+1043
+00:54:22,000 --> 00:54:27,000
+I just said that vaccines are actually active immunity.
+
+1044
+00:54:28,000 --> 00:54:31,000
+You see how well this vaccine protects us
+
+1045
+00:54:31,000 --> 00:54:34,000
+These are what you see in Taiwan
+
+1046
+00:54:34,000 --> 00:54:37,000
+Almost the world's little despicable
+
+1047
+00:54:37,000 --> 00:54:39,000
+vaccines to be given
+
+1048
+00:54:39,000 --> 00:54:41,000
+For example, like the small ringgit vaccine
+
+1049
+00:54:41,000 --> 00:54:47,000
+Over 21,000 cases in 1952
+
+1050
+00:54:47,000 --> 00:54:51,000
+now zero
+
+1051
+00:54:51,000 --> 00:54:55,000
+You see everything else is like this
+
+1052
+00:54:55,000 --> 00:54:57,000
+so in the 1950s
+
+1053
+00:54:57,000 --> 00:54:59,000
+If you look at the top ten causes of death
+
+1054
+00:54:59,000 --> 00:55:00,000
+definitely more like
+
+1055
+00:55:00,000 --> 00:55:01,000
+completely different now
+
+1056
+00:55:02,860 --> 00:55:05,920
+Many of these infectious diseases should be
+
+1057
+00:55:06,560 --> 00:55:08,560
+So the shape of human disease is changing
+
+1058
+00:55:08,560 --> 00:55:09,560
+the vaccine was invented
+
+1059
+00:55:10,280 --> 00:55:11,780
+So our lifespan is extended
+
+1060
+00:55:11,780 --> 00:55:15,040
+After the extension, we will face another form of disease
+
+1061
+00:55:15,640 --> 00:55:16,640
+cancer
+
+1062
+00:55:17,600 --> 00:55:20,600
+So now cancer is our worst enemy
+
+1063
+00:55:22,240 --> 00:55:24,320
+But come to think of it, vaccines
+
+1064
+00:55:24,400 --> 00:55:28,160
+Help us deal with the top killers of our past
+
+1065
+00:55:28,920 --> 00:55:31,780
+Is there any way to use the same method now
+
+1066
+00:55:32,520 --> 00:55:34,260
+to activate the immune system
+
+1067
+00:55:34,560 --> 00:55:37,440
+Then it's not about dealing with alien dimensional creatures at this time.
+
+1068
+00:55:38,120 --> 00:55:42,280
+It's to deal with the cancer cells after the transformation of your body's cells
+
+1069
+00:55:43,520 --> 00:55:46,720
+Is there a way for the immune system to achieve this character?
+
+1070
+00:55:47,120 --> 00:55:49,360
+So we're going to introduce you to
+
+1071
+00:55:49,360 --> 00:55:51,360
+Then the system he uses is just introduced to you
+
+1072
+00:55:51,360 --> 00:55:52,440
+What are these killers?
+
+1073
+00:55:52,440 --> 00:55:53,960
+Phagocytes or T cells
+
+1074
+00:55:53,960 --> 00:55:55,160
+still these things
+
+1075
+00:55:58,160 --> 00:56:00,160
+good
+
+1076
+00:56:00,000 --> 00:56:03,000
+Here are the top 10 causes of death
+
+1077
+00:56:03,000 --> 00:56:05,000
+Cancer is now number one
+
+1078
+00:56:05,000 --> 00:56:08,000
+Probably close to 30%
+
+1079
+00:56:08,000 --> 00:56:13,000
+But it wasn't like that in the 1950s
+
+1080
+00:56:13,000 --> 00:56:19,000
+That's because a lot of the big part is the vaccine development wages
+
+1081
+00:56:19,000 --> 00:56:22,000
+Next comes cancer cells, cancer
+
+1082
+00:56:22,000 --> 00:56:28,000
+Cancer doesn't just pop up out of thin air.
+
+1083
+00:56:28,000 --> 00:56:31,000
+In fact, it is also a process, because many of you should know
+
+1084
+00:56:31,000 --> 00:56:33,000
+everyone has culture theory
+
+1085
+00:56:33,000 --> 00:56:38,000
+try to survive in the earth environment
+
+1086
+00:56:38,000 --> 00:56:43,000
+Organisms best suited to this environment can survive
+
+1087
+00:56:43,000 --> 00:56:46,000
+When the environment changes you need to have some mutation
+
+1088
+00:56:46,000 --> 00:56:49,000
+Some genetic variation is required
+
+1089
+00:56:49,000 --> 00:56:52,000
+This mutation makes you more suitable for this environment
+
+1090
+00:56:52,000 --> 00:56:56,000
+In this group, probably most of the members of the group died
+
+1091
+00:56:56,000 --> 00:57:00,000
+These organisms can stay because they are suitable for this environment
+
+1092
+00:57:00,000 --> 00:57:04,340
+This is called things, those who live in peace, those who live in the world
+
+1093
+00:57:04,340 --> 00:57:07,220
+Cancer cells are actually produced in this way
+
+1094
+00:57:12,000 --> 00:57:16,500
+This edited theory of what we call cancer
+
+1095
+00:57:16,500 --> 00:57:19,500
+I will use this very complicated picture to introduce it to him.
+
+1096
+00:57:19,500 --> 00:57:23,500
+The gray cells are some normal cells
+
+1097
+00:57:24,500 --> 00:57:29,000
+when it's stimulated by a number of different carcinogens
+
+1098
+00:57:31,000 --> 00:57:33,500
+Of course it will transform, and some will turn into cancer cells
+
+1099
+00:57:33,500 --> 00:57:36,500
+So I just said that many people may have cancer cells physiologically
+
+1100
+00:57:38,000 --> 00:57:41,500
+But in the early days, during the elimination period
+
+1101
+00:57:43,000 --> 00:57:45,000
+We have a very good and sound Burmese system here
+
+1102
+00:57:46,500 --> 00:57:48,500
+Kill him as soon as your cancer cells come out
+
+1103
+00:57:49,000 --> 00:57:52,500
+So you don't even know, you still feel healthy
+
+1104
+00:57:54,500 --> 00:57:57,000
+Most people are in this state
+
+1105
+00:57:57,000 --> 00:58:00,000
+But some are still sick
+
+1106
+00:58:00,000 --> 00:58:01,540
+Cancer is becoming more and more
+
+1107
+00:58:01,540 --> 00:58:02,640
+this starts
+
+1108
+00:58:02,640 --> 00:58:04,200
+Because what the IC package just said
+
+1109
+00:58:04,200 --> 00:58:05,500
+survival of the fittest
+
+1110
+00:58:06,500 --> 00:58:09,000
+IC package if he is not applicable in
+
+1111
+00:58:09,000 --> 00:58:10,700
+who here chooses him
+
+1112
+00:58:10,700 --> 00:58:11,300
+who is going to attack him
+
+1113
+00:58:11,300 --> 00:58:11,940
+is the immune system
+
+1114
+00:58:11,940 --> 00:58:12,600
+what does he apply
+
+1115
+00:58:12,600 --> 00:58:13,600
+he has to adapt the immune system
+
+1116
+00:58:15,000 --> 00:58:16,300
+If he can adapt the immune system
+
+1117
+00:58:16,300 --> 00:58:17,400
+It's because he's not afraid of the immune system
+
+1118
+00:58:17,400 --> 00:58:19,000
+he has a chance to survive
+
+1119
+00:58:19,800 --> 00:58:21,600
+So there are some IC packages
+
+1120
+00:58:21,900 --> 00:58:25,500
+changes in his genes
+
+1121
+00:58:25,800 --> 00:58:29,100
+His ability to attack immune cells
+
+1122
+00:58:29,200 --> 00:58:30,300
+Greater tolerance
+
+1123
+00:58:31,600 --> 00:58:33,500
+So these few IC packages
+
+1124
+00:58:34,200 --> 00:58:35,100
+survive
+
+1125
+00:58:36,100 --> 00:58:38,800
+At this time, we enter the so-called coexistence period.
+
+1126
+00:58:40,100 --> 00:58:41,800
+The coexistence period is your IC package
+
+1127
+00:58:42,400 --> 00:58:43,100
+Although in
+
+1128
+00:58:43,500 --> 00:58:45,300
+But you can't go too far
+
+1129
+00:58:46,000 --> 00:58:47,700
+You just maintain a certain amount
+
+1130
+00:58:47,700 --> 00:58:48,400
+that's good
+
+1131
+00:58:48,900 --> 00:58:50,100
+I obviously controlled you first
+
+1132
+00:58:50,500 --> 00:58:52,300
+keep you out of trouble
+
+1133
+00:58:53,300 --> 00:58:55,200
+Most likely to remain in this state
+
+1134
+00:58:56,900 --> 00:58:58,700
+How to destroy this balance
+
+1135
+00:58:58,700 --> 00:58:59,600
+a balance is to say
+
+1136
+00:59:00,000 --> 00:59:01,000
+immune system compromised
+
+1137
+00:59:03,140 --> 00:59:04,900
+under certain conditions
+
+1138
+00:59:05,100 --> 00:59:07,400
+or take some immunosuppressants
+
+1139
+00:59:07,400 --> 00:59:10,280
+or other reasons for your immune system to
+
+1140
+00:59:10,280 --> 00:59:11,700
+Decreased immune protection
+
+1141
+00:59:11,700 --> 00:59:13,700
+At this time, cancer cells have a chance to win
+
+1142
+00:59:13,700 --> 00:59:17,200
+or the continued evolution of cancer cells
+
+1143
+00:59:18,260 --> 00:59:19,920
+Because your immune system is going to attack him
+
+1144
+00:59:19,920 --> 00:59:21,220
+killed by him
+
+1145
+00:59:21,220 --> 00:59:22,920
+If he survives, he will not be afraid of you
+
+1146
+00:59:24,000 --> 00:59:26,500
+So he slowly and gradually changed
+
+1147
+00:59:26,500 --> 00:59:29,100
+This process may take a year or two, maybe ten or twenty years
+
+1148
+00:59:30,500 --> 00:59:33,000
+So in the end you have some cancer cells
+
+1149
+00:59:33,000 --> 00:59:37,000
+After he's trained, he's less afraid of your immune system attacking.
+
+1150
+00:59:38,000 --> 00:59:43,000
+He has the opportunity to be under the condition of immune cell attack
+
+1151
+00:59:43,000 --> 00:59:45,000
+He was also able to grow a large tumor
+
+1152
+00:59:45,000 --> 00:59:47,000
+This is a clinical tumor
+
+1153
+00:59:47,000 --> 00:59:48,000
+this time you will see a doctor
+
+1154
+00:59:49,000 --> 00:59:51,000
+So that is
+
+1155
+00:59:51,000 --> 00:59:53,000
+You see those oncologists in the clinic
+
+1156
+00:59:53,000 --> 00:59:55,000
+He faces very familiar problems
+
+1157
+00:59:55,000 --> 00:59:57,000
+because all these cancer cells
+
+1158
+00:59:57,000 --> 00:59:59,000
+He is already in such a state of shock
+
+1159
+00:59:59,000 --> 01:00:00,000
+i'm so scared
+
+1160
+01:00:00,000 --> 01:00:02,380
+Then the IC protection of your patient's immune system
+
+1161
+01:00:02,380 --> 01:00:03,740
+grow out to grow out
+
+1162
+01:00:03,740 --> 01:00:05,740
+So you need immune drugs to control it
+
+1163
+01:00:05,740 --> 01:00:06,740
+Of course it's more difficult
+
+1164
+01:00:07,500 --> 01:00:10,460
+So this is the problem we face clinically
+
+1165
+01:00:10,460 --> 01:00:12,420
+how to deal with these
+
+1166
+01:00:12,420 --> 01:00:16,580
+The fighters of IC protection who have been shocked by the immune attack
+
+1167
+01:00:17,640 --> 01:00:19,460
+How to give this immune system again
+
+1168
+01:00:19,460 --> 01:00:21,920
+Stronger ability to eliminate these IC protection
+
+1169
+01:00:21,920 --> 01:00:23,940
+This is the only way to control these
+
+1170
+01:00:23,940 --> 01:00:27,220
+Clinically these IC protection
+
+1171
+01:00:28,220 --> 01:00:30,560
+Then this is what I just mentioned
+
+1172
+01:00:30,560 --> 01:00:33,060
+The Four Survival Ways of IC Bao
+
+1173
+01:00:38,560 --> 01:00:42,060
+Okay, let's give some more clinical examples
+
+1174
+01:00:42,060 --> 01:00:44,960
+This is the treatment of colorectal cancer
+
+1175
+01:00:44,960 --> 01:00:46,680
+This is not immunotherapy, this is traditional treatment
+
+1176
+01:00:46,680 --> 01:00:50,180
+surgery, radiation therapy, chemotherapy
+
+1177
+01:00:50,880 --> 01:00:52,800
+Then if you look at this A, B, C, D
+
+1178
+01:00:52,800 --> 01:00:54,180
+The four types of patients
+
+1179
+01:00:55,060 --> 01:00:56,300
+A and C
+
+1180
+01:00:56,300 --> 01:00:57,760
+You see this tumor is very small
+
+1181
+01:00:57,980 --> 01:01:00,080
+Section 08 has not yet been violated
+
+1182
+01:01:00,000 --> 01:01:03,260
+Therefore, this is usually classified as sweeping syndrome in pathological classification.
+
+1183
+01:01:03,840 --> 01:01:05,320
+It's probably fine to cut it off
+
+1184
+01:01:06,680 --> 01:01:09,560
+Then that patient B and D
+
+1185
+01:01:09,760 --> 01:01:12,420
+It's red is a cancer cell
+
+1186
+01:01:12,760 --> 01:01:16,000
+Not only in the original flavor but also violated the 08 section
+
+1187
+01:01:16,000 --> 01:01:17,800
+Then to this 08 tube
+
+1188
+01:01:17,800 --> 01:01:19,960
+So these patients are classified as
+
+1189
+01:01:19,960 --> 01:01:21,360
+This may be a pathological classification
+
+1190
+01:01:21,360 --> 01:01:24,800
+it may be more malignant
+
+1191
+01:01:24,960 --> 01:01:27,400
+Already violated tube 08 so probably transferred
+
+1192
+01:01:27,800 --> 01:01:29,600
+The prognosis may be worse
+
+1193
+01:01:31,200 --> 01:01:34,920
+Then they counted a lot of treated cases
+
+1194
+01:01:35,440 --> 01:01:37,400
+and then come to this conclusion
+
+1195
+01:01:37,960 --> 01:01:38,960
+Discover
+
+1196
+01:01:39,320 --> 01:01:41,320
+Originally this B
+
+1197
+01:01:41,320 --> 01:01:44,040
+B this A this patient looks like a small
+
+1198
+01:01:44,400 --> 01:01:45,800
+should be fine
+
+1199
+01:01:46,160 --> 01:01:49,040
+It should be fine after recovery, but he is actually not well after recovery.
+
+1200
+01:01:50,720 --> 01:01:52,680
+Then this D this patient
+
+1201
+01:01:52,680 --> 01:01:55,840
+Looks like the red tumor has invaded the 08 section
+
+1202
+01:01:55,840 --> 01:01:59,440
+Then maybe it was transferred, of course everyone said
+
+1203
+01:02:00,000 --> 01:02:05,000
+That, what Teacher Tang just said, once this is invaded, the metastatic cancer may be difficult to treat
+
+1204
+01:02:05,000 --> 01:02:10,000
+But according to this patient, according to their statistics, this type of patient is not bad
+
+1205
+01:02:11,000 --> 01:02:16,000
+The big big difference is the yellow cells
+
+1206
+01:02:17,000 --> 01:02:21,000
+These are immune cells, especially T cells
+
+1207
+01:02:21,000 --> 01:02:29,000
+If this patient has a lot of 08 cells in the cancer tissue he removed
+
+1208
+01:02:30,000 --> 01:02:38,000
+For example, patients C and D, no matter what treatment they receive, be it chemotherapy, radiotherapy, or surgery, they are less likely to relapse
+
+1209
+01:02:39,000 --> 01:02:44,000
+But if he doesn't have these T cells, he will heal longer
+
+1210
+01:02:44,000 --> 01:02:53,000
+This article, this is a Review Paper, which summarizes many clinical cases
+
+1211
+01:02:53,000 --> 01:02:59,000
+Put forward a statement at that time, that is to say, in addition to the classification of these pathologies
+
+1212
+01:03:00,000 --> 01:03:03,000
+People also take into account the classification of immunity
+
+1213
+01:03:03,000 --> 01:03:07,000
+This way the prognosis for this cancer patient will be more accurate.
+
+1214
+01:03:07,000 --> 01:03:12,000
+This is the conclusion obtained in patients with colorectal cancer
+
+1215
+01:03:12,000 --> 01:03:18,000
+Even other cancers were later found to have similar conclusions
+
+1216
+01:03:18,000 --> 01:03:19,000
+That is to say
+
+1217
+01:03:19,000 --> 01:03:24,000
+Some patients have cancer because more T cells enter the lung
+
+1218
+01:03:24,000 --> 01:03:26,000
+This kind of patient is easier
+
+1219
+01:03:26,000 --> 01:03:28,000
+No matter what you do to treat him, it will be easier.
+
+1220
+01:03:29,000 --> 01:03:30,000
+next to ask
+
+1221
+01:03:30,000 --> 01:03:33,000
+Why do these patients have more T cells
+
+1222
+01:03:33,000 --> 01:03:34,000
+I don't know
+
+1223
+01:03:36,000 --> 01:03:41,000
+This is what we need to understand in our research
+
+1224
+01:03:46,000 --> 01:03:49,000
+The next challenge of positive treatment is to say
+
+1225
+01:03:49,000 --> 01:03:52,000
+Why Only a Few Patients Have Better T Cells
+
+1226
+01:03:52,000 --> 01:03:53,000
+if not
+
+1227
+01:03:53,000 --> 01:03:55,000
+Is there any way you can make it happen
+
+1228
+01:03:55,000 --> 01:03:59,000
+That's what everyone said at the beginning
+
+1229
+01:04:00,000 --> 01:04:01,000
+we generate
+
+1230
+01:04:01,460 --> 01:04:04,220
+He's phagocytosis, remember, phagocytosis
+
+1231
+01:04:04,540 --> 01:04:06,440
+after swallowing bacteria
+
+1232
+01:04:06,840 --> 01:04:09,200
+Bacterial antigens carried
+
+1233
+01:04:09,480 --> 01:04:12,020
+presented to the T cell, which produces
+
+1234
+01:04:12,440 --> 01:04:15,320
+Right, so we're actually progressing our immunology
+
+1235
+01:04:15,320 --> 01:04:17,680
+We know how T cells are produced, we know that
+
+1236
+01:04:18,780 --> 01:04:21,580
+Is there a way for us to use this knowledge to train
+
+1237
+01:04:21,820 --> 01:04:24,020
+This, the human immune system
+
+1238
+01:04:24,020 --> 01:04:26,700
+Generate T cells that fight cancer
+
+1239
+01:04:27,360 --> 01:04:30,100
+The biggest difficulty is that we don't know much about our enemies
+
+1240
+01:04:31,360 --> 01:04:33,820
+His cells are so similar to our cells
+
+1241
+01:04:34,380 --> 01:04:36,840
+Cancer cells, in the eyes of T cells
+
+1242
+01:04:36,840 --> 01:04:38,600
+It's almost the same as a normal cell
+
+1243
+01:04:40,760 --> 01:04:43,380
+his entire genetic makeup
+
+1244
+01:04:43,380 --> 01:04:45,340
+his protein
+
+1245
+01:04:45,340 --> 01:04:47,140
+almost very very similar to
+
+1246
+01:04:47,820 --> 01:04:50,500
+So basically we don't react to him.
+
+1247
+01:04:50,860 --> 01:04:53,400
+So we have to find a way to stimulate
+
+1248
+01:04:53,400 --> 01:04:56,180
+to cancer, especially to his tumor antigens
+
+1249
+01:04:56,200 --> 01:04:57,660
+professional reminder, save
+
+1250
+01:04:58,020 --> 01:04:59,860
+then this may be now
+
+1251
+01:05:00,000 --> 01:05:02,000
+May be applied to current immunization profiles
+
+1252
+01:05:04,720 --> 01:05:05,220
+That
+
+1253
+01:05:06,280 --> 01:05:07,280
+tumor microenvironment
+
+1254
+01:05:09,120 --> 01:05:11,120
+We now see such a large tumor
+
+1255
+01:05:11,760 --> 01:05:12,480
+a tumor
+
+1256
+01:05:13,720 --> 01:05:16,220
+In fact, there are not only IC packets in this tumor.
+
+1257
+01:05:17,560 --> 01:05:18,920
+it has a lot
+
+1258
+01:05:19,760 --> 01:05:20,260
+composition
+
+1259
+01:05:20,920 --> 01:05:22,920
+It's all about fighting the immune system
+
+1260
+01:05:23,080 --> 01:05:24,160
+so I call it
+
+1261
+01:05:24,440 --> 01:05:25,560
+it this
+
+1262
+01:05:25,920 --> 01:05:27,720
+Tumor microcircle is tumor micro environment
+
+1263
+01:05:27,880 --> 01:05:29,920
+It is actually built by the IC package
+
+1264
+01:05:29,920 --> 01:05:31,920
+A well-balanced defense bag
+
+1265
+01:05:31,920 --> 01:05:32,920
+who to defend
+
+1266
+01:05:32,920 --> 01:05:34,920
+defend your body's immune system
+
+1267
+01:05:34,920 --> 01:05:37,420
+like it has a chance of surviving
+
+1268
+01:05:38,420 --> 01:05:39,320
+That's swollen
+
+1269
+01:05:39,820 --> 01:05:40,820
+its mechanism
+
+1270
+01:05:40,820 --> 01:05:41,920
+This is a kind
+
+1271
+01:05:41,920 --> 01:05:42,820
+everyone can see
+
+1272
+01:05:42,820 --> 01:05:45,320
+These gray ones are IC bags
+
+1273
+01:05:46,320 --> 01:05:47,720
+There are many cells in there
+
+1274
+01:05:47,720 --> 01:05:48,720
+Blood vessel
+
+1275
+01:05:49,320 --> 01:05:50,720
+Because the IC package grows it needs blood vessels
+
+1276
+01:05:50,720 --> 01:05:52,720
+supply it with nutrients and oxygen
+
+1277
+01:05:53,120 --> 01:05:54,920
+Then you see there are many immune cells
+
+1278
+01:05:55,720 --> 01:05:56,920
+There are also T cells
+
+1279
+01:05:57,120 --> 01:05:59,120
+These antigen presenting cells, these
+
+1280
+01:05:59,120 --> 01:06:00,120
+The tumor micro environment just mentioned
+
+1281
+01:06:00,000 --> 01:06:01,000
+both
+
+1282
+01:06:01,860 --> 01:06:02,860
+a lot of
+
+1283
+01:06:03,060 --> 01:06:05,860
+So after you take that cancer out you give him a test
+
+1284
+01:06:05,860 --> 01:06:07,820
+Anyway, there are a lot of immune cells in it
+
+1285
+01:06:08,960 --> 01:06:12,120
+So that's weird. Is this immunity to attack cancer?
+
+1286
+01:06:12,520 --> 01:06:13,520
+so what
+
+1287
+01:06:13,840 --> 01:06:15,320
+he doesn't play his part
+
+1288
+01:06:16,540 --> 01:06:19,280
+It turns out that cancer just said that cancer should be able to
+
+1289
+01:06:19,280 --> 01:06:22,860
+try to survive it evolve some different mechanics
+
+1290
+01:06:23,780 --> 01:06:26,260
+It actually removes those cancer cells
+
+1291
+01:06:26,260 --> 01:06:28,400
+Uh, these immune cells are going to attack it
+
+1292
+01:06:28,400 --> 01:06:30,840
+But once it gets to the cancer cell, he trains it
+
+1293
+01:06:31,800 --> 01:06:35,440
+Turn it from an enemy who attacked it to a good friend
+
+1294
+01:06:36,440 --> 01:06:39,840
+So you look at these inside the tumor
+
+1295
+01:06:39,840 --> 01:06:41,340
+Immune Cells
+
+1296
+01:06:41,460 --> 01:06:44,540
+In fact, it becomes an immune suppressor cell.
+
+1297
+01:06:46,100 --> 01:06:48,180
+Its function is to suppress immune cells
+
+1298
+01:06:49,240 --> 01:06:52,640
+So it uses the hair of the son to attack the shield of the son
+
+1299
+01:06:54,380 --> 01:06:57,740
+It trains these immune cells, cancer cells to train these immune cells
+
+1300
+01:06:58,400 --> 01:06:59,860
+make it able to deal with
+
+1301
+01:07:00,000 --> 01:07:02,460
+Attack of the body's other immune cells
+
+1302
+01:07:02,460 --> 01:07:03,460
+very strong
+
+1303
+01:07:04,540 --> 01:07:06,340
+So these we call
+
+1304
+01:07:06,340 --> 01:07:09,340
+Inmute Suppressor Sales Immunosuppressive cells
+
+1305
+01:07:09,340 --> 01:07:11,540
+its essence is
+
+1306
+01:07:11,540 --> 01:07:14,140
+I just said that hematopoietic stem cells are trained
+
+1307
+01:07:14,140 --> 01:07:15,020
+These phagocytes
+
+1308
+01:07:15,020 --> 01:07:17,140
+But cancer cells have the ability to train it to
+
+1309
+01:07:17,140 --> 01:07:18,140
+immunosuppressive cells
+
+1310
+01:07:18,860 --> 01:07:20,420
+Then it uses a different mechanism
+
+1311
+01:07:20,420 --> 01:07:22,500
+I wonder if any of you are interested in this?
+
+1312
+01:07:22,500 --> 01:07:25,420
+Many different ABCDEFG
+
+1313
+01:07:25,420 --> 01:07:26,820
+various mechanisms
+
+1314
+01:07:27,580 --> 01:07:28,580
+to suppress it
+
+1315
+01:07:31,000 --> 01:07:32,000
+OK
+
+1316
+01:07:33,000 --> 01:07:34,000
+That
+
+1317
+01:07:34,560 --> 01:07:37,560
+So here I will use cartoon clothes to introduce
+
+1318
+01:07:37,880 --> 01:07:39,520
+This is antigenic laminarity
+
+1319
+01:07:39,520 --> 01:07:41,000
+I just said that the phagocytic cells look like this
+
+1320
+01:07:42,000 --> 01:07:44,320
+Then if you encounter this cancer cell
+
+1321
+01:07:44,320 --> 01:07:46,520
+it's the same it will eat it up
+
+1322
+01:07:46,520 --> 01:07:48,120
+Useless after devouring
+
+1323
+01:07:49,080 --> 01:07:50,360
+instead it becomes
+
+1324
+01:07:51,000 --> 01:07:52,240
+suppressor cells
+
+1325
+01:07:53,920 --> 01:07:56,560
+Suppressor Suppressor Antigenic Laminar Cells
+
+1326
+01:07:56,560 --> 01:07:58,160
+It presents to T cells
+
+1327
+01:07:58,160 --> 01:08:00,160
+T cells become wet energy
+
+1328
+01:08:00,000 --> 01:08:01,460
+Non-functioning air bag
+
+1329
+01:08:02,620 --> 01:08:04,500
+It's much different from just now
+
+1330
+01:08:05,780 --> 01:08:08,140
+After touching bacteria, it looks like this
+
+1331
+01:08:08,760 --> 01:08:09,940
+it becomes this
+
+1332
+01:08:10,740 --> 01:08:13,820
+very empty phagocytes
+
+1333
+01:08:13,940 --> 01:08:15,480
+this won't work
+
+1334
+01:08:16,640 --> 01:08:20,360
+Then this is an activated air bag, this is a non-functional air bag
+
+1335
+01:08:21,400 --> 01:08:22,900
+So there are different types of air bags
+
+1336
+01:08:23,400 --> 01:08:25,600
+White blood cells can disable your gas bag
+
+1337
+01:08:26,600 --> 01:08:27,600
+good
+
+1338
+01:08:28,000 --> 01:08:31,500
+Now we think, what we now call the rapid development of immunotherapy
+
+1339
+01:08:31,500 --> 01:08:36,000
+Is there a way we can make these defunct air bags
+
+1340
+01:08:37,100 --> 01:08:38,800
+restore its functionality
+
+1341
+01:08:39,900 --> 01:08:44,200
+A rejuvenated gas bag, if it can recognize cancer cells
+
+1342
+01:08:44,200 --> 01:08:46,000
+Is there a way to kill cancer cells
+
+1343
+01:08:46,800 --> 01:08:48,900
+So this is what we know recently
+
+1344
+01:08:48,900 --> 01:08:51,400
+Major advances in immunotherapy
+
+1345
+01:08:51,400 --> 01:08:55,200
+The answer, of course, is yes, at least for some patients.
+
+1346
+01:08:55,600 --> 01:08:59,900
+Then its practice is the past few years
+
+1347
+01:09:00,000 --> 01:09:03,200
+Some breakthroughs, and then introduce these methods
+
+1348
+01:09:03,200 --> 01:09:06,800
+It has some effect, that is, it uses active immunotherapy
+
+1349
+01:09:06,800 --> 01:09:12,600
+I just talked about the back-kinetic and active-kinetic, that is, your body produces these T cells
+
+1350
+01:09:12,600 --> 01:09:15,500
+But the T cells have been disabled and have no function, right?
+
+1351
+01:09:15,500 --> 01:09:18,900
+A simple solution is fine, if I know that this T cell is very important
+
+1352
+01:09:18,900 --> 01:09:23,800
+Then I am like T cells that get the name of the city management and cultivate a large number of them.
+
+1353
+01:09:23,800 --> 01:09:25,700
+Enter after training
+
+1354
+01:09:25,700 --> 01:09:29,500
+This we call T cell infusion therapy
+
+1355
+01:09:31,500 --> 01:09:36,500
+In this case, you can see that its function is to cut out the tumor
+
+1356
+01:09:36,500 --> 01:09:39,000
+These T cells inside, it will be cultivated in the future
+
+1357
+01:09:40,100 --> 01:09:42,000
+After being cultivated, it goes to the screening
+
+1358
+01:09:42,000 --> 01:09:44,900
+Those T cells that kill cancer cells
+
+1359
+01:09:44,900 --> 01:09:51,200
+These are added now, that is, the T cells can kill cancer cells
+
+1360
+01:09:51,200 --> 01:09:53,300
+Then it will be cultivated in large numbers in the future
+
+1361
+01:09:53,400 --> 01:09:55,800
+mass culture, of course it can be deactivated
+
+1362
+01:09:57,800 --> 01:10:00,100
+beat it into this ward
+
+1363
+01:10:00,000 --> 01:10:03,000
+This we call T cell infusion therapy
+
+1364
+01:10:03,000 --> 01:10:05,000
+It's a passive immunity
+
+1365
+01:10:05,000 --> 01:10:07,000
+very effective
+
+1366
+01:10:07,000 --> 01:10:09,000
+for certain cancers
+
+1367
+01:10:09,000 --> 01:10:13,000
+Now this we call Tumor Influent Tritin Lymphocyte
+
+1368
+01:10:13,000 --> 01:10:18,000
+Lymphocytes in tumors
+
+1369
+01:10:18,000 --> 01:10:20,000
+This Cartysil
+
+1370
+01:10:20,000 --> 01:10:23,000
+This is the T cell of Chimeric Antigen Receptor
+
+1371
+01:10:23,000 --> 01:10:25,000
+These are essentially T cells
+
+1372
+01:10:25,000 --> 01:10:28,000
+It just makes it recognize different types of antigens
+
+1373
+01:10:29,000 --> 01:10:31,000
+Cartysil is currently very red
+
+1374
+01:10:31,000 --> 01:10:33,000
+you see it for some cancers
+
+1375
+01:10:33,000 --> 01:10:36,000
+Especially the treatment rate of hematologic lymphoma and blood cancer
+
+1376
+01:10:36,000 --> 01:10:38,000
+hundred percent
+
+1377
+01:10:38,000 --> 01:10:40,000
+But the past is hard to imagine
+
+1378
+01:10:42,000 --> 01:10:43,000
+but it needs to be
+
+1379
+01:10:43,000 --> 01:10:44,000
+every cancer patient
+
+1380
+01:10:44,000 --> 01:10:47,000
+To make its own Cartysil
+
+1381
+01:10:47,000 --> 01:10:50,000
+So the fee will probably be considerable
+
+1382
+01:10:50,000 --> 01:10:51,000
+another big problem
+
+1383
+01:10:51,000 --> 01:10:54,000
+That is, how long will the effect last?
+
+1384
+01:10:54,000 --> 01:10:56,000
+This needs to be observed again
+
+1385
+01:10:56,000 --> 01:10:58,000
+But these patients were not
+
+1386
+01:10:58,000 --> 01:11:00,000
+other treatment opportunities
+
+1387
+01:11:00,000 --> 01:11:03,460
+Then use this T cell infusion therapy now
+
+1388
+01:11:03,460 --> 01:11:04,600
+can you
+
+1389
+01:11:04,600 --> 01:11:07,800
+Almost all cancer cells are under control
+
+1390
+01:11:07,800 --> 01:11:10,800
+So this is a really big breakthrough
+
+1391
+01:11:10,800 --> 01:11:13,000
+But what about this infusion therapy?
+
+1392
+01:11:13,000 --> 01:11:16,400
+with considerable side effects
+
+1393
+01:11:16,400 --> 01:11:19,600
+Some of them even caused the death of the patient
+
+1394
+01:11:19,600 --> 01:11:23,000
+Because imagine this T cell
+
+1395
+01:11:23,000 --> 01:11:25,100
+hit so many activated T cells
+
+1396
+01:11:25,100 --> 01:11:28,100
+Many found that it has similarities with normal cells
+
+1397
+01:11:28,200 --> 01:11:31,400
+also affects normal cells
+
+1398
+01:11:31,400 --> 01:11:32,900
+affect normal cells
+
+1399
+01:11:32,900 --> 01:11:35,700
+the inflammatory response
+
+1400
+01:11:35,700 --> 01:11:37,700
+serious death of the patient
+
+1401
+01:11:37,700 --> 01:11:40,100
+So any immune person who is effective
+
+1402
+01:11:40,100 --> 01:11:44,100
+In fact, it will be accompanied by different degrees of side effects
+
+1403
+01:11:44,100 --> 01:11:46,100
+immune-related side effects
+
+1404
+01:11:46,100 --> 01:11:48,500
+some autoimmune diseases
+
+1405
+01:11:48,500 --> 01:11:50,000
+so we have to learn
+
+1406
+01:11:50,000 --> 01:11:52,600
+How to control our immune system
+
+1407
+01:11:52,600 --> 01:11:54,600
+let it work to its advantage
+
+1408
+01:11:54,600 --> 01:11:56,400
+but avoid its disadvantages
+
+1409
+01:11:56,400 --> 01:12:00,000
+This is one of the future for this immunotherapy
+
+1410
+01:12:00,000 --> 01:12:02,420
+place to learn
+
+1411
+01:12:04,080 --> 01:12:07,760
+Then there's the other thing, the immune checkpoint elements.
+
+1412
+01:12:08,180 --> 01:12:12,120
+Then this hall award was founded in Taiwan
+
+1413
+01:12:12,360 --> 01:12:13,360
+exist
+
+1414
+01:12:13,640 --> 01:12:16,200
+At that time in 2014
+
+1415
+01:12:16,200 --> 01:12:18,200
+Awarded to these two winners
+
+1416
+01:12:18,200 --> 01:12:20,200
+One named James Ellison
+
+1417
+01:12:20,440 --> 01:12:21,440
+U.S.
+
+1418
+01:12:21,760 --> 01:12:22,940
+because it is called
+
+1419
+01:12:22,940 --> 01:12:24,940
+Motojuku
+
+1420
+01:12:24,940 --> 01:12:25,940
+in Japan
+
+1421
+01:12:25,940 --> 01:12:27,560
+Then they invented separately
+
+1422
+01:12:27,560 --> 01:12:28,240
+Discover
+
+1423
+01:12:28,240 --> 01:12:31,240
+Two different immune checkpoint molecules
+
+1424
+01:12:32,360 --> 01:12:34,360
+One is called CTLA4
+
+1425
+01:12:34,360 --> 01:12:35,860
+One is called PD1
+
+1426
+01:12:35,860 --> 01:12:37,360
+How does it work?
+
+1427
+01:12:37,360 --> 01:12:39,860
+I will tell you with cartoon pictures
+
+1428
+01:12:41,700 --> 01:12:43,700
+This T cell private T cell
+
+1429
+01:12:43,700 --> 01:12:45,160
+just said just said
+
+1430
+01:12:45,160 --> 01:12:47,000
+ICB has various
+
+1431
+01:12:47,000 --> 01:12:48,320
+immunotherapeutic
+
+1432
+01:12:48,320 --> 01:12:49,560
+one of them
+
+1433
+01:12:49,560 --> 01:12:52,060
+It's this immune checkpoint molecule.
+
+1434
+01:12:52,560 --> 01:12:53,560
+it makes this
+
+1435
+01:12:53,560 --> 01:12:54,560
+Well
+
+1436
+01:12:54,560 --> 01:12:56,560
+Performance such as this PDL1
+
+1437
+01:12:56,560 --> 01:12:59,880
+It will bind to the PD1 on the T cell
+
+1438
+01:13:00,000 --> 01:13:03,600
+After the combination, the TG package loses its function
+
+1439
+01:13:03,600 --> 01:13:06,600
+So it's called an immune checkpoint, and that's it.
+
+1440
+01:13:06,600 --> 01:13:09,100
+Will the TG package function
+
+1441
+01:13:09,100 --> 01:13:12,100
+It manifests itself on the immune will cells
+
+1442
+01:13:12,100 --> 01:13:14,100
+also manifested on the returning cells
+
+1443
+01:13:14,100 --> 01:13:17,600
+So it's easy, when you understand the principle
+
+1444
+01:13:17,600 --> 01:13:23,000
+I just thought, what if, with this combination, I will make the TG package lose its function
+
+1445
+01:13:23,000 --> 01:13:24,600
+I'll break its bond
+
+1446
+01:13:24,600 --> 01:13:28,900
+So they invented these two antibody drugs
+
+1447
+01:13:29,500 --> 01:13:31,500
+Inject antibody drugs into
+
+1448
+01:13:33,500 --> 01:13:35,500
+What about antibodies, bind to it
+
+1449
+01:13:35,500 --> 01:13:38,500
+unite with it, uh, separate it
+
+1450
+01:13:40,000 --> 01:13:44,000
+The TG package will no longer be affected by these two molecules at this time
+
+1451
+01:13:44,000 --> 01:13:46,500
+regulation of elicited immune volition
+
+1452
+01:13:47,500 --> 01:13:50,000
+Then this TG package didn't seem to work
+
+1453
+01:13:50,000 --> 01:13:52,500
+seems to restore its functionality
+
+1454
+01:13:54,500 --> 01:13:57,000
+Is there any chance to restore the function of TG package like this?
+
+1455
+01:13:57,000 --> 01:13:58,800
+to kill the patient's tumor
+
+1456
+01:13:58,900 --> 01:14:00,000
+as it is
+
+1457
+01:14:00,000 --> 01:14:01,000
+Principle of action
+
+1458
+01:14:02,020 --> 01:14:04,980
+So the patient is injected with this antibody
+
+1459
+01:14:05,700 --> 01:14:08,160
+Look at this example, these two articles are in
+
+1460
+01:14:08,160 --> 01:14:11,200
+Published in well-known medical journals for 12 years
+
+1461
+01:14:11,200 --> 01:14:13,320
+The New England Journal
+
+1462
+01:14:13,600 --> 01:14:15,200
+introduce the story
+
+1463
+01:14:16,620 --> 01:14:20,300
+Let me give you a few examples. This is lung metastasis before treatment.
+
+1464
+01:14:21,120 --> 01:14:23,660
+Administration This is PD1
+
+1465
+01:14:23,660 --> 01:14:24,960
+this healing machine
+
+1466
+01:14:25,400 --> 01:14:26,760
+after 90 days
+
+1467
+01:14:27,280 --> 01:14:28,800
+This is liver metastases
+
+1468
+01:14:30,100 --> 01:14:31,480
+after 90 days
+
+1469
+01:14:31,940 --> 01:14:35,840
+And then here are the T cells in the tumor before treatment
+
+1470
+01:14:36,560 --> 01:14:37,560
+Black
+
+1471
+01:14:39,120 --> 01:14:40,120
+few
+
+1472
+01:14:41,180 --> 01:14:42,680
+after treatment you see
+
+1473
+01:14:43,740 --> 01:14:45,420
+Breath puts a lot of increase
+
+1474
+01:14:46,600 --> 01:14:48,100
+may restore it to function
+
+1475
+01:14:49,360 --> 01:14:50,520
+this is
+
+1476
+01:14:50,840 --> 01:14:53,820
+this is skin
+
+1477
+01:14:53,820 --> 01:14:56,420
+menanoma, melanoma
+
+1478
+01:14:57,000 --> 01:14:58,140
+Before treatment
+
+1479
+01:14:59,060 --> 01:14:59,960
+the tumor
+
+1480
+01:15:00,000 --> 01:15:01,000
+After treatment
+
+1481
+01:15:02,920 --> 01:15:05,920
+Then I saw the large number of T cells
+
+1482
+01:15:07,440 --> 01:15:09,940
+So it looks like the effective treatment seems to be that the T cells
+
+1483
+01:15:09,940 --> 01:15:12,500
+It restores the function of T cells after treatment
+
+1484
+01:15:15,040 --> 01:15:17,980
+Then compare it with chemotherapy
+
+1485
+01:15:18,160 --> 01:15:20,720
+This is an antibody for NTPD1, ​​of course this is
+
+1486
+01:15:20,720 --> 01:15:22,960
+This is a relatively short experiment, probably more than a year
+
+1487
+01:15:23,280 --> 01:15:26,340
+to this melanin flow
+
+1488
+01:15:26,340 --> 01:15:29,080
+The over-2 survival rate of this antibody
+
+1489
+01:15:29,080 --> 01:15:32,040
+to about 16 months
+
+1490
+01:15:32,040 --> 01:15:34,720
+yes win this chemistry this chemotherapy
+
+1491
+01:15:37,760 --> 01:15:39,920
+but more then
+
+1492
+01:15:39,920 --> 01:15:41,300
+this kind of
+
+1493
+01:15:41,300 --> 01:15:43,680
+Immunological check check acceptor molecule
+
+1494
+01:15:43,680 --> 01:15:45,900
+Not just effective against one type of cancer
+
+1495
+01:15:45,900 --> 01:15:48,360
+It has different effects on lung cancer melanoma
+
+1496
+01:15:48,360 --> 01:15:51,280
+Kidney cancer Stomach cancer Head kidney cancer
+
+1497
+01:15:51,280 --> 01:15:53,640
+have varying degrees of effect, for example, on lung cancer
+
+1498
+01:15:53,640 --> 01:15:55,540
+This study is 23%
+
+1499
+01:15:55,800 --> 01:15:57,320
+23% of patients
+
+1500
+01:15:57,320 --> 01:15:59,080
+Responsive
+
+1501
+01:16:00,000 --> 01:16:02,000
+The best is black is 5% to 30%
+
+1502
+01:16:02,000 --> 01:16:05,000
+The other about 10%
+
+1503
+01:16:05,000 --> 01:16:09,000
+Don't forget that these are patients with no means of treatment in the past
+
+1504
+01:16:09,000 --> 01:16:15,000
+So now we can achieve a success rate that is almost close to 20%
+
+1505
+01:16:15,000 --> 01:16:18,000
+Using such an immune test for small molecules
+
+1506
+01:16:18,000 --> 01:16:23,000
+What he is most concerned about is how long his curative effect can last.
+
+1507
+01:16:23,000 --> 01:16:26,000
+If he only lives two years, it doesn't seem like enough.
+
+1508
+01:16:26,000 --> 01:16:28,000
+you want to heal him
+
+1509
+01:16:29,000 --> 01:16:30,000
+is there any chance
+
+1510
+01:16:30,000 --> 01:16:33,000
+Then this clinical trial
+
+1511
+01:16:33,000 --> 01:16:34,000
+this is not a clinical trial
+
+1512
+01:16:34,000 --> 01:16:38,000
+This is because the CTOA4 immune test was detected earlier
+
+1513
+01:16:38,000 --> 01:16:40,000
+So he's been a patient long enough now
+
+1514
+01:16:40,000 --> 01:16:42,000
+end up over 10 years
+
+1515
+01:16:42,000 --> 01:16:48,000
+Then recently they reorganized and published the results
+
+1516
+01:16:48,000 --> 01:16:49,000
+wait a minute
+
+1517
+01:16:49,000 --> 01:16:52,000
+This is the more than 1000 people
+
+1518
+01:16:52,000 --> 01:16:54,000
+Nearly 2,000 of these patients
+
+1519
+01:16:54,000 --> 01:16:55,000
+how to read it here
+
+1520
+01:16:55,000 --> 01:16:57,000
+This is over 25
+
+1521
+01:16:57,000 --> 01:16:58,000
+his survival rate
+
+1522
+01:16:58,000 --> 01:17:00,000
+That is, if you die, he will decrease
+
+1523
+01:17:00,000 --> 01:17:07,000
+Then this is the time, from the beginning, all the patients are alive
+
+1524
+01:17:07,000 --> 01:17:14,000
+And then at one year, at 12 months, about half of the patients are still alive
+
+1525
+01:17:14,000 --> 01:17:19,000
+Then these are the transferred melanin materials, which were almost difficult to treat in the past
+
+1526
+01:17:20,000 --> 01:17:27,000
+In two years, there will be a little more than 20% left
+
+1527
+01:17:30,000 --> 01:17:33,000
+There are probably more than 2 out of 10 people who can survive
+
+1528
+01:17:34,000 --> 01:17:38,000
+But you only need to survive for two years, with this medicine for two years, it seems that it will be fine
+
+1529
+01:17:38,000 --> 01:17:40,000
+it just keeps dying without these
+
+1530
+01:17:41,000 --> 01:17:45,000
+Look at it for three years, four years, five years until ten years
+
+1531
+01:17:45,000 --> 01:17:47,000
+but maintain this cove
+
+1532
+01:17:48,000 --> 01:17:53,000
+So this group of patients, the lucky ones, seems to be cured
+
+1533
+01:17:53,000 --> 01:17:57,000
+So I just spoke, as if cured, over ten years
+
+1534
+01:18:00,000 --> 01:18:02,300
+will really take longer
+
+1535
+01:18:02,300 --> 01:18:04,400
+Can be verified but should be very organic
+
+1536
+01:18:04,400 --> 01:18:05,600
+even if not cured
+
+1537
+01:18:05,600 --> 01:18:09,100
+Possibly, he's also been held in check by the immune system for a long time.
+
+1538
+01:18:10,400 --> 01:18:13,200
+So at least this is a very
+
+1539
+01:18:13,200 --> 01:18:15,100
+In the field of cancer treatment is a
+
+1540
+01:18:15,100 --> 01:18:17,200
+almost unheard of
+
+1541
+01:18:17,900 --> 01:18:19,900
+A cancer patient can live for such a long time
+
+1542
+01:18:19,900 --> 01:18:21,000
+so many patients
+
+1543
+01:18:21,000 --> 01:18:24,400
+If it is 1861 bit 20%
+
+1544
+01:18:24,400 --> 01:18:26,100
+that is there
+
+1545
+01:18:26,700 --> 01:18:28,600
+More than 300 fast 400 people
+
+1546
+01:18:29,500 --> 01:18:31,300
+But it's a pretty impressive number
+
+1547
+01:18:32,400 --> 01:18:34,800
+If many patients
+
+1548
+01:18:35,300 --> 01:18:36,700
+Other cancer patients have the same effect
+
+1549
+01:18:36,700 --> 01:18:38,000
+that is a very generous
+
+1550
+01:18:38,000 --> 01:18:38,700
+that looks now
+
+1551
+01:18:38,700 --> 01:18:39,800
+The effect of PD1
+
+1552
+01:18:39,800 --> 01:18:42,000
+better than this CDLF
+
+1553
+01:18:42,500 --> 01:18:45,000
+So it has the potential to be better curative
+
+1554
+01:18:46,700 --> 01:18:48,600
+Is that true for other types of cancer?
+
+1555
+01:18:48,600 --> 01:18:50,000
+It also has such a good effect
+
+1556
+01:18:50,000 --> 01:18:50,700
+depends on
+
+1557
+01:18:51,500 --> 01:18:54,400
+After that tracked treatment
+
+1558
+01:18:55,800 --> 01:18:57,000
+then this is me
+
+1559
+01:18:57,000 --> 01:18:59,800
+Ask the student to sort it out
+
+1560
+01:19:00,000 --> 01:19:06,400
+These drugs are available in Taiwan
+
+1561
+01:19:06,400 --> 01:19:09,300
+This PD1 monoclonal antibody
+
+1562
+01:19:09,300 --> 01:19:11,400
+Pembro Zilume
+
+1563
+01:19:11,400 --> 01:19:16,100
+This is another PD1 antibody
+
+1564
+01:19:16,100 --> 01:19:17,800
+This is the CT2F4 antibody
+
+1565
+01:19:17,800 --> 01:19:19,200
+different name
+
+1566
+01:19:19,200 --> 01:19:21,400
+This word is per kilogram
+
+1567
+01:19:21,400 --> 01:19:23,000
+two fate monsters
+
+1568
+01:19:23,000 --> 01:19:26,100
+It is about 50 100 for a patient weighing 50 kg
+
+1569
+01:19:26,100 --> 01:19:28,700
+once every three weeks
+
+1570
+01:19:29,300 --> 01:19:31,300
+260,000 once
+
+1571
+01:19:33,300 --> 01:19:35,600
+so the price is very good
+
+1572
+01:19:35,600 --> 01:19:37,600
+if you play for a year
+
+1573
+01:19:39,400 --> 01:19:40,900
+4000000
+
+1574
+01:19:41,800 --> 01:19:43,600
+then this drug
+
+1575
+01:19:43,600 --> 01:19:45,600
+Because it hits more frequently than
+
+1576
+01:19:46,800 --> 01:19:48,300
+see 900
+
+1577
+01:19:48,300 --> 01:19:50,600
+In this case, the most frequent frequency may be 300
+
+1578
+01:19:50,600 --> 01:19:52,600
+So it's expensive anyway
+
+1579
+01:19:53,600 --> 01:19:57,100
+And then only about 20%
+
+1580
+01:19:57,400 --> 01:19:58,200
+efficient
+
+1581
+01:19:59,200 --> 01:20:00,100
+may also be responsible
+
+1582
+01:20:00,000 --> 01:20:04,600
+But you look like you might be called Q
+
+1583
+01:20:04,600 --> 01:20:08,200
+It's not the same as in the past. In the past, you might extend
+
+1584
+01:20:08,200 --> 01:20:12,200
+This may be called the global
+
+1585
+01:20:12,200 --> 01:20:15,200
+So there is a big problem here
+
+1586
+01:20:15,200 --> 01:20:19,200
+How about us because it costs a lot and needs to be traded to varying degrees
+
+1587
+01:20:19,200 --> 01:20:22,200
+This side effect, is there a way to screen out these potentially effective
+
+1588
+01:20:22,200 --> 01:20:25,200
+20% of the patients, then I just treat those patients
+
+1589
+01:20:25,200 --> 01:20:29,200
+The other 8% doesn't work anyway, so don't waste the money
+
+1590
+01:20:29,200 --> 01:20:32,400
+So this is currently a very important research figure called BioMark
+
+1591
+01:20:32,400 --> 01:20:36,400
+Biomarker How to find patients who may be effective
+
+1592
+01:20:36,400 --> 01:20:40,400
+And then treat these patients, wait a minute, I just had a breakthrough last month.
+
+1593
+01:20:40,400 --> 01:20:44,400
+So I'm going to make that slide again today
+
+1594
+01:20:44,400 --> 01:20:48,400
+And now, several challenges, expensive
+
+1595
+01:20:48,400 --> 01:20:52,400
+Too expensive but help
+
+1596
+01:20:52,400 --> 01:20:57,400
+And the second one, there are only a few patients left because 20% is not bad
+
+1597
+01:20:57,400 --> 01:20:59,600
+The price is very low, yes
+
+1598
+01:21:00,000 --> 01:21:03,160
+5 people only one
+
+1599
+01:21:03,160 --> 01:21:08,520
+But for him, his 20% is very useful
+
+1600
+01:21:08,520 --> 01:21:14,280
+We have a way to develop more effective
+
+1601
+01:21:14,280 --> 01:21:16,280
+From 20% and up
+
+1602
+01:21:16,280 --> 01:21:22,560
+The third is that it is inevitable that
+
+1603
+01:21:22,560 --> 01:21:25,040
+With immune-related side effects
+
+1604
+01:21:25,040 --> 01:21:26,680
+serious will be serious
+
+1605
+01:21:27,440 --> 01:21:32,640
+In this regard, further research and development
+
+1606
+01:21:32,640 --> 01:21:37,680
+Next, I will tell him some of the decisions about immunotherapy.
+
+1607
+01:21:37,680 --> 01:21:40,280
+You just saw that example
+
+1608
+01:21:40,280 --> 01:21:44,960
+patients with colorectal cancer receiving traditional treatment
+
+1609
+01:21:44,960 --> 01:21:49,280
+If he has T cells
+
+1610
+01:21:49,280 --> 01:21:50,960
+Colorectal cancer is more likely to be better
+
+1611
+01:21:50,960 --> 01:21:53,280
+In fact, it was found that the immune
+
+1612
+01:21:53,280 --> 01:21:55,640
+Why in 20% of patients
+
+1613
+01:21:55,640 --> 01:21:57,800
+who works and who doesn't
+
+1614
+01:21:57,800 --> 01:21:59,840
+You see, this is a patient who doesn't respond to treatment.
+
+1615
+01:22:00,000 --> 01:22:05,860
+Before treatment After treatment This is his tumor
+
+1616
+01:22:05,860 --> 01:22:09,860
+This is to see that CDS is a kind of T cell
+
+1617
+01:22:09,860 --> 01:22:11,980
+you can't see the black one
+
+1618
+01:22:11,980 --> 01:22:15,220
+A little bit here, only a little bit after treatment
+
+1619
+01:22:15,220 --> 01:22:18,820
+So this patient is nothing small
+
+1620
+01:22:18,820 --> 01:22:22,220
+But look at the patient who was treated effectively
+
+1621
+01:22:22,220 --> 01:22:25,980
+Some T cells were already present before treatment
+
+1622
+01:22:26,700 --> 01:22:29,100
+more after treatment
+
+1623
+01:22:29,100 --> 01:22:32,140
+Then the tumor was under his control
+
+1624
+01:22:32,140 --> 01:22:33,980
+So they found that for the same reason
+
+1625
+01:22:33,980 --> 01:22:35,740
+If the patient
+
+1626
+01:22:35,740 --> 01:22:38,460
+He already had these T cells in
+
+1627
+01:22:38,460 --> 01:22:40,860
+It's just that he lost the function of T cells called wet energy.
+
+1628
+01:22:40,860 --> 01:22:42,060
+I didn't just say that
+
+1629
+01:22:42,060 --> 01:22:43,980
+put that brake on
+
+1630
+01:22:43,980 --> 01:22:46,140
+Get rid of the reason that made him burn into wet energy
+
+1631
+01:22:46,140 --> 01:22:48,980
+The T cells are reactivated
+
+1632
+01:22:48,980 --> 01:22:50,900
+But if you don't have this kind of T cells
+
+1633
+01:22:50,900 --> 01:22:51,780
+Then you don't suck
+
+1634
+01:22:51,780 --> 01:22:52,820
+It's useless for you to take medicine now
+
+1635
+01:22:52,820 --> 01:22:55,380
+you don't have
+
+1636
+01:22:56,380 --> 01:22:58,180
+so it's going to be a challenge
+
+1637
+01:22:58,180 --> 01:23:00,180
+how to make this patient
+
+1638
+01:23:00,000 --> 01:23:02,760
+The original non-existing system package to fight cancer
+
+1639
+01:23:02,760 --> 01:23:05,000
+In this way, more patients can be benefited
+
+1640
+01:23:05,000 --> 01:23:07,000
+The other 80% of patients
+
+1641
+01:23:07,000 --> 01:23:10,000
+This is the direction of future research and development
+
+1642
+01:23:11,000 --> 01:23:14,000
+Oh, that's what I just said
+
+1643
+01:23:14,000 --> 01:23:17,000
+It was a report that came out last month.
+
+1644
+01:23:17,000 --> 01:23:20,000
+This report is actually quite an astonishing one.
+
+1645
+01:23:20,000 --> 01:23:22,000
+What I just talked about is melanin flow
+
+1646
+01:23:22,000 --> 01:23:24,000
+Melanin flow is not so much in Taiwan
+
+1647
+01:23:24,000 --> 01:23:26,000
+Our concern is lung cancer
+
+1648
+01:23:26,000 --> 01:23:28,000
+liver cancer
+
+1649
+01:23:28,000 --> 01:23:30,000
+colorectal cancer deer cancer
+
+1650
+01:23:30,000 --> 01:23:32,000
+These are the most common
+
+1651
+01:23:33,000 --> 01:23:36,000
+Are these effective against these common cancers?
+
+1652
+01:23:37,000 --> 01:23:40,000
+Well, they are the findings of this study
+
+1653
+01:23:40,000 --> 01:23:43,000
+There is something we call tumor heart anticancer
+
+1654
+01:23:43,000 --> 01:23:45,000
+Called Neoantigen
+
+1655
+01:23:45,000 --> 01:23:47,000
+just mentioned
+
+1656
+01:23:47,000 --> 01:23:50,000
+Cancer cells are different from normal cells
+
+1657
+01:23:50,000 --> 01:23:52,000
+because it keeps mutating
+
+1658
+01:23:53,000 --> 01:23:56,000
+Mutations are the guarantee of its survival
+
+1659
+01:23:56,000 --> 01:23:59,000
+It was born because of a mutation so it was able to
+
+1660
+01:24:00,000 --> 01:24:03,280
+Blaming itself for survival, so it keeps accumulating these different mutations
+
+1661
+01:24:04,100 --> 01:24:07,760
+What about some of these mutations, which can cause tumor heart antigen
+
+1662
+01:24:10,140 --> 01:24:12,800
+Then they found that some cancers
+
+1663
+01:24:12,800 --> 01:24:15,880
+Because of gene repair, our body cells have a repair function
+
+1664
+01:24:15,880 --> 01:24:17,860
+Then when you mutate, we'll have some
+
+1665
+01:24:17,860 --> 01:24:20,480
+Some efficiencies will fix it back
+
+1666
+01:24:20,860 --> 01:24:23,940
+But some cancer cells have lost this correction function
+
+1667
+01:24:24,480 --> 01:24:27,800
+This is a tumor where the body's genetic repair is defective
+
+1668
+01:24:27,840 --> 01:24:30,820
+because it cannot correct these mutations
+
+1669
+01:24:30,820 --> 01:24:33,420
+So of course it will accumulate more mutations
+
+1670
+01:24:33,420 --> 01:24:36,700
+tumor heart antigen
+
+1671
+01:24:37,280 --> 01:24:40,360
+That antigen is what produces T cells
+
+1672
+01:24:40,360 --> 01:24:42,840
+necessary molecule
+
+1673
+01:24:43,320 --> 01:24:46,880
+So the researcher thinks that if the tumor
+
+1674
+01:24:47,020 --> 01:24:49,400
+have more antigens
+
+1675
+01:24:49,560 --> 01:24:51,560
+more of this
+
+1676
+01:24:51,560 --> 01:24:52,560
+Newtation
+
+1677
+01:24:52,800 --> 01:24:55,680
+So, will this become easier for
+
+1678
+01:24:55,700 --> 01:24:58,440
+You've got to work too, that's their hypothesis
+
+1679
+01:24:58,540 --> 01:25:00,240
+So they are screening
+
+1680
+01:25:00,000 --> 01:25:01,100
+inside the tumor
+
+1681
+01:25:01,520 --> 01:25:04,340
+Tumors with defects in gene repair
+
+1682
+01:25:04,340 --> 01:25:05,720
+only treat this patient
+
+1683
+01:25:06,320 --> 01:25:08,100
+see if it responds better
+
+1684
+01:25:09,220 --> 01:25:12,040
+At this time it is not only doing
+
+1685
+01:25:12,040 --> 01:25:15,000
+Just now that melanoma it did across
+
+1686
+01:25:15,300 --> 01:25:17,340
+12 different types of cancer
+
+1687
+01:25:18,720 --> 01:25:20,720
+86 patients with genetic autumn blood
+
+1688
+01:25:20,720 --> 01:25:22,720
+The number of patients is not that many 86 patients
+
+1689
+01:25:22,820 --> 01:25:25,500
+This includes the most common
+
+1690
+01:25:25,500 --> 01:25:27,060
+colorectal cancer
+
+1691
+01:25:27,640 --> 01:25:29,640
+This is pancreatic cancer
+
+1692
+01:25:30,200 --> 01:25:31,200
+this
+
+1693
+01:25:31,520 --> 01:25:33,800
+There is still hope, there is no lung cancer here
+
+1694
+01:25:36,160 --> 01:25:37,160
+this is stomach cancer
+
+1695
+01:25:38,520 --> 01:25:41,200
+12 Different Gene Repair Defective Cancers
+
+1696
+01:25:41,420 --> 01:25:42,620
+treatment effect
+
+1697
+01:25:43,620 --> 01:25:44,620
+this is
+
+1698
+01:25:44,880 --> 01:25:46,720
+belly hundred is
+
+1699
+01:25:46,720 --> 01:25:50,020
+Eliminate all. It originally treats those that are not eliminated as zero.
+
+1700
+01:25:50,020 --> 01:25:51,700
+The tumor turned out to be five centimeters
+
+1701
+01:25:51,700 --> 01:25:54,700
+You are still five centimeters after treatment, that is to maintain the same
+
+1702
+01:25:54,700 --> 01:25:56,020
+it doesn't last long
+
+1703
+01:25:56,020 --> 01:25:57,420
+But if it becomes zero
+
+1704
+01:25:57,940 --> 01:25:59,940
+If there is nothing, then this one is over here
+
+1705
+01:26:00,000 --> 01:26:04,600
+This is negative 100, all disappeared
+
+1706
+01:26:04,960 --> 01:26:07,600
+From here, patients like these are
+
+1707
+01:26:07,600 --> 01:26:10,800
+Not only is it useless after treatment, but he continues to grow
+
+1708
+01:26:11,940 --> 01:26:14,840
+But as you can see, useful patients
+
+1709
+01:26:14,840 --> 01:26:17,720
+It has reached 50%
+
+1710
+01:26:18,340 --> 01:26:21,800
+From just a few dozen, now to 50%
+
+1711
+01:26:21,800 --> 01:26:25,160
+The only thing he did was to sift through those
+
+1712
+01:26:25,160 --> 01:26:28,240
+Tumors with gene repair tangents
+
+1713
+01:26:29,240 --> 01:26:31,800
+That will significantly increase his healing effect.
+
+1714
+01:26:31,800 --> 01:26:35,800
+The longest of these has been almost three years
+
+1715
+01:26:38,800 --> 01:26:41,560
+So tell us here, one of the
+
+1716
+01:26:41,560 --> 01:26:43,080
+effective against immune persons, that is
+
+1717
+01:26:43,080 --> 01:26:49,400
+This tumor, it has many genetic mutations
+
+1718
+01:26:49,400 --> 01:26:52,800
+Mutations in this gene create new antigens
+
+1719
+01:26:52,800 --> 01:26:54,360
+new antigen
+
+1720
+01:26:54,360 --> 01:26:56,600
+May stimulate more somatic cells
+
+1721
+01:26:56,600 --> 01:26:59,920
+worked for him, so their study actually found
+
+1722
+01:27:00,000 --> 01:27:05,500
+After treatment, these systemic cells that are specialized for tumor heart antigens were found to increase
+
+1723
+01:27:06,500 --> 01:27:08,300
+This tells the story
+
+1724
+01:27:08,300 --> 01:27:10,100
+Tumors are most afraid of systemic cells
+
+1725
+01:27:11,900 --> 01:27:14,900
+Tumors with more genetic mutations
+
+1726
+01:27:15,900 --> 01:27:18,200
+Although it can apply this immune system attack
+
+1727
+01:27:18,200 --> 01:27:19,200
+but
+
+1728
+01:27:19,700 --> 01:27:22,100
+It is also more susceptible to systemic attack
+
+1729
+01:27:23,100 --> 01:27:24,300
+Now if say
+
+1730
+01:27:25,100 --> 01:27:26,000
+Clinicians
+
+1731
+01:27:26,400 --> 01:27:28,000
+That's actually been approved
+
+1732
+01:27:28,200 --> 01:27:30,600
+This is a treatment with a rare
+
+1733
+01:27:30,600 --> 01:27:31,100
+that is
+
+1734
+01:27:31,400 --> 01:27:33,300
+It has been approved that is to say as long as
+
+1735
+01:27:34,500 --> 01:27:35,600
+patients with metastatic cancer
+
+1736
+01:27:36,300 --> 01:27:38,700
+patients with gene repair tangents
+
+1737
+01:27:38,800 --> 01:27:40,800
+can be treated with this drug
+
+1738
+01:27:41,900 --> 01:27:44,300
+Then Taiwan should not have entered yet.
+
+1739
+01:27:44,300 --> 01:27:46,100
+But I reckon this should be fast
+
+1740
+01:27:46,200 --> 01:27:47,300
+will be approved in Taiwan
+
+1741
+01:27:47,800 --> 01:27:49,300
+that's right
+
+1742
+01:27:50,000 --> 01:27:52,500
+Many patients with metastatic cancer are of course a great boon.
+
+1743
+01:27:52,500 --> 01:27:56,100
+If you have cancer, it happens to be the tangent of this kind of gene repair
+
+1744
+01:27:56,100 --> 01:27:56,900
+then just
+
+1745
+01:27:58,000 --> 01:27:59,700
+for this immunotherapy
+
+1746
+01:28:00,000 --> 01:28:02,500
+The success rate will be significantly improved
+
+1747
+01:28:02,840 --> 01:28:07,840
+Then this is some basic research that can help some clinical progress
+
+1748
+01:28:08,600 --> 01:28:10,600
+next last little time
+
+1749
+01:28:10,600 --> 01:28:12,100
+now let's do
+
+1750
+01:28:12,100 --> 01:28:13,600
+that just said this
+
+1751
+01:28:13,600 --> 01:28:16,700
+whether gene repair defect
+
+1752
+01:28:16,700 --> 01:28:20,200
+You actually rely on the T cells that your patient originally had.
+
+1753
+01:28:21,000 --> 01:28:22,800
+If the patient has no T cells
+
+1754
+01:28:23,000 --> 01:28:27,000
+Then you fight these current immune will machines
+
+1755
+01:28:27,000 --> 01:28:28,400
+it's useless
+
+1756
+01:28:28,800 --> 01:28:29,800
+but we said
+
+1757
+01:28:31,300 --> 01:28:32,900
+that triggers a T cell response
+
+1758
+01:28:32,900 --> 01:28:35,000
+We actually have a lot of experience in the past
+
+1759
+01:28:35,900 --> 01:28:38,600
+Ability we know how to elicit a good T cell response
+
+1760
+01:28:39,300 --> 01:28:42,700
+phagocytic activated phagocytes
+
+1761
+01:28:42,800 --> 01:28:43,800
+to present antigen
+
+1762
+01:28:44,800 --> 01:28:47,400
+costimulatory molecule
+
+1763
+01:28:47,800 --> 01:28:48,800
+Cytokines
+
+1764
+01:28:48,800 --> 01:28:50,900
+Like this one triggers a nice T cell response
+
+1765
+01:28:51,600 --> 01:28:52,800
+So we are simulating
+
+1766
+01:28:53,300 --> 01:28:54,200
+works like this
+
+1767
+01:28:55,200 --> 01:28:57,600
+So we use the method of doing
+
+1768
+01:28:57,600 --> 01:28:59,600
+radioimmunotherapy
+
+1769
+01:29:00,000 --> 01:29:03,600
+go find this cancer
+
+1770
+01:29:03,600 --> 01:29:05,600
+destroy it
+
+1771
+01:29:05,600 --> 01:29:07,600
+Didn't I just say that there are many cotton liquid lipid cells in it?
+
+1772
+01:29:07,600 --> 01:29:09,600
+I can't kill tumor cells
+
+1773
+01:29:09,600 --> 01:29:11,600
+Also kills cotton lipocytes
+
+1774
+01:29:11,600 --> 01:29:15,600
+break down his entire fortress
+
+1775
+01:29:15,600 --> 01:29:17,600
+At this time, the cancer cells released
+
+1776
+01:29:17,600 --> 01:29:19,600
+He will also release this tumor antigen
+
+1777
+01:29:19,600 --> 01:29:22,600
+What about after his whole antigen is released?
+
+1778
+01:29:22,600 --> 01:29:27,600
+Then you use immune drugs to deactivate the cells
+
+1779
+01:29:28,200 --> 01:29:31,200
+Finally hope that these T cells
+
+1780
+01:29:31,200 --> 01:29:33,200
+It can not only treat the cancer of the original stomach
+
+1781
+01:29:33,200 --> 01:29:35,200
+And he can use what he just said
+
+1782
+01:29:35,200 --> 01:29:37,200
+the lymphatic system blood circulatory system
+
+1783
+01:29:37,200 --> 01:29:40,200
+to find those who hide somewhere
+
+1784
+01:29:40,200 --> 01:29:42,200
+not yet visible to the naked eye
+
+1785
+01:29:42,200 --> 01:29:45,200
+I can't see that CT yet.
+
+1786
+01:29:45,200 --> 01:29:47,200
+metastatic cancer
+
+1787
+01:29:47,200 --> 01:29:49,200
+control it
+
+1788
+01:29:49,200 --> 01:29:51,200
+or make peace with it
+
+1789
+01:29:51,200 --> 01:29:53,200
+or just kill it
+
+1790
+01:29:53,200 --> 01:29:55,200
+This is the principle of the whole treatment
+
+1791
+01:29:55,200 --> 01:29:58,800
+we designed the animal model
+
+1792
+01:30:00,000 --> 01:30:02,000
+Make a big factory to come to the cell
+
+1793
+01:30:02,000 --> 01:30:03,000
+day zero fight
+
+1794
+01:30:03,000 --> 01:30:05,500
+To simulate a large factory to dry transfer
+
+1795
+01:30:05,500 --> 01:30:07,500
+we hit it to this leather stick
+
+1796
+01:30:07,500 --> 01:30:09,500
+it will transfer to dry
+
+1797
+01:30:09,500 --> 01:30:11,500
+wait till it grows
+
+1798
+01:30:11,500 --> 01:30:13,000
+about 14 days later
+
+1799
+01:30:13,000 --> 01:30:14,500
+This original position has been hit
+
+1800
+01:30:14,500 --> 01:30:16,500
+more than 1 cm
+
+1801
+01:30:16,500 --> 01:30:19,500
+Metastatic cancer at this time
+
+1802
+01:30:19,500 --> 01:30:21,500
+eyes can't see yet
+
+1803
+01:30:21,500 --> 01:30:23,500
+But in a microscope like you can see
+
+1804
+01:30:23,500 --> 01:30:25,000
+this
+
+1805
+01:30:25,000 --> 01:30:27,500
+here
+
+1806
+01:30:27,500 --> 01:30:29,500
+here are all these
+
+1807
+01:30:30,500 --> 01:30:32,500
+we treat
+
+1808
+01:30:32,500 --> 01:30:35,000
+Only treat the cancer in situ
+
+1809
+01:30:35,000 --> 01:30:36,000
+we only treat this
+
+1810
+01:30:36,000 --> 01:30:38,000
+14 days old swollen face in situ
+
+1811
+01:30:38,000 --> 01:30:40,000
+Let's pretend we don't see the metastatic cancer
+
+1812
+01:30:40,000 --> 01:30:41,000
+The main purpose is to
+
+1813
+01:30:41,000 --> 01:30:42,500
+Is there a way we can treat this
+
+1814
+01:30:42,500 --> 01:30:43,500
+carcinoma in situ
+
+1815
+01:30:43,500 --> 01:30:47,000
+Simultaneous immune response
+
+1816
+01:30:47,000 --> 01:30:48,500
+Of course the immune cells
+
+1817
+01:30:48,500 --> 01:30:51,500
+attack the cancer cells that have metastasized
+
+1818
+01:30:51,500 --> 01:30:53,500
+This is what we designed first
+
+1819
+01:30:53,500 --> 01:30:54,500
+Let's design a few groups
+
+1820
+01:30:54,500 --> 01:30:56,000
+a group does not treat it
+
+1821
+01:30:56,000 --> 01:30:57,000
+when compared
+
+1822
+01:30:57,000 --> 01:30:59,500
+One group only received radiation therapy
+
+1823
+01:31:00,000 --> 01:31:03,000
+One group only received immunotherapy and cell-based therapy
+
+1824
+01:31:03,000 --> 01:31:07,000
+The other group is radiation plus immunotherapy.
+
+1825
+01:31:08,000 --> 01:31:11,000
+Its principle is to hope to generate new system cells
+
+1826
+01:31:12,000 --> 01:31:18,000
+This is a control for carcinoma in situ
+
+1827
+01:31:18,000 --> 01:31:22,000
+This one does not treat it from day 1 we start treatment on day 14
+
+1828
+01:31:22,000 --> 01:31:28,000
+At this time, it is about 100 to 200 cubic meters.
+
+1829
+01:31:29,000 --> 01:31:32,000
+Then when it is not treated, it continues to grow, and it grows here in 20 days
+
+1830
+01:31:33,000 --> 01:31:35,000
+Any bigger and we'll kill
+
+1831
+01:31:36,000 --> 01:31:41,000
+This is cellular immunotherapy itself, radiation therapy
+
+1832
+01:31:41,000 --> 01:31:45,000
+Radiation therapy alone, or immunotherapy alone, doesn't work very well.
+
+1833
+01:31:46,000 --> 01:31:48,000
+It can delay its growth but still long
+
+1834
+01:31:49,000 --> 01:31:54,000
+But if you combine these two treatments, the flow will disappear as soon as you see it
+
+1835
+01:31:54,000 --> 01:32:00,000
+And not only for this transfer, but also for the transfer in the liver
+
+1836
+01:32:00,000 --> 01:32:02,000
+this is no treatment
+
+1837
+01:32:02,000 --> 01:32:04,000
+this is radiation therapy
+
+1838
+01:32:04,000 --> 01:32:06,000
+this is immunotherapy
+
+1839
+01:32:06,000 --> 01:32:10,000
+Although immunotherapy seems to be less effective than radiotherapy for the original taste
+
+1840
+01:32:10,000 --> 01:32:15,000
+But it is better for cancer treatment and effect
+
+1841
+01:32:15,000 --> 01:32:18,000
+Most notably, this combined treatment
+
+1842
+01:32:18,000 --> 01:32:21,000
+another pattern
+
+1843
+01:32:21,000 --> 01:32:24,000
+Then after you treat this is no treatment
+
+1844
+01:32:24,000 --> 01:32:28,000
+Radiation therapy is to look at the T cells
+
+1845
+01:32:28,000 --> 01:32:31,000
+T cells in the tumor
+
+1846
+01:32:31,000 --> 01:32:34,000
+You can see more about this seventy-eighty-seventy treatment
+
+1847
+01:32:34,000 --> 01:32:36,000
+Combination therapy
+
+1848
+01:32:36,000 --> 01:32:38,000
+secret numb
+
+1849
+01:32:38,000 --> 01:32:42,000
+T cell responses following treatment
+
+1850
+01:32:42,000 --> 01:32:46,000
+Another model is the spontaneous breast cancer model
+
+1851
+01:32:46,000 --> 01:32:49,000
+Those modes just now used the job transfer mode
+
+1852
+01:32:49,000 --> 01:32:51,000
+you inject cancer cells into
+
+1853
+01:32:51,000 --> 01:32:55,000
+Then this is to let the mice produce cancer cells by themselves
+
+1854
+01:32:55,000 --> 01:32:57,000
+a bit closer to human
+
+1855
+01:32:57,000 --> 01:33:00,000
+That's breast cancer
+
+1856
+01:33:00,000 --> 01:33:04,160
+In this model, there are fifteen pairs of mice in Lu County, and ten
+
+1857
+01:33:04,440 --> 01:33:07,620
+That is in Lu County, so there are only ten in this place
+
+1858
+01:33:08,100 --> 01:33:09,600
+Then he will transfer to waste
+
+1859
+01:33:10,400 --> 01:33:12,400
+About four months will be transferred to waste
+
+1860
+01:33:13,800 --> 01:33:15,820
+Then this is related to waste
+
+1861
+01:33:16,100 --> 01:33:19,380
+There are still a lot of finalists, ranking second in the world
+
+1862
+01:33:19,380 --> 01:33:23,100
+Then Taiwan is the fourth place, so this is no treatment
+
+1863
+01:33:24,040 --> 01:33:28,100
+Radiation plus immunotherapy, this PDL1 antibody
+
+1864
+01:33:28,400 --> 01:33:30,400
+Immunotherapy is not the only one
+
+1865
+01:33:31,300 --> 01:33:35,700
+In our development rate of more than one hundred years, a very wide variety of immunotherapies have been developed
+
+1866
+01:33:36,400 --> 01:33:39,200
+Antibodies against PDL1 are one type of immunotherapy
+
+1867
+01:33:40,700 --> 01:33:44,700
+Then our laboratory uses this cytokine immunotherapy
+
+1868
+01:33:44,700 --> 01:33:48,800
+Then this laboratory compares these two immunotherapies
+
+1869
+01:33:48,800 --> 01:33:50,800
+Effects of Concomitant Radiation Therapy
+
+1870
+01:33:51,600 --> 01:33:56,200
+Just relying on immunotherapy, in the Jiangdong mode, there is no obvious effect
+
+1871
+01:33:56,200 --> 01:33:59,600
+But then combining those two treatments, it's pretty obvious
+
+1872
+01:34:00,000 --> 01:34:03,020
+The metastases to the lungs are also seen to be very obvious
+
+1873
+01:34:03,020 --> 01:34:05,020
+The white ones are metastatic cells
+
+1874
+01:34:06,400 --> 01:34:12,100
+Of course, these are still in animal experiment mode.
+
+1875
+01:34:12,100 --> 01:34:16,100
+We also recently communicated with National Taiwan University Animal Hospital
+
+1876
+01:34:17,100 --> 01:34:22,600
+Animals, dogs, cats, older, get cancer like that
+
+1877
+01:34:23,200 --> 01:34:27,200
+It also treats radiotherapy, chemotherapy, surgery
+
+1878
+01:34:27,300 --> 01:34:31,300
+So the doctors at National Taiwan University Animal Hospital have been in contact with these patients
+
+1879
+01:34:32,300 --> 01:34:39,300
+We now hope that from small animals to a spontaneous pet cancer
+
+1880
+01:34:39,300 --> 01:34:41,300
+get closer to humans
+
+1881
+01:34:42,300 --> 01:34:47,300
+Then, using this combination of radiation and immunization
+
+1882
+01:34:47,300 --> 01:34:49,300
+This is our first therapy dog
+
+1883
+01:34:49,300 --> 01:34:54,300
+Received this radiation therapy at Taipei Medical University
+
+1884
+01:34:54,400 --> 01:34:56,400
+Then we'll give it immunotherapy
+
+1885
+01:34:56,400 --> 01:34:59,400
+Then I took it to the National Taiwan University Animal Hospital for observation.
+
+1886
+01:35:00,000 --> 01:35:06,600
+Finally, this history will make a summary
+
+1887
+01:35:06,600 --> 01:35:12,600
+It is hoped that immunotherapy will be combined with precise treatment
+
+1888
+01:35:12,600 --> 01:35:16,900
+or can eradicate cancer
+
+1889
+01:35:16,900 --> 01:35:19,900
+or you can coexist peacefully
+
+1890
+01:35:19,900 --> 01:35:21,700
+long-term peaceful coexistence
+
+1891
+01:35:21,700 --> 01:35:23,100
+this is also a cure
+
+1892
+01:35:23,100 --> 01:35:28,300
+Then I think I will introduce you to this side today
+
+1893
+01:35:28,900 --> 01:35:31,100
+Then use half an hour
+
+1894
+01:35:31,100 --> 01:35:34,200
+Welcome to ask questions
+
+1895
+01:35:39,700 --> 01:35:44,700
+Well, we thank Teacher Cao Mihua for a very wonderful speech
+
+1896
+01:35:44,700 --> 01:35:46,400
+let's open first
+
+1897
+01:35:46,400 --> 01:35:50,300
+please ask us
+
+1898
+01:35:50,300 --> 01:35:54,300
+Before I do that, let me announce
+
+1899
+01:35:54,300 --> 01:35:57,200
+we have prepared scientific magazine
+
+1900
+01:35:57,200 --> 01:35:58,300
+event book
+
+1901
+01:35:58,300 --> 01:35:59,700
+So I encourage you to ask questions
+
+1902
+01:35:59,700 --> 01:36:00,100
+so we
+
+1903
+01:36:00,000 --> 01:36:02,000
+The first ten of us who asked the question
+
+1904
+01:36:02,000 --> 01:36:05,220
+We'll have someone give one to a Science Man magazine
+
+1905
+01:36:05,220 --> 01:36:06,720
+good
+
+1906
+01:36:06,720 --> 01:36:08,220
+Levi
+
+1907
+01:36:08,220 --> 01:36:09,720
+ask the professor
+
+1908
+01:36:09,720 --> 01:36:12,720
+just mentioned that
+
+1909
+01:36:12,720 --> 01:36:14,220
+that immune system
+
+1910
+01:36:14,220 --> 01:36:16,220
+And that T cell
+
+1911
+01:36:16,220 --> 01:36:19,420
+That good effect on our body
+
+1912
+01:36:19,420 --> 01:36:21,420
+then i was thinking
+
+1913
+01:36:21,420 --> 01:36:23,420
+Prevention is better than cure
+
+1914
+01:36:23,420 --> 01:36:28,520
+Then ask the professor how to live
+
+1915
+01:36:28,520 --> 01:36:29,860
+how to take care of your body
+
+1916
+01:36:29,860 --> 01:36:33,860
+T cells can be stored in the body
+
+1917
+01:36:33,860 --> 01:36:37,860
+and have a good immune system
+
+1918
+01:36:37,860 --> 01:36:38,860
+Thanks
+
+1919
+01:36:38,860 --> 01:36:40,860
+T cells have always been there
+
+1920
+01:36:40,860 --> 01:36:43,860
+how to make it more
+
+1921
+01:36:43,860 --> 01:36:45,860
+In fact, this question is actually
+
+1922
+01:36:45,860 --> 01:36:48,860
+What level do you want to answer
+
+1923
+01:36:48,860 --> 01:36:51,860
+In fact, it is the traditional way that doctors tell you
+
+1924
+01:36:51,860 --> 01:36:54,860
+Mom and Dad tell you about this healthy lifestyle
+
+1925
+01:36:54,860 --> 01:36:56,860
+really say that
+
+1926
+01:36:56,860 --> 01:36:58,860
+Because Icene actually
+
+1927
+01:36:58,860 --> 01:37:00,860
+she doesn't look like
+
+1928
+01:37:00,000 --> 01:37:03,520
+Our general concept of vaccines is that you have a very clear enemy
+
+1929
+01:37:03,520 --> 01:37:05,520
+e.g. hepatitis B virus
+
+1930
+01:37:05,520 --> 01:37:07,020
+you know what its antigen is
+
+1931
+01:37:07,020 --> 01:37:09,020
+Then I will use this antigen in advance
+
+1932
+01:37:09,020 --> 01:37:13,020
+to elicit an immune response
+
+1933
+01:37:13,020 --> 01:37:15,020
+But cancer didn't happen before
+
+1934
+01:37:15,020 --> 01:37:18,020
+you don't even know where
+
+1935
+01:37:18,020 --> 01:37:20,020
+even with cancer
+
+1936
+01:37:20,020 --> 01:37:23,020
+The location of its mutation is also different
+
+1937
+01:37:23,020 --> 01:37:24,020
+everyone may not know
+
+1938
+01:37:24,020 --> 01:37:25,020
+also breast cancer
+
+1939
+01:37:25,020 --> 01:37:28,020
+But it has a neoantigen
+
+1940
+01:37:28,040 --> 01:37:29,040
+Because there are antigens
+
+1941
+01:37:29,040 --> 01:37:32,040
+Now think every patient may be different
+
+1942
+01:37:32,040 --> 01:37:36,040
+So it's not like there's a cancer vaccine
+
+1943
+01:37:36,040 --> 01:37:38,040
+Everyone will basically not
+
+1944
+01:37:38,040 --> 01:37:40,040
+Rather, it may be that this precision
+
+1945
+01:37:40,040 --> 01:37:42,040
+for this patient
+
+1946
+01:37:42,040 --> 01:37:45,040
+We need to find its tumor antigen
+
+1947
+01:37:45,040 --> 01:37:48,040
+and then target this tumor antigen
+
+1948
+01:37:48,040 --> 01:37:52,040
+to create this effective immune response
+
+1949
+01:37:52,040 --> 01:37:54,040
+Fortunately we are now
+
+1950
+01:37:54,040 --> 01:37:57,040
+This software called Generational Genome Analysis
+
+1951
+01:37:57,060 --> 01:37:59,060
+very progress
+
+1952
+01:37:59,060 --> 01:38:00,060
+so estimate
+
+1953
+01:38:00,000 --> 01:38:02,460
+Future cancer patients their cancer cells
+
+1954
+01:38:02,460 --> 01:38:04,400
+do this again
+
+1955
+01:38:04,400 --> 01:38:05,860
+sequencing of sequences
+
+1956
+01:38:05,860 --> 01:38:08,640
+Yes, the price can be very high
+
+1957
+01:38:08,640 --> 01:38:09,760
+competitive
+
+1958
+01:38:09,760 --> 01:38:11,100
+I don't know how expensive it is
+
+1959
+01:38:11,100 --> 01:38:12,800
+But it should get cheaper
+
+1960
+01:38:12,800 --> 01:38:15,540
+Then it's possible to find
+
+1961
+01:38:15,540 --> 01:38:16,640
+this patient
+
+1962
+01:38:16,640 --> 01:38:19,640
+The position of his mutation gene mutation
+
+1963
+01:38:19,640 --> 01:38:21,440
+Then design according to this
+
+1964
+01:38:21,440 --> 01:38:24,440
+The best immunotherapy for this patient
+
+1965
+01:38:24,440 --> 01:38:26,040
+As for how to go
+
+1966
+01:38:26,040 --> 01:38:27,760
+to take care of cancer patients
+
+1967
+01:38:27,760 --> 01:38:29,600
+that your good immunity
+
+1968
+01:38:29,600 --> 01:38:32,160
+maintain a healthy life
+
+1969
+01:38:32,160 --> 01:38:34,760
+Early to bed, early to rise, no drinking, no smoking
+
+1970
+01:38:34,760 --> 01:38:36,460
+these sports
+
+1971
+01:38:36,460 --> 01:38:39,400
+these are very basic
+
+1972
+01:38:39,400 --> 01:38:41,760
+take care of some of the health
+
+1973
+01:38:41,760 --> 01:38:43,100
+deliberate act
+
+1974
+01:38:43,100 --> 01:38:45,200
+So as long as there is
+
+1975
+01:38:45,200 --> 01:38:46,700
+enough that
+
+1976
+01:38:46,700 --> 01:38:49,160
+Somatic cells and the good immune system
+
+1977
+01:38:49,160 --> 01:38:50,100
+then
+
+1978
+01:38:50,100 --> 01:38:53,360
+It should definitely not be Nia.
+
+1979
+01:38:53,360 --> 01:38:55,160
+no
+
+1980
+01:38:55,160 --> 01:38:56,660
+I just said that
+
+1981
+01:38:56,660 --> 01:38:58,400
+That cancer cell is actually
+
+1982
+01:38:58,400 --> 01:39:00,000
+have always existed
+
+1983
+01:39:00,000 --> 01:39:02,000
+Then you T cells to kill him
+
+1984
+01:39:02,000 --> 01:39:03,000
+Of course it will happen
+
+1985
+01:39:03,000 --> 01:39:04,000
+no way
+
+1986
+01:39:04,000 --> 01:39:05,000
+no way
+
+1987
+01:39:05,000 --> 01:39:08,000
+Because we have been exposed to these natural things
+
+1988
+01:39:08,000 --> 01:39:10,000
+Then our cells are in the process of replicating
+
+1989
+01:39:10,000 --> 01:39:12,000
+Our cells are always growing
+
+1990
+01:39:12,000 --> 01:39:14,000
+The growing process always goes wrong
+
+1991
+01:39:14,000 --> 01:39:16,000
+So there will always be errors in the process of copying
+
+1992
+01:39:16,000 --> 01:39:20,000
+Although the number is low, it adds up to a lot
+
+1993
+01:39:20,000 --> 01:39:22,000
+So there's almost no way you can say you're replicating cells
+
+1994
+01:39:22,000 --> 01:39:24,000
+assuming it's 100 percent correct
+
+1995
+01:39:24,000 --> 01:39:26,000
+there would be no cancer so to speak
+
+1996
+01:39:26,000 --> 01:39:29,000
+But that is to say, there is no such thing as 100%
+
+1997
+01:39:29,000 --> 01:39:32,000
+That is to say, our copy is in the process
+
+1998
+01:39:32,000 --> 01:39:34,000
+some mutations will occur
+
+1999
+01:39:34,000 --> 01:39:35,000
+not so accurate
+
+2000
+01:39:35,000 --> 01:39:36,000
+where some mutations occur
+
+2001
+01:39:36,000 --> 01:39:38,000
+components of cancer cells
+
+2002
+01:39:38,000 --> 01:39:40,000
+then some of us will attack him
+
+2003
+01:39:40,000 --> 01:39:43,000
+But cancer cells have been evolving, evolving, evolving
+
+2004
+01:39:43,000 --> 01:39:45,000
+In the end he is not afraid of you
+
+2005
+01:39:45,000 --> 01:39:46,000
+So I just talked about cancer
+
+2006
+01:39:46,000 --> 01:39:48,000
+The Four Survival Theory is just that
+
+2007
+01:39:48,000 --> 01:39:51,000
+So you can't say you have normal public opinion
+
+2008
+01:39:51,000 --> 01:39:53,000
+you won't have cancer cells
+
+2009
+01:39:53,000 --> 01:39:55,000
+Because now cancer cells probably
+
+2010
+01:39:55,000 --> 01:39:57,000
+Cancer counts in about five people
+
+2011
+01:39:57,000 --> 01:39:59,000
+There's probably one of four or five people inside
+
+2012
+01:40:00,000 --> 01:40:03,120
+So he's great
+
+2013
+01:40:03,120 --> 01:40:04,600
+The enemies you have to deal with are powerful
+
+2014
+01:40:06,100 --> 01:40:07,960
+there is one over there
+
+2015
+01:40:07,960 --> 01:40:08,760
+right
+
+2016
+01:40:08,760 --> 01:40:09,400
+please
+
+2017
+01:40:09,400 --> 01:40:11,400
+teacher ask
+
+2018
+01:40:11,400 --> 01:40:13,800
+Just now the teacher talked about the base part
+
+2019
+01:40:13,800 --> 01:40:15,520
+Does that mean people with immune diseases
+
+2020
+01:40:15,520 --> 01:40:17,560
+less likely to get cancer
+
+2021
+01:40:19,120 --> 01:40:20,860
+Let's say you have erythroid cystic bowel
+
+2022
+01:40:20,860 --> 01:40:22,320
+less likely to get breast cancer
+
+2023
+01:40:23,860 --> 01:40:24,660
+This is a question with two sides
+
+2024
+01:40:24,660 --> 01:40:27,060
+I think your question is like a scientist
+
+2025
+01:40:27,060 --> 01:40:27,400
+right
+
+2026
+01:40:27,400 --> 01:40:28,560
+You don't know what you're doing
+
+2027
+01:40:28,660 --> 01:40:29,780
+Actually because
+
+2028
+01:40:29,780 --> 01:40:30,660
+cancer
+
+2029
+01:40:30,660 --> 01:40:33,360
+I'm really not sure
+
+2030
+01:40:33,360 --> 01:40:34,960
+Have read the literature on this
+
+2031
+01:40:34,960 --> 01:40:37,380
+But I'm doing hepatitis virus myself
+
+2032
+01:40:37,380 --> 01:40:39,080
+he really did report
+
+2033
+01:40:39,080 --> 01:40:40,880
+some immune patients
+
+2034
+01:40:40,880 --> 01:40:42,680
+Hepatitis Virus
+
+2035
+01:40:44,320 --> 01:40:45,020
+In fact, body immunity
+
+2036
+01:40:45,020 --> 01:40:48,960
+He's more of an overactive immune system
+
+2037
+01:40:48,960 --> 01:40:49,380
+then it looks like
+
+2038
+01:40:49,380 --> 01:40:51,420
+for some infectious diseases
+
+2039
+01:40:51,420 --> 01:40:52,560
+that's right
+
+2040
+01:40:52,560 --> 01:40:53,560
+chronic infectious disease
+
+2041
+01:40:53,560 --> 01:40:54,580
+that's right
+
+2042
+01:40:54,580 --> 01:40:57,020
+So I think it's possible
+
+2043
+01:40:57,020 --> 01:40:57,720
+but i'm not sure
+
+2044
+01:40:57,720 --> 01:40:59,020
+has anyone done it
+
+2045
+01:40:59,020 --> 01:41:00,080
+one like this
+
+2046
+01:41:00,000 --> 01:41:02,760
+A large-scale statistical analysis
+
+2047
+01:41:02,760 --> 01:41:04,260
+I think this is in public health
+
+2048
+01:41:04,260 --> 01:41:06,860
+This is a possible research topic
+
+2049
+01:41:06,860 --> 01:41:08,260
+font immune patient
+
+2050
+01:41:08,260 --> 01:41:09,760
+is it his cancer
+
+2051
+01:41:09,760 --> 01:41:11,360
+or certain cancers
+
+2052
+01:41:11,360 --> 01:41:13,360
+The attack rate will be lower
+
+2053
+01:41:13,360 --> 01:41:15,360
+I think it is theoretically possible
+
+2054
+01:41:15,360 --> 01:41:18,660
+I just had two questions over there.
+
+2055
+01:41:18,660 --> 01:41:19,860
+Did it just come here?
+
+2056
+01:41:19,860 --> 01:41:21,860
+OK, so is it?
+
+2057
+01:41:21,860 --> 01:41:23,160
+thank you
+
+2058
+01:41:23,160 --> 01:41:24,660
+one thing yes please
+
+2059
+01:41:30,000 --> 01:41:35,000
+Interesting Topics for Chinese Speech
+
+2060
+01:41:35,000 --> 01:41:37,000
+What I want to ask is that it is mentioned that
+
+2061
+01:41:37,000 --> 01:41:39,000
+is the total number of T cells
+
+2062
+01:41:39,000 --> 01:41:41,000
+affect the effectiveness of the entire treatment
+
+2063
+01:41:41,000 --> 01:41:43,000
+The total number of T cells
+
+2064
+01:41:43,000 --> 01:41:46,000
+different types of T cells
+
+2065
+01:41:46,000 --> 01:41:49,000
+Or it is said that it is Satutoxic T cell
+
+2066
+01:41:49,000 --> 01:41:51,000
+Or Suppressor T cell
+
+2067
+01:41:51,000 --> 01:41:52,000
+Regulatory T cell
+
+2068
+01:41:52,000 --> 01:41:55,000
+Is there any Specific T cell?
+
+2069
+01:41:55,000 --> 01:41:56,000
+or total
+
+2070
+01:41:56,000 --> 01:41:58,000
+ok then back to this
+
+2071
+01:41:58,000 --> 01:42:00,000
+I may have just misdefined
+
+2072
+01:42:00,000 --> 01:42:03,780
+T cell hormone is the T cell hormone in the seed stream
+
+2073
+01:42:03,780 --> 01:42:05,380
+in the blood that doesn't count
+
+2074
+01:42:05,380 --> 01:42:08,400
+In the blood, don't you only deal with the blood?
+
+2075
+01:42:08,400 --> 01:42:10,200
+You still have to deal with these dimensional creatures, these creatures
+
+2076
+01:42:10,200 --> 01:42:12,780
+So our body's T cells are not just to deal with the flow
+
+2077
+01:42:12,780 --> 01:42:14,460
+Then the T cell hormones we are talking about are
+
+2078
+01:42:14,460 --> 01:42:16,680
+T cell seed
+
+2079
+01:42:16,680 --> 01:42:18,020
+Because this T cell will go to the seed stream
+
+2080
+01:42:18,020 --> 01:42:19,680
+It is probably the flow of knowledge
+
+2081
+01:42:20,800 --> 01:42:24,200
+So what kind of T cells are more effective?
+
+2082
+01:42:24,200 --> 01:42:26,120
+Because T cells have a type called
+
+2083
+01:42:26,120 --> 01:42:28,160
+You just mentioned that they are heterozygous T cells
+
+2084
+01:42:28,160 --> 01:42:30,480
+Regulate T cells this is bad
+
+2085
+01:42:30,480 --> 01:42:31,680
+So there is Correlation
+
+2086
+01:42:31,680 --> 01:42:34,600
+If we say that there are many different types of T cells
+
+2087
+01:42:34,600 --> 01:42:36,400
+In fact, the prognosis for it is relatively bad.
+
+2088
+01:42:36,400 --> 01:42:39,720
+Icva is afraid of Cd8 T cells
+
+2089
+01:42:41,440 --> 01:42:45,320
+So it should be more and more Cd8T cells
+
+2090
+01:42:46,520 --> 01:42:48,280
+its prognosis
+
+2091
+01:42:48,280 --> 01:42:50,200
+Overall prognosis will be better
+
+2092
+01:42:51,880 --> 01:42:52,360
+that gentleman
+
+2093
+01:42:56,280 --> 01:42:57,600
+professor please
+
+2094
+01:42:57,600 --> 01:43:00,000
+That's because there is a Dr. Zhuang
+
+2095
+01:43:00,000 --> 01:43:05,440
+The last issue was to coexist with cancer
+
+2096
+01:43:05,440 --> 01:43:08,960
+It's after the invention of that towel fuck
+
+2097
+01:43:08,960 --> 01:43:15,360
+Use that energy to be in touch with the heavens and the earth to coexist with cancer
+
+2098
+01:43:15,360 --> 01:43:16,880
+That is to say
+
+2099
+01:43:16,880 --> 01:43:21,280
+Will its activity just increase that kind of
+
+2100
+01:43:21,280 --> 01:43:23,680
+increased immune system
+
+2101
+01:43:23,680 --> 01:43:27,760
+In this case, if we promote everyone to exercise
+
+2102
+01:43:27,760 --> 01:43:31,440
+It is less likely to say that cancer arises
+
+2103
+01:43:31,440 --> 01:43:33,440
+Do you have any research on this?
+
+2104
+01:43:36,080 --> 01:43:39,280
+Ladies and gentlemen, I can only talk about a healthy lifestyle.
+
+2105
+01:43:39,280 --> 01:43:41,840
+What you said just now should actually be a kind of exercise.
+
+2106
+01:43:41,840 --> 01:43:46,960
+When you exercise as a whole, it is more important to your overall physical condition
+
+2107
+01:43:46,960 --> 01:43:50,480
+The whole of this includes the immune system
+
+2108
+01:43:50,480 --> 01:43:52,480
+It should be healthier
+
+2109
+01:43:52,480 --> 01:43:56,480
+But is it because of this that you don't get cancer?
+
+2110
+01:43:56,480 --> 01:44:00,000
+This is difficult to go, it should be in nature
+
+2111
+01:44:00,000 --> 01:44:04,600
+In science, no correlation like this has been studied
+
+2112
+01:44:04,600 --> 01:44:08,800
+Some people you can see some people you can see in the packing yard
+
+2113
+01:44:08,800 --> 01:44:13,700
+Life is very healthy now, long-distance running, triathlon, non-smoking
+
+2114
+01:44:13,700 --> 01:44:15,000
+This is the proof
+
+2115
+01:44:16,000 --> 01:44:21,000
+So that is to say, because IC8 appeared in the evolution process
+
+2116
+01:44:21,000 --> 01:44:26,000
+Sometimes your physical condition does not mean that you are immune
+
+2117
+01:44:26,000 --> 01:44:28,500
+So this part is hard to talk about
+
+2118
+01:44:28,500 --> 01:44:32,100
+But, overall, as long as you maintain a healthy lifestyle
+
+2119
+01:44:32,100 --> 01:44:33,300
+must be helpful
+
+2120
+01:44:33,300 --> 01:44:36,300
+For example, some cancer-causing factors are known, such as obesity
+
+2121
+01:44:37,800 --> 01:44:41,000
+This inflammatory response, these are all bad
+
+2122
+01:44:41,000 --> 01:44:43,400
+this is a danger signal
+
+2123
+01:44:43,400 --> 01:44:47,500
+So if you say that the factors that can reduce the risk of these cancers
+
+2124
+01:44:47,500 --> 01:44:51,300
+Then your overall VL ratio will drop, this is known
+
+2125
+01:44:51,300 --> 01:44:54,800
+For example, like our carriers of hepatitis B virus
+
+2126
+01:44:54,800 --> 01:44:58,300
+If you can take medicine to control the number of hepatitis B virus
+
+2127
+01:44:58,300 --> 01:45:00,300
+that will reduce
+
+2128
+01:45:00,000 --> 01:45:02,000
+At least you get liver cancer rates
+
+2129
+01:45:02,000 --> 01:45:03,000
+know this
+
+2130
+01:45:06,000 --> 01:45:07,000
+there are two over there i think
+
+2131
+01:45:07,000 --> 01:45:09,000
+Mr. Levi that
+
+2132
+01:45:10,000 --> 01:45:11,000
+Hello Professor
+
+2133
+01:45:11,000 --> 01:45:13,000
+The question I want to ask is to say
+
+2134
+01:45:13,000 --> 01:45:14,000
+It was mentioned just now, in fact, it was mentioned at the beginning
+
+2135
+01:45:14,000 --> 01:45:15,000
+our immune system
+
+2136
+01:45:15,000 --> 01:45:17,000
+In fact, there are many different types of immune cells
+
+2137
+01:45:17,000 --> 01:45:20,000
+Contains GCC cells B cells and T cells
+
+2138
+01:45:20,000 --> 01:45:22,000
+Today's is what the professor just mentioned
+
+2139
+01:45:22,000 --> 01:45:24,000
+The main part of immunotherapy
+
+2140
+01:45:24,000 --> 01:45:27,000
+The feeling is to focus on the part of T cells
+
+2141
+01:45:27,000 --> 01:45:29,000
+Then in immunotherapy
+
+2142
+01:45:29,000 --> 01:45:30,000
+Does it target B cells
+
+2143
+01:45:30,000 --> 01:45:33,000
+Or related functions of GCC cells
+
+2144
+01:45:33,000 --> 01:45:35,000
+other research done
+
+2145
+01:45:35,000 --> 01:45:36,000
+Thanks
+
+2146
+01:45:37,000 --> 01:45:39,000
+That is, the immune system, in addition to T cells
+
+2147
+01:45:39,000 --> 01:45:41,000
+Are other cells
+
+2148
+01:45:41,000 --> 01:45:43,000
+T cells do not activate themselves
+
+2149
+01:45:43,000 --> 01:45:44,000
+right
+
+2150
+01:45:44,000 --> 01:45:46,000
+It requires antigen presenting cells
+
+2151
+01:45:46,000 --> 01:45:47,000
+it will be alive
+
+2152
+01:45:47,000 --> 01:45:48,000
+so the immune system it's not
+
+2153
+01:45:48,000 --> 01:45:51,000
+can exist independently
+
+2154
+01:45:51,000 --> 01:45:53,000
+It's actually B cells that have a very tight
+
+2155
+01:45:53,000 --> 01:45:55,000
+regulatory relationship
+
+2156
+01:45:55,000 --> 01:45:56,000
+The function of B cells
+
+2157
+01:45:56,000 --> 01:45:58,000
+Antibodies
+
+2158
+01:45:59,000 --> 01:46:00,000
+Antibody
+
+2159
+01:46:00,000 --> 01:46:01,000
+We now especially synthetically affirm
+
+2160
+01:46:01,000 --> 01:46:03,500
+for microbial vaccines
+
+2161
+01:46:03,500 --> 01:46:04,800
+it plays a big part
+
+2162
+01:46:04,800 --> 01:46:06,600
+this microbe
+
+2163
+01:46:06,600 --> 01:46:09,800
+It would have been by invading the cells of the body
+
+2164
+01:46:09,800 --> 01:46:11,200
+into this cell
+
+2165
+01:46:11,200 --> 01:46:13,800
+Then achieve the purpose of infection
+
+2166
+01:46:13,800 --> 01:46:14,700
+Then if there are antibodies
+
+2167
+01:46:14,700 --> 01:46:16,200
+synthesize it
+
+2168
+01:46:16,200 --> 01:46:18,100
+That virus can't get in
+
+2169
+01:46:18,100 --> 01:46:20,800
+But the antibody has to go directly
+
+2170
+01:46:20,800 --> 01:46:23,700
+It also does not directly kill cancer cells
+
+2171
+01:46:23,700 --> 01:46:24,900
+What it does is probably
+
+2172
+01:46:24,900 --> 01:46:28,000
+It binds cancer cells by
+
+2173
+01:46:28,000 --> 01:46:29,000
+then deactivate
+
+2174
+01:46:29,000 --> 01:46:31,800
+For example, NK cells
+
+2175
+01:46:31,800 --> 01:46:35,800
+activate the phagocytic cells
+
+2176
+01:46:35,800 --> 01:46:38,400
+is possible by means of something like this
+
+2177
+01:46:38,400 --> 01:46:40,500
+to achieve the effect of cancer control
+
+2178
+01:46:40,500 --> 01:46:43,000
+But at least for now
+
+2179
+01:46:43,000 --> 01:46:46,900
+That is to say, in this whole cancer immunotherapy
+
+2180
+01:46:46,900 --> 01:46:50,500
+In the current experience like this
+
+2181
+01:46:50,500 --> 01:46:53,000
+The role of T cells
+
+2182
+01:46:53,000 --> 01:46:54,300
+cellular immunity
+
+2183
+01:46:54,300 --> 01:46:55,800
+more important role
+
+2184
+01:46:55,800 --> 01:46:57,000
+from animal experiments
+
+2185
+01:46:57,000 --> 01:46:59,900
+Follow the end of these cancer diseases in humans
+
+2186
+01:47:00,000 --> 01:47:01,320
+looks like this
+
+2187
+01:47:01,320 --> 01:47:02,160
+So now immunotherapy
+
+2188
+01:47:02,160 --> 01:47:04,860
+In fact, the general research focus is on
+
+2189
+01:47:04,860 --> 01:47:06,760
+How to strengthen the patient's
+
+2190
+01:47:06,760 --> 01:47:08,700
+professional system fort
+
+2191
+01:47:08,700 --> 01:47:10,400
+That must be my fault
+
+2192
+01:47:10,400 --> 01:47:11,840
+it's useless
+
+2193
+01:47:11,840 --> 01:47:14,400
+but relatively speaking
+
+2194
+01:47:14,400 --> 01:47:17,400
+Your role may be more prominent in the system
+
+2195
+01:47:17,400 --> 01:47:18,900
+that lady is in front
+
+2196
+01:47:18,900 --> 01:47:20,600
+right
+
+2197
+01:47:20,600 --> 01:47:21,640
+Hello, teacher
+
+2198
+01:47:21,640 --> 01:47:23,500
+I just heard more
+
+2199
+01:47:23,500 --> 01:47:25,740
+Related to immuno checkpoint
+
+2200
+01:47:25,740 --> 01:47:28,500
+For example, for CARTE
+
+2201
+01:47:28,500 --> 01:47:29,640
+technology like this
+
+2202
+01:47:29,640 --> 01:47:31,360
+Is it still in clinical trials
+
+2203
+01:47:31,360 --> 01:47:33,440
+or already in some countries
+
+2204
+01:47:33,440 --> 01:47:34,640
+can be used to execute
+
+2205
+01:47:34,640 --> 01:47:36,340
+already on sale
+
+2206
+01:47:36,340 --> 01:47:39,040
+That Novatis
+
+2207
+01:47:39,040 --> 01:47:40,040
+should
+
+2208
+01:47:40,040 --> 01:47:42,040
+This is already listed
+
+2209
+01:47:42,040 --> 01:47:43,800
+This is the product that can be bought
+
+2210
+01:47:43,800 --> 01:47:47,740
+But something like this
+
+2211
+01:47:47,740 --> 01:47:50,840
+Every patient has to do its own CARTE sales
+
+2212
+01:47:50,840 --> 01:47:53,140
+So the second question I want to ask is to say
+
+2213
+01:47:53,140 --> 01:47:57,240
+So if we want to treat with CARTE
+
+2214
+01:47:57,240 --> 01:47:59,240
+how long will it take
+
+2215
+01:47:59,240 --> 01:48:00,240
+will be wrong
+
+2216
+01:48:00,000 --> 01:48:01,600
+enough T cells
+
+2217
+01:48:01,600 --> 01:48:04,200
+Is it possible that this T cell came from a
+
+2218
+01:48:04,200 --> 01:48:06,400
+extreme blood or other
+
+2219
+01:48:06,400 --> 01:48:08,040
+is used
+
+2220
+01:48:08,040 --> 01:48:11,040
+STEM cell and then go to Differentiate to enough T cell
+
+2221
+01:48:11,040 --> 01:48:14,200
+If you hit someone's body, you must still
+
+2222
+01:48:14,200 --> 01:48:16,400
+Should be difficult from STEM cell
+
+2223
+01:48:16,400 --> 01:48:17,920
+Because the STEM cell just mentioned is the one
+
+2224
+01:48:17,920 --> 01:48:19,280
+hematopoietic cells
+
+2225
+01:48:19,280 --> 01:48:21,880
+it differentiates a lot
+
+2226
+01:48:21,880 --> 01:48:23,680
+You want to divide it has a mature T cell
+
+2227
+01:48:23,680 --> 01:48:25,080
+It's not easy
+
+2228
+01:48:25,080 --> 01:48:27,200
+So usually the patient's own
+
+2229
+01:48:27,200 --> 01:48:28,400
+mature T cells
+
+2230
+01:48:28,400 --> 01:48:29,680
+remodel it
+
+2231
+01:48:29,680 --> 01:48:33,280
+But if I've found out that I have cancer
+
+2232
+01:48:33,280 --> 01:48:35,520
+Then I still have time to go
+
+2233
+01:48:35,520 --> 01:48:37,520
+Store enough T cells
+
+2234
+01:48:37,520 --> 01:48:39,080
+Do you want to do the next Carty?
+
+2235
+01:48:39,080 --> 01:48:40,480
+or i might
+
+2236
+01:48:40,480 --> 01:48:41,600
+for example
+
+2237
+01:48:41,600 --> 01:48:44,320
+How much is best to have every year
+
+2238
+01:48:44,320 --> 01:48:46,080
+enough stock
+
+2239
+01:48:46,080 --> 01:48:48,160
+Will be a Carty cell in the future
+
+2240
+01:48:48,160 --> 01:48:50,080
+there is no way to do it like
+
+2241
+01:48:50,080 --> 01:48:52,880
+usually i
+
+2242
+01:48:52,880 --> 01:48:53,720
+Because of Carty cell
+
+2243
+01:48:53,720 --> 01:48:54,560
+I didn't say it myself
+
+2244
+01:48:54,560 --> 01:48:56,440
+Because I am a mouse myself
+
+2245
+01:48:56,440 --> 01:48:57,640
+so many are
+
+2246
+01:48:57,640 --> 01:48:59,520
+purple ice pop
+
+2247
+01:49:00,000 --> 01:49:02,760
+But you'll be exposed to information like this
+
+2248
+01:49:02,760 --> 01:49:05,000
+Cartysales me
+
+2249
+01:49:05,000 --> 01:49:06,200
+I
+
+2250
+01:49:06,200 --> 01:49:10,400
+I ran into a graduate student from our biomedical institute about a few weeks ago
+
+2251
+01:49:10,400 --> 01:49:12,600
+Then he is in this company now
+
+2252
+01:49:12,600 --> 01:49:14,200
+So called Cartysales
+
+2253
+01:49:14,200 --> 01:49:16,500
+Then I had a lot of ideas in the past
+
+2254
+01:49:16,500 --> 01:49:20,600
+I thought it was okay to ask this lady if it was done
+
+2255
+01:49:20,600 --> 01:49:21,800
+may take a long time
+
+2256
+01:49:21,800 --> 01:49:23,300
+But they are in that company now
+
+2257
+01:49:23,300 --> 01:49:27,000
+He told me about two to three weeks
+
+2258
+01:49:27,100 --> 01:49:30,600
+They can make this patient's Cartysales
+
+2259
+01:49:30,600 --> 01:49:32,000
+he's so handsome
+
+2260
+01:49:32,000 --> 01:49:34,900
+That is to say, it is actually very competitive.
+
+2261
+01:49:34,900 --> 01:49:37,000
+But there is still no way to solve the problem that is
+
+2262
+01:49:37,000 --> 01:49:42,400
+Every patient has to do his own Cartysales
+
+2263
+01:49:42,400 --> 01:49:45,200
+How to prepare this Cartysales
+
+2264
+01:49:45,200 --> 01:49:47,300
+how to deactivate
+
+2265
+01:49:47,300 --> 01:49:50,200
+Then how to save
+
+2266
+01:49:50,200 --> 01:49:53,100
+These will be some of the challenges in manufacturing
+
+2267
+01:49:53,100 --> 01:49:55,000
+then you can imagine
+
+2268
+01:49:55,000 --> 01:49:59,900
+His price will be higher than the one I just put on
+
+2269
+01:50:00,000 --> 01:50:02,240
+more, because after that drug was made
+
+2270
+01:50:02,240 --> 01:50:04,240
+Everyone can use it, every cancer patient can
+
+2271
+01:50:04,240 --> 01:50:06,240
+The first time you see it, only you can use it
+
+2272
+01:50:07,580 --> 01:50:10,080
+There are four prices, I believe it will not be cheap
+
+2273
+01:50:10,080 --> 01:50:12,580
+so if i already have cancer
+
+2274
+01:50:12,580 --> 01:50:15,580
+can i still have time
+
+2275
+01:50:15,580 --> 01:50:18,340
+Now the most effective treatment is for blood cancer patients.
+
+2276
+01:50:19,240 --> 01:50:21,740
+If you get a blood cancer patient
+
+2277
+01:50:21,740 --> 01:50:23,740
+Especially a species called CD19
+
+2278
+01:50:23,740 --> 01:50:26,440
+related B cell blood cancer
+
+2279
+01:50:26,800 --> 01:50:28,500
+The cure rate is very high
+
+2280
+01:50:30,500 --> 01:50:32,500
+here, this bit, yes
+
+2281
+01:50:32,500 --> 01:50:34,500
+Then sit in the back seat over there
+
+2282
+01:50:34,500 --> 01:50:35,500
+come here first
+
+2283
+01:50:41,000 --> 01:50:43,500
+hello professor, thank you for your presentation
+
+2284
+01:50:43,500 --> 01:50:46,500
+I have two questions, the first one is
+
+2285
+01:50:46,500 --> 01:50:49,500
+According to T-cell receptor
+
+2286
+01:50:49,500 --> 01:50:51,500
+It is in Encode T-cell receptor
+
+2287
+01:50:51,500 --> 01:50:53,500
+Is to use VDGA recombination
+
+2288
+01:50:53,500 --> 01:50:55,500
+so fearadically the repertoire
+
+2289
+01:50:55,500 --> 01:50:58,500
+of the T-cell detection would be
+
+2290
+01:51:00,000 --> 01:51:08,800
+If you can detect different energies, there will be a lot of people playing
+
+2291
+01:51:08,800 --> 01:51:24,540
+Is there any related research to find out which T-cell in your body can contain Detect Cancer like Service Market
+
+2292
+01:51:25,300 --> 01:51:31,300
+The total rate of T-cell is very high, it is generated by this Recombination
+
+2293
+01:51:31,300 --> 01:51:36,700
+It recognizes a lot of antigens, so you just know its sequence is useless
+
+2294
+01:51:36,700 --> 01:51:41,940
+You know its Sequence, but you don’t actually know what this T-cell knows.
+
+2295
+01:51:41,940 --> 01:51:46,140
+So now it's the other way around, you first find its mutation
+
+2296
+01:51:46,140 --> 01:51:48,640
+Because T-cell recognition is these Mutation Antigen
+
+2297
+01:51:48,640 --> 01:51:52,940
+Then you use the so-called Neo Antigen of this Mutation
+
+2298
+01:51:52,940 --> 01:51:59,340
+Go see if you can stimulate the concept of T-cell, assuming that this Neo Antigen can stimulate the patient's T-cell
+
+2299
+01:52:00,000 --> 01:52:15,000
+It is resistance, copy, and then see the sequence of a certain group of system packages, T-cell receptor, it really increases, then you know that this T-cell should know this neo-antigen, but the other way around
+
+2300
+01:52:16,000 --> 01:52:32,000
+Another question is that your laboratory has research on combination of therapies, first you use the radiation to induce destruction of determining microenvironment, and then followed by introduction of T-cells,
+
+2301
+01:52:33,000 --> 01:52:35,000
+You can talk to us on camera, I can't hear you
+
+2302
+01:52:57,000 --> 01:53:00,000
+OK, so this question is to say, as I just said,
+
+2303
+01:53:00,000 --> 01:53:02,000
+For example, tumors are afraid of T-cell
+
+2304
+01:53:02,000 --> 01:53:04,000
+It's good if there are T-cells in the tumor recently
+
+2305
+01:53:04,000 --> 01:53:08,000
+Because yours may be more responsive
+
+2306
+01:53:08,000 --> 01:53:11,000
+So the problem just now is that my lab is doing
+
+2307
+01:53:11,000 --> 01:53:13,000
+radiation therapy first
+
+2308
+01:53:13,000 --> 01:53:15,000
+followed by immunotherapy
+
+2309
+01:53:15,000 --> 01:53:17,000
+After radiation therapy
+
+2310
+01:53:17,000 --> 01:53:19,000
+The T-cells in the tumor were killed
+
+2311
+01:53:19,000 --> 01:53:21,000
+that's right
+
+2312
+01:53:21,000 --> 01:53:23,000
+But where does the T-cell come from?
+
+2313
+01:53:23,000 --> 01:53:25,000
+come on those questions
+
+2314
+01:53:25,000 --> 01:53:27,000
+Where is the T-cell confirmed?
+
+2315
+01:53:27,000 --> 01:53:28,000
+do not forget
+
+2316
+01:53:28,000 --> 01:53:32,000
+It's our body's immune system
+
+2317
+01:53:32,000 --> 01:53:34,000
+in the bone marrow
+
+2318
+01:53:34,000 --> 01:53:36,000
+bone marrow modeling blast
+
+2319
+01:53:36,000 --> 01:53:39,000
+It keeps making T-cell out
+
+2320
+01:53:39,000 --> 01:53:41,000
+only when there is a tumor
+
+2321
+01:53:41,000 --> 01:53:43,000
+As soon as your T-cell is attracted to the tumor
+
+2322
+01:53:43,000 --> 01:53:45,000
+It becomes an inhibitory T-cell
+
+2323
+01:53:45,000 --> 01:53:47,000
+it loses function
+
+2324
+01:53:47,000 --> 01:53:49,000
+Then if we use radiation
+
+2325
+01:53:49,000 --> 01:53:51,000
+destroy it this tumor for the environment
+
+2326
+01:53:51,000 --> 01:53:52,000
+destroy its inhibiting environment
+
+2327
+01:53:52,000 --> 01:53:54,000
+break down its fortress
+
+2328
+01:53:54,000 --> 01:53:56,000
+In this way, you are in the newly generated T-cell
+
+2329
+01:53:56,000 --> 01:53:58,000
+it has a chance
+
+2330
+01:53:58,000 --> 01:54:00,000
+will generate a
+
+2331
+01:54:00,000 --> 01:54:02,340
+effective aggressive
+
+2332
+01:54:02,340 --> 01:54:04,340
+A functional system is packaged out
+
+2333
+01:54:04,340 --> 01:54:05,340
+It's all about our principles
+
+2334
+01:54:05,340 --> 01:54:06,140
+that is
+
+2335
+01:54:06,140 --> 01:54:08,140
+It's like breaking cancer into chains
+
+2336
+01:54:08,140 --> 01:54:10,140
+Use the square ray to knock it out first
+
+2337
+01:54:10,140 --> 01:54:12,140
+After destroying its entire environment
+
+2338
+01:54:12,140 --> 01:54:15,140
+becomes an inflamed environment
+
+2339
+01:54:15,140 --> 01:54:17,140
+At this time it is beneficial
+
+2340
+01:54:17,140 --> 01:54:18,140
+immune response
+
+2341
+01:54:18,140 --> 01:54:20,140
+immune response triggered like bacteria
+
+2342
+01:54:20,140 --> 01:54:21,640
+Because if cancer is like bacteria
+
+2343
+01:54:21,640 --> 01:54:22,640
+to elicit such a strong immune response
+
+2344
+01:54:22,640 --> 01:54:24,640
+Then we probably won't be afraid of cancer
+
+2345
+01:54:24,640 --> 01:54:26,640
+It is mostly after cancer cells
+
+2346
+01:54:26,640 --> 01:54:27,640
+It's too much like we can system package
+
+2347
+01:54:27,640 --> 01:54:29,640
+less likely to produce a severe inflammation
+
+2348
+01:54:30,280 --> 01:54:31,280
+So you try it out on a T-shirt
+
+2349
+01:54:31,280 --> 01:54:32,280
+less functional
+
+2350
+01:54:32,280 --> 01:54:33,280
+But our T-shirt has always existed
+
+2351
+01:54:33,280 --> 01:54:34,780
+You know it takes care of your immune type
+
+2352
+01:54:34,780 --> 01:54:36,780
+The soundness of hematopoietic organs
+
+2353
+01:54:36,780 --> 01:54:38,280
+you will always provide these
+
+2354
+01:54:38,280 --> 01:54:40,280
+Normal T-Shirt comes out
+
+2355
+01:54:41,780 --> 01:54:43,780
+Mr. Mina
+
+2356
+01:54:43,780 --> 01:54:45,780
+Hello, Professor, I am Jianfu
+
+2357
+01:54:45,780 --> 01:54:48,780
+I'm glad you went deep into the future and talked about it in such detail.
+
+2358
+01:54:48,780 --> 01:54:50,780
+Molecular In-Depth Physician
+
+2359
+01:54:50,780 --> 01:54:52,780
+also our teacher
+
+2360
+01:54:52,780 --> 01:54:54,780
+I think the professor just mentioned that
+
+2361
+01:54:54,780 --> 01:54:56,780
+Play that BDL at the beginning
+
+2362
+01:54:56,780 --> 01:54:58,780
+There is MuseoField going to eat bacteria
+
+2363
+01:54:59,420 --> 01:55:01,420
+but he
+
+2364
+01:55:01,420 --> 01:55:03,420
+He will have MuseoField
+
+2365
+01:55:03,420 --> 01:55:05,420
+but he should be
+
+2366
+01:55:05,420 --> 01:55:07,420
+because he is doing cancer
+
+2367
+01:55:07,420 --> 01:55:09,420
+he has been providing
+
+2368
+01:55:09,420 --> 01:55:11,420
+MuseoField
+
+2369
+01:55:11,420 --> 01:55:13,420
+he has been providing
+
+2370
+01:55:13,420 --> 01:55:15,420
+MuseoField
+
+2371
+01:55:15,420 --> 01:55:17,420
+he has been providing
+
+2372
+01:55:17,420 --> 01:55:19,420
+MuseoField
+
+2373
+01:55:19,420 --> 01:55:21,420
+he has been providing
+
+2374
+01:55:21,420 --> 01:55:23,420
+MuseoField
+
+2375
+01:55:23,420 --> 01:55:25,420
+he has been providing
+
+2376
+01:55:25,420 --> 01:55:27,420
+MuseoField
+
+2377
+01:55:00,000 --> 01:55:06,520
+In the whole process, the structure of the RVC next to it also becomes Cancel sale
+
+2378
+01:55:06,520 --> 01:55:11,640
+Even red blood cells that become polar cells start to change in shape
+
+2379
+01:55:11,640 --> 01:55:15,560
+It's in the process of chasing some of our MACO jurisprudence or some
+
+2380
+01:55:15,560 --> 01:55:19,680
+Will the lost fee release some H2O2 to chase
+
+2381
+01:55:19,680 --> 01:55:23,480
+Or an RVC change that caused its modulus
+
+2382
+01:55:23,480 --> 01:55:28,600
+Then after this change in the RVC of the polar cell it becomes like that
+
+2383
+01:55:28,600 --> 01:55:32,560
+Does the blood flow that helps us maintain our blood vessels become slower
+
+2384
+01:55:32,560 --> 01:55:39,240
+But some MACO jurisprudence has a chance to get where it wants to go
+
+2385
+01:55:39,240 --> 01:55:40,760
+Because the velocity can be slower
+
+2386
+01:55:40,760 --> 01:55:44,120
+Is that in turn a chance for us
+
+2387
+01:55:44,120 --> 01:55:47,520
+Like the teacher you just mentioned a good model
+
+2388
+01:55:47,520 --> 01:55:51,120
+It's after Redaction, which stimulates immunity to the storm
+
+2389
+01:55:51,120 --> 01:55:55,280
+make that place a structure
+
+2390
+01:55:55,280 --> 01:55:58,120
+Attract other new TC packs
+
+2391
+01:55:58,120 --> 01:56:00,040
+Then we will evaluate it later
+
+2392
+01:56:00,000 --> 01:56:04,100
+Check whether the treatment or operating treatment is effective
+
+2393
+01:56:04,100 --> 01:56:08,360
+Do we have a chance to look at local nearby RBC cells
+
+2394
+01:56:08,360 --> 01:56:11,020
+Originally the plane of Guanghua's outer sphere
+
+2395
+01:56:11,020 --> 01:56:15,940
+It has become some acute cells or extremely strong protrusions
+
+2396
+01:56:15,940 --> 01:56:19,360
+Its proportions can also become a pathological one
+
+2397
+01:56:19,360 --> 01:56:21,740
+A reference to the early stages of an effective response
+
+2398
+01:56:21,740 --> 01:56:22,660
+Thanks
+
+2399
+01:56:22,660 --> 01:56:24,100
+Thank you for your careful observation
+
+2400
+01:56:24,100 --> 01:56:25,140
+In fact, I played this video for so long
+
+2401
+01:56:25,140 --> 01:56:26,940
+I never went to see that RBC
+
+2402
+01:56:27,140 --> 01:56:31,580
+Is there something you just said about the RBC shape change and so on
+
+2403
+01:56:31,580 --> 01:56:33,660
+I just said I really didn't pay attention
+
+2404
+01:56:33,660 --> 01:56:38,420
+Because this is from a published magazine
+
+2405
+01:56:38,420 --> 01:56:41,280
+to expose it
+
+2406
+01:56:41,280 --> 01:56:43,360
+the object of its study
+
+2407
+01:56:43,360 --> 01:56:45,980
+It's what I just said, it sees bacteria
+
+2408
+01:56:45,980 --> 01:56:49,540
+See the neutral white blood cells in this city
+
+2409
+01:56:49,540 --> 01:56:55,140
+A lot of these optical things sometimes suffer a bit
+
+2410
+01:56:55,260 --> 01:56:58,980
+But I guess it whole research doesn't mention this RBC
+
+2411
+01:56:58,980 --> 01:57:00,000
+to know me
+
+2412
+01:57:00,000 --> 01:57:03,120
+What about RBC? I can't say it has no impact.
+
+2413
+01:57:03,120 --> 01:57:05,500
+Because many scientists are more conservative
+
+2414
+01:57:05,500 --> 01:57:07,000
+If you don't know, just say you don't know
+
+2415
+01:57:07,000 --> 01:57:11,000
+So RBC did not say that it is in immunotherapy
+
+2416
+01:57:11,000 --> 01:57:13,000
+Now I know what kind of role to play
+
+2417
+01:57:13,000 --> 01:57:14,000
+currently no
+
+2418
+01:57:14,000 --> 01:57:16,000
+As for whether he will affect immunotherapy
+
+2419
+01:57:16,000 --> 01:57:18,000
+He can also know by being a medium
+
+2420
+01:57:18,000 --> 01:57:19,000
+The effect of immunotherapy
+
+2421
+01:57:19,000 --> 01:57:22,000
+There is no such related report either
+
+2422
+01:57:23,000 --> 01:57:27,000
+Because basically the peritch compound H2O2
+
+2423
+01:57:27,000 --> 01:57:30,000
+After getting around by our MACOFARG or MUCOFIL
+
+2424
+01:57:30,000 --> 01:57:33,000
+Maybe to our RBC's CELL MEMBER
+
+2425
+01:57:33,000 --> 01:57:36,000
+will cause a change in the structure
+
+2426
+01:57:36,000 --> 01:57:39,000
+so maybe it will be a reference
+
+2427
+01:57:40,000 --> 01:57:42,000
+That is to say, if like MUCOFIL, MACOFIL
+
+2428
+01:57:42,000 --> 01:57:43,000
+These phagocytes
+
+2429
+01:57:43,000 --> 01:57:45,000
+The principle of its activation is as you just mentioned
+
+2430
+01:57:45,000 --> 01:57:48,000
+perpruritics or some other
+
+2431
+01:57:48,000 --> 01:57:51,000
+Like NL, this is called heterooxidized egg
+
+2432
+01:57:51,000 --> 01:57:55,000
+or other principles of these bactericidal phagocytes
+
+2433
+01:57:55,000 --> 01:57:57,000
+may cause damage to some organizations
+
+2434
+01:57:57,000 --> 01:57:58,000
+So where we are speaking
+
+2435
+01:57:58,000 --> 01:58:00,000
+In fact, some tissue damage will be seen
+
+2436
+01:58:00,000 --> 01:58:02,000
+need to fix later
+
+2437
+01:58:02,000 --> 01:58:04,000
+It was also mentioned that
+
+2438
+01:58:04,000 --> 01:58:06,000
+These are likely to
+
+2439
+01:58:06,000 --> 01:58:08,000
+Cancer cells have a similar ability to attack
+
+2440
+01:58:08,000 --> 01:58:10,000
+But this role he plays is complicated
+
+2441
+01:58:10,000 --> 01:58:12,000
+Because you just saw his immunotherapy cells
+
+2442
+01:58:12,000 --> 01:58:14,000
+Many of these phagocytes
+
+2443
+01:58:14,000 --> 01:58:16,000
+He called this phagocyte
+
+2444
+01:58:16,000 --> 01:58:18,000
+cancer cells called him
+
+2445
+01:58:18,000 --> 01:58:20,000
+All his beliefs became his
+
+2446
+01:58:20,000 --> 01:58:22,000
+that
+
+2447
+01:58:22,000 --> 01:58:24,000
+defense force
+
+2448
+01:58:24,000 --> 01:58:26,000
+So he is helping the cancer cells
+
+2449
+01:58:26,000 --> 01:58:28,000
+It's more active now
+
+2450
+01:58:28,000 --> 01:58:30,000
+Those inside those cancer cells
+
+2451
+01:58:30,000 --> 01:58:32,000
+phagocyte
+
+2452
+01:58:32,000 --> 01:58:34,000
+We no longer call him Phagocyte
+
+2453
+01:58:34,000 --> 01:58:36,000
+we are called
+
+2454
+01:58:36,000 --> 01:58:38,000
+Immunotherapy
+
+2455
+01:58:38,000 --> 01:58:40,000
+Most of his roles are to help cancer cells
+
+2456
+01:58:40,000 --> 01:58:42,000
+instead of killing cancer cells
+
+2457
+01:58:42,000 --> 01:58:44,000
+More evidence now
+
+2458
+01:58:44,000 --> 01:58:46,000
+But there are also special reports that say
+
+2459
+01:58:46,000 --> 01:58:48,000
+He also seems to have the ability to kill cancer cells
+
+2460
+01:58:48,000 --> 01:58:50,000
+thank you very much thank you
+
+2461
+01:58:50,000 --> 01:58:52,000
+in the middle
+
+2462
+01:58:52,000 --> 01:58:54,000
+right
+
+2463
+01:58:54,000 --> 01:58:56,000
+we usually say
+
+2464
+01:58:56,000 --> 01:58:58,000
+You shouldn't be sick if you eat all you can
+
+2465
+01:58:58,000 --> 01:59:00,000
+that is our immune cells
+
+2466
+01:59:00,000 --> 01:59:01,600
+The system is affected by some TRIGGER
+
+2467
+01:59:01,600 --> 01:59:03,960
+So the immune system is getting stronger
+
+2468
+01:59:03,960 --> 01:59:06,860
+That Uncertain this natural thing
+
+2469
+01:59:06,860 --> 01:59:08,020
+is it possible for him
+
+2470
+01:59:08,020 --> 01:59:10,060
+That is, we are all afraid of things that come from us.
+
+2471
+01:59:10,060 --> 01:59:11,360
+But is it possible for him
+
+2472
+01:59:11,360 --> 01:59:13,420
+On the contrary, it will strengthen
+
+2473
+01:59:13,420 --> 01:59:15,460
+our immune system
+
+2474
+01:59:15,460 --> 01:59:18,620
+under certain critical conditions
+
+2475
+01:59:18,620 --> 01:59:20,600
+Then there is another question, that is
+
+2476
+01:59:20,600 --> 01:59:21,900
+It was mentioned at the beginning
+
+2477
+01:59:21,900 --> 01:59:23,420
+severe inflammatory reaction
+
+2478
+01:59:23,420 --> 01:59:25,060
+last cancer cell
+
+2479
+01:59:25,060 --> 01:59:26,620
+Severe cancer cells are eliminated
+
+2480
+01:59:26,620 --> 01:59:29,100
+But now there is more and more evidence that
+
+2481
+01:59:29,100 --> 01:59:31,660
+Inflammation is linked to many cancers
+
+2482
+01:59:31,660 --> 01:59:33,820
+So this severe inflammation is
+
+2483
+01:59:33,820 --> 01:59:36,500
+On the contrary, it can miraculously cure cancer
+
+2484
+01:59:36,500 --> 01:59:37,860
+that in chronic inflammation
+
+2485
+01:59:37,860 --> 01:59:39,960
+On the contrary, it is related to many cancers
+
+2486
+01:59:39,960 --> 01:59:42,660
+So what is the rationale for this?
+
+2487
+01:59:42,660 --> 01:59:43,500
+explain it
+
+2488
+01:59:43,500 --> 01:59:44,660
+basically two questions
+
+2489
+01:59:44,660 --> 01:59:47,260
+One is what trains cancer
+
+2490
+01:59:47,260 --> 01:59:48,260
+Cancer is not liver or tendon
+
+2491
+01:59:48,260 --> 01:59:49,020
+In fact, not liver or tendon
+
+2492
+01:59:49,020 --> 01:59:51,060
+Probably Vitality
+
+2493
+01:59:51,060 --> 01:59:52,420
+So in our physical environment
+
+2494
+01:59:52,420 --> 01:59:53,820
+training with what you eat
+
+2495
+01:59:53,820 --> 01:59:56,900
+Now there are a lot of beauties who have problems
+
+2496
+02:00:00,000 --> 02:00:03,800
+Bacteriology, that is, our human body
+
+2497
+02:00:03,800 --> 02:00:06,000
+It's not just human cells
+
+2498
+02:00:06,000 --> 02:00:09,800
+If you look at the skin, look at the gut
+
+2499
+02:00:09,800 --> 02:00:13,300
+There's a lot of bacteria, a lot of microbes
+
+2500
+02:00:13,300 --> 02:00:15,800
+that some research is now very clear
+
+2501
+02:00:15,800 --> 02:00:18,300
+It's you who put the mouse
+
+2502
+02:00:18,300 --> 02:00:21,700
+kept in a sterile environment
+
+2503
+02:00:21,700 --> 02:00:24,000
+keep it free of bacteria
+
+2504
+02:00:24,000 --> 02:00:27,300
+This mouse's immune system is unhealthy
+
+2505
+02:00:27,300 --> 02:00:29,800
+It was even found that
+
+2506
+02:00:29,800 --> 02:00:34,800
+Cancer in these bacteria-free mice
+
+2507
+02:00:34,800 --> 02:00:38,300
+Your immune system treatment is useless
+
+2508
+02:00:38,300 --> 02:00:39,900
+So bacteria to some extent
+
+2509
+02:00:39,900 --> 02:00:42,800
+Humans need symbiotic bacteria with humans
+
+2510
+02:00:42,800 --> 02:00:45,100
+This is called symbiotic bacteria
+
+2511
+02:00:45,100 --> 02:00:48,600
+It promotes the development of your immune system
+
+2512
+02:00:48,600 --> 02:00:49,800
+so this is there
+
+2513
+02:00:49,800 --> 02:00:52,600
+But Uncogean these chemical carcinogens
+
+2514
+02:00:52,600 --> 02:00:54,800
+Probably not the concept
+
+2515
+02:00:54,800 --> 02:00:56,700
+Chemical carcinogens are these chemicals
+
+2516
+02:00:56,700 --> 02:00:58,400
+Its main working principle
+
+2517
+02:00:58,400 --> 02:00:59,900
+It's what triggers you to mutate
+
+2518
+02:01:00,000 --> 02:01:04,600
+Increase the mutation rate, such as UV radiation, chemical substances
+
+2519
+02:01:04,600 --> 02:01:10,000
+The higher your mutation rate, the greater the chance of normal bubbles turning into bubbles
+
+2520
+02:01:10,000 --> 02:01:21,500
+So this has nothing to do with immunity, but it is the reason why Tumor generates the entire tumor bubble
+
+2521
+02:01:21,500 --> 02:01:25,100
+As for the second question, you can remind me again
+
+2522
+02:01:26,100 --> 02:01:30,100
+It's a severe inflammatory reaction.
+
+2523
+02:01:30,100 --> 02:01:36,100
+In fact, the inflammatory response is what we need, but chronic inflammation is not good
+
+2524
+02:01:36,100 --> 02:01:46,100
+Then you just watched that Coli, I was thinking why people in the future can’t copy it
+
+2525
+02:01:46,100 --> 02:01:52,100
+Because there's no way we're going to allow a hospital to feel so inflammatory.
+
+2526
+02:01:52,100 --> 02:01:58,100
+Antibiotics knocked him out in the morning, because infection with inflammatory bacteria is serious
+
+2527
+02:01:58,100 --> 02:02:00,100
+You were fast then, and...
+
+2528
+02:02:00,000 --> 02:02:02,000
+So immediacy is gone
+
+2529
+02:02:02,000 --> 02:02:05,000
+Therefore, the current medical treatment cannot allow this kind of
+
+2530
+02:02:05,000 --> 02:02:09,000
+The presence of an immediate bacterial infection such as
+
+2531
+02:02:09,000 --> 02:02:11,000
+that in the past
+
+2532
+02:02:11,000 --> 02:02:12,000
+In Coly100s
+
+2533
+02:02:12,000 --> 02:02:13,000
+you have no choice
+
+2534
+02:02:13,000 --> 02:02:14,000
+no antibiotics at all
+
+2535
+02:02:14,000 --> 02:02:16,000
+so you don't go to therapy
+
+2536
+02:02:16,000 --> 02:02:18,000
+So some patients will get serious infections
+
+2537
+02:02:18,000 --> 02:02:20,000
+So like in a severe infection
+
+2538
+02:02:20,000 --> 02:02:22,000
+localized inflammation
+
+2539
+02:02:22,000 --> 02:02:24,000
+Some patients may survive
+
+2540
+02:02:25,000 --> 02:02:27,000
+the cancer may be under control
+
+2541
+02:02:27,000 --> 02:02:29,000
+However, some patients may have bacterial infections
+
+2542
+02:02:29,000 --> 02:02:31,000
+cause fatal
+
+2543
+02:02:32,000 --> 02:02:34,000
+inflammatory reaction
+
+2544
+02:02:34,000 --> 02:02:36,000
+Like chronic inflammation vs instant inflammation
+
+2545
+02:02:36,000 --> 02:02:38,000
+It's a different concept
+
+2546
+02:02:38,000 --> 02:02:40,000
+chronic inflammation such as obesity
+
+2547
+02:02:40,000 --> 02:02:42,000
+is a chronic inflammation
+
+2548
+02:02:42,000 --> 02:02:43,000
+rhinohepatitis virus infection
+
+2549
+02:02:43,000 --> 02:02:45,000
+It causes chronic inflammation of the liver
+
+2550
+02:02:45,000 --> 02:02:47,000
+chronic inflammation it will create this environment
+
+2551
+02:02:47,000 --> 02:02:49,000
+Let the death of this cell
+
+2552
+02:02:49,000 --> 02:02:51,000
+Increased replication rate
+
+2553
+02:02:51,000 --> 02:02:54,000
+In fact, it also increases its mutation rate
+
+2554
+02:02:54,000 --> 02:02:57,000
+increase the chance of cancer cells
+
+2555
+02:02:57,000 --> 02:03:00,000
+So this one might be heavier
+
+2556
+02:03:00,000 --> 02:03:02,000
+Some are to help IC package generation
+
+2557
+02:03:02,000 --> 02:03:06,000
+But the activation of young cells requires an inflammatory environment
+
+2558
+02:03:06,000 --> 02:03:08,000
+This is certain
+
+2559
+02:03:08,000 --> 02:03:10,000
+it's almost time
+
+2560
+02:03:10,000 --> 02:03:12,000
+our last question
+
+2561
+02:03:12,000 --> 02:03:14,000
+The teacher asks a question
+
+2562
+02:03:14,000 --> 02:03:19,000
+Will total flow T cells have something to do with genetics?
+
+2563
+02:03:19,000 --> 02:03:22,000
+Let's say the parents already have cancer
+
+2564
+02:03:22,000 --> 02:03:27,000
+Will the cultivation of his T cells be effective for his children?
+
+2565
+02:03:28,000 --> 02:03:29,000
+that is
+
+2566
+02:03:29,000 --> 02:03:30,000
+Thanks
+
+2567
+02:03:30,000 --> 02:03:33,000
+T cells cannot interact with each other
+
+2568
+02:03:33,000 --> 02:03:35,000
+I just said that T cells can only use your own
+
+2569
+02:03:35,000 --> 02:03:37,000
+Why?
+
+2570
+02:03:37,000 --> 02:03:40,000
+Because we humans probably know about organ rejection
+
+2571
+02:03:40,000 --> 02:03:42,000
+when you want to pass on your organs
+
+2572
+02:03:42,000 --> 02:03:45,000
+You have to match your tissue antigens first
+
+2573
+02:03:45,000 --> 02:03:48,000
+Finding Rarely Becomes Finding Just Right
+
+2574
+02:03:48,000 --> 02:03:50,000
+Otherwise there will be twins
+
+2575
+02:03:50,000 --> 02:03:51,000
+His tissue antigens are the same
+
+2576
+02:03:51,000 --> 02:03:52,000
+you can pass
+
+2577
+02:03:52,000 --> 02:03:53,000
+same concept
+
+2578
+02:03:53,000 --> 02:03:54,000
+That is to say, your T cells
+
+2579
+02:03:54,000 --> 02:03:56,000
+And who is that exclusion?
+
+2580
+02:03:56,000 --> 02:03:58,000
+It's the T cells that are rejecting
+
+2581
+02:03:58,000 --> 02:03:59,000
+Because he went to meet a foreign
+
+2582
+02:03:59,000 --> 02:04:00,000
+something he doesn't know
+
+2583
+02:04:00,000 --> 02:04:02,000
+He repells you and kills you
+
+2584
+02:04:02,000 --> 02:04:04,340
+So if you want to do TCL
+
+2585
+02:04:04,340 --> 02:04:06,340
+unless your one
+
+2586
+02:04:06,340 --> 02:04:08,340
+of these tissue antigens
+
+2587
+02:04:08,340 --> 02:04:10,340
+ask you
+
+2588
+02:04:10,340 --> 02:04:11,840
+To give you TCL exactly the same
+
+2589
+02:04:11,840 --> 02:04:13,340
+That's probably only possible with soft twins.
+
+2590
+02:04:13,340 --> 02:04:14,340
+the parents
+
+2591
+02:04:14,340 --> 02:04:16,340
+Your mother can, but your parents'
+
+2592
+02:04:16,340 --> 02:04:18,340
+To you, you're half dad
+
+2593
+02:04:18,340 --> 02:04:19,340
+half mom, right?
+
+2594
+02:04:19,340 --> 02:04:21,340
+so you that
+
+2595
+02:04:21,340 --> 02:04:23,340
+parents too
+
+2596
+02:04:23,340 --> 02:04:24,340
+also not
+
+2597
+02:04:24,340 --> 02:04:26,340
+usually you just
+
+2598
+02:04:26,340 --> 02:04:27,840
+Use your own TCL
+
+2599
+02:04:27,840 --> 02:04:29,840
+to manufacture
+
+2600
+02:04:29,840 --> 02:04:31,840
+to be able to use it on oneself
+
+2601
+02:04:31,840 --> 02:04:33,840
+So when we talked about Cartysail just now
+
+2602
+02:04:33,840 --> 02:04:35,840
+Or something like TIL
+
+2603
+02:04:35,840 --> 02:04:37,840
+T cell infusion therapy
+
+2604
+02:04:37,840 --> 02:04:39,840
+from the patient's blood
+
+2605
+02:04:39,840 --> 02:04:41,840
+extract his T cells
+
+2606
+02:04:41,840 --> 02:04:43,840
+a lot of cultivation
+
+2607
+02:04:43,840 --> 02:04:45,840
+and inject it back into the patient
+
+2608
+02:04:47,840 --> 02:04:49,840
+That is, if
+
+2609
+02:04:49,840 --> 02:04:51,840
+The same soft twins have a chance
+
+2610
+02:04:51,840 --> 02:04:53,840
+Others have no chance, that's what it means
+
+2611
+02:04:53,840 --> 02:04:55,840
+should be if you say you want
+
+2612
+02:04:55,840 --> 02:04:57,840
+must use other people's words
+
+2613
+02:04:57,840 --> 02:04:59,840
+Now you can technically use your own TIL
+
+2614
+02:05:00,000 --> 02:05:02,960
+But I think technical development is theoretically not impossible
+
+2615
+02:05:02,960 --> 02:05:06,260
+Because you only need to say that the card you use is T cell
+
+2616
+02:05:06,260 --> 02:05:11,260
+Is it not showing these reasons
+
+2617
+02:05:11,260 --> 02:05:14,060
+These organizations just mentioned seem theoretically possible
+
+2618
+02:05:14,060 --> 02:05:16,260
+So I know that there are also people who are working on the card T cell
+
+2619
+02:05:16,260 --> 02:05:19,460
+Hope to make a universal T cell
+
+2620
+02:05:19,460 --> 02:05:24,860
+Only in this way can it be used more quickly in most patients
+
+2621
+02:05:24,860 --> 02:05:26,860
+But these are still in the research stage
+
+2622
+02:05:27,620 --> 02:05:30,620
+ok i now our time is up
+
+2623
+02:05:30,620 --> 02:05:32,620
+i know there are many questions
+
+2624
+02:05:32,620 --> 02:05:37,120
+So maybe that Mr. Tao would like to stay a few minutes longer
+
+2625
+02:05:37,120 --> 02:05:39,620
+But I think we're officially here now
+
+2626
+02:05:39,620 --> 02:05:40,620
+that's where the speech ends
+
+2627
+02:05:40,620 --> 02:05:41,960
+I'll make one now
+
+2628
+02:05:41,960 --> 02:05:44,920
+Teachers are next month's knowledge prize banquet
+
+2629
+02:05:44,920 --> 02:05:51,220
+Is the director of Lin Ziyi's special evaluation researcher at the law firm
+
+2630
+02:05:51,220 --> 02:05:56,820
+The director of the law firm will conduct atomic and molecular research at the campus of National Taiwan University
+
+2631
+02:05:56,820 --> 02:05:59,280
+Institute of Science Former Branch
+
+2632
+02:06:00,000 --> 02:06:04,000
+All are welcome on September 26th
+
+2633
+02:06:04,000 --> 02:06:06,000
+ok then thanks again
+
+2634
+02:06:06,000 --> 02:06:08,000
+Professor Tao Minhua
+
+2635
+02:06:08,000 --> 02:06:10,000
+static performance static performance
+

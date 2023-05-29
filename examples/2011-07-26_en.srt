@@ -1,0 +1,10084 @@
+1
+00:00:00,000 --> 00:00:05,000
+music
+
+2
+00:00:30,000 --> 00:00:47,000
+music
+
+3
+00:00:47,220 --> 00:00:48,680
+problem
+
+4
+00:00:48,680 --> 00:00:53,240
+ened
+
+5
+00:00:53,240 --> 00:00:55,900
+was
+
+6
+00:00:55,900 --> 00:00:59,900
+steals
+
+7
+00:00:59,900 --> 00:01:04,440
+circle
+
+8
+00:01:00,000 --> 00:01:03,280
+There is something important so he can't come
+
+9
+00:01:03,280 --> 00:01:05,760
+Entrust me to help him host
+
+10
+00:01:05,760 --> 00:01:08,960
+So I'm a layman on the subject of today's phenomenon
+
+11
+00:01:08,960 --> 00:01:11,360
+If you say something wrong, please don't take effect
+
+12
+00:01:11,360 --> 00:01:14,840
+Everyone knows that the feast of knowledge is very important to this feast
+
+13
+00:01:14,840 --> 00:01:18,000
+An important activity promoted by popular science knowledge
+
+14
+00:01:18,000 --> 00:01:20,240
+I just saw an official document today
+
+15
+00:01:20,240 --> 00:01:24,880
+The seventh feast of knowledge will gather and mature after the lecture
+
+16
+00:01:24,880 --> 00:01:26,560
+The seventh is also about to run
+
+17
+00:01:26,560 --> 00:01:32,960
+The first six are easily available at bookstores
+
+18
+00:01:32,960 --> 00:01:33,840
+or where to find
+
+19
+00:01:33,840 --> 00:01:37,440
+Welcome to go and have a look
+
+20
+00:01:37,440 --> 00:01:39,680
+All we invite are inside and outside the courtyard
+
+21
+00:01:39,680 --> 00:01:42,320
+very good experts
+
+22
+00:01:42,320 --> 00:01:45,600
+Come and talk to us about the latest scientific developments
+
+23
+00:01:45,600 --> 00:01:47,280
+we are very happy to have you today
+
+24
+00:01:47,280 --> 00:01:50,000
+Institute of Atomic and Molecular Research, Academia Sinica
+
+25
+00:01:50,000 --> 00:01:53,040
+The current director, Dr. Zhou Meiyin
+
+26
+00:01:53,040 --> 00:01:55,640
+Dr. Zhou came back from the United States in January this year
+
+27
+00:01:55,640 --> 00:01:57,080
+Join Academia Sinica
+
+28
+00:01:57,080 --> 00:02:00,120
+Institute of Atomic and Molecular Sciences
+
+29
+00:02:00,000 --> 00:02:04,600
+Everyone knows that the Fate Institute is a very good fault of the Academia Sinica
+
+30
+00:02:04,600 --> 00:02:07,400
+Then it has a high status in the world
+
+31
+00:02:07,400 --> 00:02:11,000
+So today he is going to talk about the latest development of nanomaterials
+
+32
+00:02:11,000 --> 00:02:12,400
+Nano?
+
+33
+00:02:12,400 --> 00:02:17,400
+I only gradually heard the name in the late 1990s
+
+34
+00:02:17,400 --> 00:02:20,400
+I remember once in the Legislative Yuan there was a legislator
+
+35
+00:02:20,400 --> 00:02:24,400
+The nanometer plan sent by the National Science Council seems to be worth one billion
+
+36
+00:02:24,400 --> 00:02:27,000
+He said that this Taiwanese Penglai rice can't finish it
+
+37
+00:02:27,000 --> 00:02:28,600
+How much do you spend on Nano
+
+38
+00:02:29,000 --> 00:02:30,200
+so he is like me
+
+39
+00:02:30,200 --> 00:02:33,400
+It was the first time I came into contact with nano
+
+40
+00:02:33,400 --> 00:02:35,400
+Nano NSA Program
+
+41
+00:02:36,400 --> 00:02:39,600
+Because I just remember people talking about Wikipedia
+
+42
+00:02:39,600 --> 00:02:41,000
+he didn't talk about nano
+
+43
+00:02:41,000 --> 00:02:42,600
+So I also talked to that legislator
+
+44
+00:02:42,600 --> 00:02:45,000
+that legislator is famous
+
+45
+00:02:45,000 --> 00:02:48,000
+I won't say who this is now
+
+46
+00:02:48,000 --> 00:02:51,000
+Then like him it was in the late 1990s
+
+47
+00:02:51,000 --> 00:02:53,400
+I just had a meeting and found out that there is this thing
+
+48
+00:02:53,400 --> 00:02:56,200
+Director Zhou graduated from the Department of Physics, National Taiwan University
+
+49
+00:02:56,200 --> 00:03:00,000
+In fact, I know that Director Zhou is already very famous in National Taiwan University.
+
+50
+00:03:00,000 --> 00:03:02,000
+we have fantastic students
+
+51
+00:03:02,000 --> 00:03:04,000
+He then went to the University of California
+
+52
+00:03:04,000 --> 00:03:06,000
+Ph.D. in Physics from Berkeley
+
+53
+00:03:06,000 --> 00:03:08,000
+Then in Exxon
+
+54
+00:03:08,000 --> 00:03:10,000
+do this postdoc
+
+55
+00:03:10,000 --> 00:03:12,000
+Since 1989 in
+
+56
+00:03:12,000 --> 00:03:14,000
+Georgia Tech Institute of Technology
+
+57
+00:03:14,000 --> 00:03:16,000
+Professor of Physics
+
+58
+00:03:16,000 --> 00:03:18,000
+In 1998, he became a professor of politics
+
+59
+00:03:18,000 --> 00:03:20,000
+Then from 2005 to 2010
+
+60
+00:03:20,000 --> 00:03:22,000
+former department head
+
+61
+00:03:22,000 --> 00:03:24,000
+He was taken by us in January this year
+
+62
+00:03:24,000 --> 00:03:26,000
+Come back to take charge of the camp
+
+63
+00:03:26,000 --> 00:03:28,000
+Director and Special Forces Researcher
+
+64
+00:03:28,000 --> 00:03:30,000
+Especially the head of the State Council
+
+65
+00:03:30,000 --> 00:03:32,000
+The director's main research field is
+
+66
+00:03:32,000 --> 00:03:34,000
+Solid-state physics theory and first-principles calculations
+
+67
+00:03:34,000 --> 00:03:36,000
+Especially in the application of materials
+
+68
+00:03:36,000 --> 00:03:38,000
+director of incoming research
+
+69
+00:03:38,000 --> 00:03:40,000
+including various heels
+
+70
+00:03:40,000 --> 00:03:42,000
+nanosystem
+
+71
+00:03:42,000 --> 00:03:44,000
+and solid scavenging materials
+
+72
+00:03:44,000 --> 00:03:46,000
+He was in the internationally renowned
+
+73
+00:03:46,000 --> 00:03:48,000
+Rehabilitation has published more than 100 academic papers
+
+74
+00:03:48,000 --> 00:03:50,000
+Also had
+
+75
+00:03:50,000 --> 00:03:52,000
+country of america
+
+76
+00:03:52,000 --> 00:03:54,000
+Science Foundation's President's Young Scholar Award
+
+77
+00:03:54,000 --> 00:03:56,000
+and other important awards
+
+78
+00:03:56,000 --> 00:03:58,000
+He is now a fellow of the American Physical Society
+
+79
+00:04:00,000 --> 00:04:04,000
+And served as the chairman of the American Physical Society for the distribution of computational physics
+
+80
+00:04:05,000 --> 00:04:08,000
+As I just mentioned, since the 1990s
+
+81
+00:04:08,000 --> 00:04:11,000
+Nano has become an important emerging field
+
+82
+00:04:11,000 --> 00:04:16,000
+Many people, like me, thought that Nani and Penglaimi were the same thing in the 90s
+
+83
+00:04:16,000 --> 00:04:19,000
+Now I think no one knows no one knows
+
+84
+00:04:19,000 --> 00:04:24,000
+And become part of the textbooks of elementary school, middle school and high school
+
+85
+00:04:24,000 --> 00:04:26,000
+This was unimaginable in our time
+
+86
+00:04:27,000 --> 00:04:28,000
+he is an elective
+
+87
+00:04:28,000 --> 00:04:31,000
+In the past 20 years in the development of nanoscience
+
+88
+00:04:31,000 --> 00:04:34,000
+Carbon meter has a very important position
+
+89
+00:04:34,000 --> 00:04:38,000
+The discovery and attention of carbon nanotubes, graphite, etc.
+
+90
+00:04:38,000 --> 00:04:40,000
+is a very noteworthy thing
+
+91
+00:04:40,000 --> 00:04:46,000
+Last year's Nobel Prize in Physics was awarded to two scholars who made major breakthroughs in the study of graphite
+
+92
+00:04:46,000 --> 00:04:47,000
+two russian scholars
+
+93
+00:04:47,000 --> 00:04:55,000
+One of them came to the Central Plains to participate in the seminar shortly after winning the award
+
+94
+00:04:56,000 --> 00:04:58,000
+a very young man
+
+95
+00:05:00,000 --> 00:05:02,000
+Master is an expert in nanomaterials
+
+96
+00:05:02,000 --> 00:05:03,400
+Today his topic is
+
+97
+00:05:03,400 --> 00:05:04,800
+carbon dimension official position
+
+98
+00:05:04,800 --> 00:05:06,800
+Recent Developments in Nanomaterials
+
+99
+00:05:06,800 --> 00:05:08,800
+I think this is a very interesting topic
+
+100
+00:05:08,800 --> 00:05:11,800
+The number of participants today is unprecedented
+
+101
+00:05:11,800 --> 00:05:13,800
+Everyone, after listening today
+
+102
+00:05:13,800 --> 00:05:15,800
+It's just that nanometers are different from baked milk rice
+
+103
+00:05:15,800 --> 00:05:17,800
+We welcome the head of the seat
+
+104
+00:05:25,800 --> 00:05:27,800
+the baking problem
+
+105
+00:05:28,200 --> 00:05:29,800
+Thank you Vice President Wang
+
+106
+00:05:29,800 --> 00:05:32,800
+Thank you all for coming to this evening's discussion
+
+107
+00:05:34,800 --> 00:05:36,800
+It's an honor to be with you all
+
+108
+00:05:36,800 --> 00:05:39,800
+A little bit about the latest developments
+
+109
+00:05:39,800 --> 00:05:42,800
+That's what Vice President Wang said
+
+110
+00:05:42,800 --> 00:05:44,800
+Nano this field
+
+111
+00:05:44,800 --> 00:05:47,800
+It's been about the past ten or fifteen years
+
+112
+00:05:47,800 --> 00:05:50,800
+there's been a lot of progress
+
+113
+00:05:50,800 --> 00:05:54,800
+So what I want to introduce to you today
+
+114
+00:05:54,800 --> 00:05:57,800
+About the latest developments in nanomaterials
+
+115
+00:05:57,800 --> 00:05:59,800
+Parts related to carbon
+
+116
+00:06:00,000 --> 00:06:04,000
+I think in this speaker I have noticed that
+
+117
+00:06:04,000 --> 00:06:07,000
+we have some younger friends
+
+118
+00:06:07,000 --> 00:06:11,000
+There are also some who are doing some more senior
+
+119
+00:06:11,000 --> 00:06:14,000
+friend here
+
+120
+00:06:14,000 --> 00:06:17,000
+So I think our speaker should not be too polite
+
+121
+00:06:17,000 --> 00:06:20,000
+Yes, if you think there is something wrong
+
+122
+00:06:20,000 --> 00:06:22,000
+raise your hand anytime
+
+123
+00:06:22,000 --> 00:06:23,000
+Not much package
+
+124
+00:06:23,000 --> 00:06:25,000
+Because in some places, if you don't make it clear
+
+125
+00:06:25,000 --> 00:06:27,000
+Can it affect the following
+
+126
+00:06:27,000 --> 00:06:30,000
+I don't mind saying that people want to be able to
+
+127
+00:06:30,000 --> 00:06:33,000
+straighten things out
+
+128
+00:06:33,000 --> 00:06:37,000
+so feel free to ask questions
+
+129
+00:06:37,000 --> 00:06:41,000
+I think before we get to the subject
+
+130
+00:06:41,000 --> 00:06:45,000
+Because the topic is nanoscience with carbon
+
+131
+00:06:45,000 --> 00:06:49,000
+I want to start with a quick introduction
+
+132
+00:06:49,000 --> 00:06:53,000
+I think many of you have heard what nanoscience is
+
+133
+00:06:53,000 --> 00:06:57,000
+So let's say I have a quick definition on my side
+
+134
+00:06:57,000 --> 00:07:00,000
+That is, we hope to be able to discuss
+
+135
+00:07:00,000 --> 00:07:03,220
+Or control because it is manipulate
+
+136
+00:07:03,220 --> 00:07:06,940
+at 1 to 100 nm
+
+137
+00:07:06,940 --> 00:07:09,780
+properties in matter of this size or so
+
+138
+00:07:09,780 --> 00:07:12,460
+What about nanometers in our
+
+139
+00:07:12,460 --> 00:07:14,940
+In the more professional language
+
+140
+00:07:14,940 --> 00:07:16,860
+Nano is actually turned upside down
+
+141
+00:07:16,860 --> 00:07:18,140
+English is called Nano
+
+142
+00:07:18,140 --> 00:07:20,300
+so become nano
+
+143
+00:07:20,300 --> 00:07:22,860
+It is the power of time
+
+144
+00:07:22,860 --> 00:07:25,860
+So if we talk about a nano
+
+145
+00:07:25,860 --> 00:07:29,220
+It is the rice to the power of time multiplied by time
+
+146
+00:07:29,220 --> 00:07:32,020
+Nano means 100 centimeters
+
+147
+00:07:32,020 --> 00:07:33,020
+this size
+
+148
+00:07:33,020 --> 00:07:35,020
+at this length
+
+149
+00:07:35,020 --> 00:07:37,020
+It's a way you can imagine
+
+150
+00:07:37,020 --> 00:07:39,620
+it's a very very very small unit
+
+151
+00:07:39,620 --> 00:07:41,820
+Then in such a small place
+
+152
+00:07:41,820 --> 00:07:44,020
+Maybe we can see atoms
+
+153
+00:07:44,020 --> 00:07:48,220
+What about this length?
+
+154
+00:07:48,220 --> 00:07:49,420
+properties of objects
+
+155
+00:07:49,420 --> 00:07:52,220
+Many, many properties in the electronic properties
+
+156
+00:07:52,220 --> 00:07:53,820
+or mechanical properties
+
+157
+00:07:53,820 --> 00:07:55,620
+or optical properties
+
+158
+00:07:55,620 --> 00:07:57,020
+chemical properties
+
+159
+00:07:57,020 --> 00:07:59,020
+have basically changed
+
+160
+00:07:59,020 --> 00:08:00,020
+that so
+
+161
+00:08:00,000 --> 00:08:02,000
+So in this case
+
+162
+00:08:02,000 --> 00:08:07,000
+We can make some special definitions
+
+163
+00:08:07,000 --> 00:08:08,500
+or special study
+
+164
+00:08:08,500 --> 00:08:10,000
+OK let it go
+
+165
+00:08:10,000 --> 00:08:11,000
+sorry
+
+166
+00:08:11,000 --> 00:08:13,500
+OK, so let me give you an analogy first
+
+167
+00:08:13,500 --> 00:08:16,000
+I just felt what nanometer is called
+
+168
+00:08:16,000 --> 00:08:19,000
+We can imagine that the earth is so big
+
+169
+00:08:19,000 --> 00:08:22,000
+OK then you have a small copper plate in your hand
+
+170
+00:08:22,000 --> 00:08:24,000
+OK, what about the two ratios?
+
+171
+00:08:24,000 --> 00:08:26,000
+Like if say we shrink this down to
+
+172
+00:08:26,000 --> 00:08:29,500
+A word of 1 meter and 100 centimeters
+
+173
+00:08:29,500 --> 00:08:33,000
+Then this copper plate is called a nanometer
+
+174
+00:08:33,000 --> 00:08:35,000
+So we all know how big a copper plate is
+
+175
+00:08:35,000 --> 00:08:38,000
+We probably all know how big the earth is
+
+176
+00:08:38,000 --> 00:08:40,000
+It's their size difference
+
+177
+00:08:40,000 --> 00:08:42,000
+So you would imagine saying
+
+178
+00:08:42,000 --> 00:08:44,000
+where scientists can say
+
+179
+00:08:44,000 --> 00:08:46,500
+from such a large unit
+
+180
+00:08:46,500 --> 00:08:48,500
+into such a small world
+
+181
+00:08:48,500 --> 00:08:51,000
+Then you can see something in it
+
+182
+00:08:51,000 --> 00:08:53,000
+to measure something
+
+183
+00:08:53,000 --> 00:08:56,000
+Yes, I can say that it is not an easy thing
+
+184
+00:08:56,000 --> 00:08:58,000
+You can imagine that on earth
+
+185
+00:08:58,000 --> 00:08:59,500
+Let's say we're an alien
+
+186
+00:08:59,500 --> 00:09:00,500
+an alien
+
+187
+00:09:00,000 --> 00:09:02,000
+Come to Earth in a spaceship outside
+
+188
+00:09:02,000 --> 00:09:04,000
+He wants to say you have a coin in your hand
+
+189
+00:09:04,000 --> 00:09:07,000
+He wants to see what kind of words are written on the copper plate above you
+
+190
+00:09:07,000 --> 00:09:09,500
+You imagine it's a very, very difficult thing to do
+
+191
+00:09:09,500 --> 00:09:12,500
+He must have some special tools
+
+192
+00:09:12,500 --> 00:09:13,700
+come down and see
+
+193
+00:09:13,700 --> 00:09:16,000
+actually see what's on that copper plate
+
+194
+00:09:16,000 --> 00:09:17,500
+What are we going to do now?
+
+195
+00:09:17,500 --> 00:09:20,500
+in a lab the size of ours now
+
+196
+00:09:20,500 --> 00:09:22,500
+Able to enter a world of refugees
+
+197
+00:09:22,500 --> 00:09:25,000
+Then see how it arranges atoms one by one
+
+198
+00:09:25,000 --> 00:09:27,500
+Then it has some form
+
+199
+00:09:28,000 --> 00:09:30,000
+now this
+
+200
+00:09:30,000 --> 00:09:32,000
+So this is our size above
+
+201
+00:09:32,000 --> 00:09:38,000
+So how will our situation change?
+
+202
+00:09:38,000 --> 00:09:39,500
+This is a simple graph
+
+203
+00:09:39,500 --> 00:09:40,500
+because mainly
+
+204
+00:09:40,500 --> 00:09:41,500
+Quantum Confinement
+
+205
+00:09:41,500 --> 00:09:44,000
+It's a quantum-bound problem
+
+206
+00:09:44,000 --> 00:09:46,000
+That is to say, if you assume a thing
+
+207
+00:09:46,000 --> 00:09:48,000
+Once restricted by the bureau
+
+208
+00:09:48,000 --> 00:09:49,000
+limited words
+
+209
+00:09:49,000 --> 00:09:50,000
+its nature will change
+
+210
+00:09:50,000 --> 00:09:53,000
+You probably imagine a situation like this
+
+211
+00:09:53,000 --> 00:09:57,000
+For example, if in classical history
+
+212
+00:09:57,000 --> 00:09:59,000
+Let's look at a particle
+
+213
+00:09:59,000 --> 00:10:00,000
+is a particle
+
+214
+00:10:00,000 --> 00:10:02,760
+It bumped and bumped and this side is sealed
+
+215
+00:10:02,920 --> 00:10:04,900
+We can see it running around like this in there
+
+216
+00:10:05,060 --> 00:10:09,460
+We can see a particle of this one object over there
+
+217
+00:10:09,620 --> 00:10:13,760
+But in physics we have what's called quantum particle physics
+
+218
+00:10:13,920 --> 00:10:17,460
+It doesn't matter if you haven't heard the term
+
+219
+00:10:17,620 --> 00:10:19,700
+I just want to mention the general things
+
+220
+00:10:19,860 --> 00:10:21,760
+That is to say, in quantum particle physics
+
+221
+00:10:21,920 --> 00:10:23,960
+a particle is not a particle
+
+222
+00:10:24,120 --> 00:10:27,460
+It's actually a fluctuating cold tree
+
+223
+00:10:27,960 --> 00:10:31,620
+And then when it fluctuates or is blocked in the middle
+
+224
+00:10:31,780 --> 00:10:34,080
+it will have different of these waveforms
+
+225
+00:10:34,260 --> 00:10:38,880
+Then each waveform represents that it has different energy
+
+226
+00:10:39,560 --> 00:10:42,460
+So this is a very, very superficial way of speaking.
+
+227
+00:10:42,620 --> 00:10:44,720
+Then I think everyone probably has an experience
+
+228
+00:10:44,880 --> 00:10:48,920
+For example, you've probably all seen a violin, a cello, or a guitar.
+
+229
+00:10:49,080 --> 00:10:51,620
+when you want to change the sound
+
+230
+00:10:51,780 --> 00:10:54,620
+You just change the length of the vibration of the string
+
+231
+00:10:54,780 --> 00:10:56,180
+right, according to different places
+
+232
+00:10:56,180 --> 00:10:59,180
+When the length is changed, its frequency changes
+
+233
+00:11:00,000 --> 00:11:01,600
+Above Quantum Law
+
+234
+00:11:01,600 --> 00:11:02,880
+its that frequency
+
+235
+00:11:02,880 --> 00:11:04,880
+The frequency of that wave content
+
+236
+00:11:04,880 --> 00:11:06,720
+is its energy
+
+237
+00:11:06,720 --> 00:11:08,440
+So if we put a direction
+
+238
+00:11:08,440 --> 00:11:10,240
+so restrict later
+
+239
+00:11:10,240 --> 00:11:13,160
+it has changed a lot
+
+240
+00:11:13,160 --> 00:11:15,320
+that when we are in this
+
+241
+00:11:15,320 --> 00:11:18,120
+What about the middle of this quantum confinement?
+
+242
+00:11:18,120 --> 00:11:20,640
+can have different limitations
+
+243
+00:11:20,640 --> 00:11:22,600
+For example, we usually
+
+244
+00:11:22,600 --> 00:11:25,400
+We are a three-dimensional space
+
+245
+00:11:25,400 --> 00:11:26,960
+then we are in a certain area
+
+246
+00:11:26,960 --> 00:11:28,520
+One direction confines it
+
+247
+00:11:28,520 --> 00:11:31,680
+We become a two-dimensional system
+
+248
+00:11:31,680 --> 00:11:34,320
+We call this two-dimensional nanomode
+
+249
+00:11:34,320 --> 00:11:35,800
+it is one piece
+
+250
+00:11:35,800 --> 00:11:38,560
+Nano means its thickness
+
+251
+00:11:38,560 --> 00:11:41,440
+It's about a few nanometers
+
+252
+00:11:41,440 --> 00:11:42,880
+Then if we say
+
+253
+00:11:42,880 --> 00:11:44,880
+If it is restricted in another direction
+
+254
+00:11:44,880 --> 00:11:45,920
+we'll see these
+
+255
+00:11:45,920 --> 00:11:48,880
+This is one-dimensional into nanowires
+
+256
+00:11:48,880 --> 00:11:51,440
+This has both directions restricted
+
+257
+00:11:51,440 --> 00:11:53,520
+If we are restricted in three directions
+
+258
+00:11:53,520 --> 00:11:54,920
+i become a thing
+
+259
+00:11:54,920 --> 00:11:56,360
+We are 0D
+
+260
+00:11:56,360 --> 00:11:57,240
+GLD
+
+261
+00:11:57,240 --> 00:11:59,000
+0-dimensional nanoparticles
+
+262
+00:12:00,000 --> 00:12:03,200
+In this case it's in our nanoscience
+
+263
+00:12:03,200 --> 00:12:05,000
+see different systems
+
+264
+00:12:05,000 --> 00:12:08,500
+Then steal them they will belong to one of these
+
+265
+00:12:08,500 --> 00:12:10,900
+from zero to one to two
+
+266
+00:12:10,900 --> 00:12:16,200
+What about the element carbon?
+
+267
+00:12:16,200 --> 00:12:18,200
+What I'll mention later is that
+
+268
+00:12:18,200 --> 00:12:22,000
+It actually has all three
+
+269
+00:12:22,000 --> 00:12:24,200
+We'll see zeros like this
+
+270
+00:12:24,200 --> 00:12:26,800
+this is a nanosphere
+
+271
+00:12:26,800 --> 00:12:29,200
+Carbon is made up of carbon
+
+272
+00:12:29,200 --> 00:12:33,800
+This is a nanometer carbon tube
+
+273
+00:12:33,800 --> 00:12:36,400
+Each is a carbon atom or a binary
+
+274
+00:12:36,400 --> 00:12:39,600
+This is the graphite west we want to mention today
+
+275
+00:12:39,600 --> 00:12:40,700
+The so-called Graphene
+
+276
+00:12:40,700 --> 00:12:44,100
+It is a dual system
+
+277
+00:12:44,100 --> 00:12:48,000
+That's so wait a minute we'll all be back to this
+
+278
+00:12:48,000 --> 00:12:51,100
+in each case i will mention
+
+279
+00:12:51,100 --> 00:12:54,900
+where are we in nanoscience
+
+280
+00:12:54,900 --> 00:12:57,600
+I want to clarify it again
+
+281
+00:12:57,600 --> 00:13:00,600
+because it is a basically an emerging
+
+282
+00:13:00,000 --> 00:13:01,500
+interdisciplinary science
+
+283
+00:13:01,500 --> 00:13:06,800
+Because whether in chemical physics or biomaterials science
+
+284
+00:13:06,800 --> 00:13:08,800
+There are many engineering disciplines
+
+285
+00:13:08,800 --> 00:13:13,000
+We are all slowly getting in touch with this aspect.
+
+286
+00:13:13,000 --> 00:13:16,500
+will also use some of the properties of nano
+
+287
+00:13:16,500 --> 00:13:20,000
+come and go on some of us
+
+288
+00:13:20,000 --> 00:13:27,500
+That is to say, to learn and explore some of its features
+
+289
+00:13:27,500 --> 00:13:31,500
+It has some emerging material properties
+
+290
+00:13:31,500 --> 00:13:33,500
+I probably want to wait for this
+
+291
+00:13:33,500 --> 00:13:36,500
+maybe mention an example or two
+
+292
+00:13:36,500 --> 00:13:38,500
+we study nanoscience
+
+293
+00:13:38,500 --> 00:13:42,500
+We also need to develop new measurement and control tools
+
+294
+00:13:42,500 --> 00:13:43,500
+into what I just said
+
+295
+00:13:43,500 --> 00:13:46,500
+we're going to a very small place
+
+296
+00:13:46,500 --> 00:13:50,000
+If you can measure something very accurately
+
+297
+00:13:50,000 --> 00:13:54,000
+There are many tools that must be developed
+
+298
+00:13:54,000 --> 00:13:57,000
+Then Nano can now also be applied to some
+
+299
+00:13:57,000 --> 00:14:00,000
+health care energy or electronics
+
+300
+00:14:00,000 --> 00:14:02,560
+Some technology and design above electronic science
+
+301
+00:14:02,560 --> 00:14:04,760
+these are in progress
+
+302
+00:14:05,120 --> 00:14:08,720
+Then usually we are in this nano
+
+303
+00:14:08,720 --> 00:14:10,160
+inside the field
+
+304
+00:14:10,160 --> 00:14:13,320
+very important also
+
+305
+00:14:13,320 --> 00:14:16,160
+it takes a lot of time
+
+306
+00:14:16,160 --> 00:14:19,080
+is to understand the interaction between matter
+
+307
+00:14:19,080 --> 00:14:21,320
+especially in such a small
+
+308
+00:14:21,320 --> 00:14:24,440
+in that length
+
+309
+00:14:25,320 --> 00:14:27,200
+What about this whole science?
+
+310
+00:14:27,200 --> 00:14:30,200
+still in development
+
+311
+00:14:30,200 --> 00:14:33,360
+We have several practical application strengths
+
+312
+00:14:33,360 --> 00:14:36,000
+wait might mention it
+
+313
+00:14:36,000 --> 00:14:38,720
+most research and development projects
+
+314
+00:14:38,720 --> 00:14:40,200
+still in progress
+
+315
+00:14:40,200 --> 00:14:43,400
+I think what you can expect is to say
+
+316
+00:14:43,400 --> 00:14:47,040
+The future is in five or ten years
+
+317
+00:14:47,040 --> 00:14:49,600
+You will continue to hear that
+
+318
+00:14:49,600 --> 00:14:53,200
+There are many new applications of nano
+
+319
+00:14:53,200 --> 00:14:55,160
+or nano
+
+320
+00:14:55,160 --> 00:14:58,200
+that emerging technology
+
+321
+00:14:58,200 --> 00:14:59,920
+in development
+
+322
+00:15:00,000 --> 00:15:04,000
+So this is a very simple generalization
+
+323
+00:15:04,000 --> 00:15:08,000
+How will nanotechnology affect our lives?
+
+324
+00:15:08,000 --> 00:15:11,000
+I'm just starting out here and I want to use a couple of examples
+
+325
+00:15:11,000 --> 00:15:15,000
+This is not directly related to the carbon we are talking about today.
+
+326
+00:15:15,000 --> 00:15:20,000
+But I think there are a few more interesting situations
+
+327
+00:15:20,000 --> 00:15:25,000
+The first one is to say that this is already being done
+
+328
+00:15:25,000 --> 00:15:28,000
+We all know that pitch first
+
+329
+00:15:28,000 --> 00:15:30,000
+Everyone knows that you take a peach
+
+330
+00:15:30,000 --> 00:15:33,000
+That surface is furry, isn't it?
+
+331
+00:15:33,000 --> 00:15:35,000
+So for this thing, you drop a water on it
+
+332
+00:15:35,000 --> 00:15:37,000
+it won't stick
+
+333
+00:15:37,000 --> 00:15:40,000
+The water turned into pieces and slipped away.
+
+334
+00:15:40,000 --> 00:15:43,000
+Then we usually wear clothes
+
+335
+00:15:43,000 --> 00:15:45,000
+you go to something
+
+336
+00:15:45,000 --> 00:15:46,000
+have a drink
+
+337
+00:15:46,000 --> 00:15:48,000
+What you are most afraid of is that the drink is spilled on you
+
+338
+00:15:48,000 --> 00:15:50,000
+then get naked
+
+339
+00:15:50,000 --> 00:15:53,000
+if there was a way to say something to you
+
+340
+00:15:53,000 --> 00:15:56,000
+As soon as these liquids are sprinkled on
+
+341
+00:15:56,000 --> 00:15:58,000
+become like this ball
+
+342
+00:15:58,000 --> 00:16:00,000
+and then go away like this
+
+343
+00:16:00,000 --> 00:16:02,000
+won't get it wet
+
+344
+00:16:02,000 --> 00:16:03,000
+that's not a very good thing
+
+345
+00:16:03,000 --> 00:16:05,000
+If you sprinkle it, you will pat it
+
+346
+00:16:05,000 --> 00:16:07,000
+it just shoots and it goes away
+
+347
+00:16:07,000 --> 00:16:09,000
+I wouldn't say that I stained that dress.
+
+348
+00:16:09,000 --> 00:16:12,000
+So now there are some techniques that say
+
+349
+00:16:12,000 --> 00:16:15,000
+We can use 10 nanometer
+
+350
+00:16:15,000 --> 00:16:17,000
+The carbon one that is so long
+
+351
+00:16:17,000 --> 00:16:20,000
+that little kind of fiber
+
+352
+00:16:20,000 --> 00:16:21,000
+What about this kind of thing?
+
+353
+00:16:21,000 --> 00:16:26,000
+It will be the same as the cotton fiber in our place
+
+354
+00:16:26,000 --> 00:16:28,000
+that is to say it fits together
+
+355
+00:16:28,000 --> 00:16:30,000
+In this way, on this surface
+
+356
+00:16:30,000 --> 00:16:31,000
+formed
+
+357
+00:16:31,000 --> 00:16:33,000
+Like our pick a peach on the surface
+
+358
+00:16:33,000 --> 00:16:34,000
+that furry
+
+359
+00:16:34,000 --> 00:16:36,000
+Except you can't see that furry now
+
+360
+00:16:36,000 --> 00:16:38,000
+because that thing is so small
+
+361
+00:16:38,000 --> 00:16:40,000
+In such a situation
+
+362
+00:16:40,000 --> 00:16:44,000
+it will generate say on this surface
+
+363
+00:16:44,000 --> 00:16:48,000
+those with some very small air
+
+364
+00:16:48,000 --> 00:16:50,000
+with those on these fibers
+
+365
+00:16:50,000 --> 00:16:52,000
+there will be one separated
+
+366
+00:16:52,000 --> 00:16:55,000
+So when those liquids fell on top
+
+367
+00:16:55,000 --> 00:16:57,000
+It turns into a ball like this
+
+368
+00:16:57,000 --> 00:16:59,000
+and you'll be gone
+
+369
+00:17:00,000 --> 00:17:02,840
+things already done
+
+370
+00:17:02,840 --> 00:17:04,140
+called fancy pants
+
+371
+00:17:04,140 --> 00:17:05,740
+This is called stain resistance
+
+372
+00:17:05,740 --> 00:17:08,000
+just won't stain
+
+373
+00:17:08,000 --> 00:17:11,840
+that's something that's been done now
+
+374
+00:17:11,840 --> 00:17:15,640
+Of course, what is the real principle behind the application here?
+
+375
+00:17:15,640 --> 00:17:18,640
+It’s just a lot of things that Lu Yuan can’t see now.
+
+376
+00:17:18,640 --> 00:17:20,580
+very small inside
+
+377
+00:17:20,580 --> 00:17:21,940
+carbon fiber
+
+378
+00:17:21,940 --> 00:17:23,840
+fibers that can be compared with cotton
+
+379
+00:17:23,840 --> 00:17:26,440
+can be held together tightly
+
+380
+00:17:26,440 --> 00:17:28,880
+Of course, this is what we want if we say
+
+381
+00:17:28,880 --> 00:17:31,880
+Do many, many dives with a very powerful baggage machine
+
+382
+00:17:31,880 --> 00:17:34,020
+Then the surface will inevitably come off
+
+383
+00:17:34,020 --> 00:17:36,880
+slowly it will get wet
+
+384
+00:17:36,880 --> 00:17:39,020
+wet some of these features
+
+385
+00:17:39,020 --> 00:17:42,580
+The basic principle of this design is
+
+386
+00:17:42,580 --> 00:17:44,420
+is to imitate
+
+387
+00:17:44,420 --> 00:17:45,920
+the surface of our peach
+
+388
+00:17:45,920 --> 00:17:47,580
+Let's see if those fluffy ones can do it
+
+389
+00:17:47,580 --> 00:17:51,020
+man-made structures
+
+390
+00:17:51,020 --> 00:17:52,680
+What about another example?
+
+391
+00:17:52,680 --> 00:17:55,780
+This is probably now probably a
+
+392
+00:17:55,820 --> 00:17:58,820
+Compare a Vision of Yuancheng
+
+393
+00:17:58,820 --> 00:17:59,980
+hope it can be done
+
+394
+00:18:00,000 --> 00:18:06,000
+That is to say, we take the very small particles of Nimi
+
+395
+00:18:06,000 --> 00:18:11,000
+What we call Nano-crystal is a very small crystal
+
+396
+00:18:11,000 --> 00:18:20,000
+The four particles of ordinary people are Cadence Selenite, which is a composite
+
+397
+00:18:20,000 --> 00:18:24,000
+it's very very it has some special properties
+
+398
+00:18:24,000 --> 00:18:27,000
+That is to say, when it reaches very small particles
+
+399
+00:18:27,000 --> 00:18:30,000
+like we can follow its size
+
+400
+00:18:30,000 --> 00:18:37,000
+Then it has different levels of different energies
+
+401
+00:18:37,000 --> 00:18:41,000
+So in this is a photo just say
+
+402
+00:18:41,000 --> 00:18:43,000
+If we shine a light on it and it shines some ultraviolet light
+
+403
+00:18:43,000 --> 00:18:45,000
+after absorbing the light
+
+404
+00:18:45,000 --> 00:18:47,000
+it has different energy levels
+
+405
+00:18:47,000 --> 00:18:48,000
+so it shines
+
+406
+00:18:48,000 --> 00:18:54,000
+The colors of these radiances are based on the difference in energy levels
+
+407
+00:18:54,000 --> 00:18:57,000
+The years are determined by size
+
+408
+00:18:57,000 --> 00:19:00,000
+So in this is an experiment just say
+
+409
+00:19:00,000 --> 00:19:02,760
+If placed in some agriculture
+
+410
+00:19:02,760 --> 00:19:05,160
+Then shine these dead lights
+
+411
+00:19:05,160 --> 00:19:07,500
+Then you will find that it has different colors
+
+412
+00:19:07,500 --> 00:19:08,600
+so according to the color
+
+413
+00:19:08,600 --> 00:19:11,500
+You know what size it is
+
+414
+00:19:11,500 --> 00:19:15,500
+That kind of example is very small
+
+415
+00:19:15,500 --> 00:19:17,900
+Now someone is thinking about saying
+
+416
+00:19:17,900 --> 00:19:20,000
+Because this thing can hear the human body
+
+417
+00:19:20,000 --> 00:19:25,160
+can penetrate many things in your studies
+
+418
+00:19:25,160 --> 00:19:28,300
+So and it superficially can
+
+419
+00:19:28,300 --> 00:19:31,300
+we can put some antibodies on it
+
+420
+00:19:31,300 --> 00:19:33,300
+put something that is not external
+
+421
+00:19:33,300 --> 00:19:36,300
+Then it can carry the body of this station
+
+422
+00:19:36,300 --> 00:19:38,800
+walk through school
+
+423
+00:19:38,800 --> 00:19:40,300
+that this is an experiment
+
+424
+00:19:40,300 --> 00:19:42,300
+Let's say it puts some
+
+425
+00:19:42,300 --> 00:19:43,800
+These antibodies antibody
+
+426
+00:19:43,800 --> 00:19:47,300
+It interacts with proteins emitted by certain IC packets
+
+427
+00:19:47,300 --> 00:19:49,300
+They serve the function
+
+428
+00:19:49,300 --> 00:19:50,600
+So after it enters the human body
+
+429
+00:19:50,600 --> 00:19:52,300
+it goes where it likes
+
+430
+00:19:52,300 --> 00:19:54,300
+with those proteins
+
+431
+00:19:54,300 --> 00:19:59,300
+When we take these little nanometers for example
+
+432
+00:20:00,000 --> 00:20:02,800
+to the female part of the animal
+
+433
+00:20:02,800 --> 00:20:04,960
+In the vicinity of inflammatory needle cancer cells
+
+434
+00:20:04,960 --> 00:20:06,960
+it just stays there
+
+435
+00:20:06,960 --> 00:20:07,800
+If so
+
+436
+00:20:07,800 --> 00:20:10,300
+If we shine another UV light outside
+
+437
+00:20:10,300 --> 00:20:12,400
+Then the light is absorbed by it
+
+438
+00:20:12,400 --> 00:20:14,160
+Then you start to shine over there
+
+439
+00:20:14,160 --> 00:20:15,120
+so this is an experiment
+
+440
+00:20:15,120 --> 00:20:16,600
+experiment with mice
+
+441
+00:20:16,600 --> 00:20:18,800
+Then it will also be able to detect
+
+442
+00:20:18,800 --> 00:20:21,200
+where the cancer cells are
+
+443
+00:20:21,200 --> 00:20:25,160
+So this is of course what to do in the future
+
+444
+00:20:25,160 --> 00:20:27,800
+Hope to use this technique
+
+445
+00:20:27,800 --> 00:20:32,600
+It can be said that there are these detections of this cancer
+
+446
+00:20:32,600 --> 00:20:35,400
+Tell me where the cancer cells started to grow
+
+447
+00:20:35,400 --> 00:20:39,800
+So of course it's a very long term one
+
+448
+00:20:39,800 --> 00:20:42,800
+hope to achieve something
+
+449
+00:20:42,800 --> 00:20:45,000
+Also this is
+
+450
+00:20:45,000 --> 00:20:46,600
+This is relatively new
+
+451
+00:20:46,600 --> 00:20:49,200
+a result of last year
+
+452
+00:20:49,200 --> 00:20:52,600
+That is what we call artificial skin
+
+453
+00:20:52,600 --> 00:20:55,000
+artificial skin
+
+454
+00:20:55,000 --> 00:20:57,000
+we shine in our skin
+
+455
+00:20:57,200 --> 00:20:59,800
+has a very important special function
+
+456
+00:20:59,800 --> 00:21:00,200
+that is
+
+457
+00:21:00,000 --> 00:21:02,000
+You can feel it when you touch it
+
+458
+00:21:02,000 --> 00:21:02,500
+right
+
+459
+00:21:02,500 --> 00:21:05,000
+Because we feel pressure after we touch it
+
+460
+00:21:05,000 --> 00:21:06,000
+So if say
+
+461
+00:21:06,000 --> 00:21:08,000
+We're going to take an artificial skin
+
+462
+00:21:08,000 --> 00:21:09,500
+you have to touch to put pressure
+
+463
+00:21:09,500 --> 00:21:10,500
+what about stress
+
+464
+00:21:10,500 --> 00:21:11,500
+to convey
+
+465
+00:21:11,500 --> 00:21:14,000
+words expressed by some signals
+
+466
+00:21:14,000 --> 00:21:16,000
+you have to amplify those signals
+
+467
+00:21:16,000 --> 00:21:18,000
+and then with some current
+
+468
+00:21:18,000 --> 00:21:20,000
+convey it
+
+469
+00:21:20,000 --> 00:21:23,500
+So when people study and say
+
+470
+00:21:23,500 --> 00:21:26,000
+What to do when taking photos of these artificial skins
+
+471
+00:21:26,000 --> 00:21:28,500
+It actually uses some
+
+472
+00:21:28,500 --> 00:21:31,500
+Zoomed out here are some rice noodles
+
+473
+00:21:31,500 --> 00:21:32,500
+Here
+
+474
+00:21:32,500 --> 00:21:34,500
+Because of rice noodle it has some functions
+
+475
+00:21:34,500 --> 00:21:36,000
+That is, it can be used as an electrolytic body
+
+476
+00:21:36,000 --> 00:21:38,000
+it amplifies a signal
+
+477
+00:21:38,000 --> 00:21:39,500
+So in a layer
+
+478
+00:21:39,500 --> 00:21:41,000
+It bought a lot of rice noodles
+
+479
+00:21:41,000 --> 00:21:42,500
+Then these artificial skins
+
+480
+00:21:42,500 --> 00:21:44,500
+it is very it can bend
+
+481
+00:21:44,500 --> 00:21:46,500
+Then it can have a layer on top of that
+
+482
+00:21:46,500 --> 00:21:48,000
+something that detects stress
+
+483
+00:21:48,000 --> 00:21:50,000
+and pass that signal down
+
+484
+00:21:50,000 --> 00:21:51,000
+Then use this rice noodle
+
+485
+00:21:51,000 --> 00:21:53,000
+Send out the signal of this current
+
+486
+00:21:53,000 --> 00:21:54,000
+so we know
+
+487
+00:21:54,000 --> 00:21:57,000
+So measure the pressure everywhere
+
+488
+00:21:57,000 --> 00:21:59,000
+so this is a
+
+489
+00:21:59,000 --> 00:22:00,000
+can now
+
+490
+00:22:00,000 --> 00:22:01,960
+a situation that does
+
+491
+00:22:01,960 --> 00:22:06,400
+Then it needs that very low voltage to operate
+
+492
+00:22:06,400 --> 00:22:08,400
+Sometimes you need other systems
+
+493
+00:22:08,400 --> 00:22:09,840
+May require a lot of voltage
+
+494
+00:22:09,840 --> 00:22:11,000
+so not ideal
+
+495
+00:22:11,000 --> 00:22:13,200
+So how many
+
+496
+00:22:13,200 --> 00:22:15,200
+There are several applications of this
+
+497
+00:22:15,200 --> 00:22:17,300
+after our course
+
+498
+00:22:17,300 --> 00:22:20,300
+I want to spend the next five to ten years
+
+499
+00:22:20,300 --> 00:22:23,900
+You will still hear a lot of new things coming out
+
+500
+00:22:23,900 --> 00:22:24,400
+OK
+
+501
+00:22:24,400 --> 00:22:24,900
+All right
+
+502
+00:22:24,900 --> 00:22:26,800
+ok now let's get back to the topic
+
+503
+00:22:27,400 --> 00:22:32,000
+Let's talk about the role that look plays in this nanoscience
+
+504
+00:22:32,000 --> 00:22:32,600
+OK
+
+505
+00:22:32,600 --> 00:22:34,700
+if you still
+
+506
+00:22:34,700 --> 00:22:37,800
+Probably everyone should have heard of the periodic table of the elements.
+
+507
+00:22:37,800 --> 00:22:38,300
+right
+
+508
+00:22:38,300 --> 00:22:39,500
+Look at the elements
+
+509
+00:22:39,500 --> 00:22:40,300
+Here
+
+510
+00:22:40,300 --> 00:22:41,300
+it is there
+
+511
+00:22:41,300 --> 00:22:43,000
+Its atomic sequence is six
+
+512
+00:22:43,000 --> 00:22:44,200
+There are twelve electrons
+
+513
+00:22:44,200 --> 00:22:44,800
+right
+
+514
+00:22:44,800 --> 00:22:46,500
+it's not a metal
+
+515
+00:22:46,500 --> 00:22:49,600
+It's right on top of the Sircum department
+
+516
+00:22:49,600 --> 00:22:51,300
+that they have the same
+
+517
+00:22:51,300 --> 00:22:54,000
+very similar electronic structure
+
+518
+00:22:54,100 --> 00:22:57,900
+There are many, many on our planet
+
+519
+00:22:57,900 --> 00:22:59,100
+inside our body
+
+520
+00:23:00,000 --> 00:23:02,000
+big pile
+
+521
+00:23:02,000 --> 00:23:03,240
+eat every day
+
+522
+00:23:03,240 --> 00:23:04,260
+fetal water compound
+
+523
+00:23:04,260 --> 00:23:05,960
+then physically
+
+524
+00:23:05,960 --> 00:23:07,440
+all those molecules
+
+525
+00:23:07,440 --> 00:23:10,640
+A lot of them contain fetal atoms
+
+526
+00:23:10,640 --> 00:23:13,080
+Then our entire organic chemistry
+
+527
+00:23:13,080 --> 00:23:16,400
+It's the fluid element
+
+528
+00:23:16,400 --> 00:23:21,440
+That 20% of the human body is actually fetal atoms
+
+529
+00:23:21,440 --> 00:23:24,640
+but the fetal atom it is a
+
+530
+00:23:24,640 --> 00:23:26,000
+kaleidoscopic elements
+
+531
+00:23:26,000 --> 00:23:27,440
+because it has many
+
+532
+00:23:27,440 --> 00:23:29,000
+it can do many, many things
+
+533
+00:23:29,000 --> 00:23:31,640
+We take the fetal atom out like this
+
+534
+00:23:31,640 --> 00:23:32,840
+put it together
+
+535
+00:23:32,840 --> 00:23:37,000
+It wants it to form very different images
+
+536
+00:23:37,000 --> 00:23:39,240
+Everyone knows the first diamond
+
+537
+00:23:39,240 --> 00:23:40,240
+diamond is tire
+
+538
+00:23:40,240 --> 00:23:42,000
+In fact, fetal element is in it
+
+539
+00:23:42,000 --> 00:23:43,240
+or stone wood
+
+540
+00:23:43,240 --> 00:23:45,240
+It's still the black one in the pencil
+
+541
+00:23:45,240 --> 00:23:46,000
+That's a tire
+
+542
+00:23:46,000 --> 00:23:47,640
+placenta
+
+543
+00:23:47,640 --> 00:23:52,240
+Those two are completely different situations
+
+544
+00:23:52,240 --> 00:23:56,200
+that's inside the nami structure
+
+545
+00:23:56,200 --> 00:23:58,000
+placenta will be formed
+
+546
+00:23:58,000 --> 00:24:00,000
+I can even mention Naimi's carbon
+
+547
+00:24:00,000 --> 00:24:01,700
+it is spherical
+
+548
+00:24:01,700 --> 00:24:03,500
+or carbon nanotubes
+
+549
+00:24:03,500 --> 00:24:05,800
+And now the latest material
+
+550
+00:24:05,800 --> 00:24:07,800
+graphite west it is a flat
+
+551
+00:24:07,800 --> 00:24:09,800
+There are already two
+
+552
+00:24:09,800 --> 00:24:11,800
+Liu Boer talked about a chemistry
+
+553
+00:24:11,800 --> 00:24:12,800
+carbon nanospheres
+
+554
+00:24:12,800 --> 00:24:14,200
+then one is physical
+
+555
+00:24:14,200 --> 00:24:16,200
+Said it was last year's graphite west
+
+556
+00:24:16,200 --> 00:24:19,200
+I'll put this over here later
+
+557
+00:24:19,200 --> 00:24:21,200
+Let me talk about it a little bit
+
+558
+00:24:21,200 --> 00:24:23,200
+so our
+
+559
+00:24:23,200 --> 00:24:24,800
+now everyone's
+
+560
+00:24:24,800 --> 00:24:26,500
+just like that
+
+561
+00:24:26,500 --> 00:24:28,200
+What about carbon?
+
+562
+00:24:28,200 --> 00:24:31,200
+In fact, in our
+
+563
+00:24:31,200 --> 00:24:32,200
+that nano
+
+564
+00:24:32,200 --> 00:24:33,700
+Inside the Science of Nanotechnology
+
+565
+00:24:33,700 --> 00:24:35,700
+actually very very important
+
+566
+00:24:35,700 --> 00:24:37,700
+Member of Parliament
+
+567
+00:24:37,700 --> 00:24:39,200
+then let's go back first
+
+568
+00:24:39,200 --> 00:24:41,200
+look at this
+
+569
+00:24:41,200 --> 00:24:42,700
+diamond and graphite
+
+570
+00:24:42,700 --> 00:24:44,200
+let's get to know
+
+571
+00:24:44,200 --> 00:24:45,200
+it is at
+
+572
+00:24:45,200 --> 00:24:46,700
+our kind
+
+573
+00:24:46,700 --> 00:24:48,700
+before going to nano
+
+574
+00:24:48,700 --> 00:24:51,200
+what kind of properties will it have
+
+575
+00:24:51,200 --> 00:24:53,700
+If you have taken chemistry in high school
+
+576
+00:24:53,700 --> 00:24:55,700
+I don't think anyone is unfamiliar with this
+
+577
+00:24:55,700 --> 00:24:57,700
+because in carbon
+
+578
+00:24:57,700 --> 00:24:59,700
+we usually talk about that
+
+579
+00:25:00,000 --> 00:25:01,800
+when the electronic structure
+
+580
+00:25:01,800 --> 00:25:04,600
+We have two different energy levels
+
+581
+00:25:04,600 --> 00:25:06,640
+Then this is our tree feather
+
+582
+00:25:06,640 --> 00:25:09,000
+Then there are 2S and 2P
+
+583
+00:25:09,000 --> 00:25:10,240
+An A4 and P
+
+584
+00:25:10,240 --> 00:25:12,040
+two different tracks
+
+585
+00:25:12,040 --> 00:25:15,200
+that in its ground state
+
+586
+00:25:15,200 --> 00:25:17,840
+The ground state is the lowest energy situation
+
+587
+00:25:17,840 --> 00:25:21,080
+We have to consider four electrons outside
+
+588
+00:25:21,080 --> 00:25:25,080
+So these two are in the track of A4
+
+589
+00:25:25,080 --> 00:25:27,680
+The remaining two are in the P orbital
+
+590
+00:25:28,160 --> 00:25:30,120
+So this is the lowest energy
+
+591
+00:25:30,120 --> 00:25:32,280
+But since the two are quite close
+
+592
+00:25:32,280 --> 00:25:33,360
+so sometimes
+
+593
+00:25:33,360 --> 00:25:35,520
+it goes to a higher level
+
+594
+00:25:35,520 --> 00:25:37,360
+a comparatively excited state
+
+595
+00:25:37,360 --> 00:25:39,520
+Then move the electron up again
+
+596
+00:25:39,520 --> 00:25:41,720
+One on A4 and three on P
+
+597
+00:25:41,720 --> 00:25:42,920
+So in this case
+
+598
+00:25:42,920 --> 00:25:44,320
+the two of them will
+
+599
+00:25:44,320 --> 00:25:45,560
+probably mixed up
+
+600
+00:25:45,560 --> 00:25:46,760
+we are called
+
+601
+00:25:46,760 --> 00:25:48,560
+In chemistry it is called hybridization
+
+602
+00:25:48,560 --> 00:25:50,360
+put the two together
+
+603
+00:25:50,360 --> 00:25:52,080
+that becomes four together
+
+604
+00:25:52,080 --> 00:25:53,320
+called SP3
+
+605
+00:25:53,320 --> 00:25:54,960
+if four together
+
+606
+00:25:54,960 --> 00:25:56,960
+If we paint this out
+
+607
+00:25:56,960 --> 00:25:59,240
+A4 is usually a spherical
+
+608
+00:26:00,000 --> 00:26:04,240
+It is directional, up, down, left, right, front, back
+
+609
+00:26:04,240 --> 00:26:06,000
+So when added together like this
+
+610
+00:26:06,000 --> 00:26:10,000
+The hybrid orbiton of sp3 has a directionality
+
+611
+00:26:10,000 --> 00:26:11,300
+Then this directionality means
+
+612
+00:26:11,300 --> 00:26:13,840
+There are four outside the middle one
+
+613
+00:26:13,840 --> 00:26:15,000
+So if this is the case
+
+614
+00:26:15,000 --> 00:26:17,640
+In the formation of the structure of most so-called diamonds
+
+615
+00:26:17,640 --> 00:26:19,440
+That is to say, any climbing atom
+
+616
+00:26:19,440 --> 00:26:22,640
+There are four climbing atoms nearby
+
+617
+00:26:22,640 --> 00:26:25,600
+Then this structure is a very, very stable
+
+618
+00:26:25,800 --> 00:26:27,800
+then very very
+
+619
+00:26:29,600 --> 00:26:31,740
+That is to say, it will not be accepted by outsiders
+
+620
+00:26:31,740 --> 00:26:33,240
+a structure of interference
+
+621
+00:26:33,240 --> 00:26:36,000
+that's very very strong
+
+622
+00:26:36,000 --> 00:26:39,240
+That kind of chemistry is made up here
+
+623
+00:26:39,240 --> 00:26:40,340
+the structure like this
+
+624
+00:26:40,340 --> 00:26:44,200
+That is, it is in our visible light
+
+625
+00:26:44,200 --> 00:26:46,600
+It does not absorb visible light
+
+626
+00:26:46,600 --> 00:26:48,540
+So let's say we see transparent diamonds
+
+627
+00:26:48,540 --> 00:26:50,140
+and then the whole thing is very, very hard
+
+628
+00:26:50,140 --> 00:26:52,740
+because it's hard to compress it
+
+629
+00:26:52,740 --> 00:26:53,500
+so it's just
+
+630
+00:26:53,500 --> 00:26:55,640
+Because of its arrangement
+
+631
+00:26:55,640 --> 00:26:57,700
+and because of it this
+
+632
+00:26:57,700 --> 00:26:59,940
+the number of electrons it has
+
+633
+00:27:00,000 --> 00:27:04,000
+and decided to say that a physical property of it like this
+
+634
+00:27:04,000 --> 00:27:05,600
+of course this
+
+635
+00:27:05,600 --> 00:27:09,200
+This is the distance between its atomic rulers
+
+636
+00:27:09,200 --> 00:27:10,400
+Of course it's small
+
+637
+00:27:10,400 --> 00:27:12,200
+Also on the Nano side
+
+638
+00:27:12,200 --> 00:27:14,200
+Calculated in temperature nanometers
+
+639
+00:27:14,200 --> 00:27:15,800
+so this is in
+
+640
+00:27:15,800 --> 00:27:17,600
+Because of this arrangement
+
+641
+00:27:17,600 --> 00:27:19,200
+Put Taiyuan Quality Sauce Together
+
+642
+00:27:19,200 --> 00:27:20,800
+it turns into a diamond
+
+643
+00:27:20,800 --> 00:27:22,600
+If we say we are too primitive
+
+644
+00:27:22,600 --> 00:27:24,200
+another arrangement
+
+645
+00:27:24,200 --> 00:27:25,400
+becomes
+
+646
+00:27:25,400 --> 00:27:26,600
+turned into stone membrane
+
+647
+00:27:26,600 --> 00:27:28,600
+become the stuff in our pencils
+
+648
+00:27:29,000 --> 00:27:30,200
+Also Taiyuan
+
+649
+00:27:30,200 --> 00:27:31,000
+But what?
+
+650
+00:27:31,000 --> 00:27:34,200
+We when we got to this house to stimulate the tires
+
+651
+00:27:34,200 --> 00:27:36,000
+i don't take it all
+
+652
+00:27:36,000 --> 00:27:38,200
+Three plus three and four all put together
+
+653
+00:27:38,200 --> 00:27:39,600
+I take the top and take two
+
+654
+00:27:39,600 --> 00:27:42,000
+Take one here and turn it into SP2
+
+655
+00:27:42,000 --> 00:27:43,600
+Then leave the other one there
+
+656
+00:27:43,600 --> 00:27:44,600
+no matter where it is placed
+
+657
+00:27:44,600 --> 00:27:47,800
+It does not interact with others by itself
+
+658
+00:27:47,800 --> 00:27:49,000
+If you make it like this
+
+659
+00:27:49,000 --> 00:27:52,400
+SP2 is an S is an original
+
+660
+00:27:52,400 --> 00:27:54,500
+What about the other two P's?
+
+661
+00:27:54,500 --> 00:27:58,000
+One is horizontal and the other is heavy
+
+662
+00:27:58,000 --> 00:28:00,200
+So to combine it becomes one
+
+663
+00:28:00,000 --> 00:28:04,400
+called sp2 becomes an angle of 120 degrees
+
+664
+00:28:04,400 --> 00:28:06,960
+so it you turn things 120 degrees
+
+665
+00:28:06,960 --> 00:28:08,200
+Then line up the words
+
+666
+00:28:08,200 --> 00:28:10,000
+It's a Ginger like this
+
+667
+00:28:10,000 --> 00:28:13,200
+It has three per atom
+
+668
+00:28:13,200 --> 00:28:17,400
+it's in the booth atom it to the neighborhood
+
+669
+00:28:17,400 --> 00:28:19,600
+Then they form an angle of 120 degrees
+
+670
+00:28:19,600 --> 00:28:21,800
+a plane like this
+
+671
+00:28:21,800 --> 00:28:23,200
+line it up
+
+672
+00:28:23,200 --> 00:28:26,200
+Because we live in a three-dimensional space
+
+673
+00:28:26,200 --> 00:28:29,000
+So all matter is three-dimensional
+
+674
+00:28:29,000 --> 00:28:33,600
+If they are lined up, they will become the graphite kilometer stars we are talking about.
+
+675
+00:28:33,600 --> 00:28:35,600
+In fact, there are stalls inside
+
+676
+00:28:35,600 --> 00:28:36,600
+everything is the same
+
+677
+00:28:36,600 --> 00:28:40,000
+So the complete foundation is built according to its arrangement
+
+678
+00:28:40,000 --> 00:28:42,600
+Its electronic structure will be different
+
+679
+00:28:42,600 --> 00:28:44,600
+And on this plane
+
+680
+00:28:44,600 --> 00:28:49,400
+Its layer-by-layer effects are very weak
+
+681
+00:28:49,400 --> 00:28:52,200
+Most of the strong action is on this plane
+
+682
+00:28:52,200 --> 00:28:55,200
+So it's a very soft thing
+
+683
+00:28:55,200 --> 00:28:57,000
+We can use it as kilometers
+
+684
+00:28:57,000 --> 00:28:58,000
+you write on paper
+
+685
+00:28:58,000 --> 00:29:00,000
+why does it get out on paper
+
+686
+00:29:00,000 --> 00:29:05,640
+Because the relationship between them is too light
+
+687
+00:29:05,640 --> 00:29:08,040
+So the layers will peel off
+
+688
+00:29:08,040 --> 00:29:10,640
+That's why it has properties like this
+
+689
+00:29:10,640 --> 00:29:13,360
+This is what we see in these
+
+690
+00:29:13,360 --> 00:29:14,840
+matter that existed
+
+691
+00:29:14,840 --> 00:29:17,120
+something in nature
+
+692
+00:29:17,120 --> 00:29:19,400
+That's the nano world
+
+693
+00:29:19,400 --> 00:29:22,320
+we have to make it
+
+694
+00:29:22,320 --> 00:29:24,920
+Rearrange these electrons from scratch
+
+695
+00:29:25,920 --> 00:29:27,520
+The only possibility is
+
+696
+00:29:27,520 --> 00:29:30,520
+The whole nature has only two kinds
+
+697
+00:29:30,520 --> 00:29:34,440
+SP2 is arranged in a plane like this
+
+698
+00:29:34,440 --> 00:29:37,760
+Or like that diamond we just saw
+
+699
+00:29:37,760 --> 00:29:39,840
+This is an arrangement of measurements
+
+700
+00:29:39,840 --> 00:29:41,480
+In fact, only these two
+
+701
+00:29:42,640 --> 00:29:45,840
+So let's say that in this
+
+702
+00:29:45,840 --> 00:29:47,480
+throughout the development
+
+703
+00:29:47,480 --> 00:29:49,240
+Now this is 1996
+
+704
+00:29:50,960 --> 00:29:52,440
+in the lab
+
+705
+00:29:53,560 --> 00:29:55,480
+there are three scientists
+
+706
+00:29:55,480 --> 00:29:59,880
+They made a new one
+
+707
+00:30:00,000 --> 00:30:03,740
+The quest for materials called nanometers
+
+708
+00:30:03,740 --> 00:30:04,580
+basically
+
+709
+00:30:04,580 --> 00:30:06,580
+take sixty atoms
+
+710
+00:30:07,460 --> 00:30:08,740
+put it together
+
+711
+00:30:09,460 --> 00:30:11,580
+Then form a structure
+
+712
+00:30:11,580 --> 00:30:13,420
+like a ball like this
+
+713
+00:30:13,420 --> 00:30:14,660
+The so-called Buddy ball
+
+714
+00:30:14,860 --> 00:30:15,660
+what about this thing
+
+715
+00:30:15,660 --> 00:30:18,260
+the football we all know
+
+716
+00:30:18,260 --> 00:30:19,740
+Take a football and have a look
+
+717
+00:30:19,740 --> 00:30:21,420
+it's the exact same thing
+
+718
+00:30:21,980 --> 00:30:24,340
+We are at this time when everyone is doing football
+
+719
+00:30:24,340 --> 00:30:25,380
+have found that
+
+720
+00:30:25,380 --> 00:30:28,180
+This way you can make a spherical thing
+
+721
+00:30:28,340 --> 00:30:29,660
+let's look at this thing
+
+722
+00:30:29,660 --> 00:30:30,540
+you will find that say
+
+723
+00:30:30,540 --> 00:30:32,020
+how to see it here
+
+724
+00:30:32,300 --> 00:30:34,580
+This side is a hexagon
+
+725
+00:30:35,140 --> 00:30:37,420
+That black place is a pentagon
+
+726
+00:30:37,940 --> 00:30:40,380
+Then each dot is a bomb atom
+
+727
+00:30:40,660 --> 00:30:42,820
+So for any bomb atom
+
+728
+00:30:42,980 --> 00:30:45,860
+it has three bomb atoms next to it
+
+729
+00:30:46,660 --> 00:30:48,540
+Live because
+
+730
+00:30:48,740 --> 00:30:49,780
+flat time
+
+731
+00:30:49,940 --> 00:30:50,980
+each is three
+
+732
+00:30:50,980 --> 00:30:52,980
+So everyone is equal
+
+733
+00:30:53,620 --> 00:30:55,020
+when you hear this
+
+734
+00:30:55,020 --> 00:30:57,140
+if i were to bend it down
+
+735
+00:30:57,220 --> 00:30:58,460
+i must have a place
+
+736
+00:30:58,460 --> 00:30:59,700
+less than six
+
+737
+00:30:59,700 --> 00:31:00,060
+so just
+
+738
+00:31:00,000 --> 00:31:01,300
+It's all pentagonal
+
+739
+00:31:01,460 --> 00:31:03,200
+so you can go back and get
+
+740
+00:31:03,360 --> 00:31:05,460
+If you are interested, you can take a picture yourself
+
+741
+00:31:05,620 --> 00:31:07,100
+this is a quest
+
+742
+00:31:07,760 --> 00:31:09,700
+then at this time
+
+743
+00:31:09,860 --> 00:31:11,260
+When everyone is doing it in the lab
+
+744
+00:31:11,420 --> 00:31:13,360
+It's just a picture bar that puts a bunch of suns together
+
+745
+00:31:13,520 --> 00:31:15,000
+formed between them
+
+746
+00:31:15,160 --> 00:31:18,360
+found a special structure like this
+
+747
+00:31:19,020 --> 00:31:21,460
+Then a structure like this is a new form
+
+748
+00:31:21,620 --> 00:31:23,800
+Because everyone thinks that
+
+749
+00:31:24,600 --> 00:31:26,360
+we never saw this thing
+
+750
+00:31:26,520 --> 00:31:29,100
+Thought we made it in the lab
+
+751
+00:31:29,100 --> 00:31:31,760
+This was in the 90s
+
+752
+00:31:31,920 --> 00:31:34,700
+By the time of 2000, two thousand years
+
+753
+00:31:34,860 --> 00:31:36,060
+There are many, many applications
+
+754
+00:31:36,220 --> 00:31:38,260
+You have done a lot of research
+
+755
+00:31:38,660 --> 00:31:40,500
+that last year
+
+756
+00:31:40,660 --> 00:31:42,720
+only found out in astronomy school
+
+757
+00:31:42,900 --> 00:31:46,260
+Possibly far, far away in outer space
+
+758
+00:31:46,420 --> 00:31:47,660
+inside these nebulae
+
+759
+00:31:47,820 --> 00:31:52,100
+Discovery of a nebula 6,000 light-years away
+
+760
+00:31:52,260 --> 00:31:56,020
+Maybe something like this already existed at that time
+
+761
+00:31:56,700 --> 00:31:57,760
+That's why I found out
+
+762
+00:31:57,760 --> 00:31:59,920
+This stuff maybe not that we hear
+
+763
+00:32:00,000 --> 00:32:01,600
+first made
+
+764
+00:32:01,600 --> 00:32:04,100
+a structure like this
+
+765
+00:32:04,100 --> 00:32:05,800
+What kind of a property will there be
+
+766
+00:32:05,800 --> 00:32:08,200
+why they won the nobel prize
+
+767
+00:32:08,200 --> 00:32:09,600
+to make something like this
+
+768
+00:32:09,600 --> 00:32:12,600
+because yes it is very very
+
+769
+00:32:12,600 --> 00:32:14,200
+very very strong first time
+
+770
+00:32:14,200 --> 00:32:17,800
+Because these chemical circles are not easily broken
+
+771
+00:32:17,800 --> 00:32:20,900
+So basically the ball is very stable
+
+772
+00:32:20,900 --> 00:32:22,400
+very stable ball
+
+773
+00:32:22,400 --> 00:32:26,100
+Ordinary people please imagine
+
+774
+00:32:26,100 --> 00:32:28,600
+This surface can attach some
+
+775
+00:32:28,600 --> 00:32:29,900
+many other things
+
+776
+00:32:29,900 --> 00:32:33,100
+For example, the molecules of some drugs
+
+777
+00:32:33,100 --> 00:32:34,300
+can put it on top
+
+778
+00:32:34,300 --> 00:32:36,500
+Then everyone was imagining at that time that
+
+779
+00:32:36,500 --> 00:32:38,900
+I can put this thing in my studies
+
+780
+00:32:38,900 --> 00:32:41,900
+It can take things to where you tell it to deliver
+
+781
+00:32:41,900 --> 00:32:43,600
+because this is small
+
+782
+00:32:43,600 --> 00:32:46,900
+it doesn't work with anything else
+
+783
+00:32:46,900 --> 00:32:50,700
+Then it might be able to cross those cell membranes
+
+784
+00:32:50,700 --> 00:32:52,100
+or some places
+
+785
+00:32:52,100 --> 00:32:56,000
+So for something like this is equal to a unit
+
+786
+00:32:56,100 --> 00:32:58,300
+we can bring
+
+787
+00:32:58,300 --> 00:32:59,500
+Just say Manupay
+
+788
+00:32:59,500 --> 00:33:00,200
+use it to do
+
+789
+00:33:00,000 --> 00:33:00,800
+do something
+
+790
+00:33:00,960 --> 00:33:05,620
+That is about after this discovery
+
+791
+00:33:05,780 --> 00:33:06,960
+late 90's
+
+792
+00:33:07,120 --> 00:33:09,460
+or 10 years ago
+
+793
+00:33:09,620 --> 00:33:11,620
+That stuff is pretty, really hot
+
+794
+00:33:11,780 --> 00:33:12,900
+everyone told him
+
+795
+00:33:13,060 --> 00:33:13,860
+this is a new thing
+
+796
+00:33:14,020 --> 00:33:15,220
+we all have to think about it
+
+797
+00:33:15,380 --> 00:33:19,420
+what kind of that thing can we use
+
+798
+00:33:19,580 --> 00:33:21,180
+It can be found that it has some functions
+
+799
+00:33:21,340 --> 00:33:24,020
+or for special applications
+
+800
+00:33:24,740 --> 00:33:26,180
+so this is the first
+
+801
+00:33:26,180 --> 00:33:31,180
+Judgment-related refugee structure
+
+802
+00:33:31,340 --> 00:33:34,140
+what about later
+
+803
+00:33:34,300 --> 00:33:35,340
+Next step
+
+804
+00:33:35,500 --> 00:33:37,820
+What we found was that
+
+805
+00:33:37,980 --> 00:33:41,540
+We can use the structure just like that
+
+806
+00:33:41,700 --> 00:33:43,980
+not make a ball
+
+807
+00:33:44,140 --> 00:33:45,860
+i can make him a pipe
+
+808
+00:33:46,020 --> 00:33:47,140
+roll it up
+
+809
+00:33:47,300 --> 00:33:48,500
+make a pipe
+
+810
+00:33:48,660 --> 00:33:50,060
+When making pipes like this
+
+811
+00:33:50,220 --> 00:33:51,220
+depends on how you roll
+
+812
+00:33:51,380 --> 00:33:52,620
+have different directions
+
+813
+00:33:52,780 --> 00:33:54,660
+So after that we have some terms
+
+814
+00:33:54,820 --> 00:33:55,660
+this is called
+
+815
+00:33:55,820 --> 00:33:59,660
+pull towards CZAC like a chair
+
+816
+00:34:00,000 --> 00:34:02,000
+That is to say, in a different direction
+
+817
+00:34:02,000 --> 00:34:04,000
+their nature will be different
+
+818
+00:34:04,000 --> 00:34:06,000
+some will be semiconductor
+
+819
+00:34:06,000 --> 00:34:09,000
+Some will be very conductive
+
+820
+00:34:09,000 --> 00:34:12,000
+So if say we take a
+
+821
+00:34:12,000 --> 00:34:15,000
+A carbon nanotube
+
+822
+00:34:15,000 --> 00:34:16,000
+And what about these
+
+823
+00:34:16,000 --> 00:34:19,000
+It can go to the surface to absorb some
+
+824
+00:34:19,000 --> 00:34:21,000
+other molecules
+
+825
+00:34:21,000 --> 00:34:24,000
+Then we can go and measure these conductivities
+
+826
+00:34:24,000 --> 00:34:26,000
+Then those molecules change the conductivity
+
+827
+00:34:26,000 --> 00:34:28,000
+So these carbon nanotubes
+
+828
+00:34:28,000 --> 00:34:30,000
+can become a
+
+829
+00:34:30,000 --> 00:34:32,000
+become a sensor
+
+830
+00:34:32,000 --> 00:34:34,000
+That is to say very sensitive
+
+831
+00:34:34,000 --> 00:34:36,000
+some can go to measure some
+
+832
+00:34:36,000 --> 00:34:40,000
+A tool for other molecules
+
+833
+00:34:40,000 --> 00:34:42,000
+and at the same time
+
+834
+00:34:42,000 --> 00:34:44,000
+We also made some
+
+835
+00:34:44,000 --> 00:34:46,000
+Flight Panel Display
+
+836
+00:34:46,000 --> 00:34:48,000
+The screen you made
+
+837
+00:34:48,000 --> 00:34:50,000
+Everyone has to make it thinner and thinner
+
+838
+00:34:50,000 --> 00:34:52,000
+Then use less power
+
+839
+00:34:52,000 --> 00:34:54,000
+What about carbon tubes?
+
+840
+00:34:54,000 --> 00:34:56,000
+It's actually a good material
+
+841
+00:34:56,000 --> 00:34:59,000
+it can be released in some of the
+
+842
+00:35:00,000 --> 00:35:03,400
+The release of electrons under voltage has many effects
+
+843
+00:35:03,400 --> 00:35:07,340
+It is said that some electronic companies are already making such products
+
+844
+00:35:07,340 --> 00:35:10,960
+So this has only had two covers in the past
+
+845
+00:35:10,960 --> 00:35:13,920
+This is our first science magazine
+
+846
+00:35:13,920 --> 00:35:20,320
+Usually there are many, many articles about these stamina probes for a while
+
+847
+00:35:20,320 --> 00:35:25,960
+So this was probably before this 2010
+
+848
+00:35:26,120 --> 00:35:29,840
+to every scientific federation
+
+849
+00:35:29,840 --> 00:35:33,720
+Lots and lots of discussion about this material
+
+850
+00:35:34,320 --> 00:35:37,600
+These are the words that probably speak to us
+
+851
+00:35:37,600 --> 00:35:40,320
+It's already the first wave
+
+852
+00:35:41,600 --> 00:35:50,480
+In 2006 five or six years ago
+
+853
+00:35:50,480 --> 00:35:52,480
+Everyone started to find out
+
+854
+00:35:52,480 --> 00:35:54,320
+In addition, there is another thing
+
+855
+00:35:54,320 --> 00:35:57,080
+This is what I've been looking for
+
+856
+00:35:57,080 --> 00:35:59,400
+The so-called graphite west
+
+857
+00:36:00,000 --> 00:36:02,640
+This piece of stuff is taken out of the graphite
+
+858
+00:36:02,640 --> 00:36:07,400
+Then it will be a very good two-dimensional nanostructure
+
+859
+00:36:07,400 --> 00:36:12,080
+That's because it's only one atom thick
+
+860
+00:36:12,080 --> 00:36:18,180
+So if other probes that we see like this nano
+
+861
+00:36:18,180 --> 00:36:19,420
+or probe
+
+862
+00:36:19,420 --> 00:36:22,160
+In fact, it is to take this part to roll up
+
+863
+00:36:22,160 --> 00:36:24,720
+or wrap it up like this
+
+864
+00:36:24,720 --> 00:36:27,680
+Or we take layer by layer what we call graphite
+
+865
+00:36:28,080 --> 00:36:31,000
+So this is something that people are looking for
+
+866
+00:36:31,000 --> 00:36:34,960
+Probably hope to be able to separate it
+
+867
+00:36:34,960 --> 00:36:40,320
+Then I hope to be able to use it for another goal I want to achieve
+
+868
+00:36:40,320 --> 00:36:43,160
+Then we call a structure like this Graphene
+
+869
+00:36:43,160 --> 00:36:47,280
+As far as graphite is concerned, it has SP2 as we just mentioned
+
+870
+00:36:47,280 --> 00:36:50,280
+So the angle of each of them is 120 degrees
+
+871
+00:36:50,880 --> 00:36:52,840
+Remind me like this again
+
+872
+00:36:53,480 --> 00:36:57,440
+The Graphite West Phenomenon Since 2004
+
+873
+00:36:57,440 --> 00:37:00,080
+Everyone has the first article introduction
+
+874
+00:37:00,000 --> 00:37:02,760
+For example, say that I can do this
+
+875
+00:37:02,760 --> 00:37:07,360
+This is the paper that everyone will publish in the future
+
+876
+00:37:07,360 --> 00:37:09,200
+Papers published worldwide
+
+877
+00:37:09,200 --> 00:37:11,960
+So you can see that this increase is unwilling to rise
+
+878
+00:37:11,960 --> 00:37:14,400
+So this trend is pretty pretty amazing
+
+879
+00:37:14,960 --> 00:37:16,840
+this paper daily paper
+
+880
+00:37:16,840 --> 00:37:18,760
+You can imagine that there are many students
+
+881
+00:37:18,760 --> 00:37:21,680
+Or a researcher working in a lab for a few months
+
+882
+00:37:21,680 --> 00:37:23,760
+Then take this result and write it out
+
+883
+00:37:23,760 --> 00:37:25,840
+I finally wrote a paper
+
+884
+00:37:25,840 --> 00:37:28,960
+In the past few years has been in this
+
+885
+00:37:29,080 --> 00:37:30,480
+This is a Xinjiang with more than a few thousand
+
+886
+00:37:30,480 --> 00:37:32,320
+Eight thousand papers have come out
+
+887
+00:37:32,320 --> 00:37:34,480
+But many, many people from different fields
+
+888
+00:37:34,480 --> 00:37:37,200
+all wanting to find in it says
+
+889
+00:37:37,200 --> 00:37:38,680
+there's something in here
+
+890
+00:37:38,680 --> 00:37:43,680
+We can research and use it on my topic
+
+891
+00:37:43,680 --> 00:37:46,080
+So throughout the development
+
+892
+00:37:46,080 --> 00:37:50,760
+in a column
+
+893
+00:37:50,760 --> 00:37:52,840
+He just said something like this
+
+894
+00:37:52,840 --> 00:37:56,120
+他說Graphic Mentor to be Lady Gaga of Materials
+
+895
+00:37:56,120 --> 00:37:59,120
+say that for the material
+
+896
+00:37:59,120 --> 00:38:00,040
+it's possible
+
+897
+00:38:00,000 --> 00:38:04,000
+It's a goddess, everyone knows why
+
+898
+00:38:04,000 --> 00:38:05,000
+like this he said
+
+899
+00:38:05,000 --> 00:38:07,000
+seems to be from
+
+900
+00:38:07,000 --> 00:38:08,000
+It seems to come from nowhere
+
+901
+00:38:08,000 --> 00:38:10,000
+He came out of nowhere
+
+902
+00:38:10,000 --> 00:38:11,000
+Then
+
+903
+00:38:11,000 --> 00:38:14,000
+everyone is talking about him
+
+904
+00:38:14,000 --> 00:38:16,000
+Then what
+
+905
+00:38:16,000 --> 00:38:17,000
+not long
+
+906
+00:38:17,000 --> 00:38:19,000
+He is going to be absolutely everywhere
+
+907
+00:38:19,000 --> 00:38:20,000
+you are not eating
+
+908
+00:38:20,000 --> 00:38:21,000
+see him everywhere
+
+909
+00:38:21,000 --> 00:38:22,000
+so we all the world
+
+910
+00:38:22,000 --> 00:38:25,000
+I see this news everywhere
+
+911
+00:38:25,000 --> 00:38:27,000
+So for now
+
+912
+00:38:27,000 --> 00:38:29,000
+This is a
+
+913
+00:38:29,000 --> 00:38:32,000
+That is to say, many, many researchers
+
+914
+00:38:32,000 --> 00:38:34,000
+found some special
+
+915
+00:38:34,000 --> 00:38:37,000
+special subject
+
+916
+00:38:37,000 --> 00:38:39,000
+the whole
+
+917
+00:38:39,000 --> 00:38:41,000
+the whole trend
+
+918
+00:38:41,000 --> 00:38:44,000
+The whole phenomenon started in 2004
+
+919
+00:38:44,000 --> 00:38:47,000
+that's the first paper
+
+920
+00:38:47,000 --> 00:38:48,000
+these two
+
+921
+00:38:48,000 --> 00:38:50,000
+is now the first two
+
+922
+00:38:50,000 --> 00:38:52,000
+The first two were taken later
+
+923
+00:38:52,000 --> 00:38:53,000
+These two Nobel Prize winners
+
+924
+00:38:53,000 --> 00:38:55,000
+British scientists
+
+925
+00:38:55,000 --> 00:38:57,000
+Then this place this article
+
+926
+00:38:57,000 --> 00:38:59,000
+is talking
+
+927
+00:39:00,000 --> 00:39:03,000
+This thing is actually a transistor thing
+
+928
+00:39:03,000 --> 00:39:06,000
+他說atomic to the thing carbon films
+
+929
+00:39:06,000 --> 00:39:07,000
+everyone understands this
+
+930
+00:39:07,000 --> 00:39:09,000
+which means it's very, very thin
+
+931
+00:39:09,000 --> 00:39:11,000
+It is a two-dimensional thin film
+
+932
+00:39:11,000 --> 00:39:14,000
+He said he separated it
+
+933
+00:39:14,000 --> 00:39:16,000
+Why can't I get it?
+
+934
+00:39:16,000 --> 00:39:18,000
+That's mainly because it mentions one thing here
+
+935
+00:39:18,000 --> 00:39:22,000
+That is to say, this article confirms that
+
+936
+00:39:22,000 --> 00:39:25,000
+We can use it as a material for transistors
+
+937
+00:39:25,000 --> 00:39:27,000
+Everyone knows that transistors are a very important
+
+938
+00:39:27,000 --> 00:39:28,000
+on electronic circle
+
+939
+00:39:28,000 --> 00:39:30,000
+important things
+
+940
+00:39:30,000 --> 00:39:32,000
+I'll talk about it later
+
+941
+00:39:32,000 --> 00:39:34,000
+Why do you think this is
+
+942
+00:39:34,000 --> 00:39:35,000
+Will do transistor material
+
+943
+00:39:35,000 --> 00:39:36,000
+will be so so so important
+
+944
+00:39:36,000 --> 00:39:38,000
+Then it is here to say
+
+945
+00:39:38,000 --> 00:39:40,000
+they found out
+
+946
+00:39:40,000 --> 00:39:44,000
+This can be used as a feel effect transistor
+
+947
+00:39:44,000 --> 00:39:46,000
+Then it can be used with
+
+948
+00:39:46,000 --> 00:39:48,000
+It can do some switch
+
+949
+00:39:48,000 --> 00:39:49,000
+that is, the one that changes it
+
+950
+00:39:49,000 --> 00:39:53,000
+The thing that replaces the charged particles inside
+
+951
+00:39:53,000 --> 00:39:55,000
+can have a great function
+
+952
+00:39:55,000 --> 00:39:58,000
+and the reason it won the prize
+
+953
+00:39:58,000 --> 00:40:00,000
+because it
+
+954
+00:40:00,000 --> 00:40:04,600
+Can be equal to a new field of innovation
+
+955
+00:40:04,600 --> 00:40:07,560
+they mean
+
+956
+00:40:09,060 --> 00:40:10,240
+words displayed
+
+957
+00:40:10,240 --> 00:40:12,600
+This thing has big, big potential
+
+958
+00:40:12,900 --> 00:40:14,700
+Then they are the first to be able to
+
+959
+00:40:15,300 --> 00:40:18,740
+able to make the first measurement
+
+960
+00:40:19,140 --> 00:40:21,640
+It's actually a very, very simple experiment.
+
+961
+00:40:21,640 --> 00:40:26,500
+Everyone thinks that physicists need very complicated and complicated instruments to do experiments.
+
+962
+00:40:27,040 --> 00:40:28,200
+or to do
+
+963
+00:40:28,200 --> 00:40:30,100
+In this experiment it is actually very simple
+
+964
+00:40:30,100 --> 00:40:32,400
+That is to say, after this article comes out
+
+965
+00:40:32,400 --> 00:40:35,600
+In fact, many, many laboratories can
+
+966
+00:40:35,600 --> 00:40:37,900
+do this next
+
+967
+00:40:38,900 --> 00:40:43,700
+In fact, this lab in many schools
+
+968
+00:40:43,700 --> 00:40:46,800
+also started to be able to make it out
+
+969
+00:40:46,800 --> 00:40:51,000
+Because the procedure in this lab is actually very simple
+
+970
+00:40:51,000 --> 00:40:53,600
+Of course now slowly everyone wants to take that
+
+971
+00:40:53,600 --> 00:40:55,500
+The system is getting cleaner
+
+972
+00:40:55,500 --> 00:40:57,000
+there is a new way
+
+973
+00:40:57,000 --> 00:40:57,500
+OK
+
+974
+00:40:57,500 --> 00:40:59,800
+Then see the dashboard
+
+975
+00:41:00,000 --> 00:41:02,960
+Before I get to the following
+
+976
+00:41:02,960 --> 00:41:04,960
+because how to do this experiment
+
+977
+00:41:04,960 --> 00:41:07,460
+This is a very interesting phenomenon
+
+978
+00:41:07,460 --> 00:41:13,300
+I usually show this to my students, which means
+
+979
+00:41:13,300 --> 00:41:16,200
+It will tell you how to do it on YouTube
+
+980
+00:41:16,200 --> 00:41:19,160
+So what he did was simple
+
+981
+00:41:19,160 --> 00:41:20,800
+get one of your tapes
+
+982
+00:41:20,800 --> 00:41:23,600
+then you take a
+
+983
+00:41:23,600 --> 00:41:26,360
+Pick out that pencil heart
+
+984
+00:41:26,360 --> 00:41:28,560
+on top of the tape
+
+985
+00:41:29,560 --> 00:41:33,160
+You know the pencil has many, many, many layers in its heart
+
+986
+00:41:33,160 --> 00:41:34,560
+Every floor is very close
+
+987
+00:41:34,560 --> 00:41:36,860
+usually you take a small one
+
+988
+00:41:36,860 --> 00:41:40,260
+There are about a few million layers in mm
+
+989
+00:41:40,260 --> 00:41:42,560
+But it doesn't matter, he just uses tape like this
+
+990
+00:41:42,560 --> 00:41:43,360
+don't want to be like
+
+991
+00:41:43,360 --> 00:41:45,660
+inone to stick together and separate
+
+992
+00:41:45,660 --> 00:41:47,960
+He is like saying that I have split several layers
+
+993
+00:41:47,960 --> 00:41:50,860
+look like this
+
+994
+00:41:50,860 --> 00:41:52,460
+really really really they do it
+
+995
+00:41:52,460 --> 00:41:53,660
+can do some measurements
+
+996
+00:41:53,660 --> 00:41:54,960
+it's not fake
+
+997
+00:41:54,960 --> 00:41:58,460
+So he breaks up and repeats it several times
+
+998
+00:41:58,460 --> 00:42:00,460
+Every time he weighs it
+
+999
+00:42:00,000 --> 00:42:02,000
+Make it thinner without touching it once
+
+1000
+00:42:02,000 --> 00:42:04,000
+at the end
+
+1001
+00:42:04,000 --> 00:42:06,000
+It takes a piece of Silicon
+
+1002
+00:42:06,000 --> 00:42:08,000
+It's like something we use to make the bottom
+
+1003
+00:42:08,000 --> 00:42:11,000
+put this thing on it
+
+1004
+00:42:11,000 --> 00:42:14,000
+scrape it off
+
+1005
+00:42:14,000 --> 00:42:17,000
+spread to the surface
+
+1006
+00:42:17,000 --> 00:42:21,000
+Then if you find the thinnest layer
+
+1007
+00:42:21,000 --> 00:42:24,000
+The thinnest seems to be very close to transparent
+
+1008
+00:42:24,000 --> 00:42:26,000
+very thin very thin on top
+
+1009
+00:42:26,000 --> 00:42:27,000
+then remove
+
+1010
+00:42:27,000 --> 00:42:29,000
+There is a little bit when it is removed like this
+
+1011
+00:42:29,000 --> 00:42:31,000
+will stick to it
+
+1012
+00:42:31,000 --> 00:42:32,000
+then put this thing
+
+1013
+00:42:32,000 --> 00:42:34,000
+get an optical microscope
+
+1014
+00:42:34,000 --> 00:42:35,000
+it's more complicated
+
+1015
+00:42:35,000 --> 00:42:37,000
+This family does not have
+
+1016
+00:42:37,000 --> 00:42:39,000
+to light microscope
+
+1017
+00:42:39,000 --> 00:42:40,000
+then go to
+
+1018
+00:42:40,000 --> 00:42:42,000
+Find an assistant for every college student in school
+
+1019
+00:42:42,000 --> 00:42:43,000
+you can find
+
+1020
+00:42:43,000 --> 00:42:44,000
+then just look for it
+
+1021
+00:42:44,000 --> 00:42:46,000
+Here is a thin
+
+1022
+00:42:46,000 --> 00:42:47,000
+Can't see clearly
+
+1023
+00:42:47,000 --> 00:42:48,000
+because it's here
+
+1024
+00:42:48,000 --> 00:42:50,000
+it seems to be transparent
+
+1025
+00:42:50,000 --> 00:42:52,000
+It seems that this place is opaque
+
+1026
+00:42:52,000 --> 00:42:53,000
+then carefully measure
+
+1027
+00:42:53,000 --> 00:42:55,000
+That's one or two layers
+
+1028
+00:42:55,000 --> 00:42:57,000
+shixi is there
+
+1029
+00:42:57,000 --> 00:42:59,000
+So this is
+
+1030
+00:42:59,000 --> 00:43:00,000
+when this thing comes out
+
+1031
+00:43:00,000 --> 00:43:02,000
+Everyone thinks I can do it right now
+
+1032
+00:43:02,000 --> 00:43:03,400
+I'll be able to take some measurements right away
+
+1033
+00:43:03,400 --> 00:43:05,040
+So everyone this is a
+
+1034
+00:43:05,360 --> 00:43:07,560
+It's like saying that it's a rare opportunity to say
+
+1035
+00:43:07,560 --> 00:43:09,560
+you can produce these things
+
+1036
+00:43:09,560 --> 00:43:11,760
+At the beginning, these two people did this because they
+
+1037
+00:43:11,760 --> 00:43:13,640
+to measure and they speak in Double
+
+1038
+00:43:13,640 --> 00:43:14,040
+so
+
+1039
+00:43:14,480 --> 00:43:15,440
+ok now
+
+1040
+00:43:16,440 --> 00:43:17,240
+Why
+
+1041
+00:43:17,400 --> 00:43:18,320
+This is a
+
+1042
+00:43:19,240 --> 00:43:20,840
+an important breakthrough
+
+1043
+00:43:21,280 --> 00:43:23,600
+Because it seems so simple
+
+1044
+00:43:23,600 --> 00:43:24,760
+one by one
+
+1045
+00:43:24,760 --> 00:43:25,760
+one slice
+
+1046
+00:43:26,040 --> 00:43:27,400
+A membrane of a nanometer
+
+1047
+00:43:27,400 --> 00:43:29,040
+something amazing
+
+1048
+00:43:29,280 --> 00:43:30,880
+That's mainly because
+
+1049
+00:43:31,440 --> 00:43:33,440
+in our electronics industry
+
+1050
+00:43:33,760 --> 00:43:35,920
+everyone has heard
+
+1051
+00:43:35,920 --> 00:43:36,480
+Selick
+
+1052
+00:43:36,480 --> 00:43:38,080
+All our iPhones
+
+1053
+00:43:38,080 --> 00:43:39,520
+everything inside the computer
+
+1054
+00:43:39,520 --> 00:43:40,720
+now everything is
+
+1055
+00:43:41,040 --> 00:43:41,880
+made with fine
+
+1056
+00:43:41,880 --> 00:43:43,120
+That's an entire industry
+
+1057
+00:43:43,760 --> 00:43:45,440
+since 1948
+
+1058
+00:43:46,360 --> 00:43:46,880
+Then
+
+1059
+00:43:47,160 --> 00:43:48,560
+These transistors are
+
+1060
+00:43:48,880 --> 00:43:49,880
+was found out
+
+1061
+00:43:49,880 --> 00:43:50,760
+invented
+
+1062
+00:43:50,760 --> 00:43:51,760
+1948
+
+1063
+00:43:51,960 --> 00:43:52,720
+Then what
+
+1064
+00:43:53,800 --> 00:43:54,880
+we were
+
+1065
+00:43:55,080 --> 00:43:55,880
+selected
+
+1066
+00:43:56,200 --> 00:43:57,880
+The elements of drama are those of us
+
+1067
+00:43:58,200 --> 00:43:59,080
+these enemies
+
+1068
+00:43:59,080 --> 00:44:00,000
+so we had
+
+1069
+00:44:00,000 --> 00:44:03,000
+Single Crystal is a single catty system
+
+1070
+00:44:03,000 --> 00:44:05,500
+principle we start mass manufacturing
+
+1071
+00:44:05,500 --> 00:44:07,160
+Then this happened
+
+1072
+00:44:07,160 --> 00:44:09,000
+invented these commercial
+
+1073
+00:44:09,000 --> 00:44:10,000
+This is Pian Junking
+
+1074
+00:44:10,000 --> 00:44:13,000
+Some form of these transistors
+
+1075
+00:44:13,000 --> 00:44:14,500
+and then in the next
+
+1076
+00:44:14,500 --> 00:44:16,700
+Birth of the collective line 1958
+
+1077
+00:44:16,700 --> 00:44:18,660
+It was many years ago
+
+1078
+00:44:18,660 --> 00:44:21,000
+But after this collective circuit is produced in this way,
+
+1079
+00:44:21,000 --> 00:44:22,800
+we can mass
+
+1080
+00:44:22,800 --> 00:44:24,500
+make things more and more complicated
+
+1081
+00:44:24,500 --> 00:44:26,500
+and then the features get better and better
+
+1082
+00:44:26,500 --> 00:44:27,300
+everybody knows
+
+1083
+00:44:27,300 --> 00:44:30,800
+Then around 1965
+
+1084
+00:44:30,800 --> 00:44:32,800
+There was a man named Gordon Moore
+
+1085
+00:44:32,800 --> 00:44:35,300
+He made a statement
+
+1086
+00:44:35,300 --> 00:44:37,300
+That is to say, he saw
+
+1087
+00:44:37,300 --> 00:44:40,300
+The development of the whole manufacturing industry
+
+1088
+00:44:40,300 --> 00:44:42,300
+Then he predicted
+
+1089
+00:44:42,300 --> 00:44:45,300
+us transistors
+
+1090
+00:44:45,300 --> 00:44:47,300
+Or these processors will get better and better
+
+1091
+00:44:47,300 --> 00:44:50,300
+Then his development trend is to say
+
+1092
+00:44:50,300 --> 00:44:54,300
+We are on a CPU in a
+
+1093
+00:44:54,300 --> 00:44:57,300
+What are those on the component called?
+
+1094
+00:44:57,300 --> 00:44:58,300
+Number of transistors
+
+1095
+00:44:58,300 --> 00:44:59,300
+U.S.
+
+1096
+00:45:00,000 --> 00:45:04,000
+It is estimated that it will double every two years
+
+1097
+00:45:04,000 --> 00:45:05,600
+doubles every two years
+
+1098
+00:45:05,600 --> 00:45:09,800
+So it was painted from 1971 to 2001
+
+1099
+00:45:09,800 --> 00:45:13,000
+This is the number of our transistors
+
+1100
+00:45:13,000 --> 00:45:16,400
+You take one of our internal GPUs
+
+1101
+00:45:16,400 --> 00:45:20,400
+Inside the Central Process Unit
+
+1102
+00:45:20,400 --> 00:45:22,400
+The number of transistors on your
+
+1103
+00:45:22,400 --> 00:45:25,000
+I can probably see it from behind. I can't see clearly
+
+1104
+00:45:25,000 --> 00:45:26,000
+This is Painting 4
+
+1105
+00:45:26,000 --> 00:45:28,000
+Everyone remembers that in 2001
+
+1106
+00:45:28,000 --> 00:45:30,000
+Painting 4 probably has
+
+1107
+00:45:30,000 --> 00:45:32,000
+It's about 10 million here
+
+1108
+00:45:32,000 --> 00:45:35,000
+Thousands of transistors are on it
+
+1109
+00:45:35,000 --> 00:45:37,000
+on the latest computer
+
+1110
+00:45:37,000 --> 00:45:39,000
+You see Painting 4
+
+1111
+00:45:39,000 --> 00:45:41,000
+The value of your computer has already arrived
+
+1112
+00:45:41,000 --> 00:45:45,000
+A, say, a billion transistors on top of
+
+1113
+00:45:45,000 --> 00:45:48,000
+So so many transistors have to be placed on it
+
+1114
+00:45:48,000 --> 00:45:51,000
+Each must be functioning normally
+
+1115
+00:45:51,000 --> 00:45:53,000
+your computer will be accurate
+
+1116
+00:45:53,000 --> 00:45:55,000
+no problem
+
+1117
+00:45:55,000 --> 00:45:56,000
+So in this situation
+
+1118
+00:45:56,000 --> 00:45:58,000
+You can find this thing is
+
+1119
+00:45:58,000 --> 00:46:00,000
+Getting smaller and smaller
+
+1120
+00:46:00,000 --> 00:46:02,760
+And what about this line
+
+1121
+00:46:02,760 --> 00:46:03,700
+It is a
+
+1122
+00:46:03,700 --> 00:46:04,720
+our side is
+
+1123
+00:46:04,720 --> 00:46:05,760
+is not a Linear
+
+1124
+00:46:05,760 --> 00:46:06,760
+is a Lock-Rismick
+
+1125
+00:46:06,760 --> 00:46:08,160
+It's that Lock-Scale
+
+1126
+00:46:08,160 --> 00:46:10,160
+So if this is the case, it will always be double and double
+
+1127
+00:46:10,160 --> 00:46:11,260
+So if this is the case
+
+1128
+00:46:11,260 --> 00:46:13,360
+Impossible to keep going up
+
+1129
+00:46:13,360 --> 00:46:15,560
+we are looking for
+
+1130
+00:46:15,560 --> 00:46:18,560
+in the fine element
+
+1131
+00:46:18,560 --> 00:46:21,760
+This thing is almost at a bottleneck
+
+1132
+00:46:21,760 --> 00:46:24,760
+that's there
+
+1133
+00:46:24,760 --> 00:46:25,860
+in such a development
+
+1134
+00:46:25,860 --> 00:46:28,760
+This is actually a history of the twentieth century
+
+1135
+00:46:28,760 --> 00:46:31,360
+is a very very very special situation
+
+1136
+00:46:31,360 --> 00:46:33,360
+because you probably said
+
+1137
+00:46:33,360 --> 00:46:35,760
+We probably only buy computers
+
+1138
+00:46:35,760 --> 00:46:37,160
+every year every two years
+
+1139
+00:46:37,160 --> 00:46:38,760
+things are getting better
+
+1140
+00:46:38,760 --> 00:46:40,760
+price did not increase
+
+1141
+00:46:40,760 --> 00:46:42,960
+It's outdated after a year or two
+
+1142
+00:46:42,960 --> 00:46:44,560
+you can imagine you buy a car
+
+1143
+00:46:44,560 --> 00:46:46,560
+We are twenty or thirty years from now
+
+1144
+00:46:46,560 --> 00:46:49,560
+Your car's speed is about the same
+
+1145
+00:46:49,560 --> 00:46:50,560
+you never said
+
+1146
+00:46:50,560 --> 00:46:54,760
+There is room for improvement like this
+
+1147
+00:46:54,760 --> 00:46:55,760
+so
+
+1148
+00:46:55,760 --> 00:46:57,260
+The result of that
+
+1149
+00:46:57,260 --> 00:46:58,260
+that is
+
+1150
+00:46:58,260 --> 00:47:00,260
+price has been
+
+1151
+00:47:00,000 --> 00:47:05,000
+So the price of each Processor
+
+1152
+00:47:05,000 --> 00:47:07,000
+Per transistor cycle
+
+1153
+00:47:07,000 --> 00:47:09,000
+you do the same buy the same
+
+1154
+00:47:09,000 --> 00:47:11,000
+computer for the same money
+
+1155
+00:47:11,000 --> 00:47:13,000
+faster and faster
+
+1156
+00:47:13,000 --> 00:47:15,000
+more and more
+
+1157
+00:47:15,000 --> 00:47:18,000
+In 20, 30, 30, 40 years
+
+1158
+00:47:18,000 --> 00:47:20,000
+this is big
+
+1159
+00:47:20,000 --> 00:47:23,000
+for the progress of our species
+
+1160
+00:47:23,000 --> 00:47:26,000
+The development of many things is very, very
+
+1161
+00:47:26,000 --> 00:47:28,000
+the impact is very far-reaching
+
+1162
+00:47:28,000 --> 00:47:30,000
+Although with your mobile phone
+
+1163
+00:47:30,000 --> 00:47:32,000
+Features in smartphones
+
+1164
+00:47:32,000 --> 00:47:33,000
+is very advanced
+
+1165
+00:47:33,000 --> 00:47:35,000
+about twenty or thirty years ago
+
+1166
+00:47:35,000 --> 00:47:36,000
+you need a big computer
+
+1167
+00:47:36,000 --> 00:47:38,000
+one does the same thing
+
+1168
+00:47:38,000 --> 00:47:40,000
+So say in
+
+1169
+00:47:40,000 --> 00:47:42,000
+such a progress
+
+1170
+00:47:42,000 --> 00:47:44,000
+everyone will find out
+
+1171
+00:47:44,000 --> 00:47:46,000
+this can't go on
+
+1172
+00:47:46,000 --> 00:47:49,000
+So at that time everyone wanted to say
+
+1173
+00:47:49,000 --> 00:47:50,000
+is having a...
+
+1174
+00:47:50,000 --> 00:47:53,000
+This just that Law
+
+1175
+00:47:53,000 --> 00:47:54,000
+maybe...
+
+1176
+00:47:54,000 --> 00:47:56,000
+one day will stop
+
+1177
+00:47:56,000 --> 00:47:57,000
+why
+
+1178
+00:47:57,000 --> 00:47:59,000
+We do this when the current motor body is loose
+
+1179
+00:47:59,000 --> 00:48:00,000
+there will be many...
+
+1180
+00:48:00,000 --> 00:48:01,000
+a lot of problems happen
+
+1181
+00:48:01,000 --> 00:48:03,000
+Plus when you have so much stuff in there
+
+1182
+00:48:03,000 --> 00:48:06,000
+When a lot of electrons are flowing around inside
+
+1183
+00:48:06,000 --> 00:48:08,000
+you generate a lot of heat
+
+1184
+00:48:08,000 --> 00:48:10,000
+lots of resistors
+
+1185
+00:48:10,000 --> 00:48:12,000
+Then we'll have some
+
+1186
+00:48:12,000 --> 00:48:15,000
+the problems in these
+
+1187
+00:48:15,000 --> 00:48:16,000
+then it's all over that
+
+1188
+00:48:16,000 --> 00:48:19,000
+The thickness of the Jetplasma
+
+1189
+00:48:19,000 --> 00:48:21,000
+Then we can't put something
+
+1190
+00:48:21,000 --> 00:48:22,000
+keep shrinking
+
+1191
+00:48:22,000 --> 00:48:25,000
+You also shrink to the end to get to the original
+
+1192
+00:48:25,000 --> 00:48:28,000
+So in an industry like this
+
+1193
+00:48:28,000 --> 00:48:30,000
+Under such a big and such a big industry
+
+1194
+00:48:30,000 --> 00:48:32,000
+everyone is thinking
+
+1195
+00:48:32,000 --> 00:48:34,000
+what to do next
+
+1196
+00:48:34,000 --> 00:48:36,000
+so in
+
+1197
+00:48:36,000 --> 00:48:38,000
+So at this time everyone is
+
+1198
+00:48:38,000 --> 00:48:41,000
+I want to ask what is an alternative
+
+1199
+00:48:41,000 --> 00:48:42,000
+tie this element
+
+1200
+00:48:42,000 --> 00:48:43,000
+because we almost
+
+1201
+00:48:43,000 --> 00:48:45,000
+entire electronics industry
+
+1202
+00:48:45,000 --> 00:48:49,000
+It's just one industry in one department
+
+1203
+00:48:49,000 --> 00:48:51,000
+a lot of material
+
+1204
+00:48:51,000 --> 00:48:53,000
+ever been considered
+
+1205
+00:48:53,000 --> 00:48:55,000
+like this is a
+
+1206
+00:48:55,000 --> 00:48:59,000
+A semiconductor of the so-called III-V group
+
+1207
+00:48:59,000 --> 00:49:00,000
+There are these different
+
+1208
+00:49:00,000 --> 00:49:01,620
+these elements
+
+1209
+00:49:01,620 --> 00:49:04,120
+that they have some good properties
+
+1210
+00:49:04,120 --> 00:49:06,000
+There is something called this Mobility
+
+1211
+00:49:06,000 --> 00:49:08,160
+Mobility basically means
+
+1212
+00:49:08,160 --> 00:49:09,920
+when you test the voltage
+
+1213
+00:49:09,920 --> 00:49:12,200
+how fast can your electron go
+
+1214
+00:49:12,200 --> 00:49:13,600
+you can imagine
+
+1215
+00:49:13,600 --> 00:49:15,120
+or its
+
+1216
+00:49:15,120 --> 00:49:17,160
+its frequency
+
+1217
+00:49:17,160 --> 00:49:19,880
+that is to say it can make
+
+1218
+00:49:19,880 --> 00:49:21,680
+Those are the frequencies of the components
+
+1219
+00:49:21,680 --> 00:49:24,600
+That's what it uses
+
+1220
+00:49:24,600 --> 00:49:26,920
+Might have some better effects
+
+1221
+00:49:26,920 --> 00:49:29,000
+but these things are very rail
+
+1222
+00:49:29,560 --> 00:49:31,600
+Then there are some problems
+
+1223
+00:49:31,600 --> 00:49:34,160
+The middle insulator is hard to find
+
+1224
+00:49:34,160 --> 00:49:36,800
+at the same time
+
+1225
+00:49:36,800 --> 00:49:39,240
+also thought of some
+
+1226
+00:49:39,240 --> 00:49:43,040
+other bigger
+
+1227
+00:49:43,040 --> 00:49:45,840
+These semiconductors of BangGap
+
+1228
+00:49:45,840 --> 00:49:46,880
+those like
+
+1229
+00:49:46,880 --> 00:49:48,520
+Even the Diamond itself
+
+1230
+00:49:48,520 --> 00:49:50,640
+has also been considered
+
+1231
+00:49:50,640 --> 00:49:52,760
+Of course they have their benefits
+
+1232
+00:49:52,760 --> 00:49:54,680
+we have some
+
+1233
+00:49:54,680 --> 00:49:56,200
+like ibm
+
+1234
+00:49:56,200 --> 00:50:00,080
+that was 몇 years ago
+
+1235
+00:50:00,000 --> 00:50:01,240
+made a big investment
+
+1236
+00:50:01,240 --> 00:50:05,040
+Then decided to say that there is no way to get a good product
+
+1237
+00:50:05,040 --> 00:50:07,300
+There's a downside to all these things
+
+1238
+00:50:07,300 --> 00:50:09,840
+That is not very cheap
+
+1239
+00:50:09,840 --> 00:50:12,300
+then on production
+
+1240
+00:50:12,300 --> 00:50:13,740
+If you want to grow a good body
+
+1241
+00:50:13,740 --> 00:50:15,540
+it's not easy
+
+1242
+00:50:15,540 --> 00:50:20,100
+So in the entire electronics industry
+
+1243
+00:50:20,100 --> 00:50:23,100
+Been trying to say we're looking for a new material
+
+1244
+00:50:23,100 --> 00:50:24,100
+new material
+
+1245
+00:50:24,100 --> 00:50:27,540
+So when this graphite west thing came out
+
+1246
+00:50:27,940 --> 00:50:31,540
+Everyone became very talkative
+
+1247
+00:50:32,980 --> 00:50:34,940
+think it's a big thing
+
+1248
+00:50:34,940 --> 00:50:36,180
+then why
+
+1249
+00:50:36,180 --> 00:50:39,680
+This incident started when we explored the museum in Nano
+
+1250
+00:50:39,680 --> 00:50:40,640
+everyone can see
+
+1251
+00:50:40,640 --> 00:50:43,040
+it has a nice nature
+
+1252
+00:50:43,040 --> 00:50:45,080
+This nice property means that
+
+1253
+00:50:45,080 --> 00:50:46,280
+its
+
+1254
+00:50:46,280 --> 00:50:49,780
+For example, you take a copper wire or something
+
+1255
+00:50:49,780 --> 00:50:51,540
+you pass the current
+
+1256
+00:50:51,540 --> 00:50:53,940
+You're going to measure its resistance later
+
+1257
+00:50:53,940 --> 00:50:55,780
+that's usually the longer words
+
+1258
+00:50:55,780 --> 00:50:56,640
+The resistance will be larger
+
+1259
+00:50:56,640 --> 00:50:59,380
+Because electrons have to travel such a long route
+
+1260
+00:51:00,000 --> 00:51:04,680
+As for nanoprobes or other similar structures
+
+1261
+00:51:04,680 --> 00:51:05,640
+this is an experiment
+
+1262
+00:51:05,640 --> 00:51:12,060
+That is to say, these conduction numbers and lengths
+
+1263
+00:51:12,060 --> 00:51:14,520
+that's almost irrelevant
+
+1264
+00:51:14,520 --> 00:51:18,320
+is a flat one line here
+
+1265
+00:51:18,320 --> 00:51:20,160
+means that I increase its length
+
+1266
+00:51:20,160 --> 00:51:22,680
+I don't increase its resistance
+
+1267
+00:51:22,680 --> 00:51:25,560
+Then this is a very, very good image
+
+1268
+00:51:25,560 --> 00:51:27,360
+That is to say, its resistance is very small
+
+1269
+00:51:27,360 --> 00:51:30,840
+it doesn't lose much heat here
+
+1270
+00:51:30,840 --> 00:51:35,400
+The reason for this is in its electronic structure
+
+1271
+00:51:35,400 --> 00:51:39,000
+In its SP2 arrangement
+
+1272
+00:51:39,000 --> 00:51:40,880
+Then there is a more advanced theory
+
+1273
+00:51:40,880 --> 00:51:44,960
+to explain it in very physical terms
+
+1274
+00:51:44,960 --> 00:51:46,440
+actually go figure it out
+
+1275
+00:51:46,440 --> 00:51:49,800
+I will not go through those for now
+
+1276
+00:51:49,800 --> 00:51:53,720
+Because it has something to do with some very interesting physical phenomena
+
+1277
+00:51:53,720 --> 00:51:56,760
+You can see it in this article where it says
+
+1278
+00:51:56,760 --> 00:51:59,480
+It is notation and neutrino like particle
+
+1279
+00:52:00,000 --> 00:52:02,400
+It's those high energy ones
+
+1280
+00:52:02,400 --> 00:52:05,240
+Some Particles in Ratvistic
+
+1281
+00:52:05,240 --> 00:52:06,340
+so it's in this
+
+1282
+00:52:06,340 --> 00:52:07,680
+some of it
+
+1283
+00:52:07,680 --> 00:52:12,040
+When the mathematical structure and that describe some properties
+
+1284
+00:52:12,040 --> 00:52:14,080
+It has something to do with these
+
+1285
+00:52:14,080 --> 00:52:15,840
+So for a physicist
+
+1286
+00:52:15,840 --> 00:52:18,540
+it's an interesting material
+
+1287
+00:52:18,540 --> 00:52:21,840
+Then there are some deep physics in it
+
+1288
+00:52:21,840 --> 00:52:25,280
+how to calculate it how to understand its nature
+
+1289
+00:52:25,280 --> 00:52:27,000
+What about practically?
+
+1290
+00:52:27,000 --> 00:52:29,200
+It is a good electronic material
+
+1291
+00:52:29,700 --> 00:52:32,400
+Then this time was when I was exploring the museum in Nano
+
+1292
+00:52:32,400 --> 00:52:33,900
+has been discovered
+
+1293
+00:52:33,900 --> 00:52:37,000
+That's just to say that nanometer exploration is not easy to master
+
+1294
+00:52:37,000 --> 00:52:38,900
+not working well
+
+1295
+00:52:38,900 --> 00:52:43,140
+So when the two-dimensional space
+
+1296
+00:52:43,140 --> 00:52:45,700
+The one with those British scientists in 2004
+
+1297
+00:52:45,700 --> 00:52:47,000
+lab found
+
+1298
+00:52:47,000 --> 00:52:49,300
+you can make this piece of stuff
+
+1299
+00:52:49,300 --> 00:52:53,700
+Like that video on YouTube I just had
+
+1300
+00:52:53,700 --> 00:52:56,300
+It is convenient for everyone to make it
+
+1301
+00:52:56,300 --> 00:52:57,600
+Then everyone thinks
+
+1302
+00:52:57,600 --> 00:53:00,100
+this is a very very good trick
+
+1303
+00:53:00,000 --> 00:53:02,880
+here in this one
+
+1304
+00:53:03,040 --> 00:53:05,240
+I guess it's probably the only place
+
+1305
+00:53:05,400 --> 00:53:06,880
+you can see an equation stone
+
+1306
+00:53:07,040 --> 00:53:09,680
+So this is our structure
+
+1307
+00:53:09,840 --> 00:53:13,040
+So this thing was actually in the 1940s
+
+1308
+00:53:13,200 --> 00:53:15,880
+Everyone thought of it in the 1950s
+
+1309
+00:53:16,040 --> 00:53:17,040
+a theorist thinks
+
+1310
+00:53:17,200 --> 00:53:18,680
+If there is a thing like this
+
+1311
+00:53:18,840 --> 00:53:20,440
+what kind of nature will it have
+
+1312
+00:53:20,600 --> 00:53:22,280
+At that time, I already counted some
+
+1313
+00:53:22,440 --> 00:53:23,280
+the nature of this
+
+1314
+00:53:23,440 --> 00:53:24,840
+this is a picture
+
+1315
+00:53:25,000 --> 00:53:28,440
+I draw here and this side is energy
+
+1316
+00:53:28,440 --> 00:53:30,000
+Here it actually says something like
+
+1317
+00:53:30,160 --> 00:53:31,560
+momentum is momentum
+
+1318
+00:53:31,720 --> 00:53:33,240
+electronic one
+
+1319
+00:53:33,400 --> 00:53:37,280
+Usually in any solid structure
+
+1320
+00:53:37,440 --> 00:53:38,480
+or inside the structure
+
+1321
+00:53:38,640 --> 00:53:41,600
+We usually look at the so-called energy levels like this
+
+1322
+00:53:41,760 --> 00:53:45,480
+The special place is in this part
+
+1323
+00:53:45,640 --> 00:53:49,560
+Because this part of its energy and its momentum
+
+1324
+00:53:49,720 --> 00:53:55,840
+There is a direct contrast between
+
+1325
+00:53:56,000 --> 00:53:57,400
+because we are in different
+
+1326
+00:53:57,400 --> 00:53:59,160
+inside the usual electronics
+
+1327
+00:53:59,320 --> 00:53:59,840
+its
+
+1328
+00:54:00,000 --> 00:54:02,360
+Its engineering equation should look like this
+
+1329
+00:54:02,360 --> 00:54:04,880
+In ordinary gene numbers, ordinary semiconductors
+
+1330
+00:54:04,880 --> 00:54:06,560
+This is actually a
+
+1331
+00:54:06,560 --> 00:54:08,400
+Momentum P-Square
+
+1332
+00:54:08,900 --> 00:54:10,860
+stored energy multiplied by 2
+
+1333
+00:54:10,860 --> 00:54:12,200
+I think you think high school physics
+
+1334
+00:54:12,200 --> 00:54:14,380
+is the momentum squared
+
+1335
+00:54:14,380 --> 00:54:18,640
+Stored by mass multiplied by 2
+
+1336
+00:54:18,640 --> 00:54:20,000
+will get your momentum
+
+1337
+00:54:20,000 --> 00:54:22,280
+so it's basically the same thing
+
+1338
+00:54:22,280 --> 00:54:23,680
+But if this is the case
+
+1339
+00:54:23,680 --> 00:54:25,840
+such a description
+
+1340
+00:54:25,840 --> 00:54:27,680
+is a completely different one
+
+1341
+00:54:28,080 --> 00:54:30,800
+a structure of electrons
+
+1342
+00:54:30,800 --> 00:54:32,320
+in such a nature
+
+1343
+00:54:32,320 --> 00:54:33,720
+so
+
+1344
+00:54:33,720 --> 00:54:36,080
+everyone has one
+
+1345
+00:54:36,080 --> 00:54:38,120
+understanding is
+
+1346
+00:54:38,120 --> 00:54:40,720
+it is a very special substance
+
+1347
+00:54:40,720 --> 00:54:42,520
+then we are in
+
+1348
+00:54:42,520 --> 00:54:44,120
+You've probably heard one
+
+1349
+00:54:44,120 --> 00:54:45,160
+a term like this
+
+1350
+00:54:45,160 --> 00:54:47,000
+That is to say, it looks like this
+
+1351
+00:54:47,000 --> 00:54:49,200
+A relationship of linear
+
+1352
+00:54:49,200 --> 00:54:50,360
+will get
+
+1353
+00:54:50,360 --> 00:54:51,800
+here will get some
+
+1354
+00:54:51,800 --> 00:54:54,520
+very different electronic structure
+
+1355
+00:54:54,520 --> 00:54:55,240
+so i think
+
+1356
+00:54:55,240 --> 00:54:57,440
+That's probably all I'm talking about here.
+
+1357
+00:54:57,480 --> 00:54:59,480
+won't go down that
+
+1358
+00:54:59,480 --> 00:55:01,200
+If you are interested
+
+1359
+00:55:00,000 --> 00:55:03,000
+If you are interested, we can discuss it again
+
+1360
+00:55:03,640 --> 00:55:05,440
+its main benefit
+
+1361
+00:55:05,840 --> 00:55:08,640
+It is the so-called Mobility that I just mentioned
+
+1362
+00:55:08,640 --> 00:55:10,840
+That is to say, after you add a voltage
+
+1363
+00:55:10,840 --> 00:55:14,440
+How can electrons move freely?
+
+1364
+00:55:14,440 --> 00:55:17,600
+Still bumping into some big resistors
+
+1365
+00:55:17,800 --> 00:55:21,040
+That is for Graphene and Smootc
+
+1366
+00:55:21,200 --> 00:55:23,500
+We usually use a Mobility like this
+
+1367
+00:55:23,500 --> 00:55:25,740
+something like this to represent
+
+1368
+00:55:25,740 --> 00:55:27,040
+it is quite large
+
+1369
+00:55:27,280 --> 00:55:29,040
+Usually Silicone is
+
+1370
+00:55:29,040 --> 00:55:30,240
+Like Graphene
+
+1371
+00:55:30,240 --> 00:55:32,080
+This is probably more than
+
+1372
+00:55:32,400 --> 00:55:33,640
+Many, more than 100 times
+
+1373
+00:55:34,080 --> 00:55:37,640
+So this is a very good property
+
+1374
+00:55:37,640 --> 00:55:39,040
+This means that
+
+1375
+00:55:39,200 --> 00:55:41,880
+When our electrons flow here
+
+1376
+00:55:41,880 --> 00:55:44,640
+it's been a long time
+
+1377
+00:55:44,640 --> 00:55:45,840
+About a few microns
+
+1378
+00:55:45,840 --> 00:55:48,200
+The micron is about 10 of -6 when it is released
+
+1379
+00:55:48,200 --> 00:55:49,600
+there will be a collision
+
+1380
+00:55:50,040 --> 00:55:53,400
+Its Linfree Path is how long it is
+
+1381
+00:55:53,400 --> 00:55:54,680
+How long does it take to collide
+
+1382
+00:55:54,680 --> 00:55:56,480
+this is very long
+
+1383
+00:55:56,480 --> 00:56:00,040
+So this is very important for making electronic components
+
+1384
+00:56:00,000 --> 00:56:01,400
+very very good thing
+
+1385
+00:56:01,720 --> 00:56:02,600
+so this matter
+
+1386
+00:56:02,600 --> 00:56:04,600
+Everyone has already measured such a number
+
+1387
+00:56:04,600 --> 00:56:05,960
+Then I think it's a
+
+1388
+00:56:05,960 --> 00:56:09,520
+A goal worth pursuing
+
+1389
+00:56:10,280 --> 00:56:14,000
+Scientists all over the world are trying to find a way to say
+
+1390
+00:56:14,000 --> 00:56:18,440
+How do I grow the best form out
+
+1391
+00:56:18,440 --> 00:56:19,600
+because we just saw that
+
+1392
+00:56:19,600 --> 00:56:20,440
+you can be very simple
+
+1393
+00:56:20,720 --> 00:56:22,720
+use duct tape to get something out
+
+1394
+00:56:22,720 --> 00:56:24,080
+But the pollution inside
+
+1395
+00:56:24,080 --> 00:56:26,160
+It is not mass-manufacturable
+
+1396
+00:56:26,400 --> 00:56:28,840
+The goal now is to say
+
+1397
+00:56:29,760 --> 00:56:31,320
+how to make a like
+
+1398
+00:56:32,320 --> 00:56:35,040
+It is very big in the silicon industry
+
+1399
+00:56:35,680 --> 00:56:36,280
+size
+
+1400
+00:56:36,280 --> 00:56:38,080
+capable of mass production
+
+1401
+00:56:38,440 --> 00:56:39,680
+so everyone
+
+1402
+00:56:40,080 --> 00:56:41,440
+many many laboratories
+
+1403
+00:56:41,440 --> 00:56:42,600
+now all are chasing
+
+1404
+00:56:42,600 --> 00:56:43,280
+This is a
+
+1405
+00:56:44,040 --> 00:56:45,120
+a big one
+
+1406
+00:56:45,120 --> 00:56:47,240
+A major goal to be recognized by all
+
+1407
+00:56:48,240 --> 00:56:50,640
+Now this is about last year
+
+1408
+00:56:51,080 --> 00:56:52,280
+in 2010
+
+1409
+00:56:52,840 --> 00:56:55,640
+They can grow on metal surfaces
+
+1410
+00:56:55,640 --> 00:56:56,880
+can grow to a
+
+1411
+00:56:57,600 --> 00:56:58,240
+probably at
+
+1412
+00:56:58,600 --> 00:56:59,880
+you want this 0.2
+
+1413
+00:57:00,000 --> 00:57:00,920
+millimeter
+
+1414
+00:57:00,920 --> 00:57:01,840
+this is so
+
+1415
+00:57:01,840 --> 00:57:04,120
+so it grows to a fairly large
+
+1416
+00:57:04,120 --> 00:57:05,200
+A Grapin sheet
+
+1417
+00:57:05,200 --> 00:57:08,400
+There are hundreds of micron in size
+
+1418
+00:57:08,400 --> 00:57:11,280
+So I'm still searching
+
+1419
+00:57:11,280 --> 00:57:14,160
+so maybe i think in the past
+
+1420
+00:57:14,160 --> 00:57:15,360
+next few years maybe
+
+1421
+00:57:15,360 --> 00:57:17,320
+Sometimes I hear in the news that
+
+1422
+00:57:17,320 --> 00:57:18,720
+so-and-so laboratory
+
+1423
+00:57:18,720 --> 00:57:20,400
+did something
+
+1424
+00:57:20,400 --> 00:57:21,880
+that is likely to be with
+
+1425
+00:57:21,880 --> 00:57:23,080
+how do they make
+
+1426
+00:57:23,080 --> 00:57:24,240
+how to produce
+
+1427
+00:57:24,240 --> 00:57:25,920
+think of a way to
+
+1428
+00:57:25,920 --> 00:57:28,920
+find a good sample
+
+1429
+00:57:29,080 --> 00:57:31,360
+There is a way to mass-produce
+
+1430
+00:57:31,360 --> 00:57:33,520
+There are many, many ways
+
+1431
+00:57:33,520 --> 00:57:35,880
+One of them is of course
+
+1432
+00:57:35,880 --> 00:57:37,640
+Of course it doesn't mean to explain it.
+
+1433
+00:57:37,640 --> 00:57:39,720
+they can grow on a
+
+1434
+00:57:39,720 --> 00:57:41,640
+related to semiconductor
+
+1435
+00:57:41,640 --> 00:57:44,040
+像Silicon Carbide
+
+1436
+00:57:44,040 --> 00:57:45,200
+How do you translate it in Chinese?
+
+1437
+00:57:45,200 --> 00:57:46,080
+put on it
+
+1438
+00:57:46,080 --> 00:57:46,920
+then heat
+
+1439
+00:57:46,920 --> 00:57:48,640
+Then the sucker runs away
+
+1440
+00:57:48,640 --> 00:57:50,080
+the remaining carbon atom
+
+1441
+00:57:50,080 --> 00:57:51,880
+so it can grow to be different
+
+1442
+00:57:51,880 --> 00:57:54,840
+On the Grapin of the different layers
+
+1443
+00:57:54,840 --> 00:57:56,280
+that in such a long way
+
+1444
+00:57:56,440 --> 00:57:59,000
+has now started
+
+1445
+00:57:59,000 --> 00:58:00,000
+got some results
+
+1446
+00:58:00,000 --> 00:58:01,540
+So this just says
+
+1447
+00:58:01,540 --> 00:58:03,000
+results in last year
+
+1448
+00:58:03,880 --> 00:58:07,000
+Might be able to make some transistors out
+
+1449
+00:58:07,000 --> 00:58:11,160
+It's the size of 34mm
+
+1450
+00:58:11,160 --> 00:58:13,160
+probably grown to
+
+1451
+00:58:14,280 --> 00:58:15,800
+a lot of that
+
+1452
+00:58:16,640 --> 00:58:17,720
+ten thousand of that
+
+1453
+00:58:18,320 --> 00:58:20,440
+Transistors are now starting to do this
+
+1454
+00:58:20,440 --> 00:58:21,160
+such a point
+
+1455
+00:58:21,160 --> 00:58:23,640
+So of course there is still a long way to go
+
+1456
+00:58:23,640 --> 00:58:26,440
+But we slowly start
+
+1457
+00:58:26,440 --> 00:58:27,720
+it will be like this
+
+1458
+00:58:27,720 --> 00:58:29,840
+probably in the near future
+
+1459
+00:58:30,440 --> 00:58:31,800
+everyone can see say
+
+1460
+00:58:31,800 --> 00:58:33,080
+some results came out
+
+1461
+00:58:33,080 --> 00:58:33,640
+certainly
+
+1462
+00:58:33,640 --> 00:58:35,160
+people will ask
+
+1463
+00:58:35,160 --> 00:58:36,920
+Our current computer is so good
+
+1464
+00:58:36,920 --> 00:58:38,600
+so convenient
+
+1465
+00:58:38,600 --> 00:58:40,120
+i do something every day
+
+1466
+00:58:40,120 --> 00:58:41,760
+Receive some emails directly
+
+1467
+00:58:41,760 --> 00:58:42,800
+take a look online
+
+1468
+00:58:42,800 --> 00:58:46,560
+I don't need that big function
+
+1469
+00:58:46,560 --> 00:58:47,040
+OK
+
+1470
+00:58:47,040 --> 00:58:48,160
+so nothing wrong
+
+1471
+00:58:48,160 --> 00:58:50,320
+This I think probably this thing is
+
+1472
+00:58:50,320 --> 00:58:53,360
+some things you will need later
+
+1473
+00:58:53,360 --> 00:58:55,160
+compare special features
+
+1474
+00:58:55,160 --> 00:58:58,040
+that special thing
+
+1475
+00:58:58,040 --> 00:58:59,200
+this is still
+
+1476
+00:59:00,000 --> 00:59:04,760
+That is to say, common things still exist
+
+1477
+00:59:04,760 --> 00:59:06,720
+then this may be another development
+
+1478
+00:59:06,720 --> 00:59:10,800
+That is to say, the development of computers with high performance and special functions
+
+1479
+00:59:10,800 --> 00:59:16,800
+It may be necessary to find some new materials to do this
+
+1480
+00:59:17,400 --> 00:59:19,600
+so we'll see
+
+1481
+00:59:19,600 --> 00:59:21,760
+maybe in the next few years
+
+1482
+00:59:21,760 --> 00:59:26,000
+I know several big companies like IDM or
+
+1483
+00:59:27,000 --> 00:59:28,400
+What about Texas Instruments?
+
+1484
+00:59:28,400 --> 00:59:30,400
+Some of us are heavily invested
+
+1485
+00:59:30,400 --> 00:59:35,400
+Hope to be able to not lag behind in this field
+
+1486
+00:59:36,400 --> 00:59:39,400
+But there's still a lot of it
+
+1487
+00:59:39,400 --> 00:59:42,400
+scientific problems to be solved
+
+1488
+00:59:42,400 --> 00:59:44,400
+Now I want to summarize
+
+1489
+00:59:44,400 --> 00:59:48,400
+The graphite west area we just talked about
+
+1490
+00:59:49,400 --> 00:59:50,400
+look at the atom
+
+1491
+00:59:50,400 --> 00:59:54,400
+It's the thinnest material we know of
+
+1492
+00:59:54,400 --> 00:59:57,400
+because it's only one atom thick
+
+1493
+00:59:58,400 --> 00:59:59,400
+then what about it
+
+1494
+01:00:00,000 --> 01:00:02,800
+Has great Electron Mobility
+
+1495
+01:00:02,800 --> 01:00:06,080
+Its battery movement is pretty good
+
+1496
+01:00:06,080 --> 01:00:09,040
+At least 100 times better than Silicone
+
+1497
+01:00:09,040 --> 01:00:13,600
+Now continue to improve the material may be even better
+
+1498
+01:00:13,600 --> 01:00:17,720
+And it's a very, very special material
+
+1499
+01:00:17,720 --> 01:00:20,120
+because it has other features
+
+1500
+01:00:20,120 --> 01:00:22,600
+This Silicone is not available
+
+1501
+01:00:22,600 --> 01:00:28,440
+For example, its electrical conductivity is also very good.
+
+1502
+01:00:28,600 --> 01:00:30,040
+so what happened to you hot
+
+1503
+01:00:30,040 --> 01:00:31,560
+Let it go and you'll spread the word
+
+1504
+01:00:31,560 --> 01:00:32,640
+this is a strange thing
+
+1505
+01:00:32,640 --> 01:00:36,680
+It's very nice to have pine silver already metalized to heat
+
+1506
+01:00:36,680 --> 01:00:39,120
+It puts silver 10 times better than silver
+
+1507
+01:00:39,120 --> 01:00:40,400
+so heat doesn't build up
+
+1508
+01:00:40,400 --> 01:00:42,040
+will spread
+
+1509
+01:00:42,040 --> 01:00:45,040
+Then it is also a strong
+
+1510
+01:00:45,040 --> 01:00:46,960
+very strong material
+
+1511
+01:00:46,960 --> 01:00:49,400
+Because their carbon atoms follow the carbon atoms
+
+1512
+01:00:49,400 --> 01:00:52,280
+Chemicals are strong
+
+1513
+01:00:52,280 --> 01:00:56,680
+So it's also hard to tear it apart
+
+1514
+01:00:56,760 --> 01:00:59,000
+Usually we know that very strong materials
+
+1515
+01:00:59,000 --> 01:01:00,000
+For example, steel
+
+1516
+01:01:00,000 --> 01:01:05,000
+He will be two hundred times stronger than him
+
+1517
+01:01:05,000 --> 01:01:08,000
+That is, if we pull it up
+
+1518
+01:01:08,000 --> 01:01:10,000
+just put so much pressure
+
+1519
+01:01:10,000 --> 01:01:11,000
+he still won't break
+
+1520
+01:01:11,000 --> 01:01:12,000
+so he is a
+
+1521
+01:01:12,000 --> 01:01:14,000
+On the other hand, it is also a strange
+
+1522
+01:01:14,000 --> 01:01:16,000
+have very special properties
+
+1523
+01:01:16,000 --> 01:01:20,000
+Then this is physically and engineering
+
+1524
+01:01:20,000 --> 01:01:21,000
+Compared with such considerations
+
+1525
+01:01:21,000 --> 01:01:22,000
+But in chemistry
+
+1526
+01:01:22,000 --> 01:01:25,000
+We also found some very strange
+
+1527
+01:01:25,000 --> 01:01:26,000
+very special news
+
+1528
+01:01:26,000 --> 01:01:28,000
+Because it's a piece of this thing
+
+1529
+01:01:28,000 --> 01:01:30,000
+So we can put a lot of different
+
+1530
+01:01:30,000 --> 01:01:32,000
+chemical molecule on top
+
+1531
+01:01:32,000 --> 01:01:34,000
+then change its properties
+
+1532
+01:01:34,000 --> 01:01:36,000
+so many many chemists
+
+1533
+01:01:36,000 --> 01:01:39,000
+or the chemistry industry are doing different research
+
+1534
+01:01:39,000 --> 01:01:40,000
+wish to change its nature
+
+1535
+01:01:40,000 --> 01:01:43,000
+take say put some different molecules
+
+1536
+01:01:43,000 --> 01:01:44,000
+put it on top
+
+1537
+01:01:44,000 --> 01:01:45,000
+Adsorbed on it
+
+1538
+01:01:45,000 --> 01:01:47,000
+then change its properties
+
+1539
+01:01:47,000 --> 01:01:50,000
+at the same time on the optical
+
+1540
+01:01:50,000 --> 01:01:54,000
+This is the one I want to pursue now
+
+1541
+01:01:54,000 --> 01:01:56,000
+It also has some optical properties
+
+1542
+01:01:56,000 --> 01:01:57,000
+we can use
+
+1543
+01:01:57,000 --> 01:02:00,000
+Usually in this so-called
+
+1544
+01:02:00,000 --> 01:02:04,120
+The one that SpinTronics uses that electron
+
+1545
+01:02:04,520 --> 01:02:07,280
+Spin word spin above it has some
+
+1546
+01:02:07,880 --> 01:02:09,840
+Those functions of magnetic
+
+1547
+01:02:10,000 --> 01:02:13,760
+It is also very likely that there are some
+
+1548
+01:02:13,760 --> 01:02:16,000
+The application space is inside
+
+1549
+01:02:16,520 --> 01:02:19,560
+So this is why there are so many papers
+
+1550
+01:02:19,560 --> 01:02:22,000
+Because everyone will find different places in it
+
+1551
+01:02:22,000 --> 01:02:23,240
+do things differently
+
+1552
+01:02:23,800 --> 01:02:27,680
+That many people now think of its application
+
+1553
+01:02:28,400 --> 01:02:30,440
+that in this thing is just in
+
+1554
+01:02:31,000 --> 01:02:32,800
+This is from that YTPD
+
+1555
+01:02:32,800 --> 01:02:33,760
+because everyone this place
+
+1556
+01:02:33,760 --> 01:02:36,200
+Everyone can put different things on it
+
+1557
+01:02:36,560 --> 01:02:37,840
+that can be found saying
+
+1558
+01:02:38,440 --> 01:02:40,040
+Let's say you cut it into a
+
+1559
+01:02:40,760 --> 01:02:42,400
+ribbon thing
+
+1560
+01:02:42,720 --> 01:02:44,320
+In addition there is another
+
+1561
+01:02:44,920 --> 01:02:46,640
+Give it another direction
+
+1562
+01:02:46,640 --> 01:02:48,360
+Confirmation is limited to
+
+1563
+01:02:48,480 --> 01:02:49,280
+you will find that say
+
+1564
+01:02:49,280 --> 01:02:52,600
+Hey, you can change some electronic structures
+
+1565
+01:02:52,600 --> 01:02:54,400
+So this is called Natal Rehab
+
+1566
+01:02:54,400 --> 01:02:57,400
+So many laboratories are doing this kind of work now
+
+1567
+01:02:57,760 --> 01:02:59,040
+Then it can do a
+
+1568
+01:02:59,040 --> 01:03:00,040
+molecular gas detector
+
+1569
+01:03:00,000 --> 01:03:04,000
+You put different molecules on top
+
+1570
+01:03:04,000 --> 01:03:05,680
+you find it conductive
+
+1571
+01:03:05,680 --> 01:03:07,000
+or those inductions
+
+1572
+01:03:07,000 --> 01:03:08,600
+you can measure it
+
+1573
+01:03:08,600 --> 01:03:09,880
+Then of course we've seen
+
+1574
+01:03:09,880 --> 01:03:10,800
+Groger's Transistor
+
+1575
+01:03:10,800 --> 01:03:12,280
+can already be made
+
+1576
+01:03:12,280 --> 01:03:13,280
+Integrate Circuit
+
+1577
+01:03:13,280 --> 01:03:15,200
+Integrated circuits start slowly
+
+1578
+01:03:15,200 --> 01:03:18,680
+You can put a lot of transistors on it
+
+1579
+01:03:18,680 --> 01:03:21,400
+Then we saw that someone wanted to use it to do
+
+1580
+01:03:21,400 --> 01:03:23,680
+The function of that solar cell
+
+1581
+01:03:23,680 --> 01:03:24,840
+Because it's something in this area
+
+1582
+01:03:24,840 --> 01:03:26,480
+can make good electrodes
+
+1583
+01:03:27,480 --> 01:03:29,480
+Then some Bio-Device
+
+1584
+01:03:29,480 --> 01:03:31,960
+Then found out that bacteria don't like
+
+1585
+01:03:31,960 --> 01:03:33,480
+This M-Pack Bacteria Stuff
+
+1586
+01:03:33,480 --> 01:03:35,080
+bacteria don't like this stuff
+
+1587
+01:03:35,080 --> 01:03:38,280
+So you can consider saying
+
+1588
+01:03:38,280 --> 01:03:40,280
+This can be done for applications in Bio-
+
+1589
+01:03:40,280 --> 01:03:42,280
+So after this thing comes out
+
+1590
+01:03:42,280 --> 01:03:44,680
+All scientists develop independently
+
+1591
+01:03:44,680 --> 01:03:46,480
+everyone's imagination
+
+1592
+01:03:46,480 --> 01:03:50,080
+Then hopefully it will find that say
+
+1593
+01:03:50,080 --> 01:03:54,280
+how things would be different
+
+1594
+01:03:54,280 --> 01:03:55,280
+can happen
+
+1595
+01:03:55,280 --> 01:03:59,280
+can create the one that will find various applications
+
+1596
+01:04:00,000 --> 01:04:00,500
+right
+
+1597
+01:04:00,840 --> 01:04:01,340
+good
+
+1598
+01:04:01,500 --> 01:04:03,840
+Come again, I want to go back to the end
+
+1599
+01:04:04,000 --> 01:04:08,500
+That is to say our original one of course
+
+1600
+01:04:08,660 --> 01:04:10,840
+Morse that Roll
+
+1601
+01:04:11,000 --> 01:04:12,000
+let's go back to that
+
+1602
+01:04:12,660 --> 01:04:15,500
+I might go back to that picture just now
+
+1603
+01:04:15,660 --> 01:04:17,860
+That is to say, this thing
+
+1604
+01:04:18,000 --> 01:04:20,700
+keep going up
+
+1605
+01:04:20,860 --> 01:04:22,900
+our e-sports
+
+1606
+01:04:23,060 --> 01:04:25,040
+On that CPU more and more
+
+1607
+01:04:25,200 --> 01:04:26,340
+computers are getting faster
+
+1608
+01:04:26,500 --> 01:04:27,540
+that's possible
+
+1609
+01:04:27,700 --> 01:04:28,500
+what about this line
+
+1610
+01:04:28,660 --> 01:04:29,500
+This is Silicon's line
+
+1611
+01:04:29,500 --> 01:04:32,800
+Maybe it's going up all the way to the end and it will definitely hit HIT
+
+1612
+01:04:32,960 --> 01:04:34,660
+must reach this limit
+
+1613
+01:04:34,840 --> 01:04:36,840
+What about before reaching this limit?
+
+1614
+01:04:37,000 --> 01:04:38,160
+we can imagine
+
+1615
+01:04:38,340 --> 01:04:41,660
+Maybe change a thread or use another material
+
+1616
+01:04:41,840 --> 01:04:43,660
+that could be the one
+
+1617
+01:04:43,840 --> 01:04:46,660
+The whole limit might be different
+
+1618
+01:04:46,840 --> 01:04:50,040
+that's what we want to do right now
+
+1619
+01:04:50,200 --> 01:04:54,040
+Then Guo Renmu put this
+
+1620
+01:04:54,200 --> 01:04:55,660
+when making this prediction
+
+1621
+01:04:55,840 --> 01:04:57,840
+He also imagined that when
+
+1622
+01:04:57,840 --> 01:05:00,180
+such a degree
+
+1623
+01:05:00,000 --> 01:05:02,760
+This is a so-called Explonational Growth
+
+1624
+01:05:02,760 --> 01:05:05,840
+But it just can't be Forever
+
+1625
+01:05:05,840 --> 01:05:11,440
+So he finally proposed in 1965 that year after
+
+1626
+01:05:11,440 --> 01:05:15,240
+in his 50 years
+
+1627
+01:05:15,240 --> 01:05:17,240
+I put him in the last one
+
+1628
+01:05:20,440 --> 01:05:25,240
+on his 50th anniversary
+
+1629
+01:05:25,240 --> 01:05:30,240
+he mentioned
+
+1630
+01:05:30,240 --> 01:05:33,240
+No explanation is forever
+
+1631
+01:05:33,240 --> 01:05:35,240
+it's impossible to go all the way up
+
+1632
+01:05:35,240 --> 01:05:36,240
+but
+
+1633
+01:05:36,240 --> 01:05:38,240
+Ok, Delay forever
+
+1634
+01:05:38,240 --> 01:05:39,240
+Just change that forever
+
+1635
+01:05:39,240 --> 01:05:43,240
+So everyone hopes to find new materials
+
+1636
+01:05:43,240 --> 01:05:45,240
+be able to develop another way
+
+1637
+01:05:45,240 --> 01:05:47,240
+I think a lot this time
+
+1638
+01:05:47,240 --> 01:05:51,240
+Scientists in the world are now a goal to strive for
+
+1639
+01:05:51,240 --> 01:05:55,240
+Like I'm coming to an end today
+
+1640
+01:05:55,240 --> 01:05:56,240
+Then
+
+1641
+01:06:00,000 --> 01:06:01,600
+I'll see if you have any questions
+
+1642
+01:06:07,000 --> 01:06:09,400
+Thank you Director Zhou for your wonderful speech
+
+1643
+01:06:09,400 --> 01:06:10,800
+we have a lot of time
+
+1644
+01:06:10,800 --> 01:06:12,800
+is there anyone here who can
+
+1645
+01:06:14,200 --> 01:06:16,700
+Ask Director Zhou
+
+1646
+01:06:16,700 --> 01:06:19,300
+you just mentioned that
+
+1647
+01:06:19,300 --> 01:06:22,900
+Graphite sita is ten times better than winning
+
+1648
+01:06:22,900 --> 01:06:26,800
+Then I will ask Director Zhou
+
+1649
+01:06:26,800 --> 01:06:33,600
+Is it possible that Moxi West can expect to win at all
+
+1650
+01:06:33,600 --> 01:06:36,400
+The second question is
+
+1651
+01:06:36,400 --> 01:06:39,400
+The cost of graphite west and the cost of winning
+
+1652
+01:06:39,400 --> 01:06:41,600
+How much is the difference? Thank you
+
+1653
+01:06:41,600 --> 01:06:44,900
+OK he's ten times better than winning
+
+1654
+01:06:44,900 --> 01:06:47,500
+That's his thermal conductivity
+
+1655
+01:06:47,500 --> 01:06:51,500
+To win has his function
+
+1656
+01:06:51,500 --> 01:06:55,200
+Winning him is a very expensive thing
+
+1657
+01:06:55,200 --> 01:06:56,000
+why is it expensive
+
+1658
+01:06:56,100 --> 01:06:59,100
+because he's almost he's a precious metal
+
+1659
+01:06:59,100 --> 01:07:00,200
+he is not easy
+
+1660
+01:07:00,000 --> 01:07:01,600
+Not easy to oxidize, right?
+
+1661
+01:07:01,600 --> 01:07:02,440
+like gold
+
+1662
+01:07:02,440 --> 01:07:04,440
+Pure gold is also not easy to oxidize
+
+1663
+01:07:04,440 --> 01:07:05,320
+Feature Stick Metal
+
+1664
+01:07:05,320 --> 01:07:06,820
+it has its special form
+
+1665
+01:07:06,820 --> 01:07:10,320
+Although the meaning of replacing the battalion is to say
+
+1666
+01:07:10,320 --> 01:07:12,820
+you may be in some
+
+1667
+01:07:12,820 --> 01:07:15,020
+Let's say I need to be very thermally conductive
+
+1668
+01:07:15,020 --> 01:07:17,820
+Of course we have some contacts
+
+1669
+01:07:17,820 --> 01:07:20,320
+Where do you go in two years?
+
+1670
+01:07:20,320 --> 01:07:24,260
+Metal Has Its Benefits
+
+1671
+01:07:24,260 --> 01:07:25,860
+it can melt with sweat
+
+1672
+01:07:25,860 --> 01:07:27,260
+Then glue it on like that
+
+1673
+01:07:27,260 --> 01:07:30,260
+What is actually a two-dimensional thing
+
+1674
+01:07:30,260 --> 01:07:33,260
+So it's only partially possible
+
+1675
+01:07:33,260 --> 01:07:34,660
+no way completely
+
+1676
+01:07:34,660 --> 01:07:36,560
+cannot completely replace
+
+1677
+01:07:36,560 --> 01:07:38,460
+because every material has
+
+1678
+01:07:38,460 --> 01:07:39,960
+The benefits of each material
+
+1679
+01:07:39,960 --> 01:07:41,960
+Give plastic the benefits of plastic
+
+1680
+01:07:41,960 --> 01:07:44,460
+Glass has the benefits of porcelain
+
+1681
+01:07:44,460 --> 01:07:45,760
+So we use it for something
+
+1682
+01:07:45,760 --> 01:07:47,760
+is the best place to use it
+
+1683
+01:07:47,760 --> 01:07:51,260
+That high thermal conductivity
+
+1684
+01:07:51,260 --> 01:07:52,560
+have a comparative advantage
+
+1685
+01:07:52,560 --> 01:07:54,460
+For example, many of us
+
+1686
+01:07:54,460 --> 01:07:55,460
+you are in the computer
+
+1687
+01:07:55,460 --> 01:07:56,660
+Normally you would think this place
+
+1688
+01:07:56,660 --> 01:07:59,160
+The CPU is very hot
+
+1689
+01:07:59,160 --> 01:08:00,160
+next to
+
+1690
+01:08:00,000 --> 01:08:01,760
+Add a fan to send the heat out
+
+1691
+01:08:01,760 --> 01:08:03,600
+sometimes you are opening to see
+
+1692
+01:08:03,600 --> 01:08:07,000
+one place it has a copper shelf
+
+1693
+01:08:07,000 --> 01:08:08,640
+over there for heat dissipation
+
+1694
+01:08:08,640 --> 01:08:13,440
+So if you use something like graphite
+
+1695
+01:08:13,440 --> 01:08:17,600
+It's no problem to dissipate heat.
+
+1696
+01:08:17,600 --> 01:08:19,040
+so it's a benefit
+
+1697
+01:08:19,040 --> 01:08:20,560
+so it dissipates heat quickly
+
+1698
+01:08:20,560 --> 01:08:22,160
+yes it will spread the heat
+
+1699
+01:08:22,160 --> 01:08:23,680
+it will spread
+
+1700
+01:08:23,680 --> 01:08:26,320
+when it works by itself
+
+1701
+01:08:26,320 --> 01:08:28,240
+doesn't generate a lot of heat either
+
+1702
+01:08:28,240 --> 01:08:30,240
+because it's that
+
+1703
+01:08:30,240 --> 01:08:32,640
+great mobility
+
+1704
+01:08:32,640 --> 01:08:34,160
+so it doesn't say
+
+1705
+01:08:34,160 --> 01:08:36,160
+The heat is because we have resistance
+
+1706
+01:08:36,160 --> 01:08:37,920
+Resistance is where electrons pass through
+
+1707
+01:08:37,920 --> 01:08:39,120
+I'm about to collide with someone
+
+1708
+01:08:39,120 --> 01:08:40,000
+hit it hit it hit it
+
+1709
+01:08:40,000 --> 01:08:41,040
+generate a lot of heat
+
+1710
+01:08:41,040 --> 01:08:44,480
+It has to go a long way before colliding
+
+1711
+01:08:44,480 --> 01:08:46,480
+So yes it's good here
+
+1712
+01:08:46,480 --> 01:08:50,240
+Yes, there may be some possibilities in the future
+
+1713
+01:08:50,240 --> 01:08:52,240
+Of course if we say good
+
+1714
+01:08:52,240 --> 01:08:54,800
+thermal conductivity
+
+1715
+01:08:54,880 --> 01:08:56,800
+then design these
+
+1716
+01:08:56,800 --> 01:08:58,480
+These heavy heads these electronic components
+
+1717
+01:08:58,480 --> 01:09:00,000
+about to be redesigned
+
+1718
+01:09:00,000 --> 01:09:03,080
+Redesign him to take full advantage of his benefits
+
+1719
+01:09:05,380 --> 01:09:06,140
+Thanks
+
+1720
+01:09:06,400 --> 01:09:07,940
+What about the second question?
+
+1721
+01:09:08,200 --> 01:09:08,960
+his
+
+1722
+01:09:09,720 --> 01:09:10,760
+his cost
+
+1723
+01:09:11,020 --> 01:09:12,040
+cost
+
+1724
+01:09:12,300 --> 01:09:13,820
+Cost is hard to say now
+
+1725
+01:09:14,080 --> 01:09:14,840
+Because now
+
+1726
+01:09:16,640 --> 01:09:17,400
+us
+
+1727
+01:09:18,940 --> 01:09:19,980
+you imagine this
+
+1728
+01:09:20,220 --> 01:09:22,280
+Silicone industry this industry
+
+1729
+01:09:22,540 --> 01:09:23,300
+from
+
+1730
+01:09:23,800 --> 01:09:25,340
+take off in the 60s
+
+1731
+01:09:25,600 --> 01:09:26,620
+until now
+
+1732
+01:09:27,640 --> 01:09:29,700
+40 years 40 years 50 years this
+
+1733
+01:09:30,000 --> 01:09:31,540
+decades down
+
+1734
+01:09:31,800 --> 01:09:33,340
+everything is already
+
+1735
+01:09:33,580 --> 01:09:35,120
+completely
+
+1736
+01:09:35,640 --> 01:09:36,660
+developed
+
+1737
+01:09:37,420 --> 01:09:37,940
+so
+
+1738
+01:09:38,200 --> 01:09:40,500
+For Smoji his
+
+1739
+01:09:40,760 --> 01:09:42,040
+how to make the first
+
+1740
+01:09:42,540 --> 01:09:43,060
+Now
+
+1741
+01:09:44,340 --> 01:09:47,920
+Is it still in a stage of scientific research
+
+1742
+01:09:48,440 --> 01:09:51,000
+Because we still want to find the best way
+
+1743
+01:09:51,500 --> 01:09:54,580
+The cheapest way to manufacture in large quantities
+
+1744
+01:09:54,840 --> 01:09:56,620
+and then made his
+
+1745
+01:09:56,620 --> 01:10:00,220
+the extent of his limit
+
+1746
+01:10:00,000 --> 01:10:01,600
+not too many impurities
+
+1747
+01:10:01,600 --> 01:10:04,240
+So this is what we just mentioned
+
+1748
+01:10:04,240 --> 01:10:07,200
+Scientists almost all over the world think that
+
+1749
+01:10:07,200 --> 01:10:10,880
+It's a very, very clear goal
+
+1750
+01:10:10,880 --> 01:10:14,000
+you know who can find a best way
+
+1751
+01:10:14,000 --> 01:10:16,400
+He may be the next number
+
+1752
+01:10:16,400 --> 01:10:17,600
+so he knows
+
+1753
+01:10:17,600 --> 01:10:20,240
+This is a very important topic
+
+1754
+01:10:20,240 --> 01:10:22,240
+Then if it can be solved
+
+1755
+01:10:22,240 --> 01:10:26,400
+The impact on the future is very heavy
+
+1756
+01:10:26,400 --> 01:10:28,560
+So in the end how expensive he will be
+
+1757
+01:10:28,560 --> 01:10:29,520
+or how
+
+1758
+01:10:29,520 --> 01:10:31,120
+now we have no idea
+
+1759
+01:10:31,120 --> 01:10:32,160
+because how is this
+
+1760
+01:10:32,160 --> 01:10:33,520
+Everyone is still playing
+
+1761
+01:10:33,520 --> 01:10:36,560
+say who can find the best way
+
+1762
+01:10:36,560 --> 01:10:38,800
+So how much will it cost him?
+
+1763
+01:10:40,800 --> 01:10:41,600
+we don't know now
+
+1764
+01:10:41,600 --> 01:10:42,640
+silver is expensive
+
+1765
+01:10:42,640 --> 01:10:44,560
+we know silver is expensive
+
+1766
+01:10:44,560 --> 01:10:47,600
+so
+
+1767
+01:10:47,600 --> 01:10:50,320
+So it's hard to predict what the future holds
+
+1768
+01:10:50,320 --> 01:10:52,880
+For example, you go back to 20 years ago
+
+1769
+01:10:52,880 --> 01:10:53,920
+then someone tells you
+
+1770
+01:10:53,920 --> 01:10:56,880
+you can hold a phone in your hand
+
+1771
+01:10:56,880 --> 01:10:59,600
+you can hold a phone in your hand
+
+1772
+01:11:00,000 --> 01:11:02,640
+20 years ago there were mobile phones which were very big
+
+1773
+01:11:02,640 --> 01:11:04,000
+still on the car
+
+1774
+01:11:04,000 --> 01:11:05,160
+because of the contact
+
+1775
+01:11:05,160 --> 01:11:08,200
+So now like this little phone
+
+1776
+01:11:08,200 --> 01:11:09,560
+told you 20 years ago
+
+1777
+01:11:09,560 --> 01:11:10,920
+I have a call after you sign
+
+1778
+01:11:10,920 --> 01:11:11,960
+You can also access the Internet
+
+1779
+01:11:11,960 --> 01:11:14,720
+At that time, I didn't know what the internet was
+
+1780
+01:11:14,720 --> 01:11:17,920
+So what will happen next?
+
+1781
+01:11:17,920 --> 01:11:19,880
+This is difficult for us to predict
+
+1782
+01:11:19,880 --> 01:11:26,000
+That's just to say that each of these research breakthroughs
+
+1783
+01:11:26,000 --> 01:11:28,840
+will give us some new hope
+
+1784
+01:11:28,920 --> 01:11:31,400
+in cash
+
+1785
+01:11:31,400 --> 01:11:33,440
+The gap between graphite and rock
+
+1786
+01:11:33,440 --> 01:11:35,400
+Now look at what kind of graphene
+
+1787
+01:11:35,400 --> 01:11:38,640
+you can make it yourself from the account
+
+1788
+01:11:38,640 --> 01:11:41,240
+or are you going to buy
+
+1789
+01:11:41,240 --> 01:11:43,440
+someone can grow
+
+1790
+01:11:43,440 --> 01:11:47,240
+There aren't many that are really on sale right now.
+
+1791
+01:11:47,240 --> 01:11:48,480
+because everyone is developing
+
+1792
+01:11:48,480 --> 01:11:50,200
+Today I said I can sell you a little today
+
+1793
+01:11:50,200 --> 01:11:52,360
+There is a new method coming out tomorrow
+
+1794
+01:11:52,360 --> 01:11:54,600
+That is to say, there are constantly new
+
+1795
+01:11:54,600 --> 01:11:57,360
+Every month, you will see new papers coming out
+
+1796
+01:11:57,360 --> 01:11:58,240
+i want to do this
+
+1797
+01:12:00,000 --> 01:12:04,340
+It will take a while before we can decide who will eat it
+
+1798
+01:12:04,340 --> 01:12:06,780
+or what is the best way
+
+1799
+01:12:08,220 --> 01:12:08,620
+Thanks
+
+1800
+01:12:08,620 --> 01:12:09,420
+Thanks
+
+1801
+01:12:09,420 --> 01:12:13,420
+Watch the news slowly, maybe in the next few years, you will see some in the news
+
+1802
+01:12:13,820 --> 01:12:15,720
+Said that agricultural scientists discovered something
+
+1803
+01:12:15,720 --> 01:12:17,380
+Let what is related to the real ink system
+
+1804
+01:12:17,380 --> 01:12:20,060
+There should be a lot of news about this
+
+1805
+01:12:20,900 --> 01:12:21,820
+Thank you so much
+
+1806
+01:12:23,260 --> 01:12:23,740
+Who
+
+1807
+01:12:26,860 --> 01:12:28,100
+Ask Director Zhuo
+
+1808
+01:12:28,500 --> 01:12:31,100
+It is because of the Lanometer part
+
+1809
+01:12:31,100 --> 01:12:33,100
+In our natural world
+
+1810
+01:12:33,100 --> 01:12:35,700
+did it happen naturally
+
+1811
+01:12:36,200 --> 01:12:38,040
+I mean say for example
+
+1812
+01:12:38,040 --> 01:12:39,200
+Galaxy T
+
+1813
+01:12:39,940 --> 01:12:42,400
+Then we will develop to a certain point in the future
+
+1814
+01:12:42,940 --> 01:12:43,980
+our natural world
+
+1815
+01:12:43,980 --> 01:12:47,380
+Because the industry has used a lot of Lanometer
+
+1816
+01:12:47,880 --> 01:12:52,180
+There is no way for nature to consume these things that come out
+
+1817
+01:12:52,180 --> 01:12:54,880
+Then if we prevent these phenomena
+
+1818
+01:12:56,080 --> 01:12:57,580
+now a subject
+
+1819
+01:12:57,580 --> 01:13:00,080
+means sell your stuff
+
+1820
+01:13:00,000 --> 01:13:02,460
+Is it harmful to the human body
+
+1821
+01:13:03,300 --> 01:13:05,860
+because you know small things can go through
+
+1822
+01:13:06,740 --> 01:13:08,660
+So while some people do some research
+
+1823
+01:13:08,660 --> 01:13:11,340
+that is to say, what harm will
+
+1824
+01:13:11,980 --> 01:13:16,380
+That thing is not very clear now
+
+1825
+01:13:16,380 --> 01:13:19,820
+because something like
+
+1826
+01:13:19,820 --> 01:13:22,400
+Something like that Carbon-6-6-6
+
+1827
+01:13:22,400 --> 01:13:24,300
+not very reactive
+
+1828
+01:13:24,300 --> 01:13:26,620
+It is not easy to reflect with many things
+
+1829
+01:13:27,620 --> 01:13:32,020
+So the comparison probably won't do much harm
+
+1830
+01:13:34,860 --> 01:13:35,860
+you are right
+
+1831
+01:13:35,860 --> 01:13:38,860
+Naturally, there are some like that nano-explorer
+
+1832
+01:13:38,860 --> 01:13:40,260
+found out later
+
+1833
+01:13:40,260 --> 01:13:41,980
+when it heats like this
+
+1834
+01:13:41,980 --> 01:13:43,900
+As far as everyone finds out, those who say black
+
+1835
+01:13:43,900 --> 01:13:44,980
+Inside those things
+
+1836
+01:13:44,980 --> 01:13:46,620
+Maybe it was before
+
+1837
+01:13:46,620 --> 01:13:48,460
+It's just that people didn't find it
+
+1838
+01:13:49,100 --> 01:13:53,060
+But more and more man-made examples of these nanometers
+
+1839
+01:13:53,060 --> 01:13:57,460
+Of course, you have to be more careful what kind of elements you look at.
+
+1840
+01:13:57,460 --> 01:14:00,060
+At least for now there will be
+
+1841
+01:14:00,000 --> 01:14:04,000
+Haven't found a big big one that hurts
+
+1842
+01:14:04,160 --> 01:14:06,960
+But this is in the engineering school
+
+1843
+01:14:07,120 --> 01:14:08,640
+about environmental engineering
+
+1844
+01:14:08,800 --> 01:14:11,640
+This is a very important subject
+
+1845
+01:14:11,800 --> 01:14:14,920
+That is to say, considering the problem of environmental pollution
+
+1846
+01:14:15,080 --> 01:14:17,120
+or harm to the human body
+
+1847
+01:14:17,280 --> 01:14:19,640
+This is something everyone is considering now
+
+1848
+01:14:19,800 --> 01:14:22,400
+a subject among some
+
+1849
+01:14:22,560 --> 01:14:24,880
+that said in nature
+
+1850
+01:14:25,040 --> 01:14:27,800
+like i said far away
+
+1851
+01:14:27,800 --> 01:14:32,520
+There is actually that desire in my luck
+
+1852
+01:14:32,680 --> 01:14:35,160
+it's surprising
+
+1853
+01:14:35,320 --> 01:14:37,840
+Maybe we've had it on Earth before
+
+1854
+01:14:38,000 --> 01:14:40,800
+It's just that everyone didn't try to find it out.
+
+1855
+01:14:42,720 --> 01:14:44,160
+so
+
+1856
+01:14:44,320 --> 01:14:47,760
+I think a very short answer
+
+1857
+01:14:47,920 --> 01:14:49,760
+Probably what I just said
+
+1858
+01:14:49,920 --> 01:14:52,920
+This is a subject currently under study
+
+1859
+01:14:53,080 --> 01:14:55,160
+It is also an important subject
+
+1860
+01:14:55,280 --> 01:14:58,640
+What kind of harm will it do to humans?
+
+1861
+01:14:58,800 --> 01:14:59,800
+will it hurt
+
+1862
+01:15:00,000 --> 01:15:03,240
+it's not clear yet
+
+1863
+01:15:03,240 --> 01:15:08,240
+maybe for some elements
+
+1864
+01:15:08,240 --> 01:15:10,800
+It is because some elements are more poisonous
+
+1865
+01:15:10,800 --> 01:15:13,440
+If it becomes endurance
+
+1866
+01:15:13,440 --> 01:15:17,040
+when it penetrates the skin or something
+
+1867
+01:15:17,040 --> 01:15:19,880
+That may cause more damage
+
+1868
+01:15:19,880 --> 01:15:21,640
+For charcoal
+
+1869
+01:15:21,640 --> 01:15:26,240
+It compares if it doesn't work as well as others
+
+1870
+01:15:26,240 --> 01:15:29,080
+then it might not be that big
+
+1871
+01:15:29,080 --> 01:15:33,680
+But this time Liu Dai said that scholars and experts should study it carefully.
+
+1872
+01:15:38,960 --> 01:15:41,400
+thank you for a very good speech
+
+1873
+01:15:41,400 --> 01:15:44,960
+Two questions for Chief Zhou
+
+1874
+01:15:44,960 --> 01:15:47,280
+the first one is very
+
+1875
+01:15:47,280 --> 01:15:52,600
+A while ago HITC Superconductor was a very, very popular topic
+
+1876
+01:15:52,600 --> 01:15:55,280
+But then there are several technical problems
+
+1877
+01:15:55,280 --> 01:15:58,480
+Of course, the most important thing is that there is no way to mention three things and four temperature
+
+1878
+01:15:58,480 --> 01:15:59,600
+if say
+
+1879
+01:16:00,000 --> 01:16:04,340
+If one day Superconductor ITC can be raised to room temperature
+
+1880
+01:16:04,780 --> 01:16:09,660
+Which one do you think is more effective than this one?
+
+1881
+01:16:09,660 --> 01:16:11,460
+or better
+
+1882
+01:16:11,860 --> 01:16:12,900
+This is the first question
+
+1883
+01:16:13,100 --> 01:16:14,540
+The second question I want to ask is
+
+1884
+01:16:14,540 --> 01:16:17,940
+Most of his people so far speak Electronics
+
+1885
+01:16:17,940 --> 01:16:20,100
+Talk about the Golden one just now
+
+1886
+01:16:20,100 --> 01:16:24,860
+If the Golden Model seems to be 2Dimension
+
+1887
+01:16:25,260 --> 01:16:27,900
+Have you thought about 3Dimension
+
+1888
+01:16:28,060 --> 01:16:30,940
+Use Optical and Transparent
+
+1889
+01:16:30,940 --> 01:16:32,860
+In fact, he only needs to add a Dimension
+
+1890
+01:16:32,860 --> 01:16:35,260
+He can increase quickly
+
+1891
+01:16:35,660 --> 01:16:37,540
+thousands of times millions of times
+
+1892
+01:16:37,740 --> 01:16:41,980
+Is this another way to get around that limitation
+
+1893
+01:16:42,380 --> 01:16:42,860
+Thanks
+
+1894
+01:16:42,860 --> 01:16:43,300
+OK
+
+1895
+01:16:43,940 --> 01:16:44,980
+very good question
+
+1896
+01:16:45,260 --> 01:16:46,100
+first question
+
+1897
+01:16:46,100 --> 01:16:49,740
+Hitc superconducting high temperature superconducting
+
+1898
+01:16:51,340 --> 01:16:56,300
+The benefits he wants to solve or can get
+
+1899
+01:16:56,300 --> 01:16:57,540
+not like this
+
+1900
+01:16:57,900 --> 01:17:00,140
+His main thing is that he just wants to fight
+
+1901
+01:17:00,000 --> 01:17:02,300
+will not say
+
+1902
+01:17:02,460 --> 01:17:04,460
+But it is not a
+
+1903
+01:17:04,620 --> 01:17:06,620
+But semiconductors are not a
+
+1904
+01:17:06,800 --> 01:17:08,460
+make that electronic component
+
+1905
+01:17:08,620 --> 01:17:09,460
+it can be used
+
+1906
+01:17:09,620 --> 01:17:11,460
+That is to say, some parts can also be used in the middle
+
+1907
+01:17:11,620 --> 01:17:12,620
+make wires what?
+
+1908
+01:17:12,780 --> 01:17:15,620
+But it doesn't have the structure of these semiconductors
+
+1909
+01:17:15,780 --> 01:17:17,060
+have these good qualities
+
+1910
+01:17:17,220 --> 01:17:19,180
+This is what we need to make a
+
+1911
+01:17:19,340 --> 01:17:23,660
+Materials used to make a computer like this
+
+1912
+01:17:23,820 --> 01:17:26,620
+That high temperature superconductor is now
+
+1913
+01:17:26,780 --> 01:17:29,460
+That is to say, there are some technical problems
+
+1914
+01:17:29,460 --> 01:17:30,920
+after it reaches a certain stage
+
+1915
+01:17:31,080 --> 01:17:32,420
+just stop there
+
+1916
+01:17:32,580 --> 01:17:35,720
+the temperature won't go up
+
+1917
+01:17:35,880 --> 01:17:38,920
+Of course this means
+
+1918
+01:17:39,080 --> 01:17:40,420
+one suddenly has a breakthrough
+
+1919
+01:17:40,580 --> 01:17:42,460
+then stop there
+
+1920
+01:17:42,620 --> 01:17:43,660
+many many years
+
+1921
+01:17:43,820 --> 01:17:46,620
+Everyone can't find a way to break it
+
+1922
+01:17:46,780 --> 01:17:49,920
+This will say to wait for the next wave
+
+1923
+01:17:50,080 --> 01:17:52,660
+Now a lot of people are finding new material
+
+1924
+01:17:52,820 --> 01:17:54,820
+The temperature is not that high
+
+1925
+01:17:54,980 --> 01:17:59,160
+But the more we learn about this substance
+
+1926
+01:18:00,000 --> 01:18:04,000
+We know better which direction to look for
+
+1927
+01:18:04,000 --> 01:18:06,360
+So there is no basis for this
+
+1928
+01:18:06,360 --> 01:18:09,160
+The two problems solved are different
+
+1929
+01:18:09,160 --> 01:18:11,160
+The two solutions are not the same
+
+1930
+01:18:11,160 --> 01:18:13,160
+that physically speaking
+
+1931
+01:18:13,160 --> 01:18:15,160
+they are very
+
+1932
+01:18:15,160 --> 01:18:17,160
+Both are a very challenging
+
+1933
+01:18:17,160 --> 01:18:19,660
+one of those subjects
+
+1934
+01:18:19,660 --> 01:18:22,160
+That is, if someone can figure it out
+
+1935
+01:18:22,160 --> 01:18:24,160
+This is
+
+1936
+01:18:24,160 --> 01:18:26,160
+That is to say, a very big contribution
+
+1937
+01:18:26,160 --> 01:18:28,160
+That
+
+1938
+01:18:28,920 --> 01:18:30,920
+Just the second question
+
+1939
+01:18:30,920 --> 01:18:32,920
+so far
+
+1940
+01:18:32,920 --> 01:18:34,920
+to this 2 reps
+
+1941
+01:18:34,920 --> 01:18:36,920
+2 reps
+
+1942
+01:18:36,920 --> 01:18:38,920
+right
+
+1943
+01:18:38,920 --> 01:18:40,920
+exist
+
+1944
+01:18:40,920 --> 01:18:42,920
+before this
+
+1945
+01:18:42,920 --> 01:18:44,920
+while everyone is discussing that
+
+1946
+01:18:44,920 --> 01:18:46,920
+When Morse Law
+
+1947
+01:18:46,920 --> 01:18:48,920
+there is a direction
+
+1948
+01:18:48,920 --> 01:18:50,920
+The transistor that walks in 3D
+
+1949
+01:18:50,920 --> 01:18:52,920
+was that time
+
+1950
+01:18:52,920 --> 01:18:54,920
+And there are still some people
+
+1951
+01:18:54,920 --> 01:18:56,920
+Continue to pursue making it 3D
+
+1952
+01:18:56,920 --> 01:18:58,920
+make it flat
+
+1953
+01:18:58,920 --> 01:19:00,920
+inside too
+
+1954
+01:19:00,000 --> 01:19:01,280
+encountered some difficulties
+
+1955
+01:19:01,280 --> 01:19:03,840
+That is according to the material
+
+1956
+01:19:03,840 --> 01:19:05,880
+You just mentioned another
+
+1957
+01:19:05,880 --> 01:19:09,220
+That is to say, from the optical way
+
+1958
+01:19:09,220 --> 01:19:10,500
+to interact with him
+
+1959
+01:19:10,500 --> 01:19:14,080
+That's the direction everyone's been thinking about for many years.
+
+1960
+01:19:14,080 --> 01:19:16,120
+Because in the silicon base
+
+1961
+01:19:16,120 --> 01:19:17,920
+What we call optical electronics
+
+1962
+01:19:17,920 --> 01:19:19,460
+we hope to have some
+
+1963
+01:19:19,460 --> 01:19:21,760
+Silicon can follow
+
+1964
+01:19:21,760 --> 01:19:23,800
+Those laser beams or some optical ones
+
+1965
+01:19:23,800 --> 01:19:24,840
+some coupling
+
+1966
+01:19:24,840 --> 01:19:26,880
+which can then be put together
+
+1967
+01:19:26,880 --> 01:19:29,960
+Not just conductive electronics come out
+
+1968
+01:19:29,960 --> 01:19:32,260
+Then follow this outside optical
+
+1969
+01:19:32,260 --> 01:19:34,820
+The probes are somewhat associated
+
+1970
+01:19:34,820 --> 01:19:36,860
+so that was a very
+
+1971
+01:19:36,860 --> 01:19:38,920
+That is to say, a big subject
+
+1972
+01:19:38,920 --> 01:19:40,460
+many people are chasing
+
+1973
+01:19:40,460 --> 01:19:43,020
+It's just that at that time
+
+1974
+01:19:43,020 --> 01:19:44,800
+silicon with
+
+1975
+01:19:44,800 --> 01:19:48,640
+Because it is it does not absorb light very well
+
+1976
+01:19:48,640 --> 01:19:52,240
+Because it is the so-called indirect gap
+
+1977
+01:19:52,240 --> 01:19:54,540
+Its direct gap is relatively large
+
+1978
+01:19:54,540 --> 01:19:56,840
+its absorbing light
+
+1979
+01:19:56,840 --> 01:19:58,120
+this or that
+
+1980
+01:19:58,120 --> 01:20:00,680
+It means about three or four ED
+
+1981
+01:20:00,000 --> 01:20:03,240
+will have a lot of absorption
+
+1982
+01:20:03,240 --> 01:20:06,440
+So that's a really big specific
+
+1983
+01:20:06,440 --> 01:20:08,480
+That is how to follow
+
+1984
+01:20:08,480 --> 01:20:10,200
+The Silicone Base Electronics
+
+1985
+01:20:10,200 --> 01:20:12,480
+with some of these Optical
+
+1986
+01:20:12,480 --> 01:20:14,080
+can be combined
+
+1987
+01:20:14,080 --> 01:20:17,600
+This is many, many, many years of hard work
+
+1988
+01:20:17,600 --> 01:20:20,000
+not yet fully achieved
+
+1989
+01:20:20,000 --> 01:20:23,280
+So for Silicone
+
+1990
+01:20:23,280 --> 01:20:25,200
+This aspect is relatively weak
+
+1991
+01:20:25,200 --> 01:20:28,280
+Of course, if you change to other materials
+
+1992
+01:20:28,440 --> 01:20:30,840
+maybe there is another possibility
+
+1993
+01:20:30,840 --> 01:20:32,600
+This can have another
+
+1994
+01:20:32,600 --> 01:20:35,680
+Follow Optics and Electronics
+
+1995
+01:20:35,680 --> 01:20:38,200
+can have a better combination
+
+1996
+01:20:38,200 --> 01:20:43,760
+So this is also in these semiconductor industries
+
+1997
+01:20:43,760 --> 01:20:47,120
+Some problems that everyone has been trying to solve
+
+1998
+01:20:47,120 --> 01:20:49,720
+It is also the direction of development
+
+1999
+01:20:49,720 --> 01:20:52,040
+It's just that there are no good results yet.
+
+2000
+01:20:52,760 --> 01:20:56,520
+total maintenance
+
+2001
+01:20:56,520 --> 01:20:59,080
+this is
+
+2002
+01:20:59,160 --> 01:21:01,000
+i want to talk
+
+2003
+01:21:01,000 --> 01:21:03,560
+has great usage
+
+2004
+01:21:03,560 --> 01:21:05,040
+i think it's ok
+
+2005
+01:21:05,040 --> 01:21:07,100
+i think we can
+
+2006
+01:21:07,100 --> 01:21:08,420
+think about it
+
+2007
+01:21:08,420 --> 01:21:10,700
+we need to talk to us
+
+2008
+01:21:10,700 --> 01:21:12,440
+of this object
+
+2009
+01:21:12,440 --> 01:21:14,700
+Need to consult with us
+
+2010
+01:21:14,820 --> 01:21:16,280
+Congratulations
+
+2011
+01:21:16,800 --> 01:21:18,620
+Congratulations
+
+2012
+01:21:00,000 --> 01:21:02,400
+That is to say before Bucky Bull was
+
+2013
+01:21:02,400 --> 01:21:04,200
+When carbon 60 came out
+
+2014
+01:21:04,200 --> 01:21:07,200
+In fact, he had many different applications at the beginning.
+
+2015
+01:21:07,200 --> 01:21:09,600
+But it doesn't seem to have seen anything yet
+
+2016
+01:21:09,600 --> 01:21:11,400
+practical application in life
+
+2017
+01:21:11,400 --> 01:21:13,800
+I don't know if he was later
+
+2018
+01:21:13,800 --> 01:21:16,700
+where did one meet him
+
+2019
+01:21:16,700 --> 01:21:18,000
+the solution of development
+
+2020
+01:21:18,000 --> 01:21:20,500
+That's compared to Graphite Creek now
+
+2021
+01:21:20,500 --> 01:21:23,600
+Is there any place for reference?
+
+2022
+01:21:23,600 --> 01:21:24,400
+Thanks
+
+2023
+01:21:24,400 --> 01:21:29,100
+OK, the original carbon 60 because it is one by one
+
+2024
+01:21:30,100 --> 01:21:32,200
+So if you want to use
+
+2025
+01:21:33,400 --> 01:21:36,100
+I want you to find a way to get to the area
+
+2026
+01:21:36,100 --> 01:21:39,500
+be able to use it to do something
+
+2027
+01:21:39,500 --> 01:21:41,600
+and put it together or do
+
+2028
+01:21:41,600 --> 01:21:43,000
+OK Carbon 60 over there
+
+2029
+01:21:43,000 --> 01:21:47,200
+In fact, it will be discharged into a solid carbon 60
+
+2030
+01:21:47,200 --> 01:21:48,800
+Each unit is carbon 60
+
+2031
+01:21:48,800 --> 01:21:53,400
+Then there are some nice properties in that
+
+2032
+01:21:53,400 --> 01:21:55,300
+you can talk to another one
+
+2033
+01:21:55,300 --> 01:21:57,500
+Echoline Metals to put in
+
+2034
+01:21:57,500 --> 01:21:59,600
+make some new some
+
+2035
+01:22:00,000 --> 01:22:01,540
+image of object
+
+2036
+01:22:01,700 --> 01:22:04,040
+But the real use
+
+2037
+01:22:04,200 --> 01:22:05,400
+That is to say, one by one
+
+2038
+01:22:05,560 --> 01:22:06,500
+how are you going
+
+2039
+01:22:06,660 --> 01:22:08,840
+how do you grab one to do something
+
+2040
+01:22:09,000 --> 01:22:09,700
+put it back
+
+2041
+01:22:09,860 --> 01:22:11,640
+This thing is more difficult
+
+2042
+01:22:12,300 --> 01:22:13,840
+That graphite west side
+
+2043
+01:22:14,000 --> 01:22:16,640
+Everyone will feel a little hopeful
+
+2044
+01:22:16,800 --> 01:22:19,140
+wish it was such a large piece of long
+
+2045
+01:22:19,300 --> 01:22:21,140
+grow out of the bottom
+
+2046
+01:22:21,300 --> 01:22:23,900
+Then a large piece of it is produced in large quantities
+
+2047
+01:22:24,060 --> 01:22:25,960
+Then use some more from above
+
+2048
+01:22:26,140 --> 01:22:27,140
+we have those now
+
+2049
+01:22:27,140 --> 01:22:30,340
+Lysograph's method to cut
+
+2050
+01:22:30,500 --> 01:22:31,640
+or make those three mouthfuls
+
+2051
+01:22:31,800 --> 01:22:33,040
+it's easier this way
+
+2052
+01:22:33,200 --> 01:22:36,140
+easier to make things
+
+2053
+01:22:36,300 --> 01:22:37,200
+the shape you want
+
+2054
+01:22:37,360 --> 01:22:39,960
+or whatever you want
+
+2055
+01:22:40,140 --> 01:22:41,840
+because of the carbon talc stuff
+
+2056
+01:22:42,000 --> 01:22:44,100
+You said you were going to grab one
+
+2057
+01:22:44,260 --> 01:22:45,140
+how do you catch
+
+2058
+01:22:45,300 --> 01:22:47,000
+such a small thing
+
+2059
+01:22:47,160 --> 01:22:50,200
+there's no way you can grab it with anything
+
+2060
+01:22:50,360 --> 01:22:51,600
+or to adsorb
+
+2061
+01:22:51,760 --> 01:22:52,100
+or you put it
+
+2062
+01:22:52,260 --> 01:22:54,100
+At best, stick it to the surface
+
+2063
+01:22:54,100 --> 01:23:00,060
+to make some control changes
+
+2064
+01:23:00,000 --> 01:23:03,840
+Like that, so the above is a bit higher in terms of difficulty.
+
+2065
+01:23:04,340 --> 01:23:06,240
+So if you really go
+
+2066
+01:23:06,240 --> 01:23:10,000
+Is there really any good application for Greedy Stone?
+
+2067
+01:23:10,000 --> 01:23:12,940
+that might be in science
+
+2068
+01:23:12,940 --> 01:23:15,500
+But it doesn't seem to say that it is made into a product
+
+2069
+01:23:15,500 --> 01:23:17,540
+It is a product of Tanyoushi.
+
+2070
+01:23:17,540 --> 01:23:18,540
+i don't know if
+
+2071
+01:23:18,540 --> 01:23:23,140
+I'm not entirely aware of recent developments
+
+2072
+01:23:23,140 --> 01:23:24,940
+So I can't talk about this place
+
+2073
+01:23:24,940 --> 01:23:25,740
+That's it
+
+2074
+01:23:25,740 --> 01:23:29,140
+At that time, Moxi was mainly because he combined the previous
+
+2075
+01:23:29,380 --> 01:23:31,980
+everyone on this surface
+
+2076
+01:23:31,980 --> 01:23:35,280
+The semiconductor industry is doing this on the surface
+
+2077
+01:23:35,280 --> 01:23:36,780
+how to grow film
+
+2078
+01:23:36,780 --> 01:23:40,140
+How to do these layer by layer
+
+2079
+01:23:40,140 --> 01:23:42,940
+There is a lot of experience in this area
+
+2080
+01:23:43,440 --> 01:23:44,880
+So his two-dimensional thing
+
+2081
+01:23:44,880 --> 01:23:48,380
+He can be more easily controlled
+
+2082
+01:23:48,380 --> 01:23:49,840
+easy to set it up
+
+2083
+01:23:49,840 --> 01:23:51,380
+then become something
+
+2084
+01:23:51,380 --> 01:23:52,980
+Layer Shelf or Shera
+
+2085
+01:23:52,980 --> 01:23:55,640
+Or design some other structure
+
+2086
+01:23:55,640 --> 01:23:57,340
+it's easier stuff
+
+2087
+01:23:57,340 --> 01:23:59,380
+Now the most important thing is to say
+
+2088
+01:24:00,000 --> 01:24:04,580
+how can you grow well
+
+2089
+01:24:04,740 --> 01:24:06,540
+and then be able to control it
+
+2090
+01:24:06,880 --> 01:24:09,080
+can then be mass-produced
+
+2091
+01:24:09,340 --> 01:24:10,880
+then also very cheap
+
+2092
+01:24:11,040 --> 01:24:13,540
+It's not that there are only a few places where it can grow
+
+2093
+01:24:13,700 --> 01:24:15,040
+OK and then when it's over
+
+2094
+01:24:15,200 --> 01:24:16,880
+you can understand its nature
+
+2095
+01:24:17,040 --> 01:24:19,780
+Then redesign what kind of circuit you want
+
+2096
+01:24:19,940 --> 01:24:21,540
+OK, the design
+
+2097
+01:24:21,700 --> 01:24:23,580
+Maybe it's not the same as before
+
+2098
+01:24:23,740 --> 01:24:25,380
+Because of its electronic nature
+
+2099
+01:24:25,540 --> 01:24:27,380
+The electronic structure is different
+
+2100
+01:24:27,880 --> 01:24:29,380
+ok so then what to do
+
+2101
+01:24:29,540 --> 01:24:31,420
+When it is possible to make a transistor
+
+2102
+01:24:31,580 --> 01:24:34,120
+you put those oxides on it
+
+2103
+01:24:34,280 --> 01:24:36,220
+or how are you going to do your
+
+2104
+01:24:36,380 --> 01:24:37,940
+get your electricity
+
+2105
+01:24:38,100 --> 01:24:39,980
+Other different types of transistors
+
+2106
+01:24:40,140 --> 01:24:42,680
+So it still needs some
+
+2107
+01:24:42,840 --> 01:24:44,380
+development over time
+
+2108
+01:24:44,540 --> 01:24:50,540
+So the Norval value of this physics means
+
+2109
+01:24:50,700 --> 01:24:52,340
+We seem to have a
+
+2110
+01:24:52,500 --> 01:24:54,140
+There is a direction like this
+
+2111
+01:24:54,300 --> 01:24:56,780
+that can really make something
+
+2112
+01:24:56,780 --> 01:24:58,380
+still take a while
+
+2113
+01:24:58,540 --> 01:24:59,740
+not so fast
+
+2114
+01:25:00,000 --> 01:25:04,160
+So this thing is
+
+2115
+01:25:04,500 --> 01:25:06,160
+Just to say that now I seem to see a
+
+2116
+01:25:06,320 --> 01:25:08,760
+Seems like a pretty promising thing
+
+2117
+01:25:08,920 --> 01:25:12,000
+At least after trying many, many materials in the past
+
+2118
+01:25:12,160 --> 01:25:14,000
+we may see there is a hope
+
+2119
+01:25:14,160 --> 01:25:17,600
+Well, these are like a lot of US military
+
+2120
+01:25:17,760 --> 01:25:20,160
+invested a lot of money
+
+2121
+01:25:20,320 --> 01:25:21,660
+that's what this development says
+
+2122
+01:25:21,820 --> 01:25:25,760
+It is the kind of High-end is a special function
+
+2123
+01:25:25,920 --> 01:25:30,220
+Then some special electronic components
+
+2124
+01:25:30,380 --> 01:25:32,480
+no you probably wouldn't say
+
+2125
+01:25:32,640 --> 01:25:33,880
+bring this price down so low
+
+2126
+01:25:34,040 --> 01:25:36,920
+Because we are so computerized now
+
+2127
+01:25:37,080 --> 01:25:41,220
+it's pretty cheap now
+
+2128
+01:25:41,380 --> 01:25:43,920
+also very very very
+
+2129
+01:25:44,080 --> 01:25:46,420
+Very powerful thing
+
+2130
+01:25:46,580 --> 01:25:48,380
+So the words of the general public
+
+2131
+01:25:48,560 --> 01:25:51,060
+still the one that lasts so long
+
+2132
+01:25:51,220 --> 01:25:55,260
+Silicon inter-suit will not disappear completely
+
+2133
+01:25:55,260 --> 01:25:58,640
+that just means we have another chance
+
+2134
+01:25:58,800 --> 01:26:00,100
+go find something better
+
+2135
+01:26:00,000 --> 01:26:01,000
+Thanks
+
+2136
+01:26:05,640 --> 01:26:09,000
+Two questions. One is that the director just mentioned that
+
+2137
+01:26:09,000 --> 01:26:12,680
+There are three types of graphite, one is spherical, the other is tube and the other is flat
+
+2138
+01:26:12,680 --> 01:26:16,440
+I would like to ask some of their physical properties in these three states
+
+2139
+01:26:16,440 --> 01:26:21,440
+For example, if I have a bunch, you don't have carbon balls to put together
+
+2140
+01:26:21,440 --> 01:26:25,000
+Then I use light, is it with a bunch of carbon tubes?
+
+2141
+01:26:25,000 --> 01:26:28,400
+With lighting he has a different sheen or something
+
+2142
+01:26:28,400 --> 01:26:31,360
+and their properties, for example, in the six bodies
+
+2143
+01:26:31,360 --> 01:26:34,560
+Or is there any difference in physical properties such as conductive poison?
+
+2144
+01:26:34,560 --> 01:26:37,960
+Then there is the second question
+
+2145
+01:26:37,960 --> 01:26:43,440
+That is, Norbell said that they used tape to layer graphite layer by layer.
+
+2146
+01:26:43,440 --> 01:26:44,960
+But when we were experimenting
+
+2147
+01:26:44,960 --> 01:26:48,080
+We must control every thickness of him very precisely
+
+2148
+01:26:48,080 --> 01:26:52,880
+How to control the thickness of each layer in the laboratory
+
+2149
+01:26:52,880 --> 01:26:53,880
+Thanks
+
+2150
+01:26:53,880 --> 01:26:55,480
+OK first question
+
+2151
+01:26:55,480 --> 01:27:00,040
+He's exploring the pavilion or the ball or the flat graphite
+
+2152
+01:27:00,000 --> 01:27:02,000
+Its electronic structure is different
+
+2153
+01:27:02,000 --> 01:27:05,880
+For example, when graphite is a piece, it will reverse electricity
+
+2154
+01:27:05,880 --> 01:27:08,480
+Then if the carbon tube
+
+2155
+01:27:08,480 --> 01:27:10,640
+Some carbon tubes are semiconductors
+
+2156
+01:27:10,640 --> 01:27:13,240
+Some carbon tubes are metallic
+
+2157
+01:27:13,240 --> 01:27:15,880
+That is, their resistance is relatively small
+
+2158
+01:27:15,880 --> 01:27:18,000
+depending on its direction
+
+2159
+01:27:18,000 --> 01:27:20,440
+So that aspect can
+
+2160
+01:27:20,440 --> 01:27:21,640
+Maybe it can be adjusted
+
+2161
+01:27:21,640 --> 01:27:23,640
+Or you can tune different carbon tubes
+
+2162
+01:27:23,640 --> 01:27:24,880
+jump out that measure up
+
+2163
+01:27:24,880 --> 01:27:26,840
+may be different
+
+2164
+01:27:26,840 --> 01:27:30,240
+The energy level of the ball
+
+2165
+01:27:30,240 --> 01:27:32,840
+That is to say, there is a gap
+
+2166
+01:27:32,840 --> 01:27:34,680
+that is to say itself
+
+2167
+01:27:34,680 --> 01:27:36,840
+that is to say there is a
+
+2168
+01:27:36,840 --> 01:27:38,840
+energy gap on top
+
+2169
+01:27:38,840 --> 01:27:40,840
+So it's big
+
+2170
+01:27:40,840 --> 01:27:42,840
+so that
+
+2171
+01:27:42,840 --> 01:27:44,840
+So its properties are different
+
+2172
+01:27:44,840 --> 01:27:46,040
+nature is different
+
+2173
+01:27:46,040 --> 01:27:47,840
+That
+
+2174
+01:27:47,840 --> 01:27:50,840
+The second question just now is
+
+2175
+01:27:52,440 --> 01:27:54,240
+thickness
+
+2176
+01:27:54,240 --> 01:27:56,240
+How do you say to control it
+
+2177
+01:27:57,240 --> 01:27:58,240
+OK, yes
+
+2178
+01:27:58,240 --> 01:28:00,240
+You tell me two... actually there is no way to control
+
+2179
+01:28:00,000 --> 01:28:01,500
+what to do is say
+
+2180
+01:28:01,500 --> 01:28:03,340
+Later, after many experimenters did this,
+
+2181
+01:28:03,340 --> 01:28:04,840
+I made a lot of them
+
+2182
+01:28:04,840 --> 01:28:08,340
+Then go to the Wangxue Well Weijing to find
+
+2183
+01:28:08,340 --> 01:28:10,300
+I see this seems to be two layers
+
+2184
+01:28:10,300 --> 01:28:11,440
+There seems to be a layer
+
+2185
+01:28:11,440 --> 01:28:12,640
+you go find students
+
+2186
+01:28:12,640 --> 01:28:14,640
+you are in a hurry to plan a lot of time
+
+2187
+01:28:14,640 --> 01:28:16,840
+Just look for it bit by bit for a month
+
+2188
+01:28:16,840 --> 01:28:18,840
+Look where it says it's a layer
+
+2189
+01:28:18,840 --> 01:28:20,840
+I'm doing an experiment here
+
+2190
+01:28:20,840 --> 01:28:22,540
+so it's totally out of control
+
+2191
+01:28:22,540 --> 01:28:23,540
+what did you do
+
+2192
+01:28:23,540 --> 01:28:24,640
+look for what you see
+
+2193
+01:28:24,640 --> 01:28:26,240
+Maybe you can't find this piece
+
+2194
+01:28:26,240 --> 01:28:28,100
+layer by layer that never
+
+2195
+01:28:28,100 --> 01:28:30,100
+If this is expected, you can find it
+
+2196
+01:28:30,100 --> 01:28:32,600
+If you find it, you can measure it.
+
+2197
+01:28:32,600 --> 01:28:35,100
+So that's pretty much out of control
+
+2198
+01:28:36,600 --> 01:28:39,800
+After that, the more advanced method now
+
+2199
+01:28:39,800 --> 01:28:42,100
+That is to say, if you can grow
+
+2200
+01:28:42,100 --> 01:28:45,800
+You can adjust the situation in the laboratory
+
+2201
+01:28:45,800 --> 01:28:47,800
+one or two layers
+
+2202
+01:28:47,800 --> 01:28:49,800
+but only later
+
+2203
+01:28:49,800 --> 01:28:52,100
+So it was just a
+
+2204
+01:28:52,100 --> 01:28:54,100
+a very simple way
+
+2205
+01:28:54,100 --> 01:28:56,800
+there are some samples you can take some measurements
+
+2206
+01:28:56,800 --> 01:28:58,800
+Then after taking measurements, it was found that
+
+2207
+01:28:58,800 --> 01:29:00,800
+this seems
+
+2208
+01:29:00,000 --> 01:29:02,200
+This is of good nature
+
+2209
+01:29:03,460 --> 01:29:06,700
+the whole can repeat
+
+2210
+01:29:06,700 --> 01:29:09,940
+These things don't hit the nail on the head every time
+
+2211
+01:29:10,140 --> 01:29:11,100
+that's mainly for you
+
+2212
+01:29:11,100 --> 01:29:13,700
+Many, many labs can do the same thing
+
+2213
+01:29:13,800 --> 01:29:16,800
+Those measurements that learn a lot can be repeated
+
+2214
+01:29:16,800 --> 01:29:18,140
+Then everyone will believe
+
+2215
+01:29:18,140 --> 01:29:20,700
+this thing should be right
+
+2216
+01:29:21,300 --> 01:29:22,700
+is such confidence
+
+2217
+01:29:25,940 --> 01:29:27,240
+i want to ask two questions
+
+2218
+01:29:27,240 --> 01:29:29,340
+It's the first Smosh
+
+2219
+01:29:29,340 --> 01:29:31,340
+if you pull him a little bit
+
+2220
+01:29:31,440 --> 01:29:34,040
+Then some of his physical properties will change a lot
+
+2221
+01:29:34,140 --> 01:29:35,340
+The second question is
+
+2222
+01:29:35,440 --> 01:29:38,040
+Why is the Tan-60 called Lingwei structure?
+
+2223
+01:29:38,040 --> 01:29:39,840
+does he have a story
+
+2224
+01:29:40,940 --> 01:29:42,140
+if you pull
+
+2225
+01:29:42,140 --> 01:29:44,240
+His electronic structure will change
+
+2226
+01:29:44,240 --> 01:29:47,340
+That's just saying someone weighed it down
+
+2227
+01:29:47,740 --> 01:29:50,140
+Then his electronic structure
+
+2228
+01:29:50,140 --> 01:29:54,140
+There may be a small one that can GaP will appear
+
+2229
+01:29:54,740 --> 01:29:56,740
+Of course it would take a lot of changes
+
+2230
+01:29:56,740 --> 01:30:00,340
+Only then will he change his atom-to-atom script
+
+2231
+01:30:00,000 --> 01:30:03,400
+Is someone trying to say someone took some measurements
+
+2232
+01:30:03,400 --> 01:30:05,400
+Then do some calculations say
+
+2233
+01:30:05,400 --> 01:30:07,900
+How much force is needed to make the spicy hot
+
+2234
+01:30:07,900 --> 01:30:09,800
+what happens to it after it's hot
+
+2235
+01:30:09,800 --> 01:30:12,900
+So this is another thing that can be tuned
+
+2236
+01:30:12,900 --> 01:30:17,900
+So if you want to change its nature
+
+2237
+01:30:17,900 --> 01:30:21,900
+This is a mechanical method
+
+2238
+01:30:21,900 --> 01:30:23,900
+can be changed
+
+2239
+01:30:23,900 --> 01:30:27,400
+The second question is why it is called Lingwei
+
+2240
+01:30:27,400 --> 01:30:29,200
+i was from behind
+
+2241
+01:30:29,200 --> 01:30:32,000
+For example, our three-dimensional space
+
+2242
+01:30:32,000 --> 01:30:34,000
+If you have a direction take it away
+
+2243
+01:30:34,000 --> 01:30:36,300
+let it not let it confine you
+
+2244
+01:30:36,300 --> 01:30:37,900
+We become two-dimensional actions
+
+2245
+01:30:37,900 --> 01:30:39,800
+Like a face, this is two-dimensional
+
+2246
+01:30:39,800 --> 01:30:42,800
+It can move in two directions
+
+2247
+01:30:42,800 --> 01:30:45,800
+that becomes a line again
+
+2248
+01:30:45,800 --> 01:30:48,000
+If this is the case, you actually need to snuggle because it
+
+2249
+01:30:48,000 --> 01:30:50,200
+This direction is completely free to move
+
+2250
+01:30:50,200 --> 01:30:51,800
+Then we don't consider the other side
+
+2251
+01:30:51,800 --> 01:30:53,500
+it won't come out
+
+2252
+01:30:53,500 --> 01:30:56,000
+That said, get it down like this
+
+2253
+01:30:56,000 --> 01:30:58,900
+What do you call one when you search for me?
+
+2254
+01:31:00,000 --> 01:31:01,300
+In other words, this is called Lingwei
+
+2255
+01:31:01,300 --> 01:31:03,200
+Because I can't move in every direction
+
+2256
+01:31:03,200 --> 01:31:06,100
+this is just a description
+
+2257
+01:31:06,100 --> 01:31:09,200
+It's not that what that spirit means
+
+2258
+01:31:09,200 --> 01:31:11,400
+Just saying that every direction is restricted
+
+2259
+01:31:11,400 --> 01:31:12,500
+All directions are restricted
+
+2260
+01:31:12,500 --> 01:31:15,300
+so there's nothing left
+
+2261
+01:31:15,300 --> 01:31:17,500
+There is no such degree of freedom left
+
+2262
+01:31:17,500 --> 01:31:19,100
+So there was a speech like this
+
+2263
+01:31:19,100 --> 01:31:20,500
+It's not that
+
+2264
+01:31:20,500 --> 01:31:21,300
+so
+
+2265
+01:31:28,100 --> 01:31:28,600
+sorry
+
+2266
+01:31:28,600 --> 01:31:29,800
+because I'm not an undergraduate
+
+2267
+01:31:29,800 --> 01:31:31,500
+i want to ask
+
+2268
+01:31:31,500 --> 01:31:34,600
+Since the previous ratio is also graphite
+
+2269
+01:31:34,600 --> 01:31:37,000
+Then that graphite west is graphite
+
+2270
+01:31:37,000 --> 01:31:40,000
+so i heard your speech till now
+
+2271
+01:31:40,000 --> 01:31:41,100
+it feels like saying
+
+2272
+01:31:41,100 --> 01:31:42,400
+graphite west so so good
+
+2273
+01:31:42,400 --> 01:31:43,000
+so precious
+
+2274
+01:31:43,000 --> 01:31:46,000
+simply because it can be a very thin layer
+
+2275
+01:31:46,000 --> 01:31:47,000
+big piece
+
+2276
+01:31:47,000 --> 01:31:48,800
+So our front ratio is many, many
+
+2277
+01:31:48,800 --> 01:31:51,000
+Broken graphite west piled together
+
+2278
+01:31:51,000 --> 01:31:52,000
+OK
+
+2279
+01:31:52,000 --> 01:31:55,200
+It's not broken, it's a very regular arrangement
+
+2280
+01:31:55,200 --> 01:31:55,800
+right
+
+2281
+01:31:55,800 --> 01:31:57,100
+you
+
+2282
+01:31:57,100 --> 01:31:58,800
+In fact, if you spend so much together
+
+2283
+01:31:58,800 --> 01:31:59,800
+it will automatically
+
+2284
+01:32:00,000 --> 01:32:03,340
+line up because it is the lowest energy
+
+2285
+01:32:03,340 --> 01:32:07,440
+That graphite is what we go to the heart of thousands of miles
+
+2286
+01:32:07,440 --> 01:32:09,940
+The distance between each layer
+
+2287
+01:32:09,940 --> 01:32:13,660
+Probably, this is less than one
+
+2288
+01:32:13,660 --> 01:32:15,880
+Is a few of the collar three Answeron
+
+2289
+01:32:15,880 --> 01:32:18,240
+That's 0.3 nanometers
+
+2290
+01:32:18,240 --> 01:32:21,080
+That means, you take one
+
+2291
+01:32:21,080 --> 01:32:22,840
+then it lined up well
+
+2292
+01:32:22,840 --> 01:32:26,160
+Sometimes the direction is a little bit wrong, it doesn't matter
+
+2293
+01:32:26,160 --> 01:32:28,760
+But it's layer by layer, well piled up
+
+2294
+01:32:29,260 --> 01:32:32,760
+not to say that standard
+
+2295
+01:32:32,760 --> 01:32:35,260
+Perfect like this, but roughly
+
+2296
+01:32:35,260 --> 01:32:37,160
+this direction, this is
+
+2297
+01:32:37,160 --> 01:32:39,360
+Do it perpendicular to this, there is no problem
+
+2298
+01:32:39,360 --> 01:32:41,260
+So what about its permutation?
+
+2299
+01:32:41,260 --> 01:32:42,560
+you can imagine saying
+
+2300
+01:32:42,560 --> 01:32:44,260
+that millimeter
+
+2301
+01:32:44,260 --> 01:32:46,060
+Do you know how much a millimeter is
+
+2302
+01:32:46,060 --> 01:32:48,060
+It has about 3 million layers
+
+2303
+01:32:48,060 --> 01:32:49,260
+inside
+
+2304
+01:32:49,260 --> 01:32:52,360
+so so well lined up
+
+2305
+01:32:52,360 --> 01:32:55,560
+So, usually you take a piece
+
+2306
+01:32:55,560 --> 01:32:58,460
+Take the heart of thousands of miles down, it's a big piece, a lot of piles
+
+2307
+01:32:58,660 --> 01:32:59,760
+didn't split it
+
+2308
+01:32:59,760 --> 01:33:00,760
+because
+
+2309
+01:33:00,000 --> 01:33:02,680
+Why did you say it was made this time?
+
+2310
+01:33:02,840 --> 01:33:05,080
+This is a pretty good situation
+
+2311
+01:33:05,240 --> 01:33:07,380
+Everyone wants to say take it apart
+
+2312
+01:33:07,540 --> 01:33:10,480
+It's not that I can't think of a good way to separate it
+
+2313
+01:33:10,640 --> 01:33:13,480
+Now there are still some chemical ways to separate it
+
+2314
+01:33:13,640 --> 01:33:15,940
+That is to say, for example, if you bring graphite
+
+2315
+01:33:16,100 --> 01:33:19,480
+you put some other molecules in between
+
+2316
+01:33:19,640 --> 01:33:20,740
+Or nourish it
+
+2317
+01:33:20,900 --> 01:33:24,480
+Or put those things in OH to fill it up
+
+2318
+01:33:24,640 --> 01:33:26,080
+then it swells
+
+2319
+01:33:26,240 --> 01:33:28,340
+Yes, expand it and put it in agriculture
+
+2320
+01:33:28,340 --> 01:33:31,180
+It strips off every layer and every layer
+
+2321
+01:33:31,340 --> 01:33:33,180
+So this is also a method
+
+2322
+01:33:33,340 --> 01:33:35,140
+chemical method
+
+2323
+01:33:35,300 --> 01:33:36,340
+Because I still don't understand
+
+2324
+01:33:36,500 --> 01:33:36,980
+so ask
+
+2325
+01:33:37,140 --> 01:33:38,380
+Since there are many layers
+
+2326
+01:33:38,540 --> 01:33:41,980
+tell me if i ask a stupid question
+
+2327
+01:33:42,140 --> 01:33:43,780
+That is to say, it is layer by layer in nature
+
+2328
+01:33:43,940 --> 01:33:45,340
+Is there no way to say their
+
+2329
+01:33:45,500 --> 01:33:46,700
+the edge of each layer
+
+2330
+01:33:46,880 --> 01:33:48,700
+Is there any way to connect them
+
+2331
+01:33:48,880 --> 01:33:50,380
+Because if we can find such a method
+
+2332
+01:33:50,540 --> 01:33:52,900
+not that they are cluttered inside the pencil
+
+2333
+01:33:53,080 --> 01:33:54,340
+we just break it up
+
+2334
+01:33:54,500 --> 01:33:55,780
+Then each piece is connected
+
+2335
+01:33:55,940 --> 01:33:57,080
+that's what we want
+
+2336
+01:34:00,000 --> 01:34:01,000
+so the problem is heavy
+
+2337
+01:34:01,000 --> 01:34:02,000
+But the other is to say
+
+2338
+01:34:02,000 --> 01:34:03,500
+Since there are diamonds in nature
+
+2339
+01:34:03,500 --> 01:34:05,000
+Diamonds are also hard to make
+
+2340
+01:34:05,000 --> 01:34:07,000
+Will there be graphite series in nature?
+
+2341
+01:34:07,000 --> 01:34:09,000
+Although we humans find it difficult to do
+
+2342
+01:34:09,000 --> 01:34:11,500
+If nature had a way of forming it like this
+
+2343
+01:34:11,500 --> 01:34:12,500
+maybe find out
+
+2344
+01:34:12,500 --> 01:34:13,500
+we don't have to think
+
+2345
+01:34:13,500 --> 01:34:14,500
+right
+
+2346
+01:34:14,500 --> 01:34:16,500
+OK, there are graphite series in nature
+
+2347
+01:34:16,500 --> 01:34:17,500
+Just say two pieces together
+
+2348
+01:34:17,500 --> 01:34:19,000
+it will come together
+
+2349
+01:34:19,000 --> 01:34:22,000
+because it usually interacts
+
+2350
+01:34:22,000 --> 01:34:23,500
+Unless you have a layer of graphite
+
+2351
+01:34:23,500 --> 01:34:24,500
+you are on a surface
+
+2352
+01:34:24,500 --> 01:34:25,500
+just stand over there other stuff
+
+2353
+01:34:25,500 --> 01:34:26,500
+don't touch it
+
+2354
+01:34:26,500 --> 01:34:28,000
+or how does it find
+
+2355
+01:34:28,000 --> 01:34:29,500
+Now I mean, everyone think of a way to say
+
+2356
+01:34:29,500 --> 01:34:31,000
+grow it in the lab
+
+2357
+01:34:31,000 --> 01:34:33,000
+it's heating or something
+
+2358
+01:34:33,000 --> 01:34:35,000
+it grows naturally
+
+2359
+01:34:35,000 --> 01:34:37,500
+This is what everyone wants now
+
+2360
+01:34:37,500 --> 01:34:38,500
+if nature
+
+2361
+01:34:38,500 --> 01:34:40,500
+It has been achieved that it can be naturally developed into a layer
+
+2362
+01:34:40,500 --> 01:34:43,000
+Then we humans can find this method
+
+2363
+01:34:43,000 --> 01:34:45,000
+to develop it naturally into a layer
+
+2364
+01:34:45,000 --> 01:34:47,500
+Because if many layers collide
+
+2365
+01:34:47,500 --> 01:34:48,500
+become graphite
+
+2366
+01:34:48,500 --> 01:34:50,500
+Graphite is useless.
+
+2367
+01:34:50,500 --> 01:34:55,000
+because it works later
+
+2368
+01:34:55,000 --> 01:34:56,500
+it becomes it is a metal
+
+2369
+01:34:56,500 --> 01:34:59,500
+Then it just says less
+
+2370
+01:35:00,000 --> 01:35:02,000
+some nice features
+
+2371
+01:35:02,000 --> 01:35:04,000
+When you get to the first floor
+
+2372
+01:35:04,000 --> 01:35:06,000
+some other features
+
+2373
+01:35:06,000 --> 01:35:08,000
+will run out
+
+2374
+01:35:08,000 --> 01:35:10,000
+After interaction
+
+2375
+01:35:10,000 --> 01:35:12,000
+will offset these things
+
+2376
+01:35:12,000 --> 01:35:14,000
+sorry
+
+2377
+01:35:14,000 --> 01:35:16,000
+sorry
+
+2378
+01:35:16,000 --> 01:35:18,000
+i'll waste a little more time
+
+2379
+01:35:18,000 --> 01:35:20,000
+but you just said
+
+2380
+01:35:20,000 --> 01:35:22,000
+A pencil is many small flakes of graphite
+
+2381
+01:35:22,000 --> 01:35:24,000
+'cause they suck together
+
+2382
+01:35:24,000 --> 01:35:26,000
+But every little piece
+
+2383
+01:35:26,000 --> 01:35:28,000
+It will always have a beginning from graphite to a small piece
+
+2384
+01:35:28,000 --> 01:35:30,000
+but how do you pick out
+
+2385
+01:35:30,000 --> 01:35:32,000
+you can't your fingers so single
+
+2386
+01:35:32,000 --> 01:35:34,000
+How would you pick out
+
+2387
+01:35:34,000 --> 01:35:36,000
+you have to have a very thin
+
+2388
+01:35:36,000 --> 01:35:38,000
+something the size of a round paper
+
+2389
+01:35:38,000 --> 01:35:40,000
+clip paper to clip it out
+
+2390
+01:35:40,000 --> 01:35:42,000
+this is something we didn't do
+
+2391
+01:35:42,000 --> 01:35:44,000
+there is no way you have a round paper
+
+2392
+01:35:44,000 --> 01:35:46,000
+The size of the paper clip to pick out this layer
+
+2393
+01:35:46,000 --> 01:35:48,000
+if it can be done
+
+2394
+01:35:48,000 --> 01:35:50,000
+Just pick that layer out
+
+2395
+01:35:50,000 --> 01:35:52,000
+IPN seems to have AtomTrees
+
+2396
+01:35:52,000 --> 01:35:54,000
+Then I remember that in biochemistry
+
+2397
+01:35:54,000 --> 01:35:56,000
+Seems like a technology called LaserTrees
+
+2398
+01:35:56,000 --> 01:35:58,000
+There is no way to pull a person like this
+
+2399
+01:35:58,000 --> 01:36:00,000
+that is to say already
+
+2400
+01:36:00,000 --> 01:36:02,000
+achieve a small degree of graphite west
+
+2401
+01:36:02,000 --> 01:36:03,000
+come out piece by piece
+
+2402
+01:36:03,000 --> 01:36:04,000
+If you push the trash
+
+2403
+01:36:04,000 --> 01:36:05,000
+It is a
+
+2404
+01:36:05,000 --> 01:36:07,000
+it can move a large molecule
+
+2405
+01:36:07,000 --> 01:36:10,000
+The space is still quite large
+
+2406
+01:36:10,000 --> 01:36:12,000
+Graphite is an atom
+
+2407
+01:36:12,000 --> 01:36:15,000
+So it could have the one with thousands of atoms
+
+2408
+01:36:15,000 --> 01:36:17,000
+that thing it can control it
+
+2409
+01:36:17,000 --> 01:36:19,000
+push it move it
+
+2410
+01:36:19,000 --> 01:36:21,000
+There is still a difference in scale
+
+2411
+01:36:21,000 --> 01:36:23,000
+because
+
+2412
+01:36:23,000 --> 01:36:25,000
+There is still a difference in scale, the one in nanometers
+
+2413
+01:36:25,000 --> 01:36:26,000
+because
+
+2414
+01:36:26,000 --> 01:36:28,000
+you might imagine
+
+2415
+01:36:28,000 --> 01:36:29,000
+like nanometer
+
+2416
+01:36:29,000 --> 01:36:31,000
+Now it's what everyone says is the sharpest thing
+
+2417
+01:36:31,000 --> 01:36:34,000
+Because a small such a small tube
+
+2418
+01:36:34,000 --> 01:36:35,000
+That head is very sharp
+
+2419
+01:36:35,000 --> 01:36:39,000
+so you use it for some other application
+
+2420
+01:36:39,000 --> 01:36:42,000
+The so-called pointed one is its
+
+2421
+01:36:42,000 --> 01:36:44,000
+That circle is about a few nanometers
+
+2422
+01:36:44,000 --> 01:36:46,000
+is in the nanometer range
+
+2423
+01:36:46,000 --> 01:36:50,000
+So presumably things will never be smaller than a nanometer again.
+
+2424
+01:36:50,000 --> 01:36:52,000
+Because smaller than nanometer
+
+2425
+01:36:52,000 --> 01:36:54,000
+you are about to enter the atom
+
+2426
+01:36:54,000 --> 01:36:56,000
+the size of an atom
+
+2427
+01:36:56,000 --> 01:36:58,000
+is the distance between atoms
+
+2428
+01:36:58,000 --> 01:37:00,000
+like this
+
+2429
+01:37:00,000 --> 01:37:02,640
+On the graphite side or in the graphite system
+
+2430
+01:37:03,640 --> 01:37:07,880
+The distance between judgment and detection is 0.14 difficulty
+
+2431
+01:37:08,480 --> 01:37:11,200
+That's probably the smallest distance
+
+2432
+01:37:11,200 --> 01:37:12,040
+right now we
+
+2433
+01:37:12,040 --> 01:37:13,640
+if you go again
+
+2434
+01:37:13,640 --> 01:37:17,240
+It's probably going to go into that thing in the yard box.
+
+2435
+01:37:17,840 --> 01:37:19,640
+So it's chemical
+
+2436
+01:37:19,640 --> 01:37:23,240
+We probably only had a few Ansejangs in mind
+
+2437
+01:37:23,680 --> 01:37:24,240
+on this
+
+2438
+01:37:29,920 --> 01:37:31,720
+There are plans mentioned in this major
+
+2439
+01:37:31,720 --> 01:37:35,240
+That is, the production of the West Rock Line has reached its physical limit.
+
+2440
+01:37:35,480 --> 01:37:37,120
+The so-called physical limit
+
+2441
+01:37:37,120 --> 01:37:37,840
+that is
+
+2442
+01:37:38,640 --> 01:37:42,160
+How long will it take you and us to reach that limit now
+
+2443
+01:37:42,360 --> 01:37:43,960
+or we
+
+2444
+01:37:44,760 --> 01:37:45,760
+almost to the limit
+
+2445
+01:37:45,760 --> 01:37:48,320
+But it is very difficult to reach this limit
+
+2446
+01:37:48,360 --> 01:37:50,080
+that could be a long time
+
+2447
+01:37:50,080 --> 01:37:52,040
+Then everyone has a lot of spirituality
+
+2448
+01:37:52,120 --> 01:37:55,960
+Then we look forward to having new materials to look forward to
+
+2449
+01:37:55,960 --> 01:37:57,640
+ok my so-called limit
+
+2450
+01:37:57,640 --> 01:38:00,120
+That is to say, you have a CPU
+
+2451
+01:38:00,000 --> 01:38:03,240
+How many legendary stones can be placed on the upper right
+
+2452
+01:38:03,240 --> 01:38:06,600
+In the end let them now be two little
+
+2453
+01:38:06,600 --> 01:38:08,200
+One foot is very close
+
+2454
+01:38:08,200 --> 01:38:09,280
+different in the middle
+
+2455
+01:38:09,280 --> 01:38:12,680
+Like we put some Oxide MRT
+
+2456
+01:38:12,680 --> 01:38:15,080
+Yes, that's already very, very thin
+
+2457
+01:38:15,080 --> 01:38:16,080
+the limit is
+
+2458
+01:38:16,080 --> 01:38:16,880
+you can't
+
+2459
+01:38:16,880 --> 01:38:18,240
+You are about a few percent thinner
+
+2460
+01:38:18,240 --> 01:38:20,440
+After a few percent of the round paper
+
+2461
+01:38:20,440 --> 01:38:21,960
+you probably won't be able to go down
+
+2462
+01:38:21,960 --> 01:38:23,720
+further down it will touch
+
+2463
+01:38:23,720 --> 01:38:25,680
+will affect each other
+
+2464
+01:38:25,680 --> 01:38:27,920
+so say something
+
+2465
+01:38:27,920 --> 01:38:30,040
+current design
+
+2466
+01:38:30,040 --> 01:38:32,280
+to the current design
+
+2467
+01:38:32,280 --> 01:38:35,400
+Then they probably in a certain situation
+
+2468
+01:38:35,400 --> 01:38:36,480
+no longer possible
+
+2469
+01:38:36,480 --> 01:38:37,840
+we can't put these things
+
+2470
+01:38:37,840 --> 01:38:39,800
+further increase
+
+2471
+01:38:39,800 --> 01:38:42,160
+that number for example
+
+2472
+01:38:42,160 --> 01:38:45,640
+The current situation in 2010 now
+
+2473
+01:38:45,640 --> 01:38:47,040
+maybe every one of you
+
+2474
+01:38:47,040 --> 01:38:49,520
+When each transistor operates
+
+2475
+01:38:49,520 --> 01:38:50,280
+what a nice electron
+
+2476
+01:38:50,280 --> 01:38:51,600
+what a current
+
+2477
+01:38:51,600 --> 01:38:53,680
+maybe it's time to say
+
+2478
+01:38:53,680 --> 01:38:56,520
+A dozen or twenty electrons went to operate
+
+2479
+01:38:56,520 --> 01:38:58,000
+so everything will come to an end
+
+2480
+01:38:58,000 --> 01:38:59,800
+go down like discreet
+
+2481
+01:39:00,000 --> 01:39:03,840
+I say this because the way it's currently designed
+
+2482
+01:39:03,840 --> 01:39:08,000
+The way everyone built the base to make it
+
+2483
+01:39:08,000 --> 01:39:12,000
+The purpose of finding new materials is to say
+
+2484
+01:39:12,000 --> 01:39:15,040
+If the new material has better properties
+
+2485
+01:39:15,040 --> 01:39:18,500
+If it is more powerful
+
+2486
+01:39:18,500 --> 01:39:20,140
+then we can say
+
+2487
+01:39:20,140 --> 01:39:23,340
+Don't go as small as that will achieve the same function
+
+2488
+01:39:23,340 --> 01:39:27,740
+That means doing it in another way.
+
+2489
+01:39:28,240 --> 01:39:32,000
+Then everyone's ballistic body over there
+
+2490
+01:39:32,000 --> 01:39:35,840
+Everyone in the industry probably has a different view
+
+2491
+01:39:35,840 --> 01:39:38,040
+that is to say you till now
+
+2492
+01:39:38,040 --> 01:39:41,600
+We now have a new CP coming out every year
+
+2493
+01:39:41,600 --> 01:39:44,340
+how long then
+
+2494
+01:39:44,340 --> 01:39:47,740
+This is what is said in the past
+
+2495
+01:39:47,740 --> 01:39:49,640
+about ten or fifteen years
+
+2496
+01:39:49,640 --> 01:39:56,000
+That has already reached the complete limit of physics.
+
+2497
+01:39:56,100 --> 01:39:59,100
+The limit means that two things will meet together and cannot
+
+2498
+01:39:59,100 --> 01:40:01,300
+multiple
+
+2499
+01:40:00,000 --> 01:40:02,000
+how much can you say
+
+2500
+01:40:02,000 --> 01:40:03,600
+You have to have something to do with him
+
+2501
+01:40:03,600 --> 01:40:05,000
+How many atoms are related
+
+2502
+01:40:05,000 --> 01:40:06,000
+That's under several tens of atoms
+
+2503
+01:40:06,000 --> 01:40:07,000
+He is still a semiconductor
+
+2504
+01:40:07,000 --> 01:40:09,000
+Or he still has a Primarch
+
+2505
+01:40:09,000 --> 01:40:14,000
+This is a space for discussion
+
+2506
+01:40:15,000 --> 01:40:18,000
+i mean that part
+
+2507
+01:40:31,000 --> 01:40:36,000
+i think today was a really good talk
+
+2508
+01:40:36,000 --> 01:40:40,000
+Many friends participated
+
+2509
+01:40:40,000 --> 01:40:45,000
+we learned a lot of new things
+
+2510
+01:40:45,000 --> 01:40:47,000
+I'm an amateur at this
+
+2511
+01:40:47,000 --> 01:40:50,000
+So I have nothing to contribute
+
+2512
+01:40:50,000 --> 01:40:52,000
+But 20 years ago there was a cartoon
+
+2513
+01:40:52,000 --> 01:40:55,000
+It is said that the fastest speed for human beings to send letters in the future
+
+2514
+01:40:55,000 --> 01:40:59,000
+The picture above is delivered by helicopter to the door of the American cargo
+
+2515
+01:40:59,000 --> 01:41:00,000
+did not expect
+
+2516
+01:41:00,000 --> 01:41:02,000
+Then ran out an E-mail out
+
+2517
+01:41:02,000 --> 01:41:05,000
+Therefore, as the director said just now,
+
+2518
+01:41:05,000 --> 01:41:06,000
+how to develop in the future
+
+2519
+01:41:06,000 --> 01:41:07,000
+we do not know
+
+2520
+01:41:07,000 --> 01:41:08,000
+we will wait and see
+
+2521
+01:41:08,000 --> 01:41:10,000
+ok we thank you zhou
+

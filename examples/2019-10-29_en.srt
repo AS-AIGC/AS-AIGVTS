@@ -1,0 +1,10419 @@
+1
+00:00:00,000 --> 00:00:12,080
+s
+
+2
+00:00:12,080 --> 00:00:27,140
+n
+
+3
+00:00:27,140 --> 00:00:29,520
+n
+
+4
+00:00:30,020 --> 00:00:35,720
+n
+
+5
+00:00:39,720 --> 00:00:43,460
+s
+
+6
+00:00:43,460 --> 00:00:46,540
+.
+
+7
+00:00:47,660 --> 00:00:51,260
+n
+
+8
+00:00:52,780 --> 00:00:53,100
+c
+
+9
+00:00:53,180 --> 00:00:53,400
+g
+
+10
+00:00:53,400 --> 00:00:53,600
+h
+
+11
+00:00:57,300 --> 00:00:57,760
+a
+
+12
+00:00:57,760 --> 00:00:58,200
+n
+
+13
+00:00:58,200 --> 00:00:58,740
+u
+
+14
+00:00:58,740 --> 00:00:59,240
+n
+
+15
+00:01:00,240 --> 00:01:00,840
+pull
+
+16
+00:01:01,800 --> 00:01:02,360
+cut
+
+17
+00:01:08,500 --> 00:01:08,880
+300
+
+18
+00:01:08,980 --> 00:01:13,280
+areas
+
+19
+00:01:13,280 --> 00:01:17,880
+so
+
+20
+00:01:17,880 --> 00:01:18,440
+curbs
+
+21
+00:01:18,440 --> 00:01:19,440
+w
+
+22
+00:01:20,440 --> 00:01:20,540
+f
+
+23
+00:01:22,200 --> 00:01:22,340
+w
+
+24
+00:01:22,340 --> 00:01:22,920
+n
+
+25
+00:01:22,920 --> 00:01:23,820
+w
+
+26
+00:01:23,820 --> 00:01:24,360
+n
+
+27
+00:01:24,360 --> 00:01:24,860
+n
+
+28
+00:01:24,860 --> 00:01:27,000
+
+29
+00:01:27,060 --> 00:01:27,600
+n
+
+30
+00:01:27,600 --> 00:01:28,500
+o
+
+31
+00:01:00,000 --> 00:01:04,600
+2018 Governor's Banquet, Science Popularization Lectures and Speakers in October
+
+32
+00:01:04,600 --> 00:01:08,600
+We ask the Director of No Impulse of the Secretariat of the Court to host for us
+
+33
+00:01:12,100 --> 00:01:17,800
+Okay, thank you all colleagues present
+
+34
+00:01:17,800 --> 00:01:21,400
+Or interested in popular science
+
+35
+00:01:21,400 --> 00:01:28,200
+There is still a little drizzle outside in this early autumn season
+
+36
+00:01:28,200 --> 00:01:33,200
+Still willing to take off the tired mood after a day of work
+
+37
+00:01:33,200 --> 00:01:38,500
+I am also willing to come to the Institute of Chinese Studies to listen to lectures on popular science
+
+38
+00:01:38,500 --> 00:01:44,200
+Today's speech is given by the deputy director of our Institute of Astronomy and Astrophysics
+
+39
+00:01:44,200 --> 00:01:48,500
+Researcher Wang Xiangyu, who is also the deputy director
+
+40
+00:01:48,500 --> 00:01:51,800
+he came to give a keynote speech
+
+41
+00:01:51,800 --> 00:01:56,700
+The eyes of astronomers who make astronomers
+
+42
+00:01:56,700 --> 00:01:59,800
+The development of Jianduan astronomy
+
+43
+00:02:00,000 --> 00:02:04,880
+What about Mr. Wang, he and I are in fact the black hole this time
+
+44
+00:02:04,880 --> 00:02:07,280
+because of the black hole
+
+45
+00:02:07,280 --> 00:02:09,800
+So have more close interaction with him
+
+46
+00:02:09,800 --> 00:02:13,360
+He is a very personable, very gentle person
+
+47
+00:02:13,360 --> 00:02:15,960
+I took a closer look at his profile
+
+48
+00:02:15,960 --> 00:02:19,880
+He himself graduated from the Institute of Electronics of our Jiaotong University
+
+49
+00:02:19,880 --> 00:02:21,960
+After he graduated with a Ph.D.
+
+50
+00:02:21,960 --> 00:02:24,760
+joined our newly established
+
+51
+00:02:24,760 --> 00:02:26,640
+Astronomical Institute of Astrophysics
+
+52
+00:02:26,920 --> 00:02:33,040
+Currently a researcher and deputy director of our astronomical institute
+
+53
+00:02:33,040 --> 00:02:34,600
+he is central university
+
+54
+00:02:34,600 --> 00:02:40,280
+He is also an adjunct professor at the Central Space Science Institute
+
+55
+00:02:40,280 --> 00:02:43,800
+and director of the East Asia Observatory
+
+56
+00:02:43,800 --> 00:02:47,000
+His research specialization was developed in Astronomical Rituals
+
+57
+00:02:47,000 --> 00:02:49,400
+small solar system bodies
+
+58
+00:02:49,400 --> 00:02:51,040
+Infrared detection
+
+59
+00:02:51,040 --> 00:02:53,480
+dendrite gold
+
+60
+00:02:53,480 --> 00:02:56,600
+The teacher told me that I don't know what astronomical Shulei gold is
+
+61
+00:02:56,640 --> 00:03:00,080
+his research looks real
+
+62
+00:03:00,000 --> 00:03:01,040
+really great
+
+63
+00:03:01,040 --> 00:03:03,840
+It is currently the only one in the astronomical institute
+
+64
+00:03:03,840 --> 00:03:08,200
+Personnel who can engage in the development of visible light and infrared rays
+
+65
+00:03:08,200 --> 00:03:12,680
+Dominated four international telescopes over the years
+
+66
+00:03:12,680 --> 00:03:15,000
+Instrument R&D Equipment
+
+67
+00:03:15,000 --> 00:03:17,280
+It is also a Sino-US acting project
+
+68
+00:03:17,280 --> 00:03:21,200
+And one of the hosts of the Neptune Celestial Show Mind Project
+
+69
+00:03:21,200 --> 00:03:25,640
+It conducts research on the evolution history of the solar system
+
+70
+00:03:25,640 --> 00:03:28,840
+At the same time participated in the research and development of Japanese scientific satellites
+
+71
+00:03:28,880 --> 00:03:32,240
+Also completed research globe
+
+72
+00:03:32,240 --> 00:03:35,200
+Electron Analyzer of the Magnetosphere
+
+73
+00:03:35,200 --> 00:03:37,760
+To be fair I don't even know what that means.
+
+74
+00:03:37,760 --> 00:03:40,880
+But we may ask Mr. Wang to explain later
+
+75
+00:03:40,880 --> 00:03:42,880
+it is currently leading a team
+
+76
+00:03:42,880 --> 00:03:47,280
+Entering the Next Generation of Infrared Space Telescopes
+
+77
+00:03:47,280 --> 00:03:49,400
+and the future world's largest
+
+78
+00:03:49,400 --> 00:03:53,040
+Instrument development for the European Visible Light Telescope
+
+79
+00:03:53,040 --> 00:03:56,000
+And hope to expand Taiwan astronomy
+
+80
+00:03:56,000 --> 00:03:59,720
+Opportunity to participate in state-of-the-art observing equipment
+
+81
+00:04:00,000 --> 00:04:02,000
+It also assists domestic manufacturers
+
+82
+00:04:02,000 --> 00:04:05,000
+Build an automated large area detector
+
+83
+00:04:05,000 --> 00:04:07,000
+There is also a system for camera detection
+
+84
+00:04:07,000 --> 00:04:10,000
+Hopefully these astronomical instruments will resolve
+
+85
+00:04:10,000 --> 00:04:12,000
+It's not just about seeing the sky
+
+86
+00:04:12,000 --> 00:04:14,000
+It can also solve our current domestic industry
+
+87
+00:04:14,000 --> 00:04:16,000
+domestic and foreign industries
+
+88
+00:04:16,000 --> 00:04:17,000
+all the problems
+
+89
+00:04:17,000 --> 00:04:20,000
+and create some possible business opportunities
+
+90
+00:04:20,000 --> 00:04:23,000
+It's a little bit windy outside today
+
+91
+00:04:23,000 --> 00:04:25,000
+english fat
+
+92
+00:04:25,000 --> 00:04:26,000
+But if you are interested
+
+93
+00:04:26,000 --> 00:04:27,000
+I don't know everyone last Saturday
+
+94
+00:04:27,000 --> 00:04:29,000
+Have you ever come to see go away open
+
+95
+00:04:29,000 --> 00:04:32,000
+Everyone can also go to the Humanities Museum
+
+96
+00:04:32,000 --> 00:04:33,000
+the stairs
+
+97
+00:04:33,000 --> 00:04:36,000
+can see us a black hole
+
+98
+00:04:36,000 --> 00:04:39,000
+This year is our Central Plains
+
+99
+00:04:39,000 --> 00:04:41,000
+a very important year
+
+100
+00:04:41,000 --> 00:04:44,000
+Our team in Taiwan and the world
+
+101
+00:04:44,000 --> 00:04:46,000
+we found
+
+102
+00:04:46,000 --> 00:04:47,000
+Black hole photographed for the first time
+
+103
+00:04:47,000 --> 00:04:49,000
+confirmed the black hole
+
+104
+00:04:49,000 --> 00:04:52,000
+If you look carefully
+
+105
+00:04:52,000 --> 00:04:55,000
+It's actually very, very difficult
+
+106
+00:04:55,000 --> 00:04:57,000
+if you look at it now
+
+107
+00:04:57,000 --> 00:04:59,000
+that picture looks
+
+108
+00:05:00,000 --> 00:05:02,000
+not very clear
+
+109
+00:05:02,880 --> 00:05:04,380
+Then I was last Saturday
+
+110
+00:05:04,380 --> 00:05:06,380
+I just heard
+
+111
+00:05:07,180 --> 00:05:10,240
+How difficult is it to photograph that black hole?
+
+112
+00:05:11,260 --> 00:05:12,760
+after everyone listened
+
+113
+00:05:12,760 --> 00:05:16,920
+I just discovered my admiration for that Teacher Wang
+
+114
+00:05:16,920 --> 00:05:19,420
+deep in my heart
+
+115
+00:05:19,920 --> 00:05:20,920
+how difficult that is
+
+116
+00:05:20,920 --> 00:05:23,320
+As you can imagine, it's probably from New York
+
+117
+00:05:23,920 --> 00:05:26,120
+to see in los angeles
+
+118
+00:05:26,620 --> 00:05:28,300
+a golf ball
+
+119
+00:05:28,300 --> 00:05:31,300
+a small groove on the top
+
+120
+00:05:31,300 --> 00:05:34,300
+You can imagine how difficult it would be
+
+121
+00:05:34,300 --> 00:05:38,300
+So it's no wonder we're developing everything so cutting-edge
+
+122
+00:05:38,300 --> 00:05:41,300
+So let me think about it
+
+123
+00:05:41,300 --> 00:05:43,300
+Seeing Los Angeles from New York
+
+124
+00:05:43,300 --> 00:05:45,300
+A small groove in a golf ball
+
+125
+00:05:45,300 --> 00:05:47,300
+how did it work
+
+126
+00:05:47,300 --> 00:05:51,300
+Next, we warmly welcome Mr. Wang
+
+127
+00:05:51,300 --> 00:05:52,300
+Come help us analyze
+
+128
+00:05:52,300 --> 00:05:53,300
+thank you all
+
+129
+00:05:55,300 --> 00:05:56,300
+Thank you Director
+
+130
+00:05:58,300 --> 00:05:59,300
+goodbye
+
+131
+00:06:00,000 --> 00:06:05,000
+I've actually been playing this video before starting my talk
+
+132
+00:06:05,000 --> 00:06:06,240
+Then this is actually everyone's image
+
+133
+00:06:06,240 --> 00:06:09,400
+I use this little machine
+
+134
+00:06:10,640 --> 00:06:12,560
+This is the instrument we developed ourselves
+
+135
+00:06:12,560 --> 00:06:17,000
+But in fact, this is still far from most astronomical instruments.
+
+136
+00:06:17,000 --> 00:06:21,560
+This is the one we developed for Zhongshan Science people.
+
+137
+00:06:21,560 --> 00:06:24,080
+a new chair used on satellites
+
+138
+00:06:24,080 --> 00:06:26,600
+it can do very fast tracking
+
+139
+00:06:26,600 --> 00:06:29,440
+Know the current attitude of my satellite
+
+140
+00:06:29,440 --> 00:06:33,160
+The current attitude of artificial satellites is a thing for navigation
+
+141
+00:06:33,160 --> 00:06:36,280
+Then I want to use this small example to tell you
+
+142
+00:06:36,280 --> 00:06:38,280
+In addition to astronomical instruments
+
+143
+00:06:38,280 --> 00:06:42,520
+In fact, there are many other related applications
+
+144
+00:06:44,960 --> 00:06:49,760
+Then I will start my speech today
+
+145
+00:06:49,760 --> 00:06:57,560
+Director Wu just introduced the topic of today's speech
+
+146
+00:06:57,560 --> 00:06:59,960
+introduce everyone
+
+147
+00:07:00,000 --> 00:07:05,440
+Have some knowledge about the astronomical instruments behind the development of it
+
+148
+00:07:05,440 --> 00:07:10,640
+Where is its application and its difficulty
+
+149
+00:07:10,640 --> 00:07:12,240
+in this first page
+
+150
+00:07:12,240 --> 00:07:14,520
+In fact, I put a picture of the moon
+
+151
+00:07:14,520 --> 00:07:17,800
+This photo of the moon was actually taken by my daughter
+
+152
+00:07:17,800 --> 00:07:19,520
+She took a digital camera
+
+153
+00:07:19,520 --> 00:07:21,960
+It's the fried moon
+
+154
+00:07:21,960 --> 00:07:22,840
+just push it down
+
+155
+00:07:22,840 --> 00:07:24,880
+Then you will see full image
+
+156
+00:07:24,880 --> 00:07:28,520
+In fact, the current technology is honestly very advanced.
+
+157
+00:07:28,560 --> 00:07:31,840
+So in fact, many times
+
+158
+00:07:31,840 --> 00:07:34,320
+If you are looking for a place to construct a case
+
+159
+00:07:34,320 --> 00:07:36,920
+You go to the right place in the sky to shoot
+
+160
+00:07:36,920 --> 00:07:38,440
+you can shoot this
+
+161
+00:07:38,440 --> 00:07:41,600
+It's still a very beautiful image of the Milky Way
+
+162
+00:07:41,600 --> 00:07:42,640
+then you may think
+
+163
+00:07:42,640 --> 00:07:46,040
+Hey, since you can just go and buy a digital camera
+
+164
+00:07:46,040 --> 00:07:47,440
+You just shot it so well
+
+165
+00:07:47,440 --> 00:07:50,040
+So why do you want the school to do it yourself?
+
+166
+00:07:50,040 --> 00:07:54,600
+I'll just go around and find someone to get my equipment out.
+
+167
+00:07:54,600 --> 00:07:56,200
+that's actually
+
+168
+00:07:56,200 --> 00:07:58,040
+I also said today that I hope that after listening to
+
+169
+00:07:58,040 --> 00:08:00,040
+just talk about why
+
+170
+00:08:00,000 --> 00:08:04,780
+We have to spend so much effort on the development of astronomical instruments
+
+171
+00:08:04,780 --> 00:08:08,780
+Mainly there are very main reasons why we have to do it ourselves
+
+172
+00:08:08,780 --> 00:08:11,280
+It's just that you can't buy it
+
+173
+00:08:11,280 --> 00:08:15,940
+Because you can find these cameras in the market
+
+174
+00:08:15,940 --> 00:08:20,740
+or imaging systems, in fact, they are all fixed specifications
+
+175
+00:08:20,740 --> 00:08:24,580
+But we astronomers special binoculars
+
+176
+00:08:24,580 --> 00:08:27,080
+In fact, they all have different designs
+
+177
+00:08:27,080 --> 00:08:30,080
+So each binocular has its own characteristics
+
+178
+00:08:30,080 --> 00:08:33,080
+kind of like your own eyes
+
+179
+00:08:33,080 --> 00:08:36,080
+If everyone's eyes are short-sighted
+
+180
+00:08:36,080 --> 00:08:38,080
+You can't wear someone else's glasses
+
+181
+00:08:38,080 --> 00:08:40,080
+so i can see clearly
+
+182
+00:08:40,080 --> 00:08:44,080
+The same goes for every binocular, it has its own designed focal length
+
+183
+00:08:44,080 --> 00:08:49,080
+In addition to this focal length, it has the so-called phase difference in the system
+
+184
+00:08:49,080 --> 00:08:51,080
+so it's hard for you to get between binoculars
+
+185
+00:08:51,080 --> 00:08:53,080
+I'm the one who moves this department around
+
+186
+00:08:53,080 --> 00:08:55,080
+you can get the same effect
+
+187
+00:08:55,080 --> 00:08:57,080
+In addition, in fact, every binocular
+
+188
+00:08:57,080 --> 00:08:59,080
+it all wants to have its own character
+
+189
+00:09:00,000 --> 00:09:02,000
+Make the best science in the world
+
+190
+00:09:02,000 --> 00:09:05,000
+So I'm going to achieve the best of this
+
+191
+00:09:05,000 --> 00:09:07,000
+We speak the words of the best potency
+
+192
+00:09:07,000 --> 00:09:09,000
+then i will do it myself
+
+193
+00:09:09,000 --> 00:09:11,000
+Of course, another reason is that
+
+194
+00:09:11,000 --> 00:09:13,000
+In fact, if you are really rich
+
+195
+00:09:13,000 --> 00:09:15,000
+You can definitely find Guangshi to do it for you
+
+196
+00:09:15,000 --> 00:09:18,000
+It's just that most scientists are really poor
+
+197
+00:09:18,000 --> 00:09:21,000
+Our funds are usually picked again and again.
+
+198
+00:09:21,000 --> 00:09:24,000
+So everyone becomes self-developed
+
+199
+00:09:24,000 --> 00:09:28,000
+Then let the research of this astronomy department
+
+200
+00:09:28,000 --> 00:09:32,000
+become a very special field of study
+
+201
+00:09:32,000 --> 00:09:34,000
+In fact, the whole world
+
+202
+00:09:34,000 --> 00:09:37,000
+The person engaged in the development of the first phase of this astronomy
+
+203
+00:09:37,000 --> 00:09:40,000
+Maybe it's because we've been in touch so often
+
+204
+00:09:40,000 --> 00:09:42,000
+probably a few thousand
+
+205
+00:09:42,000 --> 00:09:44,000
+so it's not a huge area of ​​research
+
+206
+00:09:44,000 --> 00:09:47,000
+But it is for the study of astronomy
+
+207
+00:09:47,000 --> 00:09:50,000
+is a very big contribution
+
+208
+00:09:50,000 --> 00:09:52,000
+then this is a photo
+
+209
+00:09:52,000 --> 00:09:55,000
+Here's a picture of me taking this thing apart
+
+210
+00:09:55,000 --> 00:09:57,000
+actually tell you
+
+211
+00:09:57,000 --> 00:10:00,000
+Presumably there will be something inside an instrument
+
+212
+00:10:00,000 --> 00:10:02,000
+I will introduce it in detail later
+
+213
+00:10:02,000 --> 00:10:04,000
+that this thing because it's small
+
+214
+00:10:04,000 --> 00:10:07,000
+This is about the smallest thing we've ever made that could easily be brought here
+
+215
+00:10:07,000 --> 00:10:12,000
+Basically, the instrument we developed is a big thing
+
+216
+00:10:12,000 --> 00:10:15,000
+It's also very heavy, weighing several tons
+
+217
+00:10:15,000 --> 00:10:18,000
+I can't bring it here for everyone to see
+
+218
+00:10:18,000 --> 00:10:22,000
+The main reason why it is necessary to make such a big thing
+
+219
+00:10:22,000 --> 00:10:28,000
+In fact, it has a lot to do with the progress of our human technology.
+
+220
+00:10:28,000 --> 00:10:32,000
+Then everyone may be familiar with it
+
+221
+00:10:32,000 --> 00:10:35,000
+We are famous in Taiwan for the manufacture of this semiconductor
+
+222
+00:10:35,000 --> 00:10:39,000
+There is a well-known motorcycle listening rate in semiconductor manufacturing to tell you
+
+223
+00:10:39,000 --> 00:10:48,000
+That is to say, the same area of ​​these chips can carry the number of transistors
+
+224
+00:10:48,000 --> 00:10:53,000
+In fact, its increasing speed is a logarithmic increase in terms of time.
+
+225
+00:10:53,000 --> 00:11:00,000
+Then this law is also applicable if you put it into the astronomy
+
+226
+00:11:00,000 --> 00:11:03,000
+Everyone should know that
+
+227
+00:11:03,000 --> 00:11:07,000
+GID slightly 400 years ago
+
+228
+00:11:07,000 --> 00:11:09,000
+He was the first person to invent net access
+
+229
+00:11:09,000 --> 00:11:12,000
+What was the caliber of the net inlet he invented 400 years ago?
+
+230
+00:11:12,000 --> 00:11:14,000
+is only 2 cm
+
+231
+00:11:14,000 --> 00:11:17,000
+that passed 400 years
+
+232
+00:11:17,000 --> 00:11:19,000
+right now we
+
+233
+00:11:19,000 --> 00:11:22,000
+Visible light network entrance with the largest aperture
+
+234
+00:11:22,000 --> 00:11:24,000
+is 10 meters
+
+235
+00:11:24,000 --> 00:11:26,000
+maybe later
+
+236
+00:11:26,000 --> 00:11:28,000
+It's 2019
+
+237
+00:11:28,000 --> 00:11:30,000
+In about five or six years
+
+238
+00:11:30,000 --> 00:11:31,000
+There will be one in Europe
+
+239
+00:11:31,000 --> 00:11:33,000
+Nearly 40 meters net net entry
+
+240
+00:11:33,000 --> 00:11:35,000
+then this is a
+
+241
+00:11:35,000 --> 00:11:40,000
+a very rapidly growing curve
+
+242
+00:11:40,000 --> 00:11:42,000
+So with this astronomical
+
+243
+00:11:42,000 --> 00:11:45,000
+The caliber of this net becomes larger
+
+244
+00:11:45,000 --> 00:11:47,000
+Then the size of the instrument I need
+
+245
+00:11:47,000 --> 00:11:50,000
+will also get bigger and bigger
+
+246
+00:11:50,000 --> 00:11:53,000
+Then you may find it a little strange to hear this.
+
+247
+00:11:53,000 --> 00:11:54,000
+Really?
+
+248
+00:11:54,000 --> 00:11:55,000
+The largest astronomical network
+
+249
+00:11:55,000 --> 00:11:57,000
+is only 10 meters
+
+250
+00:11:57,000 --> 00:12:00,000
+We seem to be here all the time
+
+251
+00:12:00,000 --> 00:12:03,000
+The explosives will see that China has an eye in the sky
+
+252
+00:12:03,000 --> 00:12:06,000
+This sky eye is a 500-meter location
+
+253
+00:12:06,000 --> 00:12:09,000
+But this because it is a
+
+254
+00:12:09,000 --> 00:12:13,000
+We say that it is suitable for locations with relatively long radio wave fields
+
+255
+00:12:13,000 --> 00:12:15,000
+it's not like what i just said
+
+256
+00:12:15,000 --> 00:12:17,000
+All the things I just said here
+
+257
+00:12:17,000 --> 00:12:20,000
+All visible light
+
+258
+00:12:20,000 --> 00:12:23,000
+Then your TRON range is different
+
+259
+00:12:23,000 --> 00:12:26,000
+In fact, your application technology is also different.
+
+260
+00:12:26,000 --> 00:12:28,000
+So we're basically
+
+261
+00:12:28,000 --> 00:12:31,000
+We still have to use the same standard to compare
+
+262
+00:12:31,000 --> 00:12:34,000
+same technique
+
+263
+00:12:35,000 --> 00:12:38,000
+That's what I was talking about
+
+264
+00:12:38,000 --> 00:12:40,000
+When binoculars get bigger and bigger
+
+265
+00:12:40,000 --> 00:12:44,000
+In fact, scientists still use some small tricks
+
+266
+00:12:44,000 --> 00:12:46,000
+That this is the current world
+
+267
+00:12:46,000 --> 00:12:48,000
+arguably the most famous
+
+268
+00:12:48,000 --> 00:12:52,000
+This CAC binoculars from UC
+
+269
+00:12:52,000 --> 00:12:54,000
+it's a 10 meter telescope
+
+270
+00:12:54,000 --> 00:12:57,000
+You can see that it is not a complete mirror
+
+271
+00:12:57,000 --> 00:13:00,000
+In fact, it has a large
+
+272
+00:13:00,000 --> 00:13:02,000
+A lot of hexagons put together
+
+273
+00:13:03,000 --> 00:13:07,000
+That's because scientists are doing the research and development of the binoculars
+
+274
+00:13:07,000 --> 00:13:13,000
+You slowly discovered that I have encountered a technical bottleneck
+
+275
+00:13:13,000 --> 00:13:17,500
+If I put the same big single lens
+
+276
+00:13:17,500 --> 00:13:20,500
+while slowly expanding its size
+
+277
+00:13:20,500 --> 00:13:23,000
+I will find it very difficult to make my
+
+278
+00:13:23,000 --> 00:13:28,000
+Therefore, modern visible glasses usually use splicing technology
+
+279
+00:13:28,000 --> 00:13:33,500
+Hexagonal binoculars about one meter in length
+
+280
+00:13:33,500 --> 00:13:37,500
+put it together and form it into a larger binoculars
+
+281
+00:13:38,500 --> 00:13:44,500
+This picture shows the size of the largest binoculars in the world
+
+282
+00:13:44,500 --> 00:13:46,500
+with its mirror image
+
+283
+00:13:46,500 --> 00:13:49,000
+draw it all out
+
+284
+00:13:49,500 --> 00:13:56,500
+It can be found that in the early days, a single lens was used to form my binoculars
+
+285
+00:13:56,500 --> 00:14:00,500
+That's about eight meters away.
+
+286
+00:14:00,000 --> 00:14:03,000
+we just stop doing this
+
+287
+00:14:03,000 --> 00:14:07,000
+Therefore, all mirrors with a caliber exceeding 8 meters often use this splicing method.
+
+288
+00:14:07,000 --> 00:14:10,000
+Use a small regular mirror to go back and forth
+
+289
+00:14:10,000 --> 00:14:14,000
+Small lenses come and go to combine into one large lens
+
+290
+00:14:14,000 --> 00:14:16,000
+So next in
+
+291
+00:14:16,000 --> 00:14:20,000
+In the next 10 years, I expect there will be 30-meter class
+
+292
+00:14:20,000 --> 00:14:24,000
+Large astronomical mirrors tend to slowly
+
+293
+00:14:24,000 --> 00:14:28,000
+Join the ranks of this astronomical observation
+
+294
+00:14:28,000 --> 00:14:30,000
+Of course these observations
+
+295
+00:14:30,000 --> 00:14:35,000
+It requires very sophisticated astronomical instruments
+
+296
+00:14:35,000 --> 00:14:38,000
+so that you can use
+
+297
+00:14:38,000 --> 00:14:41,000
+In order to really put the wide mouth mirror
+
+298
+00:14:41,000 --> 00:14:44,000
+Observation ability of the mirror
+
+299
+00:14:44,000 --> 00:14:47,000
+play it out
+
+300
+00:14:47,000 --> 00:14:50,000
+So advances in observational astronomy
+
+301
+00:14:50,000 --> 00:14:55,000
+In fact, it has a lot to do with the development of astronomical instruments.
+
+302
+00:14:55,000 --> 00:14:59,000
+On the contrary, if you can master the technology of these astronomical instruments
+
+303
+00:14:59,000 --> 00:15:02,000
+you can master observation
+
+304
+00:15:00,000 --> 00:15:02,000
+Suspect of the Department of Astronomy
+
+305
+00:15:02,000 --> 00:15:04,000
+So Central Academy of Astronomy
+
+306
+00:15:04,000 --> 00:15:06,000
+we are at
+
+307
+00:15:06,000 --> 00:15:08,000
+When we established the institute more than 20 years ago, we
+
+308
+00:15:08,000 --> 00:15:10,000
+Sure
+
+309
+00:15:10,000 --> 00:15:12,000
+We are doing science at the same time
+
+310
+00:15:12,000 --> 00:15:14,000
+research and development of the Department of Astronomy
+
+311
+00:15:14,000 --> 00:15:16,000
+that in the past twenty years
+
+312
+00:15:16,000 --> 00:15:18,000
+We also put a lot of effort into
+
+313
+00:15:18,000 --> 00:15:20,000
+to develop
+
+314
+00:15:20,000 --> 00:15:22,000
+and
+
+315
+00:15:22,000 --> 00:15:24,000
+Improve our astronomy department
+
+316
+00:15:24,000 --> 00:15:26,000
+this ability
+
+317
+00:15:26,000 --> 00:15:28,000
+Then I thought about our current
+
+318
+00:15:28,000 --> 00:15:30,000
+Scientific achievements are similar to those of our astronomy department
+
+319
+00:15:30,000 --> 00:15:32,000
+developed this
+
+320
+00:15:32,000 --> 00:15:34,000
+result
+
+321
+00:15:34,000 --> 00:15:36,000
+It can be said that it matches quite well.
+
+322
+00:15:36,000 --> 00:15:38,000
+pretty good
+
+323
+00:15:40,000 --> 00:15:42,000
+That
+
+324
+00:15:42,000 --> 00:15:44,000
+What exactly does an astronomy school want in general?
+
+325
+00:15:44,000 --> 00:15:46,000
+Astronomy schools are actually
+
+326
+00:15:46,000 --> 00:15:48,000
+Like most scientists
+
+327
+00:15:48,000 --> 00:15:50,000
+This signal is actually
+
+328
+00:15:50,000 --> 00:15:52,000
+the more the merrier
+
+329
+00:15:52,000 --> 00:15:54,000
+So it's better if I can
+
+330
+00:15:54,000 --> 00:15:56,000
+collect all
+
+331
+00:15:56,000 --> 00:15:58,000
+from the universe
+
+332
+00:15:58,000 --> 00:16:00,000
+able to reach the earth
+
+333
+00:16:00,000 --> 00:16:02,000
+collect it all at once
+
+334
+00:16:02,000 --> 00:16:03,500
+what does it mean to collect well
+
+335
+00:16:03,500 --> 00:16:06,800
+It doesn't matter which direction you come from
+
+336
+00:16:06,800 --> 00:16:07,800
+i can tell
+
+337
+00:16:07,800 --> 00:16:09,800
+when did you come to my earth
+
+338
+00:16:09,800 --> 00:16:12,800
+Then you come here and there are a few trees
+
+339
+00:16:12,800 --> 00:16:16,800
+Then I also know the energy of each photon
+
+340
+00:16:16,800 --> 00:16:17,800
+That is to say, I hope
+
+341
+00:16:17,800 --> 00:16:20,800
+I can do things that say
+
+342
+00:16:20,800 --> 00:16:22,300
+I have high resolution
+
+343
+00:16:22,300 --> 00:16:24,000
+spatial resolution
+
+344
+00:16:24,000 --> 00:16:25,800
+time resolution
+
+345
+00:16:25,800 --> 00:16:28,500
+Then I can measure the light very accurately
+
+346
+00:16:28,500 --> 00:16:32,000
+And then there's also very high-resolution spectra at the same time
+
+347
+00:16:32,000 --> 00:16:32,500
+just know
+
+348
+00:16:32,500 --> 00:16:33,500
+Hey, this light is red
+
+349
+00:16:33,500 --> 00:16:34,500
+this light is blue
+
+350
+00:16:34,500 --> 00:16:35,500
+at different points in time
+
+351
+00:16:35,500 --> 00:16:38,500
+Each of these different colors of light
+
+352
+00:16:38,500 --> 00:16:41,500
+how to hit earth
+
+353
+00:16:41,500 --> 00:16:44,500
+like this image
+
+354
+00:16:44,500 --> 00:16:47,500
+This is a
+
+355
+00:16:47,500 --> 00:16:50,500
+First you make the image of Xingyun Neng 31
+
+356
+00:16:50,500 --> 00:16:52,500
+So of course astronomers want to say
+
+357
+00:16:52,500 --> 00:16:53,500
+I just need to take a picture
+
+358
+00:16:53,500 --> 00:16:56,500
+I'm not only able to know the inside of this
+
+359
+00:16:57,500 --> 00:16:58,500
+how bright everything is
+
+360
+00:16:58,500 --> 00:16:59,500
+I can still know
+
+361
+00:16:59,500 --> 00:17:00,500
+that goes with the matter
+
+362
+00:17:00,000 --> 00:17:01,460
+what kind of change
+
+363
+00:17:01,460 --> 00:17:04,000
+And what kind of this is in it
+
+364
+00:17:04,000 --> 00:17:06,900
+gas or metal
+
+365
+00:17:06,900 --> 00:17:08,900
+or various elements like this
+
+366
+00:17:08,900 --> 00:17:11,100
+Of course, to achieve this is actually
+
+367
+00:17:11,100 --> 00:17:13,500
+It's very, very difficult to be honest
+
+368
+00:17:13,500 --> 00:17:16,900
+Because we know the range of electromagnetic waves
+
+369
+00:17:16,900 --> 00:17:18,500
+is very very big
+
+370
+00:17:18,500 --> 00:17:22,500
+is that it can be read from the radio
+
+371
+00:17:22,500 --> 00:17:25,500
+all the way to infrared all the way to our visible light
+
+372
+00:17:25,500 --> 00:17:27,500
+then to UV
+
+373
+00:17:27,500 --> 00:17:31,500
+Then to X-ray or even this GaMaRay with shorter wavelength
+
+374
+00:17:31,500 --> 00:17:33,500
+Those electromagnetic waves of different wavelengths
+
+375
+00:17:33,500 --> 00:17:37,800
+It brings us a different message
+
+376
+00:17:37,800 --> 00:17:40,800
+That also means that it is correspondingly
+
+377
+00:17:40,800 --> 00:17:45,500
+Emitted by this celestial body with different temperatures
+
+378
+00:17:45,500 --> 00:17:47,500
+What about the different electromagnetic waves?
+
+379
+00:17:47,500 --> 00:17:48,700
+Because of its different characteristics
+
+380
+00:17:48,700 --> 00:17:52,000
+So when you are going to collect these signals
+
+381
+00:17:52,000 --> 00:17:53,800
+you have to use a different method
+
+382
+00:17:53,800 --> 00:17:57,000
+So although it is still ideal
+
+383
+00:17:57,000 --> 00:18:00,000
+I want to say that if I have an ideal this
+
+384
+00:18:00,000 --> 00:18:02,000
+I know this astronomical instrument once
+
+385
+00:18:02,000 --> 00:18:03,600
+Hey, what is this calling in?
+
+386
+00:18:03,600 --> 00:18:05,600
+Gamma Ray or X-Ray or
+
+387
+00:18:05,600 --> 00:18:08,100
+Visible light or microwave signal
+
+388
+00:18:08,100 --> 00:18:10,100
+But actually this is
+
+389
+00:18:10,100 --> 00:18:13,600
+So far we have not been able to do this
+
+390
+00:18:13,600 --> 00:18:16,600
+So usually when we develop astronomical instruments,
+
+391
+00:18:16,600 --> 00:18:19,100
+We'll take the band and separate it
+
+392
+00:18:19,100 --> 00:18:21,600
+For example, I mostly do
+
+393
+00:18:21,600 --> 00:18:23,100
+this band
+
+394
+00:18:23,100 --> 00:18:24,600
+Visible light and infrared
+
+395
+00:18:24,600 --> 00:18:28,100
+Then some people will do this high-energy
+
+396
+00:18:28,200 --> 00:18:31,200
+This detection of S light or Gamma Ray
+
+397
+00:18:33,200 --> 00:18:36,200
+that astronomical instrument it of course
+
+398
+00:18:36,200 --> 00:18:38,200
+After getting these data
+
+399
+00:18:38,200 --> 00:18:42,200
+it's basically doing analysis
+
+400
+00:18:42,200 --> 00:18:44,700
+I was just talking about different colors of light
+
+401
+00:18:44,700 --> 00:18:47,200
+It represents different substances
+
+402
+00:18:47,200 --> 00:18:49,700
+or different physical properties
+
+403
+00:18:49,700 --> 00:18:51,200
+Different substances may be
+
+404
+00:18:51,200 --> 00:18:54,200
+if i go and say
+
+405
+00:18:54,200 --> 00:18:56,700
+A celestial body emits this spectrum
+
+406
+00:18:56,800 --> 00:18:58,800
+There are some absorption lines in the spectrum
+
+407
+00:18:58,800 --> 00:19:00,800
+Then this absorption line is usually
+
+408
+00:19:00,000 --> 00:19:02,000
+It means that in my mind and body
+
+409
+00:19:02,000 --> 00:19:03,400
+or inside this cloud
+
+410
+00:19:03,400 --> 00:19:05,000
+are specific to these molecules
+
+411
+00:19:05,000 --> 00:19:06,600
+Those molecules can make me
+
+412
+00:19:06,600 --> 00:19:08,600
+can absorb this
+
+413
+00:19:08,600 --> 00:19:10,600
+This light that continuously emerges above
+
+414
+00:19:10,600 --> 00:19:12,600
+But continuous emergence also makes sense
+
+415
+00:19:12,600 --> 00:19:15,400
+The continuous emergence usually has this intensity distribution of its
+
+416
+00:19:15,400 --> 00:19:17,400
+tell us yes
+
+417
+00:19:17,400 --> 00:19:19,400
+The temperature of this celestial body
+
+418
+00:19:21,400 --> 00:19:23,400
+what about besides this
+
+419
+00:19:23,400 --> 00:19:24,900
+of course i want
+
+420
+00:19:24,900 --> 00:19:26,200
+I have another method which is
+
+421
+00:19:26,200 --> 00:19:28,700
+I can go and get this whole full image
+
+422
+00:19:28,700 --> 00:19:30,300
+or smooth
+
+423
+00:19:30,300 --> 00:19:32,300
+The image can get the relative position
+
+424
+00:19:32,300 --> 00:19:33,800
+every celestial body
+
+425
+00:19:33,800 --> 00:19:36,300
+Relatively warm position between
+
+426
+00:19:36,300 --> 00:19:37,800
+then its brightness
+
+427
+00:19:37,800 --> 00:19:39,300
+Then follow its distribution
+
+428
+00:19:39,300 --> 00:19:41,800
+Then these can sometimes tell us that
+
+429
+00:19:41,800 --> 00:19:44,800
+do they belong to the same area
+
+430
+00:19:44,800 --> 00:19:46,000
+celestial body
+
+431
+00:19:46,000 --> 00:19:48,000
+Is there some between them
+
+432
+00:19:48,000 --> 00:19:50,000
+The role of interaction
+
+433
+00:19:50,000 --> 00:19:52,500
+That light will show us the different substances
+
+434
+00:19:52,500 --> 00:19:54,000
+its
+
+435
+00:19:54,000 --> 00:19:55,500
+scalar size
+
+436
+00:19:55,500 --> 00:19:56,900
+or temperature
+
+437
+00:19:57,000 --> 00:19:58,800
+it even you can know it
+
+438
+00:19:58,800 --> 00:20:00,800
+distance from our telescope
+
+439
+00:20:00,000 --> 00:20:05,000
+Because different celestial bodies will have different displacements
+
+440
+00:20:05,000 --> 00:20:07,000
+Because of the Doppler effect
+
+441
+00:20:07,000 --> 00:20:09,000
+So from the spectrum we can see its distance
+
+442
+00:20:09,000 --> 00:20:13,000
+Another possibility is that the light that can be excited by it
+
+443
+00:20:13,000 --> 00:20:18,000
+the direction of its intensification can understand its various environments
+
+444
+00:20:18,000 --> 00:20:21,000
+And is there any magnetic field distribution near it?
+
+445
+00:20:23,000 --> 00:20:28,000
+Then this is NASA and there is a famous picture
+
+446
+00:20:28,000 --> 00:20:32,000
+It puts all of NASA's intensification
+
+447
+00:20:32,000 --> 00:20:35,000
+This view of the entire Milky Way
+
+448
+00:20:35,000 --> 00:20:41,000
+Images at different wavelengths draw it
+
+449
+00:20:41,000 --> 00:20:45,000
+that can see the Milky Way from high energies all the way down to very low energies
+
+450
+00:20:45,000 --> 00:20:47,000
+it actually looks different
+
+451
+00:20:47,000 --> 00:20:49,000
+That's why it's different, of course
+
+452
+00:20:49,000 --> 00:20:54,000
+Including whether there is something in it that it will absorb
+
+453
+00:20:54,000 --> 00:20:56,000
+For example, in visible light, it has a lot of dust
+
+454
+00:20:56,000 --> 00:20:57,000
+will absorb
+
+455
+00:21:00,000 --> 00:21:04,340
+The signal is at a relatively high-energy position
+
+456
+00:21:04,340 --> 00:21:06,940
+In fact, it can really emit this high-energy
+
+457
+00:21:06,940 --> 00:21:09,540
+The source of the signal
+
+458
+00:21:09,540 --> 00:21:13,440
+Relatively speaking, it is much less than visible light or infrared light.
+
+459
+00:21:13,440 --> 00:21:17,940
+So scientists have to compare the different wavelengths
+
+460
+00:21:17,940 --> 00:21:21,640
+Detect this info for us
+
+461
+00:21:21,640 --> 00:21:24,440
+I just managed to piece together the whole thing.
+
+462
+00:21:24,440 --> 00:21:27,840
+celestial man, this image of celestial
+
+463
+00:21:27,840 --> 00:21:29,840
+or to fully know
+
+464
+00:21:29,840 --> 00:21:32,840
+what happened to it in these places
+
+465
+00:21:35,340 --> 00:21:38,340
+So what we just said, astronomers need to know
+
+466
+00:21:38,340 --> 00:21:42,340
+complete this entire electromagnetic wave this
+
+467
+00:21:42,340 --> 00:21:44,340
+range of this message
+
+468
+00:21:44,340 --> 00:21:47,340
+But it's a pity we live on the earth
+
+469
+00:21:47,340 --> 00:21:49,340
+What about this earth?
+
+470
+00:21:49,340 --> 00:21:52,340
+One thing that is very important to us is the atmosphere
+
+471
+00:21:52,340 --> 00:21:54,840
+As for the atmosphere, it is very important to human beings
+
+472
+00:21:54,840 --> 00:21:57,340
+We have to breathe every day, we need oxygen
+
+473
+00:21:57,340 --> 00:21:59,840
+In fact, he is...
+
+474
+00:22:00,000 --> 00:22:02,000
+What about humans?
+
+475
+00:22:02,000 --> 00:22:07,000
+Of course, it also blocks a lot of things that are harmful to humans.
+
+476
+00:22:07,000 --> 00:22:09,000
+This very high energy electromagnetic wave
+
+477
+00:22:09,000 --> 00:22:11,000
+Of course, for astronomical observations
+
+478
+00:22:11,000 --> 00:22:13,000
+Does it block a lot
+
+479
+00:22:13,000 --> 00:22:17,000
+The signal that recently came from the universe to the ground
+
+480
+00:22:17,000 --> 00:22:20,000
+So generally speaking, observations on the ground
+
+481
+00:22:20,000 --> 00:22:22,000
+we only have three bands
+
+482
+00:22:22,000 --> 00:22:25,000
+That's visible light, infrared, and radio.
+
+483
+00:22:25,000 --> 00:22:27,000
+The signal of these three bands
+
+484
+00:22:27,000 --> 00:22:31,000
+We can make astronomical observations from the ground
+
+485
+00:22:31,000 --> 00:22:33,000
+the lower part
+
+486
+00:22:33,000 --> 00:22:35,000
+Like most of this
+
+487
+00:22:35,000 --> 00:22:38,000
+X-ray or Gamma Ray
+
+488
+00:22:38,000 --> 00:22:41,000
+or longer-wavelength infrared rays
+
+489
+00:22:41,000 --> 00:22:43,000
+We have to launch Sputnik
+
+490
+00:22:43,000 --> 00:22:47,000
+in order to see the impact
+
+491
+00:22:47,000 --> 00:22:49,000
+there is no way on the ground
+
+492
+00:22:49,000 --> 00:22:51,000
+Besides this effect
+
+493
+00:22:51,000 --> 00:22:54,000
+The atmosphere and the so-called atmospheric labor
+
+494
+00:22:54,000 --> 00:22:56,000
+what is that atmospheric labor
+
+495
+00:22:56,000 --> 00:22:58,000
+Atmospheric labor is
+
+496
+00:23:00,000 --> 00:23:02,000
+For example, when the weather is hot
+
+497
+00:23:02,000 --> 00:23:04,000
+If you see no oil on the road
+
+498
+00:23:04,000 --> 00:23:09,000
+There are often things like distorted images that appear
+
+499
+00:23:09,000 --> 00:23:12,000
+Then this is because of your atmosphere on the surface
+
+500
+00:23:12,000 --> 00:23:14,000
+its own uneven temperature
+
+501
+00:23:14,000 --> 00:23:15,000
+If the temperature is uneven
+
+502
+00:23:15,000 --> 00:23:18,000
+Its refractive index will be different
+
+503
+00:23:18,000 --> 00:23:19,000
+the light will be biased
+
+504
+00:23:19,000 --> 00:23:21,000
+Then the light is biased
+
+505
+00:23:21,000 --> 00:23:24,000
+Usually when we look at the stars
+
+506
+00:23:24,000 --> 00:23:27,000
+that's what we used to sing when we were kids
+
+507
+00:23:27,000 --> 00:23:29,000
+twinkle Twinkle Little Star
+
+508
+00:23:29,000 --> 00:23:31,000
+That day is a little star
+
+509
+00:23:31,000 --> 00:23:32,000
+that sparkle
+
+510
+00:23:32,000 --> 00:23:34,000
+In fact, it is the astroman who hates the most
+
+511
+00:23:34,000 --> 00:23:37,000
+That twinkle twinkle sparkle sounds so
+
+512
+00:23:37,000 --> 00:23:38,000
+seems very romantic
+
+513
+00:23:38,000 --> 00:23:41,000
+Actually it's very, very bad for Astroman
+
+514
+00:23:41,000 --> 00:23:42,000
+because it
+
+515
+00:23:42,000 --> 00:23:45,000
+If you put this twinkle twinkle star
+
+516
+00:23:45,000 --> 00:23:47,000
+high speed video
+
+517
+00:23:47,000 --> 00:23:49,000
+It looks like this when you look at it
+
+518
+00:23:49,000 --> 00:23:51,000
+The star is actually running around all the time
+
+519
+00:23:51,000 --> 00:23:54,000
+Then its point of light is not a
+
+520
+00:23:54,000 --> 00:23:56,000
+Not a fully focused spot of light
+
+521
+00:23:56,000 --> 00:23:59,000
+So this creates this point of light on this star
+
+522
+00:23:59,000 --> 00:24:00,000
+will be big
+
+523
+00:24:00,000 --> 00:24:06,000
+will be much larger than the optical quality we originally designed
+
+524
+00:24:07,000 --> 00:24:13,000
+Then this deflection has the greatest effect on electromagnetic waves with shorter wavelengths
+
+525
+00:24:13,000 --> 00:24:17,000
+So on the ground because we can only see the shortest visible light
+
+526
+00:24:17,000 --> 00:24:20,000
+It's probably a little bit visible in ultraviolet light.
+
+527
+00:24:20,000 --> 00:24:22,000
+So visible light has the greatest effect
+
+528
+00:24:22,000 --> 00:24:28,000
+If it is electromagnetic waves like me, this is the image of a black hole
+
+529
+00:24:29,000 --> 00:24:32,000
+An electric shuttle with such a long wavelength cannot see this
+
+530
+00:24:32,000 --> 00:24:37,000
+So we can see images of black holes from the ground
+
+531
+00:24:37,000 --> 00:24:39,000
+Also because it doesn't have this
+
+532
+00:24:39,000 --> 00:24:41,000
+You can get such a high-resolution video
+
+533
+00:24:41,000 --> 00:24:44,000
+It is also because it does not have the relationship of atmospheric labor
+
+534
+00:24:47,000 --> 00:24:51,000
+The different wavelength ranges actually look very different
+
+535
+00:24:51,000 --> 00:24:52,000
+this is
+
+536
+00:24:52,000 --> 00:25:00,000
+This is the visible light instrument that you are more likely to be more familiar with.
+
+537
+00:25:00,000 --> 00:25:01,040
+a camera
+
+538
+00:25:01,540 --> 00:25:02,660
+But the camera is really big
+
+539
+00:25:02,660 --> 00:25:04,860
+it is about three meters high
+
+540
+00:25:04,860 --> 00:25:06,660
+people are there
+
+541
+00:25:07,420 --> 00:25:08,960
+Then there is a big mirror
+
+542
+00:25:09,480 --> 00:25:10,240
+lens
+
+543
+00:25:10,740 --> 00:25:12,040
+Then I take my
+
+544
+00:25:12,540 --> 00:25:13,580
+this film
+
+545
+00:25:13,820 --> 00:25:15,620
+It's like my detector is here
+
+546
+00:25:16,640 --> 00:25:17,920
+that looks weird
+
+547
+00:25:17,920 --> 00:25:18,680
+I don't know what it is
+
+548
+00:25:18,940 --> 00:25:19,720
+This is
+
+549
+00:25:20,220 --> 00:25:23,040
+Gamma Ray is high energy
+
+550
+00:25:23,300 --> 00:25:24,840
+This telescope of electromagnetic waves
+
+551
+00:25:25,100 --> 00:25:26,620
+then why make it like this
+
+552
+00:25:26,880 --> 00:25:29,180
+He hopes that when these electromagnetic waves come
+
+553
+00:25:29,180 --> 00:25:29,940
+he used very
+
+554
+00:25:30,720 --> 00:25:32,000
+very low angle
+
+555
+00:25:32,260 --> 00:25:33,540
+call me this
+
+556
+00:25:33,800 --> 00:25:35,060
+scattered leaves
+
+557
+00:25:35,320 --> 00:25:36,100
+Then
+
+558
+00:25:36,360 --> 00:25:37,880
+let him do this
+
+559
+00:25:38,140 --> 00:25:40,440
+This scattering at very low angles
+
+560
+00:25:40,960 --> 00:25:44,540
+Because usually this high-energy electromagnetic wave can easily penetrate
+
+561
+00:25:45,060 --> 00:25:46,340
+like we shine light
+
+562
+00:25:46,840 --> 00:25:48,640
+When the same time, the S light is direct
+
+563
+00:25:48,900 --> 00:25:50,440
+penetrate our body and hit the back
+
+564
+00:25:50,940 --> 00:25:54,020
+so you only have very high angles
+
+565
+00:25:54,260 --> 00:25:55,800
+This angle of incidence at very low angles
+
+566
+00:25:56,320 --> 00:25:57,860
+You want to collect his pick number
+
+567
+00:25:58,120 --> 00:25:58,880
+so he has a
+
+568
+00:25:59,180 --> 00:25:59,900
+so weird
+
+569
+00:26:00,000 --> 00:26:06,760
+This is our GOT receiver for observing black holes
+
+570
+00:26:06,760 --> 00:26:12,200
+Because it is an electromagnetic wave, a microwave with a very long wave field
+
+571
+00:26:12,200 --> 00:26:17,800
+So when it arrives, there will usually be a Fee Home in front of it
+
+572
+00:26:17,800 --> 00:26:20,400
+It's kind of like a horn
+
+573
+00:26:20,400 --> 00:26:25,400
+There is a natural function that allows electromagnetic waves to converge
+
+574
+00:26:25,800 --> 00:26:32,200
+So usually in microwave receivers
+
+575
+00:26:32,200 --> 00:26:34,800
+You'll see something like
+
+576
+00:26:38,800 --> 00:26:39,800
+just said so much
+
+577
+00:26:39,800 --> 00:26:44,000
+In fact, on every temperature platform
+
+578
+00:26:44,000 --> 00:26:46,400
+Regardless of which band the weather station
+
+579
+00:26:46,400 --> 00:26:50,600
+In fact, they all carry a lot of different instruments
+
+580
+00:26:50,600 --> 00:26:52,400
+I will give two different examples here
+
+581
+00:26:52,400 --> 00:26:58,800
+One is that these two are binoculars that cooperate with our Tianwen team.
+
+582
+00:26:58,800 --> 00:26:59,800
+one is japan
+
+583
+00:27:00,000 --> 00:27:02,600
+I asked Taiwan about this SUVAR binoculars
+
+584
+00:27:03,500 --> 00:27:05,000
+what about this
+
+585
+00:27:05,000 --> 00:27:07,500
+I just listed all the instruments it currently has
+
+586
+00:27:07,500 --> 00:27:08,200
+look wow
+
+587
+00:27:08,200 --> 00:27:11,000
+one two three four five six seven seven
+
+588
+00:27:11,600 --> 00:27:14,000
+then it is an eight meter telescope
+
+589
+00:27:14,500 --> 00:27:16,300
+then this is the real photo
+
+590
+00:27:16,300 --> 00:27:17,500
+my real photo
+
+591
+00:27:18,000 --> 00:27:21,300
+It is difficult for you to understand why it can hold so many at once
+
+592
+00:27:21,700 --> 00:27:23,300
+that's actually because
+
+593
+00:27:23,800 --> 00:27:27,500
+it has several focal points in this telescope
+
+594
+00:27:27,900 --> 00:27:29,200
+several that is to say
+
+595
+00:27:30,000 --> 00:27:31,200
+i have a primary mirror
+
+596
+00:27:31,800 --> 00:27:35,700
+What about the light in space?
+
+597
+00:27:35,700 --> 00:27:37,200
+After reaching my primary mirror
+
+598
+00:27:37,300 --> 00:27:40,000
+I can image right where the main focus is
+
+599
+00:27:40,700 --> 00:27:43,800
+I can make a camera right here
+
+600
+00:27:43,900 --> 00:27:47,000
+For example, this wide-angle mirrorable light camera is placed here
+
+601
+00:27:47,500 --> 00:27:50,000
+Then I have another imaging method
+
+602
+00:27:50,400 --> 00:27:56,000
+That's when I replaced this camera with a lens and another lens
+
+603
+00:27:56,400 --> 00:27:58,800
+Then my signal will go to my this
+
+604
+00:27:58,800 --> 00:28:00,000
+we are called
+
+605
+00:28:00,000 --> 00:28:05,000
+cover in green focus , another focus
+
+606
+00:28:05,000 --> 00:28:07,000
+So it can also put other instruments here
+
+607
+00:28:07,000 --> 00:28:12,000
+Usually these two instruments usually have different resolutions
+
+608
+00:28:12,000 --> 00:28:15,000
+The resolution of the main focus instrument will be better than this
+
+609
+00:28:15,000 --> 00:28:21,000
+In this cover forest focus, the one above is slightly worse
+
+610
+00:28:21,000 --> 00:28:24,000
+In addition, there are two platforms on both sides of it
+
+611
+00:28:24,000 --> 00:28:26,000
+How to use two flat platforms
+
+612
+00:28:26,000 --> 00:28:33,000
+That is, I put this in the middle of the light input and add another mirror
+
+613
+00:28:33,000 --> 00:28:35,000
+we're going to have a third mirror
+
+614
+00:28:35,000 --> 00:28:39,000
+The third mirror is when my light hits the trail and after my second mirror
+
+615
+00:28:39,000 --> 00:28:44,000
+Then hit this third mirror, which can make my light go to both sides
+
+616
+00:28:44,000 --> 00:28:46,000
+what is the advantage of going both ways
+
+617
+00:28:46,000 --> 00:28:49,000
+It is on these two platforms
+
+618
+00:28:49,000 --> 00:28:53,000
+The instruments on it will not move with the telescope
+
+619
+00:28:53,000 --> 00:28:57,000
+is suitable for very high-resolution observations
+
+620
+00:28:57,000 --> 00:29:00,000
+So on a binoculars, you can see that there are many
+
+621
+00:29:00,000 --> 00:29:03,400
+different this instrument
+
+622
+00:29:03,400 --> 00:29:05,900
+If these instruments are carefully analyzed
+
+623
+00:29:05,900 --> 00:29:07,400
+i use different color words
+
+624
+00:29:07,400 --> 00:29:09,900
+put some emphasis on it
+
+625
+00:29:09,900 --> 00:29:11,900
+Look, visible light, visible light, visible light
+
+626
+00:29:11,900 --> 00:29:14,900
+Infrared ray Golden outer ray Infrared ray Medium yellow outer ray
+
+627
+00:29:14,900 --> 00:29:16,900
+Representatives say different instruments
+
+628
+00:29:16,900 --> 00:29:20,100
+You are usually related to its wavelength
+
+629
+00:29:20,100 --> 00:29:21,900
+because of the different wavelengths
+
+630
+00:29:21,900 --> 00:29:23,800
+you need to use different
+
+631
+00:29:23,800 --> 00:29:25,300
+Mainly different detectors
+
+632
+00:29:25,300 --> 00:29:27,100
+Also its lens is different
+
+633
+00:29:27,200 --> 00:29:31,000
+So usually you an instrument
+
+634
+00:29:31,000 --> 00:29:34,000
+It will only be suitable for a fixed wavelength range
+
+635
+00:29:34,000 --> 00:29:37,000
+It has no way to cover very large range
+
+636
+00:29:37,000 --> 00:29:40,000
+This is what we basically
+
+637
+00:29:40,000 --> 00:29:43,000
+Limitations of our materials
+
+638
+00:29:43,000 --> 00:29:45,000
+Material limitations of my shots
+
+639
+00:29:45,000 --> 00:29:47,000
+and the material constraints of my detector
+
+640
+00:29:47,000 --> 00:29:50,000
+In addition, the biggest difference is
+
+641
+00:29:50,000 --> 00:29:52,000
+many are cameras
+
+642
+00:29:52,000 --> 00:29:55,000
+Some can be cameras and can also be used as spectrum camps
+
+643
+00:29:55,900 --> 00:29:58,900
+Usually if you want to high-resolution spectrum
+
+644
+00:29:58,900 --> 00:30:00,900
+it can only see
+
+645
+00:30:00,000 --> 00:30:06,000
+It scatters the light of the celestial body very widely
+
+646
+00:30:06,000 --> 00:30:10,000
+let you get more of this
+
+647
+00:30:10,000 --> 00:30:16,000
+There is this information about its elements and its speed
+
+648
+00:30:16,000 --> 00:30:19,000
+So what about the spectrometer?
+
+649
+00:30:19,000 --> 00:30:23,000
+Usually it's different from the camera
+
+650
+00:30:23,000 --> 00:30:26,000
+It is equal to two different things separated
+
+651
+00:30:26,000 --> 00:30:29,000
+That's why it can be a camera at the same time
+
+652
+00:30:29,000 --> 00:30:30,000
+cannot be spectrum
+
+653
+00:30:30,000 --> 00:30:33,000
+Usually that's when you're doing this revealing design
+
+654
+00:30:33,000 --> 00:30:35,000
+You need to use your brains a little bit
+
+655
+00:30:35,000 --> 00:30:37,000
+For example, I am a moving thing
+
+656
+00:30:37,000 --> 00:30:39,000
+After I plug this thing in
+
+657
+00:30:39,000 --> 00:30:41,000
+it turns from camera to spectrum
+
+658
+00:30:41,000 --> 00:30:50,000
+Such a form to achieve this multi-purpose instrument
+
+659
+00:30:50,000 --> 00:30:54,000
+Another example is
+
+660
+00:30:54,000 --> 00:30:57,000
+Another word of our cooperation
+
+661
+00:30:57,000 --> 00:30:58,000
+Already called JCNT
+
+662
+00:30:58,000 --> 00:31:00,000
+it's a radio
+
+663
+00:31:00,000 --> 00:31:02,000
+the radio binoculars
+
+664
+00:31:02,000 --> 00:31:03,000
+the radio binoculars
+
+665
+00:31:03,000 --> 00:31:07,000
+it has four different astronomical instruments
+
+666
+00:31:07,000 --> 00:31:09,000
+on top of the same binoculars
+
+667
+00:31:09,000 --> 00:31:11,000
+it's actually the same
+
+668
+00:31:11,000 --> 00:31:13,000
+it will have a mirror to fold
+
+669
+00:31:13,000 --> 00:31:15,000
+When mirrors are folded in different directions
+
+670
+00:31:15,000 --> 00:31:18,000
+my different astronomical instruments
+
+671
+00:31:18,000 --> 00:31:21,000
+can play its role
+
+672
+00:31:21,000 --> 00:31:23,000
+what does it have on it
+
+673
+00:31:23,000 --> 00:31:26,000
+it's the same camera planner
+
+674
+00:31:26,000 --> 00:31:28,000
+I got a weird thing here
+
+675
+00:31:28,000 --> 00:31:30,000
+extrapolation receiver
+
+676
+00:31:30,000 --> 00:31:32,000
+This thing is actually in Chinese, I was also the day before
+
+677
+00:31:32,000 --> 00:31:34,000
+while doing this translation
+
+678
+00:31:34,000 --> 00:31:37,000
+I just found out that it's called an external receiver.
+
+679
+00:31:37,000 --> 00:31:39,000
+English is called Hitrodai
+
+680
+00:31:39,000 --> 00:31:40,000
+Receiver
+
+681
+00:31:40,000 --> 00:31:42,000
+it's actually a
+
+682
+00:31:42,000 --> 00:31:44,000
+Can know the recent
+
+683
+00:31:44,000 --> 00:31:46,000
+this phase of light
+
+684
+00:31:46,000 --> 00:31:50,000
+A receiver for the phase of electromagnetic waves
+
+685
+00:31:50,000 --> 00:31:53,000
+it usually has a reference
+
+686
+00:31:53,000 --> 00:31:55,000
+Reference electromagnetic waves come in
+
+687
+00:31:55,000 --> 00:31:58,000
+follow me from space
+
+688
+00:31:58,000 --> 00:32:00,000
+this signal from
+
+689
+00:32:00,000 --> 00:32:01,000
+interfere
+
+690
+00:32:01,000 --> 00:32:07,240
+Usually you have two signal cell waves with the same wavelength
+
+691
+00:32:07,240 --> 00:32:08,600
+when interfering
+
+692
+00:32:08,600 --> 00:32:13,000
+If you know the phase of a battery wave
+
+693
+00:32:13,000 --> 00:32:14,600
+you can know another phase
+
+694
+00:32:14,600 --> 00:32:17,000
+So they have something like this
+
+695
+00:32:17,000 --> 00:32:20,600
+Of course on a cordless phone headset
+
+696
+00:32:20,600 --> 00:32:26,600
+It also has astronomical instruments like a normal camera
+
+697
+00:32:26,600 --> 00:32:29,800
+In this case, it has many wavelengths
+
+698
+00:32:29,800 --> 00:32:34,800
+Scoobatux is currently the world's most powerful observation
+
+699
+00:32:34,800 --> 00:32:36,800
+this radio camera
+
+700
+00:32:36,800 --> 00:32:41,400
+It provides 450 and 850 micron images
+
+701
+00:32:41,400 --> 00:32:45,000
+450 microns is just short of our visible light
+
+702
+00:32:45,000 --> 00:32:48,800
+about 1000 times the wavelength
+
+703
+00:32:48,800 --> 00:32:54,600
+Our eyes see red light at about 0.6 microns
+
+704
+00:32:54,600 --> 00:32:58,200
+So this is about 1000 times worse
+
+705
+00:32:58,200 --> 00:33:00,200
+so their instruments
+
+706
+00:33:00,000 --> 00:33:05,000
+When designing, it uses the same materials as ordinary visible light
+
+707
+00:33:05,000 --> 00:33:08,000
+The materials used will be different
+
+708
+00:33:08,000 --> 00:33:11,000
+Then there will be a big difference
+
+709
+00:33:11,000 --> 00:33:14,000
+So usually when we do training
+
+710
+00:33:14,000 --> 00:33:18,000
+For example, I specialize in visible light infrared
+
+711
+00:33:18,000 --> 00:33:24,000
+It's hard for me to have this technology with those radios at the same time
+
+712
+00:33:24,000 --> 00:33:26,000
+So in our astronomical institute
+
+713
+00:33:26,000 --> 00:33:28,000
+We basically split into two big groups
+
+714
+00:33:28,000 --> 00:33:31,000
+One is visible light and infrared light
+
+715
+00:33:31,000 --> 00:33:34,000
+Also do this
+
+716
+00:33:34,000 --> 00:33:39,000
+Development of everything related to black hole radio
+
+717
+00:33:41,000 --> 00:33:47,000
+Well, what is the difference between everything in astronomy and science in general?
+
+718
+00:33:47,000 --> 00:33:52,000
+We know there are actually many different research units in the House of Representatives
+
+719
+00:33:52,000 --> 00:33:56,000
+There are many with 31
+
+720
+00:33:56,000 --> 00:34:00,000
+Then 20 of these 31 firms probably
+
+721
+00:34:00,000 --> 00:34:05,960
+In fact, there are many, many instruments in the tree pear group and the life science group.
+
+722
+00:34:06,440 --> 00:34:09,160
+So what is the difference between these instruments and our astronomical instruments?
+
+723
+00:34:11,040 --> 00:34:12,760
+Probably these three points
+
+724
+00:34:12,760 --> 00:34:13,920
+is the first
+
+725
+00:34:14,400 --> 00:34:19,760
+There is no way to control what astronomy observes
+
+726
+00:34:19,760 --> 00:34:21,400
+and it's far away
+
+727
+00:34:21,400 --> 00:34:25,600
+So its signal is quite weak when it reaches the earth
+
+728
+00:34:26,600 --> 00:34:28,080
+there are of course few exceptions
+
+729
+00:34:28,080 --> 00:34:29,880
+For example, if I want to look at the sun
+
+730
+00:34:30,960 --> 00:34:32,560
+the sun is actually very, very bright
+
+731
+00:34:32,560 --> 00:34:35,760
+Our usual nighttime instrument
+
+732
+00:34:35,760 --> 00:34:38,280
+Once placed in the sun, it burns immediately
+
+733
+00:34:38,280 --> 00:34:39,280
+the whole thing is broken
+
+734
+00:34:39,680 --> 00:34:42,760
+So in the field of astronomical instruments
+
+735
+00:34:42,760 --> 00:34:45,160
+Being the sun is actually a very special
+
+736
+00:34:45,800 --> 00:34:51,440
+What they need to consider is also very different from that of ordinary astronomical instruments used at night
+
+737
+00:34:51,960 --> 00:34:55,800
+But most astronomical instruments still target this very weak signal
+
+738
+00:34:55,920 --> 00:34:56,560
+to do
+
+739
+00:34:57,120 --> 00:34:58,320
+to make this design
+
+740
+00:35:00,000 --> 00:35:05,000
+Because this design needs to detect this very small signal
+
+741
+00:35:05,000 --> 00:35:08,000
+So what it needs is a very quiet environment
+
+742
+00:35:09,000 --> 00:35:12,000
+that's usually in physics because what we think of as a quiet environment
+
+743
+00:35:12,000 --> 00:35:15,000
+Just let the temperature of this thing drop down
+
+744
+00:35:15,000 --> 00:35:17,000
+Especially this detector of yours
+
+745
+00:35:18,000 --> 00:35:21,000
+So everyone, do you all have cell phones?
+
+746
+00:35:21,000 --> 00:35:22,000
+Mobile phones can take pictures
+
+747
+00:35:22,000 --> 00:35:25,000
+Like the videos of Xiuwa when I first started
+
+748
+00:35:25,000 --> 00:35:26,000
+it's also very beautiful
+
+749
+00:35:26,000 --> 00:35:30,000
+These beautiful images have actually been processed.
+
+750
+00:35:30,000 --> 00:35:33,000
+It didn't look so pretty in the first place
+
+751
+00:35:34,000 --> 00:35:40,000
+If that is astronomical, we will lower the operating temperature of the camera to
+
+752
+00:35:40,000 --> 00:35:42,000
+at least minus 100 degrees
+
+753
+00:35:42,000 --> 00:35:45,000
+What about when you get to minus 100 degrees?
+
+754
+00:35:45,000 --> 00:35:47,000
+the pictures you took
+
+755
+00:35:47,000 --> 00:35:49,000
+to be very clean
+
+756
+00:35:50,000 --> 00:35:51,000
+But I'll give some examples later
+
+757
+00:35:51,000 --> 00:35:53,000
+I said it was very clean
+
+758
+00:35:53,000 --> 00:35:55,000
+But it's actually relative
+
+759
+00:35:55,000 --> 00:35:57,000
+Actually it looks very ugly
+
+760
+00:35:57,000 --> 00:35:59,000
+If you haven't dealt with
+
+761
+00:36:00,000 --> 00:36:01,000
+but can't stand it
+
+762
+00:36:03,000 --> 00:36:06,000
+Another characteristic of silverware after that day is that
+
+763
+00:36:06,000 --> 00:36:08,000
+It usually operates around the clock
+
+764
+00:36:08,000 --> 00:36:10,000
+i put a telescope
+
+765
+00:36:10,000 --> 00:36:12,000
+Tin Hau silverware placed on top of the mountain
+
+766
+00:36:12,000 --> 00:36:15,000
+What about this mountain?
+
+767
+00:36:15,000 --> 00:36:17,000
+we need to
+
+768
+00:36:17,000 --> 00:36:20,000
+There are observation plans every day
+
+769
+00:36:20,000 --> 00:36:23,000
+These observation plans are usually decided half a year ago
+
+770
+00:36:23,000 --> 00:36:27,000
+just if i'm going to go ahead with tonight's plan
+
+771
+00:36:27,000 --> 00:36:28,000
+Actually scientists
+
+772
+00:36:28,000 --> 00:36:31,000
+Should have been six months ago or earlier
+
+773
+00:36:31,000 --> 00:36:33,000
+put forward his observation plan
+
+774
+00:36:33,000 --> 00:36:36,000
+That came up with some censored work
+
+775
+00:36:36,000 --> 00:36:39,000
+So about three months ago
+
+776
+00:36:39,000 --> 00:36:42,000
+what to observe every day
+
+777
+00:36:42,000 --> 00:36:45,000
+This observation plan has been fixed
+
+778
+00:36:45,000 --> 00:36:47,000
+then this i have
+
+779
+00:36:47,000 --> 00:36:48,000
+so here comes the day
+
+780
+00:36:48,000 --> 00:36:51,000
+if it's my turn i hope this telescope is good
+
+781
+00:36:51,000 --> 00:36:53,000
+this silverware is good
+
+782
+00:36:53,000 --> 00:36:55,000
+if it breaks i'm
+
+783
+00:36:55,000 --> 00:36:57,000
+I am the opportunity to go public
+
+784
+00:36:57,000 --> 00:37:00,000
+Then I may have to wait another half a year for this
+
+785
+00:37:00,000 --> 00:37:02,000
+Opportunity to observe
+
+786
+00:37:02,000 --> 00:37:04,000
+So our observed
+
+787
+00:37:04,000 --> 00:37:07,000
+Stability requirements are very, very high
+
+788
+00:37:07,000 --> 00:37:10,000
+Which weather station are we usually comparing
+
+789
+00:37:10,000 --> 00:37:12,000
+when it works better
+
+790
+00:37:12,000 --> 00:37:14,000
+I'm just comparing the light environment
+
+791
+00:37:14,000 --> 00:37:16,000
+It will be broken for a few days a year
+
+792
+00:37:16,000 --> 00:37:19,000
+That good weather platform may be 365 days a year
+
+793
+00:37:19,000 --> 00:37:21,000
+It's only about 5% broken
+
+794
+00:37:21,000 --> 00:37:22,000
+5% of the days
+
+795
+00:37:22,000 --> 00:37:24,000
+So about 10 days or so
+
+796
+00:37:24,000 --> 00:37:26,000
+10 days like this
+
+797
+00:37:26,000 --> 00:37:28,000
+that relative to your instrument
+
+798
+00:37:28,000 --> 00:37:30,000
+The instrument must be very stable except for the external environment
+
+799
+00:37:30,000 --> 00:37:31,000
+The instrument must be very stable
+
+800
+00:37:31,000 --> 00:37:34,000
+This way you can satisfy these
+
+801
+00:37:34,000 --> 00:37:36,000
+Astronomer Observational Needs
+
+802
+00:37:36,000 --> 00:37:38,000
+That's another
+
+803
+00:37:38,000 --> 00:37:39,000
+this temperature environment
+
+804
+00:37:39,000 --> 00:37:42,000
+usually just good weather
+
+805
+00:37:42,000 --> 00:37:44,000
+no cloud place
+
+806
+00:37:44,000 --> 00:37:47,000
+So it's a relatively dry environment
+
+807
+00:37:47,000 --> 00:37:48,000
+what about the earth
+
+808
+00:37:48,000 --> 00:37:49,000
+This relatively dry environment
+
+809
+00:37:49,000 --> 00:37:51,000
+Usually means that the temperature is very low
+
+810
+00:37:51,000 --> 00:37:53,000
+low humidity
+
+811
+00:37:53,000 --> 00:37:55,000
+So what about our instrument
+
+812
+00:37:55,000 --> 00:37:58,000
+You have to work in a very low environment
+
+813
+00:37:58,000 --> 00:37:59,000
+So put
+
+814
+00:38:00,000 --> 00:38:04,800
+If you put ordinary things in a low-temperature and low-humidity environment,
+
+815
+00:38:04,800 --> 00:38:08,000
+sometimes it doesn't work properly
+
+816
+00:38:08,000 --> 00:38:11,200
+The most commonly cited example is the
+
+817
+00:38:11,200 --> 00:38:14,000
+Usually the sky culture is already a high mountain
+
+818
+00:38:14,000 --> 00:38:17,000
+So a high mountain means that its air pressure is also very low.
+
+819
+00:38:17,000 --> 00:38:21,000
+The air is relatively thin
+
+820
+00:38:21,000 --> 00:38:25,000
+So in the early days, if you took the hard drive to the mountain
+
+821
+00:38:25,000 --> 00:38:26,000
+That hard drive often fails
+
+822
+00:38:26,000 --> 00:38:30,000
+Because the hard disk is actually very fast to read
+
+823
+00:38:30,000 --> 00:38:34,000
+it spins a fast motor
+
+824
+00:38:34,000 --> 00:38:37,000
+It is because of its fast rotation speed
+
+825
+00:38:37,000 --> 00:38:41,000
+Then float up to do this reading action
+
+826
+00:38:41,000 --> 00:38:44,000
+These drives usually have a high failure rate in the mountains
+
+827
+00:38:44,000 --> 00:38:47,000
+Motors because the air is too thin
+
+828
+00:38:47,000 --> 00:38:50,000
+There is no way for others to float it alone
+
+829
+00:38:50,000 --> 00:38:54,000
+So there are some very special things in this special environment
+
+830
+00:38:54,000 --> 00:38:56,000
+some very special factors
+
+831
+00:38:56,000 --> 00:38:59,000
+When you're developing hot weather
+
+832
+00:38:59,000 --> 00:39:01,000
+must be taken into account
+
+833
+00:39:00,000 --> 00:39:04,000
+ok then i'm back with this photo
+
+834
+00:39:04,000 --> 00:39:08,000
+Then this photo actually tells you that it is inside an instrument
+
+835
+00:39:08,000 --> 00:39:10,000
+probably something
+
+836
+00:39:10,000 --> 00:39:12,000
+the first one is
+
+837
+00:39:12,000 --> 00:39:14,000
+We can see that there are of course a lot of screws in here
+
+838
+00:39:14,000 --> 00:39:17,000
+We ignore the screw
+
+839
+00:39:17,000 --> 00:39:20,000
+Did you see it has its lens, has its body
+
+840
+00:39:20,000 --> 00:39:23,000
+And then there's this main electronic part of it
+
+841
+00:39:23,000 --> 00:39:27,000
+And the most important core, the detector inside it
+
+842
+00:39:27,000 --> 00:39:30,000
+Probably just these few
+
+843
+00:39:30,000 --> 00:39:33,000
+Form the core of astronomical instruments
+
+844
+00:39:33,000 --> 00:39:35,000
+you have an optical system
+
+845
+00:39:35,000 --> 00:39:39,000
+You can go get this signal and put it together
+
+846
+00:39:39,000 --> 00:39:41,000
+after that you have a detector
+
+847
+00:39:41,000 --> 00:39:44,000
+That detector can
+
+848
+00:39:44,000 --> 00:39:47,000
+The data that converts your signal from light to electricity
+
+849
+00:39:47,000 --> 00:39:51,000
+there's some circuitry that handles this electron
+
+850
+00:39:51,000 --> 00:39:53,000
+digitize its signal
+
+851
+00:39:53,000 --> 00:39:55,000
+Then of course you have some mechanical structure
+
+852
+00:39:55,000 --> 00:39:59,000
+make it reachable
+
+853
+00:39:59,000 --> 00:40:01,000
+stable automatic development
+
+854
+00:40:00,000 --> 00:40:01,500
+support your lens
+
+855
+00:40:01,500 --> 00:40:04,000
+And this detector of yours
+
+856
+00:40:06,500 --> 00:40:07,500
+then i just said
+
+857
+00:40:07,500 --> 00:40:09,500
+The first is to speak to the news
+
+858
+00:40:09,500 --> 00:40:13,500
+The most important thing is this astronomical optics system
+
+859
+00:40:17,500 --> 00:40:18,500
+that optical system
+
+860
+00:40:20,500 --> 00:40:23,500
+I just saw it mostly from the camera's point of view
+
+861
+00:40:23,500 --> 00:40:25,500
+so you may be
+
+862
+00:40:25,500 --> 00:40:27,500
+that is an imaging system
+
+863
+00:40:28,000 --> 00:40:30,000
+That's actually sometimes more than that
+
+864
+00:40:30,000 --> 00:40:33,000
+because if I want to know its spectrum
+
+865
+00:40:33,000 --> 00:40:35,000
+that's in this optical system
+
+866
+00:40:35,000 --> 00:40:37,000
+it will have split light
+
+867
+00:40:37,000 --> 00:40:41,000
+Then sometimes there will be this exciter
+
+868
+00:40:41,000 --> 00:40:44,000
+this other optical system
+
+869
+00:40:44,000 --> 00:40:46,000
+Then I can know the light that comes in
+
+870
+00:40:46,000 --> 00:40:49,000
+What is the direction of its intensification?
+
+871
+00:40:50,000 --> 00:40:53,000
+The optical system can be said to be in the astronomy department
+
+872
+00:40:53,000 --> 00:40:55,000
+very important part
+
+873
+00:40:55,000 --> 00:40:57,000
+because it actually determines the quality of the image
+
+874
+00:40:57,000 --> 00:41:00,000
+field of view size and you can achieve this
+
+875
+00:41:00,000 --> 00:41:01,000
+resolution
+
+876
+00:41:02,400 --> 00:41:05,320
+The resolution is actually some
+
+877
+00:41:05,320 --> 00:41:07,140
+theoretical limit
+
+878
+00:41:07,260 --> 00:41:10,140
+I originally brought another small thing to demo today for everyone to see
+
+879
+00:41:10,140 --> 00:41:12,500
+But then it turned out that our laser
+
+880
+00:41:12,700 --> 00:41:13,700
+not enough
+
+881
+00:41:14,300 --> 00:41:16,600
+Not powerful enough for everyone to see
+
+882
+00:41:16,600 --> 00:41:17,800
+but this
+
+883
+00:41:17,800 --> 00:41:19,840
+What is the limit of the so-called optical system?
+
+884
+00:41:19,840 --> 00:41:22,500
+Basically everyone if
+
+885
+00:41:23,120 --> 00:41:26,100
+When I was in middle school and high school, I did the limit of diffraction
+
+886
+00:41:26,100 --> 00:41:28,360
+In fact, this is the limit of the diffraction
+
+887
+00:41:28,860 --> 00:41:30,460
+Diffraction limit means
+
+888
+00:41:30,460 --> 00:41:32,360
+if i had a laser light
+
+889
+00:41:32,360 --> 00:41:33,960
+Then there's a small hole here
+
+890
+00:41:34,360 --> 00:41:36,560
+What about after the laser light passes through the small hole?
+
+891
+00:41:36,560 --> 00:41:39,860
+It will have this circular, this diffracted, this
+
+892
+00:41:40,160 --> 00:41:41,760
+pattern generated
+
+893
+00:41:42,660 --> 00:41:43,660
+that hole
+
+894
+00:41:44,160 --> 00:41:45,160
+smaller
+
+895
+00:41:45,660 --> 00:41:48,060
+The point of this diffraction is larger
+
+896
+00:41:48,560 --> 00:41:50,060
+what does that mean
+
+897
+00:41:50,260 --> 00:41:52,960
+My words, if you take this sock as a
+
+898
+00:41:53,360 --> 00:41:54,360
+your hole
+
+899
+00:41:55,360 --> 00:41:58,060
+Then this point represents the one I can image
+
+900
+00:41:58,060 --> 00:41:59,160
+point size
+
+901
+00:42:00,000 --> 00:42:02,540
+In this way, it can be estimated that
+
+902
+00:42:02,540 --> 00:42:05,040
+Where is the limit of this resolution?
+
+903
+00:42:05,040 --> 00:42:07,840
+So when my sea-goggle gets bigger
+
+904
+00:42:07,840 --> 00:42:10,800
+My image quality
+
+905
+00:42:10,800 --> 00:42:14,640
+That is, the limit of its theory will be smaller
+
+906
+00:42:15,940 --> 00:42:17,040
+that wavelength
+
+907
+00:42:17,040 --> 00:42:18,840
+It also depends on the wavelength
+
+908
+00:42:18,840 --> 00:42:20,500
+If the wavelength is shorter
+
+909
+00:42:20,500 --> 00:42:23,740
+I can also get higher resolution
+
+910
+00:42:23,740 --> 00:42:27,300
+Here I give an example
+
+911
+00:42:27,300 --> 00:42:28,840
+everyone has this phone
+
+912
+00:42:28,840 --> 00:42:31,680
+In fact, every mobile phone has its lens inside.
+
+913
+00:42:31,680 --> 00:42:33,840
+what about the lens
+
+914
+00:42:33,840 --> 00:42:34,980
+In fact, it will tell you
+
+915
+00:42:34,980 --> 00:42:39,040
+Your lens has a so called this F Ratio
+
+916
+00:42:39,040 --> 00:42:41,580
+So it is F1.8, F2.0
+
+917
+00:42:41,580 --> 00:42:44,540
+or a digital camera that tells you
+
+918
+00:42:44,540 --> 00:42:45,900
+How much is this F?
+
+919
+00:42:45,900 --> 00:42:47,880
+In fact, this is the D
+
+920
+00:42:47,880 --> 00:42:48,840
+in my company
+
+921
+00:42:48,840 --> 00:42:51,180
+Large D divides this value of small D
+
+922
+00:42:51,180 --> 00:42:53,180
+So you put this value in
+
+923
+00:42:53,180 --> 00:42:55,080
+then multiply by your wavelength
+
+924
+00:42:55,080 --> 00:42:57,080
+you can get your limit
+
+925
+00:42:57,080 --> 00:42:59,920
+So if an iPhone 11 latest
+
+926
+00:43:00,000 --> 00:43:01,700
+What about the iPhone 11 Pro?
+
+927
+00:43:01,700 --> 00:43:03,000
+its resolution
+
+928
+00:43:03,000 --> 00:43:05,200
+The theoretical resolution limit is
+
+929
+00:43:05,200 --> 00:43:08,700
+about a microphone or so
+
+930
+00:43:08,700 --> 00:43:11,200
+That's the best that can be achieved theoretically.
+
+931
+00:43:11,200 --> 00:43:12,400
+this resolution
+
+932
+00:43:12,400 --> 00:43:15,100
+Actually because you have some
+
+933
+00:43:15,100 --> 00:43:17,000
+optical quality above
+
+934
+00:43:17,000 --> 00:43:18,800
+by
+
+935
+00:43:18,800 --> 00:43:20,200
+when assembling
+
+936
+00:43:20,200 --> 00:43:21,400
+Supply differential impact
+
+937
+00:43:21,400 --> 00:43:22,500
+so this
+
+938
+00:43:22,500 --> 00:43:25,600
+Usually only a theoretical limit
+
+939
+00:43:25,600 --> 00:43:28,400
+Your real imaging will be much better than this
+
+940
+00:43:28,500 --> 00:43:30,800
+Worse
+
+941
+00:43:30,800 --> 00:43:32,000
+I just said
+
+942
+00:43:32,000 --> 00:43:33,600
+our this
+
+943
+00:43:33,600 --> 00:43:36,000
+atmosphere creates labor
+
+944
+00:43:36,000 --> 00:43:37,200
+Then this atmosphere produces labor
+
+945
+00:43:37,200 --> 00:43:40,400
+In fact, it has a great impact on our astronomy.
+
+946
+00:43:40,400 --> 00:43:42,400
+Basically if you are
+
+947
+00:43:42,400 --> 00:43:43,300
+when the weather is bad
+
+948
+00:43:43,300 --> 00:43:46,000
+You can see that this star point keeps shaking
+
+949
+00:43:46,000 --> 00:43:47,600
+so although
+
+950
+00:43:47,600 --> 00:43:50,200
+When we built this big binoculars
+
+951
+00:43:50,200 --> 00:43:52,800
+I theorize it can get very high on this
+
+952
+00:43:52,800 --> 00:43:53,700
+resolution
+
+953
+00:43:53,700 --> 00:43:55,100
+But the atmosphere is here
+
+954
+00:43:55,100 --> 00:43:56,600
+when moving around
+
+955
+00:43:56,600 --> 00:43:58,000
+Actually my resolution
+
+956
+00:43:58,000 --> 00:44:00,000
+will be greatly
+
+957
+00:44:00,000 --> 00:44:04,000
+We just said that Unlimited Power will not be affected by this.
+
+958
+00:44:04,000 --> 00:44:09,000
+So they came up with a very powerful trick when doing infinite electricity observation.
+
+959
+00:44:09,000 --> 00:44:13,000
+is to use special technology to simulate this super large chip
+
+960
+00:44:13,000 --> 00:44:16,000
+What about this huge chip?
+
+961
+00:44:16,000 --> 00:44:20,000
+The so-called ultra-long limit interference shadow
+
+962
+00:44:20,000 --> 00:44:23,000
+That is why we can see black holes this time
+
+963
+00:44:23,000 --> 00:44:29,000
+In fact, it uses this antenna scattered all over the earth
+
+964
+00:44:29,000 --> 00:44:34,000
+Aggregate this signal of his to simulate a very large chip
+
+965
+00:44:34,000 --> 00:44:36,000
+Then I just talked about the limit of this resolution
+
+966
+00:44:36,000 --> 00:44:39,000
+It has something to do with the caliber of my chip.
+
+967
+00:44:39,000 --> 00:44:42,000
+Therefore, if the aperture of my wafer is small
+
+968
+00:44:42,000 --> 00:44:45,000
+My resolution is poor
+
+969
+00:44:45,000 --> 00:44:49,000
+Then I am on the ground, I can best simulate the largest situation
+
+970
+00:44:49,000 --> 00:44:53,000
+It's me who put this antenna in different corners of the world
+
+971
+00:44:53,000 --> 00:44:58,000
+Then it will have an antenna the size of an earth
+
+972
+00:44:58,000 --> 00:45:00,000
+Then we can see our black hole
+
+973
+00:45:00,000 --> 00:45:02,240
+You see this and the above tells you
+
+974
+00:45:02,240 --> 00:45:05,140
+When the two antennas are very close, the resolution is not good
+
+975
+00:45:05,140 --> 00:45:06,740
+when i pull it away
+
+976
+00:45:06,740 --> 00:45:09,740
+its resolution will increase
+
+977
+00:45:09,740 --> 00:45:12,940
+What about the actual operation inside?
+
+978
+00:45:12,940 --> 00:45:17,940
+It is more complicated than the concept just now
+
+979
+00:45:17,940 --> 00:45:21,340
+because I'm actually simulating the entire Earth
+
+980
+00:45:21,340 --> 00:45:25,540
+When it comes to size, I have several points
+
+981
+00:45:25,540 --> 00:45:27,440
+That is, my antenna may have seven or eight points
+
+982
+00:45:27,440 --> 00:45:29,940
+in various places around the globe
+
+983
+00:45:30,180 --> 00:45:32,180
+Then I have to rely on the earth's rotation
+
+984
+00:45:32,180 --> 00:45:35,180
+To make up for the distance between this point and the point
+
+985
+00:45:35,180 --> 00:45:37,680
+so that my image will become clearer and clearer
+
+986
+00:45:37,680 --> 00:45:41,180
+Then this is what we were before
+
+987
+00:45:41,180 --> 00:45:44,180
+When doing this black hole observation
+
+988
+00:45:44,180 --> 00:45:45,680
+can get this
+
+989
+00:45:45,680 --> 00:45:48,180
+Why can you get such a fresh image
+
+990
+00:45:48,180 --> 00:45:51,180
+very important reason
+
+991
+00:45:52,180 --> 00:45:55,680
+What about visible light?
+
+992
+00:45:55,680 --> 00:45:59,180
+is when you have a lot of this old hole
+
+993
+00:45:59,180 --> 00:46:00,180
+Actually you didn't
+
+994
+00:46:00,000 --> 00:46:04,000
+I can't achieve the effect of the interference I mentioned in the image just now
+
+995
+00:46:04,000 --> 00:46:10,000
+Because the effect of this interference is actually when the signal comes from outer space
+
+996
+00:46:10,000 --> 00:46:13,000
+it has not been disturbed by any
+
+997
+00:46:13,000 --> 00:46:17,000
+So what about this light in a different position?
+
+998
+00:46:17,000 --> 00:46:21,000
+You can combine it to achieve the effect of imaging
+
+999
+00:46:21,000 --> 00:46:23,000
+What if you have a large disturbance
+
+1000
+00:46:23,000 --> 00:46:27,000
+My scent information has changed
+
+1001
+00:46:27,000 --> 00:46:33,000
+At this time, I have no way to achieve the effect of this interference.
+
+1002
+00:46:33,000 --> 00:46:36,000
+So in general at the wavelength of visible light
+
+1003
+00:46:36,000 --> 00:46:41,000
+We have this phase difference caused by this atmospheric vibration
+
+1004
+00:46:41,000 --> 00:46:44,000
+I have no way to do this intervention
+
+1005
+00:46:44,000 --> 00:46:47,000
+So the interference of the ultra-long line just mentioned
+
+1006
+00:46:47,000 --> 00:46:50,000
+It's all only possible over the radio.
+
+1007
+00:46:50,000 --> 00:46:53,000
+in visible light or infrared
+
+1008
+00:46:53,000 --> 00:46:56,000
+We're going to use some special methods
+
+1009
+00:46:56,000 --> 00:47:00,000
+This has a special term called modulation optics
+
+1010
+00:47:00,000 --> 00:47:02,000
+What is the meaning of modulation optics
+
+1011
+00:47:02,000 --> 00:47:05,000
+I want to take this atmospheric old hole out of it
+
+1012
+00:47:05,000 --> 00:47:14,000
+Atmospheric old holes usually when light passes through the atmosphere at different altitudes
+
+1013
+00:47:14,000 --> 00:47:19,000
+Originally its light should be the red and green lines represent the wavefront of light
+
+1014
+00:47:19,000 --> 00:47:29,000
+That is, when the light signal comes in, you pull up the highest point of its vibration position
+
+1015
+00:47:29,000 --> 00:47:32,000
+Logically it should be flat
+
+1016
+00:47:32,000 --> 00:47:35,000
+There is this kind of light coming in flat, parallel light coming in
+
+1017
+00:47:35,000 --> 00:47:41,000
+When the wavefront is this parallel I can get a perfect image
+
+1018
+00:47:41,000 --> 00:47:46,000
+But after passing through the atmosphere, it usually becomes the appearance of the external airflow
+
+1019
+00:47:46,000 --> 00:47:53,000
+Then if I want to correct the appearance of the external airflow, I have to use a distorted mirror
+
+1020
+00:47:53,000 --> 00:47:59,000
+I just let this distorted mirror twist along with this my wavefront
+
+1021
+00:47:59,000 --> 00:48:00,000
+Then twist with the wave front
+
+1022
+00:48:00,000 --> 00:48:04,000
+It passes through this mirror reflection, and its peeling will be flat
+
+1023
+00:48:04,000 --> 00:48:06,000
+After that mediocre, I'll get
+
+1024
+00:48:06,000 --> 00:48:09,000
+Same as my interference limit
+
+1025
+00:48:09,000 --> 00:48:11,000
+such a sharp impact
+
+1026
+00:48:11,000 --> 00:48:14,000
+that's a video
+
+1027
+00:48:14,000 --> 00:48:16,000
+This is King Kate glasses
+
+1028
+00:48:16,000 --> 00:48:19,000
+They do this modulation optics
+
+1029
+00:48:19,000 --> 00:48:21,000
+The image turned out to be blurry
+
+1030
+00:48:21,000 --> 00:48:25,000
+After I turned on the modulation optics correction
+
+1031
+00:48:25,000 --> 00:48:27,000
+The image suddenly becomes very sharp
+
+1032
+00:48:27,000 --> 00:48:32,000
+That's the difference when you take the atmospheric old hole
+
+1033
+00:48:32,000 --> 00:48:33,000
+after fixing it
+
+1034
+00:48:33,000 --> 00:48:36,000
+You can get very beautiful images
+
+1035
+00:48:36,000 --> 00:48:38,000
+that beautiful image
+
+1036
+00:48:38,000 --> 00:48:43,000
+it has some full size restrictions
+
+1037
+00:48:43,000 --> 00:48:45,000
+Because of this atmospheric old hole
+
+1038
+00:48:45,000 --> 00:48:48,000
+different in different positions
+
+1039
+00:48:48,000 --> 00:48:51,000
+we have a noun called
+
+1040
+00:48:51,000 --> 00:48:54,000
+It's your Cohirin's Lens
+
+1041
+00:48:54,000 --> 00:48:57,000
+That is to say, how big is the atmosphere?
+
+1042
+00:48:57,000 --> 00:48:59,000
+its old hole is the same length
+
+1043
+00:49:00,000 --> 00:49:03,900
+In Taipei City, this range may only be about 20 centimeters
+
+1044
+00:49:05,500 --> 00:49:08,300
+The environment on the mountain is better
+
+1045
+00:49:08,300 --> 00:49:11,500
+maybe a few meters
+
+1046
+00:49:11,500 --> 00:49:13,100
+so you take this
+
+1047
+00:49:14,800 --> 00:49:18,500
+When the difference caused by the atmospheric flood is completely corrected
+
+1048
+00:49:18,500 --> 00:49:20,300
+In fact it is only in this
+
+1049
+00:49:20,300 --> 00:49:22,700
+you can see you can refer to
+
+1050
+00:49:22,700 --> 00:49:24,300
+can measure this
+
+1051
+00:49:24,300 --> 00:49:26,700
+The vicinity of this point where the old cave looks like
+
+1052
+00:49:27,600 --> 00:49:29,200
+will have a good impact
+
+1053
+00:49:29,400 --> 00:49:30,600
+so you see this
+
+1054
+00:49:31,100 --> 00:49:33,600
+This frame is actually very, very small
+
+1055
+00:49:33,900 --> 00:49:36,500
+It is only 0.8 x 0.8
+
+1056
+00:49:37,100 --> 00:49:38,100
+arc seconds
+
+1057
+00:49:38,100 --> 00:49:40,700
+One arc second is 3600th of a degree
+
+1058
+00:49:40,700 --> 00:49:42,400
+so you know it this is actually watching
+
+1059
+00:49:42,400 --> 00:49:44,100
+very very small range
+
+1060
+00:49:44,400 --> 00:49:45,700
+to see this
+
+1061
+00:49:46,600 --> 00:49:48,100
+So usually this
+
+1062
+00:49:48,100 --> 00:49:51,600
+The problem with modulated optics is that the field of view becomes very, very small
+
+1063
+00:49:51,800 --> 00:49:54,000
+So if it wants
+
+1064
+00:49:55,000 --> 00:49:56,700
+increase it this
+
+1065
+00:49:57,500 --> 00:49:58,900
+What about the field of vision?
+
+1066
+00:49:58,900 --> 00:49:59,900
+you just
+
+1067
+00:50:00,000 --> 00:50:02,000
+do some other tricks
+
+1068
+00:50:03,000 --> 00:50:06,000
+Other tricks include just hitting this laser
+
+1069
+00:50:06,000 --> 00:50:11,000
+I can shoot lasers in all directions from the wrist glasses
+
+1070
+00:50:11,000 --> 00:50:15,000
+The laser itself is like a reference for me
+
+1071
+00:50:15,000 --> 00:50:19,000
+After the laser hits it, I will look at the point where the laser shines
+
+1072
+00:50:19,000 --> 00:50:23,000
+You can know when you go up and down from this laser
+
+1073
+00:50:23,000 --> 00:50:26,000
+After this atmospheric god it's old hole look
+
+1074
+00:50:26,000 --> 00:50:28,000
+i can hit several
+
+1075
+00:50:28,000 --> 00:50:29,000
+I'll know after a few hits
+
+1076
+00:50:29,000 --> 00:50:32,000
+In this area of ​​the mirror that completes me
+
+1077
+00:50:32,000 --> 00:50:36,000
+All Atmospheric Old Hole areas above
+
+1078
+00:50:36,000 --> 00:50:40,000
+This correction actually requires a very fast calculation
+
+1079
+00:50:40,000 --> 00:50:43,000
+because basically you need to achieve
+
+1080
+00:50:43,000 --> 00:50:46,000
+More than 500 corrections per second
+
+1081
+00:50:46,000 --> 00:50:49,000
+So you need to have a lot of sensors
+
+1082
+00:50:49,000 --> 00:50:51,000
+and many lasers
+
+1083
+00:50:51,000 --> 00:50:53,000
+and then go and do it together
+
+1084
+00:50:53,000 --> 00:50:56,000
+This is currently on the Department of Astronomy
+
+1085
+00:50:56,000 --> 00:50:59,000
+It is also a very important field of research
+
+1086
+00:51:00,000 --> 00:51:05,000
+Just to correct the disturbance caused by the atmosphere
+
+1087
+00:51:06,500 --> 00:51:07,700
+That's another reason
+
+1088
+00:51:07,700 --> 00:51:11,500
+That's why we have NASA that wants to launch this
+
+1089
+00:51:11,500 --> 00:51:14,500
+Havoc grid average or even the next generation
+
+1090
+00:51:14,500 --> 00:51:18,000
+We say that JWST's access to the network
+
+1091
+00:51:19,000 --> 00:51:22,000
+That is, the labor of the atmosphere actually limits a lot of this
+
+1092
+00:51:22,000 --> 00:51:26,500
+We can reach this limit with ground-based observations
+
+1093
+00:51:26,500 --> 00:51:28,000
+so if you
+
+1094
+00:51:28,500 --> 00:51:33,000
+I just said that the average size of our largest net on the ground is 10 meters
+
+1095
+00:51:33,000 --> 00:51:37,000
+The Havoc net is actually very small, it is only 2 meters
+
+1096
+00:51:38,000 --> 00:51:41,000
+Then why can 2 meters see farther than 10 meters?
+
+1097
+00:51:41,000 --> 00:51:46,000
+This resolution is an atmospheric effect is a big reason
+
+1098
+00:51:48,500 --> 00:51:51,000
+Apart from what I just said, that lens is the one
+
+1099
+00:51:52,000 --> 00:51:53,000
+What about resolution
+
+1100
+00:51:53,000 --> 00:51:58,000
+Of course, its design also has a lot to do with the size of my field of vision.
+
+1101
+00:51:58,000 --> 00:51:59,000
+If my focal length is short
+
+1102
+00:52:00,000 --> 00:52:01,400
+Its field of view is larger
+
+1103
+00:52:01,900 --> 00:52:04,860
+If you have played with the camera
+
+1104
+00:52:04,860 --> 00:52:05,400
+should know
+
+1105
+00:52:05,400 --> 00:52:08,500
+if the shot is short
+
+1106
+00:52:08,700 --> 00:52:10,800
+usually i can see wide
+
+1107
+00:52:11,400 --> 00:52:13,100
+Then if I have a long lens
+
+1108
+00:52:13,100 --> 00:52:15,900
+I just zoom in well
+
+1109
+00:52:15,900 --> 00:52:16,900
+i can see far
+
+1110
+00:52:18,800 --> 00:52:20,400
+Then of course we're doing astronomical observations.
+
+1111
+00:52:20,400 --> 00:52:23,000
+We hope that the bigger the field of vision, the better.
+
+1112
+00:52:23,300 --> 00:52:24,900
+If the field of vision is larger
+
+1113
+00:52:25,000 --> 00:52:28,400
+I will collect this information in a wider range at one time
+
+1114
+00:52:28,700 --> 00:52:29,400
+but
+
+1115
+00:52:30,000 --> 00:52:31,200
+When the field of view is bigger
+
+1116
+00:52:31,200 --> 00:52:33,100
+The larger the range of angles it enters the light
+
+1117
+00:52:33,300 --> 00:52:36,800
+so you may have very off-center light coming in
+
+1118
+00:52:37,300 --> 00:52:38,200
+at this time
+
+1119
+00:52:38,300 --> 00:52:40,000
+when you are doing optical design
+
+1120
+00:52:40,100 --> 00:52:41,300
+it will be very very difficult
+
+1121
+00:52:41,700 --> 00:52:42,800
+the other is you
+
+1122
+00:52:43,000 --> 00:52:44,400
+The last imaged surface
+
+1123
+00:52:44,800 --> 00:52:45,900
+is not a flat
+
+1124
+00:52:46,400 --> 00:52:48,200
+so this is a
+
+1125
+00:52:50,000 --> 00:52:51,400
+the real photo is
+
+1126
+00:52:52,600 --> 00:52:55,400
+I discovered a lot of this western alien a while ago
+
+1127
+00:52:55,400 --> 00:52:57,800
+Because there's this satellite called the Keppel satellite
+
+1128
+00:52:58,100 --> 00:52:59,000
+that actually
+
+1129
+00:52:59,000 --> 00:52:59,900
+This is it
+
+1130
+00:53:00,000 --> 00:53:03,240
+It intersects the plane is a curved
+
+1131
+00:53:03,240 --> 00:53:08,000
+Because you want to make an imaging system with a large field of view
+
+1132
+00:53:08,000 --> 00:53:16,000
+It is difficult for you to adjust the curvature of the field of view itself back
+
+1133
+00:53:16,000 --> 00:53:17,500
+so you end up with
+
+1134
+00:53:17,500 --> 00:53:21,300
+You have to do your imaging on a curved plane
+
+1135
+00:53:21,300 --> 00:53:24,700
+This technology will be much more difficult
+
+1136
+00:53:24,700 --> 00:53:33,200
+This is an example of a visible light camera that we have previously cooperated with Japan
+
+1137
+00:53:33,200 --> 00:53:40,200
+Usually in this lens inside the lens of the whole system camera
+
+1138
+00:53:40,200 --> 00:53:43,200
+There are usually many lenses
+
+1139
+00:53:43,200 --> 00:53:45,200
+Each lens has its own function
+
+1140
+00:53:45,200 --> 00:53:47,200
+It is to correct its chromatic aberration
+
+1141
+00:53:48,200 --> 00:53:55,700
+Possibly a fix so that the view doesn't turn into a curved view
+
+1142
+00:53:55,700 --> 00:54:00,200
+That could be the whole image of this
+
+1143
+00:54:00,000 --> 00:54:03,240
+twist it to make it small
+
+1144
+00:54:03,240 --> 00:54:05,540
+so in one shot
+
+1145
+00:54:05,540 --> 00:54:08,840
+Usually very, very many lenses are used
+
+1146
+00:54:08,840 --> 00:54:12,640
+So this increase in instrument size
+
+1147
+00:54:12,640 --> 00:54:15,440
+These lenses are also getting larger in size
+
+1148
+00:54:15,440 --> 00:54:17,600
+You should be able to see it like this
+
+1149
+00:54:17,600 --> 00:54:18,840
+its 400
+
+1150
+00:54:18,840 --> 00:54:21,440
+Its radius is 41 cm
+
+1151
+00:54:21,440 --> 00:54:24,040
+So the whole lens is about 82 cm
+
+1152
+00:54:24,040 --> 00:54:26,640
+That's probably pretty close
+
+1153
+00:54:26,640 --> 00:54:29,240
+The limit of what we can do so far
+
+1154
+00:54:31,000 --> 00:54:34,840
+In addition, if this thing is to be used in infrared
+
+1155
+00:54:34,840 --> 00:54:36,440
+Its consideration is different
+
+1156
+00:54:36,440 --> 00:54:38,100
+Because this in infrared
+
+1157
+00:54:38,100 --> 00:54:43,300
+camera we often need is
+
+1158
+00:54:43,300 --> 00:54:45,440
+cooler observed temperature
+
+1159
+00:54:45,440 --> 00:54:48,840
+I'm going to take all these lenses down to cryogenics
+
+1160
+00:54:48,840 --> 00:54:50,900
+How cold is this, probably
+
+1161
+00:54:50,900 --> 00:54:53,000
+around minus 200 degrees
+
+1162
+00:54:53,000 --> 00:54:54,640
+at minus 200 degrees
+
+1163
+00:54:54,640 --> 00:54:56,240
+you are making this lens
+
+1164
+00:54:56,240 --> 00:54:58,440
+When it comes to the design of this mirror frame
+
+1165
+00:54:58,440 --> 00:55:00,280
+you have to use some special
+
+1166
+00:55:00,000 --> 00:55:03,000
+Otherwise, we usually say that heat expands and contracts with cold
+
+1167
+00:55:03,000 --> 00:55:06,000
+My lenses shrink slowly
+
+1168
+00:55:06,000 --> 00:55:09,000
+Metals expand when heated and contract when cooled.
+
+1169
+00:55:09,000 --> 00:55:13,000
+So how do you go about cooling down
+
+1170
+00:55:13,000 --> 00:55:15,000
+You make this lens able to sustain it
+
+1171
+00:55:15,000 --> 00:55:17,000
+originally designed location
+
+1172
+00:55:17,000 --> 00:55:20,000
+That requires some special design
+
+1173
+00:55:20,000 --> 00:55:23,000
+Let it be a very uniform when shrinking
+
+1174
+00:55:23,000 --> 00:55:25,000
+There is always something holding it
+
+1175
+00:55:25,000 --> 00:55:28,000
+keep it in this fixed position
+
+1176
+00:55:29,000 --> 00:55:30,000
+that in addition
+
+1177
+00:55:30,000 --> 00:55:32,000
+Design on Infrared
+
+1178
+00:55:32,000 --> 00:55:34,000
+its lenses are not big
+
+1179
+00:55:34,000 --> 00:55:36,000
+The composition is also different
+
+1180
+00:55:36,000 --> 00:55:38,000
+It is usually divided into two blocks
+
+1181
+00:55:38,000 --> 00:55:41,000
+One is to let the light coming back from the outer mirror
+
+1182
+00:55:41,000 --> 00:55:44,000
+First the paint tool becomes a collimated light at a time
+
+1183
+00:55:44,000 --> 00:55:46,000
+that on collimated light
+
+1184
+00:55:46,000 --> 00:55:48,000
+We usually have some filters
+
+1185
+00:55:48,000 --> 00:55:51,000
+or block the outside mirror
+
+1186
+00:55:51,000 --> 00:55:54,000
+The unwanted infrared rays that come in
+
+1187
+00:55:54,000 --> 00:55:57,000
+Only after that did the second imaging
+
+1188
+00:55:57,000 --> 00:55:59,000
+so it's in the infrared
+
+1189
+00:55:59,000 --> 00:56:00,000
+its lens
+
+1190
+00:56:00,000 --> 00:56:06,000
+The number of lenses inside is usually quite a lot.
+
+1191
+00:56:09,000 --> 00:56:11,000
+except for this camera
+
+1192
+00:56:11,000 --> 00:56:16,000
+I just said that sometimes what we need is to make it a spectroscopic
+
+1193
+00:56:16,000 --> 00:56:20,000
+This is our participation in another goby project
+
+1194
+00:56:20,000 --> 00:56:22,000
+A pattern for the design of an optical system
+
+1195
+00:56:22,000 --> 00:56:24,000
+Usually in this light goby
+
+1196
+00:56:24,000 --> 00:56:26,000
+it is very complicated to run
+
+1197
+00:56:27,000 --> 00:56:31,000
+In this example it actually has a Xiafeng
+
+1198
+00:56:31,000 --> 00:56:33,000
+The light from Xiafeng
+
+1199
+00:56:33,000 --> 00:56:36,000
+It will hit my zero mirror first
+
+1200
+00:56:36,000 --> 00:56:38,000
+and then hit my light
+
+1201
+00:56:38,000 --> 00:56:41,000
+And then bounce back after the light
+
+1202
+00:56:41,000 --> 00:56:44,000
+same same mirror
+
+1203
+00:56:44,000 --> 00:56:48,000
+Let it hit back to the lens of this camera of mine
+
+1204
+00:56:48,000 --> 00:56:52,000
+Let this light that has been split
+
+1205
+00:56:52,000 --> 00:56:54,000
+can be imaged on my detector
+
+1206
+00:56:54,000 --> 00:56:58,000
+So its optical path is usually three-dimensional and very complicated
+
+1207
+00:56:58,000 --> 00:57:00,000
+this tossed and tossed
+
+1208
+00:57:00,000 --> 00:57:03,000
+In the end you'll end up with a spectrum like this
+
+1209
+00:57:03,000 --> 00:57:06,000
+This is a high-resolution spectrum
+
+1210
+00:57:06,000 --> 00:57:10,000
+You can see this presumably from a microphone
+
+1211
+00:57:10,000 --> 00:57:14,000
+Up to 2.5 mics the light is all spread out
+
+1212
+00:57:14,000 --> 00:57:18,000
+Here you will see that I am all this is the one used by our school
+
+1213
+00:57:18,000 --> 00:57:22,000
+spectral lines so you'll see it's bright all the way through
+
+1214
+00:57:22,000 --> 00:57:26,000
+Spectra also come in many different forms
+
+1215
+00:57:26,000 --> 00:57:30,000
+This is when I only look at one celestial body
+
+1216
+00:57:30,000 --> 00:57:33,000
+Then spread the light as far as possible
+
+1217
+00:57:33,000 --> 00:57:35,000
+This is a high-resolution spectrometer
+
+1218
+00:57:35,000 --> 00:57:40,000
+There's another one where I want to see a lot of different celestial objects at once
+
+1219
+00:57:40,000 --> 00:57:43,000
+Then make all the celestial bodies line up
+
+1220
+00:57:43,000 --> 00:57:48,000
+Is this fiber optic or
+
+1221
+00:57:48,000 --> 00:57:52,000
+the shorter one
+
+1222
+00:57:52,000 --> 00:57:55,000
+Safeng's spectrometer
+
+1223
+00:57:55,000 --> 00:57:57,000
+Then you see this light of every celestial body
+
+1224
+00:57:57,000 --> 00:58:00,000
+It separates it in a small range
+
+1225
+00:58:00,000 --> 00:58:03,000
+So the resolution of this optical auxiliary is relatively poor.
+
+1226
+00:58:03,000 --> 00:58:06,000
+But I see many celestial signals at once
+
+1227
+00:58:06,000 --> 00:58:11,000
+So this topic of different astronomical studies
+
+1228
+00:58:11,000 --> 00:58:14,000
+You need to need different instruments
+
+1229
+00:58:14,000 --> 00:58:17,000
+Let you achieve different goals like this
+
+1230
+00:58:19,000 --> 00:58:21,000
+I just talked about the optical system
+
+1231
+00:58:21,000 --> 00:58:24,000
+Another very important thing is of course the detector
+
+1232
+00:58:24,000 --> 00:58:29,000
+After I take the light, whether it is imaging or splitting it,
+
+1233
+00:58:30,000 --> 00:58:35,000
+The most important thing is that you have something to convert the signal
+
+1234
+00:58:35,000 --> 00:58:41,000
+The detector will of course determine the sensitivity of the instrument
+
+1235
+00:58:41,000 --> 00:58:43,000
+if my detector is good
+
+1236
+00:58:43,000 --> 00:58:48,000
+Then I can detect very weak signals
+
+1237
+00:58:48,000 --> 00:58:52,000
+Wait for my temperature to be lower
+
+1238
+00:58:59,000 --> 00:59:01,000
+thank you all
+
+1239
+00:59:00,000 --> 00:59:10,500
+What about the light? The detector we usually use
+
+1240
+00:59:10,500 --> 00:59:13,500
+It is the well-known semiconductor
+
+1241
+00:59:13,500 --> 00:59:16,500
+Well, there are actually many kinds of semiconductors.
+
+1242
+00:59:16,500 --> 00:59:21,500
+Well, what we use most often are thin semiconductors.
+
+1243
+00:59:21,500 --> 00:59:24,500
+Then this thin semiconductor is because there are many on the earth
+
+1244
+00:59:25,500 --> 00:59:32,500
+Then it fits perfectly and fits within our light-detectable range.
+
+1245
+00:59:32,500 --> 00:59:34,000
+exactly the same
+
+1246
+00:59:34,000 --> 00:59:38,000
+So what about this fine-made detector?
+
+1247
+00:59:38,000 --> 00:59:42,500
+That's all the use of this camera
+
+1248
+00:59:42,500 --> 00:59:44,500
+or in astronomical instruments
+
+1249
+00:59:44,500 --> 00:59:48,500
+But if you want to detect this wavelength
+
+1250
+00:59:48,500 --> 00:59:52,500
+If it is longer than the thin detection wavelength
+
+1251
+00:59:53,500 --> 00:59:55,500
+Then you can't use this Silicon
+
+1252
+00:59:55,500 --> 00:59:58,500
+Then this time you have to use other different materials
+
+1253
+01:00:00,000 --> 01:00:02,000
+Materials have their limits
+
+1254
+01:00:02,000 --> 01:00:04,000
+you need to use a different material
+
+1255
+01:00:04,000 --> 01:00:08,000
+as detectors for different astronomical instruments
+
+1256
+01:00:10,000 --> 01:00:12,000
+that's in the detector
+
+1257
+01:00:12,000 --> 01:00:14,000
+There is a very important factor is
+
+1258
+01:00:14,000 --> 01:00:16,000
+the size of my pixel
+
+1259
+01:00:16,000 --> 01:00:18,000
+Because the size of the pixel actually determines your
+
+1260
+01:00:18,000 --> 01:00:20,000
+Final instrument resolution
+
+1261
+01:00:20,000 --> 01:00:22,000
+no matter i put my light on
+
+1262
+01:00:22,000 --> 01:00:25,000
+How small can it be concentrated
+
+1263
+01:00:25,000 --> 01:00:27,000
+If I am one pixel this big
+
+1264
+01:00:27,000 --> 01:00:29,000
+Then my light is only a little
+
+1265
+01:00:29,000 --> 01:00:32,000
+I still have the whole pixel lit up
+
+1266
+01:00:32,000 --> 01:00:35,000
+So usually when we design
+
+1267
+01:00:35,000 --> 01:00:38,000
+We'll be looking at the pixel size of this detector
+
+1268
+01:00:38,000 --> 01:00:42,000
+Make a match between my resolution
+
+1269
+01:00:42,000 --> 01:00:44,000
+We usually choose between two and three pixels
+
+1270
+01:00:44,000 --> 01:00:46,000
+to cover a point of light
+
+1271
+01:00:46,000 --> 01:00:50,000
+Theoretically, it is possible to obtain the most effective
+
+1272
+01:00:52,000 --> 01:00:54,000
+most efficient to
+
+1273
+01:00:54,000 --> 01:00:57,000
+We say sample your spot of light
+
+1274
+01:00:57,000 --> 01:01:00,000
+a resolution of
+
+1275
+01:01:00,000 --> 01:01:03,600
+So you can achieve the best resolution with the fewest pixels
+
+1276
+01:01:04,160 --> 01:01:05,340
+the opposite
+
+1277
+01:01:05,340 --> 01:01:07,800
+That is, if you do it this way
+
+1278
+01:01:07,800 --> 01:01:10,600
+You can achieve the largest field of view with the least number of pixels
+
+1279
+01:01:10,600 --> 01:01:13,000
+without sacrificing your resolution
+
+1280
+01:01:13,000 --> 01:01:14,600
+So something like this
+
+1281
+01:01:14,600 --> 01:01:17,200
+this pattern below
+
+1282
+01:01:17,200 --> 01:01:20,000
+What is shown in the image is a
+
+1283
+01:01:20,000 --> 01:01:23,000
+For the light of the stars, you have 30 pixels
+
+1284
+01:01:23,000 --> 01:01:25,000
+to cover it like this
+
+1285
+01:01:27,000 --> 01:01:28,500
+That's what I just said
+
+1286
+01:01:28,500 --> 01:01:29,500
+Well
+
+1287
+01:01:31,200 --> 01:01:33,800
+Because we use these for astronomy
+
+1288
+01:01:33,800 --> 01:01:35,900
+Binoculars are very large
+
+1289
+01:01:35,900 --> 01:01:37,500
+so its this
+
+1290
+01:01:37,500 --> 01:01:39,000
+long focal length
+
+1291
+01:01:39,700 --> 01:01:41,700
+When the focal length is very long, the field of view
+
+1292
+01:01:41,700 --> 01:01:43,500
+This range covered
+
+1293
+01:01:43,500 --> 01:01:44,800
+Well
+
+1294
+01:01:44,800 --> 01:01:46,700
+with normal mobile phone
+
+1295
+01:01:46,700 --> 01:01:49,500
+The range that each pixel can cover
+
+1296
+01:01:49,500 --> 01:01:51,300
+There will be a huge difference
+
+1297
+01:01:51,300 --> 01:01:54,200
+So the pixels we choose will be different
+
+1298
+01:01:54,200 --> 01:01:57,700
+So the pixels of the astronomical visible light camera are about
+
+1299
+01:01:57,800 --> 01:01:59,400
+about 10 microns
+
+1300
+01:01:59,400 --> 01:02:00,400
+that ordinary mobile phone
+
+1301
+01:02:00,000 --> 01:02:01,400
+A cell phone is about a micron
+
+1302
+01:02:02,500 --> 01:02:03,280
+then you might want to say
+
+1303
+01:02:03,280 --> 01:02:04,280
+a micron
+
+1304
+01:02:04,280 --> 01:02:06,280
+i just said
+
+1305
+01:02:07,480 --> 01:02:09,780
+If a good Apple phone
+
+1306
+01:02:09,780 --> 01:02:11,780
+Its lens resolution is approximately
+
+1307
+01:02:11,780 --> 01:02:14,780
+The light spot is about a few microns
+
+1308
+01:02:14,780 --> 01:02:16,280
+So in fact, the P matching of these two
+
+1309
+01:02:16,280 --> 01:02:18,780
+is already very close to what I just said
+
+1310
+01:02:19,280 --> 01:02:20,880
+because you have to think about saying this
+
+1311
+01:02:20,880 --> 01:02:22,180
+the lens itself
+
+1312
+01:02:22,180 --> 01:02:24,280
+It actually still has some errors
+
+1313
+01:02:24,280 --> 01:02:26,280
+so it may image quality
+
+1314
+01:02:26,280 --> 01:02:29,580
+It's about two to three microns
+
+1315
+01:02:29,780 --> 01:02:32,780
+If you use a micron-sized pixel
+
+1316
+01:02:32,780 --> 01:02:34,780
+will reach our
+
+1317
+01:02:34,780 --> 01:02:38,780
+Use two to three pixels to cover the point of light
+
+1318
+01:02:38,780 --> 01:02:40,780
+the size of this decision
+
+1319
+01:02:45,280 --> 01:02:46,780
+then this is us
+
+1320
+01:02:46,780 --> 01:02:49,780
+Same as the one that was paired with the lens just now
+
+1321
+01:02:49,780 --> 01:02:51,780
+this detector
+
+1322
+01:02:51,780 --> 01:02:53,780
+then it this is a
+
+1323
+01:02:53,780 --> 01:02:56,780
+900 million pixel astronomical camera
+
+1324
+01:02:56,780 --> 01:02:58,780
+Then this 900 million pixels put it together
+
+1325
+01:02:58,780 --> 01:03:00,780
+because a pixel is big
+
+1326
+01:03:00,000 --> 01:03:03,800
+So it's about the size of your arm
+
+1327
+01:03:04,800 --> 01:03:09,500
+That's like our normal camera
+
+1328
+01:03:10,000 --> 01:03:13,200
+Commercial cameras are very different
+
+1329
+01:03:13,200 --> 01:03:14,500
+Commercial cameras we want to say
+
+1330
+01:03:14,500 --> 01:03:16,100
+The smaller the better with this thing
+
+1331
+01:03:16,100 --> 01:03:18,100
+The smaller the phone camera, the better.
+
+1332
+01:03:18,100 --> 01:03:19,400
+that astronomy is the opposite
+
+1333
+01:03:19,400 --> 01:03:22,100
+Tianwen hopes that the bigger the better, the better.
+
+1334
+01:03:22,100 --> 01:03:24,100
+the bigger words
+
+1335
+01:03:24,100 --> 01:03:27,600
+The better you can have this resolution
+
+1336
+01:03:28,600 --> 01:03:30,600
+The camera used for astronomy is usually
+
+1337
+01:03:30,600 --> 01:03:34,600
+The photosensitive element used in it is also different.
+
+1338
+01:03:35,600 --> 01:03:40,600
+This astronomy usually we say it uses the structure of CCD
+
+1339
+01:03:40,600 --> 01:03:46,600
+It is CCD and its noise is relatively small
+
+1340
+01:03:46,600 --> 01:03:51,600
+Then if you want to use our general commercial CMOS Sensor
+
+1341
+01:03:52,600 --> 01:03:54,600
+that looks about the same
+
+1342
+01:03:54,600 --> 01:03:56,600
+You can't tell it's any different from the outside
+
+1343
+01:03:56,600 --> 01:03:58,600
+Anyway, it's all black.
+
+1344
+01:03:58,600 --> 01:04:00,600
+that black thing
+
+1345
+01:04:00,000 --> 01:04:03,120
+The structure inside is not the same will cause it
+
+1346
+01:04:05,620 --> 01:04:07,920
+has some disadvantages and some advantages
+
+1347
+01:04:07,920 --> 01:04:10,500
+Generally speaking, CDs for astronomy
+
+1348
+01:04:10,500 --> 01:04:14,460
+Its detection rate and sensitivity are very high
+
+1349
+01:04:14,460 --> 01:04:17,340
+There is very little noise, but it reads very slowly
+
+1350
+01:04:17,340 --> 01:04:21,000
+So when I'm taking pictures, I'm just very, very slow
+
+1351
+01:04:21,000 --> 01:04:24,880
+No way, just like this camera can
+
+1352
+01:04:24,880 --> 01:04:29,420
+It's almost like making a video, it keeps coming
+
+1353
+01:04:29,760 --> 01:04:30,960
+keep reading
+
+1354
+01:04:30,960 --> 01:04:33,260
+The one used for general astronomy
+
+1355
+01:04:33,260 --> 01:04:36,580
+As for this Sensor, you can read a page in about a second.
+
+1356
+01:04:36,580 --> 01:04:38,640
+So you'll see this image is
+
+1357
+01:04:38,640 --> 01:04:41,720
+That's astronomical because often we all have to
+
+1358
+01:04:41,720 --> 01:04:45,040
+It's a long exposure, so it doesn't really matter
+
+1359
+01:04:46,820 --> 01:04:49,140
+So for the most part, astronomy is
+
+1360
+01:04:49,140 --> 01:04:51,700
+I love using this CD
+
+1361
+01:04:51,700 --> 01:04:55,280
+Because of its, relatively speaking, its Performance is better
+
+1362
+01:04:55,280 --> 01:04:57,060
+That
+
+1363
+01:04:57,060 --> 01:04:58,860
+What about this CMOS camera?
+
+1364
+01:04:58,860 --> 01:05:00,100
+its advantage is
+
+1365
+01:05:00,000 --> 01:05:07,000
+The speed is fast, it can do very fast orientation, and can also do some special reading
+
+1366
+01:05:07,000 --> 01:05:14,000
+In some projects, like the one we did with a trans-Neptunian eye
+
+1367
+01:05:14,000 --> 01:05:21,000
+We just use a CMOS camera to do it, hoping to be able to capture the brightness of the star twenty or twenty times per second
+
+1368
+01:05:21,000 --> 01:05:25,000
+So this is to really choose one of the above differences
+
+1369
+01:05:26,000 --> 01:05:31,000
+What about when you do a good job, when an astronomy department does a good job
+
+1370
+01:05:31,000 --> 01:05:38,000
+As far as the whole can play a very high resolution, this is the big one I just showed
+
+1371
+01:05:38,000 --> 01:05:42,000
+This camera with a large CD gain captures images
+
+1372
+01:05:42,000 --> 01:05:47,000
+That is, it can be inserted into the face all the time, and you can magnify it hundreds of times.
+
+1373
+01:05:47,000 --> 01:05:53,000
+Not hundreds of times, you can zoom in tens of thousands of times to see very clear celestial images
+
+1374
+01:05:53,000 --> 01:05:58,000
+In that video, I just said that there are 900 million pixels
+
+1375
+01:05:58,000 --> 01:06:00,000
+That 900 million pixels covers a lot
+
+1376
+01:06:00,000 --> 01:06:03,500
+We can have more astronomical data
+
+1377
+01:06:03,500 --> 01:06:05,500
+Let you do this related research
+
+1378
+01:06:08,500 --> 01:06:10,000
+that visible light
+
+1379
+01:06:11,500 --> 01:06:15,000
+Because this Silicon is relatively cheap
+
+1380
+01:06:15,000 --> 01:06:19,500
+So we can do relatively cheap
+
+1381
+01:06:19,500 --> 01:06:21,000
+we can spell many
+
+1382
+01:06:21,000 --> 01:06:22,000
+like we just said
+
+1383
+01:06:22,000 --> 01:06:26,500
+There are more than 100 pieces of this sensor on the entire glue plane
+
+1384
+01:06:26,500 --> 01:06:28,000
+what about infrared
+
+1385
+01:06:28,000 --> 01:06:30,500
+It is basically because of the material
+
+1386
+01:06:30,500 --> 01:06:33,500
+So relatively speaking, the cost is much more expensive
+
+1387
+01:06:33,500 --> 01:06:36,500
+This is a project we participated in before
+
+1388
+01:06:36,500 --> 01:06:39,000
+we used four slices
+
+1389
+01:06:39,000 --> 01:06:40,500
+One is 4 million pixels
+
+1390
+01:06:40,500 --> 01:06:43,500
+A total of 16 million pixels of this infrared finishing
+
+1391
+01:06:43,500 --> 01:06:45,500
+That 16 million pixels seems to say
+
+1392
+01:06:45,500 --> 01:06:47,500
+Hey, my phone is better than his
+
+1393
+01:06:47,500 --> 01:06:49,000
+Eh, yes, there is nothing wrong with that
+
+1394
+01:06:49,000 --> 01:06:53,000
+but this one this one
+
+1395
+01:06:53,000 --> 01:06:54,500
+four
+
+1396
+01:06:54,500 --> 01:06:56,500
+four add up to
+
+1397
+01:06:58,000 --> 01:06:59,000
+Well
+
+1398
+01:07:00,000 --> 01:07:02,960
+I remember correctly, it was 60 million Taiwan dollars
+
+1399
+01:07:03,960 --> 01:07:04,840
+These are the four
+
+1400
+01:07:04,840 --> 01:07:06,640
+It will be so small when put together
+
+1401
+01:07:07,360 --> 01:07:08,840
+Then why this is because it
+
+1402
+01:07:09,700 --> 01:07:11,100
+its making is complicated
+
+1403
+01:07:11,100 --> 01:07:12,540
+it usually takes a
+
+1404
+01:07:13,060 --> 01:07:13,840
+there is one
+
+1405
+01:07:14,240 --> 01:07:16,440
+The detailed circuit for this readout is below
+
+1406
+01:07:17,000 --> 01:07:18,100
+Then each pixel
+
+1407
+01:07:18,940 --> 01:07:21,140
+Each pixel, it has a little this
+
+1408
+01:07:21,140 --> 01:07:22,000
+We call Yindian
+
+1409
+01:07:22,440 --> 01:07:23,440
+Yin this
+
+1410
+01:07:24,140 --> 01:07:24,740
+bump
+
+1411
+01:07:25,300 --> 01:07:28,500
+Then this Yin bump is in contact with each of these detectors
+
+1412
+01:07:29,500 --> 01:07:31,660
+There is another article about this chip of the detector
+
+1413
+01:07:31,940 --> 01:07:33,340
+each pixel above
+
+1414
+01:07:33,860 --> 01:07:35,000
+to connect it
+
+1415
+01:07:35,000 --> 01:07:36,540
+Then you can put this
+
+1416
+01:07:38,440 --> 01:07:40,040
+The signal from the detector
+
+1417
+01:07:40,400 --> 01:07:42,840
+Read it out through the circuit of this Srika
+
+1418
+01:07:43,740 --> 01:07:44,940
+that's because of this thing
+
+1419
+01:07:44,940 --> 01:07:47,440
+Usually need to work under very low temperature
+
+1420
+01:07:48,340 --> 01:07:50,440
+like we did see before
+
+1421
+01:07:54,440 --> 01:07:56,840
+The way this thing works is two hundred degrees below zero
+
+1422
+01:07:56,840 --> 01:07:59,740
+So there is a lot of this hot account very wrong
+
+1423
+01:08:00,000 --> 01:08:01,700
+You don't want it to break in the middle
+
+1424
+01:08:01,700 --> 01:08:06,000
+So the technology here is quite, quite complicated.
+
+1425
+01:08:06,500 --> 01:08:09,200
+So that's why it's so expensive
+
+1426
+01:08:11,000 --> 01:08:12,000
+it's expensive though
+
+1427
+01:08:12,000 --> 01:08:14,500
+But in fact, it will show this video after a while
+
+1428
+01:08:15,000 --> 01:08:16,700
+you won't believe this
+
+1429
+01:08:17,800 --> 01:08:20,000
+one is so expensive
+
+1430
+01:08:20,700 --> 01:08:23,000
+Then what I made seems to be not so good
+
+1431
+01:08:26,200 --> 01:08:28,900
+Apart from this you have to have a mechanical system
+
+1432
+01:08:28,900 --> 01:08:30,600
+Just some shutters
+
+1433
+01:08:31,100 --> 01:08:32,500
+Then the cryogenic system
+
+1434
+01:08:32,500 --> 01:08:33,700
+then vacuum
+
+1435
+01:08:33,900 --> 01:08:36,700
+Because when you want to lower your Sensor to low temperature
+
+1436
+01:08:37,000 --> 01:08:38,600
+If you didn't vacuum
+
+1437
+01:08:38,900 --> 01:08:40,700
+Then the whole system is completely deiced.
+
+1438
+01:08:40,700 --> 01:08:42,200
+so you need to vacuum
+
+1439
+01:08:42,600 --> 01:08:43,400
+then low temperature
+
+1440
+01:08:43,400 --> 01:08:44,700
+then there are some motors inside
+
+1441
+01:08:45,100 --> 01:08:47,600
+If I want to exchange this filter of mine
+
+1442
+01:08:48,000 --> 01:08:50,100
+then i need a motor
+
+1443
+01:08:50,700 --> 01:08:52,700
+and then some are mechanical arms
+
+1444
+01:08:52,700 --> 01:08:54,100
+Then the shutter looks like this
+
+1445
+01:08:54,500 --> 01:08:56,900
+The appearance of these things is actually very important
+
+1446
+01:08:56,900 --> 01:08:59,700
+Because these things have the speed at which they work
+
+1447
+01:09:00,000 --> 01:09:02,200
+will affect the speed of your observations
+
+1448
+01:09:02,200 --> 01:09:03,600
+that its accuracy
+
+1449
+01:09:03,600 --> 01:09:06,400
+will also affect the one you observe
+
+1450
+01:09:06,400 --> 01:09:08,200
+overall accuracy
+
+1451
+01:09:08,200 --> 01:09:10,000
+then this is
+
+1452
+01:09:10,000 --> 01:09:13,100
+One of the first infrared cameras we worked on
+
+1453
+01:09:13,100 --> 01:09:14,900
+it looks like this
+
+1454
+01:09:14,900 --> 01:09:15,800
+there
+
+1455
+01:09:15,800 --> 01:09:18,500
+That's the big vacuum gun and the cryogenic system
+
+1456
+01:09:18,500 --> 01:09:20,300
+over here is my cooler
+
+1457
+01:09:20,300 --> 01:09:22,600
+That cooler is connected to this one
+
+1458
+01:09:22,600 --> 01:09:25,400
+just open the middle
+
+1459
+01:09:25,400 --> 01:09:27,000
+After opening this
+
+1460
+01:09:27,100 --> 01:09:29,200
+Then there is green
+
+1461
+01:09:29,200 --> 01:09:30,400
+its filter
+
+1462
+01:09:30,400 --> 01:09:32,000
+that big filter ring
+
+1463
+01:09:32,000 --> 01:09:34,200
+can be rotated here
+
+1464
+01:09:34,200 --> 01:09:34,900
+to rotate
+
+1465
+01:09:34,900 --> 01:09:36,900
+just go to when you need a different color
+
+1466
+01:09:36,900 --> 01:09:38,100
+just turn
+
+1467
+01:09:38,100 --> 01:09:40,200
+turn that filter ring
+
+1468
+01:09:40,200 --> 01:09:41,400
+I just forgot to mention that
+
+1469
+01:09:41,400 --> 01:09:44,100
+astronomical this
+
+1470
+01:09:44,100 --> 01:09:45,500
+image has a
+
+1471
+01:09:45,500 --> 01:09:46,900
+normal camera
+
+1472
+01:09:46,900 --> 01:09:47,600
+big difference
+
+1473
+01:09:47,600 --> 01:09:51,300
+It's me, in fact, every time I shoot it, it's black and white
+
+1474
+01:09:51,300 --> 01:09:54,100
+That is, when everyone takes pictures, they will be colored as soon as they are taken.
+
+1475
+01:09:54,100 --> 01:09:55,700
+Then why are you shooting in color?
+
+1476
+01:09:55,800 --> 01:09:57,400
+Because we shot in black and white
+
+1477
+01:09:57,400 --> 01:09:59,900
+That's because in your
+
+1478
+01:10:00,000 --> 01:10:04,000
+There is this green light film in front of the Sensor of the camera
+
+1479
+01:10:04,000 --> 01:10:08,000
+Color green film is usually four pixels inside
+
+1480
+01:10:08,000 --> 01:10:12,000
+two are green and one is blue and one is red
+
+1481
+01:10:12,000 --> 01:10:16,000
+Four pixels produce a
+
+1482
+01:10:16,000 --> 01:10:20,000
+this image in color
+
+1483
+01:10:20,000 --> 01:10:24,000
+We don't usually do that in astronomy we just take a photo
+
+1484
+01:10:24,000 --> 01:10:29,000
+We put different color filters in front of this real series
+
+1485
+01:10:29,000 --> 01:10:33,000
+So I take an image of it could be a green image and then a blue image
+
+1486
+01:10:33,000 --> 01:10:37,000
+Then there is the red image, then I will combine these three images together
+
+1487
+01:10:37,000 --> 01:10:41,000
+It becomes a colored image like this
+
+1488
+01:10:41,000 --> 01:10:45,000
+Then why do you do this like this?
+
+1489
+01:10:45,000 --> 01:10:49,000
+If I use the general practice of this Sensor
+
+1490
+01:10:49,000 --> 01:10:53,000
+I have two greens and one red and one blue and when I put it together I actually have some information
+
+1491
+01:10:53,000 --> 01:10:57,000
+It was private at the meeting because I was equal to two blues with one in the middle
+
+1492
+01:10:57,000 --> 01:11:01,000
+There is also a blank space between the two reds
+
+1493
+01:11:00,000 --> 01:11:06,400
+Such a resolution will be problematic for real scientific research
+
+1494
+01:11:06,400 --> 01:11:11,780
+So astronomy is usually achieved by exchanging filters
+
+1495
+01:11:11,780 --> 01:11:16,380
+The filter exchange system just talked about the rotating disk
+
+1496
+01:11:16,380 --> 01:11:22,020
+This is another form we made, like a robot
+
+1497
+01:11:22,020 --> 01:11:23,560
+What about this robot?
+
+1498
+01:11:23,560 --> 01:11:26,880
+He works differently
+
+1499
+01:11:27,840 --> 01:11:31,740
+This is a place where we put this whole thing
+
+1500
+01:11:31,740 --> 01:11:35,080
+Fast forward eight times
+
+1501
+01:11:35,080 --> 01:11:38,140
+Let's see how he does it. Basically we put
+
+1502
+01:11:38,140 --> 01:11:40,440
+our filters
+
+1503
+01:11:40,440 --> 01:11:42,240
+put this
+
+1504
+01:11:42,240 --> 01:11:44,040
+I made the inside of the filter holder
+
+1505
+01:11:44,040 --> 01:11:45,560
+there are three in there
+
+1506
+01:11:45,560 --> 01:11:47,880
+There are three on each side and there's one in here
+
+1507
+01:11:47,880 --> 01:11:49,400
+Mechanical arm
+
+1508
+01:11:49,400 --> 01:11:51,200
+The robotic arm can
+
+1509
+01:11:51,200 --> 01:11:53,500
+put in my
+
+1510
+01:11:53,500 --> 01:11:55,560
+in front of the detector
+
+1511
+01:11:55,560 --> 01:11:57,860
+filter take it away
+
+1512
+01:11:57,860 --> 01:11:59,920
+after taking it away
+
+1513
+01:12:00,000 --> 01:12:03,800
+There will be a raw sauce station and another raw sauce station
+
+1514
+01:12:03,800 --> 01:12:08,100
+Then this raw sauce station can be used to choose different filters
+
+1515
+01:12:08,100 --> 01:12:10,200
+That mechanical arm in the back
+
+1516
+01:12:10,200 --> 01:12:13,000
+Push my filter in again
+
+1517
+01:12:13,000 --> 01:12:15,500
+Okay, let's do this filter swap
+
+1518
+01:12:15,500 --> 01:12:17,500
+that thing
+
+1519
+01:12:17,500 --> 01:12:20,100
+In fact, it is no different from ordinary mechanical arms.
+
+1520
+01:12:20,100 --> 01:12:21,500
+but it's very demanding
+
+1521
+01:12:21,500 --> 01:12:23,000
+the first is
+
+1522
+01:12:23,000 --> 01:12:26,200
+Every time I put the filter back on
+
+1523
+01:12:26,200 --> 01:12:28,100
+The repeatability of the position should be very good
+
+1524
+01:12:28,200 --> 01:12:29,200
+So our
+
+1525
+01:12:29,200 --> 01:12:30,200
+every time you put it back
+
+1526
+01:12:30,200 --> 01:12:32,400
+Its error is 10 microns
+
+1527
+01:12:32,400 --> 01:12:34,300
+10 microns is
+
+1528
+01:12:34,300 --> 01:12:36,700
+Of course 1/1 of your hair
+
+1529
+01:12:36,700 --> 01:12:37,900
+So I can be positioned very accurately
+
+1530
+01:12:37,900 --> 01:12:39,400
+Because the positioning is accurate
+
+1531
+01:12:39,400 --> 01:12:40,700
+so my image
+
+1532
+01:12:40,700 --> 01:12:43,900
+When I want to stack images of three colors together
+
+1533
+01:12:43,900 --> 01:12:45,500
+so that there will be no error
+
+1534
+01:12:45,500 --> 01:12:48,800
+So it involves a lot of mechanical design
+
+1535
+01:12:48,800 --> 01:12:50,900
+how do you get this robot to work
+
+1536
+01:12:50,900 --> 01:12:52,300
+can be very stable
+
+1537
+01:12:52,300 --> 01:12:55,900
+and then you can put those filters in the same place each time
+
+1538
+01:12:55,900 --> 01:12:57,900
+That's another
+
+1539
+01:12:57,900 --> 01:13:00,000
+I want this thing to be very stable
+
+1540
+01:13:00,000 --> 01:13:02,000
+So I remember our requirement at that time was
+
+1541
+01:13:02,000 --> 01:13:03,200
+i want this thing
+
+1542
+01:13:03,200 --> 01:13:05,600
+RUN a thousand times will not break
+
+1543
+01:13:05,600 --> 01:13:08,440
+So when we started, we actually
+
+1544
+01:13:08,440 --> 01:13:13,040
+It took a lot of effort to make this system stable
+
+1545
+01:13:13,040 --> 01:13:14,880
+raise it all the way up to be able to
+
+1546
+01:13:14,880 --> 01:13:17,240
+It's been running all the time without any problems
+
+1547
+01:13:22,400 --> 01:13:24,800
+Besides these three things, of course
+
+1548
+01:13:24,800 --> 01:13:27,900
+The most important thing is the so-called electronic system
+
+1549
+01:13:27,900 --> 01:13:31,100
+To make it generate this
+
+1550
+01:13:31,100 --> 01:13:32,700
+real need signal
+
+1551
+01:13:32,700 --> 01:13:35,400
+It's these real devices it needs some signal
+
+1552
+01:13:35,400 --> 01:13:36,800
+to make it work
+
+1553
+01:13:36,800 --> 01:13:38,600
+Then you also need these signals
+
+1554
+01:13:38,600 --> 01:13:41,300
+These materials from the real department
+
+1555
+01:13:41,300 --> 01:13:42,600
+digitize it
+
+1556
+01:13:42,600 --> 01:13:44,600
+Then generate the image you want
+
+1557
+01:13:44,600 --> 01:13:46,600
+What about after the image is produced?
+
+1558
+01:13:46,600 --> 01:13:49,100
+That still needs a lot of this software system
+
+1559
+01:13:49,100 --> 01:13:51,200
+to make this system
+
+1560
+01:13:51,200 --> 01:13:53,000
+and data processing
+
+1561
+01:13:53,000 --> 01:13:55,100
+Then I just said that we have
+
+1562
+01:13:55,100 --> 01:13:58,000
+make a big this
+
+1563
+01:13:58,000 --> 01:14:00,100
+Before this stitching
+
+1564
+01:14:00,000 --> 01:14:05,280
+In fact, if you go to see the original filming of it
+
+1565
+01:14:05,280 --> 01:14:07,680
+Like actually it's really miserable
+
+1566
+01:14:07,680 --> 01:14:11,200
+You see this has a lot of things you don't want
+
+1567
+01:14:11,200 --> 01:14:13,200
+For example, white dots, black dots
+
+1568
+01:14:13,200 --> 01:14:16,640
+Then everything seems to be uneven
+
+1569
+01:14:16,640 --> 01:14:19,400
+Logically speaking, if it is a perfect image
+
+1570
+01:14:19,400 --> 01:14:22,680
+When you take a picture, this should be all the same brightness
+
+1571
+01:14:22,680 --> 01:14:28,400
+Because this is the one I use to correct my brightness
+
+1572
+01:14:29,360 --> 01:14:30,760
+an image of
+
+1573
+01:14:30,760 --> 01:14:34,800
+It's a pity that there is usually always a
+
+1574
+01:14:34,800 --> 01:14:36,720
+some without some
+
+1575
+01:14:36,720 --> 01:14:40,440
+For example, bad pixels or your failure
+
+1576
+01:14:40,440 --> 01:14:43,240
+The production process fails, for example
+
+1577
+01:14:43,240 --> 01:14:45,040
+in this place you will see
+
+1578
+01:14:45,040 --> 01:14:46,840
+there is one
+
+1579
+01:14:46,840 --> 01:14:48,880
+An Output of this Sensor is missing
+
+1580
+01:14:48,880 --> 01:14:50,920
+So it's all black
+
+1581
+01:14:50,920 --> 01:14:53,240
+That's visible light
+
+1582
+01:14:53,240 --> 01:14:54,600
+The safflower line is even worse
+
+1583
+01:14:54,600 --> 01:14:59,960
+I just talked about the $20,200,000
+
+1584
+01:15:00,000 --> 01:15:02,860
+The sound and color of these four direction lines
+
+1585
+01:15:02,860 --> 01:15:03,800
+after it's put together
+
+1586
+01:15:03,800 --> 01:15:05,100
+you shoot the sky
+
+1587
+01:15:05,100 --> 01:15:06,660
+This is what it shows you
+
+1588
+01:15:06,660 --> 01:15:07,460
+Do you have
+
+1589
+01:15:07,460 --> 01:15:09,900
+Eh, there is only one horizontal tone
+
+1590
+01:15:09,900 --> 01:15:12,360
+Then there are things like flowers
+
+1591
+01:15:12,360 --> 01:15:15,900
+Then we have to find some way to deal with it
+
+1592
+01:15:15,900 --> 01:15:19,460
+Of course I will be the first to know where this horizontal tune comes from.
+
+1593
+01:15:19,460 --> 01:15:20,460
+Hengtune is actually
+
+1594
+01:15:20,460 --> 01:15:23,960
+it's in this
+
+1595
+01:15:23,960 --> 01:15:26,460
+what we call big people
+
+1596
+01:15:26,460 --> 01:15:27,960
+when there is no exposure
+
+1597
+01:15:28,120 --> 01:15:30,620
+because you have a hot relationship with itself
+
+1598
+01:15:30,620 --> 01:15:31,920
+have a hot and active relationship
+
+1599
+01:15:31,920 --> 01:15:34,120
+So it already has a little signal
+
+1600
+01:15:34,120 --> 01:15:35,960
+then this should be deducted
+
+1601
+01:15:35,960 --> 01:15:38,520
+In addition, that means that each Sensor
+
+1602
+01:15:38,520 --> 01:15:41,920
+It has several different outputs
+
+1603
+01:15:41,920 --> 01:15:43,820
+Then the endpoint of this output
+
+1604
+01:15:43,820 --> 01:15:45,820
+The magnification of its magnification is not the same
+
+1605
+01:15:45,820 --> 01:15:47,420
+So this horizontal dialect
+
+1606
+01:15:47,420 --> 01:15:50,620
+Mainly because the magnification ratio is not the same
+
+1607
+01:15:50,620 --> 01:15:51,820
+what about the other
+
+1608
+01:15:51,820 --> 01:15:53,120
+It's on every Pixel
+
+1609
+01:15:53,120 --> 01:15:55,360
+Sometimes because of its Coding relationship
+
+1610
+01:15:55,420 --> 01:15:58,120
+Its detection efficiency is not the same
+
+1611
+01:15:58,120 --> 01:16:00,120
+So there will be some very strange patterns
+
+1612
+01:16:00,000 --> 01:16:03,000
+We can all find a way to get rid of this Penet
+
+1613
+01:16:03,000 --> 01:16:05,000
+Then remove the bad points
+
+1614
+01:16:05,000 --> 01:16:08,000
+Especially this side and here are all bad
+
+1615
+01:16:08,000 --> 01:16:10,000
+then remove it like this
+
+1616
+01:16:10,000 --> 01:16:13,000
+Then you can get the corrected image
+
+1617
+01:16:13,000 --> 01:16:15,000
+Then the corrected image is not the final one yet.
+
+1618
+01:16:15,000 --> 01:16:18,000
+Because in the infrared this sky background
+
+1619
+01:16:18,000 --> 01:16:20,000
+it has been changing over time
+
+1620
+01:16:20,000 --> 01:16:24,000
+so you're going to get another no
+
+1621
+01:16:24,000 --> 01:16:27,000
+This background without celestial bodies
+
+1622
+01:16:28,000 --> 01:16:31,000
+Finally you can actually get one of these
+
+1623
+01:16:31,000 --> 01:16:32,000
+finally finished
+
+1624
+01:16:32,000 --> 01:16:34,000
+then you will see this inside this
+
+1625
+01:16:34,000 --> 01:16:36,000
+We say we are very lucky
+
+1626
+01:16:36,000 --> 01:16:38,000
+will show up clearly
+
+1627
+01:16:38,000 --> 01:16:41,000
+So this image processing in astronomy is
+
+1628
+01:16:41,000 --> 01:16:43,000
+very very important
+
+1629
+01:16:43,000 --> 01:16:44,000
+Without image processing
+
+1630
+01:16:44,000 --> 01:16:47,000
+You'll never see such a beautiful image
+
+1631
+01:16:47,000 --> 01:16:48,000
+Actually it is
+
+1632
+01:16:48,000 --> 01:16:51,000
+It turned out to be super scary
+
+1633
+01:16:51,000 --> 01:16:52,000
+no way
+
+1634
+01:16:52,000 --> 01:16:54,000
+you can't believe this
+
+1635
+01:16:54,000 --> 01:16:58,000
+Of course, the black hole just mentioned is also
+
+1636
+01:17:00,000 --> 01:17:07,000
+I think if you guys have listened to our previous speeches or press conferences,
+
+1637
+01:17:07,000 --> 01:17:13,000
+We only need to do this ultra-long limit interference and data processing
+
+1638
+01:17:13,000 --> 01:17:16,000
+There are four teams in different parts of the world
+
+1639
+01:17:16,000 --> 01:17:18,000
+Then it took a year to process
+
+1640
+01:17:18,000 --> 01:17:20,000
+That's all data processing
+
+1641
+01:17:20,000 --> 01:17:23,000
+actually very very important
+
+1642
+01:17:24,000 --> 01:17:28,000
+What you just said is usually on the ground.
+
+1643
+01:17:28,000 --> 01:17:31,000
+What problems will we encounter when developing on the ground
+
+1644
+01:17:31,000 --> 01:17:37,000
+Finally, take a moment to talk about this space abandoned development
+
+1645
+01:17:37,000 --> 01:17:40,000
+That is different from the ground, in fact, it means
+
+1646
+01:17:40,000 --> 01:17:44,000
+My abandonment has to be able to withstand the launch process
+
+1647
+01:17:44,000 --> 01:17:48,000
+There is usually a lot of vibration during the launch.
+
+1648
+01:17:48,000 --> 01:17:51,000
+and then a lot of this noise
+
+1649
+01:17:51,000 --> 01:17:55,000
+Of course it can still operate in the space environment
+
+1650
+01:17:55,000 --> 01:17:58,000
+that besides this
+
+1651
+01:18:00,000 --> 01:18:02,000
+Say goodbye to me when you fly up
+
+1652
+01:18:03,000 --> 01:18:05,000
+Then if I fly up and break
+
+1653
+01:18:05,000 --> 01:18:09,000
+I really have no way
+
+1654
+01:18:09,000 --> 01:18:13,000
+Like Harvard, it is possible to send space theory to repair it. The probability is
+
+1655
+01:18:13,000 --> 01:18:15,000
+Only about two times
+
+1656
+01:18:15,000 --> 01:18:19,000
+Now there is no space to say that you can fly to this space.
+
+1657
+01:18:20,000 --> 01:18:22,000
+So he has high requirements in his heart
+
+1658
+01:18:22,000 --> 01:18:26,000
+So mostly he uses proven techniques
+
+1659
+01:18:26,000 --> 01:18:30,000
+That is, no one will use unverified
+
+1660
+01:18:30,000 --> 01:18:32,000
+so we say
+
+1661
+01:18:32,000 --> 01:18:34,000
+we usually joke
+
+1662
+01:18:34,000 --> 01:18:37,000
+In fact, all the satellites use technologies ten years ago.
+
+1663
+01:18:37,000 --> 01:18:40,000
+Because you want the technology from ten years ago
+
+1664
+01:18:40,000 --> 01:18:42,000
+then mature
+
+1665
+01:18:42,000 --> 01:18:45,000
+Then after a long time to do verification
+
+1666
+01:18:45,000 --> 01:18:48,000
+Because space one has a lot of extra testing
+
+1667
+01:18:48,000 --> 01:18:50,000
+You're going to do a radiation test
+
+1668
+01:18:50,000 --> 01:18:52,000
+There is a lot of radiation in space
+
+1669
+01:18:52,000 --> 01:18:54,000
+This evidence test
+
+1670
+01:18:54,000 --> 01:18:57,000
+You have to be able to work in the space environment
+
+1671
+01:18:57,000 --> 01:19:00,000
+The space environment is very special, that is, your satellite is usually rotating
+
+1672
+01:19:00,000 --> 01:19:03,460
+Where the sun shines is hot
+
+1673
+01:19:03,460 --> 01:19:05,460
+it's cold when turned to the back
+
+1674
+01:19:05,460 --> 01:19:07,460
+so they need to do some
+
+1675
+01:19:07,460 --> 01:19:10,960
+Fractuation at a very special temperature
+
+1676
+01:19:10,960 --> 01:19:14,960
+What I just talked about is vibration and noise.
+
+1677
+01:19:14,960 --> 01:19:17,460
+The radiation dose in space
+
+1678
+01:19:17,460 --> 01:19:22,000
+Usually it is 100KR
+
+1679
+01:19:22,000 --> 01:19:23,660
+that's a
+
+1680
+01:19:23,660 --> 01:19:26,660
+Anyway, this is a unit of radiation dose.
+
+1681
+01:19:26,660 --> 01:19:28,000
+that's usually in astronomy
+
+1682
+01:19:28,000 --> 01:19:30,000
+Sometimes you have very special situations
+
+1683
+01:19:30,000 --> 01:19:33,000
+That is, you are going to launch this satellite to a farther place
+
+1684
+01:19:33,000 --> 01:19:39,000
+For example, the harshest place is Jupiter
+
+1685
+01:19:39,000 --> 01:19:42,000
+So everything has to be tested first
+
+1686
+01:19:42,000 --> 01:19:44,000
+that's our detector
+
+1687
+01:19:44,000 --> 01:19:46,000
+I don't know if you can see clearly
+
+1688
+01:19:46,000 --> 01:19:48,000
+Are these two different?
+
+1689
+01:19:48,000 --> 01:19:50,000
+No
+
+1690
+01:19:50,000 --> 01:19:53,000
+Sorry about the resolution problem
+
+1691
+01:19:53,000 --> 01:19:56,000
+In fact, it is our device to fight
+
+1692
+01:19:56,000 --> 01:19:59,000
+This radiation dose after doing this test on the ground
+
+1693
+01:19:59,000 --> 01:20:01,000
+it will have a lot of white spots
+
+1694
+01:20:00,000 --> 01:20:02,560
+But here, sorry to see it out
+
+1695
+01:20:05,800 --> 01:20:08,840
+Then Jupiter, if you go to Jupiter, play Jupiter is the earth
+
+1696
+01:20:08,840 --> 01:20:10,240
+all this
+
+1697
+01:20:10,320 --> 01:20:12,440
+The magnetic field inside the form is the largest
+
+1698
+01:20:12,600 --> 01:20:15,040
+The magnetic field is the largest, and its magnetic field lines
+
+1699
+01:20:15,040 --> 01:20:17,600
+will capture more of this generation of electric particles
+
+1700
+01:20:17,920 --> 01:20:21,000
+So the radiation it catches will be even greater
+
+1701
+01:20:21,320 --> 01:20:22,960
+so before
+
+1702
+01:20:23,280 --> 01:20:26,240
+Then it is the satellite of Safari, Geno
+
+1703
+01:20:26,520 --> 01:20:27,520
+it
+
+1704
+01:20:27,680 --> 01:20:29,480
+You see it's the dose
+
+1705
+01:20:29,640 --> 01:20:32,040
+250 times around the lower satellite
+
+1706
+01:20:32,600 --> 01:20:35,200
+So you're testing higher doses like this
+
+1707
+01:20:35,560 --> 01:20:36,560
+so it is
+
+1708
+01:20:37,080 --> 01:20:39,680
+a satellite it protects
+
+1709
+01:20:39,680 --> 01:20:43,080
+In order to protect the instrument inside it from letting the
+
+1710
+01:20:43,080 --> 01:20:45,200
+radiation killed it
+
+1711
+01:20:45,400 --> 01:20:47,200
+it retakes 100
+
+1712
+01:20:47,480 --> 01:20:49,080
+80 kg like this
+
+1713
+01:20:49,560 --> 01:20:50,560
+so it
+
+1714
+01:20:50,560 --> 01:20:53,760
+This satellite actually shrinks the outer layer of its instruments
+
+1715
+01:20:53,880 --> 01:20:57,280
+It is packed with a lot of this very thick this
+
+1716
+01:20:57,920 --> 01:20:58,920
+stereotype
+
+1717
+01:20:58,920 --> 01:21:00,080
+let it not be this
+
+1718
+01:21:00,000 --> 01:21:02,560
+The radiation in this space killed it
+
+1719
+01:21:03,840 --> 01:21:05,880
+But this is what I just said
+
+1720
+01:21:06,400 --> 01:21:08,960
+We usually in the satellite development process
+
+1721
+01:21:08,960 --> 01:21:11,260
+We need a lot of this semo cycle
+
+1722
+01:21:11,520 --> 01:21:12,280
+I put this thing
+
+1723
+01:21:12,800 --> 01:21:14,340
+The whole instrument cools it down
+
+1724
+01:21:15,620 --> 01:21:17,660
+depends on the orbit of your satellite
+
+1725
+01:21:19,200 --> 01:21:22,020
+Usually if it is in an orbit relatively close to the earth
+
+1726
+01:21:22,520 --> 01:21:23,560
+probably will be in
+
+1727
+01:21:24,320 --> 01:21:27,900
+Temperature between plus 50 degrees and minus 50 degrees
+
+1728
+01:21:28,100 --> 01:21:29,940
+just let it do the loop
+
+1729
+01:21:30,460 --> 01:21:32,500
+Of course because in space it is
+
+1730
+01:21:33,020 --> 01:21:36,600
+It's a complete vacuum so you vacuum up the whole instrument
+
+1731
+01:21:36,860 --> 01:21:38,140
+then heat it inside
+
+1732
+01:21:38,400 --> 01:21:39,940
+or cooling heating cooling
+
+1733
+01:21:40,200 --> 01:21:40,960
+then keep watching
+
+1734
+01:21:41,220 --> 01:21:42,240
+see if there is any problem with it
+
+1735
+01:21:44,280 --> 01:21:46,340
+Then there is the so-called vibration
+
+1736
+01:21:46,580 --> 01:21:48,900
+This is the instrument we made before
+
+1737
+01:21:49,660 --> 01:21:50,420
+failure example
+
+1738
+01:21:51,700 --> 01:21:52,480
+Actually it's this
+
+1739
+01:21:52,740 --> 01:21:55,300
+We put the instrument on a vibrating table
+
+1740
+01:21:55,300 --> 01:21:57,820
+Then it will simulate the vibration when launching
+
+1741
+01:22:00,000 --> 01:22:03,680
+After finishing, my board fell off
+
+1742
+01:22:03,680 --> 01:22:06,880
+because when we design
+
+1743
+01:22:06,880 --> 01:22:08,980
+it's in the process of processing
+
+1744
+01:22:08,980 --> 01:22:10,180
+It's just the design
+
+1745
+01:22:10,180 --> 01:22:11,480
+But when processing
+
+1746
+01:22:11,480 --> 01:22:13,480
+it will generate some
+
+1747
+01:22:13,480 --> 01:22:16,980
+I said that the hard power is on this board
+
+1748
+01:22:16,980 --> 01:22:19,680
+so it breaks when you shake too much
+
+1749
+01:22:19,680 --> 01:22:21,480
+So these vibrating
+
+1750
+01:22:21,480 --> 01:22:22,780
+all design matters
+
+1751
+01:22:22,780 --> 01:22:26,680
+Letting you equal to making your design better
+
+1752
+01:22:26,680 --> 01:22:31,680
+so that it can really stand up to your design
+
+1753
+01:22:31,680 --> 01:22:33,680
+launch all questions
+
+1754
+01:22:33,680 --> 01:22:35,680
+So there will be no problem when actually launching
+
+1755
+01:22:35,680 --> 01:22:39,680
+It can be launched smoothly
+
+1756
+01:22:39,680 --> 01:22:40,680
+in this way
+
+1757
+01:22:42,680 --> 01:22:44,680
+It's actually pretty cool to watch this launch.
+
+1758
+01:22:44,680 --> 01:22:47,680
+is how much it shocks you
+
+1759
+01:22:47,680 --> 01:22:49,680
+thank you all
+
+1760
+01:23:00,000 --> 01:23:02,600
+elliptical orbit satellite
+
+1761
+01:23:02,600 --> 01:23:08,400
+The place where the lowest ball is the lightest is about 300 kilometers
+
+1762
+01:23:08,400 --> 01:23:14,600
+The farthest place is about 10,000 kilometers
+
+1763
+01:23:18,600 --> 01:23:23,400
+It's all about what we're going to do
+
+1764
+01:23:23,400 --> 01:23:25,800
+then what's the point of these things
+
+1765
+01:23:25,800 --> 01:23:28,800
+what is his challenge
+
+1766
+01:23:29,200 --> 01:23:31,400
+we just said you do one thing
+
+1767
+01:23:31,400 --> 01:23:34,400
+I often want to say that angels, righteous people and
+
+1768
+01:23:34,400 --> 01:23:38,000
+If you ask me, is there any abandoned development now?
+
+1769
+01:23:38,000 --> 01:23:41,000
+In fact, I told you everything is not
+
+1770
+01:23:41,000 --> 01:23:42,400
+we are doing this
+
+1771
+01:23:42,400 --> 01:23:44,600
+Abandoned development is always true
+
+1772
+01:23:44,600 --> 01:23:50,000
+It's really a very, very difficult situation right now.
+
+1773
+01:23:50,000 --> 01:23:52,200
+The first is the astronomical
+
+1774
+01:23:52,200 --> 01:23:54,400
+I want to say that after the big problem
+
+1775
+01:23:54,400 --> 01:23:55,900
+it's all big
+
+1776
+01:23:55,900 --> 01:23:57,600
+It's all big and he's been developing it for a long time
+
+1777
+01:23:57,600 --> 01:23:59,600
+So now we often joke that
+
+1778
+01:24:00,000 --> 01:24:01,600
+you make a plan now
+
+1779
+01:24:01,600 --> 01:24:03,440
+When will you finish this project?
+
+1780
+01:24:03,440 --> 01:24:06,440
+He can finish it when I retire
+
+1781
+01:24:06,440 --> 01:24:08,440
+So you often have a problem
+
+1782
+01:24:08,440 --> 01:24:10,840
+It means you do this for a long time
+
+1783
+01:24:10,840 --> 01:24:13,640
+when planning for a long time
+
+1784
+01:24:13,640 --> 01:24:16,640
+How do you attract people to invest
+
+1785
+01:24:16,640 --> 01:24:18,640
+Actually this is a big problem
+
+1786
+01:24:18,640 --> 01:24:21,240
+Of course the bigger you do this thing
+
+1787
+01:24:21,240 --> 01:24:23,040
+The more money you have
+
+1788
+01:24:23,040 --> 01:24:26,600
+So cross-border cooperation is normal
+
+1789
+01:24:27,040 --> 01:24:30,440
+We are often several countries
+
+1790
+01:24:30,440 --> 01:24:33,040
+come and do this together
+
+1791
+01:24:33,040 --> 01:24:36,400
+This is another project we have in Mexico
+
+1792
+01:24:36,400 --> 01:24:38,240
+We're going to this observatory in Mexico
+
+1793
+01:24:38,240 --> 01:24:43,800
+The Science of Building Three Telescopes to Make This Eye Star
+
+1794
+01:24:43,800 --> 01:24:47,360
+then you will see this snow
+
+1795
+01:24:47,360 --> 01:24:49,440
+And then the snow melts and then the snow comes again
+
+1796
+01:24:49,440 --> 01:24:52,800
+So this plan actually cost
+
+1797
+01:24:52,800 --> 01:24:54,940
+close to our ten years
+
+1798
+01:24:54,940 --> 01:24:57,580
+and then it might be about time to start
+
+1799
+01:24:57,580 --> 01:24:59,580
+Our observation work
+
+1800
+01:25:00,000 --> 01:25:03,840
+Ten years in astronomy is pretty normal now
+
+1801
+01:25:03,840 --> 01:25:06,900
+A number is from starting a project to
+
+1802
+01:25:06,900 --> 01:25:08,960
+it can actually start observing
+
+1803
+01:25:08,960 --> 01:25:12,800
+It's not the end of the project but the start of doing what you want to do
+
+1804
+01:25:12,800 --> 01:25:14,840
+That's like ten years
+
+1805
+01:25:14,840 --> 01:25:16,640
+i just said
+
+1806
+01:25:16,640 --> 01:25:19,700
+Such multinational projects are also very common
+
+1807
+01:25:19,700 --> 01:25:21,000
+this is mine
+
+1808
+01:25:21,000 --> 01:25:22,780
+Another sentence that goes on now
+
+1809
+01:25:22,780 --> 01:25:24,320
+You can see how many points there are
+
+1810
+01:25:24,320 --> 01:25:26,620
+A point represents a cooperative unit
+
+1811
+01:25:26,620 --> 01:25:27,640
+so you have
+
+1812
+01:25:27,800 --> 01:25:30,460
+Five or six different countries at the same time
+
+1813
+01:25:30,460 --> 01:25:32,000
+come
+
+1814
+01:25:32,000 --> 01:25:33,780
+astronomers come together
+
+1815
+01:25:33,780 --> 01:25:37,120
+work on this development
+
+1816
+01:25:37,120 --> 01:25:40,700
+The biggest problem with this forecast is what to do when I have a meeting
+
+1817
+01:25:40,700 --> 01:25:43,000
+So usually you are not very early
+
+1818
+01:25:43,000 --> 01:25:45,300
+It's late for a meeting
+
+1819
+01:25:45,300 --> 01:25:47,860
+to do this conference call
+
+1820
+01:25:47,860 --> 01:25:48,640
+this is
+
+1821
+01:25:48,640 --> 01:25:51,440
+Then by the way why the earth is not flat
+
+1822
+01:25:51,440 --> 01:25:55,280
+why the earth is round
+
+1823
+01:25:55,280 --> 01:25:56,560
+That said
+
+1824
+01:25:56,760 --> 01:25:57,700
+Speaking of
+
+1825
+01:25:57,700 --> 01:25:59,320
+I just talked about the angel Nadili
+
+1826
+01:26:00,000 --> 01:26:03,460
+Observatories are usually in that kind of shitty place
+
+1827
+01:26:03,960 --> 01:26:08,260
+I just talked about a series of design to consider these issues
+
+1828
+01:26:08,260 --> 01:26:10,060
+that work too
+
+1829
+01:26:10,360 --> 01:26:13,700
+This is us in Hawaii, Makia
+
+1830
+01:26:14,060 --> 01:26:17,100
+We have several observatories here
+
+1831
+01:26:17,600 --> 01:26:21,300
+I took this photo because our working environment is like this
+
+1832
+01:26:21,300 --> 01:26:23,600
+Temperature 1.8C
+
+1833
+01:26:24,200 --> 01:26:25,960
+Relative humidity 14%
+
+1834
+01:26:26,360 --> 01:26:28,160
+The most important thing is this is
+
+1835
+01:26:28,760 --> 01:26:33,320
+This is the air pressure is 620%
+
+1836
+01:26:33,620 --> 01:26:36,960
+Then we know that the normal ground should be 1000
+
+1837
+01:26:37,360 --> 01:26:39,360
+is about half
+
+1838
+01:26:39,660 --> 01:26:42,460
+So the oxygen in your airway over there is
+
+1839
+01:26:42,660 --> 01:26:44,260
+only half of the ground
+
+1840
+01:26:44,760 --> 01:26:46,260
+so usually a
+
+1841
+01:26:46,660 --> 01:26:50,160
+In Gaoshan town and very uncomfortable environment
+
+1842
+01:26:50,960 --> 01:26:52,460
+I would have liked to put a photo
+
+1843
+01:26:52,460 --> 01:26:56,260
+After my colleague got to the top, he quickly brought some oxygen up
+
+1844
+01:26:57,260 --> 01:26:58,460
+where to visit
+
+1845
+01:26:58,960 --> 01:26:59,860
+then there is
+
+1846
+01:27:00,000 --> 01:27:04,720
+So on this, if you have to do some very heavy work, it is actually very hard
+
+1847
+01:27:04,720 --> 01:27:07,640
+This is when I arrived very early
+
+1848
+01:27:07,640 --> 01:27:10,920
+At that time, I was photographed doing this
+
+1849
+01:27:10,920 --> 01:27:12,560
+We need to re-enforce this mirror
+
+1850
+01:27:12,560 --> 01:27:17,600
+Therefore, the aluminum of this degree on the entire surface of the mirror should be removed.
+
+1851
+01:27:17,600 --> 01:27:18,760
+wipe it clean
+
+1852
+01:27:18,760 --> 01:27:20,440
+it's very very tiring
+
+1853
+01:27:20,440 --> 01:27:21,760
+you have to take this
+
+1854
+01:27:21,760 --> 01:27:23,560
+This is the last step
+
+1855
+01:27:23,560 --> 01:27:27,360
+So take that gas mask off
+
+1856
+01:27:28,120 --> 01:27:29,280
+you have no oxygen
+
+1857
+01:27:29,280 --> 01:27:32,080
+Then you have to wear a gas mask while working
+
+1858
+01:27:32,080 --> 01:27:34,760
+it's very very hard
+
+1859
+01:27:34,760 --> 01:27:42,400
+Of course, our colleagues in Grinda are also protected from the cold
+
+1860
+01:27:42,400 --> 01:27:44,560
+rarely do you see this
+
+1861
+01:27:44,560 --> 01:27:47,680
+Why did he take this photo because he found this
+
+1862
+01:27:47,680 --> 01:27:50,720
+The temperature of color consciousness is almost the same as Huashi
+
+1863
+01:27:50,720 --> 01:27:53,040
+Then I knew it was Chinese style and it was about 30 degrees
+
+1864
+01:27:53,040 --> 01:27:55,040
+It's when it's minus 30 degrees
+
+1865
+01:27:55,040 --> 01:27:59,960
+When working outside, you have to be fully dressed and there will be no place to show
+
+1866
+01:28:00,000 --> 01:28:07,000
+That person is also the same, our salaries in the war rescue unit are very low
+
+1867
+01:28:07,000 --> 01:28:11,000
+What we need is, of course, what we need are very experienced engineers
+
+1868
+01:28:11,000 --> 01:28:17,000
+It is very difficult for an experienced engineer, and it is difficult for you to attract him with a salary
+
+1869
+01:28:17,000 --> 01:28:22,000
+So we usually use, I don't know, we say them, they're cute
+
+1870
+01:28:22,000 --> 01:28:25,000
+They just think it's more fun to work here.
+
+1871
+01:28:25,000 --> 01:28:30,000
+Or if they are very interested in me, then they will be willing to join our team
+
+1872
+01:28:30,000 --> 01:28:33,000
+Then of course we often meet people after they come
+
+1873
+01:28:33,000 --> 01:28:36,000
+After a year or two of what he learned, he left
+
+1874
+01:28:36,000 --> 01:28:39,000
+So this is a big problem
+
+1875
+01:28:39,000 --> 01:28:46,000
+He's not just them, even our researcher level is the same
+
+1876
+01:28:46,000 --> 01:28:50,000
+Because I have worn one piece every ten years, and I have a piece of paper when I have worn one piece
+
+1877
+01:28:50,000 --> 01:28:54,000
+Because of the normal conditions inside, just kick him out
+
+1878
+01:28:54,000 --> 01:28:57,000
+This director may be clearer
+
+1879
+01:28:57,000 --> 01:29:00,000
+It is the cooperation of the researchers of the Central Academy of Sciences
+
+1880
+01:29:00,000 --> 01:29:03,800
+There are actually some requirements for the number of papers
+
+1881
+01:29:04,600 --> 01:29:07,600
+So how are you putting yourself into this kind of work?
+
+1882
+01:29:07,600 --> 01:29:12,200
+It can also maintain the output of your paper
+
+1883
+01:29:12,200 --> 01:29:15,500
+In fact, it is also a very important question
+
+1884
+01:29:16,200 --> 01:29:19,600
+But I think I've told you so much today
+
+1885
+01:29:19,600 --> 01:29:22,700
+I think we've spent the past few years
+
+1886
+01:29:22,700 --> 01:29:26,600
+We really did a lot of planning
+
+1887
+01:29:27,300 --> 01:29:29,200
+Cover different this painting glasses
+
+1888
+01:29:30,000 --> 01:29:35,200
+Let these systems be installed on the painting glasses
+
+1889
+01:29:35,200 --> 01:29:37,200
+and then be able to play their role
+
+1890
+01:29:38,200 --> 01:29:41,200
+It is important to hope that they can make
+
+1891
+01:29:41,200 --> 01:29:44,600
+Astronomers in Taiwan can use these
+
+1892
+01:29:44,600 --> 01:29:46,300
+The instruments we made
+
+1893
+01:29:46,300 --> 01:29:50,900
+Then do the most cutting-edge astronomical research like this
+
+1894
+01:29:51,500 --> 01:29:53,700
+then we just started
+
+1895
+01:29:53,700 --> 01:29:54,800
+the beast talked about
+
+1896
+01:29:54,800 --> 01:29:58,400
+We are now at least two major projects that I am working on
+
+1897
+01:29:58,400 --> 01:29:59,200
+one is
+
+1898
+01:30:00,000 --> 01:30:02,000
+Speaker's astronomy satellite
+
+1899
+01:30:02,000 --> 01:30:05,000
+This is an infrared astronomy satellite
+
+1900
+01:30:05,000 --> 01:30:09,000
+It is a big project of cooperation between Europe and Japan
+
+1901
+01:30:09,000 --> 01:30:14,000
+To send a 2.5-meter astronomical satellite into space
+
+1902
+01:30:14,000 --> 01:30:15,000
+It operates at a lower temperature
+
+1903
+01:30:15,000 --> 01:30:19,000
+Its entire system is 8K
+
+1904
+01:30:19,000 --> 01:30:22,000
+8K is minus -265 degrees
+
+1905
+01:30:22,000 --> 01:30:27,000
+Almost the brightest mirror connection you can achieve
+
+1906
+01:30:28,000 --> 01:30:34,000
+We have already begun to design some instruments in this part
+
+1907
+01:30:34,000 --> 01:30:40,000
+This is tantamount to our first project to compare large and astronomical satellites
+
+1908
+01:30:40,000 --> 01:30:42,000
+So what we're doing now isn't...
+
+1909
+01:30:42,000 --> 01:30:45,000
+Participation is not too big
+
+1910
+01:30:45,000 --> 01:30:51,000
+But it can provide us scientists to participate in perhaps this first-hand
+
+1911
+01:30:51,000 --> 01:30:54,000
+Infrared Observation Data
+
+1912
+01:30:54,000 --> 01:30:57,000
+The other big project is
+
+1913
+01:30:57,000 --> 01:31:00,000
+I just talked about the biggest future...
+
+1914
+01:31:00,000 --> 01:31:04,340
+But the golden king has already reached this EOT in Europe
+
+1915
+01:31:04,340 --> 01:31:07,940
+One and the instrument in which we are involved
+
+1916
+01:31:07,940 --> 01:31:09,460
+Then this series
+
+1917
+01:31:09,460 --> 01:31:14,340
+I just got back from Holland last week to talk to them
+
+1918
+01:31:14,340 --> 01:31:16,640
+what parts are we responsible for
+
+1919
+01:31:16,640 --> 01:31:21,240
+Taiwan has done very well because of the processing of some machinery
+
+1920
+01:31:21,240 --> 01:31:23,820
+So we might be responsible for the entire
+
+1921
+01:31:23,820 --> 01:31:26,360
+core part of a series
+
+1922
+01:31:26,360 --> 01:31:27,400
+How big is this series?
+
+1923
+01:31:27,400 --> 01:31:29,700
+The entire height of this series is approximately
+
+1924
+01:31:29,700 --> 01:31:31,240
+2.5 meters
+
+1925
+01:31:31,240 --> 01:31:32,780
+This width is
+
+1926
+01:31:32,780 --> 01:31:35,080
+About 1.5 meters
+
+1927
+01:31:35,080 --> 01:31:36,620
+It is easy to put this
+
+1928
+01:31:36,620 --> 01:31:42,000
+cover it all
+
+1929
+01:31:42,000 --> 01:31:44,040
+So this is our current
+
+1930
+01:31:44,040 --> 01:31:45,320
+Next
+
+1931
+01:31:45,320 --> 01:31:48,900
+key work items
+
+1932
+01:31:48,900 --> 01:31:50,700
+so today i
+
+1933
+01:31:50,700 --> 01:31:54,020
+It is very simple to introduce to you our Tianwen
+
+1934
+01:31:54,020 --> 01:31:55,560
+instruments of these
+
+1935
+01:31:55,560 --> 01:31:56,580
+and some
+
+1936
+01:31:56,580 --> 01:31:58,120
+details then
+
+1937
+01:31:58,120 --> 01:31:59,640
+some key points
+
+1938
+01:32:00,000 --> 01:32:05,000
+The conclusion is that we really need a lot of different talents
+
+1939
+01:32:05,000 --> 01:32:09,000
+Of course, at the same time, our technology does not mean that we can do it ourselves.
+
+1940
+01:32:09,000 --> 01:32:13,000
+In fact, there are also cooperation with many domestic manufacturers
+
+1941
+01:32:13,000 --> 01:32:18,000
+We also undertake some cases of manufacturers to help them do some system development
+
+1942
+01:32:18,000 --> 01:32:22,000
+The hope is that in addition to building our own technology
+
+1943
+01:32:22,000 --> 01:32:28,000
+It can also help some domestic industries like this
+
+1944
+01:32:28,000 --> 01:32:34,000
+Our astronomical institute was actually able to participate in these important international projects in the past
+
+1945
+01:32:34,000 --> 01:32:39,000
+In fact, it has a very important correlation with our technological crisis.
+
+1946
+01:32:39,000 --> 01:32:43,000
+That's the end of my speech today. Thank you.
+
+1947
+01:32:43,000 --> 01:32:49,000
+Thank you, Mr. Wang, for your wonderful speech.
+
+1948
+01:32:49,000 --> 01:32:54,000
+At that time, I heard that there are actually people stationed in Hawaii in our courtyard.
+
+1949
+01:32:54,000 --> 01:32:58,000
+At that time, my small mind was probably in YTB
+
+1950
+01:33:00,000 --> 01:33:04,100
+Wow, that's too much, I want to say that life is ashamed, couples play together
+
+1951
+01:33:04,100 --> 01:33:07,300
+Is it okay? Later I found out that they were in Monaca.
+
+1952
+01:33:07,300 --> 01:33:09,600
+Mona seems to be that Hawaii
+
+1953
+01:33:09,600 --> 01:33:11,020
+That Monaca seems to be
+
+1954
+01:33:11,020 --> 01:33:14,100
+In fact, Mona actually means three in Hawaii.
+
+1955
+01:33:14,100 --> 01:33:17,600
+So in the original there is still in Lulan
+
+1956
+01:33:17,600 --> 01:33:20,100
+I heard that wow it looks like a lot in Greenland
+
+1957
+01:33:20,100 --> 01:33:22,100
+great place still up
+
+1958
+01:33:22,100 --> 01:33:25,400
+The colleagues at the astronomical institute really worked hard
+
+1959
+01:33:25,400 --> 01:33:27,400
+Then everyone knows that in the Chinese Academy
+
+1960
+01:33:27,900 --> 01:33:30,600
+Let's just say that the research pressure is unbelievable again.
+
+1961
+01:33:30,600 --> 01:33:33,100
+So that one said it would take ten years to build an observatory
+
+1962
+01:33:33,100 --> 01:33:35,600
+Everyone knows that we are researchers
+
+1963
+01:33:35,600 --> 01:33:38,700
+About five or six years will be renewed
+
+1964
+01:33:38,700 --> 01:33:41,100
+Then if your academic research
+
+1965
+01:33:41,100 --> 01:33:43,100
+There is no way to publish a good paper
+
+1966
+01:33:43,100 --> 01:33:45,900
+soon you probably will
+
+1967
+01:33:45,900 --> 01:33:47,900
+So this research is incredibly stressful.
+
+1968
+01:33:47,900 --> 01:33:49,000
+no matter what
+
+1969
+01:33:49,000 --> 01:33:50,000
+thank you all
+
+1970
+01:33:50,000 --> 01:33:52,900
+What about us today, we have prepared some small gifts
+
+1971
+01:33:52,900 --> 01:33:55,400
+That is whether the presence is aimed at everyone
+
+1972
+01:33:55,900 --> 01:33:57,600
+Teacher Wang's wonderful speech
+
+1973
+01:33:57,600 --> 01:33:59,100
+do you have any questions
+
+1974
+01:34:00,000 --> 01:34:02,700
+Then if you report your name first
+
+1975
+01:34:02,700 --> 01:34:04,700
+Then there is your question, thank you
+
+1976
+01:34:06,700 --> 01:34:09,800
+After all Huang Qifang I am Datong
+
+1977
+01:34:09,800 --> 01:34:12,800
+I just learned that our
+
+1978
+01:34:12,800 --> 01:34:14,800
+Sensor for astronomical images
+
+1979
+01:34:14,800 --> 01:34:18,200
+The resolution is actually 10 times lower than that of a mobile phone
+
+1980
+01:34:18,200 --> 01:34:21,500
+10 micro meters and one micro meter
+
+1981
+01:34:21,500 --> 01:34:23,500
+Its pixel size is right
+
+1982
+01:34:23,500 --> 01:34:27,300
+Then such a large optical lens is 10 meters
+
+1983
+01:34:27,300 --> 01:34:29,000
+20 meters 30 meters
+
+1984
+01:34:29,100 --> 01:34:30,400
+so much information
+
+1985
+01:34:30,400 --> 01:34:34,100
+It seems a bit wasteful to use such a thick Sensor
+
+1986
+01:34:34,100 --> 01:34:36,200
+Then I was wondering if there is a possibility
+
+1987
+01:34:36,200 --> 01:34:38,400
+I'm a professor in the Department of Electrical Engineering
+
+1988
+01:34:38,400 --> 01:34:41,300
+Sensor of current commercial camera
+
+1989
+01:34:41,300 --> 01:34:44,000
+Tens of millions of pixels
+
+1990
+01:34:44,000 --> 01:34:47,000
+Maybe its environmental quality
+
+1991
+01:34:47,000 --> 01:34:49,100
+Cannot meet the needs of astronomy
+
+1992
+01:34:49,100 --> 01:34:51,900
+Is it possible to use these small Sensors in the future?
+
+1993
+01:34:51,900 --> 01:34:53,300
+so high resolution
+
+1994
+01:34:53,300 --> 01:34:55,300
+Multiply it into an Array
+
+1995
+01:34:55,300 --> 01:34:58,100
+Because I just heard that there is a combination of Sensors
+
+1996
+01:34:58,100 --> 01:35:00,100
+just a few hundred million
+
+1997
+01:35:00,000 --> 01:35:03,840
+Then it may be tens of millions if you use this one like Sony.
+
+1998
+01:35:03,840 --> 01:35:05,380
+Tens of millions in a small street
+
+1999
+01:35:05,380 --> 01:35:08,440
+That pocket may be worth billions or tens of billions
+
+2000
+01:35:08,440 --> 01:35:09,740
+Is it possible
+
+2001
+01:35:09,740 --> 01:35:11,780
+I may not have said a word just now
+
+2002
+01:35:11,780 --> 01:35:14,840
+That's why we choose 10 microns
+
+2003
+01:35:14,840 --> 01:35:16,380
+When our pixel size
+
+2004
+01:35:16,380 --> 01:35:17,400
+actually because
+
+2005
+01:35:17,400 --> 01:35:19,720
+It's because of the big old hole I just mentioned
+
+2006
+01:35:21,000 --> 01:35:25,080
+That’s my optical theory. I can make this optical machine very small.
+
+2007
+01:35:25,080 --> 01:35:26,620
+Put the dot machine very small
+
+2008
+01:35:26,620 --> 01:35:28,680
+But because of this atmospheric old hole relationship
+
+2009
+01:35:28,680 --> 01:35:30,980
+So my dots get bigger
+
+2010
+01:35:30,980 --> 01:35:34,320
+Then I don't use a small sensor when the light spot becomes bigger
+
+2011
+01:35:34,320 --> 01:35:35,600
+that pitch
+
+2012
+01:35:35,600 --> 01:35:37,120
+to cover it because
+
+2013
+01:35:37,120 --> 01:35:41,980
+Each pixel will have a noise when read out
+
+2014
+01:35:41,980 --> 01:35:42,760
+so
+
+2015
+01:35:42,760 --> 01:35:47,880
+We will choose the size of this sensor which is about 10 microns
+
+2016
+01:35:47,880 --> 01:35:51,200
+Of course I just said that if you use that
+
+2017
+01:35:51,200 --> 01:35:51,980
+that
+
+2018
+01:35:51,980 --> 01:35:54,780
+modulated optics i can get this quality right
+
+2019
+01:35:54,780 --> 01:35:56,840
+At that time we usually
+
+2020
+01:35:56,840 --> 01:35:58,120
+use
+
+2021
+01:35:58,120 --> 01:35:59,400
+different way
+
+2022
+01:36:00,000 --> 01:36:03,320
+to lengthen the focal length of my optics
+
+2023
+01:36:03,320 --> 01:36:05,300
+let it Play Scale
+
+2024
+01:36:05,300 --> 01:36:08,440
+is the field of view per unit length
+
+2025
+01:36:08,440 --> 01:36:09,560
+let it change
+
+2026
+01:36:09,560 --> 01:36:12,300
+Of course in astronomy
+
+2027
+01:36:12,300 --> 01:36:14,060
+why do i seem to say
+
+2028
+01:36:14,060 --> 01:36:16,500
+Like I'm talking about 10 micro
+
+2029
+01:36:16,500 --> 01:36:18,000
+This pixel doesn't seem to change
+
+2030
+01:36:18,000 --> 01:36:19,500
+The main reason is that
+
+2031
+01:36:19,500 --> 01:36:21,300
+In developing these astronomy-specific
+
+2032
+01:36:21,300 --> 01:36:23,600
+There are very few companies with this sensor
+
+2033
+01:36:23,600 --> 01:36:26,200
+This is what we use on our phone
+
+2034
+01:36:26,200 --> 01:36:28,500
+This sensor is related to our own
+
+2035
+01:36:28,700 --> 01:36:30,700
+The sensor we use for astronomy
+
+2036
+01:36:30,700 --> 01:36:32,800
+The biggest difference is
+
+2037
+01:36:32,800 --> 01:36:34,400
+Sensitivity of the mobile phone
+
+2038
+01:36:34,400 --> 01:36:37,500
+The functionality of the sensor is only about 50%
+
+2039
+01:36:37,500 --> 01:36:38,900
+good about one percent
+
+2040
+01:36:38,900 --> 01:36:41,100
+Usually about 20 to 30 percent
+
+2041
+01:36:41,100 --> 01:36:43,700
+More than 90% of the astronomy was used that day
+
+2042
+01:36:43,700 --> 01:36:47,000
+Then this is related to it, the structure is not the same
+
+2043
+01:36:47,000 --> 01:36:49,600
+that is
+
+2044
+01:36:49,600 --> 01:36:52,200
+Slowly, the current sensor of the mobile phone
+
+2045
+01:36:52,200 --> 01:36:54,000
+also gradually changed to
+
+2046
+01:36:54,000 --> 01:36:55,200
+what we call preparation
+
+2047
+01:36:55,200 --> 01:36:57,100
+It's light coming in from the back
+
+2048
+01:36:57,200 --> 01:36:59,500
+Because there are many circuits on the Sensor
+
+2049
+01:36:59,500 --> 01:37:00,100
+These circuits will
+
+2050
+01:37:00,000 --> 01:37:01,440
+because it blocks the light
+
+2051
+01:37:01,440 --> 01:37:04,800
+So you can't increase its sensitivity
+
+2052
+01:37:04,800 --> 01:37:06,860
+Then when you go in from the back
+
+2053
+01:37:06,860 --> 01:37:08,260
+it can increase a lot
+
+2054
+01:37:08,260 --> 01:37:10,400
+But this back cover
+
+2055
+01:37:10,400 --> 01:37:13,560
+Sensor is
+
+2056
+01:37:13,560 --> 01:37:16,160
+At least CMOS is the Sensor of all our mobile phones
+
+2057
+01:37:16,160 --> 01:37:19,700
+It has only gradually become popular in the past two years
+
+2058
+01:37:19,700 --> 01:37:20,660
+I just mentioned
+
+2059
+01:37:20,660 --> 01:37:24,260
+We have a big camera with this CMOS
+
+2060
+01:37:24,260 --> 01:37:26,060
+That Sensor was actually at the beginning
+
+2061
+01:37:26,060 --> 01:37:29,460
+We all ask TSMC or UMC to ask them to do
+
+2062
+01:37:29,460 --> 01:37:30,220
+say no
+
+2063
+01:37:30,220 --> 01:37:31,820
+because they asked
+
+2064
+01:37:31,820 --> 01:37:32,620
+large market
+
+2065
+01:37:32,620 --> 01:37:34,520
+I said maybe 100 pills a year
+
+2066
+01:37:34,520 --> 01:37:36,520
+then he said goodbye
+
+2067
+01:37:36,520 --> 01:37:39,260
+So these requirements of astronomy
+
+2068
+01:37:39,260 --> 01:37:41,300
+How can I follow
+
+2069
+01:37:41,300 --> 01:37:42,020
+with average
+
+2070
+01:37:42,020 --> 01:37:44,120
+We still follow the general needs of the industry
+
+2071
+01:37:44,120 --> 01:37:45,420
+there is a big difference
+
+2072
+01:37:45,420 --> 01:37:48,760
+That's unless the two of them can get close
+
+2073
+01:37:48,760 --> 01:37:52,160
+We have the means to convince these companies
+
+2074
+01:37:52,160 --> 01:37:53,520
+they can invest
+
+2075
+01:37:53,520 --> 01:37:54,860
+in this way
+
+2076
+01:37:54,860 --> 01:37:58,620
+Otherwise, it would still be very expensive for us to do
+
+2077
+01:38:00,000 --> 01:38:00,500
+one
+
+2078
+01:38:05,400 --> 01:38:06,500
+My surname is Huang
+
+2079
+01:38:06,600 --> 01:38:07,600
+just be
+
+2080
+01:38:08,200 --> 01:38:10,000
+just like i see that
+
+2081
+01:38:10,400 --> 01:38:13,000
+It is when the live broadcast is when the black hole is live broadcast
+
+2082
+01:38:13,200 --> 01:38:16,000
+It seems that you will practice that kind of self-discipline
+
+2083
+01:38:16,300 --> 01:38:19,300
+The kind of manufacturers you mentioned just now, cooperation, etc.
+
+2084
+01:38:19,300 --> 01:38:20,500
+then i see
+
+2085
+01:38:21,400 --> 01:38:23,700
+I see Zhonggang, Zhonglong
+
+2086
+01:38:23,900 --> 01:38:25,400
+Then everyone kept writing
+
+2087
+01:38:25,400 --> 01:38:28,500
+Then it seems that in this so-called
+
+2088
+01:38:28,700 --> 01:38:32,200
+The cooperation between the instrument and the manufacturer
+
+2089
+01:38:32,800 --> 01:38:34,700
+it becomes as if the communication above
+
+2090
+01:38:34,700 --> 01:38:37,300
+Because this is a very professional kind of astronomy
+
+2091
+01:38:37,400 --> 01:38:39,500
+Then their kind as far as we know
+
+2092
+01:38:39,500 --> 01:38:42,900
+Probably some heavy industrial equipment
+
+2093
+01:38:43,000 --> 01:38:45,400
+Between these two, between you and the manufacturer
+
+2094
+01:38:45,400 --> 01:38:47,900
+Because it's still about astronomy
+
+2095
+01:38:48,400 --> 01:38:50,500
+the specialized part
+
+2096
+01:38:50,500 --> 01:38:51,700
+because what you want
+
+2097
+01:38:51,700 --> 01:38:53,900
+communication between them
+
+2098
+01:38:54,060 --> 01:38:55,200
+does it become
+
+2099
+01:38:55,540 --> 01:38:57,500
+Can I get a general idea?
+
+2100
+01:38:58,500 --> 01:39:00,100
+That's a good question
+
+2101
+01:39:00,000 --> 01:39:03,120
+Why we need our own engineers
+
+2102
+01:39:03,120 --> 01:39:05,580
+just because we need to do it
+
+2103
+01:39:05,580 --> 01:39:07,580
+or me too
+
+2104
+01:39:07,580 --> 01:39:10,380
+I want to understand the needs of astronomy
+
+2105
+01:39:10,380 --> 01:39:12,880
+that understands the norms of astronomy
+
+2106
+01:39:12,880 --> 01:39:14,880
+Then you can communicate with the manufacturer
+
+2107
+01:39:14,880 --> 01:39:16,880
+when i do this now
+
+2108
+01:39:16,880 --> 01:39:19,380
+I don't want to use the traditional way
+
+2109
+01:39:19,380 --> 01:39:20,580
+what do i want to change
+
+2110
+01:39:20,580 --> 01:39:23,080
+what do i need
+
+2111
+01:39:23,080 --> 01:39:25,080
+I didn't talk carefully just now
+
+2112
+01:39:25,080 --> 01:39:27,580
+In fact, many of our mechanical processing
+
+2113
+01:39:27,580 --> 01:39:32,580
+The accuracy we want is one or two
+
+2114
+01:39:32,580 --> 01:39:34,580
+That is, its machining accuracy is very, very high.
+
+2115
+01:39:34,580 --> 01:39:39,580
+One is one-tenth the width of a hair
+
+2116
+01:39:39,580 --> 01:39:45,580
+So when your team has these concepts
+
+2117
+01:39:45,580 --> 01:39:49,580
+And then it itself comes from industry acceptance
+
+2118
+01:39:49,580 --> 01:39:52,580
+It has a way to go back and communicate with people in this industry
+
+2119
+01:39:52,580 --> 01:39:54,580
+What do I want
+
+2120
+01:39:54,580 --> 01:39:56,580
+Then how can you possibly achieve
+
+2121
+01:39:56,580 --> 01:39:58,580
+what i want
+
+2122
+01:40:00,000 --> 01:40:02,000
+Just like we developed the Sensor
+
+2123
+01:40:02,000 --> 01:40:04,000
+Because I am the background of Sensor
+
+2124
+01:40:04,000 --> 01:40:07,000
+I can communicate with the manufacturer about what I want
+
+2125
+01:40:07,000 --> 01:40:08,000
+what kind of circuit
+
+2126
+01:40:12,000 --> 01:40:13,000
+this one
+
+2127
+01:40:15,000 --> 01:40:17,000
+Hello, Dr. Wang, my name is Lin
+
+2128
+01:40:17,000 --> 01:40:18,000
+i want to ask two questions
+
+2129
+01:40:18,000 --> 01:40:22,000
+The first is to say that in the development of so-called astronomical instruments
+
+2130
+01:40:22,000 --> 01:40:25,000
+Not in the development of science graduate instruments
+
+2131
+01:40:25,000 --> 01:40:29,000
+What disciplines does it really need?
+
+2132
+01:40:29,000 --> 01:40:33,000
+Then what is its cultivation and source usually like?
+
+2133
+01:40:33,000 --> 01:40:37,000
+Then the second question is that in a complete astronomical observation program
+
+2134
+01:40:37,000 --> 01:40:40,000
+The role of the so-called scientist is, for example,
+
+2135
+01:40:40,000 --> 01:40:44,000
+astronomer or physicist throughout the program
+
+2136
+01:40:44,000 --> 01:40:48,000
+What parts of the work does it participate in and what role does it play
+
+2137
+01:40:48,000 --> 01:40:49,000
+Thanks
+
+2138
+01:40:50,000 --> 01:40:52,000
+we need all kinds of people
+
+2139
+01:40:52,000 --> 01:40:54,000
+So in our
+
+2140
+01:40:54,000 --> 01:40:56,000
+we have optical engineers
+
+2141
+01:40:56,000 --> 01:40:57,000
+we have mechanical engineers
+
+2142
+01:40:57,000 --> 01:40:59,000
+we have microwave engineers
+
+2143
+01:41:00,000 --> 01:41:03,000
+Electronic function engineer Software function engineer
+
+2144
+01:41:03,000 --> 01:41:05,000
+And the function engineer of the detector
+
+2145
+01:41:05,000 --> 01:41:08,000
+So you can basically what I just mentioned
+
+2146
+01:41:08,000 --> 01:41:12,000
+Each part has a corresponding functional division
+
+2147
+01:41:12,000 --> 01:41:14,000
+come and go take care of these things
+
+2148
+01:41:14,000 --> 01:41:17,000
+Because we can't buy anything we touch
+
+2149
+01:41:17,000 --> 01:41:19,000
+I even had to design the circuit myself
+
+2150
+01:41:19,000 --> 01:41:21,000
+Then clean the factory to wash
+
+2151
+01:41:21,000 --> 01:41:23,000
+Then come back and call yourself like this
+
+2152
+01:41:23,000 --> 01:41:26,000
+So basically these things are
+
+2153
+01:41:26,000 --> 01:41:28,000
+all needed
+
+2154
+01:41:28,000 --> 01:41:30,000
+The second question just said
+
+2155
+01:41:30,000 --> 01:41:34,000
+about the role of astronomers in observing
+
+2156
+01:41:34,000 --> 01:41:37,000
+Basically after we finish the instrument
+
+2157
+01:41:37,000 --> 01:41:39,000
+Astronomers will see that
+
+2158
+01:41:39,000 --> 01:41:42,000
+There is one more instrument on the earphone side that can be used
+
+2159
+01:41:42,000 --> 01:41:46,000
+They are going to explain the characteristics of this instrument
+
+2160
+01:41:46,000 --> 01:41:48,000
+We usually do some tests
+
+2161
+01:41:48,000 --> 01:41:50,000
+We put the instruments behind the observatory
+
+2162
+01:41:50,000 --> 01:41:52,000
+will start testing its basic features
+
+2163
+01:41:52,000 --> 01:41:55,000
+These properties will have a table
+
+2164
+01:41:55,000 --> 01:41:58,000
+or have a system that can do the calculations
+
+2165
+01:41:58,000 --> 01:42:00,000
+That day the astronomer based on what he thought
+
+2166
+01:42:00,000 --> 01:42:02,000
+he will calculate
+
+2167
+01:42:02,000 --> 01:42:03,000
+i want to see this celestial body
+
+2168
+01:42:03,000 --> 01:42:05,000
+How much observation time may I need
+
+2169
+01:42:05,000 --> 01:42:08,000
+Then he will start writing his observation plan.
+
+2170
+01:42:08,000 --> 01:42:09,000
+the observation program
+
+2171
+01:42:09,000 --> 01:42:11,000
+If after the observation time
+
+2172
+01:42:11,000 --> 01:42:12,000
+The weather is great
+
+2173
+01:42:12,000 --> 01:42:13,000
+he gets his information
+
+2174
+01:42:13,000 --> 01:42:14,000
+After getting the information
+
+2175
+01:42:14,000 --> 01:42:15,000
+he's going to deal with it
+
+2176
+01:42:15,000 --> 01:42:17,000
+That deals with the usual words
+
+2177
+01:42:17,000 --> 01:42:19,000
+Every instrument he might have
+
+2178
+01:42:19,000 --> 01:42:20,000
+meeting
+
+2179
+01:42:20,000 --> 01:42:23,000
+when we send the instrument out
+
+2180
+01:42:23,000 --> 01:42:24,000
+we will have
+
+2181
+01:42:24,000 --> 01:42:26,000
+Follow his data processing system
+
+2182
+01:42:26,000 --> 01:42:27,000
+so he can use
+
+2183
+01:42:27,000 --> 01:42:29,000
+The data processing systems we provide
+
+2184
+01:42:29,000 --> 01:42:31,000
+to process his data
+
+2185
+01:42:31,000 --> 01:42:33,000
+Then do more follow-up analysis
+
+2186
+01:42:33,000 --> 01:42:34,000
+or
+
+2187
+01:42:34,000 --> 01:42:36,000
+If he feels that he handles these data
+
+2188
+01:42:36,000 --> 01:42:37,000
+he is sure of himself
+
+2189
+01:42:37,000 --> 01:42:40,000
+He can also do his own data processing
+
+2190
+01:42:40,000 --> 01:42:42,000
+Then do the following analysis
+
+2191
+01:42:42,000 --> 01:42:44,000
+Then the subsequent analysis may be very
+
+2192
+01:42:44,000 --> 01:42:46,000
+there is a big difference
+
+2193
+01:42:46,000 --> 01:42:48,000
+I may be doing statistics
+
+2194
+01:42:48,000 --> 01:42:50,000
+I might just do this for a single celestial body
+
+2195
+01:42:50,000 --> 01:42:51,000
+Analysis of characteristics
+
+2196
+01:42:51,000 --> 01:42:53,000
+that makes a big difference
+
+2197
+01:42:53,000 --> 01:42:54,000
+that is
+
+2198
+01:42:54,000 --> 01:42:56,000
+real astronomer
+
+2199
+01:42:56,000 --> 01:42:58,000
+or astrophysical systems they
+
+2200
+01:42:58,000 --> 01:43:00,000
+they are really professional
+
+2201
+01:43:00,000 --> 01:43:05,000
+ok this sir
+
+2202
+01:43:05,000 --> 01:43:11,000
+Hello, I am a believer. Let me continue with the question you just answered.
+
+2203
+01:43:11,000 --> 01:43:15,000
+I want to know, the world is currently full of information to say
+
+2204
+01:43:15,000 --> 01:43:18,000
+no one to analyze or say this
+
+2205
+01:43:18,000 --> 01:43:21,000
+Every astronomer is waiting for that Q to say I want this data
+
+2206
+01:43:21,000 --> 01:43:23,000
+got it a year later
+
+2207
+01:43:23,000 --> 01:43:25,000
+This is where astronomers have two
+
+2208
+01:43:25,000 --> 01:43:28,000
+If you ask our director, he will say that there are too many materials
+
+2209
+01:43:28,000 --> 01:43:33,000
+If you go to check it casually, it will be the taper that can produce an infinite amount of taper every year.
+
+2210
+01:43:33,000 --> 01:43:37,000
+In fact, there is a lot of data
+
+2211
+01:43:37,000 --> 01:43:41,000
+Data that has been observed at various observatories
+
+2212
+01:43:41,000 --> 01:43:45,000
+That of course means that there are many problems
+
+2213
+01:43:45,000 --> 01:43:47,000
+Or there are many specialized subjects
+
+2214
+01:43:47,000 --> 01:43:51,000
+It needs new instruments to have a way to break through
+
+2215
+01:43:51,000 --> 01:43:56,000
+There is a way to go. For example, I want to see the universe farther away.
+
+2216
+01:43:56,000 --> 01:44:00,000
+Then I couldn't get this far before, I couldn't
+
+2217
+01:44:00,000 --> 01:44:04,000
+So there are two very different kinds of this
+
+2218
+01:44:04,000 --> 01:44:06,000
+The path of research looks like this
+
+2219
+01:44:06,000 --> 01:44:08,000
+right
+
+2220
+01:44:18,000 --> 01:44:20,000
+Are there any special requirements for the material of the lens?
+
+2221
+01:44:20,000 --> 01:44:22,000
+Is the radius of that area ground by yourself?
+
+2222
+01:44:22,000 --> 01:44:24,000
+Well
+
+2223
+01:44:24,000 --> 01:44:28,000
+In most of the development of astronomical instruments
+
+2224
+01:44:28,000 --> 01:44:32,000
+The research unit does not grind the lens itself
+
+2225
+01:44:32,000 --> 01:44:34,000
+few have
+
+2226
+01:44:34,000 --> 01:44:37,000
+In fact, we rely a lot on
+
+2227
+01:44:37,000 --> 01:44:42,000
+These relatively specialized optical manufacturers
+
+2228
+01:44:42,000 --> 01:44:45,000
+For example, there is a quite large factory in France
+
+2229
+01:44:45,000 --> 01:44:48,000
+Then Japan like Kallang or Nikon
+
+2230
+01:44:48,000 --> 01:44:50,000
+they are also very useful
+
+2231
+01:44:50,000 --> 01:44:51,000
+those materials
+
+2232
+01:44:51,000 --> 01:44:54,000
+Visible light materials are usually relatively fixed
+
+2233
+01:44:54,000 --> 01:44:56,000
+and easier to get
+
+2234
+01:44:56,000 --> 01:44:59,000
+The market for this is huge
+
+2235
+01:44:59,000 --> 01:45:00,000
+the infrared words
+
+2236
+01:45:00,000 --> 01:45:01,540
+so it's more difficult for me
+
+2237
+01:45:01,540 --> 01:45:03,340
+The problem I've found that I often run into is saying
+
+2238
+01:45:03,340 --> 01:45:07,420
+I now need a lens like 30cm
+
+2239
+01:45:07,420 --> 01:45:09,740
+But you ask the whole world to tell you
+
+2240
+01:45:09,740 --> 01:45:12,300
+no, no one produces
+
+2241
+01:45:12,300 --> 01:45:14,340
+Not the lens, just the material
+
+2242
+01:45:14,340 --> 01:45:16,640
+There is no such a large material
+
+2243
+01:45:16,640 --> 01:45:20,480
+So then you have to think of other ways to break through
+
+2244
+01:45:20,480 --> 01:45:23,040
+For example, if I divide a speed of light into
+
+2245
+01:45:23,040 --> 01:45:24,840
+34 light speeds like this
+
+2246
+01:45:24,840 --> 01:45:29,440
+to do different designs
+
+2247
+01:45:29,440 --> 01:45:32,260
+Let me ask Mr. Wang first
+
+2248
+01:45:32,260 --> 01:45:37,880
+Mainland China because about last year I knew they were going to build a 500-meter-diameter one
+
+2249
+01:45:37,880 --> 01:45:39,420
+Yes, I asked at the beginning
+
+2250
+01:45:39,420 --> 01:45:42,760
+Then I know it seems that he is better than the original
+
+2251
+01:45:42,760 --> 01:45:45,320
+It turns out that it seems to be only about 100 or 200
+
+2252
+01:45:45,320 --> 01:45:46,340
+diameter 300
+
+2253
+01:45:46,340 --> 01:45:47,360
+300
+
+2254
+01:45:47,360 --> 01:45:50,440
+Then his main purpose
+
+2255
+01:45:50,440 --> 01:45:53,760
+And that class should be very high
+
+2256
+01:45:53,760 --> 01:45:59,400
+That is, we usually say that the requirements of this mirror are closely related to its wavelength.
+
+2257
+01:46:00,000 --> 01:46:02,000
+This is what I just showed
+
+2258
+01:46:02,000 --> 01:46:04,000
+their big eyes
+
+2259
+01:46:04,000 --> 01:46:06,000
+this is 500 meters
+
+2260
+01:46:06,000 --> 01:46:08,000
+Then his main thing
+
+2261
+01:46:08,000 --> 01:46:10,000
+The wavelength of the tube car
+
+2262
+01:46:10,000 --> 01:46:12,000
+The wavelength of this antenna tube car is
+
+2263
+01:46:12,000 --> 01:46:14,000
+possibly centimeter-scale waves
+
+2264
+01:46:14,000 --> 01:46:16,000
+electromagnetic waves
+
+2265
+01:46:16,000 --> 01:46:18,000
+Then his request is like
+
+2266
+01:46:18,000 --> 01:46:20,000
+we do
+
+2267
+01:46:20,000 --> 01:46:22,000
+Chihavanibo
+
+2268
+01:46:22,000 --> 01:46:24,000
+or visible light
+
+2269
+01:46:24,000 --> 01:46:26,000
+ask for this
+
+2270
+01:46:26,000 --> 01:46:28,000
+The superficial requirements are much worse
+
+2271
+01:46:28,000 --> 01:46:30,000
+So the wavelength of my surface is directly proportional to
+
+2272
+01:46:30,000 --> 01:46:32,000
+So let's say I can see light
+
+2273
+01:46:32,000 --> 01:46:34,000
+I have superficial progress requirements
+
+2274
+01:46:34,000 --> 01:46:36,000
+This is what we call the Nami rating.
+
+2275
+01:46:36,000 --> 01:46:38,000
+maybe a hundred rice
+
+2276
+01:46:38,000 --> 01:46:40,000
+50-resistant rice
+
+2277
+01:46:40,000 --> 01:46:42,000
+That's because the wavelength of my optics is
+
+2278
+01:46:42,000 --> 01:46:44,000
+hundreds of nanometers
+
+2279
+01:46:44,000 --> 01:46:46,000
+so if i
+
+2280
+01:46:46,000 --> 01:46:48,000
+He is centimeter grade
+
+2281
+01:46:48,000 --> 01:46:50,000
+So he superficially asked to become Homi
+
+2282
+01:46:50,000 --> 01:46:52,000
+Relatively speaking, the difficulty
+
+2283
+01:46:52,000 --> 01:46:54,000
+not that high
+
+2284
+01:46:54,000 --> 01:46:56,000
+Of course it's because he's big
+
+2285
+01:46:56,000 --> 01:46:58,000
+but this
+
+2286
+01:46:58,000 --> 01:47:00,000
+You said you want to make the optics so big
+
+2287
+01:47:00,000 --> 01:47:03,000
+This is very currently not possible
+
+2288
+01:47:03,000 --> 01:47:06,000
+Let me ask you again, how much will it cost to burn?
+
+2289
+01:47:06,000 --> 01:47:08,000
+this is okay
+
+2290
+01:47:08,000 --> 01:47:10,000
+this is what we say
+
+2291
+01:47:10,000 --> 01:47:12,000
+that
+
+2292
+01:47:18,000 --> 01:47:20,000
+i was there last week
+
+2293
+01:47:20,000 --> 01:47:22,000
+To him it's actually
+
+2294
+01:47:22,000 --> 01:47:25,000
+His reason is that the wavelength is very long
+
+2295
+01:47:25,000 --> 01:47:28,000
+that metal piece on his face
+
+2296
+01:47:28,000 --> 01:47:30,000
+It's full of holes
+
+2297
+01:47:30,000 --> 01:47:32,000
+Because of him, everything you say is true.
+
+2298
+01:47:32,000 --> 01:47:34,000
+It's very heavy with a solid piece of metal
+
+2299
+01:47:34,000 --> 01:47:36,000
+He said it was full of holes
+
+2300
+01:47:36,000 --> 01:47:37,000
+full of holes
+
+2301
+01:47:37,000 --> 01:47:39,000
+I mean, if we look from the bottom up
+
+2302
+01:47:39,000 --> 01:47:42,000
+Nothing seems to be transparent
+
+2303
+01:47:42,000 --> 01:47:43,000
+it's a lot of holes
+
+2304
+01:47:43,000 --> 01:47:45,000
+he is whole he is whole he is string
+
+2305
+01:47:45,000 --> 01:47:48,000
+There are six towers outside
+
+2306
+01:47:48,000 --> 01:47:50,000
+His whole string is on it
+
+2307
+01:47:50,000 --> 01:47:53,000
+They develop a new kind of steel wire
+
+2308
+01:47:53,000 --> 01:47:55,000
+can lift it all up
+
+2309
+01:47:55,000 --> 01:47:57,000
+The quality of the steel wire is very good
+
+2310
+01:47:57,000 --> 01:47:59,000
+can hold a lot of weight
+
+2311
+01:48:00,000 --> 01:48:01,640
+What bridge is that pig
+
+2312
+01:48:01,640 --> 01:48:03,760
+What is it called Hong Kong Pig Harbor?
+
+2313
+01:48:03,760 --> 01:48:05,040
+Hong Kong-Macau Bridge
+
+2314
+01:48:05,040 --> 01:48:06,160
+the line hanging above
+
+2315
+01:48:06,160 --> 01:48:07,360
+developed from them
+
+2316
+01:48:07,360 --> 01:48:09,200
+They have body patents
+
+2317
+01:48:09,200 --> 01:48:10,600
+that's all
+
+2318
+01:48:10,600 --> 01:48:11,300
+hang on
+
+2319
+01:48:11,300 --> 01:48:12,200
+he spent money
+
+2320
+01:48:12,200 --> 01:48:13,100
+i don't know how much it costs
+
+2321
+01:48:13,100 --> 01:48:14,400
+But after spending money like this
+
+2322
+01:48:14,400 --> 01:48:15,760
+after covering
+
+2323
+01:48:15,760 --> 01:48:17,460
+Their tourism business developed to
+
+2324
+01:48:17,460 --> 01:48:18,900
+money earned from tourism
+
+2325
+01:48:18,900 --> 01:48:21,260
+More money than the telescope he built
+
+2326
+01:48:21,260 --> 01:48:22,600
+So he now covers a lot outside
+
+2327
+01:48:22,600 --> 01:48:24,040
+the big hotel
+
+2328
+01:48:24,040 --> 01:48:26,140
+so let's see
+
+2329
+01:48:26,140 --> 01:48:27,360
+look at you
+
+2330
+01:48:27,360 --> 01:48:29,000
+top middle
+
+2331
+01:48:29,000 --> 01:48:30,200
+there is one that can
+
+2332
+01:48:30,200 --> 01:48:31,400
+There can be a table inside
+
+2333
+01:48:31,400 --> 01:48:32,460
+you can go up and see
+
+2334
+01:48:32,460 --> 01:48:34,760
+You can go outside for sightseeing
+
+2335
+01:48:34,760 --> 01:48:35,760
+not below
+
+2336
+01:48:35,760 --> 01:48:37,160
+can't go down
+
+2337
+01:48:37,160 --> 01:48:37,900
+because of our
+
+2338
+01:48:37,900 --> 01:48:38,900
+our sky school
+
+2339
+01:48:38,900 --> 01:48:39,800
+we can only be below
+
+2340
+01:48:39,800 --> 01:48:41,700
+next to that plate
+
+2341
+01:48:41,700 --> 01:48:43,660
+We can't take pictures like this
+
+2342
+01:48:43,660 --> 01:48:45,600
+I take a photo with my phone
+
+2343
+01:48:45,600 --> 01:48:46,360
+According to
+
+2344
+01:48:46,360 --> 01:48:47,960
+only on that plate
+
+2345
+01:48:47,960 --> 01:48:49,700
+about a quarter
+
+2346
+01:48:49,700 --> 01:48:51,900
+We can't take such a panorama
+
+2347
+01:48:51,900 --> 01:48:54,160
+It must be this. I don’t know how they take pictures.
+
+2348
+01:48:54,160 --> 01:48:57,520
+I remember taking pictures is worth billions of RMB
+
+2349
+01:48:57,520 --> 01:48:58,560
+billions of RMB
+
+2350
+01:48:58,620 --> 01:48:59,660
+at the last meeting
+
+2351
+01:48:59,660 --> 01:49:00,060
+classmate
+
+2352
+01:49:00,000 --> 01:49:06,000
+He said he would find a few more to develop tourism
+
+2353
+01:49:06,000 --> 01:49:10,000
+In astronomy, he can only do specific astronomy
+
+2354
+01:49:10,000 --> 01:49:15,000
+So he is not a very broad
+
+2355
+01:49:15,000 --> 01:49:17,000
+ok ok sorry
+
+2356
+01:49:17,000 --> 01:49:19,000
+At least solve my confusion
+
+2357
+01:49:19,000 --> 01:49:21,000
+Because a lot of people are talking about it
+
+2358
+01:49:21,000 --> 01:49:24,000
+Is there another Mr.
+
+2359
+01:49:24,000 --> 01:49:26,000
+Hello, Professor Wang, my name is Jin
+
+2360
+01:49:26,000 --> 01:49:28,000
+i want to ask
+
+2361
+01:49:28,000 --> 01:49:30,000
+What kind of environment is restricted in our country
+
+2362
+01:49:30,000 --> 01:49:32,000
+Is it the land spirit or what?
+
+2363
+01:49:32,000 --> 01:49:34,000
+Why is that very large observatory
+
+2364
+01:49:34,000 --> 01:49:36,000
+are abroad
+
+2365
+01:49:36,000 --> 01:49:38,000
+because of the old dimension
+
+2366
+01:49:38,000 --> 01:49:39,000
+our care for the environment
+
+2367
+01:49:39,000 --> 01:49:40,000
+should not lose to other
+
+2368
+01:49:40,000 --> 01:49:42,000
+places like nuclear camp
+
+2369
+01:49:44,000 --> 01:49:45,000
+i think you just walked outside
+
+2370
+01:49:45,000 --> 01:49:47,000
+you see us rain
+
+2371
+01:49:47,000 --> 01:49:48,000
+Extinguish
+
+2372
+01:49:48,000 --> 01:49:50,000
+So Taiwan's problem is
+
+2373
+01:49:50,000 --> 01:49:53,000
+We have typhoon, we have rain, right?
+
+2374
+01:49:53,000 --> 01:49:56,000
+It rains all winter in northern Taiwan
+
+2375
+01:49:56,000 --> 01:49:59,000
+Then there will be beautiful rain and spring rain
+
+2376
+01:50:00,000 --> 01:50:02,760
+Well, the weather station, we now know it's probably
+
+2377
+01:50:02,760 --> 01:50:04,760
+It's a high mountain, near Yushan
+
+2378
+01:50:04,760 --> 01:50:06,260
+There is no way to go to Yushan
+
+2379
+01:50:06,260 --> 01:50:08,760
+Yushan has no way to go up
+
+2380
+01:50:08,760 --> 01:50:11,960
+So some people may say that Yushan may
+
+2381
+01:50:11,960 --> 01:50:13,200
+The observation conditions are very good
+
+2382
+01:50:13,200 --> 01:50:15,200
+But there's really no way to get there
+
+2383
+01:50:15,200 --> 01:50:17,200
+that so
+
+2384
+01:50:17,200 --> 01:50:19,700
+in east asia
+
+2385
+01:50:19,700 --> 01:50:23,600
+To be honest, there isn't any table with a good temperature
+
+2386
+01:50:23,600 --> 01:50:25,100
+is east asia
+
+2387
+01:50:25,100 --> 01:50:28,200
+Usually because of this circulation
+
+2388
+01:50:28,600 --> 01:50:31,600
+It's all on this side of the ocean
+
+2389
+01:50:31,600 --> 01:50:33,000
+is dry
+
+2390
+01:50:33,000 --> 01:50:35,400
+is the Pacific Ocean
+
+2391
+01:50:35,400 --> 01:50:37,100
+on the right is
+
+2392
+01:50:37,100 --> 01:50:39,200
+is dry left is dead
+
+2393
+01:50:39,200 --> 01:50:41,300
+for the Atlantic Ocean
+
+2394
+01:50:41,300 --> 01:50:43,000
+so good weather deck
+
+2395
+01:50:43,000 --> 01:50:43,900
+Hawaii is an exception
+
+2396
+01:50:43,900 --> 01:50:46,000
+Hawaii because it is in
+
+2397
+01:50:46,000 --> 01:50:48,900
+It's an island protruding from the middle of the ocean
+
+2398
+01:50:48,900 --> 01:50:51,700
+So basically the airflow is very stable
+
+2399
+01:50:51,700 --> 01:50:53,700
+Then the clouds are all under the mountain
+
+2400
+01:50:53,700 --> 01:50:55,800
+Its mountain is very high, Jade Mountain is still high
+
+2401
+01:50:55,900 --> 01:50:58,800
+So there is no problem above
+
+2402
+01:50:58,800 --> 01:51:00,800
+that's usually good when otherwise
+
+2403
+01:51:00,000 --> 01:51:03,000
+on the right side of the ocean
+
+2404
+01:51:17,000 --> 01:51:19,000
+That is, when he melts, there will be
+
+2405
+01:51:19,000 --> 01:51:21,000
+he doesn't melt well
+
+2406
+01:51:21,000 --> 01:51:22,000
+he doesn't melt well
+
+2407
+01:51:22,000 --> 01:51:24,000
+But he doesn't have summer when you go
+
+2408
+01:51:24,000 --> 01:51:26,000
+It was probably zero when I went there in July.
+
+2409
+01:51:27,000 --> 01:51:28,000
+right
+
+2410
+01:51:28,000 --> 01:51:30,000
+He probably asked about the humidity
+
+2411
+01:51:30,000 --> 01:51:31,000
+right
+
+2412
+01:51:31,000 --> 01:51:32,000
+right
+
+2413
+01:51:34,000 --> 01:51:35,000
+right
+
+2414
+01:51:35,000 --> 01:51:39,000
+But usually it's pretty dry most of the time
+
+2415
+01:51:39,000 --> 01:51:40,000
+is our relative humidity
+
+2416
+01:51:40,000 --> 01:51:42,000
+the amount of water vapor in the air
+
+2417
+01:51:42,000 --> 01:51:44,000
+It has a lot to do with temperature
+
+2418
+01:51:44,000 --> 01:51:46,000
+the more you... the higher the temperature
+
+2419
+01:51:46,000 --> 01:51:48,000
+air water content
+
+2420
+01:51:48,000 --> 01:51:49,000
+I'm not talking about humidity now
+
+2421
+01:51:49,000 --> 01:51:53,000
+It is the amount of water in the air
+
+2422
+01:51:53,000 --> 01:51:55,000
+opposite to temperature
+
+2423
+01:51:55,000 --> 01:51:57,000
+This is when the temperature is lower
+
+2424
+01:51:57,000 --> 01:51:59,000
+less water content
+
+2425
+01:52:00,000 --> 01:52:07,000
+Okay, is there any speech for today's teacher Wang?
+
+2426
+01:52:07,000 --> 01:52:09,000
+is there any doubt
+
+2427
+01:52:09,000 --> 01:52:13,000
+All right, man, because we still have a few minutes
+
+2428
+01:52:13,000 --> 01:52:18,000
+that give him the mic thanks
+
+2429
+01:52:18,000 --> 01:52:24,000
+It seems that there is a slide show about when the old Dong
+
+2430
+01:52:24,000 --> 01:52:27,000
+Doesn't that lens follow that
+
+2431
+01:52:27,000 --> 01:52:28,000
+Yeah
+
+2432
+01:52:28,000 --> 01:52:33,000
+What method is used to comply with this rapid change
+
+2433
+01:52:33,000 --> 01:52:35,000
+Is it supposed to be a mechanical way?
+
+2434
+01:52:35,000 --> 01:52:37,000
+it's the mechanical way
+
+2435
+01:52:37,000 --> 01:52:38,000
+It's a mechanical way, yes
+
+2436
+01:52:38,000 --> 01:52:42,000
+When we make this instrument
+
+2437
+01:52:42,000 --> 01:52:45,000
+It is we have a device called the Wayfram Sensor
+
+2438
+01:52:45,000 --> 01:52:47,000
+that is to say this thing
+
+2439
+01:52:47,000 --> 01:52:51,000
+It can detect how my wavefront has changed
+
+2440
+01:52:51,000 --> 01:53:00,000
+Then I was able to control it's drive behind this mirror
+
+2441
+01:53:00,000 --> 01:53:03,680
+to allow very small changes to the surface of this mirror
+
+2442
+01:53:04,180 --> 01:53:07,240
+Because this mirror is very, very thin
+
+2443
+01:53:07,560 --> 01:53:08,240
+so it's thin
+
+2444
+01:53:08,240 --> 01:53:11,560
+The drive won't break when it's moving around behind it
+
+2445
+01:53:12,060 --> 01:53:16,240
+Can move hundreds of times per second
+
+2446
+01:53:17,560 --> 01:53:20,240
+This is what we call deformable mirror
+
+2447
+01:53:20,240 --> 01:53:21,960
+This is a special technique
+
+2448
+01:53:23,000 --> 01:53:25,720
+No one in Taiwan should be interested in this
+
+2449
+01:53:25,720 --> 01:53:28,760
+But it can move very fast
+
+2450
+01:53:28,760 --> 01:53:30,520
+This thing is actually very interesting
+
+2451
+01:53:30,520 --> 01:53:32,920
+It was actually developed from a new war plan.
+
+2452
+01:53:33,960 --> 01:53:37,400
+Americans in the 1980s
+
+2453
+01:53:37,400 --> 01:53:42,400
+In order to send lasers into outer space to attack artificial satellites
+
+2454
+01:53:43,120 --> 01:53:44,880
+He also needs to fix atmospheric labor
+
+2455
+01:53:44,880 --> 01:53:47,760
+Otherwise, they went out and said that there is no way to pile them up at one point.
+
+2456
+01:53:48,160 --> 01:53:52,000
+The lasers have to gather at one point to destroy this thing
+
+2457
+01:53:52,680 --> 01:53:54,840
+So they went to develop the technology
+
+2458
+01:53:55,320 --> 01:53:57,200
+Then I returned the new battle plan after the end
+
+2459
+01:53:57,200 --> 01:54:00,040
+After hearing about it, he was very happy to say that this thing is very useful.
+
+2460
+01:54:00,000 --> 01:54:01,000
+just use it
+
+2461
+01:54:05,200 --> 01:54:06,500
+Yes because in fact it
+
+2462
+01:54:06,500 --> 01:54:08,000
+I'm exaggerating
+
+2463
+01:54:08,000 --> 01:54:09,500
+In fact, its animal range is very small
+
+2464
+01:54:09,500 --> 01:54:10,700
+Its animal range is also
+
+2465
+01:54:10,700 --> 01:54:12,500
+Also Neonometer level
+
+2466
+01:54:14,800 --> 01:54:17,500
+good obviously natural
+
+2467
+01:54:17,500 --> 01:54:19,000
+Astronomy and Natural Physics Research
+
+2468
+01:54:19,000 --> 01:54:20,500
+Natural Physics Research
+
+2469
+01:54:20,500 --> 01:54:22,000
+Institute of Astrophysics
+
+2470
+01:54:22,000 --> 01:54:24,200
+It is actually a cross-domain integration
+
+2471
+01:54:24,200 --> 01:54:25,500
+Need all aspects
+
+2472
+01:54:25,500 --> 01:54:27,000
+You say
+
+2473
+01:54:28,000 --> 01:54:29,500
+say hello online
+
+2474
+01:54:29,500 --> 01:54:31,300
+I want to ask something
+
+2475
+01:54:31,300 --> 01:54:34,000
+Should be a basic question for you
+
+2476
+01:54:34,000 --> 01:54:36,500
+just to make sure
+
+2477
+01:54:36,500 --> 01:54:40,000
+So visible light observations
+
+2478
+01:54:40,000 --> 01:54:42,000
+usually at night
+
+2479
+01:54:42,000 --> 01:54:45,000
+So radio observations are
+
+2480
+01:54:45,000 --> 01:54:47,000
+Can it be observed day and night?
+
+2481
+01:54:47,000 --> 01:54:48,800
+Yes, it depends on your wavelength
+
+2482
+01:54:48,800 --> 01:54:50,700
+That is to say
+
+2483
+01:54:50,700 --> 01:54:53,200
+So usually when doing astronomical observations
+
+2484
+01:54:53,200 --> 01:54:56,900
+Will it observe 24 hours for radio observation?
+
+2485
+01:54:56,900 --> 01:54:59,400
+If it is like the mainland
+
+2486
+01:54:59,400 --> 01:55:00,400
+It can be
+
+2487
+01:55:00,000 --> 01:55:04,000
+But it's you when the sun comes
+
+2488
+01:55:04,000 --> 01:55:06,000
+This signal from the sun is still serious
+
+2489
+01:55:06,000 --> 01:55:08,000
+so he just said
+
+2490
+01:55:08,000 --> 01:55:11,000
+His time can be longer
+
+2491
+01:55:11,000 --> 01:55:13,000
+It is radio, for example, the CMT I just mentioned
+
+2492
+01:55:13,000 --> 01:55:16,000
+May be normal visible light environment
+
+2493
+01:55:16,000 --> 01:55:18,000
+It might close at five o'clock.
+
+2494
+01:55:18,000 --> 01:55:20,000
+They might get six or seven
+
+2495
+01:55:20,000 --> 01:55:24,000
+So when observing at night
+
+2496
+01:55:24,000 --> 01:55:26,000
+because I just saw
+
+2497
+01:55:26,000 --> 01:55:29,000
+That's why he's using a camera or
+
+2498
+01:55:30,000 --> 01:55:32,000
+It's just receiving light anyway
+
+2499
+01:55:32,000 --> 01:55:36,000
+So he will be like we see with human eyes
+
+2500
+01:55:36,000 --> 01:55:38,000
+Just like photography
+
+2501
+01:55:38,000 --> 01:55:40,000
+Or is it like we shoot for a long time
+
+2502
+01:55:40,000 --> 01:55:43,000
+For example, every ten minutes
+
+2503
+01:55:43,000 --> 01:55:45,000
+rerun once
+
+2504
+01:55:45,000 --> 01:55:47,000
+then another ten minutes
+
+2505
+01:55:47,000 --> 01:55:48,000
+We usually just look at
+
+2506
+01:55:48,000 --> 01:55:51,000
+how dark i want to see
+
+2507
+01:55:51,000 --> 01:55:53,000
+I do not want
+
+2508
+01:55:53,000 --> 01:55:55,000
+If I say I only need ten minutes
+
+2509
+01:55:55,000 --> 01:55:56,000
+I can see what he wants
+
+2510
+01:55:56,000 --> 01:55:58,000
+I don't want to let him lay for fifteen minutes
+
+2511
+01:56:00,000 --> 01:56:01,480
+But it can change his
+
+2512
+01:56:01,480 --> 01:56:02,800
+we call integration time
+
+2513
+01:56:02,800 --> 01:56:04,240
+just the time to light up
+
+2514
+01:56:04,240 --> 01:56:05,720
+i open the door
+
+2515
+01:56:05,720 --> 01:56:07,280
+Then I let him keep collecting
+
+2516
+01:56:07,280 --> 01:56:09,240
+until the time i want
+
+2517
+01:56:09,240 --> 01:56:10,480
+then the shutter closes
+
+2518
+01:56:10,480 --> 01:56:11,880
+I read the image
+
+2519
+01:56:11,880 --> 01:56:13,720
+That is to say, in fact
+
+2520
+01:56:13,720 --> 01:56:16,280
+Each observatory has a certain
+
+2521
+01:56:16,280 --> 01:56:17,680
+want to see something
+
+2522
+01:56:17,680 --> 01:56:18,320
+so right
+
+2523
+01:56:18,320 --> 01:56:20,360
+No, it's an astronomer
+
+2524
+01:56:20,360 --> 01:56:21,120
+oh oh oh
+
+2525
+01:56:21,120 --> 01:56:22,920
+It is the observatory. For example, today is me.
+
+2526
+01:56:22,920 --> 01:56:24,120
+then i want to see
+
+2527
+01:56:24,120 --> 01:56:26,520
+Well, let's say 15 signals
+
+2528
+01:56:26,520 --> 01:56:28,720
+Then 15 minutes may be fine.
+
+2529
+01:56:28,880 --> 01:56:29,640
+that in addition
+
+2530
+01:56:29,640 --> 01:56:31,640
+So the whole night is just minute by minute
+
+2531
+01:56:31,640 --> 01:56:32,480
+Um
+
+2532
+01:56:32,480 --> 01:56:34,160
+If I have to wait until 15
+
+2533
+01:56:34,160 --> 01:56:35,880
+Then I keep sending for a minute
+
+2534
+01:56:35,880 --> 01:56:38,280
+then i may my this one
+
+2535
+01:56:38,280 --> 01:56:40,400
+I am in this direction and I want to wait for 15
+
+2536
+01:56:40,400 --> 01:56:41,680
+Then I have to wait 20 in the other direction
+
+2537
+01:56:41,680 --> 01:56:42,600
+then i will
+
+2538
+01:56:42,600 --> 01:56:43,640
+going to change
+
+2539
+01:56:43,640 --> 01:56:46,000
+So I have to do the math in advance
+
+2540
+01:56:46,000 --> 01:56:48,080
+Good thing I'm in this one
+
+2541
+01:56:48,080 --> 01:56:49,640
+Uh, when the observatory knows this direction
+
+2542
+01:56:49,640 --> 01:56:51,240
+how long do i have to lay
+
+2543
+01:56:51,240 --> 01:56:53,920
+Then go to how long you have the angle to lay
+
+2544
+01:56:53,920 --> 01:56:54,880
+in this way
+
+2545
+01:56:54,880 --> 01:56:56,320
+that is to say
+
+2546
+01:56:56,320 --> 01:56:57,440
+if run out
+
+2547
+01:56:57,480 --> 01:56:59,560
+visible light telescope
+
+2548
+01:56:59,560 --> 01:57:00,440
+there is no way
+
+2549
+01:57:00,000 --> 01:57:04,040
+Observing the galaxy between the sun and the earth in France
+
+2550
+01:57:04,040 --> 01:57:05,160
+is not a galaxy
+
+2551
+01:57:05,160 --> 01:57:07,600
+Just like Mercury or something.
+
+2552
+01:57:07,600 --> 01:57:10,600
+Uh, of course because the sun and the earth
+
+2553
+01:57:10,600 --> 01:57:12,440
+The earth revolves around the sun
+
+2554
+01:57:12,440 --> 01:57:15,640
+So what's behind the sun changes
+
+2555
+01:57:15,640 --> 01:57:17,880
+Right, so that means if you use visible light
+
+2556
+01:57:17,880 --> 01:57:21,440
+You can only observe at night, you can only look away
+
+2557
+01:57:21,440 --> 01:57:23,680
+yes yes but because
+
+2558
+01:57:23,680 --> 01:57:26,880
+The earth revolves around the sun
+
+2559
+01:57:26,880 --> 01:57:29,280
+So I can still see in all directions
+
+2560
+01:57:29,280 --> 01:57:30,560
+I think it's a different time of year
+
+2561
+01:57:30,560 --> 01:57:34,160
+I can see the sky in different places
+
+2562
+01:57:34,160 --> 01:57:36,880
+The sun is not always with the earth
+
+2563
+01:57:36,880 --> 01:57:40,720
+pointing in the same direction
+
+2564
+01:57:40,720 --> 01:57:43,420
+Say you are the sun and I am the earth
+
+2565
+01:57:43,420 --> 01:57:45,420
+I'm looking at my back now, right?
+
+2566
+01:57:45,420 --> 01:57:46,680
+i can see this sky now
+
+2567
+01:57:46,680 --> 01:57:49,960
+Then I arrived three months later I look here
+
+2568
+01:57:49,960 --> 01:57:51,360
+I can look over there in three months
+
+2569
+01:57:51,360 --> 01:57:52,120
+Yes, yes, see again
+
+2570
+01:57:52,120 --> 01:57:54,960
+i mean
+
+2571
+01:57:54,960 --> 01:57:58,880
+The galaxies between the sun and the earth
+
+2572
+01:57:58,880 --> 01:57:59,980
+oh those stars
+
+2573
+01:58:00,000 --> 01:58:03,040
+Yes, for example, the southern star is very early or very late
+
+2574
+01:58:03,040 --> 01:58:04,400
+there is still a way
+
+2575
+01:58:05,040 --> 01:58:07,400
+That is, it is at a very small angle from the sun
+
+2576
+01:58:07,700 --> 01:58:09,340
+but that angle is small
+
+2577
+01:58:09,340 --> 01:58:11,640
+Still big on astronomical scales
+
+2578
+01:58:12,100 --> 01:58:13,400
+we can still see
+
+2579
+01:58:13,540 --> 01:58:15,840
+That is, the range usually taken by astronomy is very small.
+
+2580
+01:58:17,040 --> 01:58:18,500
+Yes, like the moon
+
+2581
+01:58:18,500 --> 01:58:20,540
+Let's say the moon is 0.5 degrees
+
+2582
+01:58:20,800 --> 01:58:24,540
+0.5 degrees is already a very wide angle for astronomical observation
+
+2583
+01:58:26,600 --> 01:58:27,540
+Okay, thank you
+
+2584
+01:58:28,540 --> 01:58:29,240
+good
+
+2585
+01:58:29,940 --> 01:58:31,740
+I think I've tuned myself into a play lock
+
+2586
+01:58:31,740 --> 01:58:33,440
+I should study astronomy
+
+2587
+01:58:34,340 --> 01:58:37,140
+Okay, it's about 9 o'clock now
+
+2588
+01:58:37,140 --> 01:58:41,340
+Then thank you, thank you very much, Mr. Wang, today is very exciting
+
+2589
+01:58:41,440 --> 01:58:42,740
+then let's give him a break too
+
+2590
+01:58:42,740 --> 01:58:44,940
+So with our warmest applause
+
+2591
+01:58:44,940 --> 01:58:46,840
+Thank you Wang Xiaoyu Mr. Wang
+
+2592
+01:58:46,840 --> 01:58:47,740
+thank you all
+
+2593
+01:58:47,740 --> 01:58:50,020
+Then I also tell you
+
+2594
+01:58:50,020 --> 01:58:51,140
+announce
+
+2595
+01:58:51,240 --> 01:58:53,340
+that the next speech will be given by
+
+2596
+01:58:53,740 --> 01:58:55,340
+this is a plant
+
+2597
+01:58:55,340 --> 01:58:59,240
+Illumination and researcher at the Institute of Parasitology
+
+2598
+01:58:59,340 --> 01:59:00,040
+he wants to talk
+
+2599
+01:59:00,000 --> 01:59:05,240
+The title of his talk was Exploring the Mysteries of Plant Sexual Reproduction
+
+2600
+01:59:05,240 --> 01:59:08,640
+At that time, I hope everyone can participate enthusiastically
+
+2601
+01:59:08,640 --> 01:59:10,480
+thank you all thank you today
+
+2602
+01:59:10,480 --> 01:59:13,280
+I came here among my king, thank you all
+
+2603
+01:59:13,280 --> 01:59:14,040
+Thanks
+
+2604
+01:59:15,960 --> 01:59:19,080
+Thank you, all the guests, for coming to our popular science lecture today.
+
+2605
+01:59:19,080 --> 01:59:20,560
+to make the event better
+

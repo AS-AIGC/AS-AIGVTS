@@ -1,0 +1,11184 @@
+1
+00:00:00,000 --> 00:00:03,000
+Yoshio nozawa
+
+2
+00:00:30,000 --> 00:00:40,000
+Yoshio nozawa
+
+3
+00:00:41,000 --> 00:00:43,000
+The Central Research Institute's
+
+4
+00:00:43,000 --> 00:00:45,000
+International Research Center for International Studies
+
+5
+00:00:45,000 --> 00:00:46,000
+will begin.
+
+6
+00:00:46,000 --> 00:00:48,000
+Let's welcome Director Wang Yu
+
+7
+00:00:48,000 --> 00:00:50,000
+to give us a round of applause.
+
+8
+00:00:56,000 --> 00:00:58,000
+Good evening, everyone.
+
+9
+00:00:58,000 --> 00:01:00,000
+Let's welcome Director Wang Yu
+
+10
+00:01:00,000 --> 00:01:05,000
+Today we are pleased to invite you to our Earth Institute
+
+11
+00:01:05,000 --> 00:01:08,000
+This special review researcher Dr. Zhao Feng
+
+12
+00:01:08,000 --> 00:01:11,000
+come talk to us
+
+13
+00:01:11,000 --> 00:01:15,000
+Our little friend of the earth, the moon
+
+14
+00:01:15,000 --> 00:01:18,000
+then let me briefly introduce
+
+15
+00:01:18,000 --> 00:01:23,000
+Background information of our presenter today
+
+16
+00:01:23,000 --> 00:01:27,000
+Dr. Zhao was born in Hualien
+
+17
+00:01:27,000 --> 00:01:30,000
+He graduated from the Department of Physics, National Taiwan University.
+
+18
+00:01:30,000 --> 00:01:33,000
+after that in san diego
+
+19
+00:01:33,000 --> 00:01:39,000
+UCCNL gets a Ph.D. in Earth Sciences
+
+20
+00:01:39,000 --> 00:01:43,000
+That's also NASA.
+
+21
+00:01:43,000 --> 00:01:47,000
+many years of service
+
+22
+00:01:47,000 --> 00:01:51,000
+Then in 2006 he
+
+23
+00:01:51,000 --> 00:01:55,000
+That's because Taiwan is running a space agency
+
+24
+00:01:55,000 --> 00:02:00,000
+undertake a large project
+
+25
+00:02:00,000 --> 00:02:05,860
+So we are very happy to have him back
+
+26
+00:02:05,860 --> 00:02:08,560
+He is also at Chuo University
+
+27
+00:02:08,560 --> 00:02:12,300
+Before coming to Academia Sinica
+
+28
+00:02:12,300 --> 00:02:15,840
+He is the Dean of the Faculty of Earth Sciences at Central University
+
+29
+00:02:15,840 --> 00:02:17,600
+for a few years
+
+30
+00:02:17,600 --> 00:02:21,940
+He has been in Academia Sinica for four years
+
+31
+00:02:23,940 --> 00:02:29,100
+Dr. Zhao's expertise is in Earth and planetary dynamics
+
+32
+00:02:29,100 --> 00:02:30,860
+gravity
+
+33
+00:02:30,860 --> 00:02:33,260
+And geophysics, seismology, etc.
+
+34
+00:02:33,260 --> 00:02:40,160
+This is also the research scope of our Earth Institute
+
+35
+00:02:40,160 --> 00:02:44,240
+he is on earth
+
+36
+00:02:44,240 --> 00:02:45,300
+he also does
+
+37
+00:02:45,300 --> 00:02:48,700
+Because of the background I just introduced
+
+38
+00:02:48,700 --> 00:02:52,540
+He also does space vehicle geosciences
+
+39
+00:02:52,540 --> 00:02:57,100
+In terms of research, of course, there is no need to drop the order here
+
+40
+00:02:57,100 --> 00:02:59,340
+But he is invaluable
+
+41
+00:03:00,000 --> 00:03:01,500
+Apart from this research
+
+42
+00:03:01,500 --> 00:03:03,200
+he also for
+
+43
+00:03:03,200 --> 00:03:06,380
+I think there is a scientist in China
+
+44
+00:03:06,380 --> 00:03:09,500
+It is the Chinese version of Scientific American
+
+45
+00:03:10,080 --> 00:03:14,500
+Often write Chinese articles there
+
+46
+00:03:15,000 --> 00:03:19,500
+Also published a book on the ancient and modern world between heaven and earth
+
+47
+00:03:19,500 --> 00:03:23,640
+If you are interested in his speech
+
+48
+00:03:23,640 --> 00:03:27,380
+What we can look forward to in the future is the scientific people
+
+49
+00:03:27,380 --> 00:03:28,880
+He also often writes
+
+50
+00:03:29,760 --> 00:03:31,260
+Okay then I'll stop talking nonsense
+
+51
+00:03:31,260 --> 00:03:37,880
+Please listen carefully to this moon
+
+52
+00:03:44,760 --> 00:03:45,880
+Is this sound okay?
+
+53
+00:03:45,880 --> 00:03:46,420
+Can
+
+54
+00:03:46,420 --> 00:03:47,560
+sure
+
+55
+00:03:47,560 --> 00:03:48,880
+Thank you Vice President
+
+56
+00:03:49,520 --> 00:03:53,260
+Just now the vice president mentioned that those are research expertise
+
+57
+00:03:53,260 --> 00:03:56,960
+Of course he's really good at storytelling over here.
+
+58
+00:03:56,960 --> 00:03:59,960
+Today is
+
+59
+00:04:00,000 --> 00:04:03,000
+Today is Uncle Zhao telling a story
+
+60
+00:04:05,000 --> 00:04:12,000
+Today we're on a meet-the-neighbors tour
+
+61
+00:04:12,000 --> 00:04:15,000
+This neighbor is our neighbor
+
+62
+00:04:15,000 --> 00:04:16,000
+moon
+
+63
+00:04:16,000 --> 00:04:19,000
+We all know this neighbor
+
+64
+00:04:19,000 --> 00:04:23,000
+Every day actually you have the chance to see him
+
+65
+00:04:23,000 --> 00:04:26,000
+But thousands of years of human civilization have seen thousands of years
+
+66
+00:04:26,000 --> 00:04:29,000
+I really don't know him
+
+67
+00:04:29,000 --> 00:04:31,000
+until recently so to speak
+
+68
+00:04:31,000 --> 00:04:35,000
+Only after the development of science did we slowly understand him
+
+69
+00:04:35,000 --> 00:04:37,000
+Today I will of course talk in depth
+
+70
+00:04:37,000 --> 00:04:39,000
+things we already know
+
+71
+00:04:39,000 --> 00:04:42,000
+But it's really just fur
+
+72
+00:04:42,000 --> 00:04:43,000
+real
+
+73
+00:04:43,000 --> 00:04:46,000
+We can really say that we are to our neighbors
+
+74
+00:04:46,000 --> 00:04:49,000
+I still don't know
+
+75
+00:04:51,000 --> 00:04:53,000
+let's take a look
+
+76
+00:04:55,000 --> 00:04:57,000
+Everyone see me here
+
+77
+00:04:57,000 --> 00:04:59,000
+actually asked a lot of questions
+
+78
+00:04:59,000 --> 00:05:01,000
+i hope i have time
+
+79
+00:05:00,000 --> 00:05:02,960
+Can cover these problems
+
+80
+00:05:02,960 --> 00:05:07,200
+Some questions are not easy to ask
+
+81
+00:05:07,200 --> 00:05:09,040
+Because really we know so little
+
+82
+00:05:11,760 --> 00:05:13,800
+This is what we are all familiar with
+
+83
+00:05:13,800 --> 00:05:15,600
+the moon looks like this
+
+84
+00:05:15,600 --> 00:05:18,640
+After a whole month's cycle
+
+85
+00:05:18,640 --> 00:05:20,760
+We can see this before and after
+
+86
+00:05:20,760 --> 00:05:23,200
+if there is no cloud
+
+87
+00:05:23,200 --> 00:05:27,200
+It can be said that we only know
+
+88
+00:05:27,200 --> 00:05:28,600
+only see its ID
+
+89
+00:05:28,600 --> 00:05:31,400
+we don't really understand it
+
+90
+00:05:31,400 --> 00:05:33,600
+This can be obtained from
+
+91
+00:05:33,600 --> 00:05:35,160
+I'll be back here later
+
+92
+00:05:35,160 --> 00:05:38,840
+Our understanding of the moon from the ancients
+
+93
+00:05:38,840 --> 00:05:41,160
+you can help it imagine
+
+94
+00:05:41,160 --> 00:05:43,560
+Really, actually, I feel full
+
+95
+00:05:43,560 --> 00:05:45,760
+I feel sympathy for the ancients
+
+96
+00:05:45,760 --> 00:05:46,760
+they really don't know
+
+97
+00:05:46,760 --> 00:05:48,600
+what's going on in this world
+
+98
+00:05:48,600 --> 00:05:49,600
+then we now think
+
+99
+00:05:49,600 --> 00:05:51,400
+Primary school textbooks tell us
+
+100
+00:05:51,400 --> 00:05:52,840
+But the ancients really didn't know
+
+101
+00:05:52,840 --> 00:05:54,600
+They are the moon that sees the sun
+
+102
+00:05:54,600 --> 00:05:56,960
+Cycle like this every day for centuries
+
+103
+00:05:56,960 --> 00:05:59,920
+He really doesn't know what's going on
+
+104
+00:06:00,000 --> 00:06:02,500
+The same should be true for the moon
+
+105
+00:06:02,500 --> 00:06:04,300
+to the ancients
+
+106
+00:06:04,300 --> 00:06:09,900
+Ours is in the poetry, in the legend
+
+107
+00:06:09,900 --> 00:06:12,100
+And these cosmology legislation
+
+108
+00:06:12,100 --> 00:06:14,200
+all have the shadow of the moon
+
+109
+00:06:14,200 --> 00:06:18,600
+But it's just a superficial impression
+
+110
+00:06:18,600 --> 00:06:22,500
+So of course this is over
+
+111
+00:06:22,500 --> 00:06:26,700
+this meeting
+
+112
+00:06:26,700 --> 00:06:28,300
+another example
+
+113
+00:06:28,300 --> 00:06:30,400
+For example, in the Yijing
+
+114
+00:06:30,400 --> 00:06:34,800
+These universal philosophies that everyone is familiar with
+
+115
+00:06:34,800 --> 00:06:36,600
+two of them
+
+116
+00:06:36,600 --> 00:06:40,100
+The moon is one of the two instruments of nutrition
+
+117
+00:06:40,100 --> 00:06:45,700
+This is when we used to try to understand these things
+
+118
+00:06:45,700 --> 00:06:47,700
+invented some
+
+119
+00:06:47,700 --> 00:06:49,600
+we know it's not true
+
+120
+00:06:49,600 --> 00:06:56,800
+not scientifically correct ideas
+
+121
+00:06:56,900 --> 00:06:58,900
+We are now going to look at it from a scientific point of view
+
+122
+00:06:58,900 --> 00:07:00,100
+when our neighbor
+
+123
+00:07:00,000 --> 00:07:05,000
+The first thing to actually ask is that we just call it the moon.
+
+124
+00:07:05,000 --> 00:07:07,000
+you know it's a ball
+
+125
+00:07:07,000 --> 00:07:09,000
+In fact, I really want to ask why is it a ball?
+
+126
+00:07:09,000 --> 00:07:11,000
+Do you think this will be a problem?
+
+127
+00:07:11,000 --> 00:07:12,000
+Isn't the earth also a ball?
+
+128
+00:07:12,000 --> 00:07:14,000
+Isn't the sun also a ball?
+
+129
+00:07:14,000 --> 00:07:16,000
+yes these things are balls
+
+130
+00:07:16,000 --> 00:07:19,000
+Actually, one physics question we can really ask is
+
+131
+00:07:19,000 --> 00:07:22,000
+why is this stuff a ball
+
+132
+00:07:22,000 --> 00:07:27,000
+There's actually a lot of physics behind this.
+
+133
+00:07:28,000 --> 00:07:31,000
+I point it out just to say
+
+134
+00:07:31,000 --> 00:07:35,000
+when we really want to understand this neighbor
+
+135
+00:07:35,000 --> 00:07:40,000
+We don't even know what it looks like
+
+136
+00:07:40,000 --> 00:07:41,000
+don't know why
+
+137
+00:07:41,000 --> 00:07:43,000
+It's all taken for granted
+
+138
+00:07:43,000 --> 00:07:45,000
+Is it a matter of course?
+
+139
+00:07:45,000 --> 00:07:47,000
+because in the solar system
+
+140
+00:07:47,000 --> 00:07:50,000
+there are many smaller things
+
+141
+00:07:50,000 --> 00:07:52,000
+The so-called small these few examples
+
+142
+00:07:52,000 --> 00:07:56,000
+For example, there is a little star
+
+143
+00:07:56,000 --> 00:08:00,000
+This is a photo taken with a real small spaceship
+
+144
+00:08:00,000 --> 00:08:02,420
+or the moon of mars
+
+145
+00:08:02,420 --> 00:08:04,120
+Mars has two small moons
+
+146
+00:08:04,120 --> 00:08:06,000
+one of them looks like this
+
+147
+00:08:06,000 --> 00:08:07,120
+this is very small
+
+148
+00:08:07,120 --> 00:08:09,520
+It's about tens of kilometers in size.
+
+149
+00:08:09,520 --> 00:08:12,800
+Such a thing is really not round.
+
+150
+00:08:12,800 --> 00:08:15,520
+We say a circle is not a ball
+
+151
+00:08:15,520 --> 00:08:18,160
+This little thing is really not a ball
+
+152
+00:08:18,160 --> 00:08:19,860
+That is to say, in Sun Creek
+
+153
+00:08:19,860 --> 00:08:21,000
+or in this universe
+
+154
+00:08:21,000 --> 00:08:23,920
+when something comes together
+
+155
+00:08:23,920 --> 00:08:27,560
+Only when it is large enough will it become spherical
+
+156
+00:08:27,560 --> 00:08:29,400
+the moon is big enough
+
+157
+00:08:29,560 --> 00:08:32,200
+Something about a few hundred kilometers will probably
+
+158
+00:08:32,200 --> 00:08:33,360
+something this big
+
+159
+00:08:33,360 --> 00:08:35,760
+It will probably naturally become spherical
+
+160
+00:08:35,760 --> 00:08:38,800
+The reason behind that is actually very simple
+
+161
+00:08:38,800 --> 00:08:42,640
+It's the same as water flowing downhill.
+
+162
+00:08:42,640 --> 00:08:46,000
+lowest failure state
+
+163
+00:08:46,000 --> 00:08:47,240
+This is what it means
+
+164
+00:08:47,240 --> 00:08:51,200
+It has turned into this tree in one fell swoop and the rain comes out
+
+165
+00:08:51,200 --> 00:08:54,360
+I'm the reason behind this
+
+166
+00:08:54,360 --> 00:08:56,320
+That is to say you see the sun as a ball
+
+167
+00:08:56,320 --> 00:08:58,600
+The moon is a ball, the earth and we are also balls
+
+168
+00:08:58,600 --> 00:08:59,960
+In fact, behind
+
+169
+00:09:00,000 --> 00:09:01,000
+physical reason
+
+170
+00:09:01,000 --> 00:09:02,000
+it's just saying
+
+171
+00:09:02,000 --> 00:09:04,000
+point out one
+
+172
+00:09:04,000 --> 00:09:07,000
+things we take for granted
+
+173
+00:09:07,000 --> 00:09:09,000
+It's not a matter of course
+
+174
+00:09:09,000 --> 00:09:12,000
+ok let's move on to some
+
+175
+00:09:12,000 --> 00:09:16,000
+related to the moon
+
+176
+00:09:16,000 --> 00:09:18,000
+just on the surface we can
+
+177
+00:09:18,000 --> 00:09:21,000
+Some interesting phenomena observed
+
+178
+00:09:21,000 --> 00:09:23,000
+I'll go into it later and talk about some comparisons
+
+179
+00:09:23,000 --> 00:09:26,000
+A more in-depth understanding later
+
+180
+00:09:26,000 --> 00:09:29,000
+Let me tell you one
+
+181
+00:09:29,000 --> 00:09:31,000
+I want to spend a few minutes on this
+
+182
+00:09:31,000 --> 00:09:34,000
+Tell everyone this long-winded
+
+183
+00:09:34,000 --> 00:09:36,000
+our this
+
+184
+00:09:36,000 --> 00:09:39,000
+The so-called force in life
+
+185
+00:09:39,000 --> 00:09:41,000
+Whether it is the calendar
+
+186
+00:09:41,000 --> 00:09:42,000
+powerful anyway
+
+187
+00:09:42,000 --> 00:09:44,000
+This thing is done in units of years
+
+188
+00:09:44,000 --> 00:09:45,000
+we all know
+
+189
+00:09:45,000 --> 00:09:46,000
+There is a so-called Gregorian calendar
+
+190
+00:09:46,000 --> 00:09:50,000
+There is a so-called lunar calendar
+
+191
+00:09:50,000 --> 00:09:53,000
+The Gregorian calendar follows the sun
+
+192
+00:09:53,000 --> 00:09:54,000
+according to the sun
+
+193
+00:09:54,000 --> 00:09:57,000
+We are all familiar with this force by now
+
+194
+00:09:57,000 --> 00:09:58,000
+is the power of the sun
+
+195
+00:09:58,000 --> 00:10:00,000
+Something to do with the moon
+
+196
+00:10:00,000 --> 00:10:01,000
+nothing
+
+197
+00:10:01,700 --> 00:10:03,100
+it really doesn't matter at all
+
+198
+00:10:03,100 --> 00:10:05,600
+For example we are in
+
+199
+00:10:06,040 --> 00:10:08,760
+This is like the old days
+
+200
+00:10:08,760 --> 00:10:11,100
+A kind of traditional society will use
+
+201
+00:10:11,100 --> 00:10:13,300
+one of determination
+
+202
+00:10:13,640 --> 00:10:16,140
+One way is called two-style solar term
+
+203
+00:10:16,140 --> 00:10:17,140
+right
+
+204
+00:10:17,740 --> 00:10:19,840
+I might give you this now
+
+205
+00:10:19,840 --> 00:10:20,840
+this self
+
+206
+00:10:20,840 --> 00:10:22,840
+ask yourself this
+
+207
+00:10:23,900 --> 00:10:25,260
+See the second type of solar term
+
+208
+00:10:25,260 --> 00:10:27,460
+Do you think it's positive or negative?
+
+209
+00:10:28,460 --> 00:10:31,160
+This is actually going to
+
+210
+00:10:31,160 --> 00:10:32,860
+Now you have to define what Yang Li is
+
+211
+00:10:32,860 --> 00:10:34,360
+what is yin force
+
+212
+00:10:35,160 --> 00:10:36,660
+I'm talking about Yangli now
+
+213
+00:10:36,660 --> 00:10:38,260
+we usually get that day
+
+214
+00:10:38,260 --> 00:10:40,460
+The moon force is the yang force
+
+215
+00:10:40,460 --> 00:10:43,660
+And you know the day is fixed by the sun
+
+216
+00:10:43,660 --> 00:10:44,460
+right
+
+217
+00:10:44,460 --> 00:10:46,660
+one day to the next one day to the next
+
+218
+00:10:46,660 --> 00:10:48,360
+It's natural that it takes a day
+
+219
+00:10:48,360 --> 00:10:49,460
+use the sun
+
+220
+00:10:49,460 --> 00:10:51,060
+Does it have nothing to do with the moon?
+
+221
+00:10:51,060 --> 00:10:52,560
+such a force
+
+222
+00:10:53,060 --> 00:10:54,560
+Yangli
+
+223
+00:10:54,560 --> 00:10:56,360
+The second type of solar terms is Yin force
+
+224
+00:10:56,460 --> 00:10:58,260
+Is it really Yangli?
+
+225
+00:10:59,560 --> 00:11:00,160
+the answer is
+
+226
+00:11:00,000 --> 00:11:04,000
+Because you need to know the function of the 24 solar terms
+
+227
+00:11:04,000 --> 00:11:06,000
+it actually puts the sun
+
+228
+00:11:06,000 --> 00:11:09,000
+We orbit the sun more than 365 days
+
+229
+00:11:09,000 --> 00:11:11,000
+Divide that day into 24 parts
+
+230
+00:11:11,000 --> 00:11:14,000
+Each one is about 15 days more like this
+
+231
+00:11:14,000 --> 00:11:16,000
+That's it
+
+232
+00:11:16,000 --> 00:11:17,000
+it divides the year
+
+233
+00:11:17,000 --> 00:11:19,000
+This has nothing to do with the moon
+
+234
+00:11:19,000 --> 00:11:20,000
+right
+
+235
+00:11:20,000 --> 00:11:24,000
+Look at these words in these 24 solar terms
+
+236
+00:11:24,000 --> 00:11:25,000
+you can also see
+
+237
+00:11:25,000 --> 00:11:28,000
+It's full of temperature effects
+
+238
+00:11:28,000 --> 00:11:30,000
+The effect of humidity
+
+239
+00:11:30,000 --> 00:11:32,000
+Effect of sunlight
+
+240
+00:11:32,000 --> 00:11:35,000
+Relationship to the middle of the sun's orbit
+
+241
+00:11:35,000 --> 00:11:39,000
+None of the words have anything to do with the moon
+
+242
+00:11:39,000 --> 00:11:41,000
+one more you can know
+
+243
+00:11:41,000 --> 00:11:43,000
+In fact, all you know is
+
+244
+00:11:43,000 --> 00:11:45,000
+these solar terms
+
+245
+00:11:45,000 --> 00:11:48,000
+The month and date are the same every year
+
+246
+00:11:48,000 --> 00:11:50,000
+it didn't run around
+
+247
+00:11:50,000 --> 00:11:51,000
+For example, tomb-sweeping day
+
+248
+00:11:51,000 --> 00:11:53,000
+April 4th or 5th
+
+249
+00:11:53,000 --> 00:11:55,000
+there is a new day
+
+250
+00:11:55,000 --> 00:11:58,000
+because our days have no years
+
+251
+00:11:58,000 --> 00:12:00,000
+That day beats a little bit
+
+252
+00:12:00,000 --> 00:12:02,000
+basically it's the same day
+
+253
+00:12:02,000 --> 00:12:06,000
+All these solar term days are on the calendar
+
+254
+00:12:06,000 --> 00:12:08,000
+It's the same day every year
+
+255
+00:12:08,000 --> 00:12:11,000
+Does this already tell you that this is the Gregorian calendar?
+
+256
+00:12:11,000 --> 00:12:14,000
+Because the moon doesn't matter, right?
+
+257
+00:12:14,000 --> 00:12:18,000
+even if you think about it
+
+258
+00:12:18,000 --> 00:12:20,000
+What is the purpose of thrift
+
+259
+00:12:20,000 --> 00:12:21,000
+actually an agricultural society
+
+260
+00:12:21,000 --> 00:12:23,000
+He wants to know me every year
+
+261
+00:12:23,000 --> 00:12:26,000
+what time do you want to do
+
+262
+00:12:26,000 --> 00:12:28,000
+what you do is agriculture
+
+263
+00:12:28,000 --> 00:12:32,000
+That agriculture has nothing to do with the moon
+
+264
+00:12:32,000 --> 00:12:33,000
+right
+
+265
+00:12:33,000 --> 00:12:37,000
+You have to completely follow the law of the sun
+
+266
+00:12:37,000 --> 00:12:39,000
+to farm
+
+267
+00:12:39,000 --> 00:12:41,000
+you survive
+
+268
+00:12:41,000 --> 00:12:43,000
+If you use what moon
+
+269
+00:12:43,000 --> 00:12:44,000
+Cloudy and sunny
+
+270
+00:12:44,000 --> 00:12:48,000
+If you plant, do your farming
+
+271
+00:12:48,000 --> 00:12:51,000
+You'll be almost 20 in a few years
+
+272
+00:12:51,000 --> 00:12:53,000
+because the time is wrong
+
+273
+00:12:53,000 --> 00:12:56,000
+If you look at it from this angle
+
+274
+00:12:58,000 --> 00:12:59,000
+Calendar
+
+275
+00:13:00,000 --> 00:13:04,400
+It's Nongli
+
+276
+00:13:04,400 --> 00:13:08,700
+I'm not wrong, there shouldn't be
+
+277
+00:13:08,700 --> 00:13:10,900
+Really, if you want to do farming
+
+278
+00:13:10,900 --> 00:13:13,100
+don't think about the moon
+
+279
+00:13:13,100 --> 00:13:15,900
+you really have to follow the sun
+
+280
+00:13:15,900 --> 00:13:18,600
+All these things follow the sun
+
+281
+00:13:18,600 --> 00:13:21,200
+That is to say, even without the moon
+
+282
+00:13:21,200 --> 00:13:23,100
+this is still right
+
+283
+00:13:23,100 --> 00:13:26,100
+So how does this follow
+
+284
+00:13:26,100 --> 00:13:28,800
+anything to do with the moon
+
+285
+00:13:28,800 --> 00:13:31,100
+Does it have something to do with sound?
+
+286
+00:13:31,100 --> 00:13:33,100
+Absolutely not
+
+287
+00:13:33,100 --> 00:13:35,200
+So this is Yangli
+
+288
+00:13:35,200 --> 00:13:40,000
+Then don't we really have something called sound power?
+
+289
+00:13:42,000 --> 00:13:45,000
+Do you know what Nongli and Yangli are?
+
+290
+00:13:45,000 --> 00:13:46,800
+Of course we have the so-called sound
+
+291
+00:13:46,800 --> 00:13:50,400
+Sound itself doesn't really matter.
+
+292
+00:13:50,400 --> 00:13:53,000
+It's just a fun and a convenience
+
+293
+00:13:53,000 --> 00:13:56,800
+Do you remember when the moon was full last month
+
+294
+00:13:56,800 --> 00:13:58,100
+Actually the moon is full again
+
+295
+00:13:58,100 --> 00:13:59,900
+you just have this
+
+296
+00:14:00,000 --> 00:14:00,760
+there is such a rule
+
+297
+00:14:00,760 --> 00:14:03,860
+Actually it's not doing anything
+
+298
+00:14:03,860 --> 00:14:08,000
+Unless you are some aquatic creature by the sea
+
+299
+00:14:08,000 --> 00:14:13,300
+to do your life cycles according to the tides and stuff like that
+
+300
+00:14:13,300 --> 00:14:14,340
+or you don't
+
+301
+00:14:14,340 --> 00:14:16,700
+appointment has nothing to do with you
+
+302
+00:14:16,700 --> 00:14:18,700
+So that's a chestnut
+
+303
+00:14:18,700 --> 00:14:22,000
+We know of some very conscious
+
+304
+00:14:22,000 --> 00:14:23,660
+like three verses, right?
+
+305
+00:14:23,660 --> 00:14:25,740
+that's a chestnut
+
+306
+00:14:25,740 --> 00:14:28,060
+That's why
+
+307
+00:14:28,060 --> 00:14:30,220
+you are using the legislation of the chestnut
+
+308
+00:14:30,220 --> 00:14:32,560
+inside that stand
+
+309
+00:14:32,560 --> 00:14:33,420
+These chestnuts
+
+310
+00:14:33,420 --> 00:14:36,120
+You know it's different every year, right?
+
+311
+00:14:36,120 --> 00:14:38,320
+because it is not chestnut
+
+312
+00:14:38,320 --> 00:14:39,360
+the ancient people
+
+313
+00:14:39,360 --> 00:14:40,600
+or now you get
+
+314
+00:14:40,600 --> 00:14:42,360
+Is there any so-called peasant power?
+
+315
+00:14:42,360 --> 00:14:45,160
+it is counted in black chestnut
+
+316
+00:14:45,160 --> 00:14:47,000
+so it becomes saying
+
+317
+00:14:47,000 --> 00:14:49,700
+The knotter is jumping up and down on that stand
+
+318
+00:14:49,700 --> 00:14:51,460
+different every year
+
+319
+00:14:51,460 --> 00:14:53,160
+Because the two stand cannot be combined
+
+320
+00:14:53,160 --> 00:14:55,320
+Because this is not an integer multiple
+
+321
+00:14:55,380 --> 00:14:58,220
+you will definitely be jumping around
+
+322
+00:14:58,220 --> 00:14:59,220
+so this
+
+323
+00:14:59,220 --> 00:15:00,220
+I put this first
+
+324
+00:15:00,000 --> 00:15:07,200
+Let me remind you of the role of the moon in this
+
+325
+00:15:07,200 --> 00:15:07,900
+really so
+
+326
+00:15:07,900 --> 00:15:09,300
+For example, when we talk about the Lunar New Year
+
+327
+00:15:09,300 --> 00:15:13,300
+In fact, the word does not seem to be wrong
+
+328
+00:15:13,300 --> 00:15:15,700
+Is January 1st the lunar year?
+
+329
+00:15:15,700 --> 00:15:17,700
+Because it's the lunar calendar?
+
+330
+00:15:17,700 --> 00:15:18,900
+Is the lunar calendar the solar calendar?
+
+331
+00:15:18,900 --> 00:15:23,700
+When we talk about the lunar year, we actually talk about the lunar year
+
+332
+00:15:23,700 --> 00:15:26,700
+this is just a thought
+
+333
+00:15:26,700 --> 00:15:29,700
+There is indeed such a
+
+334
+00:15:29,700 --> 00:15:32,100
+can be fun
+
+335
+00:15:32,100 --> 00:15:33,300
+here
+
+336
+00:15:33,300 --> 00:15:36,500
+We are still looking at some of the moon
+
+337
+00:15:36,500 --> 00:15:39,700
+some of what we can see
+
+338
+00:15:39,700 --> 00:15:41,800
+some interesting things on the surface
+
+339
+00:15:41,800 --> 00:15:43,000
+you will notice this heaven
+
+340
+00:15:43,000 --> 00:15:44,900
+There are two eyes and a smiley face
+
+341
+00:15:44,900 --> 00:15:47,300
+Do you remember this day?
+
+342
+00:15:47,300 --> 00:15:51,800
+Photos taken on December 2, 2008
+
+343
+00:15:51,800 --> 00:15:55,700
+This is when the sun is going down
+
+344
+00:15:55,700 --> 00:15:57,100
+Of course it's Crystal
+
+345
+00:15:57,100 --> 00:15:59,700
+This is the lunar calendar and I ran to this position
+
+346
+00:16:00,000 --> 00:16:03,620
+That day, this day, this time, here
+
+347
+00:16:03,620 --> 00:16:08,920
+Isn't it a lot of fun to have a cartoon performance here
+
+348
+00:16:10,260 --> 00:16:11,820
+let's pay attention
+
+349
+00:16:11,820 --> 00:16:13,620
+when you see the moon
+
+350
+00:16:13,620 --> 00:16:15,820
+This is Yueya we saw
+
+351
+00:16:15,820 --> 00:16:16,820
+because the sun is here
+
+352
+00:16:16,820 --> 00:16:19,220
+So there's no problem with the light here
+
+353
+00:16:19,220 --> 00:16:21,300
+In fact, it seems that there are also
+
+354
+00:16:21,300 --> 00:16:24,560
+The places that are not illuminated are not illuminated
+
+355
+00:16:24,560 --> 00:16:26,460
+Look closely, there seems to be something
+
+356
+00:16:27,300 --> 00:16:27,900
+right
+
+357
+00:16:27,900 --> 00:16:31,100
+I'm sure someone has this experience every day.
+
+358
+00:16:31,100 --> 00:16:34,320
+Take a closer look at the time when the weather is clean
+
+359
+00:16:34,320 --> 00:16:36,320
+When you look at Yueya
+
+360
+00:16:36,320 --> 00:16:41,820
+It seems that the audio and video can also see the whole moon
+
+361
+00:16:41,820 --> 00:16:43,320
+This is in the photo
+
+362
+00:16:43,320 --> 00:16:45,360
+Because it can be exposed to light for a longer time
+
+363
+00:16:45,360 --> 00:16:47,060
+see more clearly
+
+364
+00:16:47,060 --> 00:16:49,320
+Let me show you another example
+
+365
+00:16:52,560 --> 00:16:54,360
+This is also in the photo
+
+366
+00:16:54,360 --> 00:16:55,200
+take longer
+
+367
+00:16:55,200 --> 00:16:57,860
+It really seems like the sun is shining here
+
+368
+00:16:57,860 --> 00:16:59,120
+Not here at all
+
+369
+00:16:59,120 --> 00:17:00,000
+but here it seems
+
+370
+00:17:00,000 --> 00:17:02,000
+But it's bright anyway
+
+371
+00:17:02,000 --> 00:17:03,640
+faintly visible
+
+372
+00:17:03,640 --> 00:17:05,480
+This is a clearer example
+
+373
+00:17:05,480 --> 00:17:08,240
+this is not the full moon
+
+374
+00:17:08,240 --> 00:17:11,840
+Sputnik
+
+375
+00:17:11,840 --> 00:17:14,520
+It was taken from the spaceship
+
+376
+00:17:14,520 --> 00:17:16,280
+dark side of the moon
+
+377
+00:17:16,280 --> 00:17:20,480
+This moment is when it shines on the dark side of the moon
+
+378
+00:17:20,480 --> 00:17:24,000
+That is to say, when the sun actually shines on Naimian
+
+379
+00:17:24,000 --> 00:17:26,800
+I can actually see it glowing
+
+380
+00:17:26,800 --> 00:17:28,400
+This is actually
+
+381
+00:17:28,400 --> 00:17:29,600
+i think a lot
+
+382
+00:17:29,600 --> 00:17:33,400
+Everyone has this experience
+
+383
+00:17:33,400 --> 00:17:36,680
+This is actually called a ground photo
+
+384
+00:17:36,680 --> 00:17:37,760
+is the earth
+
+385
+00:17:37,760 --> 00:17:41,000
+This is light bouncing several times
+
+386
+00:17:41,000 --> 00:17:44,400
+The sun shines directly on the bright side of the moon
+
+387
+00:17:44,400 --> 00:17:45,480
+yes
+
+388
+00:17:45,480 --> 00:17:46,880
+it can't see this side
+
+389
+00:17:46,880 --> 00:17:50,000
+But why is this side slightly brighter?
+
+390
+00:17:50,000 --> 00:17:54,400
+It's the sun's light that shines on the earth
+
+391
+00:17:54,400 --> 00:17:56,880
+the earth reflects it back
+
+392
+00:17:56,880 --> 00:17:58,320
+brighten it up
+
+393
+00:17:58,320 --> 00:18:00,320
+Then the reflected light
+
+394
+00:18:00,000 --> 00:18:02,400
+reflected back into your eyes
+
+395
+00:18:02,400 --> 00:18:05,000
+Or the one seen in the machine
+
+396
+00:18:05,000 --> 00:18:05,800
+very interesting
+
+397
+00:18:05,800 --> 00:18:07,800
+Light and shadow have gone several times
+
+398
+00:18:07,800 --> 00:18:09,800
+I can still vaguely see it
+
+399
+00:18:09,800 --> 00:18:11,500
+this is not your illusion
+
+400
+00:18:11,500 --> 00:18:12,900
+is really there
+
+401
+00:18:12,900 --> 00:18:16,000
+Taiwan has relatively humid air
+
+402
+00:18:16,000 --> 00:18:17,400
+when you see this phenomenon
+
+403
+00:18:17,400 --> 00:18:20,400
+not many
+
+404
+00:18:23,100 --> 00:18:24,300
+OK there are still some phenomena
+
+405
+00:18:24,300 --> 00:18:28,300
+probably more or less familiar
+
+406
+00:18:28,800 --> 00:18:30,200
+date and time
+
+407
+00:18:30,200 --> 00:18:31,700
+one thing is very interesting
+
+408
+00:18:31,700 --> 00:18:33,600
+yes it's a coincidence
+
+409
+00:18:33,600 --> 00:18:37,900
+It is the moon and the sun in our sky
+
+410
+00:18:37,900 --> 00:18:39,200
+Of course the sun is big
+
+411
+00:18:39,200 --> 00:18:41,400
+but the sun is far away
+
+412
+00:18:41,400 --> 00:18:43,400
+But to observers on Earth
+
+413
+00:18:43,400 --> 00:18:45,200
+these two circles
+
+414
+00:18:45,200 --> 00:18:47,000
+almost as big
+
+415
+00:18:47,000 --> 00:18:49,000
+sometimes a little farther a little closer
+
+416
+00:18:49,000 --> 00:18:50,000
+will be big
+
+417
+00:18:50,000 --> 00:18:52,100
+that's basically the same size as it really is
+
+418
+00:18:52,100 --> 00:18:54,500
+it's a coincidence
+
+419
+00:18:54,500 --> 00:18:57,100
+That's why if you encounter
+
+420
+00:19:00,000 --> 00:19:03,580
+Just enough to cover the whole land from the sun
+
+421
+00:19:03,580 --> 00:19:05,440
+Sometimes the distance is slightly worse
+
+422
+00:19:05,440 --> 00:19:07,440
+it will be slightly smaller
+
+423
+00:19:07,440 --> 00:19:10,440
+more and more more and more real
+
+424
+00:19:10,440 --> 00:19:15,940
+This is very obvious to tell you this coincidence
+
+425
+00:19:15,940 --> 00:19:19,240
+At this distance on Earth these two things appear
+
+426
+00:19:19,240 --> 00:19:21,240
+It's really as big as a conspiracy
+
+427
+00:19:21,240 --> 00:19:22,740
+Here is an example
+
+428
+00:19:22,740 --> 00:19:25,240
+If seen from space
+
+429
+00:19:25,240 --> 00:19:27,600
+this is earth
+
+430
+00:19:27,600 --> 00:19:32,800
+This is the astronaut on the International Space Station
+
+431
+00:19:32,800 --> 00:19:37,800
+Full time of a day captured by a camera
+
+432
+00:19:37,800 --> 00:19:40,300
+an image on earth
+
+433
+00:19:40,300 --> 00:19:41,300
+a shadow
+
+434
+00:19:41,300 --> 00:19:45,800
+In other words, this black lump is the shadow of the moon.
+
+435
+00:19:45,800 --> 00:19:48,500
+That is to say, the people in this
+
+436
+00:19:48,500 --> 00:19:53,300
+When I looked up to the sky, I saw this
+
+437
+00:19:53,300 --> 00:19:55,500
+This is because the earth is also rotating
+
+438
+00:19:55,600 --> 00:19:57,600
+The moon is running, the sun is running too
+
+439
+00:19:57,600 --> 00:20:00,800
+This shadow is of course in the net mother's
+
+440
+00:20:00,000 --> 00:20:02,000
+direction is moving fast
+
+441
+00:20:03,440 --> 00:20:06,440
+So someone at a certain location will see
+
+442
+00:20:06,940 --> 00:20:09,940
+The moon is here to block the out of tune
+
+443
+00:20:10,700 --> 00:20:13,700
+that is to say on earth
+
+444
+00:20:14,240 --> 00:20:17,740
+Who is the person who sees the moon and sun?
+
+445
+00:20:17,740 --> 00:20:19,740
+people in this strip
+
+446
+00:20:20,240 --> 00:20:22,040
+I don't know where this is going at this time
+
+447
+00:20:22,040 --> 00:20:24,040
+Call this strip something like this
+
+448
+00:20:24,040 --> 00:20:26,040
+people down here look up
+
+449
+00:20:26,340 --> 00:20:28,340
+then you will see this
+
+450
+00:20:28,340 --> 00:20:31,340
+This is what we look at from another angle
+
+451
+00:20:31,840 --> 00:20:33,840
+This thing I think everyone compares
+
+452
+00:20:34,340 --> 00:20:36,340
+In fact, everyone understands
+
+453
+00:20:36,340 --> 00:20:38,340
+just bring it
+
+454
+00:20:39,340 --> 00:20:41,340
+recall
+
+455
+00:20:44,340 --> 00:20:45,340
+OK
+
+456
+00:20:46,340 --> 00:20:48,340
+This is a fast motion video
+
+457
+00:20:49,340 --> 00:20:50,340
+that's one month
+
+458
+00:20:50,340 --> 00:20:52,340
+like this for a month
+
+459
+00:20:52,340 --> 00:20:54,340
+I miss everyone
+
+460
+00:20:54,340 --> 00:20:58,340
+It can be said that I have seen too much, right?
+
+461
+00:21:00,000 --> 00:21:07,000
+But when you slow down, maybe you see something that you don't normally notice
+
+462
+00:21:07,000 --> 00:21:11,000
+For example, what was your first feeling when you saw this
+
+463
+00:21:11,000 --> 00:21:14,000
+Of course, we all understand the ups and downs.
+
+464
+00:21:14,000 --> 00:21:18,000
+Why does it seem to be dangling?
+
+465
+00:21:18,000 --> 00:21:21,000
+this dangling is not it dangling
+
+466
+00:21:21,000 --> 00:21:24,000
+because when we were on earth
+
+467
+00:21:24,000 --> 00:21:27,000
+Did you know it's orbiting the earth?
+
+468
+00:21:27,000 --> 00:21:31,000
+The orbit around this one is not a circle, it's an earth circle.
+
+469
+00:21:31,000 --> 00:21:33,000
+It's a little earthy round
+
+470
+00:21:33,000 --> 00:21:36,000
+This is known to oil lamp mechanics
+
+471
+00:21:36,000 --> 00:21:38,000
+If the orbit is round
+
+472
+00:21:38,000 --> 00:21:41,000
+How can it be a little slower when you are far away?
+
+473
+00:21:41,000 --> 00:21:44,000
+Walks a little faster when approached
+
+474
+00:21:44,000 --> 00:21:46,000
+That is to say, when we look here
+
+475
+00:21:46,000 --> 00:21:49,000
+The moon is actually sometimes faster and sometimes slower
+
+476
+00:21:49,000 --> 00:21:51,000
+then you speed it up
+
+477
+00:21:51,000 --> 00:21:53,000
+Sometimes I can see a little more of this side
+
+478
+00:21:53,000 --> 00:21:56,000
+Sometimes I can see a little bit more from the angle
+
+479
+00:21:56,000 --> 00:21:58,000
+i shake it together
+
+480
+00:21:58,000 --> 00:22:00,000
+just see it like it's dangling
+
+481
+00:22:00,000 --> 00:22:01,720
+not he shaking
+
+482
+00:22:01,720 --> 00:22:04,120
+just the way we see it
+
+483
+00:22:04,120 --> 00:22:07,200
+It's been changing a little bit like this
+
+484
+00:22:07,200 --> 00:22:11,960
+That's actually the main reason I'm posting this for everyone to see.
+
+485
+00:22:11,960 --> 00:22:13,320
+not this
+
+486
+00:22:13,320 --> 00:22:15,760
+but want to ask everyone
+
+487
+00:22:15,760 --> 00:22:18,560
+what is the most important thing you see
+
+488
+00:22:18,560 --> 00:22:19,720
+except he is round
+
+489
+00:22:19,720 --> 00:22:21,560
+we already know he's round
+
+490
+00:22:21,560 --> 00:22:22,760
+a little wobbly
+
+491
+00:22:22,760 --> 00:22:23,560
+know him
+
+492
+00:22:23,560 --> 00:22:26,000
+you know what's most important to you what you see
+
+493
+00:22:26,000 --> 00:22:30,600
+The most important thing you really see is
+
+494
+00:22:30,600 --> 00:22:33,160
+where you didn't see
+
+495
+00:22:33,160 --> 00:22:37,000
+did you notice you didn't see behind him
+
+496
+00:22:37,000 --> 00:22:41,360
+He is just a face for you to see
+
+497
+00:22:41,360 --> 00:22:44,160
+He won't let you look behind
+
+498
+00:22:44,160 --> 00:22:47,520
+this strange thing
+
+499
+00:22:47,520 --> 00:22:50,160
+You see I brought props
+
+500
+00:22:50,160 --> 00:22:54,000
+This is our earth
+
+501
+00:22:54,000 --> 00:22:55,360
+we live up there
+
+502
+00:22:55,360 --> 00:22:56,360
+Just earn and die
+
+503
+00:22:56,360 --> 00:22:58,120
+Earn a lap a day
+
+504
+00:22:58,120 --> 00:22:59,760
+the moon is here
+
+505
+00:23:00,000 --> 00:23:03,800
+27 days to transfer full circle
+
+506
+00:23:04,800 --> 00:23:07,800
+Because there is also the relationship between the angle of the moon and the sun
+
+507
+00:23:07,800 --> 00:23:10,200
+So the sun and the moon move
+
+508
+00:23:10,200 --> 00:23:14,300
+So more than 27 days is not really the cycle we see
+
+509
+00:23:14,300 --> 00:23:20,600
+We really use the cycle of cloudy and sunny to be 29 and a half days
+
+510
+00:23:20,600 --> 00:23:22,800
+So there are two kinds of moons
+
+511
+00:23:22,800 --> 00:23:25,600
+about 30 days about 29 days
+
+512
+00:23:25,600 --> 00:23:28,300
+Because the average is 29 and a half days
+
+513
+00:23:28,400 --> 00:23:30,100
+this is not important
+
+514
+00:23:30,100 --> 00:23:31,300
+it is important to say
+
+515
+00:23:31,300 --> 00:23:34,400
+this moon is orbiting
+
+516
+00:23:34,400 --> 00:23:37,000
+It doesn't matter that the earth is spinning on our own
+
+517
+00:23:37,000 --> 00:23:39,700
+when it is winding
+
+518
+00:23:39,700 --> 00:23:43,000
+it never showed you the back
+
+519
+00:23:43,000 --> 00:23:45,000
+it goes around like this
+
+520
+00:23:45,000 --> 00:23:47,900
+that's all
+
+521
+00:23:47,900 --> 00:23:53,100
+It seems to say that it is hiding behind you, so don't dig it.
+
+522
+00:23:53,100 --> 00:23:56,100
+You haven't read it, right?
+
+523
+00:23:56,100 --> 00:23:58,400
+but someone has seen
+
+524
+00:24:00,000 --> 00:24:03,400
+This is a new jigsaw puzzle
+
+525
+00:24:03,400 --> 00:24:04,700
+The back looks like this
+
+526
+00:24:04,700 --> 00:24:08,100
+I'll come back later
+
+527
+00:24:08,100 --> 00:24:09,300
+why doesn't he let you see
+
+528
+00:24:09,300 --> 00:24:11,300
+not him
+
+529
+00:24:11,300 --> 00:24:15,900
+He looks like this on the back
+
+530
+00:24:15,900 --> 00:24:17,700
+Actually you just look at this
+
+531
+00:24:17,700 --> 00:24:18,900
+you can see the front
+
+532
+00:24:18,900 --> 00:24:20,500
+let's face it
+
+533
+00:24:20,500 --> 00:24:21,700
+This is called the back
+
+534
+00:24:21,700 --> 00:24:23,300
+English is called near sides
+
+535
+00:24:23,300 --> 00:24:25,500
+near face and far side
+
+536
+00:24:25,500 --> 00:24:26,900
+the far side
+
+537
+00:24:26,900 --> 00:24:28,900
+In fact, you have already seen this
+
+538
+00:24:28,900 --> 00:24:29,900
+It's different, right?
+
+539
+00:24:30,900 --> 00:24:33,300
+There are many reasons behind this
+
+540
+00:24:33,300 --> 00:24:36,700
+The moon is billions of years old
+
+541
+00:24:36,700 --> 00:24:38,700
+in this career
+
+542
+00:24:38,700 --> 00:24:41,300
+These rear impact craters
+
+543
+00:24:41,300 --> 00:24:42,700
+It's the impact crater for food.
+
+544
+00:24:42,700 --> 00:24:45,500
+are still well preserved
+
+545
+00:24:45,500 --> 00:24:47,100
+front of earth
+
+546
+00:24:47,100 --> 00:24:49,400
+This side of the crater
+
+547
+00:24:49,400 --> 00:24:51,900
+Many are called by this black
+
+548
+00:24:51,900 --> 00:24:54,100
+In fact, volcanic rumors
+
+549
+00:24:54,100 --> 00:24:55,700
+almost covered
+
+550
+00:24:55,700 --> 00:24:56,500
+why is this
+
+551
+00:24:56,500 --> 00:24:58,300
+this is another question
+
+552
+00:24:58,300 --> 00:25:00,300
+this is
+
+553
+00:25:00,000 --> 00:25:02,900
+There are different theories trying to explain it
+
+554
+00:25:02,900 --> 00:25:06,640
+But at least we see that's the case
+
+555
+00:25:06,640 --> 00:25:08,000
+everyone has seen this
+
+556
+00:25:08,000 --> 00:25:10,400
+How many people have seen this?
+
+557
+00:25:10,400 --> 00:25:13,500
+There should be 21 people who have seen it
+
+558
+00:25:13,500 --> 00:25:16,240
+Why did 21 people see who
+
+559
+00:25:16,240 --> 00:25:22,640
+These people are collectively called Apollo workers.
+
+560
+00:25:22,640 --> 00:25:26,800
+Because really 1969 all the way to 1972
+
+561
+00:25:26,800 --> 00:25:30,600
+The American moon landing program is called the Apollo program
+
+562
+00:25:30,600 --> 00:25:31,800
+do you all know
+
+563
+00:25:31,800 --> 00:25:34,340
+A total of 7 times
+
+564
+00:25:34,340 --> 00:25:37,700
+3 people each time
+
+565
+00:25:37,700 --> 00:25:40,040
+7 times succeeded 6 times
+
+566
+00:25:40,040 --> 00:25:41,540
+The so-called success is later
+
+567
+00:25:41,540 --> 00:25:44,000
+2 out of 3 people land on the moon
+
+568
+00:25:44,000 --> 00:25:46,440
+like walking on it
+
+569
+00:25:46,440 --> 00:25:48,640
+then pick it up
+
+570
+00:25:48,640 --> 00:25:50,400
+6 successes
+
+571
+00:25:50,400 --> 00:25:54,200
+In other words, 12 people walked on the moon
+
+572
+00:25:54,200 --> 00:25:57,600
+21 people all flew to the moon
+
+573
+00:25:57,600 --> 00:25:59,800
+flew from behind
+
+574
+00:26:00,000 --> 00:26:01,260
+he saw it with his own eyes
+
+575
+00:26:02,700 --> 00:26:06,040
+This is one of the princes
+
+576
+00:26:06,040 --> 00:26:07,800
+take a picture of him and show us
+
+577
+00:26:10,040 --> 00:26:11,640
+I said seven times
+
+578
+00:26:11,640 --> 00:26:13,000
+only succeeded six times
+
+579
+00:26:13,000 --> 00:26:14,300
+what happened again
+
+580
+00:26:16,340 --> 00:26:19,300
+That's Apollo 13
+
+581
+00:26:19,300 --> 00:26:22,500
+A total of seven times from the 11th to the 17th
+
+582
+00:26:22,840 --> 00:26:24,940
+No. 13 didn't work out
+
+583
+00:26:25,700 --> 00:26:26,940
+you may remember
+
+584
+00:26:26,940 --> 00:26:28,000
+have filmed
+
+585
+00:26:28,000 --> 00:26:29,800
+It's called the Apollo 13 movie.
+
+586
+00:26:29,800 --> 00:26:31,300
+great worth seeing
+
+587
+00:26:32,000 --> 00:26:34,200
+He just failed to land on the moon
+
+588
+00:26:34,200 --> 00:26:35,900
+but he also flew
+
+589
+00:26:35,900 --> 00:26:37,600
+fly behind to go around
+
+590
+00:26:37,600 --> 00:26:38,900
+rounded the moon
+
+591
+00:26:38,900 --> 00:26:42,400
+In the temporary that oxygen level exploded
+
+592
+00:26:42,400 --> 00:26:45,700
+he can't go on
+
+593
+00:26:45,700 --> 00:26:48,300
+very delicate
+
+594
+00:26:48,300 --> 00:26:51,300
+let him bring him back successfully
+
+595
+00:26:52,000 --> 00:26:53,200
+so that time was
+
+596
+00:26:55,300 --> 00:26:56,700
+still lucky
+
+597
+00:27:00,000 --> 00:27:01,700
+let's go back to this one
+
+598
+00:27:01,700 --> 00:27:03,800
+why doesn't he let you look behind
+
+599
+00:27:11,640 --> 00:27:13,100
+This is still the two pictures just now
+
+600
+00:27:13,100 --> 00:27:14,240
+this is special
+
+601
+00:27:14,240 --> 00:27:15,200
+this is
+
+602
+00:27:15,200 --> 00:27:17,240
+Of course this color is painted by man
+
+603
+00:27:17,240 --> 00:27:19,800
+His painting shows that
+
+604
+00:27:19,800 --> 00:27:22,200
+The third highest and the deep valley
+
+605
+00:27:22,200 --> 00:27:24,040
+high and low terrain
+
+606
+00:27:24,040 --> 00:27:25,040
+moon shape
+
+607
+00:27:27,240 --> 00:27:28,040
+OK
+
+608
+00:27:28,080 --> 00:27:29,880
+the thing I just talked about
+
+609
+00:27:29,880 --> 00:27:31,880
+In fact, such a thing
+
+610
+00:27:33,780 --> 00:27:35,280
+you see him the same
+
+611
+00:27:36,440 --> 00:27:38,180
+To describe it is
+
+612
+00:27:38,180 --> 00:27:39,480
+he has a rotation period
+
+613
+00:27:39,480 --> 00:27:42,280
+exactly the same as the revolution period
+
+614
+00:27:42,280 --> 00:27:43,780
+let's say seven days
+
+615
+00:27:43,780 --> 00:27:44,780
+no matter how many days
+
+616
+00:27:44,780 --> 00:27:45,680
+he is the same
+
+617
+00:27:45,680 --> 00:27:46,780
+what does it mean
+
+618
+00:27:47,980 --> 00:27:50,280
+when he is circling
+
+619
+00:27:50,280 --> 00:27:52,180
+He only has one face facing the words
+
+620
+00:27:52,180 --> 00:27:53,840
+when he makes a full circle
+
+621
+00:27:53,840 --> 00:27:55,580
+He turned around by himself
+
+622
+00:27:55,580 --> 00:27:57,180
+did you notice
+
+623
+00:27:57,180 --> 00:27:58,220
+he like this
+
+624
+00:28:00,000 --> 00:28:02,000
+is the public transfer circle
+
+625
+00:28:02,000 --> 00:28:06,000
+At the same time, this time is the full circle of self-transfer
+
+626
+00:28:06,000 --> 00:28:08,000
+these two cycles
+
+627
+00:28:08,000 --> 00:28:10,000
+exactly the same time
+
+628
+00:28:10,000 --> 00:28:13,000
+For us, for people on earth
+
+629
+00:28:13,000 --> 00:28:16,000
+it is a facing earth
+
+630
+00:28:16,000 --> 00:28:18,000
+this hasn't said why
+
+631
+00:28:18,000 --> 00:28:19,000
+just to tell you
+
+632
+00:28:19,000 --> 00:28:23,000
+Just described the same phenomenon again
+
+633
+00:28:23,000 --> 00:28:25,000
+So my question is
+
+634
+00:28:25,000 --> 00:28:27,000
+Is this a coincidence
+
+635
+00:28:27,000 --> 00:28:29,000
+how could it be such a coincidence
+
+636
+00:28:30,000 --> 00:28:32,000
+Of course it's not a coincidence
+
+637
+00:28:32,000 --> 00:28:34,000
+for example
+
+638
+00:28:34,000 --> 00:28:36,000
+the moon to the earth
+
+639
+00:28:36,000 --> 00:28:39,000
+if this is jupiter
+
+640
+00:28:39,000 --> 00:28:41,000
+jupiter has a bunch of moons
+
+641
+00:28:41,000 --> 00:28:45,000
+Jupiter has now been calculated to have sixty moons
+
+642
+00:28:45,000 --> 00:28:47,000
+a few of them are larger
+
+643
+00:28:47,000 --> 00:28:51,000
+It's something we've known since the days of Homeoire
+
+644
+00:28:51,000 --> 00:28:54,000
+all those moons are like this
+
+645
+00:28:54,000 --> 00:28:56,000
+it's all like this
+
+646
+00:28:56,000 --> 00:28:58,000
+no matter how close
+
+647
+00:28:58,000 --> 00:29:00,000
+Far
+
+648
+00:29:00,000 --> 00:29:01,000
+it's all like this
+
+649
+00:29:02,600 --> 00:29:03,800
+don't let you look behind
+
+650
+00:29:04,700 --> 00:29:06,100
+so it's no coincidence
+
+651
+00:29:06,600 --> 00:29:08,200
+there must be some reason
+
+652
+00:29:09,600 --> 00:29:10,800
+of course not
+
+653
+00:29:11,000 --> 00:29:13,100
+not when gods created the world
+
+654
+00:29:13,100 --> 00:29:14,000
+he likes it
+
+655
+00:29:14,000 --> 00:29:14,800
+of course not
+
+656
+00:29:15,400 --> 00:29:16,200
+but
+
+657
+00:29:17,400 --> 00:29:18,800
+what is the reason
+
+658
+00:29:21,800 --> 00:29:24,100
+Here is a very simple diagram
+
+659
+00:29:24,100 --> 00:29:28,400
+But I know I can't go too deep into it
+
+660
+00:29:28,500 --> 00:29:30,500
+But roughly, let me describe to you
+
+661
+00:29:30,800 --> 00:29:34,100
+The reason behind this is called North Korean friction
+
+662
+00:29:35,000 --> 00:29:37,400
+There are North Korea and friction
+
+663
+00:29:37,400 --> 00:29:38,800
+it will end up like this
+
+664
+00:29:38,800 --> 00:29:40,800
+and tell you a story
+
+665
+00:29:41,100 --> 00:29:41,800
+That
+
+666
+00:29:42,100 --> 00:29:44,300
+The so-called DPRK friction can be described like this
+
+667
+00:29:44,300 --> 00:29:47,000
+This is our earth this green
+
+668
+00:29:47,300 --> 00:29:50,000
+This is the middle point is the North Pole
+
+669
+00:29:50,000 --> 00:29:51,000
+look like this
+
+670
+00:29:51,000 --> 00:29:52,700
+let's see from above
+
+671
+00:29:52,700 --> 00:29:53,600
+we see it this way
+
+672
+00:29:54,000 --> 00:29:55,400
+isn't the earth spinning
+
+673
+00:29:56,300 --> 00:29:57,600
+The earth rotates like this
+
+674
+00:29:58,400 --> 00:30:00,200
+is the farther one is farther away
+
+675
+00:30:00,000 --> 00:30:03,840
+Normally you can imagine saying
+
+676
+00:30:03,840 --> 00:30:05,840
+It would be great if this blue was sea water
+
+677
+00:30:05,840 --> 00:30:07,840
+you think of it as sea water
+
+678
+00:30:07,840 --> 00:30:09,840
+Normally you would want to say
+
+679
+00:30:09,840 --> 00:30:10,840
+the moon is here
+
+680
+00:30:10,840 --> 00:30:13,340
+So the water is sucked up
+
+681
+00:30:13,340 --> 00:30:14,340
+yes
+
+682
+00:30:14,340 --> 00:30:16,840
+when the moon works
+
+683
+00:30:16,840 --> 00:30:19,840
+The sea should have a high tide
+
+684
+00:30:19,840 --> 00:30:23,840
+On the other side it will actually rise up
+
+685
+00:30:23,840 --> 00:30:25,840
+This place is actually far from the moon
+
+686
+00:30:25,840 --> 00:30:26,840
+farthest place
+
+687
+00:30:26,840 --> 00:30:29,840
+How could it also go out high?
+
+688
+00:30:30,680 --> 00:30:34,680
+This is because of centrifugal force
+
+689
+00:30:36,180 --> 00:30:39,680
+I won't go into it in particular.
+
+690
+00:30:39,680 --> 00:30:42,680
+It's sharp and centrifugal
+
+691
+00:30:42,680 --> 00:30:46,180
+When the two balance
+
+692
+00:30:46,180 --> 00:30:47,680
+we just one day
+
+693
+00:30:47,680 --> 00:30:51,180
+there will be two tidal bulges
+
+694
+00:30:51,180 --> 00:30:53,180
+Do you see what this bulge means?
+
+695
+00:30:53,180 --> 00:30:55,180
+you are the one who lives on earth
+
+696
+00:30:55,180 --> 00:30:58,680
+You follow the earth around once a day
+
+697
+00:30:58,680 --> 00:31:00,020
+the moon is here
+
+698
+00:31:00,000 --> 00:31:03,800
+When you follow the moon to this place
+
+699
+00:31:03,800 --> 00:31:06,700
+you'll find this place is now orgasm
+
+700
+00:31:06,700 --> 00:31:08,700
+highest water level
+
+701
+00:31:08,700 --> 00:31:09,600
+you keep turning
+
+702
+00:31:09,600 --> 00:31:12,000
+half a day later you transferred here
+
+703
+00:31:12,000 --> 00:31:15,100
+You found the water dripping down here again
+
+704
+00:31:15,100 --> 00:31:17,100
+Then it's high again
+
+705
+00:31:17,100 --> 00:31:22,800
+That is to say, the tide creek rises and falls twice a day
+
+706
+00:31:22,800 --> 00:31:25,500
+because you are turning
+
+707
+00:31:25,500 --> 00:31:29,100
+But actually the moon is also slightly within the day
+
+708
+00:31:29,100 --> 00:31:31,500
+also moved a little
+
+709
+00:31:31,500 --> 00:31:34,100
+So it's not exactly twice a day
+
+710
+00:31:34,100 --> 00:31:37,700
+a little over twice a day
+
+711
+00:31:37,700 --> 00:31:39,700
+that time is
+
+712
+00:31:39,700 --> 00:31:41,100
+In terms of this phenomenon
+
+713
+00:31:41,100 --> 00:31:49,100
+In fact, it will happen twice in 24 hours, 0510 minutes
+
+714
+00:31:49,100 --> 00:31:51,600
+Just once every 12 hours and 05 minutes
+
+715
+00:31:51,600 --> 00:31:55,400
+This is the Chaoxi that we normally know.
+
+716
+00:31:55,400 --> 00:32:00,400
+Of course there are some other
+
+717
+00:32:00,000 --> 00:32:01,800
+tidal constellation of its cycle
+
+718
+00:32:01,800 --> 00:32:03,240
+I think I won't talk about it here
+
+719
+00:32:03,240 --> 00:32:05,080
+The most important thing about this is this
+
+720
+00:32:05,080 --> 00:32:06,480
+That means you go to the beach to see
+
+721
+00:32:06,480 --> 00:32:09,480
+you sit there longer
+
+722
+00:32:09,480 --> 00:32:10,680
+sit for a long time
+
+723
+00:32:10,680 --> 00:32:14,140
+you will see the ebb and flow
+
+724
+00:32:14,140 --> 00:32:16,980
+you can see twice
+
+725
+00:32:16,980 --> 00:32:18,240
+this is ideal
+
+726
+00:32:18,240 --> 00:32:19,880
+but it's not
+
+727
+00:32:19,880 --> 00:32:22,080
+actually kind of weird
+
+728
+00:32:22,080 --> 00:32:23,980
+in fact you are not
+
+729
+00:32:23,980 --> 00:32:26,440
+these two blue bumps
+
+730
+00:32:26,440 --> 00:32:28,440
+is attracted to the moon
+
+731
+00:32:28,440 --> 00:32:29,580
+fixed this direction
+
+732
+00:32:29,580 --> 00:32:32,820
+But the earth must rotate underneath
+
+733
+00:32:32,820 --> 00:32:34,420
+isn't the earth spinning
+
+734
+00:32:34,420 --> 00:32:35,380
+it must turn
+
+735
+00:32:35,380 --> 00:32:38,580
+There's friction here
+
+736
+00:32:38,580 --> 00:32:41,320
+This picture is also fun
+
+737
+00:32:41,320 --> 00:32:44,820
+This picture is from the Internet when I leaked it
+
+738
+00:32:44,820 --> 00:32:46,820
+This color is not what I ordered
+
+739
+00:32:46,820 --> 00:32:48,580
+But when I talk to students
+
+740
+00:32:48,580 --> 00:32:49,820
+I suddenly found out
+
+741
+00:32:49,820 --> 00:32:55,820
+I'm describing blue, green, friction
+
+742
+00:32:55,820 --> 00:32:58,420
+it's wired
+
+743
+00:33:00,000 --> 00:33:02,000
+people have friction
+
+744
+00:33:02,000 --> 00:33:04,000
+when rubbing
+
+745
+00:33:04,000 --> 00:33:07,000
+You see you are speaking to the earth
+
+746
+00:33:07,000 --> 00:33:08,000
+Since there is friction
+
+747
+00:33:08,000 --> 00:33:11,000
+He wants to drag him away
+
+748
+00:33:11,000 --> 00:33:13,000
+He pulled him more and more
+
+749
+00:33:13,000 --> 00:33:15,000
+He tried to pull him away again
+
+750
+00:33:15,000 --> 00:33:18,000
+The result is a little bit like a slant
+
+751
+00:33:18,000 --> 00:33:19,000
+It doesn't matter if it's slanted or not
+
+752
+00:33:19,000 --> 00:33:21,000
+anyway there is friction
+
+753
+00:33:21,000 --> 00:33:24,000
+When there is friction, you know that energy is being consumed
+
+754
+00:33:24,000 --> 00:33:28,000
+In fact we have many of these
+
+755
+00:33:28,000 --> 00:33:30,000
+The idea is to say
+
+756
+00:33:30,000 --> 00:33:33,000
+use tidal power
+
+757
+00:33:33,000 --> 00:33:36,000
+In fact, the principle of tidal power generation
+
+758
+00:33:36,000 --> 00:33:38,000
+actually
+
+759
+00:33:38,000 --> 00:33:43,000
+Turn this friction directly into heat energy
+
+760
+00:33:43,000 --> 00:33:46,000
+Go through our phone first
+
+761
+00:33:46,000 --> 00:33:48,000
+use up
+
+762
+00:33:48,000 --> 00:33:50,000
+finally become hot
+
+763
+00:33:50,000 --> 00:33:54,000
+Let's use it in the middle
+
+764
+00:33:54,000 --> 00:33:57,000
+that's where this energy comes from
+
+765
+00:33:57,000 --> 00:33:59,000
+In terms of the earth
+
+766
+00:33:59,000 --> 00:34:00,000
+turn out
+
+767
+00:34:00,000 --> 00:34:01,300
+Slower and slower
+
+768
+00:34:02,100 --> 00:34:03,600
+always look like this
+
+769
+00:34:04,000 --> 00:34:06,200
+These two are there like brake pads
+
+770
+00:34:06,300 --> 00:34:07,900
+I'm at the bottom, I insist on turning
+
+771
+00:34:08,400 --> 00:34:09,900
+Isn't that getting slower and slower?
+
+772
+00:34:11,100 --> 00:34:11,700
+so
+
+773
+00:34:13,100 --> 00:34:14,600
+Judging by this phenomenon
+
+774
+00:34:14,600 --> 00:34:15,300
+First
+
+775
+00:34:15,600 --> 00:34:17,700
+This is tidal friction
+
+776
+00:34:18,100 --> 00:34:20,400
+It causes a phenomenon called
+
+777
+00:34:20,400 --> 00:34:21,700
+The earth is turning slower and slower
+
+778
+00:34:22,500 --> 00:34:23,400
+this
+
+779
+00:34:24,900 --> 00:34:26,200
+you don't know right
+
+780
+00:34:27,500 --> 00:34:28,000
+yes
+
+781
+00:34:28,000 --> 00:34:29,400
+your parents and children
+
+782
+00:34:29,500 --> 00:34:30,900
+Have your parents talked about it?
+
+783
+00:34:30,900 --> 00:34:32,900
+days are getting harder
+
+784
+00:34:32,900 --> 00:34:33,700
+Do you have
+
+785
+00:34:34,700 --> 00:34:36,500
+the days are getting longer really
+
+786
+00:34:38,500 --> 00:34:40,600
+how is the day
+
+787
+00:34:41,500 --> 00:34:43,100
+we are now 24 hours a day
+
+788
+00:34:43,100 --> 00:34:45,300
+In fact, every day is different
+
+789
+00:34:46,400 --> 00:34:48,000
+long time watching
+
+790
+00:34:49,400 --> 00:34:51,800
+Because of this tidal friction phenomenon
+
+791
+00:34:51,900 --> 00:34:53,000
+you say the number is small
+
+792
+00:34:53,000 --> 00:34:53,800
+I tell you
+
+793
+00:34:53,800 --> 00:34:55,400
+I'll show you how small it is
+
+794
+00:34:55,400 --> 00:34:56,600
+today if say
+
+795
+00:34:56,600 --> 00:34:58,300
+we are so long today
+
+796
+00:34:58,300 --> 00:35:00,000
+a hundred years ago
+
+797
+00:35:00,000 --> 00:35:04,400
+Today should be a little shorter than now, right?
+
+798
+00:35:04,400 --> 00:35:06,400
+Aren't we turning slower and slower?
+
+799
+00:35:06,400 --> 00:35:08,100
+So that time will be a little shorter
+
+800
+00:35:08,100 --> 00:35:09,000
+How short is it?
+
+801
+00:35:09,000 --> 00:35:12,300
+Only a thousandth of a second short
+
+802
+00:35:12,300 --> 00:35:14,300
+You say it's nothing
+
+803
+00:35:14,300 --> 00:35:15,800
+that's all
+
+804
+00:35:15,800 --> 00:35:17,200
+do i just worry
+
+805
+00:35:17,200 --> 00:35:18,600
+will i know
+
+806
+00:35:18,600 --> 00:35:19,900
+you don't have to worry
+
+807
+00:35:19,900 --> 00:35:21,200
+you won't know
+
+808
+00:35:21,200 --> 00:35:25,700
+But precision scientific instruments can measure
+
+809
+00:35:25,700 --> 00:35:26,900
+so what
+
+810
+00:35:26,900 --> 00:35:28,600
+nothing wrong
+
+811
+00:35:28,700 --> 00:35:30,700
+ok let's continue the story
+
+812
+00:35:38,000 --> 00:35:40,500
+Scientific instruments are boring anyway.
+
+813
+00:35:40,500 --> 00:35:45,900
+Since I think the earth is turning slower and slower
+
+814
+00:35:45,900 --> 00:35:47,200
+I can't measure it either
+
+815
+00:35:47,200 --> 00:35:48,900
+I can't go directly
+
+816
+00:35:48,900 --> 00:35:50,500
+not so accurate
+
+817
+00:35:50,500 --> 00:35:52,300
+A hundred years ago there were no good clocks
+
+818
+00:35:52,300 --> 00:35:54,300
+what to do
+
+819
+00:35:54,300 --> 00:35:58,400
+There are clever ways to find this kind of evidence
+
+820
+00:35:58,400 --> 00:36:00,500
+this is an interesting rumor
+
+821
+00:36:00,000 --> 00:36:05,000
+What about this story?
+
+822
+00:36:05,000 --> 00:36:08,000
+For example, this is the earth
+
+823
+00:36:08,000 --> 00:36:11,000
+If a certain time over the sun stone
+
+824
+00:36:11,000 --> 00:36:13,000
+We just saw that one of those dark shadows
+
+825
+00:36:13,000 --> 00:36:15,000
+If it is said that the sun power stone at that time
+
+826
+00:36:15,000 --> 00:36:17,000
+The trajectory is like this
+
+827
+00:36:17,000 --> 00:36:21,000
+That is to say, in this yellow belt
+
+828
+00:36:21,000 --> 00:36:25,000
+Everyone will see that day
+
+829
+00:36:25,000 --> 00:36:27,000
+Sunstone looks like this
+
+830
+00:36:28,000 --> 00:36:30,000
+This is a real event
+
+831
+00:36:30,000 --> 00:36:33,000
+This is an example of what I'm talking about
+
+832
+00:36:33,000 --> 00:36:35,000
+This example is
+
+833
+00:36:35,000 --> 00:36:39,000
+136 BC on a certain day
+
+834
+00:36:39,000 --> 00:36:42,000
+There should have been a Sunstone
+
+835
+00:36:42,000 --> 00:36:44,000
+and there really are
+
+836
+00:36:44,000 --> 00:36:48,000
+Because this example is inside the records of Babylon
+
+837
+00:36:48,000 --> 00:36:50,000
+There was no pen and paper in Babylon
+
+838
+00:36:50,000 --> 00:36:53,000
+And engraved on that clay tablet
+
+839
+00:36:53,000 --> 00:36:55,000
+air pattern paper
+
+840
+00:36:55,000 --> 00:36:58,000
+found inside fire pipes
+
+841
+00:36:58,000 --> 00:37:01,000
+It is recorded that this day
+
+842
+00:37:00,000 --> 00:37:03,600
+It really happened that day full time
+
+843
+00:37:03,600 --> 00:37:07,200
+And that's how it was seen in Babylon
+
+844
+00:37:07,200 --> 00:37:11,600
+it's his record so what
+
+845
+00:37:11,600 --> 00:37:13,200
+then we are now saying
+
+846
+00:37:13,200 --> 00:37:15,100
+I said scientists are so boring
+
+847
+00:37:15,100 --> 00:37:16,800
+it will be fine
+
+848
+00:37:16,800 --> 00:37:19,800
+That day has happened this day full time
+
+849
+00:37:19,800 --> 00:37:24,200
+I now have a way to recover that full-time full-time moon
+
+850
+00:37:24,200 --> 00:37:28,200
+because we now know the position of the moon to the sun
+
+851
+00:37:29,200 --> 00:37:31,700
+And I know how it turns
+
+852
+00:37:31,700 --> 00:37:34,000
+i rewind time
+
+853
+00:37:34,000 --> 00:37:37,300
+Rewind over 2000 years
+
+854
+00:37:37,300 --> 00:37:39,100
+use the computer to calculate
+
+855
+00:37:39,100 --> 00:37:40,800
+Just do the math
+
+856
+00:37:40,800 --> 00:37:44,100
+Counting to that day more than 2000 years ago
+
+857
+00:37:44,100 --> 00:37:48,900
+That day the real moon is between the earth and the sun
+
+858
+00:37:48,900 --> 00:37:51,300
+really full time
+
+859
+00:37:51,300 --> 00:37:53,400
+but sorry
+
+860
+00:37:53,400 --> 00:37:57,500
+Babylon can't see that day full time
+
+861
+00:37:57,500 --> 00:37:59,900
+The place to see should be here
+
+862
+00:38:00,000 --> 00:38:02,000
+The barbies are here and they are tired
+
+863
+00:38:03,300 --> 00:38:04,800
+what will happen
+
+864
+00:38:05,200 --> 00:38:06,800
+really full time
+
+865
+00:38:07,100 --> 00:38:09,300
+But people who saw him said he was in the Babi people
+
+866
+00:38:09,600 --> 00:38:11,500
+We now count back to the computer
+
+867
+00:38:11,600 --> 00:38:12,500
+impossible
+
+868
+00:38:13,700 --> 00:38:15,000
+what went wrong
+
+869
+00:38:15,900 --> 00:38:18,100
+because when we arrive
+
+870
+00:38:18,500 --> 00:38:21,600
+Use 24 hours a day to turn the earth back
+
+871
+00:38:23,300 --> 00:38:25,900
+But it's not really 24 hours a day
+
+872
+00:38:26,000 --> 00:38:27,900
+It used to turn faster
+
+873
+00:38:28,900 --> 00:38:30,600
+you have to follow that
+
+874
+00:38:30,900 --> 00:38:35,100
+The length of the day that changes a little bit turns back
+
+875
+00:38:36,400 --> 00:38:39,400
+When you turn to the day more than 2000 years ago
+
+876
+00:38:39,900 --> 00:38:42,600
+really that strip goes through the barbies
+
+877
+00:38:43,100 --> 00:38:43,900
+is so
+
+878
+00:38:45,400 --> 00:38:46,300
+then we now
+
+879
+00:38:46,900 --> 00:38:48,400
+This seems to become
+
+880
+00:38:48,600 --> 00:38:50,200
+records of people at that time
+
+881
+00:38:50,300 --> 00:38:52,600
+can be used by me now to do
+
+882
+00:38:52,700 --> 00:38:54,600
+To make a proof is to say
+
+883
+00:38:54,900 --> 00:38:56,900
+It's true that the earth is turning slower and slower
+
+884
+00:38:57,900 --> 00:39:00,100
+and slow down
+
+885
+00:39:00,000 --> 00:39:03,100
+That level is really what I just said
+
+886
+00:39:03,100 --> 00:39:06,700
+That is from modern experience measurement.
+
+887
+00:39:06,700 --> 00:39:11,020
+This is actually found in the historical records
+
+888
+00:39:11,020 --> 00:39:14,420
+Evidence that the Earth is growing slower
+
+889
+00:39:14,420 --> 00:39:16,920
+this is awesome
+
+890
+00:39:16,920 --> 00:39:20,620
+there is one more strange thing
+
+891
+00:39:20,620 --> 00:39:23,220
+What I just talked about is thousands of years old
+
+892
+00:39:23,220 --> 00:39:24,820
+Of course, the earth is not only a few thousand years
+
+893
+00:39:24,820 --> 00:39:28,420
+Earth is 4.6 billion years old
+
+894
+00:39:28,420 --> 00:39:32,580
+Shouldn't it be turning faster earlier?
+
+895
+00:39:32,580 --> 00:39:38,380
+how do i... is there any way to know
+
+896
+00:39:38,380 --> 00:39:42,580
+This is another interesting observation
+
+897
+00:39:42,580 --> 00:39:44,100
+here is an amplifier
+
+898
+00:39:44,100 --> 00:39:46,780
+Prototype mirror to see
+
+899
+00:39:46,780 --> 00:39:49,060
+a coral it grows
+
+900
+00:39:49,060 --> 00:39:50,460
+Are corals living things?
+
+901
+00:39:50,460 --> 00:39:52,620
+animal president
+
+902
+00:39:52,620 --> 00:39:55,140
+This kind of coral can still be found
+
+903
+00:39:55,140 --> 00:39:56,660
+you know how long it is
+
+904
+00:39:56,700 --> 00:39:58,780
+it is every day
+
+905
+00:39:58,780 --> 00:40:00,060
+it will secrete a layer
+
+906
+00:40:00,000 --> 00:40:01,640
+this skeleton
+
+907
+00:40:03,440 --> 00:40:04,600
+one lap a day
+
+908
+00:40:05,040 --> 00:40:06,240
+one lap a day
+
+909
+00:40:07,400 --> 00:40:09,120
+but winter and summer
+
+910
+00:40:10,040 --> 00:40:11,600
+Secretion varies in width
+
+911
+00:40:11,600 --> 00:40:12,680
+maybe the temperature is different
+
+912
+00:40:12,680 --> 00:40:13,320
+so it
+
+913
+00:40:13,520 --> 00:40:14,960
+I don't know how much winter will be
+
+914
+00:40:14,960 --> 00:40:16,200
+grow faster
+
+915
+00:40:16,200 --> 00:40:17,800
+Or it will grow faster in summer
+
+916
+00:40:17,800 --> 00:40:18,440
+but
+
+917
+00:40:19,040 --> 00:40:19,800
+its
+
+918
+00:40:20,000 --> 00:40:20,760
+grow out
+
+919
+00:40:20,760 --> 00:40:22,680
+between this day
+
+920
+00:40:23,480 --> 00:40:25,440
+Qualification to this is one year
+
+921
+00:40:26,280 --> 00:40:28,080
+Qualifying to this is another year
+
+922
+00:40:28,080 --> 00:40:29,400
+It's another year to qualify for this
+
+923
+00:40:29,400 --> 00:40:31,240
+How many bars are there in the middle?
+
+924
+00:40:31,480 --> 00:40:32,640
+you can count
+
+925
+00:40:32,920 --> 00:40:34,000
+you are under the magnifying glass
+
+926
+00:40:34,000 --> 00:40:35,560
+Counting under a circular mirror
+
+927
+00:40:36,400 --> 00:40:37,040
+you don't want to count
+
+928
+00:40:37,040 --> 00:40:37,960
+just ask your students
+
+929
+00:40:37,960 --> 00:40:38,960
+public reading birth number
+
+930
+00:40:40,160 --> 00:40:40,960
+inverse number
+
+931
+00:40:41,720 --> 00:40:42,760
+you will know
+
+932
+00:40:42,760 --> 00:40:43,120
+Eh
+
+933
+00:40:43,120 --> 00:40:45,520
+how many days in a year
+
+934
+00:40:45,520 --> 00:40:46,320
+can't it
+
+935
+00:40:48,160 --> 00:40:48,600
+this
+
+936
+00:40:48,600 --> 00:40:49,840
+This is another example
+
+937
+00:40:49,840 --> 00:40:50,600
+this is
+
+938
+00:40:51,760 --> 00:40:53,360
+400 million years ago
+
+939
+00:40:53,720 --> 00:40:54,360
+one
+
+940
+00:40:55,520 --> 00:40:56,560
+painted rock specimens
+
+941
+00:40:57,040 --> 00:40:58,080
+There are many such specimens
+
+942
+00:40:58,080 --> 00:40:58,880
+different ages
+
+943
+00:40:58,880 --> 00:40:59,960
+I only ality
+
+944
+00:41:00,000 --> 00:41:03,900
+Let me show you, 400 million years ago, this is very recent
+
+945
+00:41:03,900 --> 00:41:06,400
+Because the earth is 4.6 billion years old
+
+946
+00:41:06,400 --> 00:41:09,600
+This is only less than one-tenth of the recent
+
+947
+00:41:09,600 --> 00:41:11,900
+four hundred million years
+
+948
+00:41:11,900 --> 00:41:15,600
+The result of this subordinate is
+
+949
+00:41:15,600 --> 00:41:19,100
+At that time, there were about 400 days in a year
+
+950
+00:41:19,100 --> 00:41:22,600
+What does it mean?
+
+951
+00:41:22,600 --> 00:41:26,100
+We now have three hundred and sixty-five days in a year
+
+952
+00:41:26,100 --> 00:41:28,700
+At that time there were four hundred days in a year
+
+953
+00:41:28,800 --> 00:41:30,000
+What's the meaning?
+
+954
+00:41:30,000 --> 00:41:32,600
+This year, this will not change
+
+955
+00:41:32,600 --> 00:41:36,300
+It's such a long journey, that's one year
+
+956
+00:41:36,300 --> 00:41:37,800
+that means
+
+957
+00:41:37,800 --> 00:41:41,600
+At that time, within a circle of the earth
+
+958
+00:41:41,600 --> 00:41:43,600
+it spins four hundred times
+
+959
+00:41:43,600 --> 00:41:47,400
+Now it can only go around three hundred and sixty-five times
+
+960
+00:41:47,400 --> 00:41:48,800
+this is what it means
+
+961
+00:41:48,800 --> 00:41:51,800
+That is to say, the rotation was faster at that time
+
+962
+00:41:51,800 --> 00:41:56,900
+Quite a lot, about 10% faster
+
+963
+00:41:56,900 --> 00:41:59,800
+so you can, this is another
+
+964
+00:42:00,000 --> 00:42:02,820
+An evidence left to us by nature says
+
+965
+00:42:02,820 --> 00:42:05,380
+Look, the earth is turning slower and slower
+
+966
+00:42:05,960 --> 00:42:06,960
+it is true
+
+967
+00:42:07,560 --> 00:42:09,560
+this part
+
+968
+00:42:11,600 --> 00:42:13,100
+Just now the physical reason
+
+969
+00:42:13,100 --> 00:42:15,100
+The evidence left by this earth
+
+970
+00:42:15,100 --> 00:42:16,600
+It's the same thing
+
+971
+00:42:18,000 --> 00:42:19,200
+let's see again
+
+972
+00:42:24,480 --> 00:42:27,560
+Well, this is good, the earth is turning slower and slower
+
+973
+00:42:27,560 --> 00:42:29,220
+of course say it again
+
+974
+00:42:29,420 --> 00:42:31,420
+You will never know in your life
+
+975
+00:42:31,920 --> 00:42:33,920
+too little difference
+
+976
+00:42:35,020 --> 00:42:37,320
+But this is not the end of the matter
+
+977
+00:42:37,320 --> 00:42:38,620
+You should know
+
+978
+00:42:38,620 --> 00:42:40,620
+If the earth turns slower and slower
+
+979
+00:42:41,620 --> 00:42:46,420
+If you ever read that physics mechanics
+
+980
+00:42:47,020 --> 00:42:48,620
+you may remember
+
+981
+00:42:48,620 --> 00:42:51,620
+There's a thing called conservation of foot momentum
+
+982
+00:42:52,620 --> 00:42:54,620
+this one thing it has
+
+983
+00:42:55,020 --> 00:42:58,320
+There is a physical quantity called foot momentum
+
+984
+00:42:58,320 --> 00:43:00,320
+The bigger the momentum of the foot, the better the rotation
+
+985
+00:43:00,000 --> 00:43:02,000
+The foot momentum is small and the rotation is slower
+
+986
+00:43:02,000 --> 00:43:03,000
+that thing
+
+987
+00:43:03,000 --> 00:43:05,000
+that amount won't change
+
+988
+00:43:05,000 --> 00:43:08,000
+under the same circumstances
+
+989
+00:43:08,000 --> 00:43:09,000
+That is to say
+
+990
+00:43:09,000 --> 00:43:11,000
+Why is the earth spinning
+
+991
+00:43:11,000 --> 00:43:13,000
+this is another question
+
+992
+00:43:13,000 --> 00:43:15,000
+students sometimes ask
+
+993
+00:43:15,000 --> 00:43:17,000
+Teacher, why does the earth rotate?
+
+994
+00:43:17,000 --> 00:43:19,000
+why does it keep turning
+
+995
+00:43:19,000 --> 00:43:20,000
+Actually the answer is very simple
+
+996
+00:43:20,000 --> 00:43:22,000
+because it has so much foot momentum
+
+997
+00:43:22,000 --> 00:43:23,000
+it can't be lost
+
+998
+00:43:23,000 --> 00:43:26,000
+it just has to turn every day
+
+999
+00:43:26,000 --> 00:43:29,000
+foot momentum is conservative
+
+1000
+00:43:29,000 --> 00:43:31,000
+which means it won't increase
+
+1001
+00:43:31,000 --> 00:43:33,000
+will not become less
+
+1002
+00:43:33,000 --> 00:43:34,000
+now there is a problem
+
+1003
+00:43:34,000 --> 00:43:37,000
+You say it turns slower and slower
+
+1004
+00:43:37,000 --> 00:43:39,000
+less foot momentum
+
+1005
+00:43:39,000 --> 00:43:41,000
+You said that the foot momentum is not much
+
+1006
+00:43:41,000 --> 00:43:42,000
+not less
+
+1007
+00:43:42,000 --> 00:43:43,000
+where did it go
+
+1008
+00:43:43,000 --> 00:43:44,000
+Where did the foot momentum go?
+
+1009
+00:43:44,000 --> 00:43:45,000
+this answer
+
+1010
+00:43:45,000 --> 00:43:47,000
+foot momentum has run away
+
+1011
+00:43:47,000 --> 00:43:51,000
+where did you go
+
+1012
+00:43:51,000 --> 00:43:52,000
+the answer is
+
+1013
+00:43:52,000 --> 00:43:53,000
+Who told me to slow down
+
+1014
+00:43:53,000 --> 00:43:56,000
+whoever has to take the momentum
+
+1015
+00:43:56,000 --> 00:43:57,000
+who made me slow down
+
+1016
+00:43:57,000 --> 00:43:58,000
+moon
+
+1017
+00:44:00,000 --> 00:44:02,000
+Pottery friction slows me down
+
+1018
+00:44:02,000 --> 00:44:04,000
+What about my angular momentum?
+
+1019
+00:44:04,000 --> 00:44:06,000
+you have to mature you have to continue to take
+
+1020
+00:44:06,000 --> 00:44:08,000
+how to take it is to use
+
+1021
+00:44:08,000 --> 00:44:10,000
+Force drama, this is physics
+
+1022
+00:44:10,000 --> 00:44:12,000
+what was the result
+
+1023
+00:44:12,000 --> 00:44:14,000
+The earth is spinning slower and slower
+
+1024
+00:44:14,000 --> 00:44:16,000
+Angular momentum is getting less and less
+
+1025
+00:44:16,000 --> 00:44:18,000
+That angular momentum is indestructible
+
+1026
+00:44:18,000 --> 00:44:20,000
+The angular momentum of the arm went to the moon
+
+1027
+00:44:20,000 --> 00:44:22,000
+what about the moon
+
+1028
+00:44:22,000 --> 00:44:24,000
+That angular momentum is increasing
+
+1029
+00:44:24,000 --> 00:44:26,000
+As a result his reaction was
+
+1030
+00:44:26,000 --> 00:44:28,000
+he has to turn faster
+
+1031
+00:44:28,000 --> 00:44:30,000
+Or he was revolving to
+
+1032
+00:44:30,000 --> 00:44:32,000
+a little bigger
+
+1033
+00:44:32,000 --> 00:44:34,000
+his final reaction
+
+1034
+00:44:34,000 --> 00:44:36,000
+turn out
+
+1035
+00:44:36,000 --> 00:44:38,000
+so
+
+1036
+00:44:38,000 --> 00:44:40,000
+It's not wrong that he's still orbiting the earth
+
+1037
+00:44:40,000 --> 00:44:42,000
+But he goes farther and farther
+
+1038
+00:44:42,000 --> 00:44:44,000
+sort of like a
+
+1039
+00:44:44,000 --> 00:44:46,000
+go out like a spiral
+
+1040
+00:44:46,000 --> 00:44:48,000
+further and further
+
+1041
+00:44:48,000 --> 00:44:50,000
+This one won't look too bad
+
+1042
+00:44:50,000 --> 00:44:52,000
+just slowly away
+
+1043
+00:44:52,000 --> 00:44:54,000
+how many
+
+1044
+00:44:54,000 --> 00:44:56,000
+how many
+
+1045
+00:44:56,000 --> 00:44:58,000
+only so much a year
+
+1046
+00:45:00,000 --> 00:45:03,440
+Click this much, about four centimeters, that's all.
+
+1047
+00:45:05,440 --> 00:45:08,100
+then this thing is true
+
+1048
+00:45:08,900 --> 00:45:10,300
+How dare I say it's true
+
+1049
+00:45:10,300 --> 00:45:12,140
+Because our mountain was cold
+
+1050
+00:45:13,600 --> 00:45:14,840
+look how cool
+
+1051
+00:45:15,740 --> 00:45:16,600
+this is awesome
+
+1052
+00:45:21,040 --> 00:45:23,440
+Is this the face?
+
+1053
+00:45:24,840 --> 00:45:28,340
+There are now 1 2 3 4 5 on this moon
+
+1054
+00:45:28,340 --> 00:45:30,380
+5 what have instruments placed on it
+
+1055
+00:45:30,380 --> 00:45:33,980
+Because at that time the Apollo program had boarded six times
+
+1056
+00:45:33,980 --> 00:45:36,680
+Put a lot of weird instruments on it every time
+
+1057
+00:45:37,980 --> 00:45:38,580
+besides
+
+1058
+00:45:39,540 --> 00:45:39,940
+two
+
+1059
+00:45:39,940 --> 00:45:43,080
+There were other trips to the Soviet Union
+
+1060
+00:45:43,080 --> 00:45:45,180
+No one in the Soviet Union has been there, yes
+
+1061
+00:45:45,180 --> 00:45:48,080
+and unmanned lunar landers
+
+1062
+00:45:48,080 --> 00:45:48,880
+logged in
+
+1063
+00:45:48,880 --> 00:45:49,940
+Also let go of the instrument
+
+1064
+00:45:51,580 --> 00:45:53,680
+There are a group of instrument people who look like this
+
+1065
+00:45:55,940 --> 00:45:57,440
+something like this
+
+1066
+00:45:57,440 --> 00:45:59,840
+It is a special reflector
+
+1067
+00:46:00,000 --> 00:46:02,640
+It's a mirror, but it's the kind
+
+1068
+00:46:02,640 --> 00:46:05,000
+at right angles to this
+
+1069
+00:46:05,000 --> 00:46:06,540
+called
+
+1070
+00:46:06,540 --> 00:46:09,440
+Well, let's call it a reflector.
+
+1071
+00:46:09,440 --> 00:46:12,840
+What is this for? What are you doing over there?
+
+1072
+00:46:12,840 --> 00:46:14,840
+are we from earth
+
+1073
+00:46:14,840 --> 00:46:16,240
+wow this thing
+
+1074
+00:46:16,240 --> 00:46:20,240
+If I accidentally swing someone else
+
+1075
+00:46:20,240 --> 00:46:22,000
+do we have it from earth
+
+1076
+00:46:22,000 --> 00:46:24,840
+made a big telescope
+
+1077
+00:46:24,840 --> 00:46:26,040
+the telescope probably
+
+1078
+00:46:26,040 --> 00:46:28,340
+At least one meter in diameter
+
+1079
+00:46:28,340 --> 00:46:29,400
+be big enough
+
+1080
+00:46:29,740 --> 00:46:30,740
+just what
+
+1081
+00:46:30,740 --> 00:46:34,140
+Use a telescope to shoot lasers
+
+1082
+00:46:34,140 --> 00:46:36,140
+send laser
+
+1083
+00:46:36,140 --> 00:46:39,060
+shot straight to the moon
+
+1084
+00:46:39,060 --> 00:46:41,300
+Then there are reflectors on the moon
+
+1085
+00:46:41,300 --> 00:46:43,200
+it puts the mirror
+
+1086
+00:46:43,200 --> 00:46:46,900
+That laser beam bounces back
+
+1087
+00:46:46,900 --> 00:46:50,060
+This light, wow, hundreds of thousands of kilometers
+
+1088
+00:46:50,060 --> 00:46:53,560
+send to receive back
+
+1089
+00:46:53,560 --> 00:46:55,900
+that time
+
+1090
+00:46:55,900 --> 00:46:58,860
+The amount of reflection is already very weak, very weak
+
+1091
+00:46:58,860 --> 00:46:59,920
+this experiment is really bad
+
+1092
+00:47:00,000 --> 00:47:02,400
+Do it well but do it successfully
+
+1093
+00:47:03,400 --> 00:47:05,800
+what do you do
+
+1094
+00:47:06,100 --> 00:47:09,400
+you are the time back in time
+
+1095
+00:47:09,700 --> 00:47:11,200
+maybe a few seconds a few seconds
+
+1096
+00:47:11,300 --> 00:47:13,100
+that can be measured very precisely
+
+1097
+00:47:14,000 --> 00:47:15,600
+Divide the speed of light by two
+
+1098
+00:47:15,700 --> 00:47:17,000
+That's the distance
+
+1099
+00:47:17,600 --> 00:47:20,100
+You measure this year and measure next year
+
+1100
+00:47:20,500 --> 00:47:22,400
+Measure it next year, measure it if you have nothing to do
+
+1101
+00:47:22,500 --> 00:47:23,700
+measure ten years
+
+1102
+00:47:24,600 --> 00:47:27,100
+You find it's getting farther and farther away
+
+1103
+00:47:27,600 --> 00:47:29,800
+Really, how much is it every year?
+
+1104
+00:47:29,900 --> 00:47:31,000
+almost that much
+
+1105
+00:47:32,100 --> 00:47:33,100
+Calculate this with us
+
+1106
+00:47:33,200 --> 00:47:36,300
+The formula of foot momentum and hand scale is the same
+
+1107
+00:47:36,900 --> 00:47:38,700
+more and more far away from us
+
+1108
+00:47:38,800 --> 00:47:40,600
+Every year almost so much now
+
+1109
+00:47:42,000 --> 00:47:43,200
+so what
+
+1110
+00:47:43,500 --> 00:47:44,600
+you can't see it, can you?
+
+1111
+00:47:44,700 --> 00:47:46,900
+Did you see the volume getting smaller and smaller, no?
+
+1112
+00:47:48,300 --> 00:47:50,400
+That's actually very little
+
+1113
+00:47:51,200 --> 00:47:52,900
+It seems that there is no need to worry, right?
+
+1114
+00:47:57,100 --> 00:47:59,000
+not so good
+
+1115
+00:48:00,000 --> 00:48:04,840
+Look at our earth now
+
+1116
+00:48:04,840 --> 00:48:06,840
+what about 100 years ago
+
+1117
+00:48:06,840 --> 00:48:08,840
+100 years ago this became 100
+
+1118
+00:48:08,840 --> 00:48:09,840
+All right
+
+1119
+00:48:09,840 --> 00:48:12,840
+a little closer
+
+1120
+00:48:12,840 --> 00:48:15,340
+Good 100 years I will give you 10,000 years
+
+1121
+00:48:15,340 --> 00:48:16,840
+OK
+
+1122
+00:48:16,840 --> 00:48:18,840
+Do you think 10,000 years is not enough to win?
+
+1123
+00:48:18,840 --> 00:48:20,840
+I give you 1 million years
+
+1124
+00:48:20,840 --> 00:48:22,840
+Not enough for me to give you 100 million years
+
+1125
+00:48:22,840 --> 00:48:24,840
+The earth is very old, no problem
+
+1126
+00:48:24,840 --> 00:48:26,840
+You are not enough to win in 100 million years
+
+1127
+00:48:26,840 --> 00:48:28,840
+I give you 1 billion years
+
+1128
+00:48:29,180 --> 00:48:31,180
+you go admit it
+
+1129
+00:48:31,180 --> 00:48:33,180
+billions of years ago
+
+1130
+00:48:33,180 --> 00:48:34,680
+Wow
+
+1131
+00:48:34,680 --> 00:48:36,680
+where is the moon
+
+1132
+00:48:36,680 --> 00:48:38,680
+next to our earth
+
+1133
+00:48:38,680 --> 00:48:40,680
+what is it
+
+1134
+00:48:40,680 --> 00:48:42,680
+what does this mean
+
+1135
+00:48:42,680 --> 00:48:44,680
+What is the moon next to the earth
+
+1136
+00:48:44,680 --> 00:48:46,680
+What does that mean
+
+1137
+00:48:46,680 --> 00:48:48,680
+this
+
+1138
+00:48:48,680 --> 00:48:50,680
+It's not about digestion
+
+1139
+00:48:50,680 --> 00:48:52,680
+because it's true
+
+1140
+00:48:52,680 --> 00:48:54,680
+very important one
+
+1141
+00:48:54,680 --> 00:48:56,680
+results of scientific research
+
+1142
+00:48:56,680 --> 00:48:58,680
+research this thing
+
+1143
+00:48:58,680 --> 00:49:00,680
+is the biggest look
+
+1144
+00:49:00,000 --> 00:49:03,300
+The first person to study this phenomenon
+
+1145
+00:49:03,300 --> 00:49:04,900
+more than a hundred years ago
+
+1146
+00:49:04,900 --> 00:49:07,000
+call darwin
+
+1147
+00:49:08,000 --> 00:49:11,000
+You say I know Darwin is the theory of evolution
+
+1148
+00:49:11,000 --> 00:49:12,500
+not him
+
+1149
+00:49:13,500 --> 00:49:15,000
+is his son
+
+1150
+00:49:15,500 --> 00:49:18,000
+His son's name is Darwin, of course.
+
+1151
+00:49:19,500 --> 00:49:23,000
+The man who evolved was Charles Darwin
+
+1152
+00:49:23,000 --> 00:49:27,000
+This astronomer's name is George Darwin
+
+1153
+00:49:27,000 --> 00:49:29,000
+This is a famous astronomer
+
+1154
+00:49:29,000 --> 00:49:31,000
+This is what he came up with
+
+1155
+00:49:31,000 --> 00:49:32,500
+and calculated
+
+1156
+00:49:32,500 --> 00:49:34,500
+We're all confirmed now
+
+1157
+00:49:35,500 --> 00:49:39,500
+When he asked the question I just asked
+
+1158
+00:49:39,500 --> 00:49:44,000
+He boldly proposed a concept
+
+1159
+00:49:44,000 --> 00:49:47,500
+What does it mean when the moon was next to the earth?
+
+1160
+00:49:47,500 --> 00:49:49,500
+He said how the moon came
+
+1161
+00:49:49,500 --> 00:49:53,000
+It was thrown by the earth spinning too fast
+
+1162
+00:49:53,000 --> 00:49:55,000
+that's ok
+
+1163
+00:49:55,000 --> 00:49:56,000
+May I
+
+1164
+00:49:56,000 --> 00:49:58,000
+And you also know that the rotation is fast at that time
+
+1165
+00:49:58,000 --> 00:49:59,000
+right
+
+1166
+00:49:59,000 --> 00:50:00,000
+Then it got slower and slower
+
+1167
+00:50:00,000 --> 00:50:02,000
+as soon as the situation
+
+1168
+00:50:02,000 --> 00:50:04,000
+maybe in the event of some disturbance
+
+1169
+00:50:04,000 --> 00:50:07,000
+the whole piece ran away
+
+1170
+00:50:07,000 --> 00:50:09,000
+The one that got away is our current moon
+
+1171
+00:50:09,000 --> 00:50:10,000
+what's wrong
+
+1172
+00:50:10,000 --> 00:50:12,000
+May I
+
+1173
+00:50:12,000 --> 00:50:16,000
+When this theory was proposed more than 100 years ago
+
+1174
+00:50:16,000 --> 00:50:20,000
+immediately received a lot of attention
+
+1175
+00:50:20,000 --> 00:50:21,000
+real
+
+1176
+00:50:21,000 --> 00:50:22,000
+Wow
+
+1177
+00:50:22,000 --> 00:50:23,000
+we understand now
+
+1178
+00:50:23,000 --> 00:50:25,000
+and some even say
+
+1179
+00:50:25,000 --> 00:50:27,000
+you run away a piece
+
+1180
+00:50:27,000 --> 00:50:29,000
+The earth must be missing a piece
+
+1181
+00:50:30,000 --> 00:50:32,000
+So isn't there a big pull?
+
+1182
+00:50:32,000 --> 00:50:33,000
+what is that pull
+
+1183
+00:50:33,000 --> 00:50:34,000
+ocean
+
+1184
+00:50:34,000 --> 00:50:36,000
+It's too cold, isn't it?
+
+1185
+00:50:36,000 --> 00:50:37,000
+look
+
+1186
+00:50:37,000 --> 00:50:39,000
+Wow
+
+1187
+00:50:39,000 --> 00:50:40,000
+this is great
+
+1188
+00:50:40,000 --> 00:50:41,000
+a theory like this
+
+1189
+00:50:41,000 --> 00:50:42,000
+The moon also understands
+
+1190
+00:50:42,000 --> 00:50:44,000
+The ocean also understands
+
+1191
+00:50:45,000 --> 00:50:46,000
+this is
+
+1192
+00:50:46,000 --> 00:50:48,000
+it's a real thing
+
+1193
+00:50:48,000 --> 00:50:49,000
+OK
+
+1194
+00:50:55,000 --> 00:50:57,000
+so at that time
+
+1195
+00:50:57,000 --> 00:51:01,000
+growth of the moon
+
+1196
+00:51:00,000 --> 00:51:04,860
+This Kangying, this George Darwin proposed
+
+1197
+00:51:06,140 --> 00:51:07,440
+It was proposed in 1878
+
+1198
+00:51:07,440 --> 00:51:12,140
+This theory is nicknamed this
+
+1199
+00:51:12,140 --> 00:51:15,760
+叫Parenthood theory
+
+1200
+00:51:15,760 --> 00:51:17,040
+It's parent-child talk
+
+1201
+00:51:17,040 --> 00:51:21,840
+It means that the moon is the descendant of our earth.
+
+1202
+00:51:23,040 --> 00:51:26,960
+This is you see my picture is so big and only write this small piece
+
+1203
+00:51:27,800 --> 00:51:28,520
+what is the reason
+
+1204
+00:51:28,520 --> 00:51:30,040
+Because there's something underneath, right?
+
+1205
+00:51:31,160 --> 00:51:34,680
+This is the theory number one of the birth of the moon
+
+1206
+00:51:36,600 --> 00:51:37,560
+is there number two
+
+1207
+00:51:38,400 --> 00:51:39,640
+This is number one what I just said
+
+1208
+00:51:40,920 --> 00:51:43,240
+It's like going to World University, right?
+
+1209
+00:51:44,360 --> 00:51:47,680
+Of course, some people think it's impossible.
+
+1210
+00:51:47,680 --> 00:51:49,000
+but this
+
+1211
+00:51:51,840 --> 00:51:52,880
+not like that
+
+1212
+00:51:52,880 --> 00:51:54,120
+it was then
+
+1213
+00:51:54,120 --> 00:51:59,120
+When you formed, when the solar system formed, large and small gathered
+
+1214
+00:52:00,000 --> 00:52:01,640
+I gather here
+
+1215
+00:52:01,640 --> 00:52:04,600
+Are you the moon or the earth?
+
+1216
+00:52:04,600 --> 00:52:05,800
+it's also a theory
+
+1217
+00:52:05,800 --> 00:52:08,400
+there's nothing wrong with that
+
+1218
+00:52:08,400 --> 00:52:10,680
+This is called, nicknamed "Siblings"
+
+1219
+00:52:10,680 --> 00:52:13,320
+called sisterhood
+
+1220
+00:52:13,320 --> 00:52:15,560
+There's another piece over here
+
+1221
+00:52:15,560 --> 00:52:18,320
+It's theory number two and number three.
+
+1222
+00:52:18,320 --> 00:52:20,360
+number three is
+
+1223
+00:52:20,360 --> 00:52:21,600
+it's all modern
+
+1224
+00:52:21,600 --> 00:52:25,200
+This was a hundred years ago, more than a hundred years ago
+
+1225
+00:52:25,200 --> 00:52:27,160
+This is what the spouse said
+
+1226
+00:52:27,160 --> 00:52:28,080
+spouse said
+
+1227
+00:52:28,080 --> 00:52:29,040
+what is it then
+
+1228
+00:52:29,040 --> 00:52:33,640
+just look at it
+
+1229
+00:52:33,640 --> 00:52:36,960
+was captured
+
+1230
+00:52:36,960 --> 00:52:39,280
+That is to say, our earth was a
+
+1231
+00:52:39,280 --> 00:52:39,920
+bachelor
+
+1232
+00:52:39,920 --> 00:52:42,000
+I am professional
+
+1233
+00:52:42,000 --> 00:52:43,520
+what year
+
+1234
+00:52:43,520 --> 00:52:45,080
+it's all about
+
+1235
+00:52:45,080 --> 00:52:48,040
+Early days of the solar system, infancy
+
+1236
+00:52:48,040 --> 00:52:51,120
+There won't be such a big change later
+
+1237
+00:52:51,120 --> 00:52:53,920
+We accidentally walked a guy nearby
+
+1238
+00:52:53,920 --> 00:52:55,640
+is the moon
+
+1239
+00:52:55,640 --> 00:52:59,800
+got sucked into the earth
+
+1240
+00:53:00,000 --> 00:53:02,600
+It's okay if there's nothing wrong with it
+
+1241
+00:53:02,600 --> 00:53:07,400
+This is theory number three
+
+1242
+00:53:07,400 --> 00:53:10,200
+Every theory it supports what it says
+
+1243
+00:53:10,200 --> 00:53:12,900
+must be right in school
+
+1244
+00:53:12,900 --> 00:53:17,800
+It's also possible that it's too impossible
+
+1245
+00:53:17,800 --> 00:53:19,700
+But you just say
+
+1246
+00:53:19,700 --> 00:53:21,600
+pei says
+
+1247
+00:53:21,600 --> 00:53:25,500
+We now think Mars has two small moons
+
+1248
+00:53:25,500 --> 00:53:27,800
+I just had a photo
+
+1249
+00:53:27,800 --> 00:53:31,900
+That's how the two little moons were caught just now
+
+1250
+00:53:31,900 --> 00:53:35,000
+So this is not to say nonsense.
+
+1251
+00:53:35,000 --> 00:53:36,700
+it's really possible
+
+1252
+00:53:36,700 --> 00:53:38,500
+Is it possible in school
+
+1253
+00:53:38,500 --> 00:53:41,000
+Plus
+
+1254
+00:53:41,000 --> 00:53:44,500
+At the time of this Lantern Moon
+
+1255
+00:53:44,500 --> 00:53:47,200
+Every time some rocks come back
+
+1256
+00:53:47,200 --> 00:53:49,800
+rocks of the moon moved back
+
+1257
+00:53:49,800 --> 00:53:51,800
+Then draw in the laboratory
+
+1258
+00:53:51,800 --> 00:53:54,600
+compared with the earth
+
+1259
+00:53:54,600 --> 00:53:56,500
+It's basically the same as the rocks of the earth.
+
+1260
+00:53:56,500 --> 00:53:58,600
+But there's always something a little different
+
+1261
+00:53:58,600 --> 00:54:00,600
+those little ones are different
+
+1262
+00:54:00,000 --> 00:54:04,000
+Can you use any of these theories to explain
+
+1263
+00:54:04,000 --> 00:54:06,000
+The result is almost
+
+1264
+00:54:06,000 --> 00:54:09,000
+Every theory seems to be right
+
+1265
+00:54:09,000 --> 00:54:12,000
+There are also flaws
+
+1266
+00:54:12,000 --> 00:54:15,000
+Then we can't argue, right?
+
+1267
+00:54:15,000 --> 00:54:18,000
+Then we will write these three here now
+
+1268
+00:54:18,000 --> 00:54:20,000
+You can also be your judge
+
+1269
+00:54:20,000 --> 00:54:22,000
+whichever one you like, right?
+
+1270
+00:54:22,000 --> 00:54:25,000
+we wait for you to reveal
+
+1271
+00:54:25,000 --> 00:54:28,000
+because we now only think
+
+1272
+00:54:28,000 --> 00:54:31,000
+It can't be all right, right?
+
+1273
+00:54:31,000 --> 00:54:33,000
+then you can now
+
+1274
+00:54:33,000 --> 00:54:37,000
+You are the only one like this
+
+1275
+00:54:37,000 --> 00:54:41,000
+Then I will tell you the answer now
+
+1276
+00:54:41,000 --> 00:54:42,000
+the answer is
+
+1277
+00:54:42,000 --> 00:54:46,000
+none of above
+
+1278
+00:54:46,000 --> 00:54:50,000
+We now think the answer is
+
+1279
+00:54:50,000 --> 00:54:52,000
+it came out
+
+1280
+00:54:52,000 --> 00:54:53,000
+Where did it come from?
+
+1281
+00:54:53,000 --> 00:54:54,000
+knocked out
+
+1282
+00:54:54,000 --> 00:54:56,000
+what is knocked out
+
+1283
+00:54:56,000 --> 00:54:57,000
+this is still
+
+1284
+00:54:57,000 --> 00:54:58,000
+this is not a photo
+
+1285
+00:54:58,000 --> 00:55:00,000
+This is of course human
+
+1286
+00:55:00,000 --> 00:55:04,600
+This is also the infancy of the solar system
+
+1287
+00:55:04,600 --> 00:55:09,740
+That is, within the first 100 million years of 4.6 billion years ago
+
+1288
+00:55:09,740 --> 00:55:11,640
+Isn't it infancy?
+
+1289
+00:55:11,640 --> 00:55:14,940
+something that happened at that time
+
+1290
+00:55:14,940 --> 00:55:16,940
+what does it look like
+
+1291
+00:55:16,940 --> 00:55:22,040
+It was at that time that things were still not in order
+
+1292
+00:55:22,040 --> 00:55:23,740
+It's just that the solar system is not messed up
+
+1293
+00:55:23,740 --> 00:55:25,340
+everyone has everyone's track
+
+1294
+00:55:25,340 --> 00:55:28,740
+But it hasn't been cleaned yet.
+
+1295
+00:55:29,340 --> 00:55:33,740
+once the earth collided with another guy
+
+1296
+00:55:33,740 --> 00:55:35,440
+that guy is big enough
+
+1297
+00:55:35,440 --> 00:55:36,640
+If the earth is so big
+
+1298
+00:55:36,640 --> 00:55:39,340
+That guy probably
+
+1299
+00:55:39,340 --> 00:55:40,780
+he is so big
+
+1300
+00:55:40,780 --> 00:55:43,440
+Mars is big enough
+
+1301
+00:55:43,440 --> 00:55:46,140
+These two things collided
+
+1302
+00:55:46,140 --> 00:55:48,740
+Of course it's not the same when we bump into each other
+
+1303
+00:55:48,740 --> 00:55:50,340
+hit it hard
+
+1304
+00:55:50,340 --> 00:55:56,040
+The whole thing just hits everything into ashes
+
+1305
+00:55:56,040 --> 00:55:58,440
+This bomb is everywhere
+
+1306
+00:55:58,440 --> 00:55:59,940
+something knocked out
+
+1307
+00:56:00,000 --> 00:56:05,000
+Most of the things crashed out and flew all over the sky
+
+1308
+00:56:05,000 --> 00:56:07,000
+Big back and sucked back
+
+1309
+00:56:07,000 --> 00:56:09,000
+right? drop back again
+
+1310
+00:56:09,000 --> 00:56:11,000
+still something to get
+
+1311
+00:56:11,000 --> 00:56:13,000
+Accidentally get more energy
+
+1312
+00:56:13,000 --> 00:56:16,000
+run away, run away forever
+
+1313
+00:56:16,000 --> 00:56:18,000
+there are many things
+
+1314
+00:56:18,000 --> 00:56:21,000
+Didn't run away, didn't fall down
+
+1315
+00:56:21,000 --> 00:56:23,000
+it had to go around
+
+1316
+00:56:23,000 --> 00:56:25,000
+because it also has foot momentum
+
+1317
+00:56:25,000 --> 00:56:27,000
+If you have feet, you have to go around
+
+1318
+00:56:27,000 --> 00:56:30,000
+It is likely that the earth at that time
+
+1319
+00:56:30,000 --> 00:56:33,000
+There is a ring
+
+1320
+00:56:33,000 --> 00:56:35,000
+All are the fastest substances
+
+1321
+00:56:35,000 --> 00:56:38,000
+like what it is now
+
+1322
+00:56:38,000 --> 00:56:40,000
+rage star is like this
+
+1323
+00:56:40,000 --> 00:56:41,000
+not saturn
+
+1324
+00:56:41,000 --> 00:56:44,000
+Doesn't Saturn have rings?
+
+1325
+00:56:44,000 --> 00:56:47,000
+I guess the earth was like that at that time
+
+1326
+00:56:47,000 --> 00:56:48,000
+Then what
+
+1327
+00:56:48,000 --> 00:56:49,000
+inside the rings of saturn
+
+1328
+00:56:49,000 --> 00:56:51,000
+these big and small things
+
+1329
+00:56:51,000 --> 00:56:54,000
+It has this gravitational force in it
+
+1330
+00:56:54,000 --> 00:56:56,000
+slowly inhale
+
+1331
+00:56:56,000 --> 00:56:59,000
+Doesn't it like to be round in the end?
+
+1332
+00:56:59,000 --> 00:57:00,000
+yes big enough
+
+1333
+00:57:00,000 --> 00:57:04,160
+If it is round enough, it will become the moon, that's not how it came about
+
+1334
+00:57:04,160 --> 00:57:06,640
+Is this theory over?
+
+1335
+00:57:06,640 --> 00:57:10,160
+People say it's right, right, right, right?
+
+1336
+00:57:10,160 --> 00:57:14,040
+You want to prove it, how can such a person prove it?
+
+1337
+00:57:14,040 --> 00:57:17,840
+It's right for you to talk nonsense like this.
+
+1338
+00:57:17,840 --> 00:57:22,720
+But this is not nonsense now, it has been proven to be broken
+
+1339
+00:57:22,720 --> 00:57:24,440
+How was it confirmed?
+
+1340
+00:57:24,440 --> 00:57:29,240
+confirmed in the computer
+
+1341
+00:57:30,240 --> 00:57:34,240
+this was ten years ago
+
+1342
+00:57:34,240 --> 00:57:37,240
+There are scientists who use computers
+
+1343
+00:57:37,240 --> 00:57:41,240
+The computer is getting bigger and bigger, the ability, this ability
+
+1344
+00:57:41,240 --> 00:57:44,240
+more and more powerful
+
+1345
+00:57:44,240 --> 00:57:49,240
+I am not me, I say scientists
+
+1346
+00:57:49,240 --> 00:57:53,240
+such a crash event
+
+1347
+00:57:53,240 --> 00:57:56,240
+Simulate, use a computer to simulate
+
+1348
+00:57:56,240 --> 00:57:58,240
+Mock doesn't tell him to call someone to draw Kao Dong Tu
+
+1349
+00:57:58,240 --> 00:58:00,240
+Then draw it like this
+
+1350
+00:58:00,000 --> 00:58:02,300
+No, let him do the math
+
+1351
+00:58:02,300 --> 00:58:05,340
+He must base his calculations on
+
+1352
+00:58:05,340 --> 00:58:07,740
+correct physics
+
+1353
+00:58:07,740 --> 00:58:09,740
+because it's not easy
+
+1354
+00:58:09,740 --> 00:58:15,500
+All relevant physical aspects of such events
+
+1355
+00:58:15,500 --> 00:58:19,840
+All truths must be written in mathematical formulas
+
+1356
+00:58:19,840 --> 00:58:23,500
+Then give him a two thing and start him banging
+
+1357
+00:58:23,500 --> 00:58:26,440
+After hitting it, it will become like this
+
+1358
+00:58:26,440 --> 00:58:27,900
+then what happens
+
+1359
+00:58:27,900 --> 00:58:30,600
+Look at the last in the computer
+
+1360
+00:58:30,600 --> 00:58:33,300
+Is it possible to create a moon
+
+1361
+00:58:33,300 --> 00:58:36,200
+this thing worked
+
+1362
+00:58:36,200 --> 00:58:38,100
+Since it was successful
+
+1363
+00:58:38,100 --> 00:58:41,300
+Is there anyone going to steal something?
+
+1364
+00:58:41,300 --> 00:58:43,900
+really can be successful
+
+1365
+00:58:43,900 --> 00:58:47,400
+So the theory is accepted
+
+1366
+00:58:47,400 --> 00:58:48,900
+This theory was accepted
+
+1367
+00:58:48,900 --> 00:58:52,000
+as we now think
+
+1368
+00:58:52,000 --> 00:58:54,600
+That's how the moon came about
+
+1369
+00:58:54,600 --> 00:58:57,300
+that's how it came out
+
+1370
+00:58:57,300 --> 00:59:00,000
+Of course, there are many other problems derived from this.
+
+1371
+00:59:00,000 --> 00:59:02,360
+For example, maybe you see this and you think
+
+1372
+00:59:02,360 --> 00:59:03,960
+Yes, that Jupiter
+
+1373
+00:59:03,960 --> 00:59:06,500
+Isn't Saturn just like this now?
+
+1374
+00:59:06,500 --> 00:59:08,300
+Then you can ask the next sentence saying
+
+1375
+00:59:08,300 --> 00:59:09,600
+those Saturn things
+
+1376
+00:59:09,600 --> 00:59:11,340
+Instead, why didn't it grow into a moon?
+
+1377
+00:59:11,340 --> 00:59:12,500
+why not
+
+1378
+00:59:12,500 --> 00:59:15,300
+Why can the earth grow into the moon
+
+1379
+00:59:15,300 --> 00:59:16,740
+I know this too
+
+1380
+00:59:16,740 --> 00:59:17,540
+know why
+
+1381
+00:59:17,540 --> 00:59:20,040
+Because Saturn is bigger
+
+1382
+00:59:20,040 --> 00:59:22,740
+that gravity is very strong
+
+1383
+00:59:22,740 --> 00:59:25,740
+the substance near it
+
+1384
+00:59:25,740 --> 00:59:28,240
+want to attract each other
+
+1385
+00:59:28,240 --> 00:59:29,800
+want to be the moon
+
+1386
+00:59:29,800 --> 00:59:33,860
+It cannot be done in the process of a proto-moon
+
+1387
+00:59:33,860 --> 00:59:37,400
+Because the tidal force is too strong
+
+1388
+00:59:37,400 --> 00:59:40,900
+If you want to mess with that layer, I'll tear it up
+
+1389
+00:59:40,900 --> 00:59:42,660
+tidal force will tear it apart
+
+1390
+00:59:42,660 --> 00:59:44,460
+so it doesn't fit
+
+1391
+00:59:44,460 --> 00:59:46,300
+I know this too
+
+1392
+00:59:46,300 --> 00:59:48,160
+the earth is so small
+
+1393
+00:59:48,160 --> 00:59:50,460
+The tidal force is not so fierce
+
+1394
+00:59:50,460 --> 00:59:52,360
+it is possible to grow a moon
+
+1395
+00:59:52,360 --> 00:59:55,860
+this is also possible
+
+1396
+00:59:55,920 --> 00:59:57,580
+what about this theory
+
+1397
+00:59:57,580 --> 00:59:59,880
+by the way
+
+1398
+01:00:00,000 --> 01:00:04,000
+some get some unexpected benefits
+
+1399
+01:00:04,000 --> 01:00:10,000
+For example, I just said
+
+1400
+01:00:10,000 --> 01:00:12,000
+stones you brought from karma
+
+1401
+01:00:12,000 --> 01:00:13,000
+i'll say something
+
+1402
+01:00:13,000 --> 01:00:14,000
+How is it different from the earth
+
+1403
+01:00:14,000 --> 01:00:16,000
+then use this theory
+
+1404
+01:00:16,000 --> 01:00:18,000
+Can you explain those differences?
+
+1405
+01:00:18,000 --> 01:00:19,000
+it's not my specialty
+
+1406
+01:00:19,000 --> 01:00:21,000
+but the answer is yes
+
+1407
+01:00:21,000 --> 01:00:24,000
+there are some interesting
+
+1408
+01:00:24,000 --> 01:00:26,000
+conscious
+
+1409
+01:00:27,000 --> 01:00:29,000
+for example by-products
+
+1410
+01:00:29,000 --> 01:00:32,000
+Here I will tell one of them is very interesting
+
+1411
+01:00:32,000 --> 01:00:34,000
+this thing is like this
+
+1412
+01:00:34,000 --> 01:00:37,000
+This is in our solar system
+
+1413
+01:00:37,000 --> 01:00:41,000
+I say the tuba members of the family
+
+1414
+01:00:41,000 --> 01:00:44,000
+This size is the proportion is correct
+
+1415
+01:00:44,000 --> 01:00:46,000
+If the earth is so big
+
+1416
+01:00:46,000 --> 01:00:48,000
+There are four older than us
+
+1417
+01:00:48,000 --> 01:00:50,000
+Just the four outside
+
+1418
+01:00:50,000 --> 01:00:51,000
+the outer four
+
+1419
+01:00:51,000 --> 01:00:53,000
+The biggest is of course Jupiter
+
+1420
+01:00:53,000 --> 01:00:55,000
+then saturn
+
+1421
+01:00:55,000 --> 01:00:57,000
+Uranus Kaiwang
+
+1422
+01:00:57,000 --> 01:01:00,000
+There is also a name that was removed from the list a few years ago
+
+1423
+01:01:00,000 --> 01:01:02,000
+The heart is small, don't worry about it
+
+1424
+01:01:02,000 --> 01:01:04,000
+The earth is actually only this big
+
+1425
+01:01:04,000 --> 01:01:06,000
+look at this
+
+1426
+01:01:06,000 --> 01:01:08,000
+this is our planet
+
+1427
+01:01:10,000 --> 01:01:12,000
+this is ours
+
+1428
+01:01:12,000 --> 01:01:14,000
+this is still our planet
+
+1429
+01:01:14,000 --> 01:01:16,000
+This is us, this is what's inside us
+
+1430
+01:01:16,000 --> 01:01:18,000
+One is Jingxing
+
+1431
+01:01:18,000 --> 01:01:20,000
+about the same size , a little bit smaller than us
+
+1432
+01:01:20,000 --> 01:01:22,000
+It doesn't matter, the living star is just that big
+
+1433
+01:01:22,000 --> 01:01:24,000
+these are all the moons
+
+1434
+01:01:24,000 --> 01:01:26,000
+bigger moon
+
+1435
+01:01:26,000 --> 01:01:28,000
+How big is that small moon?
+
+1436
+01:01:28,000 --> 01:01:30,000
+There are hundreds of them
+
+1437
+01:01:30,000 --> 01:01:32,000
+this is big
+
+1438
+01:01:32,000 --> 01:01:34,000
+a whole bunch of these planets
+
+1439
+01:01:34,000 --> 01:01:36,000
+family of the moon
+
+1440
+01:01:36,000 --> 01:01:38,000
+members line up
+
+1441
+01:01:38,000 --> 01:01:40,000
+from largest to second largest
+
+1442
+01:01:40,000 --> 01:01:42,000
+the moon is here
+
+1443
+01:01:44,000 --> 01:01:46,000
+this one
+
+1444
+01:01:46,000 --> 01:01:48,000
+this one
+
+1445
+01:01:48,000 --> 01:01:50,000
+these four
+
+1446
+01:01:50,000 --> 01:01:52,000
+is famous
+
+1447
+01:01:52,000 --> 01:01:54,000
+called galilean moon
+
+1448
+01:01:54,000 --> 01:01:56,000
+It's all about Jupiter
+
+1449
+01:01:56,000 --> 01:01:58,000
+Galileo
+
+1450
+01:01:58,000 --> 01:02:00,000
+not binoculars
+
+1451
+01:02:00,000 --> 01:02:03,600
+time to see it ? also see jupiter
+
+1452
+01:02:03,600 --> 01:02:06,640
+As a result, I saw four moons, these four
+
+1453
+01:02:06,640 --> 01:02:08,840
+is large
+
+1454
+01:02:08,840 --> 01:02:11,200
+OK look
+
+1455
+01:02:11,200 --> 01:02:13,540
+The moon, all the moons line up like this
+
+1456
+01:02:13,540 --> 01:02:16,500
+our moon is really big
+
+1457
+01:02:16,500 --> 01:02:17,540
+Although not the biggest
+
+1458
+01:02:17,540 --> 01:02:20,140
+but it's really big
+
+1459
+01:02:20,140 --> 01:02:21,100
+how about this
+
+1460
+01:02:21,100 --> 01:02:24,000
+look back
+
+1461
+01:02:24,000 --> 01:02:27,540
+so big
+
+1462
+01:02:27,740 --> 01:02:31,240
+its the moon
+
+1463
+01:02:31,240 --> 01:02:33,540
+we do
+
+1464
+01:02:33,540 --> 01:02:34,540
+our moon
+
+1465
+01:02:34,540 --> 01:02:38,540
+How did we get such a big moon
+
+1466
+01:02:38,540 --> 01:02:40,540
+our moon is really big
+
+1467
+01:02:40,540 --> 01:02:42,540
+I kid you not
+
+1468
+01:02:42,540 --> 01:02:43,840
+in the end is
+
+1469
+01:02:43,840 --> 01:02:46,340
+This has always been a problem
+
+1470
+01:02:46,340 --> 01:02:48,840
+Astronomers have been asking this question too
+
+1471
+01:02:48,840 --> 01:02:51,440
+Why is our moon so big?
+
+1472
+01:02:51,440 --> 01:02:52,340
+have no idea
+
+1473
+01:02:52,340 --> 01:02:54,340
+Now
+
+1474
+01:02:57,540 --> 01:03:00,540
+Now is this a problem? How big does it grow?
+
+1475
+01:03:00,000 --> 01:03:01,100
+How old is it?
+
+1476
+01:03:02,240 --> 01:03:03,340
+it can even be
+
+1477
+01:03:03,340 --> 01:03:06,640
+The one bigger than our earth is fine.
+
+1478
+01:03:06,640 --> 01:03:08,400
+that is to say we are now
+
+1479
+01:03:08,400 --> 01:03:10,840
+we live on the small one
+
+1480
+01:03:10,840 --> 01:03:12,800
+those hearts
+
+1481
+01:03:12,800 --> 01:03:15,100
+why does it have to be so much smaller than you
+
+1482
+01:03:15,100 --> 01:03:16,700
+No one stipulated this
+
+1483
+01:03:16,700 --> 01:03:19,400
+Whatever happens when it hits
+
+1484
+01:03:19,400 --> 01:03:21,640
+it's big or small
+
+1485
+01:03:21,640 --> 01:03:24,000
+So what if it's quite big now?
+
+1486
+01:03:24,000 --> 01:03:26,600
+no problem, right?
+
+1487
+01:03:26,600 --> 01:03:28,400
+Ok, this problem is also solved
+
+1488
+01:03:28,400 --> 01:03:29,900
+I believe this question is for us
+
+1489
+01:03:29,900 --> 01:03:32,600
+In fact, very few people actually ask this question.
+
+1490
+01:03:32,600 --> 01:03:33,400
+right
+
+1491
+01:03:33,400 --> 01:03:34,900
+Because we have long been used to our moon
+
+1492
+01:03:34,900 --> 01:03:37,300
+I thought the moon in the world should be this big
+
+1493
+01:03:37,300 --> 01:03:38,800
+No la
+
+1494
+01:03:44,900 --> 01:03:46,200
+OK
+
+1495
+01:03:49,500 --> 01:03:53,500
+Another astronomer or physicist
+
+1496
+01:03:53,500 --> 01:03:56,600
+Anyway, the puzzling thing is this
+
+1497
+01:03:56,700 --> 01:03:59,100
+You see, the earth is placed like this
+
+1498
+01:03:59,100 --> 01:04:00,600
+then you call
+
+1499
+01:04:00,000 --> 01:04:02,740
+So you buy it back and buy it like this
+
+1500
+01:04:02,740 --> 01:04:06,140
+It's not that you shake it when you buy it.
+
+1501
+01:04:06,140 --> 01:04:07,600
+It's like this when I bought it.
+
+1502
+01:04:07,600 --> 01:04:09,840
+I didn't move it
+
+1503
+01:04:09,840 --> 01:04:10,640
+right
+
+1504
+01:04:10,640 --> 01:04:13,400
+We all... all one-ball hawks do this, right?
+
+1505
+01:04:13,400 --> 01:04:14,600
+Why
+
+1506
+01:04:14,600 --> 01:04:16,900
+Doesn't it look good?
+
+1507
+01:04:16,900 --> 01:04:18,540
+it's slanted
+
+1508
+01:04:18,540 --> 01:04:20,640
+What is it oblique to?
+
+1509
+01:04:20,640 --> 01:04:21,640
+that's right
+
+1510
+01:04:21,640 --> 01:04:24,040
+Then we now call it yellow rice noodles
+
+1511
+01:04:24,040 --> 01:04:24,740
+is the sun
+
+1512
+01:04:24,740 --> 01:04:27,100
+we know which side of the sun
+
+1513
+01:04:27,100 --> 01:04:29,900
+If the face is flat
+
+1514
+01:04:29,900 --> 01:04:33,740
+Our earth actually rotates in Y direction
+
+1515
+01:04:33,740 --> 01:04:36,600
+Then there's an angle here, right?
+
+1516
+01:04:36,600 --> 01:04:39,800
+This is called the inclination of the Earth's rotation.
+
+1517
+01:04:39,800 --> 01:04:42,340
+The angle of 23 and a half degrees
+
+1518
+01:04:42,340 --> 01:04:46,700
+It is because of this angle that 4G is available, right?
+
+1519
+01:04:46,700 --> 01:04:47,200
+think about it
+
+1520
+01:04:47,200 --> 01:04:49,800
+If it turns like this
+
+1521
+01:04:49,800 --> 01:04:50,700
+until the sun turns like this
+
+1522
+01:04:50,700 --> 01:04:54,140
+There is no 4G here
+
+1523
+01:04:54,140 --> 01:04:55,500
+4G too
+
+1524
+01:04:55,500 --> 01:04:58,500
+We figured it out after we knew there were these things
+
+1525
+01:04:58,500 --> 01:04:59,500
+Yes, that's right
+
+1526
+01:05:00,000 --> 01:05:02,000
+That's how it came
+
+1527
+01:05:05,000 --> 01:05:07,000
+why is it so crooked
+
+1528
+01:05:07,000 --> 01:05:09,000
+because of you because
+
+1529
+01:05:09,000 --> 01:05:13,000
+According to the theory of our solar system formation
+
+1530
+01:05:13,000 --> 01:05:14,000
+is generated like this
+
+1531
+01:05:14,000 --> 01:05:17,000
+4.6 billion years ago
+
+1532
+01:05:17,000 --> 01:05:20,000
+a big pot
+
+1533
+01:05:20,000 --> 01:05:23,000
+a lot of little things
+
+1534
+01:05:23,000 --> 01:05:25,000
+everyone is here
+
+1535
+01:05:25,000 --> 01:05:26,000
+everyone is going around
+
+1536
+01:05:26,000 --> 01:05:27,000
+everyone is turning
+
+1537
+01:05:27,000 --> 01:05:28,000
+why turn
+
+1538
+01:05:28,000 --> 01:05:30,000
+because when it is generated
+
+1539
+01:05:30,000 --> 01:05:33,000
+accidentally assigned a lot of angular momentum
+
+1540
+01:05:33,000 --> 01:05:34,000
+what about it
+
+1541
+01:05:34,000 --> 01:05:35,000
+had to go around
+
+1542
+01:05:35,000 --> 01:05:36,000
+just turn
+
+1543
+01:05:36,000 --> 01:05:38,000
+when turning
+
+1544
+01:05:38,000 --> 01:05:40,000
+under gravity
+
+1545
+01:05:40,000 --> 01:05:42,000
+This is how my tour is already
+
+1546
+01:05:42,000 --> 01:05:45,000
+The most stable condition is a flat turn
+
+1547
+01:05:45,000 --> 01:05:48,000
+a disc turn
+
+1548
+01:05:48,000 --> 01:05:50,000
+So the early solar system
+
+1549
+01:05:50,000 --> 01:05:54,000
+It's such a big pile of material
+
+1550
+01:05:54,000 --> 01:05:57,000
+another plate
+
+1551
+01:05:57,000 --> 01:05:59,000
+These things start with each other
+
+1552
+01:06:00,000 --> 01:06:03,100
+It starts to generate planets due to spiritual power
+
+1553
+01:06:04,100 --> 01:06:06,800
+little parade what moon
+
+1554
+01:06:06,800 --> 01:06:08,200
+so formed
+
+1555
+01:06:08,800 --> 01:06:10,400
+you pay attention when forming
+
+1556
+01:06:10,400 --> 01:06:14,300
+Every thing that forms is assigned some angle measure
+
+1557
+01:06:14,900 --> 01:06:16,900
+it's going to turn like this
+
+1558
+01:06:17,400 --> 01:06:19,200
+so these planets
+
+1559
+01:06:20,000 --> 01:06:21,400
+on this face
+
+1560
+01:06:21,900 --> 01:06:24,100
+Everything turns like this
+
+1561
+01:06:24,100 --> 01:06:25,500
+This is how the revolution works
+
+1562
+01:06:25,500 --> 01:06:26,700
+small circle like this
+
+1563
+01:06:26,700 --> 01:06:27,600
+big circle like this
+
+1564
+01:06:27,600 --> 01:06:29,000
+Anyway, it's like this
+
+1565
+01:06:29,100 --> 01:06:30,900
+It rotates like this
+
+1566
+01:06:30,900 --> 01:06:32,300
+also in the same direction
+
+1567
+01:06:32,300 --> 01:06:33,700
+Because it's divided into such an angular measure
+
+1568
+01:06:33,700 --> 01:06:34,300
+what about it
+
+1569
+01:06:34,300 --> 01:06:36,600
+it just gets better
+
+1570
+01:06:36,600 --> 01:06:37,700
+Just this sentence
+
+1571
+01:06:38,300 --> 01:06:39,200
+so it turns like this
+
+1572
+01:06:39,200 --> 01:06:40,800
+That's a straight turn
+
+1573
+01:06:40,800 --> 01:06:42,300
+Why is it crooked?
+
+1574
+01:06:43,100 --> 01:06:43,800
+why is it crooked
+
+1575
+01:06:43,800 --> 01:06:45,400
+Whether it will be crooked or not
+
+1576
+01:06:46,000 --> 01:06:48,800
+Because the angle it is assigned is a small vector
+
+1577
+01:06:48,800 --> 01:06:51,100
+It's really the angle
+
+1578
+01:06:51,100 --> 01:06:52,600
+It's all written down now
+
+1579
+01:06:52,900 --> 01:06:54,800
+It's pretty well written.
+
+1580
+01:06:55,700 --> 01:06:57,200
+this has always been a problem
+
+1581
+01:06:59,000 --> 01:07:00,000
+so why
+
+1582
+01:07:00,000 --> 01:07:01,000
+will slant off
+
+1583
+01:07:01,200 --> 01:07:03,100
+Then you look at other planets found
+
+1584
+01:07:03,540 --> 01:07:05,040
+Mars is crooked too
+
+1585
+01:07:05,800 --> 01:07:07,000
+Mars is about the same as us
+
+1586
+01:07:07,000 --> 01:07:08,500
+Still more than 20 degrees crooked
+
+1587
+01:07:09,700 --> 01:07:10,500
+Well
+
+1588
+01:07:10,500 --> 01:07:11,900
+other planets
+
+1589
+01:07:11,900 --> 01:07:13,100
+less crooked
+
+1590
+01:07:13,800 --> 01:07:15,900
+there is an even stranger
+
+1591
+01:07:15,900 --> 01:07:17,000
+In fact, it is careful
+
+1592
+01:07:17,000 --> 01:07:18,200
+it's not crooked
+
+1593
+01:07:18,200 --> 01:07:19,700
+But it turns like this
+
+1594
+01:07:19,700 --> 01:07:20,700
+turn instead
+
+1595
+01:07:21,600 --> 01:07:22,700
+it turns very slowly
+
+1596
+01:07:22,700 --> 01:07:24,100
+but the opposite
+
+1597
+01:07:24,100 --> 01:07:25,200
+it's even weirder
+
+1598
+01:07:25,700 --> 01:07:27,000
+I don't know why
+
+1599
+01:07:27,800 --> 01:07:29,600
+It can't be reversed.
+
+1600
+01:07:29,700 --> 01:07:31,700
+That is to say, you carefully
+
+1601
+01:07:31,700 --> 01:07:34,200
+The sun comes out from the west
+
+1602
+01:07:34,200 --> 01:07:35,200
+real
+
+1603
+01:07:36,200 --> 01:07:39,800
+That is to say, these rotations of these planets
+
+1604
+01:07:40,700 --> 01:07:43,000
+Why is it so strange
+
+1605
+01:07:43,000 --> 01:07:46,800
+The simplest is why our earth is so crooked
+
+1606
+01:07:47,900 --> 01:07:51,700
+Well, it seems that I can answer it now.
+
+1607
+01:07:54,500 --> 01:07:56,000
+It's just crooked
+
+1608
+01:07:57,000 --> 01:07:59,000
+Didn't you get hit before?
+
+1609
+01:07:59,000 --> 01:08:00,000
+hit it
+
+1610
+01:08:00,000 --> 01:08:02,000
+If the shoe is bumped, it will be crooked.
+
+1611
+01:08:02,000 --> 01:08:04,000
+that's all
+
+1612
+01:08:04,000 --> 01:08:06,000
+how big is that
+
+1613
+01:08:06,000 --> 01:08:08,000
+what a powerful one
+
+1614
+01:08:08,000 --> 01:08:10,000
+How can this collider bend so much?
+
+1615
+01:08:10,000 --> 01:08:12,000
+It seems that this thing is not working
+
+1616
+01:08:12,000 --> 01:08:14,000
+this is not enough
+
+1617
+01:08:14,000 --> 01:08:16,000
+possibly earlier
+
+1618
+01:08:16,000 --> 01:08:18,000
+when there is a larger combination
+
+1619
+01:08:18,000 --> 01:08:20,000
+Big and small
+
+1620
+01:08:20,000 --> 01:08:22,000
+It's crooked when it's messed up
+
+1621
+01:08:22,000 --> 01:08:24,000
+that other
+
+1622
+01:08:24,000 --> 01:08:26,000
+The core can also be explained like this
+
+1623
+01:08:26,000 --> 01:08:28,000
+Why does carefulness reverse
+
+1624
+01:08:28,000 --> 01:08:30,000
+obviously got hit
+
+1625
+01:08:30,000 --> 01:08:32,000
+reverse
+
+1626
+01:08:32,000 --> 01:08:34,000
+Will it be reversed?
+
+1627
+01:08:34,000 --> 01:08:36,000
+that's all
+
+1628
+01:08:36,000 --> 01:08:38,000
+this is all
+
+1629
+01:08:38,000 --> 01:08:40,000
+ever-great problem
+
+1630
+01:08:40,000 --> 01:08:42,000
+But now we put this
+
+1631
+01:08:42,000 --> 01:08:44,000
+big collider this
+
+1632
+01:08:44,000 --> 01:08:46,000
+concept brought in
+
+1633
+01:08:46,000 --> 01:08:48,000
+seems to be able to explain
+
+1634
+01:08:52,000 --> 01:08:54,000
+OK, this is what we are talking about about the moon
+
+1635
+01:08:54,000 --> 01:08:56,000
+deep
+
+1636
+01:08:56,000 --> 01:08:58,000
+we again
+
+1637
+01:09:00,000 --> 01:09:07,680
+It also announced and advertised some human exploration of the moon
+
+1638
+01:09:07,680 --> 01:09:09,960
+also a story
+
+1639
+01:09:09,960 --> 01:09:11,720
+we tell stories like this
+
+1640
+01:09:11,720 --> 01:09:15,120
+What I just said has nothing to do with people
+
+1641
+01:09:15,120 --> 01:09:19,320
+Except those recorded at the time of the date
+
+1642
+01:09:19,320 --> 01:09:20,560
+Everything else is natural
+
+1643
+01:09:20,560 --> 01:09:26,520
+It's just that people have a special love for the moon
+
+1644
+01:09:26,520 --> 01:09:28,480
+did a lot of things
+
+1645
+01:09:28,480 --> 01:09:35,080
+This story can be told from 1958 to 1957
+
+1646
+01:09:35,080 --> 01:09:39,040
+this day october 4th
+
+1647
+01:09:39,040 --> 01:09:42,560
+It's the day humans enter the space age
+
+1648
+01:09:42,560 --> 01:09:44,560
+what happened
+
+1649
+01:09:44,560 --> 01:09:46,880
+the Soviet Union
+
+1650
+01:09:46,880 --> 01:09:49,160
+this country no longer exists
+
+1651
+01:09:49,160 --> 01:09:53,040
+The Soviet Union launched an artificial miniature
+
+1652
+01:09:53,040 --> 01:09:54,840
+into orbit
+
+1653
+01:09:54,840 --> 01:09:56,840
+this is a big deal
+
+1654
+01:09:56,840 --> 01:09:58,240
+because it's too hard
+
+1655
+01:09:58,240 --> 01:09:59,760
+Now we find it easy to do
+
+1656
+01:10:00,000 --> 01:10:02,000
+it's really hard to do
+
+1657
+01:10:02,000 --> 01:10:06,000
+This is the first round in the middle of the cold war
+
+1658
+01:10:06,000 --> 01:10:09,000
+It's the camp of the Soviet Union
+
+1659
+01:10:09,000 --> 01:10:13,000
+he was the first to enter the orbit of a satellite
+
+1660
+01:10:13,000 --> 01:10:16,000
+first his artificial satellite into orbit
+
+1661
+01:10:16,000 --> 01:10:19,000
+Satellite called Sparknik 1
+
+1662
+01:10:19,000 --> 01:10:22,000
+This is a photo of a replica
+
+1663
+01:10:22,000 --> 01:10:23,000
+not so big
+
+1664
+01:10:23,000 --> 01:10:26,000
+probably only this big
+
+1665
+01:10:26,000 --> 01:10:27,000
+this is rough
+
+1666
+01:10:27,000 --> 01:10:30,000
+You look like a child's toy now
+
+1667
+01:10:30,000 --> 01:10:32,000
+He went into orbit and did nothing
+
+1668
+01:10:32,000 --> 01:10:37,000
+It is to play the signal BVV of a tape recorder
+
+1669
+01:10:37,000 --> 01:10:38,000
+That's it
+
+1670
+01:10:38,000 --> 01:10:40,000
+The ground received that signal
+
+1671
+01:10:40,000 --> 01:10:44,000
+Wow, this is a great progress for mankind
+
+1672
+01:10:44,000 --> 01:10:46,000
+great advance in civilization
+
+1673
+01:10:46,000 --> 01:10:48,000
+just at that moment
+
+1674
+01:10:48,000 --> 01:10:52,000
+This is humanity entering the space age
+
+1675
+01:10:52,000 --> 01:10:56,000
+the back of this
+
+1676
+01:10:56,000 --> 01:10:58,000
+lots of questions to ask
+
+1677
+01:11:00,000 --> 01:11:01,100
+soviet won
+
+1678
+01:11:01,800 --> 01:11:03,580
+This fact is
+
+1679
+01:11:04,340 --> 01:11:05,120
+is history
+
+1680
+01:11:05,380 --> 01:11:06,400
+Simply put
+
+1681
+01:11:07,160 --> 01:11:08,180
+that time
+
+1682
+01:11:09,480 --> 01:11:11,520
+want to enter satellite
+
+1683
+01:11:11,520 --> 01:11:12,540
+to get into orbit
+
+1684
+01:11:12,540 --> 01:11:14,340
+you must have powerful rockets
+
+1685
+01:11:14,340 --> 01:11:16,380
+Where was the mighty rocket at that time
+
+1686
+01:11:16,900 --> 01:11:17,400
+in Germany
+
+1687
+01:11:18,180 --> 01:11:18,940
+How can there be in Germany?
+
+1688
+01:11:18,940 --> 01:11:19,960
+because he fought
+
+1689
+01:11:20,740 --> 01:11:22,780
+When he developed during the 20th World War
+
+1690
+01:11:22,780 --> 01:11:24,060
+Called the V2 rocket
+
+1691
+01:11:24,840 --> 01:11:27,140
+I don't know the detailed story here.
+
+1692
+01:11:27,900 --> 01:11:28,940
+not too detailed
+
+1693
+01:11:29,820 --> 01:11:31,260
+this is a big war
+
+1694
+01:11:31,760 --> 01:11:33,040
+at the end
+
+1695
+01:11:33,300 --> 01:11:35,340
+used by germany to bomb london
+
+1696
+01:11:35,860 --> 01:11:38,160
+Britain was bombed badly
+
+1697
+01:11:38,920 --> 01:11:40,460
+But soon the war will be over
+
+1698
+01:11:40,460 --> 01:11:41,740
+when it's over
+
+1699
+01:11:42,000 --> 01:11:43,540
+within a few months
+
+1700
+01:11:44,040 --> 01:11:45,320
+cold war has begun
+
+1701
+01:11:45,580 --> 01:11:47,380
+the first to enter berlin
+
+1702
+01:11:48,140 --> 01:11:49,160
+soviet red army
+
+1703
+01:11:49,940 --> 01:11:52,500
+Once the Soviet Union entered the Red Army and entered Germany,
+
+1704
+01:11:53,260 --> 01:11:54,280
+all good things
+
+1705
+01:11:54,540 --> 01:11:55,560
+Already spotted
+
+1706
+01:11:56,080 --> 01:11:57,100
+block all
+
+1707
+01:11:57,100 --> 01:11:59,360
+move all back to germany
+
+1708
+01:12:00,000 --> 01:12:04,200
+Go to the Soviet Union, the rocket power is the most important one
+
+1709
+01:12:05,200 --> 01:12:08,600
+personnel data equipment
+
+1710
+01:12:09,400 --> 01:12:13,300
+All the knowledge is packaged and sent back to the Soviet Union
+
+1711
+01:12:14,700 --> 01:12:19,700
+So later, it entered the humane world and was already in orbit.
+
+1712
+01:12:20,000 --> 01:12:23,300
+This rocket won't work. It's too small. It needs to be bigger and bigger.
+
+1713
+01:12:24,800 --> 01:12:29,400
+But no matter what, the Soviet Union has this advantage
+
+1714
+01:12:29,400 --> 01:12:32,000
+first in orbit
+
+1715
+01:12:32,000 --> 01:12:36,800
+This is the first round of the Cold War, the Soviet Union has already won
+
+1716
+01:12:38,000 --> 01:12:40,300
+America lost, but not too much
+
+1717
+01:12:40,300 --> 01:12:44,000
+Because you see this January of the second year
+
+1718
+01:12:44,000 --> 01:12:47,600
+America also succeeded
+
+1719
+01:12:47,900 --> 01:12:51,100
+Also successfully launched his first artificial satellite
+
+1720
+01:12:51,700 --> 01:12:54,500
+this photo is very famous
+
+1721
+01:12:54,500 --> 01:12:57,300
+A photo of a celebration dinner at the White House
+
+1722
+01:12:57,300 --> 01:13:00,100
+this is not a rocket
+
+1723
+01:13:00,000 --> 01:13:01,960
+rocket big big big big
+
+1724
+01:13:01,960 --> 01:13:05,960
+This is the artificial satellite on top of the rocket
+
+1725
+01:13:05,960 --> 01:13:07,760
+This is what artificial satellites look like
+
+1726
+01:13:07,760 --> 01:13:09,640
+there is an instrument inside
+
+1727
+01:13:09,640 --> 01:13:12,100
+It is the instrument used by this professor
+
+1728
+01:13:12,100 --> 01:13:14,340
+It's called Van Allen
+
+1729
+01:13:14,340 --> 01:13:15,900
+Have any students heard
+
+1730
+01:13:15,900 --> 01:13:19,800
+Pan Allan radiation belts outside the Earth
+
+1731
+01:13:19,800 --> 01:13:23,440
+It's made in his laboratory
+
+1732
+01:13:23,440 --> 01:13:24,440
+of these three
+
+1733
+01:13:24,440 --> 01:13:27,800
+This was an official at the time
+
+1734
+01:13:27,800 --> 01:13:30,500
+officials no one will remember
+
+1735
+01:13:30,500 --> 01:13:33,300
+scientists remember
+
+1736
+01:13:33,300 --> 01:13:36,900
+This guy is a legend
+
+1737
+01:13:36,900 --> 01:13:39,500
+His name is Wander von Braun
+
+1738
+01:13:39,500 --> 01:13:41,200
+got the name
+
+1739
+01:13:41,200 --> 01:13:42,200
+who is it
+
+1740
+01:13:42,200 --> 01:13:46,200
+is the lead scientist of the V2 rocket.
+
+1741
+01:13:46,200 --> 01:13:49,200
+big boss of v2 rocket
+
+1742
+01:13:49,200 --> 01:13:53,300
+He was never packed back by the Soviet Union
+
+1743
+01:13:53,300 --> 01:13:56,800
+This is his later
+
+1744
+01:13:56,800 --> 01:13:58,700
+write in the field like this
+
+1745
+01:14:00,000 --> 01:14:02,000
+I have always hated the Communist Party
+
+1746
+01:14:02,000 --> 01:14:04,360
+When the Red Army came in
+
+1747
+01:14:04,360 --> 01:14:06,360
+He hid in the box
+
+1748
+01:14:06,360 --> 01:14:07,860
+Does he know the Nazi king?
+
+1749
+01:14:07,860 --> 01:14:09,860
+he hides first
+
+1750
+01:14:09,860 --> 01:14:11,860
+In a few months, the U.S. military will come
+
+1751
+01:14:11,860 --> 01:14:12,860
+he ran out
+
+1752
+01:14:12,860 --> 01:14:14,860
+Hey, I'm here, I'm like this
+
+1753
+01:14:14,860 --> 01:14:18,360
+America is like Huo Zhibao
+
+1754
+01:14:18,360 --> 01:14:21,360
+It's not like Huo Zhibao, it's the real Huo Zhibao
+
+1755
+01:14:21,360 --> 01:14:24,360
+just hurry him up
+
+1756
+01:14:24,360 --> 01:14:29,100
+Li Yu's please come to the United States to do a bigger cause
+
+1757
+01:14:29,100 --> 01:14:31,100
+That business is called NASA
+
+1758
+01:14:31,100 --> 01:14:34,100
+Is it early NASA
+
+1759
+01:14:34,100 --> 01:14:36,100
+when it was founded
+
+1760
+01:14:36,100 --> 01:14:38,100
+Can't say the biggest
+
+1761
+01:14:38,100 --> 01:14:41,100
+Largest Engineering in Science
+
+1762
+01:14:41,100 --> 01:14:44,100
+Actually, think about this
+
+1763
+01:14:44,100 --> 01:14:46,100
+history is weird
+
+1764
+01:14:46,100 --> 01:14:48,100
+he was a nazi
+
+1765
+01:14:48,100 --> 01:14:50,100
+And a high-ranking Nazi
+
+1766
+01:14:50,100 --> 01:14:52,100
+His companions were put to death
+
+1767
+01:14:52,100 --> 01:14:54,100
+are war criminals
+
+1768
+01:14:54,100 --> 01:14:56,100
+Either shot or hanged
+
+1769
+01:14:56,100 --> 01:14:59,100
+Not only was he not judged
+
+1770
+01:15:00,000 --> 01:15:04,340
+It is also very reasonable to invite to the United States to do a bigger cause
+
+1771
+01:15:04,340 --> 01:15:06,340
+look how happy he is
+
+1772
+01:15:06,340 --> 01:15:08,340
+Do you have
+
+1773
+01:15:08,340 --> 01:15:14,340
+This is tantamount to saying that he led the first success here
+
+1774
+01:15:14,340 --> 01:15:18,340
+NASA was established at the end of 1958
+
+1775
+01:15:18,340 --> 01:15:21,840
+The United States felt that we lost the first round
+
+1776
+01:15:21,840 --> 01:15:23,840
+extremely straight up
+
+1777
+01:15:23,840 --> 01:15:25,340
+We will use the power of the whole country
+
+1778
+01:15:25,340 --> 01:15:27,340
+Founded NASA
+
+1779
+01:15:27,340 --> 01:15:29,340
+The United States lost the second round
+
+1780
+01:15:29,340 --> 01:15:32,340
+The second round is to send people to orbit
+
+1781
+01:15:32,340 --> 01:15:34,340
+or the Soviet Union
+
+1782
+01:15:34,340 --> 01:15:38,340
+The third round is even bigger. Who landed on the moon?
+
+1783
+01:15:38,340 --> 01:15:41,340
+can go back to the story we tell about the moon
+
+1784
+01:15:41,340 --> 01:15:46,340
+In the third round, both sides watched helplessly to see who would win.
+
+1785
+01:15:46,340 --> 01:15:48,340
+That's not something that can be done every day
+
+1786
+01:15:48,340 --> 01:15:52,340
+who sent a man to the moon first
+
+1787
+01:15:52,340 --> 01:15:54,340
+This is history, you know
+
+1788
+01:15:54,340 --> 01:15:58,340
+1969 US Apollo 1
+
+1789
+01:15:58,340 --> 01:16:00,340
+crashed the moon
+
+1790
+01:16:00,000 --> 01:16:03,740
+mr armstrong like go down there
+
+1791
+01:16:04,340 --> 01:16:06,880
+That's one small step for me, one giant leap for mankind
+
+1792
+01:16:08,040 --> 01:16:09,240
+that's the story
+
+1793
+01:16:09,380 --> 01:16:12,200
+The United States has been to the United States seven times in a row
+
+1794
+01:16:12,380 --> 01:16:13,740
+succeeded six times
+
+1795
+01:16:14,740 --> 01:16:17,080
+The USSR failed once
+
+1796
+01:16:17,240 --> 01:16:19,240
+But he has logged in without anyone
+
+1797
+01:16:19,400 --> 01:16:20,580
+It's a success
+
+1798
+01:16:21,140 --> 01:16:22,540
+But if you lose, you lose
+
+1799
+01:16:22,700 --> 01:16:25,380
+Don't say that you seem to lose half, there is no such thing
+
+1800
+01:16:25,700 --> 01:16:26,880
+you just lost
+
+1801
+01:16:27,380 --> 01:16:28,880
+In 1972
+
+1802
+01:16:30,500 --> 01:16:31,000
+Well
+
+1803
+01:16:31,500 --> 01:16:32,800
+both sides shouted stop
+
+1804
+01:16:33,700 --> 01:16:34,300
+don't go
+
+1805
+01:16:36,100 --> 01:16:37,100
+The reason is very simple
+
+1806
+01:16:37,300 --> 01:16:39,500
+Aren't we running the 100 meters to see who wins?
+
+1807
+01:16:40,000 --> 01:16:42,600
+Have you ever seen someone running a 100 meters and still running?
+
+1808
+01:16:44,000 --> 01:16:44,800
+no
+
+1809
+01:16:46,200 --> 01:16:47,200
+run until then
+
+1810
+01:16:47,900 --> 01:16:50,000
+Win or lose is clear
+
+1811
+01:16:50,800 --> 01:16:52,200
+Even if you win, you don't want to run away.
+
+1812
+01:16:53,000 --> 01:16:54,400
+If you lose, you don't even want to run away.
+
+1813
+01:16:56,200 --> 01:16:58,200
+The United States just doesn't want to run away.
+
+1814
+01:16:58,200 --> 01:16:59,700
+America really can't run
+
+1815
+01:17:00,000 --> 01:17:03,240
+It's a waste of national power
+
+1816
+01:17:03,240 --> 01:17:05,380
+It's not easy to do this kind of thing
+
+1817
+01:17:05,380 --> 01:17:06,880
+this is very scary
+
+1818
+01:17:06,880 --> 01:17:08,880
+At that time it was still fighting in Vietnam
+
+1819
+01:17:08,880 --> 01:17:11,380
+The two ends burn like this
+
+1820
+01:17:11,380 --> 01:17:16,880
+Even though the country has put in all the power of Maoism to do it
+
+1821
+01:17:16,880 --> 01:17:19,800
+But after doing it, it's really like running a hundred meters
+
+1822
+01:17:19,800 --> 01:17:21,500
+worn out
+
+1823
+01:17:21,500 --> 01:17:23,500
+I'm exhausted. Don't do it anymore.
+
+1824
+01:17:23,500 --> 01:17:26,500
+leave this one
+
+1825
+01:17:26,700 --> 01:17:30,700
+We have been to the moon such a record
+
+1826
+01:17:30,700 --> 01:17:32,700
+yes
+
+1827
+01:17:32,700 --> 01:17:34,200
+then want to ask
+
+1828
+01:17:34,200 --> 01:17:36,900
+why are we going to the moon
+
+1829
+01:17:36,900 --> 01:17:39,800
+I tell you no one can tell
+
+1830
+01:17:39,800 --> 01:17:41,800
+you see everything as if
+
+1831
+01:17:41,800 --> 01:17:43,800
+Going to the moon is so amazing
+
+1832
+01:17:43,800 --> 01:17:47,600
+It's just to see who wins
+
+1833
+01:17:47,600 --> 01:17:49,100
+Just run 100 meters
+
+1834
+01:17:49,100 --> 01:17:51,500
+you really outperformed you are really amazing
+
+1835
+01:17:51,500 --> 01:17:53,600
+But do you want to ask that question
+
+1836
+01:17:53,600 --> 01:17:56,000
+why should i run
+
+1837
+01:17:56,100 --> 01:17:58,100
+just want to win
+
+1838
+01:17:58,100 --> 01:18:00,100
+What about winning?
+
+1839
+01:18:00,000 --> 01:18:01,460
+How are you doing?
+
+1840
+01:18:01,760 --> 01:18:03,660
+It's human psychology like this
+
+1841
+01:18:03,660 --> 01:18:06,860
+So what role does the moon play in this matter?
+
+1842
+01:18:06,860 --> 01:18:12,460
+It's just that I was taken as a goal by you to fight for this
+
+1843
+01:18:13,460 --> 01:18:15,660
+How much science is really done?
+
+1844
+01:18:16,460 --> 01:18:17,700
+a little bit
+
+1845
+01:18:17,700 --> 01:18:19,660
+For example, didn't you use the reflection technique just now?
+
+1846
+01:18:20,860 --> 01:18:21,860
+just now
+
+1847
+01:18:25,260 --> 01:18:26,860
+And this one from Lantern Moon
+
+1848
+01:18:27,620 --> 01:18:30,020
+I'll show you the back of my side first.
+
+1849
+01:18:30,020 --> 01:18:31,860
+Really some achievements
+
+1850
+01:18:31,860 --> 01:18:33,920
+brought back some stones
+
+1851
+01:18:33,920 --> 01:18:35,520
+It can be analyzed that's right
+
+1852
+01:18:36,860 --> 01:18:39,820
+And there is an earthquake chair left on it
+
+1853
+01:18:39,820 --> 01:18:42,020
+It's not an earthquake, it's a moonquake.
+
+1854
+01:18:43,020 --> 01:18:44,220
+Really very few
+
+1855
+01:18:44,220 --> 01:18:46,560
+Tiny really has moonquakes
+
+1856
+01:18:46,560 --> 01:18:47,820
+Isn't the moon dead?
+
+1857
+01:18:47,820 --> 01:18:49,120
+How could it shake?
+
+1858
+01:18:49,120 --> 01:18:50,760
+This can also be studied
+
+1859
+01:18:50,760 --> 01:18:52,920
+Guess it's because of the tide
+
+1860
+01:18:52,920 --> 01:18:54,820
+caused by the earth to its tides
+
+1861
+01:18:55,820 --> 01:18:58,280
+This is a scientific achievement
+
+1862
+01:18:58,280 --> 01:18:59,680
+but you have to think about it
+
+1863
+01:19:00,000 --> 01:19:05,000
+How much effort was spent to follow the mining force, material resources, time, and manpower?
+
+1864
+01:19:05,000 --> 01:19:08,800
+to do this? certainly not worth it
+
+1865
+01:19:08,800 --> 01:19:10,700
+so i secretly tell you
+
+1866
+01:19:10,700 --> 01:19:15,700
+Daoyeqiu is not for science or human progress
+
+1867
+01:19:15,700 --> 01:19:17,700
+It's a cold war to see who wins
+
+1868
+01:19:17,700 --> 01:19:20,000
+By the way did a little science
+
+1869
+01:19:20,000 --> 01:19:21,500
+so
+
+1870
+01:19:21,500 --> 01:19:25,300
+So is science worth spending so much money on?
+
+1871
+01:19:25,300 --> 01:19:29,300
+It's not worth it for us who do science
+
+1872
+01:19:29,300 --> 01:19:32,600
+But he didn't say he wants to do science
+
+1873
+01:19:32,600 --> 01:19:34,600
+is in the international
+
+1874
+01:19:34,600 --> 01:19:38,300
+He wants to be the leader. He's the big brother of the western camp.
+
+1875
+01:19:38,300 --> 01:19:39,800
+he will do these things
+
+1876
+01:19:39,800 --> 01:19:41,600
+right
+
+1877
+01:19:41,600 --> 01:19:44,600
+what's right or wrong? it's your judgment
+
+1878
+01:19:47,400 --> 01:19:51,300
+OK, there are some behind this
+
+1879
+01:19:51,300 --> 01:19:55,200
+I can tell you a fun story later
+
+1880
+01:19:55,200 --> 01:19:59,200
+But let's go back to what we were talking about
+
+1881
+01:20:00,000 --> 01:20:04,000
+What did you say just now? It hasn't been resolved yet.
+
+1882
+01:20:04,000 --> 01:20:06,000
+Why is the moon so wet for me
+
+1883
+01:20:06,000 --> 01:20:08,000
+not yet
+
+1884
+01:20:08,000 --> 01:20:14,000
+In fact, this truth has just been explained through the earth.
+
+1885
+01:20:14,000 --> 01:20:20,000
+Isn't our earth being turned slower and slower by its tides?
+
+1886
+01:20:20,000 --> 01:20:21,000
+you turn around
+
+1887
+01:20:21,000 --> 01:20:24,000
+The earth has tides on it, what's more powerful
+
+1888
+01:20:24,000 --> 01:20:25,000
+the earth is so big
+
+1889
+01:20:25,000 --> 01:20:26,000
+it's small
+
+1890
+01:20:26,000 --> 01:20:28,000
+our tidal influence on it
+
+1891
+01:20:28,000 --> 01:20:30,000
+although it has no ocean
+
+1892
+01:20:30,000 --> 01:20:33,000
+But tides don't have to be in the water to happen
+
+1893
+01:20:33,000 --> 01:20:37,000
+It deserves the same friction as the ground. Squeeze what.
+
+1894
+01:20:37,000 --> 01:20:39,000
+still the same friction
+
+1895
+01:20:39,000 --> 01:20:42,000
+we are so big it is so small
+
+1896
+01:20:42,000 --> 01:20:45,000
+We have a big influence on its tides
+
+1897
+01:20:45,000 --> 01:20:48,000
+we'll make it spin slower and slower
+
+1898
+01:20:48,000 --> 01:20:50,000
+real
+
+1899
+01:20:50,000 --> 01:20:53,000
+What, how strong is it?
+
+1900
+01:20:53,000 --> 01:20:55,000
+it stopped turning
+
+1901
+01:20:55,000 --> 01:20:58,000
+This can't be called
+
+1902
+01:21:00,000 --> 01:21:03,000
+It can't be the lowest energy
+
+1903
+01:21:03,000 --> 01:21:06,000
+it can't turn anymore
+
+1904
+01:21:06,000 --> 01:21:09,000
+It's called non-rotation
+
+1905
+01:21:09,000 --> 01:21:12,000
+The truth is the same
+
+1906
+01:21:12,000 --> 01:21:14,000
+Our friction with it
+
+1907
+01:21:14,000 --> 01:21:16,000
+It's long gone
+
+1908
+01:21:16,000 --> 01:21:18,000
+not now
+
+1909
+01:21:18,000 --> 01:21:20,000
+Don't say that it stopped turning dozens of years ago.
+
+1910
+01:21:20,000 --> 01:21:23,000
+so this is not a coincidence
+
+1911
+01:21:23,000 --> 01:21:24,000
+it is
+
+1912
+01:21:24,000 --> 01:21:26,000
+You can say it's exhausted
+
+1913
+01:21:26,000 --> 01:21:28,000
+All the strength has been worn away by you
+
+1914
+01:21:28,000 --> 01:21:30,000
+that's all
+
+1915
+01:21:30,000 --> 01:21:32,000
+so it's no coincidence
+
+1916
+01:21:32,000 --> 01:21:34,000
+So other angry stars and picture stars
+
+1917
+01:21:34,000 --> 01:21:37,000
+Its moons are all like this
+
+1918
+01:21:37,000 --> 01:21:40,000
+I don't know it stopped turning decades ago.
+
+1919
+01:21:40,000 --> 01:21:42,000
+that's all
+
+1920
+01:21:42,000 --> 01:21:44,000
+this is the answer to
+
+1921
+01:21:44,000 --> 01:21:47,000
+We just started with that question
+
+1922
+01:21:47,000 --> 01:21:50,000
+should be by now
+
+1923
+01:21:50,000 --> 01:21:53,000
+many questions just asked
+
+1924
+01:21:53,000 --> 01:21:56,000
+already understood
+
+1925
+01:21:58,000 --> 01:22:00,000
+ok now we can
+
+1926
+01:22:00,000 --> 01:22:07,000
+So back to a story we told at the end
+
+1927
+01:22:10,000 --> 01:22:17,000
+This is the rocket that was used when the Apollo program was launched
+
+1928
+01:22:17,000 --> 01:22:23,000
+This rocket is called the Saturn V
+
+1929
+01:22:23,000 --> 01:22:25,000
+really big enough
+
+1930
+01:22:26,000 --> 01:22:33,000
+This is the largest rocket ever made by mankind
+
+1931
+01:22:33,000 --> 01:22:38,000
+Not this one, this series needs one every time
+
+1932
+01:22:38,000 --> 01:22:41,000
+so big
+
+1933
+01:22:41,000 --> 01:22:47,000
+When I got to that Washington, that's when I served there.
+
+1934
+01:22:47,000 --> 01:22:53,000
+Every time I go to the US capital horse space museum
+
+1935
+01:22:54,000 --> 01:22:57,000
+All the NASA babes go in later
+
+1936
+01:22:57,000 --> 01:22:59,000
+great size
+
+1937
+01:23:00,000 --> 01:23:03,500
+it has a show want to show this thing
+
+1938
+01:23:03,500 --> 01:23:08,000
+At least show you how big this tail is
+
+1939
+01:23:08,000 --> 01:23:09,000
+right
+
+1940
+01:23:09,000 --> 01:23:13,000
+To let you know wow, going to the moon was scary
+
+1941
+01:23:13,000 --> 01:23:15,000
+how big is it
+
+1942
+01:23:15,000 --> 01:23:20,000
+It's too big, so there's no way to exhibit it
+
+1943
+01:23:20,000 --> 01:23:22,000
+very smart it looks like this
+
+1944
+01:23:22,000 --> 01:23:24,000
+it uses a model
+
+1945
+01:23:24,000 --> 01:23:26,000
+Just made such a small block
+
+1946
+01:23:26,000 --> 01:23:28,000
+then use the mirror
+
+1947
+01:23:28,000 --> 01:23:30,000
+a mirror over here a mirror over here
+
+1948
+01:23:30,000 --> 01:23:32,000
+wow you go in and see
+
+1949
+01:23:32,000 --> 01:23:34,000
+wow it's so big
+
+1950
+01:23:34,000 --> 01:23:36,000
+In fact, this small corner
+
+1951
+01:23:36,000 --> 01:23:39,000
+very mirror very smart
+
+1952
+01:23:39,000 --> 01:23:41,000
+really big big
+
+1953
+01:23:41,000 --> 01:23:46,000
+Spray fire on this thing to go up like this
+
+1954
+01:23:48,000 --> 01:23:50,000
+why are you watching this
+
+1955
+01:23:50,000 --> 01:23:54,000
+I mean some people say it's a lie, right?
+
+1956
+01:23:54,000 --> 01:23:57,000
+Do many of you know
+
+1957
+01:23:57,000 --> 01:23:59,000
+say someone will say
+
+1958
+01:24:00,000 --> 01:24:03,000
+It's a scam, never been there
+
+1959
+01:24:03,000 --> 01:24:04,000
+Lie to you
+
+1960
+01:24:04,000 --> 01:24:06,000
+Nope, I've heard of bureaucracy
+
+1961
+01:24:06,000 --> 01:24:08,000
+You must have heard of it, right?
+
+1962
+01:24:08,000 --> 01:24:10,000
+good
+
+1963
+01:24:10,000 --> 01:24:13,000
+Then what I want to say is of course
+
+1964
+01:24:13,000 --> 01:24:16,000
+Of course I've been there, don't be crazy
+
+1965
+01:24:16,000 --> 01:24:18,000
+Is boring
+
+1966
+01:24:20,000 --> 01:24:22,000
+This is the process of middle age
+
+1967
+01:24:22,000 --> 01:24:24,000
+For example, this photo is famous
+
+1968
+01:24:24,000 --> 01:24:26,000
+Just for everyone to see
+
+1969
+01:24:26,000 --> 01:24:30,000
+Here is this picture called Earthrise
+
+1970
+01:24:30,000 --> 01:24:32,000
+Sunrise Earthrise
+
+1971
+01:24:32,000 --> 01:24:33,000
+nor sunrise
+
+1972
+01:24:33,000 --> 01:24:35,000
+not Moonrise
+
+1973
+01:24:35,000 --> 01:24:37,000
+rising sun
+
+1974
+01:24:37,000 --> 01:24:39,000
+this is the surface of the moon
+
+1975
+01:24:39,000 --> 01:24:42,000
+When actually orbiting the moon
+
+1976
+01:24:42,000 --> 01:24:46,000
+photo taken by the astronaut
+
+1977
+01:24:46,000 --> 01:24:49,000
+This is of course
+
+1978
+01:24:49,000 --> 01:24:51,000
+Boss Aubrey he is the second
+
+1979
+01:24:51,000 --> 01:24:53,000
+man on the moon
+
+1980
+01:24:53,000 --> 01:24:55,000
+he bowed his head
+
+1981
+01:24:55,000 --> 01:24:58,000
+He said the angle of this photo is too important
+
+1982
+01:24:58,000 --> 01:25:00,000
+take a snapshot
+
+1983
+01:25:00,000 --> 01:25:02,440
+it's famous of course
+
+1984
+01:25:02,440 --> 01:25:03,640
+possibly human
+
+1985
+01:25:03,640 --> 01:25:08,440
+Don't know if the third or fourth footprint
+
+1986
+01:25:08,440 --> 01:25:12,640
+this
+
+1987
+01:25:12,640 --> 01:25:14,840
+I see too many pictures like this
+
+1988
+01:25:14,840 --> 01:25:15,740
+To be questioned is to say
+
+1989
+01:25:15,740 --> 01:25:17,240
+where is this
+
+1990
+01:25:17,240 --> 01:25:20,140
+this is the set
+
+1991
+01:25:20,140 --> 01:25:20,940
+you are short
+
+1992
+01:25:20,940 --> 01:25:22,340
+You just take a photo on set
+
+1993
+01:25:22,340 --> 01:25:23,440
+help us
+
+1994
+01:25:23,440 --> 01:25:25,400
+so you've been to the moon like this
+
+1995
+01:25:25,400 --> 01:25:26,800
+no evidence
+
+1996
+01:25:26,800 --> 01:25:28,640
+Then I can find a lot of holes
+
+1997
+01:25:28,640 --> 01:25:31,040
+This is obviously something wrong with you
+
+1998
+01:25:31,040 --> 01:25:32,080
+that's wrong
+
+1999
+01:25:32,080 --> 01:25:33,080
+otherwise how could
+
+2000
+01:25:33,080 --> 01:25:34,880
+you can't explain
+
+2001
+01:25:34,880 --> 01:25:36,380
+obviously you lied
+
+2002
+01:25:36,380 --> 01:25:38,640
+this is what we heard
+
+2003
+01:25:38,640 --> 01:25:39,880
+This argument
+
+2004
+01:25:39,880 --> 01:25:42,140
+Said that NASA has not actually been there
+
+2005
+01:25:42,140 --> 01:25:45,140
+this is the set
+
+2006
+01:25:45,140 --> 01:25:46,580
+Of course he told why
+
+2007
+01:25:46,580 --> 01:25:48,280
+this is the set
+
+2008
+01:25:48,280 --> 01:25:50,680
+I really don't want to repeat
+
+2009
+01:25:50,680 --> 01:25:53,640
+Those concepts that those people say are wrong
+
+2010
+01:25:53,640 --> 01:25:55,380
+listen to you
+
+2011
+01:25:55,380 --> 01:25:56,840
+because I'm wrong
+
+2012
+01:25:56,880 --> 01:25:59,080
+why keep emphasizing
+
+2013
+01:25:59,080 --> 01:26:00,040
+but roughly
+
+2014
+01:26:00,000 --> 01:26:02,000
+I can suggest some for you
+
+2015
+01:26:02,000 --> 01:26:05,000
+Obviously you might find something weird
+
+2016
+01:26:05,000 --> 01:26:07,000
+For example, it is dark
+
+2017
+01:26:07,000 --> 01:26:10,000
+This is clearly under the sun
+
+2018
+01:26:10,000 --> 01:26:12,000
+isn't that right, the sun is clearly over there
+
+2019
+01:26:12,000 --> 01:26:14,000
+And it's bright, no problem
+
+2020
+01:26:14,000 --> 01:26:15,000
+the sun is over there
+
+2021
+01:26:15,000 --> 01:26:17,000
+Why is the whole day dark
+
+2022
+01:26:17,000 --> 01:26:20,000
+It's obviously a scam.
+
+2023
+01:26:20,000 --> 01:26:24,000
+No, it's true. It should be black.
+
+2024
+01:26:24,000 --> 01:26:26,000
+Conversely, if this photo
+
+2025
+01:26:26,000 --> 01:26:28,000
+If it's not dark here
+
+2026
+01:26:28,000 --> 01:26:32,000
+Soon we'll know he's a liar
+
+2027
+01:26:32,000 --> 01:26:34,000
+it should be dark
+
+2028
+01:26:34,000 --> 01:26:36,000
+am i standing there
+
+2029
+01:26:36,000 --> 01:26:38,000
+you see the sun is bright
+
+2030
+01:26:38,000 --> 01:26:39,000
+Of course it's bright
+
+2031
+01:26:39,000 --> 01:26:40,000
+there is no sun
+
+2032
+01:26:40,000 --> 01:26:42,000
+how can it be bright over there
+
+2033
+01:26:42,000 --> 01:26:43,000
+Of course it's black
+
+2034
+01:26:43,000 --> 01:26:45,000
+It's not bright, it's black
+
+2035
+01:26:45,000 --> 01:26:46,000
+It's black over there too
+
+2036
+01:26:46,000 --> 01:26:49,000
+Only that is bright, that's all
+
+2037
+01:26:49,000 --> 01:26:51,000
+Are you saying that this is not our experience?
+
+2038
+01:26:51,000 --> 01:26:53,000
+Let's go outside during the day
+
+2039
+01:26:53,000 --> 01:26:56,000
+The whole sky is bright
+
+2040
+01:26:56,000 --> 01:26:58,000
+No, that's the earth, it's weird
+
+2041
+01:26:58,000 --> 01:27:00,000
+It's not the moon, it's weird
+
+2042
+01:27:00,000 --> 01:27:03,600
+What's so strange about the earth? Because it has air
+
+2043
+01:27:03,600 --> 01:27:08,100
+what you see is not the place that is glowing
+
+2044
+01:27:08,100 --> 01:27:11,360
+air scatters sunlight
+
+2045
+01:27:11,360 --> 01:27:13,700
+become bright in all directions
+
+2046
+01:27:13,700 --> 01:27:15,200
+the whole day is bright
+
+2047
+01:27:15,200 --> 01:27:17,600
+that is the earth is strange
+
+2048
+01:27:17,600 --> 01:27:20,800
+This is a function of the atmosphere
+
+2049
+01:27:20,800 --> 01:27:22,800
+The role of air
+
+2050
+01:27:22,800 --> 01:27:26,600
+Including why the sky is blue
+
+2051
+01:27:26,600 --> 01:27:28,100
+That's the same reason
+
+2052
+01:27:28,100 --> 01:27:30,600
+It's the details inside
+
+2053
+01:27:30,600 --> 01:27:32,100
+you can analyze it
+
+2054
+01:27:32,100 --> 01:27:34,500
+This was done more than a hundred years ago
+
+2055
+01:27:34,500 --> 01:27:36,000
+people already know
+
+2056
+01:27:36,000 --> 01:27:38,300
+This muyu scientist Raly
+
+2057
+01:27:38,300 --> 01:27:41,400
+It's been proven
+
+2058
+01:27:41,400 --> 01:27:43,600
+So it should be dark this day
+
+2059
+01:27:43,600 --> 01:27:46,600
+No one dares to say that you are a liar, right?
+
+2060
+01:27:46,600 --> 01:27:47,800
+innocent is black
+
+2061
+01:27:47,800 --> 01:27:52,600
+It's like using a black cloth behind a black studio
+
+2062
+01:27:52,600 --> 01:27:57,300
+But it was questioned where did the star go?
+
+2063
+01:27:57,300 --> 01:27:59,700
+Isn't there a star?
+
+2064
+01:28:00,000 --> 01:28:02,000
+Aren't you bright? There should be bright spots
+
+2065
+01:28:02,000 --> 01:28:04,000
+Where did your bright spot go?
+
+2066
+01:28:04,000 --> 01:28:08,000
+Apparently your black cloth is too...too...
+
+2067
+01:28:08,000 --> 01:28:12,000
+Didn't you just drill a few holes and cheat... then you couldn't cheat?
+
+2068
+01:28:12,000 --> 01:28:16,000
+No, because it's not easy for you to take pictures of those stars
+
+2069
+01:28:16,000 --> 01:28:20,000
+Because this is too bright, like the sun, really under the big sun
+
+2070
+01:28:20,000 --> 01:28:24,000
+If you take out all the stars
+
+2071
+01:28:24,000 --> 01:28:26,000
+Your exposure time has long been exceeded
+
+2072
+01:28:26,000 --> 01:28:28,000
+throw it all away
+
+2073
+01:28:28,000 --> 01:28:30,000
+I can't take a photo
+
+2074
+01:28:30,000 --> 01:28:34,000
+Yes, but I'm sorry, I can't take a picture
+
+2075
+01:28:34,000 --> 01:28:39,000
+In the Ganasa report when they came back
+
+2076
+01:28:39,000 --> 01:28:45,000
+Many people have said that they see stars behind this photo
+
+2077
+01:28:45,000 --> 01:28:48,000
+You can barely see bright spots
+
+2078
+01:28:48,000 --> 01:28:50,000
+By the way, that's right
+
+2079
+01:28:50,000 --> 01:29:00,000
+There is also a very interesting one that can be used as a joke
+
+2080
+01:29:00,000 --> 01:29:02,000
+it's called storytelling
+
+2081
+01:29:03,000 --> 01:29:05,000
+it is this
+
+2082
+01:29:05,000 --> 01:29:07,000
+This was also questioned
+
+2083
+01:29:07,000 --> 01:29:09,000
+And why is it like this on your ground?
+
+2084
+01:29:09,000 --> 01:29:12,000
+You go to the beach and get some sand rabbits on that set
+
+2085
+01:29:12,000 --> 01:29:13,000
+then step on it
+
+2086
+01:29:13,000 --> 01:29:15,000
+wow that looks great
+
+2087
+01:29:15,000 --> 01:29:17,000
+another lie
+
+2088
+01:29:19,000 --> 01:29:20,000
+I'm telling you, I'm not lying
+
+2089
+01:29:20,000 --> 01:29:21,000
+I'll tell you later
+
+2090
+01:29:21,000 --> 01:29:23,000
+Why is it obviously not a lie
+
+2091
+01:29:23,000 --> 01:29:25,000
+this world is like this
+
+2092
+01:29:25,000 --> 01:29:28,000
+NASA people go before
+
+2093
+01:29:28,000 --> 01:29:30,000
+What does this big lunar surface look like?
+
+2094
+01:29:30,000 --> 01:29:32,000
+really do not know
+
+2095
+01:29:32,000 --> 01:29:33,000
+because from a distance
+
+2096
+01:29:33,000 --> 01:29:34,000
+even around
+
+2097
+01:29:34,000 --> 01:29:35,000
+you can't see
+
+2098
+01:29:35,000 --> 01:29:37,000
+what does the moon look like
+
+2099
+01:29:37,000 --> 01:29:39,000
+but does it matter what it looks like
+
+2100
+01:29:39,000 --> 01:29:40,000
+Very important
+
+2101
+01:29:40,000 --> 01:29:42,000
+because you will log in in the future
+
+2102
+01:29:42,000 --> 01:29:43,000
+that
+
+2103
+01:29:43,000 --> 01:29:44,000
+want
+
+2104
+01:29:44,000 --> 01:29:45,000
+thump
+
+2105
+01:29:45,000 --> 01:29:46,000
+right
+
+2106
+01:29:46,000 --> 01:29:47,000
+that Taiwanese boat
+
+2107
+01:29:47,000 --> 01:29:50,000
+This landing craft is about to land
+
+2108
+01:29:50,000 --> 01:29:53,000
+if that is hard ground
+
+2109
+01:29:53,000 --> 01:29:55,000
+rock
+
+2110
+01:29:55,000 --> 01:29:56,000
+wow then you like this
+
+2111
+01:29:56,000 --> 01:29:57,000
+thump
+
+2112
+01:29:57,000 --> 01:29:59,000
+I really don't want that
+
+2113
+01:30:00,000 --> 01:30:02,520
+Another is that the feet are not hard
+
+2114
+01:30:02,520 --> 01:30:04,940
+all it can't get you...no mud
+
+2115
+01:30:04,940 --> 01:30:06,120
+because there is no water
+
+2116
+01:30:06,120 --> 01:30:07,940
+Otherwise it's sand
+
+2117
+01:30:07,940 --> 01:30:09,120
+that's even scarier
+
+2118
+01:30:09,120 --> 01:30:10,880
+How many feet do you go up like this?
+
+2119
+01:30:10,880 --> 01:30:13,880
+Then it started to sink
+
+2120
+01:30:13,880 --> 01:30:16,000
+That's even scarier, right?
+
+2121
+01:30:16,000 --> 01:30:17,880
+so this is very important
+
+2122
+01:30:17,880 --> 01:30:19,420
+not kidding important
+
+2123
+01:30:19,420 --> 01:30:21,880
+is really important
+
+2124
+01:30:21,880 --> 01:30:23,640
+Then why might it be a hard ground?
+
+2125
+01:30:23,640 --> 01:30:24,800
+It is of course possible
+
+2126
+01:30:24,800 --> 01:30:27,200
+Because when it was first formed, it was
+
+2127
+01:30:27,200 --> 01:30:31,200
+Rocks were formed four billion years ago.
+
+2128
+01:30:31,200 --> 01:30:31,960
+then what
+
+2129
+01:30:31,960 --> 01:30:33,680
+has he always been a rock
+
+2130
+01:30:33,680 --> 01:30:35,640
+Somebody go weather it into dirt?
+
+2131
+01:30:35,640 --> 01:30:36,400
+No
+
+2132
+01:30:36,400 --> 01:30:38,480
+Because there is no wind, no water, no air
+
+2133
+01:30:38,480 --> 01:30:40,280
+it's hard
+
+2134
+01:30:40,280 --> 01:30:41,880
+So that long didn't go before
+
+2135
+01:30:41,880 --> 01:30:44,720
+don't know what the surface looks like
+
+2136
+01:30:44,720 --> 01:30:46,480
+must know
+
+2137
+01:30:46,480 --> 01:30:48,520
+Because I want someone to go
+
+2138
+01:30:48,520 --> 01:30:52,880
+So let's go to the moon with an unmanned one first.
+
+2139
+01:30:52,880 --> 01:30:54,920
+I found it good
+
+2140
+01:30:54,920 --> 01:30:56,720
+not hard
+
+2141
+01:30:56,840 --> 01:30:58,280
+surface is dust
+
+2142
+01:30:58,280 --> 01:30:59,920
+Not very thick
+
+2143
+01:31:00,000 --> 01:31:01,540
+wow this is the best
+
+2144
+01:31:02,300 --> 01:31:05,640
+So take the back seat and follow that
+
+2145
+01:31:05,880 --> 01:31:09,740
+That kind of mechanics to do it, no problem, no problem at all
+
+2146
+01:31:09,980 --> 01:31:12,040
+That is to say, the surface of the moon
+
+2147
+01:31:12,300 --> 01:31:13,560
+really that's it
+
+2148
+01:31:14,340 --> 01:31:16,380
+What is this being questioned?
+
+2149
+01:31:16,640 --> 01:31:17,920
+What's up with the surface of the moon?
+
+2150
+01:31:19,720 --> 01:31:20,740
+why is this
+
+2151
+01:31:21,760 --> 01:31:24,320
+I don't know why it happened in the early days
+
+2152
+01:31:24,840 --> 01:31:27,640
+Scientists slowly study and think slowly
+
+2153
+01:31:28,160 --> 01:31:29,180
+later found out that
+
+2154
+01:31:30,180 --> 01:31:32,760
+Since that's the case, let me explain
+
+2155
+01:31:33,780 --> 01:31:34,820
+explained
+
+2156
+01:31:35,080 --> 01:31:36,340
+Makes sense yes
+
+2157
+01:31:36,860 --> 01:31:38,660
+this surface is
+
+2158
+01:31:39,680 --> 01:31:40,700
+cosmic rays
+
+2159
+01:31:40,960 --> 01:31:43,000
+An example of solar wind charging
+
+2160
+01:31:43,260 --> 01:31:44,800
+Been fighting for billions of years
+
+2161
+01:31:45,560 --> 01:31:46,840
+It's all powdered
+
+2162
+01:31:47,860 --> 01:31:49,660
+Molecule by molecule for you
+
+2163
+01:31:50,180 --> 01:31:51,700
+That's how it was after the fight
+
+2164
+01:31:52,220 --> 01:31:55,300
+It's not killing, it's not profit, it's like powder
+
+2165
+01:31:55,300 --> 01:31:59,400
+I would just describe him as dust, that's all.
+
+2166
+01:32:00,000 --> 01:32:01,540
+The surface is really like this
+
+2167
+01:32:05,700 --> 01:32:07,700
+and in that video
+
+2168
+01:32:07,700 --> 01:32:09,240
+they're happy to go up
+
+2169
+01:32:09,240 --> 01:32:11,000
+Jumping over there, right?
+
+2170
+01:32:11,000 --> 01:32:11,640
+you have seen
+
+2171
+01:32:11,640 --> 01:32:14,040
+jump up and slowly fall down
+
+2172
+01:32:14,040 --> 01:32:15,540
+Because of the gravity on this
+
+2173
+01:32:15,540 --> 01:32:17,040
+Only one-sixth of the earth
+
+2174
+01:32:17,040 --> 01:32:19,640
+Of course you can jump high
+
+2175
+01:32:19,640 --> 01:32:22,240
+Then this one falls very slowly too
+
+2176
+01:32:22,240 --> 01:32:26,540
+If you kick this powder
+
+2177
+01:32:26,540 --> 01:32:27,500
+will definitely kick
+
+2178
+01:32:27,500 --> 01:32:28,840
+You will also kick when you go up
+
+2179
+01:32:28,840 --> 01:32:30,380
+i promise you
+
+2180
+01:32:30,380 --> 01:32:32,800
+You can see the gray in the video
+
+2181
+01:32:32,800 --> 01:32:34,580
+That powder is like this
+
+2182
+01:32:34,580 --> 01:32:36,440
+slow down like this
+
+2183
+01:32:36,440 --> 01:32:38,380
+This is also questioned
+
+2184
+01:32:38,380 --> 01:32:39,240
+why do this
+
+2185
+01:32:39,240 --> 01:32:42,740
+It's like there's air
+
+2186
+01:32:42,740 --> 01:32:47,080
+Actually, what I want to answer is to say
+
+2187
+01:32:47,080 --> 01:32:49,880
+what do you think it should be
+
+2188
+01:32:49,880 --> 01:32:50,740
+as it should be
+
+2189
+01:32:50,740 --> 01:32:52,640
+no air
+
+2190
+01:32:52,640 --> 01:32:53,440
+if you say no
+
+2191
+01:32:53,440 --> 01:32:54,140
+then i know
+
+2192
+01:32:54,140 --> 01:32:55,880
+and you
+
+2193
+01:32:55,920 --> 01:32:59,420
+I haven't read ordinary physics yet.
+
+2194
+01:32:59,420 --> 01:33:00,080
+many questions
+
+2195
+01:33:00,000 --> 01:33:04,840
+Actually, it's that kind, it's why it's so strange
+
+2196
+01:33:04,840 --> 01:33:07,340
+It seems different from the earth, so you lie
+
+2197
+01:33:07,340 --> 01:33:11,200
+It's not like that, it's the other way around
+
+2198
+01:33:11,200 --> 01:33:15,200
+That's the truth, please think about it for yourself
+
+2199
+01:33:15,200 --> 01:33:19,140
+Why is this so? After thinking about it, it should be like this
+
+2200
+01:33:19,140 --> 01:33:22,240
+It should be treated like this
+
+2201
+01:33:22,240 --> 01:33:28,040
+Everything is true in the lunar environment
+
+2202
+01:33:28,040 --> 01:33:34,040
+That's right, it's actually not easy to deceive people
+
+2203
+01:33:34,040 --> 01:33:37,240
+You really have to do a scene and do everything
+
+2204
+01:33:37,240 --> 01:33:39,540
+It's all true, it looks weird
+
+2205
+01:33:39,540 --> 01:33:44,440
+In fact, they are all right. In fact, it is very difficult to do. I won't lie to you.
+
+2206
+01:33:44,440 --> 01:33:46,940
+It's really harder to do
+
+2207
+01:33:49,440 --> 01:33:56,940
+The moon landing started in 1961 when President Lee announced it on TV in public
+
+2208
+01:33:56,940 --> 01:34:00,240
+Back then even the TV was a blackboard
+
+2209
+01:34:00,000 --> 01:34:02,600
+announced on tv
+
+2210
+01:34:02,600 --> 01:34:05,760
+我們Before the Coast of the Decade
+
+2211
+01:34:05,760 --> 01:34:07,860
+before 1970
+
+2212
+01:34:07,860 --> 01:34:10,860
+we're about to put a man on the moon
+
+2213
+01:34:10,860 --> 01:34:13,060
+and bring him back safely
+
+2214
+01:34:13,060 --> 01:34:16,260
+He will announce it to the world
+
+2215
+01:34:16,260 --> 01:34:19,600
+And he's saying I ordered NASA
+
+2216
+01:34:19,600 --> 01:34:22,660
+Because NASA is the index of the presidential palace
+
+2217
+01:34:22,660 --> 01:34:26,660
+So he made the declaration
+
+2218
+01:34:26,660 --> 01:34:28,560
+At that time, it was still fighting on the moon
+
+2219
+01:34:28,560 --> 01:34:32,120
+when i was working in america
+
+2220
+01:34:32,120 --> 01:34:35,960
+some senior researchers
+
+2221
+01:34:35,960 --> 01:34:37,160
+we sometimes chat
+
+2222
+01:34:37,160 --> 01:34:40,560
+they'll talk about that time
+
+2223
+01:34:40,560 --> 01:34:43,160
+They also saw it on TV
+
+2224
+01:34:43,160 --> 01:34:46,420
+How does our boss make such a declaration
+
+2225
+01:34:46,420 --> 01:34:48,360
+he's crazy
+
+2226
+01:34:48,360 --> 01:34:51,120
+Do you think that even the computer at that time
+
+2227
+01:34:51,120 --> 01:34:52,960
+nothing special
+
+2228
+01:34:52,960 --> 01:34:54,160
+there's nothing left
+
+2229
+01:34:54,160 --> 01:34:55,820
+he's crazy
+
+2230
+01:34:56,820 --> 01:34:59,320
+how can we
+
+2231
+01:34:59,320 --> 01:34:59,980
+NASA
+
+2232
+01:35:00,000 --> 01:35:02,000
+only three years old
+
+2233
+01:35:02,000 --> 01:35:04,000
+We'll be on the moon in a few years
+
+2234
+01:35:04,000 --> 01:35:06,000
+what are you kidding
+
+2235
+01:35:06,000 --> 01:35:08,000
+our boss is crazy
+
+2236
+01:35:08,000 --> 01:35:10,000
+Our senior man said
+
+2237
+01:35:10,000 --> 01:35:12,000
+they were at that time
+
+2238
+01:35:12,000 --> 01:35:14,000
+Just the people in NASA
+
+2239
+01:35:14,000 --> 01:35:16,000
+their reaction is this
+
+2240
+01:35:18,000 --> 01:35:20,000
+how about you go do it
+
+2241
+01:35:20,000 --> 01:35:22,000
+results in less than eight years
+
+2242
+01:35:22,000 --> 01:35:24,000
+just landed on the moon
+
+2243
+01:35:24,000 --> 01:35:26,000
+this is
+
+2244
+01:35:26,000 --> 01:35:28,000
+this you want me to imagine
+
+2245
+01:35:28,000 --> 01:35:30,000
+really can't imagine
+
+2246
+01:35:30,000 --> 01:35:32,000
+how can it be so powerful
+
+2247
+01:35:32,000 --> 01:35:34,000
+real
+
+2248
+01:35:34,000 --> 01:35:36,000
+when the power of the country is mobilized
+
+2249
+01:35:36,000 --> 01:35:38,000
+Wow
+
+2250
+01:35:38,000 --> 01:35:40,000
+the spirit of that america
+
+2251
+01:35:40,000 --> 01:35:42,000
+really weird and powerful
+
+2252
+01:35:42,000 --> 01:35:44,000
+none
+
+2253
+01:35:44,000 --> 01:35:46,000
+a nation
+
+2254
+01:35:46,000 --> 01:35:48,000
+or a group
+
+2255
+01:35:48,000 --> 01:35:50,000
+can do this
+
+2256
+01:35:50,000 --> 01:35:52,000
+really weird
+
+2257
+01:35:52,000 --> 01:35:54,000
+America is not the first time
+
+2258
+01:35:54,000 --> 01:35:56,000
+Find a few more years in the 20th World War
+
+2259
+01:35:56,000 --> 01:35:58,000
+Made it in three years
+
+2260
+01:35:58,000 --> 01:36:00,000
+it's hard
+
+2261
+01:36:00,000 --> 01:36:02,000
+it's really hard to imagine
+
+2262
+01:36:03,000 --> 01:36:10,000
+But how many years do you think this matter has invested a total of 100,000 people?
+
+2263
+01:36:11,000 --> 01:36:13,000
+At that time, there were 100,000 people on Pangda Road
+
+2264
+01:36:13,000 --> 01:36:14,000
+There are only 30,000 people now
+
+2265
+01:36:16,000 --> 01:36:18,000
+How much money will the country go down
+
+2266
+01:36:19,000 --> 01:36:21,000
+mobilize so much force
+
+2267
+01:36:21,000 --> 01:36:24,000
+did it and succeeded
+
+2268
+01:36:24,000 --> 01:36:27,000
+Do you think if this is a lie
+
+2269
+01:36:27,000 --> 01:36:30,000
+you want the whole thing to be a lie
+
+2270
+01:36:30,000 --> 01:36:32,000
+want to face the truth
+
+2271
+01:36:32,000 --> 01:36:35,000
+then fake
+
+2272
+01:36:35,000 --> 01:36:38,000
+It can still deceive people on such a large scale
+
+2273
+01:36:38,000 --> 01:36:40,000
+the degree of difficulty
+
+2274
+01:36:40,000 --> 01:36:42,000
+you might as well go
+
+2275
+01:36:43,000 --> 01:36:44,000
+real
+
+2276
+01:36:44,000 --> 01:36:46,000
+that is difficult
+
+2277
+01:36:46,000 --> 01:36:48,000
+it's not that hard for you to go
+
+2278
+01:36:50,000 --> 01:36:52,000
+think from this angle
+
+2279
+01:36:52,000 --> 01:36:53,000
+In fact it is true
+
+2280
+01:36:53,000 --> 01:36:56,000
+I give you another test
+
+2281
+01:36:56,000 --> 01:36:58,000
+maybe you know
+
+2282
+01:36:58,000 --> 01:37:00,000
+right
+
+2283
+01:37:00,000 --> 01:37:01,120
+you've been there
+
+2284
+01:37:02,280 --> 01:37:03,680
+this thing
+
+2285
+01:37:03,680 --> 01:37:06,200
+You need to know the meaning behind them
+
+2286
+01:37:06,200 --> 01:37:09,040
+Just run white rice to see who wins
+
+2287
+01:37:10,280 --> 01:37:11,600
+who lost
+
+2288
+01:37:11,920 --> 01:37:12,920
+Soviet Union
+
+2289
+01:37:14,560 --> 01:37:16,480
+People in the Soviet Union never said a word
+
+2290
+01:37:16,880 --> 01:37:17,520
+No
+
+2291
+01:37:18,720 --> 01:37:22,000
+You know you're fake if you lose
+
+2292
+01:37:22,640 --> 01:37:23,920
+Who are you going to lie to?
+
+2293
+01:37:25,040 --> 01:37:27,160
+The Soviet Union is full of experts
+
+2294
+01:37:27,520 --> 01:37:29,280
+experts among experts
+
+2295
+01:37:29,600 --> 01:37:31,680
+you got any fake stuff in here
+
+2296
+01:37:31,680 --> 01:37:34,120
+He's not the first to tell you to lie less.
+
+2297
+01:37:35,200 --> 01:37:36,120
+No
+
+2298
+01:37:37,200 --> 01:37:40,080
+Who is now talking about the United States?
+
+2299
+01:37:40,640 --> 01:37:43,360
+You go and look through those people in the future
+
+2300
+01:37:43,520 --> 01:37:46,280
+The more he talks the more money he makes
+
+2301
+01:37:46,280 --> 01:37:47,080
+i will lie to you
+
+2302
+01:37:47,720 --> 01:37:48,960
+write more books
+
+2303
+01:37:49,680 --> 01:37:51,080
+more tv
+
+2304
+01:37:51,480 --> 01:37:53,840
+The whole world invites him everywhere
+
+2305
+01:37:53,840 --> 01:37:54,680
+i will lie to you
+
+2306
+01:37:55,640 --> 01:37:57,720
+You will know why this kind of thing happens
+
+2307
+01:38:00,000 --> 01:38:03,560
+If you have ever been deceived
+
+2308
+01:38:03,560 --> 01:38:06,320
+I guess you have enough curiosity
+
+2309
+01:38:06,320 --> 01:38:08,100
+but sorry
+
+2310
+01:38:08,100 --> 01:38:10,260
+you are curious because you are curious
+
+2311
+01:38:10,260 --> 01:38:13,760
+fact or fact
+
+2312
+01:38:13,760 --> 01:38:17,520
+This matter can be analyzed later
+
+2313
+01:38:17,520 --> 01:38:18,860
+No matter what angle you say about dry shoes
+
+2314
+01:38:18,860 --> 01:38:22,520
+Is it human long-term love? Look at it from this angle
+
+2315
+01:38:22,520 --> 01:38:26,760
+Don't worry, I've been there
+
+2316
+01:38:26,760 --> 01:38:28,760
+it's all true
+
+2317
+01:38:32,960 --> 01:38:34,460
+OK this is the last one
+
+2318
+01:38:34,460 --> 01:38:36,560
+that is to say
+
+2319
+01:38:36,560 --> 01:38:38,660
+Well, I was there at that time
+
+2320
+01:38:38,660 --> 01:38:41,760
+You know you've been there six times and you've been there at six o'clock
+
+2321
+01:38:41,760 --> 01:38:43,960
+There are instruments at six points
+
+2322
+01:38:43,960 --> 01:38:48,260
+There is the same path that the car on the moon surface traveled.
+
+2323
+01:38:48,260 --> 01:38:50,560
+There are traces all over
+
+2324
+01:38:50,560 --> 01:38:52,220
+after decades
+
+2325
+01:38:52,220 --> 01:38:53,760
+are those things still there
+
+2326
+01:38:53,760 --> 01:38:55,220
+of course in
+
+2327
+01:38:55,220 --> 01:38:58,520
+because there is no wind and rain
+
+2328
+01:38:58,520 --> 01:39:00,020
+what was he like when he left
+
+2329
+01:39:00,000 --> 01:39:02,900
+It's the same now. It hasn't changed.
+
+2330
+01:39:02,900 --> 01:39:06,540
+Then can we take a sneak peek?
+
+2331
+01:39:06,540 --> 01:39:07,840
+Can
+
+2332
+01:39:07,840 --> 01:39:11,100
+in 2009
+
+2333
+01:39:11,100 --> 01:39:13,940
+The United States sent a purpose not to see
+
+2334
+01:39:13,940 --> 01:39:15,400
+this original scene
+
+2335
+01:39:15,400 --> 01:39:19,440
+It's just some scientific satellites that we really want to explore.
+
+2336
+01:39:19,440 --> 01:39:23,500
+The spaceship is called the Lunar Reconnaissance Orbiter
+
+2337
+01:39:23,500 --> 01:39:24,600
+just went
+
+2338
+01:39:24,600 --> 01:39:27,940
+Going around is going around without logging in
+
+2339
+01:39:27,940 --> 01:39:30,140
+into my process
+
+2340
+01:39:30,140 --> 01:39:34,040
+Of course those spacecraft have good cameras
+
+2341
+01:39:34,040 --> 01:39:37,340
+Which means NASA, of course, has a schedule
+
+2342
+01:39:37,340 --> 01:39:40,740
+Someday you will fly to our original
+
+2343
+01:39:40,740 --> 01:39:42,940
+Above the login point on the 11th
+
+2344
+01:39:42,940 --> 01:39:45,640
+you take our picture back
+
+2345
+01:39:45,640 --> 01:39:48,540
+Someday you will fly to the position of No. 14
+
+2346
+01:39:48,540 --> 01:39:49,940
+Come back if you take a picture of me
+
+2347
+01:39:49,940 --> 01:39:53,640
+6 dots, 7 dots, all 6 dots are covered
+
+2348
+01:39:53,640 --> 01:39:54,840
+All six points are taken
+
+2349
+01:39:54,840 --> 01:39:57,240
+Here are two examples
+
+2350
+01:39:57,340 --> 01:39:59,640
+this is
+
+2351
+01:39:59,640 --> 01:40:00,640
+left is
+
+2352
+01:40:00,000 --> 01:40:02,000
+11th is the first time
+
+2353
+01:40:02,000 --> 01:40:04,000
+over there is number 14
+
+2354
+01:40:06,000 --> 01:40:08,000
+Can you see a bright spot here
+
+2355
+01:40:08,000 --> 01:40:10,000
+the sun comes from here
+
+2356
+01:40:10,000 --> 01:40:12,000
+here is a bright spot
+
+2357
+01:40:12,000 --> 01:40:15,000
+its shadow is elongated
+
+2358
+01:40:15,000 --> 01:40:19,000
+This thing is an upright tall thing
+
+2359
+01:40:19,000 --> 01:40:21,000
+definitely not natural
+
+2360
+01:40:22,000 --> 01:40:24,000
+Natural things don't look like this
+
+2361
+01:40:24,000 --> 01:40:25,000
+except on earth
+
+2362
+01:40:25,000 --> 01:40:27,000
+because when the wind blows and the rain
+
+2363
+01:40:27,000 --> 01:40:29,000
+time-lapse of that terrain
+
+2364
+01:40:29,000 --> 01:40:31,000
+It's possible to look long
+
+2365
+01:40:31,000 --> 01:40:33,000
+That's what happens after erosion
+
+2366
+01:40:33,000 --> 01:40:35,000
+normally it grows into
+
+2367
+01:40:35,000 --> 01:40:37,000
+don't grow anything like this
+
+2368
+01:40:37,000 --> 01:40:38,000
+here has
+
+2369
+01:40:38,000 --> 01:40:40,000
+This is the point of the light path
+
+2370
+01:40:40,000 --> 01:40:42,000
+and see
+
+2371
+01:40:42,000 --> 01:40:44,000
+An upright thing with such a long shadow
+
+2372
+01:40:44,000 --> 01:40:46,000
+It's the Luna
+
+2373
+01:40:46,000 --> 01:40:48,000
+this is stone town
+
+2374
+01:40:48,000 --> 01:40:50,000
+that thing is still there
+
+2375
+01:40:51,000 --> 01:40:53,000
+Then you're a liar besides this
+
+2376
+01:40:53,000 --> 01:40:55,000
+All right
+
+2377
+01:40:55,000 --> 01:40:57,000
+This is on the 14th side
+
+2378
+01:40:57,000 --> 01:40:59,000
+look carefully
+
+2379
+01:40:59,000 --> 01:41:00,000
+Can you see there's a
+
+2380
+01:41:00,000 --> 01:41:03,000
+There is that trace on this surface
+
+2381
+01:41:03,000 --> 01:41:05,000
+this is a spaceship
+
+2382
+01:41:05,000 --> 01:41:09,000
+space this one will go
+
+2383
+01:41:09,000 --> 01:41:12,000
+What is a small car
+
+2384
+01:41:12,000 --> 01:41:14,000
+out of the track
+
+2385
+01:41:14,000 --> 01:41:16,000
+go put that instrument here
+
+2386
+01:41:16,000 --> 01:41:18,000
+there are instruments
+
+2387
+01:41:18,000 --> 01:41:20,000
+This shadow is also like this
+
+2388
+01:41:20,000 --> 01:41:22,000
+this is current affairs
+
+2389
+01:41:22,000 --> 01:41:26,000
+This is over 30 years
+
+2390
+01:41:26,000 --> 01:41:28,000
+stay safe
+
+2391
+01:41:28,000 --> 01:41:30,000
+really still
+
+2392
+01:41:30,000 --> 01:41:36,000
+There is no need to keep saying this
+
+2393
+01:41:36,000 --> 01:41:38,000
+i want now
+
+2394
+01:41:38,000 --> 01:41:39,000
+not talking about me
+
+2395
+01:41:39,000 --> 01:41:41,000
+what do you want to prove
+
+2396
+01:41:41,000 --> 01:41:42,000
+nope
+
+2397
+01:41:42,000 --> 01:41:44,000
+I told you back then that I never reacted
+
+2398
+01:41:44,000 --> 01:41:46,000
+no public announcement
+
+2399
+01:41:46,000 --> 01:41:47,000
+didn't come out and say
+
+2400
+01:41:47,000 --> 01:41:49,000
+Let me testify
+
+2401
+01:41:49,000 --> 01:41:51,000
+we have been there
+
+2402
+01:41:51,000 --> 01:41:54,000
+I didn't say a word back then
+
+2403
+01:41:54,000 --> 01:41:56,000
+never said
+
+2404
+01:41:56,000 --> 01:41:57,000
+It's just that the official didn't say it back.
+
+2405
+01:41:57,000 --> 01:41:59,000
+i think it's right
+
+2406
+01:42:00,000 --> 01:42:02,000
+casual talk
+
+2407
+01:42:02,000 --> 01:42:04,000
+i don't care about you
+
+2408
+01:42:04,000 --> 01:42:06,000
+what do you mean
+
+2409
+01:42:06,000 --> 01:42:08,000
+Really, you ignore him instead
+
+2410
+01:42:08,000 --> 01:42:10,000
+not like NASA
+
+2411
+01:42:10,000 --> 01:42:12,000
+right
+
+2412
+01:42:12,000 --> 01:42:13,000
+I dignified NASA
+
+2413
+01:42:13,000 --> 01:42:14,000
+I don't care what you say
+
+2414
+01:42:14,000 --> 01:42:15,000
+i have it
+
+2415
+01:42:15,000 --> 01:42:16,000
+I follow these
+
+2416
+01:42:16,000 --> 01:42:18,000
+not for
+
+2417
+01:42:18,000 --> 01:42:19,000
+to refute you
+
+2418
+01:42:19,000 --> 01:42:20,000
+I just want to take pictures
+
+2419
+01:42:20,000 --> 01:42:21,000
+How about it
+
+2420
+01:42:21,000 --> 01:42:23,000
+I just want to see the situation
+
+2421
+01:42:23,000 --> 01:42:26,000
+This is the last trace left
+
+2422
+01:42:26,000 --> 01:42:29,000
+that's the end of my story
+
+2423
+01:42:29,000 --> 01:42:31,000
+Because of the moon you all start
+
+2424
+01:42:31,000 --> 01:42:33,000
+understand better
+
+2425
+01:42:33,000 --> 01:42:36,000
+We humans probably know this too.
+
+2426
+01:42:36,000 --> 01:42:38,000
+ok thank you all
+
+2427
+01:42:42,000 --> 01:42:44,000
+Thank you so much
+
+2428
+01:42:44,000 --> 01:42:45,000
+i think we really are
+
+2429
+01:42:45,000 --> 01:42:46,000
+one night
+
+2430
+01:42:46,000 --> 01:42:48,000
+not talking about night
+
+2431
+01:42:48,000 --> 01:42:51,000
+Learn more about the moon
+
+2432
+01:42:51,000 --> 01:42:54,000
+I also heard many stories
+
+2433
+01:42:54,000 --> 01:42:55,000
+then we are left
+
+2434
+01:42:55,000 --> 01:42:57,000
+about twenty minutes
+
+2435
+01:42:57,000 --> 01:42:59,000
+let everyone ask questions
+
+2436
+01:43:00,000 --> 01:43:10,000
+Doesn't China also have Tibet-Cooperative Moon Exploration?
+
+2437
+01:43:10,000 --> 01:43:11,000
+right
+
+2438
+01:43:11,000 --> 01:43:12,000
+talk about
+
+2439
+01:43:12,000 --> 01:43:16,000
+this right
+
+2440
+01:43:16,000 --> 01:43:24,000
+In fact, if we say that this lunar exploration has been very quiet since 1972
+
+2441
+01:43:24,000 --> 01:43:27,000
+Because what I just said is that there's nothing to go on
+
+2442
+01:43:27,000 --> 01:43:29,000
+sooner or later
+
+2443
+01:43:29,000 --> 01:43:32,000
+Because you are curious about science
+
+2444
+01:43:32,000 --> 01:43:35,000
+During the Cold War, Japan actually had
+
+2445
+01:43:35,000 --> 01:43:37,000
+These are small satellites
+
+2446
+01:43:37,000 --> 01:43:40,000
+even some are for experiments
+
+2447
+01:43:40,000 --> 01:43:42,000
+have been there
+
+2448
+01:43:42,000 --> 01:43:45,000
+It really only started in the last few years
+
+2449
+01:43:45,000 --> 01:43:47,000
+go back and say
+
+2450
+01:43:47,000 --> 01:43:49,000
+we're going back to the moon
+
+2451
+01:43:49,000 --> 01:43:51,000
+have you heard the slogan
+
+2452
+01:43:51,000 --> 01:43:53,000
+that is to say
+
+2453
+01:43:53,000 --> 01:43:56,000
+It is to do this from the perspective of scientific exploration
+
+2454
+01:43:56,000 --> 01:44:00,000
+Well, I did make a statistic here.
+
+2455
+01:44:00,000 --> 01:44:03,740
+But the reason we have it is because it was years ago
+
+2456
+01:44:03,740 --> 01:44:06,140
+look what's over here
+
+2457
+01:44:06,140 --> 01:44:09,740
+It's not when you read my writing
+
+2458
+01:44:09,740 --> 01:44:12,800
+It was already a few years ago
+
+2459
+01:44:12,800 --> 01:44:14,840
+Actually quite a lot
+
+2460
+01:44:14,840 --> 01:44:16,140
+Europe also went
+
+2461
+01:44:16,140 --> 01:44:18,940
+Japan went to the United States several times
+
+2462
+01:44:18,940 --> 01:44:21,240
+Including most of China and Russia
+
+2463
+01:44:21,240 --> 01:44:23,540
+I'm only going for the first time as I write
+
+2464
+01:44:23,540 --> 01:44:24,580
+It's just Chang'e No. 1
+
+2465
+01:44:24,580 --> 01:44:27,140
+Number three should be gone by now, right?
+
+2466
+01:44:27,140 --> 01:44:29,440
+that's gone
+
+2467
+01:44:29,940 --> 01:44:31,640
+haven't landed on the moon yet
+
+2468
+01:44:31,640 --> 01:44:33,040
+go to the moon
+
+2469
+01:44:33,040 --> 01:44:38,140
+But it will be more and more lively in the future, it's true
+
+2470
+01:44:38,140 --> 01:44:41,740
+Even India is going to go
+
+2471
+01:44:41,740 --> 01:44:45,580
+So this moon has become a new one
+
+2472
+01:44:45,580 --> 01:44:47,540
+Not a Cold War target anymore
+
+2473
+01:44:47,540 --> 01:44:49,040
+but
+
+2474
+01:44:49,040 --> 01:44:53,040
+It's probably for the purpose of showing national strength.
+
+2475
+01:44:53,040 --> 01:44:57,340
+But unfortunately it still seems to be a goal
+
+2476
+01:45:00,000 --> 01:45:10,000
+Let me ask, the bigger the animal on the earth, the magnetic ring it walks on, like an elephant,
+
+2477
+01:45:10,000 --> 01:45:14,000
+Obviously, there is no way to jump as high as an explosion, or as high as a jumping claw,
+
+2478
+01:45:14,000 --> 01:45:20,000
+Could it be that the earth used to rotate faster, so it has more centrifugal force,
+
+2479
+01:45:20,000 --> 01:45:26,000
+Then the moon is on it again, and it is pulling, so the dinosaurs more than 100 million years ago can grow to be so big,
+
+2480
+01:45:26,000 --> 01:45:30,000
+Then after the dinosaurs died out, it would be better if you couldn’t grow up to be as big as a dinosaur,
+
+2481
+01:45:30,000 --> 01:45:35,000
+Because the earth rotates relatively slowly now, there is no centrifugal force.
+
+2482
+01:45:35,000 --> 01:45:40,000
+In this way, what you think of this seems to be quite interesting qualitatively,
+
+2483
+01:45:40,000 --> 01:45:46,000
+However, this should not be the case in terms of quantification. That is to say, you just mentioned these phenomena,
+
+2484
+01:45:46,000 --> 01:45:51,000
+We actually understand it, I will describe it a little later,
+
+2485
+01:45:51,000 --> 01:45:59,000
+But the phenomenon you mentioned, in fact, no matter how fast our centrifugal force is on the earth, you actually don’t feel it.
+
+2486
+01:46:00,000 --> 01:46:05,720
+That centrifugal force is now only 1/300 of Wanyou’s profit.
+
+2487
+01:46:05,720 --> 01:46:07,120
+not yet
+
+2488
+01:46:07,120 --> 01:46:09,040
+no matter how fast you earn
+
+2489
+01:46:09,040 --> 01:46:11,640
+That's like one hundredth
+
+2490
+01:46:11,640 --> 01:46:13,160
+that's going to happen soon
+
+2491
+01:46:13,160 --> 01:46:16,400
+That's like one hundredth of gravity
+
+2492
+01:46:16,400 --> 01:46:18,040
+That's only one hundredth
+
+2493
+01:46:18,040 --> 01:46:21,360
+How big can that grow for animals
+
+2494
+01:46:21,360 --> 01:46:23,160
+that effect is too small
+
+2495
+01:46:23,160 --> 01:46:27,360
+Then you say that the difference between animals is several times
+
+2496
+01:46:27,360 --> 01:46:28,240
+several times
+
+2497
+01:46:28,240 --> 01:46:30,240
+That's only one percent off
+
+2498
+01:46:30,240 --> 01:46:32,560
+It is really
+
+2499
+01:46:32,560 --> 01:46:33,560
+negligible
+
+2500
+01:46:33,560 --> 01:46:35,920
+So it has nothing to do with that reason
+
+2501
+01:46:35,920 --> 01:46:37,080
+how fast with that
+
+2502
+01:46:37,080 --> 01:46:38,840
+it doesn't matter
+
+2503
+01:46:38,840 --> 01:46:42,120
+Then why did dinosaurs grow so big
+
+2504
+01:46:42,120 --> 01:46:43,560
+We can now also fear
+
+2505
+01:46:43,560 --> 01:46:46,560
+If you bite a dinosaur now, it can be this big
+
+2506
+01:46:46,560 --> 01:46:49,760
+but you'll find it's really slow
+
+2507
+01:46:49,760 --> 01:46:52,640
+Even an elephant can say it's slow
+
+2508
+01:46:52,640 --> 01:46:55,160
+Moves very slowly compared to Jumping Claw
+
+2509
+01:46:55,160 --> 01:46:59,680
+The jumping claw is dozens of times taller than its own body
+
+2510
+01:47:00,000 --> 01:47:07,000
+Or an elephant, or if you are on the road in a powerful scene, or something with a big road, just jump off
+
+2511
+01:47:07,000 --> 01:47:13,000
+This is not, it has nothing to do with whether the earth rotates or not
+
+2512
+01:47:13,000 --> 01:47:17,000
+This is because under our gravity
+
+2513
+01:47:17,000 --> 01:47:25,000
+The bigger the thing, its volume, for example, you magnify me ten times
+
+2514
+01:47:26,000 --> 01:47:32,000
+My weight has changed a thousand times, but my feet have only grown a hundred times
+
+2515
+01:47:32,000 --> 01:47:36,000
+This is two-dimensional space, the volume is three-dimensional space
+
+2516
+01:47:36,000 --> 01:47:41,000
+You magnify me ten times, you see I am big, and my feet are a hundred times bigger
+
+2517
+01:47:41,000 --> 01:47:45,000
+But sorry, I'm a thousand times heavier
+
+2518
+01:47:45,000 --> 01:47:50,000
+do you think i can stand still
+
+2519
+01:47:50,000 --> 01:47:54,000
+So what should I do? Then my legs will be thicker
+
+2520
+01:47:54,000 --> 01:47:57,000
+It can't be enlarged so thick according to my scale.
+
+2521
+01:47:57,000 --> 01:48:00,000
+Elephants are like this, you see their legs are so thick
+
+2522
+01:48:00,000 --> 01:48:02,000
+seems out of proportion
+
+2523
+01:48:02,000 --> 01:48:04,000
+That is to say, you dance him
+
+2524
+01:48:04,000 --> 01:48:06,000
+Speechless, ask him to zoom in
+
+2525
+01:48:06,000 --> 01:48:08,000
+don't say he dances
+
+2526
+01:48:08,000 --> 01:48:10,000
+he can't even stand
+
+2527
+01:48:10,000 --> 01:48:12,000
+his thin feet
+
+2528
+01:48:12,000 --> 01:48:14,000
+so in that movie
+
+2529
+01:48:14,000 --> 01:48:16,000
+how to explode
+
+2530
+01:48:16,000 --> 01:48:18,000
+mouse so big
+
+2531
+01:48:18,000 --> 01:48:19,000
+don't be afraid
+
+2532
+01:48:19,000 --> 01:48:20,000
+he won't eat you
+
+2533
+01:48:20,000 --> 01:48:22,000
+he can't even stand
+
+2534
+01:48:22,000 --> 01:48:24,000
+this is just
+
+2535
+01:48:24,000 --> 01:48:28,000
+The difference between two tails and three tails
+
+2536
+01:48:28,000 --> 01:48:30,000
+There are actually many examples of this
+
+2537
+01:48:34,000 --> 01:48:36,000
+we look up at the sky
+
+2538
+01:48:36,000 --> 01:48:38,000
+because of the sky
+
+2539
+01:48:38,000 --> 01:48:40,000
+this space
+
+2540
+01:48:40,000 --> 01:48:42,000
+air this
+
+2541
+01:48:42,000 --> 01:48:43,000
+Microparticle
+
+2542
+01:48:43,000 --> 01:48:45,000
+spectrum turns blue
+
+2543
+01:48:45,000 --> 01:48:47,000
+on the night ball
+
+2544
+01:48:47,000 --> 01:48:50,000
+see what color it is
+
+2545
+01:48:51,000 --> 01:48:52,000
+good question
+
+2546
+01:48:52,000 --> 01:48:55,000
+We see the blue of the sky is
+
+2547
+01:48:55,000 --> 01:48:57,000
+in our big air
+
+2548
+01:48:57,000 --> 01:49:00,000
+The solution to scattering sunlight
+
+2549
+01:49:00,000 --> 01:49:05,000
+if you look from the outside
+
+2550
+01:49:05,000 --> 01:49:09,000
+Actually you can't see the air
+
+2551
+01:49:09,000 --> 01:49:10,000
+it is transparent
+
+2552
+01:49:10,000 --> 01:49:13,000
+we are in this because
+
+2553
+01:49:13,000 --> 01:49:14,000
+it fan shot
+
+2554
+01:49:14,000 --> 01:49:15,000
+it fanned in
+
+2555
+01:49:15,000 --> 01:49:16,000
+not outside
+
+2556
+01:49:16,000 --> 01:49:18,000
+outside is getting thinner
+
+2557
+01:49:18,000 --> 01:49:20,000
+from the outside
+
+2558
+01:49:20,000 --> 01:49:21,000
+good question
+
+2559
+01:49:21,000 --> 01:49:22,000
+when viewed from the outside
+
+2560
+01:49:22,000 --> 01:49:25,000
+In fact, the air is transparent
+
+2561
+01:49:25,000 --> 01:49:26,000
+no air in sight
+
+2562
+01:49:26,000 --> 01:49:27,000
+but we can see
+
+2563
+01:49:27,000 --> 01:49:28,000
+clouds in the air
+
+2564
+01:49:28,000 --> 01:49:30,000
+clouds are white water
+
+2565
+01:49:30,000 --> 01:49:31,000
+water molecule
+
+2566
+01:49:31,000 --> 01:49:32,000
+it's not by fanning
+
+2567
+01:49:32,000 --> 01:49:33,000
+it is reflection
+
+2568
+01:49:33,000 --> 01:49:35,000
+It's just a group of white clouds
+
+2569
+01:49:35,000 --> 01:49:36,000
+elsewhere is
+
+2570
+01:49:36,000 --> 01:49:38,000
+If you don't see the land
+
+2571
+01:49:38,000 --> 01:49:39,000
+or the sea
+
+2572
+01:49:39,000 --> 01:49:40,000
+that's all
+
+2573
+01:49:40,000 --> 01:49:41,000
+did not see
+
+2574
+01:49:41,000 --> 01:49:44,000
+also can't see what color it should be
+
+2575
+01:49:44,000 --> 01:49:45,000
+On the whole
+
+2576
+01:49:45,000 --> 01:49:46,000
+our earth
+
+2577
+01:49:46,000 --> 01:49:49,000
+Nicknamed Blue Planet
+
+2578
+01:49:49,000 --> 01:49:51,000
+mean blue planet
+
+2579
+01:49:51,000 --> 01:49:53,000
+That blue is not because of the air
+
+2580
+01:49:53,000 --> 01:49:56,000
+It's the reflection of sea water
+
+2581
+01:49:56,000 --> 01:49:59,000
+there is another reason
+
+2582
+01:49:59,000 --> 01:50:00,000
+why is the sea blue
+
+2583
+01:50:00,000 --> 01:50:03,240
+That's another reason, but it's really blue
+
+2584
+01:50:03,240 --> 01:50:06,240
+70% of the earth is water
+
+2585
+01:50:06,240 --> 01:50:12,280
+So the earth as a whole looks like a blue shape from the outside.
+
+2586
+01:50:15,280 --> 01:50:19,780
+Please tell me, you said that the earth is also angry with the moon
+
+2587
+01:50:19,780 --> 01:50:23,900
+This means that the interior of the moon is not solid either.
+
+2588
+01:50:23,900 --> 01:50:29,840
+That's a good question, the moon we think it's something that's cooled
+
+2589
+01:50:29,840 --> 01:50:34,880
+But it is completely solid, why does a solid have friction?
+
+2590
+01:50:34,880 --> 01:50:38,880
+The answer is yes, solids still have friction
+
+2591
+01:50:38,880 --> 01:50:49,880
+Because the energetic society outside is actually pinching and pulling it with images like this
+
+2592
+01:50:49,880 --> 01:50:53,880
+In this molecule and molecule, there is actually a mole-mole movement.
+
+2593
+01:50:53,880 --> 01:50:57,880
+That's how Momo energy is consumed
+
+2594
+01:50:57,880 --> 01:50:59,920
+So this optical translation is friction
+
+2595
+01:51:00,000 --> 01:51:05,000
+So don't look at his hard one still inside
+
+2596
+01:51:05,000 --> 01:51:08,000
+Just now there were earthquakes and moonquakes
+
+2597
+01:51:08,000 --> 01:51:13,000
+are the result of this force
+
+2598
+01:51:13,000 --> 01:51:18,000
+Ask Professor Zhao
+
+2599
+01:51:18,000 --> 01:51:25,000
+The one who read the report that there was a sign of water found on Mars
+
+2600
+01:51:25,000 --> 01:51:26,000
+also have air
+
+2601
+01:51:26,000 --> 01:51:30,000
+So it's a bit similar to the conditions on Earth.
+
+2602
+01:51:30,000 --> 01:51:37,000
+Very suitable for human migration to Mars
+
+2603
+01:51:37,000 --> 01:51:40,000
+Ask Professor Zhao for your opinion
+
+2604
+01:51:40,000 --> 01:51:41,000
+Thanks
+
+2605
+01:51:41,000 --> 01:51:42,000
+good question
+
+2606
+01:51:42,000 --> 01:51:45,000
+But you want me to live, I don't think so
+
+2607
+01:51:45,000 --> 01:51:49,000
+Because what you said is very suitable is actually just a relative
+
+2608
+01:51:49,000 --> 01:51:51,000
+Which means he's at least not as hot as the sun
+
+2609
+01:51:51,000 --> 01:51:55,000
+Or maybe the pressure isn't as great as Jupiter's
+
+2610
+01:51:55,000 --> 01:51:57,000
+Or maybe he doesn't have that much gravity
+
+2611
+01:51:57,000 --> 01:51:58,000
+i can stand up
+
+2612
+01:52:00,000 --> 01:52:01,020
+It's okay in terms of
+
+2613
+01:52:01,020 --> 01:52:04,600
+Because Mars is the size of Earth
+
+2614
+01:52:04,600 --> 01:52:06,400
+not too much difference
+
+2615
+01:52:06,400 --> 01:52:07,940
+so its
+
+2616
+01:52:07,940 --> 01:52:10,500
+the gravity you are on
+
+2617
+01:52:10,500 --> 01:52:12,300
+smaller than the earth
+
+2618
+01:52:12,300 --> 01:52:13,560
+Great
+
+2619
+01:52:13,560 --> 01:52:16,640
+people go to dream shape
+
+2620
+01:52:16,640 --> 01:52:18,680
+you can't stand
+
+2621
+01:52:18,680 --> 01:52:20,740
+just go down
+
+2622
+01:52:20,740 --> 01:52:22,520
+that gravity is too much
+
+2623
+01:52:22,520 --> 01:52:23,300
+there are others
+
+2624
+01:52:23,300 --> 01:52:24,320
+it has air
+
+2625
+01:52:24,320 --> 01:52:25,340
+but sorry for its air
+
+2626
+01:52:25,340 --> 01:52:27,640
+all carbon dioxide
+
+2627
+01:52:27,640 --> 01:52:29,700
+you can't breathe
+
+2628
+01:52:30,460 --> 01:52:32,000
+its temperature
+
+2629
+01:52:32,000 --> 01:52:33,800
+kill you
+
+2630
+01:52:33,800 --> 01:52:34,820
+because it is far
+
+2631
+01:52:34,820 --> 01:52:36,100
+and the earth is far away
+
+2632
+01:52:36,100 --> 01:52:36,860
+and
+
+2633
+01:52:36,860 --> 01:52:38,660
+Even if it's all carbon dioxide
+
+2634
+01:52:38,660 --> 01:52:39,180
+its
+
+2635
+01:52:39,180 --> 01:52:40,960
+greenhouse effect
+
+2636
+01:52:40,960 --> 01:52:43,000
+only raise it to
+
+2637
+01:52:43,000 --> 01:52:43,780
+Some
+
+2638
+01:52:43,780 --> 01:52:45,580
+still too cold
+
+2639
+01:52:45,580 --> 01:52:49,420
+Of course the air is only of the earth
+
+2640
+01:52:49,420 --> 01:52:51,720
+Less than 10%
+
+2641
+01:52:51,720 --> 01:52:53,500
+very thin
+
+2642
+01:52:53,500 --> 01:52:55,040
+is there any water
+
+2643
+01:52:55,040 --> 01:52:57,600
+Now there is no liquid water on the surface
+
+2644
+01:52:57,600 --> 01:52:58,880
+because it's too cold
+
+2645
+01:52:58,880 --> 01:53:00,020
+it maybe that
+
+2646
+01:53:00,000 --> 01:53:03,240
+Soil can't be called soil
+
+2647
+01:53:03,240 --> 01:53:07,200
+The weathered sand
+
+2648
+01:53:07,200 --> 01:53:11,500
+Those substances may have frozen moisture in them
+
+2649
+01:53:11,500 --> 01:53:12,500
+might have
+
+2650
+01:53:12,500 --> 01:53:16,000
+In particular, there is a lot of dry ice in the North and South Poles
+
+2651
+01:53:16,000 --> 01:53:18,000
+it's cold
+
+2652
+01:53:18,000 --> 01:53:21,700
+Does that mean it's a good place for people to live?
+
+2653
+01:53:21,700 --> 01:53:24,660
+In fact, it can be said that you go up
+
+2654
+01:53:24,660 --> 01:53:25,800
+I don't talk about you
+
+2655
+01:53:25,800 --> 01:53:29,000
+you put a person on it
+
+2656
+01:53:29,000 --> 01:53:31,300
+He died in three minutes
+
+2657
+01:53:31,300 --> 01:53:33,700
+he can't be hot
+
+2658
+01:53:33,700 --> 01:53:35,600
+Then you say I want to build something
+
+2659
+01:53:35,600 --> 01:53:38,500
+The airtight environment keeps fire inside
+
+2660
+01:53:38,500 --> 01:53:39,200
+of course you can
+
+2661
+01:53:39,200 --> 01:53:42,500
+then you can also be on the moon
+
+2662
+01:53:42,500 --> 01:53:43,800
+The elite can't come up with it
+
+2663
+01:53:43,800 --> 01:53:45,800
+too hot to kill you
+
+2664
+01:53:45,800 --> 01:53:48,000
+Look at it from your fake angle
+
+2665
+01:53:48,000 --> 01:53:48,600
+Oh well
+
+2666
+01:53:48,600 --> 01:53:51,200
+That Mars is
+
+2667
+01:53:51,200 --> 01:53:53,800
+If you must leave the distance
+
+2668
+01:53:53,800 --> 01:53:57,000
+you choose him, you don't choose anything else
+
+2669
+01:53:57,000 --> 01:53:59,800
+It's not that he's good, other things are worse
+
+2670
+01:54:00,000 --> 01:54:13,000
+The professor just heard that the earth will turn slower and slower because the power of his feet is absorbed by the moon
+
+2671
+01:54:13,000 --> 01:54:22,000
+Then there is a question that I didn’t understand just now, why is he always seeing the same side of the moon
+
+2672
+01:54:22,000 --> 01:54:28,000
+Then why is it because the moon is no longer spinning, so he can see the same side of him
+
+2673
+01:54:28,000 --> 01:54:34,000
+It's not because the power of his feet is absorbed by the moon, why isn't the moon turning faster and faster
+
+2674
+01:54:34,000 --> 01:54:39,000
+Great question for this question this has a strong physics concept
+
+2675
+01:54:39,000 --> 01:54:47,000
+I was just secretly wanting to... just... pass the door like this
+
+2676
+01:54:47,000 --> 01:54:54,000
+In fact, this means that the foot momentum is taken away by him, so shouldn’t he turn faster and faster?
+
+2677
+01:54:54,000 --> 01:54:58,000
+If it's fast, it's not... sooner or later I'll see behind him
+
+2678
+01:55:00,000 --> 01:55:02,000
+This didn't happen because
+
+2679
+01:55:02,000 --> 01:55:05,000
+the shape of the moon
+
+2680
+01:55:05,000 --> 01:55:09,000
+Has been sucked into a very strange shape by our earth
+
+2681
+01:55:09,000 --> 01:55:12,000
+It's not that you think it's weird when you see it, it's not weird
+
+2682
+01:55:12,000 --> 01:55:14,000
+It still begs for a ball
+
+2683
+01:55:14,000 --> 01:55:16,000
+look inside carefully
+
+2684
+01:55:16,000 --> 01:55:20,000
+it becomes a bit out of shape
+
+2685
+01:55:20,000 --> 01:55:22,000
+it faces the earth
+
+2686
+01:55:22,000 --> 01:55:24,000
+It turned out to be like the one in Zhongbai
+
+2687
+01:55:24,000 --> 01:55:26,000
+this is the lowest one
+
+2688
+01:55:26,000 --> 01:55:29,000
+You can say Veen, Gravity Veen
+
+2689
+01:55:29,000 --> 01:55:31,000
+its shape has been taken by the earth
+
+2690
+01:55:31,000 --> 01:55:34,000
+It seems to be frozen
+
+2691
+01:55:34,000 --> 01:55:35,000
+so it just
+
+2692
+01:55:35,000 --> 01:55:36,000
+when you go around like this
+
+2693
+01:55:36,000 --> 01:55:38,000
+it's very comfortable
+
+2694
+01:55:38,000 --> 01:55:41,000
+Now you have to force it to turn faster
+
+2695
+01:55:41,000 --> 01:55:43,000
+In fact, there is another force
+
+2696
+01:55:43,000 --> 01:55:45,000
+want to pull it back
+
+2697
+01:55:45,000 --> 01:55:47,000
+So now put in an extra effort
+
+2698
+01:55:47,000 --> 01:55:49,000
+or Earth's tidal forces
+
+2699
+01:55:49,000 --> 01:55:50,000
+please don't turn
+
+2700
+01:55:50,000 --> 01:55:52,000
+because you like facing me
+
+2701
+01:55:52,000 --> 01:55:55,000
+Because this shape already looks like this
+
+2702
+01:55:55,000 --> 01:55:56,000
+So its final result is
+
+2703
+01:55:56,000 --> 01:55:57,000
+it's still like this
+
+2704
+01:55:57,000 --> 01:55:59,000
+But the foot momentum is still there
+
+2705
+01:55:59,000 --> 01:56:00,000
+what about it
+
+2706
+01:56:00,000 --> 01:56:06,000
+The result of this balance of forces is that everyone starts to turn in a big circle, just like that
+
+2707
+01:56:15,000 --> 01:56:19,000
+It is said that NASA has taken photos of aliens, is this really the case?
+
+2708
+01:56:21,000 --> 01:56:23,000
+Who said NASA ever took pictures of aliens?
+
+2709
+01:56:24,000 --> 01:56:28,000
+no , you smash that tv
+
+2710
+01:56:31,000 --> 01:56:38,000
+If there is really a TV saying that, you can really sue him for slander or nonsense
+
+2711
+01:56:39,000 --> 01:56:45,000
+So I'm someone who used to be NASA, I want to really blow him up
+
+2712
+01:56:46,000 --> 01:56:52,000
+It's a joke of course, but the point is you don't really don't say anything
+
+2713
+01:56:52,000 --> 01:56:57,000
+Just do what you say, no, you have to make your own judgment
+
+2714
+01:56:58,000 --> 01:56:59,000
+how to judge
+
+2715
+01:57:00,000 --> 01:57:02,000
+listen to speeches more
+
+2716
+01:57:06,000 --> 01:57:09,000
+That nonsense is too much
+
+2717
+01:57:10,000 --> 01:57:12,000
+we have one more question ok
+
+2718
+01:57:12,000 --> 01:57:14,000
+let him that one
+
+2719
+01:57:18,000 --> 01:57:20,000
+Hello Professor I have a very curious question
+
+2720
+01:57:20,000 --> 01:57:24,000
+These are the names you mentioned just now
+
+2721
+01:57:24,000 --> 01:57:28,000
+Why is it so consistent with the names of the five elements we Chinese talk about?
+
+2722
+01:57:28,000 --> 01:57:30,000
+how is this so consistent
+
+2723
+01:57:30,000 --> 01:57:32,000
+not this is the same thing
+
+2724
+01:57:32,000 --> 01:57:35,000
+That is to say, we are the same as the ancients
+
+2725
+01:57:35,000 --> 01:57:36,000
+now people are the same
+
+2726
+01:57:36,000 --> 01:57:39,000
+If you want to find planets in the sky
+
+2727
+01:57:39,000 --> 01:57:41,000
+The planets are recognizable
+
+2728
+01:57:41,000 --> 01:57:43,000
+because it can run
+
+2729
+01:57:43,000 --> 01:57:45,000
+The other stars are always a place
+
+2730
+01:57:45,000 --> 01:57:48,000
+You can watch it move when you turn it yourself
+
+2731
+01:57:48,000 --> 01:57:51,000
+But planets relative to other stars
+
+2732
+01:57:51,000 --> 01:57:54,000
+it is moving
+
+2733
+01:57:54,000 --> 01:57:56,000
+moving so close to me
+
+2734
+01:57:56,000 --> 01:58:00,000
+You can see that its position is moving relative to other stars every day
+
+2735
+01:58:00,000 --> 01:58:06,480
+In fact, in English, the word Planet means a heart that can run
+
+2736
+01:58:06,480 --> 01:58:10,240
+Then let's say translated into planets, it will go
+
+2737
+01:58:10,240 --> 01:58:16,120
+People in ancient times were not called planets, they were called Huo Xing, Huo who was confused
+
+2738
+01:58:16,120 --> 01:58:19,000
+because I really don't know why it moves
+
+2739
+01:58:19,000 --> 01:58:22,800
+Others are not moving, this fan
+
+2740
+01:58:23,760 --> 01:58:28,480
+Even if we were in history, you are the same now
+
+2741
+01:58:28,480 --> 01:58:33,120
+You go to the sky to find Huo Xing, you can find five
+
+2742
+01:58:33,120 --> 01:58:35,200
+can be seen with the naked eye
+
+2743
+01:58:35,200 --> 01:58:39,760
+The Chinese people's method is five, well, gold and wood follow Huo Tu
+
+2744
+01:58:39,760 --> 01:58:44,400
+Who? Who is gold, that yellow one is called gold, that gold star
+
+2745
+01:58:44,400 --> 01:58:48,400
+Who is wood, who is fire, that spark is fire
+
+2746
+01:58:48,400 --> 01:58:50,160
+because it's red
+
+2747
+01:58:50,160 --> 01:58:52,320
+Who is the water, the white one
+
+2748
+01:58:52,400 --> 01:58:56,000
+It's Mercury, the other two are Jupiter and Saturn
+
+2749
+01:58:56,000 --> 01:59:00,160
+This is how it came about, because we originally had the concept that gold and wood follow Huo Tu
+
+2750
+01:59:00,000 --> 01:59:03,000
+and saw five guys in the sky
+
+2751
+01:59:03,000 --> 01:59:06,000
+Then give him a checkmark
+
+2752
+01:59:06,000 --> 01:59:09,000
+Then we have the concept of yin and yang
+
+2753
+01:59:09,000 --> 01:59:11,000
+that's even better sun moon
+
+2754
+01:59:11,000 --> 01:59:14,000
+All seven guys got it right
+
+2755
+01:59:14,000 --> 01:59:19,000
+Then this lived happily for thousands of years
+
+2756
+01:59:19,000 --> 01:59:22,000
+until the nineteenth and eighteenth centuries
+
+2757
+01:59:22,000 --> 01:59:24,000
+the telescope is out
+
+2758
+01:59:24,000 --> 01:59:28,000
+see not only five but six and seven
+
+2759
+01:59:29,000 --> 01:59:31,000
+There are eight, even the earth is one
+
+2760
+01:59:31,000 --> 01:59:35,000
+So what to do, this is completely broken
+
+2761
+01:59:35,000 --> 01:59:39,000
+It's our original philosophy
+
+2762
+01:59:39,000 --> 01:59:43,000
+This arrangement doesn't actually work
+
+2763
+01:59:43,000 --> 01:59:46,000
+No, we now know that's not right
+
+2764
+01:59:46,000 --> 01:59:48,000
+just a coincidence
+
+2765
+01:59:48,000 --> 01:59:51,000
+So those names come from
+
+2766
+01:59:51,000 --> 01:59:53,000
+rather than just
+
+2767
+01:59:53,000 --> 01:59:56,000
+you just follow him
+
+2768
+01:59:56,000 --> 01:59:59,000
+So how do we name the new discovery?
+
+2769
+02:00:00,000 --> 02:00:02,000
+i run out
+
+2770
+02:00:02,000 --> 02:00:04,000
+just use
+
+2771
+02:00:04,000 --> 02:00:07,000
+Just use English or what Westerners call you
+
+2772
+02:00:07,000 --> 02:00:10,000
+I just translate the meaning
+
+2773
+02:00:10,000 --> 02:00:12,000
+Urnus is the king of heaven
+
+2774
+02:00:12,000 --> 02:00:14,000
+Is Nephtune really the god of the sea?
+
+2775
+02:00:14,000 --> 02:00:15,000
+It's Aquaman
+
+2776
+02:00:15,000 --> 02:00:18,000
+Is Proctor really that Yama of Hell?
+
+2777
+02:00:18,000 --> 02:00:20,000
+It's King Ming
+
+2778
+02:00:20,000 --> 02:00:23,000
+The name came from outside
+
+2779
+02:00:23,000 --> 02:00:26,000
+Then we originally gave the golden wood decaying European soil
+
+2780
+02:00:26,000 --> 02:00:29,000
+Foreigners also have these five names
+
+2781
+02:00:29,000 --> 02:00:31,000
+They don't call gold, wood and Europe
+
+2782
+02:00:31,000 --> 02:00:33,000
+He called this this this this this this
+
+2783
+02:00:33,000 --> 02:00:35,000
+Then we now say Venus is Vinus
+
+2784
+02:00:35,000 --> 02:00:37,000
+Mars is Mars
+
+2785
+02:00:37,000 --> 02:00:39,000
+it's the same thing
+
+2786
+02:00:39,000 --> 02:00:41,000
+that name is different
+
+2787
+02:00:41,000 --> 02:00:43,000
+It was different
+
+2788
+02:00:43,000 --> 02:00:45,000
+It's almost a process like this
+
+2789
+02:00:49,000 --> 02:00:52,000
+we really enjoyed it tonight
+
+2790
+02:00:52,000 --> 02:00:54,000
+Everyone go out later
+
+2791
+02:00:54,000 --> 02:00:56,000
+At least I saw the moon when I came
+
+2792
+02:00:56,000 --> 02:00:58,000
+when you go out to see the moon
+
+2793
+02:00:58,000 --> 02:01:00,000
+do you feel different
+
+2794
+02:01:00,000 --> 02:01:02,500
+Uh uh thanks everyone
+
+2795
+02:01:02,500 --> 02:01:03,500
+Thanks
+
+2796
+02:01:03,500 --> 02:01:05,000
+good teacher
+

@@ -1,0 +1,10324 @@
+1
+00:00:30,000 --> 00:00:31,100
+old två today Stop Au Briton a blessing
+
+2
+00:00:31,100 --> 00:00:32,620
+TOver 100 years,11 safeguard
+
+3
+00:00:32,620 --> 00:00:34,100
+idas s mattered
+
+4
+00:00:34,100 --> 00:00:34,700
+psay
+
+5
+00:00:34,700 --> 00:00:35,800
+call indicates
+
+6
+00:00:35,800 --> 00:00:57,760
+Armenian ruler
+
+7
+00:01:00,000 --> 00:01:02,300
+Everyone knows that Xiaoyuan is
+
+8
+00:01:02,900 --> 00:01:04,060
+Zheyan Rescue
+
+9
+00:01:05,560 --> 00:01:07,500
+very important
+
+10
+00:01:08,260 --> 00:01:09,140
+an activity
+
+11
+00:01:10,560 --> 00:01:11,660
+have been around for a long time
+
+12
+00:01:12,740 --> 00:01:14,140
+every month
+
+13
+00:01:15,140 --> 00:01:16,340
+all early
+
+14
+00:01:17,600 --> 00:01:19,540
+in various fields
+
+15
+00:01:21,440 --> 00:01:24,800
+most academically accomplished
+
+16
+00:01:26,600 --> 00:01:28,200
+experts and scholars
+
+17
+00:01:29,200 --> 00:01:31,200
+Some are from our courtyard
+
+18
+00:01:31,200 --> 00:01:32,200
+some are
+
+19
+00:01:33,200 --> 00:01:34,700
+various university societies
+
+20
+00:01:36,700 --> 00:01:38,400
+the following
+
+21
+00:01:39,500 --> 00:01:40,900
+academia
+
+22
+00:01:41,400 --> 00:01:43,200
+come talk to everyone
+
+23
+00:01:44,400 --> 00:01:45,700
+in various fields
+
+24
+00:01:46,200 --> 00:01:47,500
+latest development
+
+25
+00:01:50,100 --> 00:01:51,700
+i think today we
+
+26
+00:01:52,400 --> 00:01:53,400
+very happy
+
+27
+00:01:53,600 --> 00:01:55,500
+also very honored
+
+28
+00:01:56,000 --> 00:01:56,800
+please come
+
+29
+00:01:58,200 --> 00:01:59,600
+Zheyan Rescue
+
+30
+00:02:00,000 --> 00:02:04,480
+current director of the Institute for Statistical Science
+
+31
+00:02:04,480 --> 00:02:10,240
+Dr. Li Kezhao came to tell you
+
+32
+00:02:10,240 --> 00:02:19,640
+The subject of our knowledge experiment this time
+
+33
+00:02:19,640 --> 00:02:25,280
+Dr. Li graduated from the Mathematics Department of National Taiwan University
+
+34
+00:02:25,880 --> 00:02:32,720
+He went to the University of California, Berkeley
+
+35
+00:02:32,720 --> 00:02:34,720
+Practicing a Ph.D.
+
+36
+00:02:36,720 --> 00:02:38,720
+practicing statistics
+
+37
+00:02:38,720 --> 00:02:42,920
+He is in residence at the University
+
+38
+00:02:42,920 --> 00:02:50,320
+Go to UCLA
+
+39
+00:02:50,320 --> 00:02:55,320
+Institute of Statistics
+
+40
+00:03:00,000 --> 00:03:08,000
+So he's basically UCLA's over there
+
+41
+00:03:08,000 --> 00:03:15,000
+From Professor Zhu to Distinguished Professor
+
+42
+00:03:15,000 --> 00:03:24,000
+Professor Li is engaged in the research of statistical theory
+
+43
+00:03:25,000 --> 00:03:30,000
+His academic contributions are very high
+
+44
+00:03:30,000 --> 00:03:41,000
+His greatest and most admired contribution by the statistical community is in his most
+
+45
+00:03:41,000 --> 00:03:48,000
+What is the Chinese translation? Multi-variate high-dimensional
+
+46
+00:03:49,000 --> 00:03:54,000
+Statistical Analysis of Variables in High Dimensions
+
+47
+00:03:54,000 --> 00:03:59,000
+The main reason is that the actual
+
+48
+00:04:00,000 --> 00:04:02,000
+in the data used
+
+49
+00:04:03,800 --> 00:04:07,600
+Whether it is experimental or natural data,
+
+50
+00:04:08,900 --> 00:04:14,400
+many probably almost mostly high dimensional
+
+51
+00:04:16,600 --> 00:04:19,800
+Then ordinary statistical methods to study this
+
+52
+00:04:20,600 --> 00:04:23,800
+is always flawed
+
+53
+00:04:25,000 --> 00:04:27,800
+So everyone thought of many different ways
+
+54
+00:04:28,400 --> 00:04:36,800
+To use statistical methods to analyze such complex data
+
+55
+00:04:38,600 --> 00:04:39,600
+Neither was very successful
+
+56
+00:04:40,500 --> 00:04:45,000
+Dr. Li invented a method in the 1990s
+
+57
+00:04:46,000 --> 00:04:52,500
+It is recognized by everyone as doing this thing
+
+58
+00:04:53,400 --> 00:04:55,500
+One of the most effective and best ways
+
+59
+00:04:55,500 --> 00:04:59,700
+So his contribution in this aspect is really quite big.
+
+60
+00:05:00,000 --> 00:05:14,000
+In the last ten years or so, he has put his interest in biostatistics,
+
+61
+00:05:14,000 --> 00:05:17,000
+The achievements above are also very large.
+
+62
+00:05:18,000 --> 00:05:28,000
+Since he returned to Taiwan six years ago and served as the director of the ten-year research institute,
+
+63
+00:05:28,000 --> 00:05:35,000
+With Taiwanese scholars, especially Taiwanese medical scholars,
+
+64
+00:05:35,000 --> 00:05:43,000
+Cooperate with doctors who actually work and use the latest statistical methods,
+
+65
+00:05:43,000 --> 00:05:55,000
+Do very difficult, but also very important analysis of biological and medical data.
+
+66
+00:05:55,000 --> 00:06:04,000
+He and the very outstanding scholars of National Taiwan University,
+
+67
+00:06:00,000 --> 00:06:05,920
+Including Yang Pangci, the dean of the School of Medicine at National Taiwan University
+
+68
+00:06:05,920 --> 00:06:08,000
+Academician lung cancer group
+
+69
+00:06:08,000 --> 00:06:15,560
+made recent quite groundbreaking research results
+
+70
+00:06:15,560 --> 00:06:22,920
+These results have been used in practical medicine
+
+71
+00:06:22,920 --> 00:06:24,120
+Medical top
+
+72
+00:06:25,120 --> 00:06:30,960
+Today he talked about this topic
+
+73
+00:06:30,960 --> 00:06:34,960
+apply other statistical methods
+
+74
+00:06:34,960 --> 00:06:41,960
+Statistical processing and analysis of genetic technology information
+
+75
+00:06:41,960 --> 00:06:45,960
+He called him chaos
+
+76
+00:06:45,960 --> 00:06:49,960
+let's welcome him
+
+77
+00:06:54,120 --> 00:07:00,120
+I choose this topic today
+
+78
+00:07:00,000 --> 00:07:02,000
+The first aspect is my interest
+
+79
+00:07:02,000 --> 00:07:06,000
+On the other hand, because I know the words of this talk
+
+80
+00:07:06,000 --> 00:07:12,000
+There are many different backgrounds for this listener
+
+81
+00:07:12,000 --> 00:07:18,000
+When it comes to statistics, most people are in awe of three points
+
+82
+00:07:18,000 --> 00:07:25,000
+My cesar advisor is called prof. Jack Heaver
+
+83
+00:07:25,000 --> 00:07:29,000
+He is also a National Academician of the United States unfortunately a year early four
+
+84
+00:07:29,000 --> 00:07:33,000
+He once said that when he was flying
+
+85
+00:07:33,000 --> 00:07:35,000
+There's a lady sitting next to me
+
+86
+00:07:35,000 --> 00:07:38,000
+Then the two of you chatted and it was very interesting
+
+87
+00:07:38,000 --> 00:07:40,000
+what do you do
+
+88
+00:07:40,000 --> 00:07:42,000
+He said I was a professor of statistics
+
+89
+00:07:42,000 --> 00:07:44,000
+Immediately stand alone
+
+90
+00:07:44,000 --> 00:07:46,000
+i hate statistics
+
+91
+00:07:46,000 --> 00:07:48,000
+Because statistics have a whole bunch of companies
+
+92
+00:07:48,000 --> 00:07:52,000
+How is it? I don't know what's going on inside
+
+93
+00:07:52,000 --> 00:07:56,000
+The words in my talk today
+
+94
+00:07:56,000 --> 00:08:00,000
+I want to change your point of view
+
+95
+00:08:00,000 --> 00:08:05,280
+Because statistics are actually because there are many such computers and so on.
+
+96
+00:08:05,640 --> 00:08:07,600
+Can help you deal with those company issues
+
+97
+00:08:07,760 --> 00:08:10,160
+Your company doesn't need to memorize it, you only need to memorize it once
+
+98
+00:08:10,160 --> 00:08:13,960
+The rest of the things are called pressing a button and everything comes out.
+
+99
+00:08:13,960 --> 00:08:17,520
+So what the memory worker is is not a very important key
+
+100
+00:08:17,720 --> 00:08:20,440
+The most important key is statistical thinking
+
+101
+00:08:20,640 --> 00:08:25,640
+This is a fairly logical thinking
+
+102
+00:08:25,640 --> 00:08:28,200
+Then this processing data
+
+103
+00:08:28,200 --> 00:08:31,720
+You see or see some information in the society, etc.
+
+104
+00:08:31,720 --> 00:08:36,600
+I hope that it can have this statistical spirit in it
+
+105
+00:08:36,600 --> 00:08:41,400
+Then see a lot of that
+
+106
+00:08:42,400 --> 00:08:44,920
+It's a social thing and you'll keep it in your heart
+
+107
+00:08:44,920 --> 00:08:48,400
+The most basic characteristic of that statistician
+
+108
+00:08:48,400 --> 00:08:50,520
+He just won't believe him when he sees the information
+
+109
+00:08:50,520 --> 00:08:52,680
+He will answer a big question mark
+
+110
+00:08:52,760 --> 00:08:53,760
+so
+
+111
+00:08:54,400 --> 00:08:56,360
+Is it really like that?
+
+112
+00:08:56,600 --> 00:08:59,840
+Then I think today although I use the
+
+113
+00:09:00,000 --> 00:09:04,400
+This biotechnology information
+
+114
+00:09:04,400 --> 00:09:09,400
+Then I hope that the last message brought to you is a concept
+
+115
+00:09:09,400 --> 00:09:12,800
+Everyone can use it in daily life
+
+116
+00:09:12,800 --> 00:09:14,600
+Thanks
+
+117
+00:09:21,100 --> 00:09:25,800
+Well, that gene we all know now
+
+118
+00:09:25,800 --> 00:09:28,000
+science is very advanced
+
+119
+00:09:28,000 --> 00:09:31,200
+The species that says mostly a lot cannot say most
+
+120
+00:09:31,200 --> 00:09:35,000
+The sequencing of the genes of many species has come to an end
+
+121
+00:09:35,000 --> 00:09:37,000
+And what about the next job?
+
+122
+00:09:37,000 --> 00:09:41,300
+biologists rely on some so-called vitamin
+
+123
+00:09:41,300 --> 00:09:45,000
+this way or vitamin glyconucleic acid
+
+124
+00:09:45,000 --> 00:09:48,800
+And some Next Generation
+
+125
+00:09:48,800 --> 00:09:51,900
+This is something that the second generation is sequenced to and so on
+
+126
+00:09:51,900 --> 00:09:54,100
+generate a lot of data
+
+127
+00:09:54,100 --> 00:10:00,100
+Use it to help with complex diseases such as cancer
+
+128
+00:10:00,000 --> 00:10:05,000
+research or you are in crops you want to change its important shape
+
+129
+00:10:05,000 --> 00:10:11,000
+For example, genetic factors such as endurance, high yield, etc.
+
+130
+00:10:11,000 --> 00:10:16,000
+So in so many different fields
+
+131
+00:10:16,000 --> 00:10:20,000
+Different in the domain of this creature
+
+132
+00:10:20,000 --> 00:10:24,000
+Everyone uses especially the same nature of these materials
+
+133
+00:10:24,000 --> 00:10:29,000
+Then how to rely on this computer to wait for this
+
+134
+00:10:29,000 --> 00:10:32,000
+grant to do this analysis of the data
+
+135
+00:10:32,000 --> 00:10:35,000
+find out the rules
+
+136
+00:10:35,000 --> 00:10:40,000
+Well that's an interesting question for the guy we do the stats
+
+137
+00:10:40,000 --> 00:10:44,000
+Because there are so many variables involved
+
+138
+00:10:44,000 --> 00:10:51,000
+So today I mainly give some simple examples to introduce to you.
+
+139
+00:10:52,000 --> 00:10:57,000
+And when it comes to statistics, like the average person pays this head on
+
+140
+00:10:57,000 --> 00:11:00,000
+It's like this striking power, like Wang Jianmin's
+
+141
+00:11:00,000 --> 00:11:03,920
+It depends on how much impact you need.
+
+142
+00:11:03,920 --> 00:11:06,000
+or some polls
+
+143
+00:11:06,000 --> 00:11:09,520
+Like how many people win a certain policy
+
+144
+00:11:09,520 --> 00:11:11,000
+while opposed to etc.
+
+145
+00:11:18,600 --> 00:11:22,840
+then why did i choose to do this
+
+146
+00:11:22,840 --> 00:11:24,320
+biology
+
+147
+00:11:24,320 --> 00:11:26,160
+This time the most important thing is
+
+148
+00:11:26,160 --> 00:11:29,520
+because according to many people
+
+149
+00:11:30,000 --> 00:11:33,720
+The so-called 21st century is
+
+150
+00:11:33,720 --> 00:11:37,520
+Nero, Bio, Info
+
+151
+00:11:37,520 --> 00:11:38,800
+that is to say
+
+152
+00:11:38,800 --> 00:11:42,760
+Nero is Namimi's technology
+
+153
+00:11:42,760 --> 00:11:47,360
+Then Bio is biology
+
+154
+00:11:47,360 --> 00:11:52,160
+Info is information
+
+155
+00:11:52,160 --> 00:11:55,320
+The so-called three major technologies of the 21st century
+
+156
+00:11:55,320 --> 00:11:58,000
+Of course statistics are not here
+
+157
+00:12:00,000 --> 00:12:01,280
+very frivolous
+
+158
+00:12:01,540 --> 00:12:04,340
+Then I chose this piece because of this
+
+159
+00:12:04,600 --> 00:12:07,420
+biology he is gradually changing
+
+160
+00:12:09,220 --> 00:12:10,240
+that he
+
+161
+00:12:11,520 --> 00:12:14,080
+by some of the past
+
+162
+00:12:14,340 --> 00:12:17,160
+Probably some observations and some more qualitative
+
+163
+00:12:17,420 --> 00:12:18,440
+east and west
+
+164
+00:12:18,680 --> 00:12:21,240
+Record what this thing is when you see it
+
+165
+00:12:21,500 --> 00:12:23,300
+Work like that gradually
+
+166
+00:12:23,560 --> 00:12:28,160
+Doing some rather quantitative reason is quite quantitative
+
+167
+00:12:28,420 --> 00:12:29,960
+need to make some inferences
+
+168
+00:12:30,000 --> 00:12:30,760
+this kind of work
+
+169
+00:12:31,020 --> 00:12:35,880
+That's what makes this a lot of mathematicians including statistics
+
+170
+00:12:36,140 --> 00:12:39,980
+Mathematicians, including scientists, have a lot of room for this activity
+
+171
+00:12:40,760 --> 00:12:44,600
+Then we can use some of our thinking abilities
+
+172
+00:12:44,860 --> 00:12:46,120
+come to help
+
+173
+00:12:46,380 --> 00:12:48,440
+this from this
+
+174
+00:12:48,680 --> 00:12:49,720
+huge amount of this
+
+175
+00:12:49,980 --> 00:12:53,300
+Find some rules in financial data
+
+176
+00:12:56,120 --> 00:12:58,160
+The human genome is
+
+177
+00:12:58,160 --> 00:13:00,160
+This financial project
+
+178
+00:13:00,000 --> 00:13:05,920
+It was roughly completed around the beginning of 2000 AD
+
+179
+00:13:05,920 --> 00:13:08,160
+The main thing is to do some regular work
+
+180
+00:13:08,160 --> 00:13:10,160
+that in that respect
+
+181
+00:13:10,160 --> 00:13:15,500
+At the beginning, everyone thought there were about 30,000 gold
+
+182
+00:13:15,500 --> 00:13:17,960
+But now it turns out that there aren't that many
+
+183
+00:13:17,960 --> 00:13:22,500
+More than 30,000 gold is mainly based on some knowledge at that time
+
+184
+00:13:22,500 --> 00:13:25,660
+Estimated from some computers
+
+185
+00:13:26,620 --> 00:13:31,500
+Then this slide was produced by the US Department of Energy
+
+186
+00:13:31,500 --> 00:13:33,500
+Originally promoted this project
+
+187
+00:13:35,500 --> 00:13:41,160
+Then the remaining problems after decoding begin
+
+188
+00:13:41,160 --> 00:13:44,300
+Because there are twenty-five thousand gold
+
+189
+00:13:44,300 --> 00:13:47,000
+What is the function of each gold?
+
+190
+00:13:47,000 --> 00:13:50,820
+Then is it in the genome world
+
+191
+00:13:50,820 --> 00:13:53,500
+Different genes can form a functional body
+
+192
+00:13:53,500 --> 00:13:55,200
+between the different functions
+
+193
+00:13:55,200 --> 00:13:57,700
+What is its interactive relationship like?
+
+194
+00:13:57,700 --> 00:13:59,900
+Then there are two-year-old cells
+
+195
+00:14:00,000 --> 00:14:04,300
+How do you use these genes to regulate his metabolism?
+
+196
+00:14:04,300 --> 00:14:06,200
+issues of growth
+
+197
+00:14:06,800 --> 00:14:10,200
+Then there are many problems
+
+198
+00:14:10,200 --> 00:14:11,800
+a bunch of these
+
+199
+00:14:12,400 --> 00:14:15,300
+Iton, I can’t talk to each and every one of you
+
+200
+00:14:16,200 --> 00:14:16,800
+introduce
+
+201
+00:14:17,500 --> 00:14:17,900
+That
+
+202
+00:14:18,700 --> 00:14:19,700
+So from
+
+203
+00:14:20,300 --> 00:14:23,600
+In basic biology, there is probably an idea that it is hoped that the
+
+204
+00:14:24,300 --> 00:14:25,500
+use these genes
+
+205
+00:14:26,900 --> 00:14:28,600
+This information about genes
+
+206
+00:14:28,600 --> 00:14:30,100
+Then form a science
+
+207
+00:14:30,400 --> 00:14:32,600
+then research this
+
+208
+00:14:33,100 --> 00:14:35,700
+The various components in this cell
+
+209
+00:14:36,300 --> 00:14:37,000
+Then
+
+210
+00:14:37,500 --> 00:14:40,400
+To describe which gene has how much?
+
+211
+00:14:40,400 --> 00:14:42,600
+then when does he show it
+
+212
+00:14:42,600 --> 00:14:45,300
+What is the result of his performance and his influence?
+
+213
+00:14:45,800 --> 00:14:48,900
+Wait, make a big, big mathematical model
+
+214
+00:14:49,300 --> 00:14:51,900
+Then right on the computer you might be able to
+
+215
+00:14:52,100 --> 00:14:55,600
+Even make a so-called Virtual Cell
+
+216
+00:14:55,600 --> 00:14:56,800
+just one by one
+
+217
+00:14:57,100 --> 00:14:58,300
+imaginary this
+
+218
+00:14:59,100 --> 00:15:00,100
+cell but
+
+219
+00:15:00,000 --> 00:15:03,600
+The function inside is just like the performance inside
+
+220
+00:15:03,600 --> 00:15:07,200
+It is exactly the same as normal real cells
+
+221
+00:15:07,200 --> 00:15:10,000
+So it's a fairly
+
+222
+00:15:10,000 --> 00:15:14,560
+It's a pretty great one
+
+223
+00:15:14,560 --> 00:15:16,000
+enough for me to be there
+
+224
+00:15:16,000 --> 00:15:19,600
+Hope to be able to do some cells
+
+225
+00:15:19,600 --> 00:15:22,400
+How do you respond to external stimuli?
+
+226
+00:15:22,400 --> 00:15:29,600
+But before accomplishing such a great task
+
+227
+00:15:30,000 --> 00:15:31,920
+This Medical Research
+
+228
+00:15:31,920 --> 00:15:33,360
+In fact, it is more advanced
+
+229
+00:15:33,360 --> 00:15:35,040
+they can't wait
+
+230
+00:15:35,040 --> 00:15:39,760
+Because if you want to do this basic scientific research
+
+231
+00:15:39,760 --> 00:15:41,840
+Nothing to do with practicality
+
+232
+00:15:41,840 --> 00:15:45,840
+In fact, there is no support from any government
+
+233
+00:15:45,840 --> 00:15:49,440
+Because it is a complex disease with many direct
+
+234
+00:15:49,440 --> 00:15:52,080
+Everyone thinks it has something to do with genes
+
+235
+00:15:52,080 --> 00:15:54,000
+what is the relationship
+
+236
+00:15:54,000 --> 00:15:56,560
+how to use these
+
+237
+00:15:56,560 --> 00:16:00,160
+Although the knowledge of this gene body of the incisor just now
+
+238
+00:16:00,000 --> 00:16:02,760
+is able to do some help
+
+239
+00:16:02,760 --> 00:16:04,160
+just inside
+
+240
+00:16:04,160 --> 00:16:05,960
+I will list one here
+
+241
+00:16:05,960 --> 00:16:09,840
+Currently doing the easiest to identify
+
+242
+00:16:09,840 --> 00:16:12,840
+a doable goal
+
+243
+00:16:12,840 --> 00:16:14,600
+so-called molecular diagnosis
+
+244
+00:16:14,600 --> 00:16:16,440
+is the traditional words
+
+245
+00:16:16,440 --> 00:16:18,400
+according to the pathologist
+
+246
+00:16:18,400 --> 00:16:21,400
+this slice and so on
+
+247
+00:16:21,400 --> 00:16:22,560
+make some judgments
+
+248
+00:16:22,560 --> 00:16:24,840
+Judgments like that are often wrong
+
+249
+00:16:24,840 --> 00:16:27,160
+Method doesn't get enough queries
+
+250
+00:16:27,160 --> 00:16:29,840
+So now based on some molecular
+
+251
+00:16:29,880 --> 00:16:32,280
+The method is through some genetic
+
+252
+00:16:32,280 --> 00:16:33,480
+performance measurement
+
+253
+00:16:33,480 --> 00:16:35,280
+See if there are any mutations in the gene, etc.
+
+254
+00:16:35,280 --> 00:16:37,480
+do some diagnostics
+
+255
+00:16:37,480 --> 00:16:39,280
+Then
+
+256
+00:16:39,280 --> 00:16:41,880
+So his goal is to hope that this
+
+257
+00:16:41,880 --> 00:16:43,360
+Physicians can use this
+
+258
+00:16:43,360 --> 00:16:45,080
+Before diseased tissue stroke
+
+259
+00:16:45,080 --> 00:16:46,680
+can predict
+
+260
+00:16:46,680 --> 00:16:48,480
+express like cancer cells are
+
+261
+00:16:48,480 --> 00:16:50,280
+it might happen etc.
+
+262
+00:16:50,280 --> 00:16:52,880
+and then further able to
+
+263
+00:16:52,880 --> 00:16:55,040
+The medical quality of treatment has
+
+264
+00:16:55,040 --> 00:16:57,680
+substantial improvement
+
+265
+00:16:57,680 --> 00:16:59,440
+and then even
+
+266
+00:17:00,000 --> 00:17:02,400
+Someone mentioned whether your genes are bad
+
+267
+00:17:02,400 --> 00:17:05,000
+I can help you remodel and so on.
+
+268
+00:17:11,000 --> 00:17:15,600
+Then when we talked about how to do this analysis
+
+269
+00:17:15,600 --> 00:17:19,800
+Such complex information on this gene was previously
+
+270
+00:17:21,400 --> 00:17:24,200
+We must have some of the most basic of this
+
+271
+00:17:24,200 --> 00:17:25,400
+Ballage Background
+
+272
+00:17:25,400 --> 00:17:27,800
+So I'll post it in a few minutes
+
+273
+00:17:27,800 --> 00:17:30,800
+Soon Goal through these so-called Knowledge
+
+274
+00:17:30,800 --> 00:17:31,700
+So if this is the case
+
+275
+00:17:31,700 --> 00:17:34,700
+We have some consensus in the talk below
+
+276
+00:17:35,700 --> 00:17:40,700
+Then one of the most basic biological
+
+277
+00:17:40,700 --> 00:17:42,200
+a so-called law
+
+278
+00:17:42,200 --> 00:17:46,400
+A dogma is its message
+
+279
+00:17:46,400 --> 00:17:49,100
+It's inside the organism called the cell
+
+280
+00:17:49,100 --> 00:17:52,500
+Its communication The communication of this instruction is from
+
+281
+00:17:52,500 --> 00:17:54,000
+this DNA
+
+282
+00:17:54,000 --> 00:17:56,200
+Then inside this chromosome
+
+283
+00:17:56,800 --> 00:17:58,200
+Then this DNA
+
+284
+00:17:58,200 --> 00:18:00,000
+Chrysostom
+
+285
+00:18:00,000 --> 00:18:05,000
+Then after this transcription is transferred to
+
+286
+00:18:05,000 --> 00:18:07,000
+into this messenger RNA
+
+287
+00:18:07,000 --> 00:18:09,000
+messenger RNA
+
+288
+00:18:09,000 --> 00:18:12,000
+Then translate into this protein after translation
+
+289
+00:18:12,000 --> 00:18:14,000
+is our protein
+
+290
+00:18:14,000 --> 00:18:19,000
+Some biological functions are carried out by proteins
+
+291
+00:18:19,000 --> 00:18:22,000
+That is of course a dogma here
+
+292
+00:18:22,000 --> 00:18:26,000
+For everything in biology, there are examples and there must be counterexamples.
+
+293
+00:18:26,000 --> 00:18:28,000
+So there are counterexamples
+
+294
+00:18:28,000 --> 00:18:33,000
+So there are quite a few cases like this one
+
+295
+00:18:33,000 --> 00:18:35,000
+information flow will be
+
+296
+00:18:37,000 --> 00:18:39,000
+not complied with
+
+297
+00:18:41,000 --> 00:18:42,000
+that that
+
+298
+00:18:42,000 --> 00:18:44,000
+you open a cell
+
+299
+00:18:44,000 --> 00:18:47,000
+Fetch something from the cell when it makes sense
+
+300
+00:18:47,000 --> 00:18:50,000
+The most important component is the chromosome
+
+301
+00:18:50,000 --> 00:18:52,000
+Chromosome words
+
+302
+00:18:52,000 --> 00:18:55,000
+We all know it is through
+
+303
+00:18:55,000 --> 00:18:58,000
+Four different nucleotide compositions
+
+304
+00:18:58,000 --> 00:19:00,000
+ATG type
+
+305
+00:19:00,000 --> 00:19:01,400
+that's a pair
+
+306
+00:19:01,400 --> 00:19:03,020
+Then it's highly congruent
+
+307
+00:19:03,020 --> 00:19:03,900
+These two will
+
+308
+00:19:03,900 --> 00:19:06,900
+If it is A, it must be received by T.
+
+309
+00:19:06,900 --> 00:19:11,020
+If it is G, it must be received by C.
+
+310
+00:19:11,020 --> 00:19:14,620
+Then you don't understand people's words
+
+311
+00:19:14,620 --> 00:19:16,000
+conceivably say yes
+
+312
+00:19:16,000 --> 00:19:18,300
+A is a relatively large
+
+313
+00:19:18,300 --> 00:19:19,600
+This probably is
+
+314
+00:19:19,600 --> 00:19:21,200
+Then T is relatively small
+
+315
+00:19:21,200 --> 00:19:22,500
+so one big and one small
+
+316
+00:19:22,500 --> 00:19:23,800
+This way it matches Size
+
+317
+00:19:23,800 --> 00:19:25,300
+That G is relatively large
+
+318
+00:19:25,300 --> 00:19:26,500
+That C is relatively small
+
+319
+00:19:26,900 --> 00:19:30,400
+no symmetrical relationship
+
+320
+00:19:30,400 --> 00:19:35,400
+Then A cannot match G
+
+321
+00:19:35,400 --> 00:19:36,400
+etc.
+
+322
+00:19:39,600 --> 00:19:42,300
+That gene is actually this
+
+323
+00:19:42,300 --> 00:19:46,300
+the whole this very long this
+
+324
+00:19:46,300 --> 00:19:50,700
+A short passage from ChromoSong
+
+325
+00:19:50,700 --> 00:19:52,200
+a fragment of it
+
+326
+00:19:52,200 --> 00:19:53,900
+it has a message
+
+327
+00:19:56,500 --> 00:19:59,800
+kana order
+
+328
+00:20:00,000 --> 00:20:01,700
+what is its message
+
+329
+00:20:01,700 --> 00:20:03,920
+based on these
+
+330
+00:20:03,920 --> 00:20:08,100
+Let's say your DNA is double-stranded
+
+331
+00:20:08,100 --> 00:20:09,400
+then you are single
+
+332
+00:20:10,200 --> 00:20:14,600
+For example, this stock is GCA
+
+333
+00:20:14,600 --> 00:20:18,560
+GCA will be transferred
+
+334
+00:20:19,400 --> 00:20:22,320
+translates to an amino acid
+
+335
+00:20:22,320 --> 00:20:26,320
+We have a total of 20 different amino acids
+
+336
+00:20:26,320 --> 00:20:31,120
+20 amino acids are arranged and combined through ATGC
+
+337
+00:20:31,120 --> 00:20:32,520
+translate it
+
+338
+00:20:39,920 --> 00:20:41,720
+After talking about genes
+
+339
+00:20:41,720 --> 00:20:43,920
+an important thing
+
+340
+00:20:43,920 --> 00:20:46,320
+It's this Messenger
+
+341
+00:20:46,320 --> 00:20:49,520
+ribonucleic acid
+
+342
+00:20:49,520 --> 00:20:51,420
+What is message RNA
+
+343
+00:20:51,420 --> 00:20:55,020
+It is a certain segment in this DNA
+
+344
+00:20:55,020 --> 00:20:56,880
+Especially in this part of the gene
+
+345
+00:20:56,880 --> 00:20:58,920
+near the gene
+
+346
+00:20:58,920 --> 00:21:00,120
+it will have a
+
+347
+00:21:00,000 --> 00:21:03,840
+This mechanism puts the ATGC of this section
+
+348
+00:21:03,840 --> 00:21:05,300
+make a copy of it
+
+349
+00:21:05,300 --> 00:21:06,540
+copy over
+
+350
+00:21:06,540 --> 00:21:10,240
+Then this copy will be sent outside the cell box
+
+351
+00:21:10,240 --> 00:21:13,500
+Then go through this Ribosol
+
+352
+00:21:13,500 --> 00:21:16,000
+Ribosol imagined as a large
+
+353
+00:21:16,000 --> 00:21:18,440
+processing plant a manufacturing machine
+
+354
+00:21:18,440 --> 00:21:22,540
+It can put this oil slick in the cytoplasm
+
+355
+00:21:22,540 --> 00:21:25,940
+Some amino acids hold it together piece by piece like this
+
+356
+00:21:26,440 --> 00:21:28,540
+According to your ATGC
+
+357
+00:21:28,540 --> 00:21:32,740
+It will look for those relative Amino Acid
+
+358
+00:21:32,740 --> 00:21:34,140
+snap it out like this
+
+359
+00:21:34,140 --> 00:21:36,440
+So there's nothing wrong with that
+
+360
+00:21:36,440 --> 00:21:40,740
+So this is a natural structure like this
+
+361
+00:21:40,740 --> 00:21:45,040
+That is, a certain section of your ATGC will be automatically translated
+
+362
+00:21:45,040 --> 00:21:46,440
+I just said that's right
+
+363
+00:21:46,440 --> 00:21:49,440
+In fact all living organisms
+
+364
+00:21:49,440 --> 00:21:52,540
+In fact, there are quite a lot of mistakes
+
+365
+00:21:52,540 --> 00:21:53,440
+is a lot
+
+366
+00:21:53,440 --> 00:21:57,040
+Then it will have some correction mechanism
+
+367
+00:21:57,040 --> 00:21:59,940
+The words there are also a great knowledge
+
+368
+00:22:00,000 --> 00:22:08,200
+This is a different version of what I just said.
+
+369
+00:22:08,200 --> 00:22:13,500
+This view wing map is the nucleus.
+
+370
+00:22:13,500 --> 00:22:17,880
+Then through this transfer work from the gene
+
+371
+00:22:17,880 --> 00:22:20,920
+Why do cells need to do the job of transferring
+
+372
+00:22:20,920 --> 00:22:22,800
+At first I thought it was strong
+
+373
+00:22:22,800 --> 00:22:25,760
+Because you are inside the Cromosome of the Code of DNA
+
+374
+00:22:25,760 --> 00:22:28,300
+If you use this Ribos every time
+
+375
+00:22:28,300 --> 00:22:31,260
+What you want to transfer is directly from this gene
+
+376
+00:22:31,260 --> 00:22:32,700
+If the code comes out directly
+
+377
+00:22:32,700 --> 00:22:36,460
+The original one is often used
+
+378
+00:22:36,460 --> 00:22:38,700
+So he can be easily damaged
+
+379
+00:22:38,700 --> 00:22:41,700
+It doesn't matter if you destroy this Messenger IM
+
+380
+00:22:41,700 --> 00:22:43,500
+because you regenerated
+
+381
+00:22:43,500 --> 00:22:44,900
+You can also copy one more
+
+382
+00:22:44,900 --> 00:22:49,500
+So this is a pretty clever design
+
+383
+00:22:49,500 --> 00:22:53,160
+At the same time, in higher organisms
+
+384
+00:22:53,160 --> 00:22:54,260
+it has a nucleus
+
+385
+00:22:54,260 --> 00:22:56,060
+Then the outer words are the cytoplasm
+
+386
+00:22:56,120 --> 00:22:58,620
+So these Messenger IMs will be sent out
+
+387
+00:22:58,620 --> 00:23:00,060
+so inside it won't
+
+388
+00:23:00,000 --> 00:23:02,000
+There will be a state of traffic chaos
+
+389
+00:23:06,580 --> 00:23:09,080
+So we just talked about this protein
+
+390
+00:23:09,080 --> 00:23:14,040
+Protein is made up of 20 Armino-S
+
+391
+00:23:14,640 --> 00:23:17,480
+A series of Armino-S for sightseeing
+
+392
+00:23:17,480 --> 00:23:19,240
+Actually it doesn't work by itself
+
+393
+00:23:19,240 --> 00:23:21,920
+it relies on some of its
+
+394
+00:23:21,920 --> 00:23:24,320
+interaction near each other
+
+395
+00:23:24,320 --> 00:23:26,820
+Form a so-called Protin Fold
+
+396
+00:23:26,820 --> 00:23:29,720
+it has to be folded into a shape
+
+397
+00:23:30,000 --> 00:23:31,680
+this shape it is
+
+398
+00:23:31,680 --> 00:23:34,260
+The most important protin is relying on its shape
+
+399
+00:23:34,260 --> 00:23:36,340
+Is there a hole in it or something?
+
+400
+00:23:36,340 --> 00:23:38,840
+To determine its nature
+
+401
+00:23:39,180 --> 00:23:41,480
+words like this are
+
+402
+00:23:41,480 --> 00:23:44,960
+This is to show
+
+403
+00:23:44,960 --> 00:23:48,720
+A synthetic beauty called ATD inside the force line body
+
+404
+00:23:48,720 --> 00:23:54,820
+ATD is what we call Hot Cache of Energy
+
+405
+00:23:54,820 --> 00:23:56,580
+thermal diving
+
+406
+00:23:56,580 --> 00:23:58,440
+if you want to generate fuel
+
+407
+00:23:58,440 --> 00:24:00,440
+You must go through ATD
+
+408
+00:24:00,000 --> 00:24:05,120
+This one in the vertical line is a synthesis of ATV
+
+409
+00:24:05,120 --> 00:24:09,220
+In this two different this
+
+410
+00:24:09,720 --> 00:24:15,360
+There is an EcoLine in the bio, which is what the large intestine looks like inside
+
+411
+00:24:15,620 --> 00:24:17,660
+the words on the left
+
+412
+00:24:18,180 --> 00:24:22,280
+I didn't write this here like a monkey or an orangutan
+
+413
+00:24:22,520 --> 00:24:26,880
+They look the same, but they are actually very similar, although the level of this creature is much different.
+
+414
+00:24:26,880 --> 00:24:30,720
+But it's fairly consistent on the most basic units
+
+415
+00:24:32,760 --> 00:24:37,380
+At the same time, it can be seen that the ProtinBis attachment I just mentioned
+
+416
+00:24:37,640 --> 00:24:39,940
+very church made form
+
+417
+00:24:40,700 --> 00:24:43,260
+attached to a different this shape
+
+418
+00:24:43,520 --> 00:24:46,080
+It's like a jigsaw puzzle, especially so this
+
+419
+00:24:46,340 --> 00:24:49,160
+this is a very interesting question
+
+420
+00:24:56,880 --> 00:24:58,860
+OK
+
+421
+00:25:00,000 --> 00:25:10,960
+The other more interesting question is that we have the same memory
+
+422
+00:25:10,960 --> 00:25:17,040
+We know that after the combination of the heavy bag and the gold side of the egg
+
+423
+00:25:17,040 --> 00:25:19,040
+This one cell begins to divide
+
+424
+00:25:19,040 --> 00:25:22,040
+Those cells will grow into different tissues
+
+425
+00:25:22,040 --> 00:25:26,040
+The DNA in every tissue is actually the same
+
+426
+00:25:26,080 --> 00:25:29,080
+then you will wonder why
+
+427
+00:25:29,080 --> 00:25:33,080
+The shape of the nose is different from the glasses
+
+428
+00:25:33,080 --> 00:25:35,080
+The cells in there are exactly the same
+
+429
+00:25:35,080 --> 00:25:36,080
+That is how the matter
+
+430
+00:25:36,080 --> 00:25:40,080
+The mechanism is in the expression of this gene
+
+431
+00:25:40,080 --> 00:25:44,080
+Because you will form a different organization
+
+432
+00:25:44,080 --> 00:25:47,080
+And the results of many different protins will be different
+
+433
+00:25:47,080 --> 00:25:51,080
+Those protins are expressed by the wear debris gene
+
+434
+00:25:51,080 --> 00:25:53,080
+that's in a different organization
+
+435
+00:25:53,120 --> 00:25:57,120
+The expression of various genes will be relatively different
+
+436
+00:25:57,120 --> 00:25:59,120
+so in this
+
+437
+00:26:00,000 --> 00:26:05,060
+Slowly distribute from this embryo
+
+438
+00:26:05,060 --> 00:26:06,520
+it's a lot of fun
+
+439
+00:26:06,520 --> 00:26:09,820
+Which genes are expressed and when
+
+440
+00:26:09,820 --> 00:26:13,060
+Anyway, those things are formed first
+
+441
+00:26:13,060 --> 00:26:14,660
+what is formed after
+
+442
+00:26:14,660 --> 00:26:18,000
+That's a whole lot of knowledge
+
+443
+00:26:18,000 --> 00:26:23,200
+Biologists rely on data
+
+444
+00:26:23,200 --> 00:26:25,560
+Such a large data transfer
+
+445
+00:26:25,560 --> 00:26:28,600
+Slowly and slowly make this thing out again
+
+446
+00:26:31,000 --> 00:26:38,000
+I just talked about how cells receive external stimuli
+
+447
+00:26:38,000 --> 00:26:41,000
+and then some reactions will come out
+
+448
+00:26:41,000 --> 00:26:44,000
+let it grow etc.
+
+449
+00:26:44,000 --> 00:26:46,000
+this is a wanton
+
+450
+00:26:46,000 --> 00:26:51,000
+It is to receive some stimuli from the outside in the biological cells
+
+451
+00:26:51,000 --> 00:26:55,000
+usually on the outermost part of the cell
+
+452
+00:26:55,000 --> 00:26:58,000
+There are some proteins called receptor protein
+
+453
+00:26:58,000 --> 00:27:00,000
+lean body
+
+454
+00:27:00,000 --> 00:27:03,020
+will accept small molecules
+
+455
+00:27:03,020 --> 00:27:05,020
+put this together
+
+456
+00:27:05,020 --> 00:27:07,520
+Then it will have some chemical management
+
+457
+00:27:07,520 --> 00:27:08,260
+wait
+
+458
+00:27:08,260 --> 00:27:11,260
+and then at the end its ultimate goal
+
+459
+00:27:11,260 --> 00:27:13,760
+is it possible to send this message to
+
+460
+00:27:13,760 --> 00:27:15,760
+inside the nucleus
+
+461
+00:27:15,760 --> 00:27:19,260
+Then there will be some of this protein
+
+462
+00:27:19,260 --> 00:27:22,460
+These proteins are called transcription factors
+
+463
+00:27:22,460 --> 00:27:25,700
+The protein will bind to the DNA
+
+464
+00:27:25,700 --> 00:27:28,000
+Then bring a certain segment of the gene
+
+465
+00:27:28,020 --> 00:27:31,020
+This section of the gene it will
+
+466
+00:27:31,020 --> 00:27:34,020
+copied by this into this
+
+467
+00:27:34,020 --> 00:27:35,360
+message says this
+
+468
+00:27:35,360 --> 00:27:37,860
+Then through the message, there will be protein
+
+469
+00:27:37,860 --> 00:27:39,860
+then there will be some
+
+470
+00:27:39,860 --> 00:27:41,060
+The role of protein
+
+471
+00:27:41,060 --> 00:27:42,260
+those effects
+
+472
+00:27:42,260 --> 00:27:45,560
+It can also drive and possibly interact with other protein
+
+473
+00:27:45,560 --> 00:27:47,560
+driving combination etc.
+
+474
+00:27:47,560 --> 00:27:50,320
+So accept this signal from the outside
+
+475
+00:27:50,320 --> 00:27:52,820
+There are a lot of proteins, there are a lot of receptors
+
+476
+00:27:52,820 --> 00:27:55,820
+So you can accept different signal
+
+477
+00:27:56,240 --> 00:27:59,240
+so which protein
+
+478
+00:27:59,240 --> 00:28:00,240
+Can
+
+479
+00:28:00,000 --> 00:28:02,240
+What kind of signal does this accept
+
+480
+00:28:02,240 --> 00:28:05,640
+Then what happens underneath
+
+481
+00:28:05,640 --> 00:28:08,440
+This whole thing is called signal transduction
+
+482
+00:28:08,440 --> 00:28:10,320
+chain of information transfer
+
+483
+00:28:10,320 --> 00:28:15,440
+This is something that biologists really want to know
+
+484
+00:28:15,440 --> 00:28:18,280
+That also relies on the so-called bi-information
+
+485
+00:28:18,280 --> 00:28:22,160
+is what bioinformaticians are currently doing
+
+486
+00:28:22,160 --> 00:28:37,760
+Let’s go back to what we just said that the entire length of Keelung has about three B-faces.
+
+487
+00:28:37,760 --> 00:28:43,480
+30 3 billion Nuclear type base failure
+
+488
+00:28:43,480 --> 00:28:46,760
+So there is a lot of information in the words
+
+489
+00:28:47,200 --> 00:28:53,120
+Now we know that there are about 25,000 genes
+
+490
+00:28:53,120 --> 00:28:56,000
+Then it occupies only a small part of Keelung
+
+491
+00:28:56,000 --> 00:28:59,000
+But there is a so-called intro in this gene
+
+492
+00:28:59,000 --> 00:29:01,000
+There is so-called excel
+
+493
+00:29:00,000 --> 00:29:02,720
+intron is the useful part
+
+494
+00:29:02,720 --> 00:29:04,520
+intron is the useless part
+
+495
+00:29:04,520 --> 00:29:06,120
+extron is the useful part
+
+496
+00:29:06,120 --> 00:29:08,600
+Then there are some permutations and combinations of these
+
+497
+00:29:09,600 --> 00:29:12,840
+Then what is the outside of this gincoding doing?
+
+498
+00:29:12,840 --> 00:29:14,160
+I used to think it was junk
+
+499
+00:29:14,160 --> 00:29:15,880
+But now it is very important
+
+500
+00:29:15,880 --> 00:29:18,760
+Because there are some transcription factors
+
+501
+00:29:18,760 --> 00:29:20,000
+to bind in front
+
+502
+00:29:20,000 --> 00:29:23,640
+Then if it says that it was stimulated by some fakes, etc.
+
+503
+00:29:23,640 --> 00:29:25,000
+then it won't work
+
+504
+00:29:25,680 --> 00:29:28,520
+So there is a lot of research on that area.
+
+505
+00:29:30,000 --> 00:29:33,160
+So this transfer medicine
+
+506
+00:29:33,160 --> 00:29:37,000
+It is hoped that through these genes
+
+507
+00:29:37,000 --> 00:29:38,200
+able to promote these
+
+508
+00:29:38,200 --> 00:29:41,800
+Immediately be able to do something that can be done immediately
+
+509
+00:29:41,800 --> 00:29:43,200
+the most important job
+
+510
+00:29:43,200 --> 00:29:45,600
+Of course, is it the information
+
+511
+00:29:45,600 --> 00:29:48,800
+can be used to help patients survive
+
+512
+00:29:48,800 --> 00:29:50,800
+survival of life
+
+513
+00:29:50,800 --> 00:29:52,800
+Of course there is some information
+
+514
+00:29:52,800 --> 00:29:54,800
+Of course there is some information
+
+515
+00:29:54,800 --> 00:29:56,800
+Of course there is some information
+
+516
+00:29:56,800 --> 00:29:59,600
+used to help patients survive
+
+517
+00:29:59,600 --> 00:30:00,600
+survival of life
+
+518
+00:30:00,000 --> 00:30:01,280
+of course live
+
+519
+00:30:02,040 --> 00:30:04,360
+So the first question is to say
+
+520
+00:30:04,360 --> 00:30:07,440
+Are you able to rely on the information
+
+521
+00:30:07,440 --> 00:30:09,200
+can be used to predict
+
+522
+00:30:09,480 --> 00:30:11,000
+don't talk yet
+
+523
+00:30:11,000 --> 00:30:14,340
+First predict to see how long he can survive the patient
+
+524
+00:30:14,340 --> 00:30:15,120
+According to your comprehension
+
+525
+00:30:15,120 --> 00:30:15,620
+no choice
+
+526
+00:30:15,880 --> 00:30:16,900
+From these materials
+
+527
+00:30:16,900 --> 00:30:18,680
+can be compared to the traditional for example
+
+528
+00:30:18,680 --> 00:30:19,460
+Staging
+
+529
+00:30:19,720 --> 00:30:21,500
+you heard this
+
+530
+00:30:21,760 --> 00:30:23,800
+stage of lung cancer
+
+531
+00:30:24,060 --> 00:30:25,340
+What is the approximate survival rate?
+
+532
+00:30:25,340 --> 00:30:26,360
+Is it better than those
+
+533
+00:30:26,620 --> 00:30:28,160
+there is this pathologist
+
+534
+00:30:28,160 --> 00:30:30,120
+according to their tissue lesions
+
+535
+00:30:30,120 --> 00:30:32,000
+See if he transfers and so on
+
+536
+00:30:32,000 --> 00:30:33,020
+able to be more precise
+
+537
+00:30:33,280 --> 00:30:34,560
+this is the first goal
+
+538
+00:30:34,820 --> 00:30:36,100
+And what about the second goal?
+
+539
+00:30:36,360 --> 00:30:37,880
+can you can
+
+540
+00:30:38,140 --> 00:30:39,680
+according to your this
+
+541
+00:30:39,940 --> 00:30:41,980
+Elite performance status
+
+542
+00:30:42,500 --> 00:30:45,060
+see if i use this drug
+
+543
+00:30:45,320 --> 00:30:46,340
+how will he react
+
+544
+00:30:46,600 --> 00:30:47,100
+He can
+
+545
+00:30:47,360 --> 00:30:48,120
+more effective
+
+546
+00:30:48,380 --> 00:30:49,160
+or less effective
+
+547
+00:30:51,200 --> 00:30:52,220
+even
+
+548
+00:30:52,480 --> 00:30:55,300
+I hope to do some two-case detection
+
+549
+00:30:55,560 --> 00:30:57,080
+before the disease occurs
+
+550
+00:30:57,080 --> 00:30:58,560
+let's see if
+
+551
+00:31:00,000 --> 00:31:01,280
+start soon
+
+552
+00:31:01,280 --> 00:31:03,320
+Then try to do prevention
+
+553
+00:31:03,320 --> 00:31:04,340
+finally
+
+554
+00:31:04,340 --> 00:31:07,680
+Of course, you can hope to improve your quality of life
+
+555
+00:31:07,680 --> 00:31:08,960
+quality of your life
+
+556
+00:31:15,360 --> 00:31:18,440
+Then we use the so-called this
+
+557
+00:31:19,200 --> 00:31:21,760
+What exactly is this resource?
+
+558
+00:31:22,020 --> 00:31:24,320
+what can be used is
+
+559
+00:31:24,320 --> 00:31:25,600
+this
+
+560
+00:31:26,080 --> 00:31:29,940
+Biochemists have many techniques
+
+561
+00:31:29,940 --> 00:31:33,320
+Now this biotechnology can see a lot of data
+
+562
+00:31:33,320 --> 00:31:34,880
+probably which data
+
+563
+00:31:34,880 --> 00:31:35,680
+my side
+
+564
+00:31:35,680 --> 00:31:36,720
+just slightly
+
+565
+00:31:36,720 --> 00:31:38,920
+describe
+
+566
+00:31:38,920 --> 00:31:39,960
+there is
+
+567
+00:31:39,960 --> 00:31:41,720
+micro array is
+
+568
+00:31:41,720 --> 00:31:43,000
+micro certificate list
+
+569
+00:31:43,000 --> 00:31:44,040
+micro certificate list
+
+570
+00:31:45,320 --> 00:31:46,840
+genetic information
+
+571
+00:31:46,840 --> 00:31:48,380
+Then there is another
+
+572
+00:31:48,380 --> 00:31:49,440
+called
+
+573
+00:31:49,440 --> 00:31:50,240
+array CGS
+
+574
+00:31:50,240 --> 00:31:51,960
+array CGS is fetched
+
+575
+00:31:51,960 --> 00:31:54,800
+Probe says it's this
+
+576
+00:31:54,960 --> 00:31:57,360
+DNA的 copy
+
+577
+00:31:57,360 --> 00:31:58,640
+it is known
+
+578
+00:31:58,640 --> 00:31:59,920
+that usually
+
+579
+00:32:00,000 --> 00:32:05,000
+A Sale has two chromosons, that is, a pair
+
+580
+00:32:05,000 --> 00:32:07,000
+If you card DNA, you have Kirby
+
+581
+00:32:07,000 --> 00:32:10,000
+but in some cases
+
+582
+00:32:10,000 --> 00:32:12,000
+no change etc.
+
+583
+00:32:12,000 --> 00:32:14,000
+It will be more than Number for this card
+
+584
+00:32:14,000 --> 00:32:16,000
+For a certain paragraph it is
+
+585
+00:32:16,000 --> 00:32:19,000
+The reason for how to continue has been repeated many times
+
+586
+00:32:19,000 --> 00:32:21,000
+repeat a lot
+
+587
+00:32:21,000 --> 00:32:23,000
+Then you will affect the expression of the last gene
+
+588
+00:32:23,000 --> 00:32:26,000
+It's just that certain genes are overexpressed
+
+589
+00:32:26,000 --> 00:32:28,000
+Sometimes those Kabi Numbers suddenly decrease a bit
+
+590
+00:32:28,000 --> 00:32:30,000
+That's the part that doesn't work
+
+591
+00:32:30,000 --> 00:32:32,000
+or for no reason
+
+592
+00:32:32,000 --> 00:32:34,000
+when passing from one generation to the next
+
+593
+00:32:34,000 --> 00:32:36,000
+lost
+
+594
+00:32:36,000 --> 00:32:43,000
+Then there is Single Nucretypulomorphism
+
+595
+00:32:43,000 --> 00:32:45,000
+This is a genetic variant
+
+596
+00:32:45,000 --> 00:32:48,000
+This piece is also quite a lot of information
+
+597
+00:32:48,000 --> 00:32:52,000
+Then there is something called Transcription Factor
+
+598
+00:32:52,000 --> 00:32:54,000
+Information about Binding Side
+
+599
+00:32:54,000 --> 00:32:56,000
+is what we just mentioned
+
+600
+00:32:56,000 --> 00:32:58,000
+A Transcription Factor
+
+601
+00:32:58,000 --> 00:33:00,000
+Can Binding in this
+
+602
+00:33:00,000 --> 00:33:01,280
+Where is this DNA
+
+603
+00:33:01,540 --> 00:33:04,600
+什麼transcription factor by the way
+
+604
+00:33:05,120 --> 00:33:06,920
+this is a great knowledge
+
+605
+00:33:07,180 --> 00:33:09,220
+There are some techniques that can be used
+
+606
+00:33:09,480 --> 00:33:11,520
+There is also one called micro-init
+
+607
+00:33:11,780 --> 00:33:14,080
+This is a violation of the peace talks
+
+608
+00:33:14,600 --> 00:33:16,120
+those performance
+
+609
+00:33:16,380 --> 00:33:17,160
+Very important
+
+610
+00:33:17,660 --> 00:33:18,680
+That
+
+611
+00:33:18,940 --> 00:33:20,220
+this is currently
+
+612
+00:33:20,480 --> 00:33:24,580
+The so-called very, very popular one that everyone talks about is very expensive.
+
+613
+00:33:24,840 --> 00:33:25,340
+that is
+
+614
+00:33:25,600 --> 00:33:27,640
+This sequence in the new century
+
+615
+00:33:27,840 --> 00:33:30,200
+He took this test
+
+616
+00:33:30,460 --> 00:33:34,800
+a whole genome of this
+
+617
+00:33:35,060 --> 00:33:35,840
+DNA
+
+618
+00:33:36,080 --> 00:33:37,120
+each nuclear
+
+619
+00:33:37,380 --> 00:33:39,160
+can order it out
+
+620
+00:33:39,420 --> 00:33:43,000
+In the past, this was an impossible, almost impossible task.
+
+621
+00:33:43,260 --> 00:33:44,020
+Too much
+
+622
+00:33:44,280 --> 00:33:45,040
+but now
+
+623
+00:33:45,300 --> 00:33:45,820
+you actually
+
+624
+00:33:46,080 --> 00:33:49,140
+can be in about a week or two
+
+625
+00:33:49,400 --> 00:33:51,200
+you can put your gene
+
+626
+00:33:51,700 --> 00:33:53,240
+genetic
+
+627
+00:33:53,500 --> 00:33:56,060
+All the nuclear all take you
+
+628
+00:33:56,320 --> 00:33:57,340
+order out
+
+629
+00:33:57,340 --> 00:33:59,080
+This progress is very open
+
+630
+00:34:00,000 --> 00:34:01,600
+but still quite expensive
+
+631
+00:34:06,600 --> 00:34:09,400
+Then my most important thing today is
+
+632
+00:34:09,400 --> 00:34:10,600
+focus on this
+
+633
+00:34:11,300 --> 00:34:13,000
+micro rate of this technique
+
+634
+00:34:13,300 --> 00:34:15,200
+that many other this
+
+635
+00:34:15,200 --> 00:34:16,600
+Race, CHF, SNP
+
+636
+00:34:16,600 --> 00:34:18,700
+His basic spirit is the same as this
+
+637
+00:34:18,700 --> 00:34:20,100
+that next generation
+
+638
+00:34:20,300 --> 00:34:23,300
+He made it completely different
+
+639
+00:34:23,900 --> 00:34:24,400
+technique
+
+640
+00:34:24,400 --> 00:34:27,300
+But we use some statistical methods
+
+641
+00:34:27,400 --> 00:34:28,800
+can pass
+
+642
+00:34:28,800 --> 00:34:31,700
+use that
+
+643
+00:34:33,800 --> 00:34:34,600
+micro
+
+644
+00:34:34,600 --> 00:34:36,500
+This is a micro certificate column
+
+645
+00:34:37,300 --> 00:34:38,900
+This chip is certified
+
+646
+00:34:38,900 --> 00:34:39,800
+it looks like this
+
+647
+00:34:39,800 --> 00:34:40,700
+every place words
+
+648
+00:34:40,700 --> 00:34:42,000
+there is a spot of light
+
+649
+00:34:42,000 --> 00:34:44,200
+The brightness of this spot
+
+650
+00:34:44,200 --> 00:34:46,000
+represent this place
+
+651
+00:34:46,200 --> 00:34:49,200
+it's early
+
+652
+00:34:49,200 --> 00:34:49,800
+this
+
+653
+00:34:50,700 --> 00:34:53,300
+This Messenger ion is bright
+
+654
+00:34:54,300 --> 00:34:55,600
+every imaginable
+
+655
+00:34:55,600 --> 00:34:57,500
+Every place is a carbon needle
+
+656
+00:34:57,700 --> 00:34:58,600
+ours
+
+657
+00:34:58,800 --> 00:35:00,100
+can put
+
+658
+00:35:00,000 --> 00:35:02,560
+All genes are one by one
+
+659
+00:35:02,560 --> 00:35:03,840
+straight up here
+
+660
+00:35:03,840 --> 00:35:05,640
+because we already know its sequence
+
+661
+00:35:05,640 --> 00:35:07,440
+Then
+
+662
+00:35:07,440 --> 00:35:09,740
+that according to its this
+
+663
+00:35:09,740 --> 00:35:11,360
+on the DNA
+
+664
+00:35:11,360 --> 00:35:12,540
+complementary binding
+
+665
+00:35:12,540 --> 00:35:14,080
+is A to G
+
+666
+00:35:14,080 --> 00:35:14,600
+G to C
+
+667
+00:35:14,600 --> 00:35:15,100
+so
+
+668
+00:35:15,100 --> 00:35:17,400
+it can find its relative
+
+669
+00:35:17,400 --> 00:35:18,680
+stick it on
+
+670
+00:35:18,680 --> 00:35:21,760
+So the whole technology is already very mature.
+
+671
+00:35:21,760 --> 00:35:22,780
+so
+
+672
+00:35:26,120 --> 00:35:28,680
+This microRNA can
+
+673
+00:35:28,680 --> 00:35:33,280
+because it's pretty much telling you how much the gene is expressed
+
+674
+00:35:33,280 --> 00:35:34,560
+How much is this gene expressed
+
+675
+00:35:34,560 --> 00:35:36,620
+so it can be used for many things
+
+676
+00:35:36,620 --> 00:35:38,400
+mark this creature
+
+677
+00:35:38,400 --> 00:35:39,680
+do this
+
+678
+00:35:39,680 --> 00:35:40,960
+with this
+
+679
+00:35:40,960 --> 00:35:44,800
+With this biomarker some drugs can be developed
+
+680
+00:35:44,800 --> 00:35:48,900
+We can use the expression of these genes to divide cancer
+
+681
+00:35:48,900 --> 00:35:51,460
+So it's very, very useful
+
+682
+00:35:51,460 --> 00:35:59,140
+Then this is just one of the earliest applications
+
+683
+00:36:00,000 --> 00:36:08,600
+The Elegant group of the Broad Institute in the United States made such a result very early
+
+684
+00:36:08,600 --> 00:36:20,600
+There are two different types of Leukemia related to leukemia
+
+685
+00:36:20,600 --> 00:36:24,600
+in terms of gene expression
+
+686
+00:36:24,600 --> 00:36:29,200
+We find the set of genes
+
+687
+00:36:29,200 --> 00:36:37,200
+Leukemia performance is relatively high
+
+688
+00:36:37,200 --> 00:36:44,200
+In AML, it is the snow white disease of acute femoral water disease
+
+689
+00:36:44,200 --> 00:36:45,700
+low performance
+
+690
+00:36:45,700 --> 00:36:49,200
+Another set of genes is just the opposite
+
+691
+00:36:50,200 --> 00:36:55,200
+Since you can find genes like this
+
+692
+00:36:55,200 --> 00:37:00,200
+So in the future you have to use it to judge that it is the ideal of this person.
+
+693
+00:37:00,000 --> 00:37:03,700
+What type of this Rukimia got
+
+694
+00:37:03,700 --> 00:37:08,100
+by measuring the expression of these genes
+
+695
+00:37:08,100 --> 00:37:09,100
+make a judgment
+
+696
+00:37:17,700 --> 00:37:22,900
+Then let me briefly introduce
+
+697
+00:37:23,800 --> 00:37:25,900
+This is mine just now
+
+698
+00:37:25,900 --> 00:37:28,200
+Director Liu Fuye also mentioned this National Taiwan University
+
+699
+00:37:29,100 --> 00:37:33,200
+That Professor Yang Panzi is currently the dean of this medical school
+
+700
+00:37:33,200 --> 00:37:37,600
+What their research team is doing
+
+701
+00:37:40,800 --> 00:37:43,500
+that their most important
+
+702
+00:37:44,100 --> 00:37:45,800
+is doing lung cancer research
+
+703
+00:37:45,800 --> 00:37:46,900
+What about lung cancer?
+
+704
+00:37:48,400 --> 00:37:49,800
+in taiwan can
+
+705
+00:37:50,800 --> 00:37:52,200
+There are two types of lung cancer
+
+706
+00:37:53,000 --> 00:37:54,500
+is a small cell
+
+707
+00:37:54,500 --> 00:37:55,900
+one is non-small cell
+
+708
+00:37:56,100 --> 00:37:57,600
+Anyway, of course there are other kinds
+
+709
+00:37:58,400 --> 00:38:00,100
+The current research
+
+710
+00:38:00,000 --> 00:38:02,760
+So the hot part is no longer small cells
+
+711
+00:38:02,760 --> 00:38:04,800
+Because non-small cells are more
+
+712
+00:38:04,800 --> 00:38:05,960
+nephrocytes
+
+713
+00:38:05,960 --> 00:38:09,360
+Non-small cells can be further divided into two categories
+
+714
+00:38:09,360 --> 00:38:11,600
+One is an Arduino Castle
+
+715
+00:38:11,600 --> 00:38:13,000
+adenocarcinoma of the lung
+
+716
+00:38:13,000 --> 00:38:19,400
+Then the other is to ask for Squamous Cell Cancer
+
+717
+00:38:19,400 --> 00:38:21,200
+on-going cells
+
+718
+00:38:21,200 --> 00:38:23,240
+This pathology looks
+
+719
+00:38:23,240 --> 00:38:25,080
+This slice looks quite different
+
+720
+00:38:25,080 --> 00:38:26,320
+The length is also different
+
+721
+00:38:27,320 --> 00:38:30,520
+Then this Arduino Castle
+
+722
+00:38:30,520 --> 00:38:33,920
+The reason why there are so many researches
+
+723
+00:38:33,920 --> 00:38:34,920
+most importantly
+
+724
+00:38:34,920 --> 00:38:44,320
+This epidemiology found that it is this
+
+725
+00:38:44,320 --> 00:38:47,520
+female non-smoking
+
+726
+00:38:47,520 --> 00:38:49,920
+especially easy to get this kind of
+
+727
+00:38:49,920 --> 00:38:55,920
+That is to say, women do not smoke
+
+728
+00:38:55,920 --> 00:38:59,120
+So if the doctor tells you that you have lung cancer
+
+729
+00:39:00,000 --> 00:39:04,240
+The skin is definitely the fat gland
+
+730
+00:39:04,240 --> 00:39:09,740
+Very few people will get the cells of this Scramers
+
+731
+00:39:13,440 --> 00:39:16,240
+It is generally believed that smoking causes cancer
+
+732
+00:39:16,240 --> 00:39:18,440
+that doesn't smoke
+
+733
+00:39:18,440 --> 00:39:19,960
+why cancer
+
+734
+00:39:19,960 --> 00:39:23,040
+It's still a pretty big puzzle
+
+735
+00:39:23,040 --> 00:39:25,840
+that don't smoke especially women
+
+736
+00:39:25,840 --> 00:39:31,220
+got a specific type of cancer
+
+737
+00:39:31,220 --> 00:39:38,380
+Then his research
+
+738
+00:39:38,380 --> 00:39:43,500
+In medicine, that is now very popular.
+
+739
+00:39:43,500 --> 00:39:46,060
+Especially when he discovered a drug
+
+740
+00:39:46,060 --> 00:39:50,160
+is to do this with a mutation to EGF
+
+741
+00:39:50,160 --> 00:39:53,240
+A mutation in a gene called EGF
+
+742
+00:39:53,240 --> 00:39:55,540
+is a production technology
+
+743
+00:39:55,540 --> 00:39:56,840
+lower level
+
+744
+00:39:56,840 --> 00:39:58,040
+EpDemo
+
+745
+00:39:58,040 --> 00:39:59,380
+Ghost Factor
+
+746
+00:40:00,000 --> 00:40:01,000
+what is it called shrimp skin
+
+747
+00:40:03,600 --> 00:40:06,000
+Shrimp tissue this
+
+748
+00:40:06,900 --> 00:40:07,600
+to grow
+
+749
+00:40:08,900 --> 00:40:09,400
+factor
+
+750
+00:40:10,500 --> 00:40:11,800
+that kind of thing
+
+751
+00:40:13,100 --> 00:40:15,900
+Mostly in the outbound cell growth
+
+752
+00:40:15,900 --> 00:40:17,800
+It is used a lot in fermented products
+
+753
+00:40:18,300 --> 00:40:19,900
+over there
+
+754
+00:40:20,600 --> 00:40:21,300
+a certain one
+
+755
+00:40:22,000 --> 00:40:22,800
+Nucre-Tide
+
+756
+00:40:23,500 --> 00:40:24,500
+have a mutation
+
+757
+00:40:25,500 --> 00:40:27,100
+or was deleted
+
+758
+00:40:27,200 --> 00:40:29,300
+You have a drug with that mutation
+
+759
+00:40:29,400 --> 00:40:32,600
+Very effective to keep your cancer under control
+
+760
+00:40:32,600 --> 00:40:33,000
+so
+
+761
+00:40:33,700 --> 00:40:34,600
+the whole
+
+762
+00:40:35,100 --> 00:40:35,700
+this
+
+763
+00:40:36,400 --> 00:40:37,100
+above number 1
+
+764
+00:40:37,100 --> 00:40:38,300
+or treatment
+
+765
+00:40:38,500 --> 00:40:40,000
+a very important discovery
+
+766
+00:40:44,000 --> 00:40:44,500
+That
+
+767
+00:40:47,500 --> 00:40:49,500
+Teach them the whole of this
+
+768
+00:40:49,800 --> 00:40:52,000
+Most of this treatment of lung cancer
+
+769
+00:40:52,200 --> 00:40:53,600
+hope to do is
+
+770
+00:40:53,900 --> 00:40:56,400
+be able to do this gine screaming first
+
+771
+00:40:56,500 --> 00:40:58,700
+For example, I just mentioned that it is you if the gine
+
+772
+00:40:58,700 --> 00:41:00,000
+There are some legal
+
+773
+00:41:00,000 --> 00:41:03,000
+Then you can put the screen out
+
+774
+00:41:03,000 --> 00:41:04,000
+Then there is a cure
+
+775
+00:41:04,000 --> 00:41:06,000
+That opinion law is not the only mutation
+
+776
+00:41:06,000 --> 00:41:08,000
+you may have other different mutations
+
+777
+00:41:08,000 --> 00:41:13,000
+Is that the opinionality of being able to discover other genes
+
+778
+00:41:13,000 --> 00:41:18,000
+Those structures that have mutations or mutations that are different from normal
+
+779
+00:41:18,000 --> 00:41:23,000
+Can be taken out as a target of your drag
+
+780
+00:41:23,000 --> 00:41:26,000
+Make something to target it with medicine
+
+781
+00:41:27,000 --> 00:41:35,000
+Then this is currently hoping to find some drag targets
+
+782
+00:41:37,000 --> 00:41:39,000
+so what
+
+783
+00:41:39,000 --> 00:41:42,000
+This you can do some early detection
+
+784
+00:41:42,000 --> 00:41:44,000
+capable of some dalgonosis
+
+785
+00:41:44,000 --> 00:41:50,000
+Then mentioned many times here are all biomarkers
+
+786
+00:41:50,000 --> 00:41:54,000
+Biomarker is required for screen early detection
+
+787
+00:41:55,000 --> 00:41:57,000
+The biomarker
+
+788
+00:41:57,000 --> 00:42:00,000
+What about the biomarker we used?
+
+789
+00:42:00,000 --> 00:42:06,140
+There are so many, you can have pictures, and then you can also use the expression of this gene, microRNA
+
+790
+00:42:06,400 --> 00:42:09,480
+What about Teacher Yang's team, this
+
+791
+00:42:11,260 --> 00:42:16,380
+OK, that is BioMarket and so on, this has just been mentioned
+
+792
+00:42:16,640 --> 00:42:22,020
+Teacher Yang and their greatest contribution is on this day
+
+793
+00:42:22,520 --> 00:42:28,420
+The article is on New English Medicine, the first author is Chen Xuanyi
+
+794
+00:42:28,640 --> 00:42:35,580
+Currently serving in our unit, this is his work when he was a doctoral student at National Taiwan University
+
+795
+00:42:38,160 --> 00:42:41,220
+They found five genes, the five genes
+
+796
+00:42:43,780 --> 00:42:48,120
+What about the performance of your five genes, here
+
+797
+00:42:48,380 --> 00:42:52,740
+This picture shows 13 genes, about 16 genes.
+
+798
+00:42:53,260 --> 00:42:57,600
+Finally, they found out from these sixteen genes, and finally found out five genes
+
+799
+00:42:57,600 --> 00:43:00,120
+Then according to the sixteen genes
+
+800
+00:43:00,000 --> 00:43:02,840
+In terms of genes, you can see that the expression chain is relatively high
+
+801
+00:43:02,840 --> 00:43:05,160
+The higher performance chain is yellow
+
+802
+00:43:05,160 --> 00:43:06,760
+Some genes have a higher expression chain
+
+803
+00:43:06,760 --> 00:43:09,700
+Making other genes high is a very good performance
+
+804
+00:43:09,700 --> 00:43:11,500
+Then according to these heights?
+
+805
+00:43:11,500 --> 00:43:14,600
+It can do a math with the above formula
+
+806
+00:43:14,600 --> 00:43:16,460
+compress it to
+
+807
+00:43:16,460 --> 00:43:21,100
+Then make a this to predict this
+
+808
+00:43:21,100 --> 00:43:25,260
+It's an indicator of the patient's survival
+
+809
+00:43:25,260 --> 00:43:29,760
+The higher the number of months, the higher your risk
+
+810
+00:43:30,360 --> 00:43:34,220
+Then they can prove from this clinical data that
+
+811
+00:43:34,220 --> 00:43:37,620
+What about the marker they got?
+
+812
+00:43:37,620 --> 00:43:41,320
+is very effective in distinguishing between the relatively low risk
+
+813
+00:43:41,320 --> 00:43:42,720
+higher risk
+
+814
+00:43:42,720 --> 00:43:43,960
+What about this picture?
+
+815
+00:43:43,960 --> 00:43:46,820
+In fact, statistical biometrics
+
+816
+00:43:46,820 --> 00:43:49,360
+One of the most famous pictures
+
+817
+00:43:49,360 --> 00:43:51,360
+It's called the shipping chart
+
+818
+00:43:51,360 --> 00:43:55,020
+This picture of that CAP-CAP-MILLE
+
+819
+00:43:55,020 --> 00:43:56,420
+Then it reads as
+
+820
+00:43:56,420 --> 00:43:59,160
+All your patients start out alive
+
+821
+00:43:59,160 --> 00:44:00,160
+then learn
+
+822
+00:44:00,000 --> 00:44:03,680
+In the course of time people start dying
+
+823
+00:44:03,680 --> 00:44:06,400
+If one is not dead, he will drop one.
+
+824
+00:44:06,400 --> 00:44:09,100
+How much does it cost? This is learning to have one of this
+
+825
+00:44:09,100 --> 00:44:11,680
+There is a formula above the statistics
+
+826
+00:44:11,680 --> 00:44:13,440
+so fall faster
+
+827
+00:44:13,440 --> 00:44:15,840
+If you click more, it means your this
+
+828
+00:44:15,840 --> 00:44:17,280
+is a risk
+
+829
+00:44:17,280 --> 00:44:19,780
+the greater the risk
+
+830
+00:44:19,780 --> 00:44:22,300
+So your low risk can hardly drop
+
+831
+00:44:22,300 --> 00:44:23,980
+high risk falls quickly
+
+832
+00:44:23,980 --> 00:44:32,860
+Then Teacher Yang and their results
+
+833
+00:44:32,860 --> 00:44:34,660
+then come in this
+
+834
+00:44:34,660 --> 00:44:36,260
+data in the west
+
+835
+00:44:36,260 --> 00:44:37,820
+this nature
+
+836
+00:44:37,820 --> 00:44:40,660
+There is a genetic medicine
+
+837
+00:44:40,660 --> 00:44:42,660
+2008 people this shedon
+
+838
+00:44:42,660 --> 00:44:45,460
+They also mentioned in their works
+
+839
+00:44:45,460 --> 00:44:48,660
+And then it turns out he's still just as effective
+
+840
+00:44:48,660 --> 00:44:50,100
+so no matter in
+
+841
+00:44:50,100 --> 00:44:52,740
+Eastern sources in Western sources
+
+842
+00:44:52,740 --> 00:44:56,060
+It can also be used to do this
+
+843
+00:44:56,060 --> 00:44:58,660
+This none small sale cancer
+
+844
+00:44:58,660 --> 00:44:59,960
+this lone cancer
+
+845
+00:45:00,000 --> 00:45:04,240
+BioMarket can be used to predict the survival of his patients
+
+846
+00:45:04,240 --> 00:45:09,780
+by the way SheddonLead author
+
+847
+00:45:09,780 --> 00:45:13,580
+This is American is my former student at UCL
+
+848
+00:45:13,580 --> 00:45:16,380
+Is it actually the author's side when he does it with me?
+
+849
+00:45:16,380 --> 00:45:18,960
+he's just a statistician
+
+850
+00:45:18,960 --> 00:45:20,660
+He's in Michigan now
+
+851
+00:45:20,660 --> 00:45:26,320
+He can actually be the first science in Natural Medicine
+
+852
+00:45:26,320 --> 00:45:27,820
+This article is very good
+
+853
+00:45:27,820 --> 00:45:36,380
+He is combining about four or five large American institutions to build the Long Cancer Center.
+
+854
+00:45:36,380 --> 00:45:37,980
+the collected data
+
+855
+00:45:37,980 --> 00:45:41,320
+bring it all together
+
+856
+00:45:41,320 --> 00:45:50,460
+To see which way to predict patient survival
+
+857
+00:45:50,460 --> 00:45:51,760
+which one is better
+
+858
+00:45:51,760 --> 00:45:56,500
+Because stuff like suspense they do is just one way
+
+859
+00:45:56,500 --> 00:46:00,180
+There are others who have different information and find out different methods
+
+860
+00:46:00,000 --> 00:46:05,000
+Their article is to use different marks for direct comparison
+
+861
+00:46:10,000 --> 00:46:14,000
+Another job is to do what's called microsugar
+
+862
+00:46:14,000 --> 00:46:17,000
+Micro ribonucleic acid is micro-init
+
+863
+00:46:17,000 --> 00:46:21,000
+micro-init is a little bit bigger than normal Messingale
+
+864
+00:46:21,000 --> 00:46:26,000
+It only has about 22 nucleotides
+
+865
+00:46:27,000 --> 00:46:32,000
+With so compact micro-init
+
+866
+00:46:32,000 --> 00:46:42,000
+Generally speaking, it is believed that it can be attached to some Messingale
+
+867
+00:46:42,000 --> 00:46:47,000
+The above init can destroy it or make it non-transferable
+
+868
+00:46:47,000 --> 00:46:51,000
+So it has a regulatory effect on this gene
+
+869
+00:46:52,000 --> 00:46:56,000
+So while making a lot of Messingale like this
+
+870
+00:46:56,000 --> 00:46:59,000
+In principle, it is to be translated into Protin
+
+871
+00:47:00,000 --> 00:47:03,000
+Bringing out INA is equivalent to killing you or destroying your entire project.
+
+872
+00:47:03,000 --> 00:47:04,240
+make you a whole can
+
+873
+00:47:04,240 --> 00:47:07,320
+So this MICRO-INA is very important
+
+874
+00:47:07,320 --> 00:47:08,800
+Although it is a small tax
+
+875
+00:47:08,800 --> 00:47:10,320
+Tax is small, people are small, ghosts are big
+
+876
+00:47:11,320 --> 00:47:14,320
+According to this article
+
+877
+00:47:14,960 --> 00:47:17,680
+This is our team with that
+
+878
+00:47:18,560 --> 00:47:21,680
+Yang Panzi's team worked on this Consol Cell
+
+879
+00:47:21,680 --> 00:47:24,720
+Just find these five MICRO-INA
+
+880
+00:47:25,480 --> 00:47:28,520
+and then do the same
+
+881
+00:47:28,680 --> 00:47:30,680
+Find a RISC score
+
+882
+00:47:30,680 --> 00:47:35,080
+This RISC score is also based on Cox Regression here
+
+883
+00:47:35,080 --> 00:47:37,560
+is a method of biostatistical analysis
+
+884
+00:47:37,560 --> 00:47:39,040
+go find it this
+
+885
+00:47:39,720 --> 00:47:42,840
+The degree of influence on the survival of this certainty
+
+886
+00:47:42,840 --> 00:47:44,880
+and then give it a different weight
+
+887
+00:47:44,880 --> 00:47:47,480
+different weight
+
+888
+00:47:47,480 --> 00:47:50,080
+Then find out a RISC score like this
+
+889
+00:47:50,080 --> 00:47:53,480
+Then you look at the place where the RISC score is higher
+
+890
+00:47:53,480 --> 00:47:57,440
+This side is this time of survival
+
+891
+00:48:00,000 --> 00:48:03,660
+The same color means dead, most of the dead are more
+
+892
+00:48:03,660 --> 00:48:06,340
+At the same time, the living time is relatively small
+
+893
+00:48:06,340 --> 00:48:08,340
+A little less, life is higher here
+
+894
+00:48:09,220 --> 00:48:11,220
+If the soil is like this, in fact
+
+895
+00:48:11,220 --> 00:48:15,340
+Without some statistical analysis
+
+896
+00:48:15,340 --> 00:48:17,740
+Originally speaking, it was very messy at all.
+
+897
+00:48:17,740 --> 00:48:20,140
+Then here is according to this certain order
+
+898
+00:48:20,140 --> 00:48:22,240
+It must be added so that you can see it
+
+899
+00:48:22,240 --> 00:48:26,340
+This looks very orderly
+
+900
+00:48:26,340 --> 00:48:33,340
+Then of course you can also put a different marker
+
+901
+00:48:33,340 --> 00:48:34,480
+put it together
+
+902
+00:48:34,480 --> 00:48:35,980
+For example you can put this
+
+903
+00:48:35,980 --> 00:48:39,660
+Use gene expression and this micro as a combination
+
+904
+00:48:39,660 --> 00:48:42,060
+can get this shipped
+
+905
+00:48:42,060 --> 00:48:45,540
+This prediction can do better
+
+906
+00:48:48,040 --> 00:48:50,340
+OK, so to put it simply
+
+907
+00:48:50,340 --> 00:48:52,840
+through life support data
+
+908
+00:48:52,840 --> 00:48:59,040
+The future theme is mainly hope from the patient
+
+909
+00:49:00,000 --> 00:49:02,440
+draw blood, etc.
+
+910
+00:49:02,440 --> 00:49:03,960
+then go through this
+
+911
+00:49:03,960 --> 00:49:08,520
+microarray
+
+912
+00:49:08,520 --> 00:49:11,040
+You just put the number of this gene
+
+913
+00:49:11,040 --> 00:49:12,000
+order out
+
+914
+00:49:12,000 --> 00:49:14,280
+Then do some math analysis
+
+915
+00:49:14,280 --> 00:49:16,040
+then you can bring
+
+916
+00:49:16,040 --> 00:49:18,200
+look at yours
+
+917
+00:49:19,200 --> 00:49:21,160
+how is the current situation
+
+918
+00:49:21,160 --> 00:49:25,280
+It probably depends on how advanced the disease is, etc.
+
+919
+00:49:25,280 --> 00:49:26,280
+or
+
+920
+00:49:30,000 --> 00:49:35,000
+OK
+
+921
+00:49:35,000 --> 00:49:37,000
+good
+
+922
+00:49:37,000 --> 00:49:43,000
+Then the many effects we just mentioned
+
+923
+00:49:43,000 --> 00:49:46,000
+then i want that now
+
+924
+00:49:46,000 --> 00:49:48,000
+make a
+
+925
+00:49:48,000 --> 00:49:51,000
+a little summary
+
+926
+00:49:51,000 --> 00:49:54,000
+Then I hope that today I can give you
+
+927
+00:49:54,000 --> 00:49:56,000
+There is a relatively healthy
+
+928
+00:49:56,000 --> 00:49:58,000
+because I just kept saying
+
+929
+00:49:58,000 --> 00:50:00,000
+we can do this
+
+930
+00:50:00,000 --> 00:50:04,000
+that some and every time you mention these things say
+
+931
+00:50:04,000 --> 00:50:07,360
+There can be statistical methods and so on, and at the end it will be your result
+
+932
+00:50:07,360 --> 00:50:10,000
+like that i think
+
+933
+00:50:12,000 --> 00:50:16,400
+There is no deep-rooted effect, but if I say that I want to
+
+934
+00:50:16,400 --> 00:50:19,200
+All in all, there are too many companies, so
+
+935
+00:50:19,200 --> 00:50:22,960
+I decided to just tell you guys
+
+936
+00:50:24,560 --> 00:50:27,760
+Some very important concepts. What about this concept?
+
+937
+00:50:27,920 --> 00:50:31,920
+Can be used on this gene to behave like that
+
+938
+00:50:31,920 --> 00:50:36,560
+At the same time, you can also take it home and use it in your other
+
+939
+00:50:36,560 --> 00:50:41,360
+life or you deal with other data above
+
+940
+00:50:41,360 --> 00:50:46,560
+Then I hope to be able to do something like this
+
+941
+00:50:46,720 --> 00:50:48,720
+good
+
+942
+00:50:48,800 --> 00:50:53,760
+Let's start from here
+
+943
+00:50:53,760 --> 00:50:59,760
+Science is usually advanced and depends on some
+
+944
+00:50:59,760 --> 00:51:01,760
+info
+
+945
+00:51:00,000 --> 00:51:02,000
+inferences, make some inferences
+
+946
+00:51:02,000 --> 00:51:05,000
+These inferences are usually drawn from some already known
+
+947
+00:51:05,000 --> 00:51:08,000
+or partially known, to speculate on those who do not know
+
+948
+00:51:08,000 --> 00:51:10,000
+or partially know
+
+949
+00:51:10,000 --> 00:51:16,000
+that in this statistician
+
+950
+00:51:16,000 --> 00:51:19,000
+that they often use a method
+
+951
+00:51:19,000 --> 00:51:22,000
+is to use some so-called this
+
+952
+00:51:22,000 --> 00:51:26,000
+random, Marko-random model to
+
+953
+00:51:26,000 --> 00:51:28,000
+is that you put each variable
+
+954
+00:51:28,000 --> 00:51:32,000
+each variable as a
+
+955
+00:51:32,000 --> 00:51:36,000
+Treat it as a node like this
+
+956
+00:51:36,000 --> 00:51:37,000
+With this, A is a variable
+
+957
+00:51:37,000 --> 00:51:38,000
+B is a variable
+
+958
+00:51:38,000 --> 00:51:40,000
+This R is a parameter etc.
+
+959
+00:51:40,000 --> 00:51:45,000
+Then this variable can control the variables below, etc.
+
+960
+00:51:45,000 --> 00:51:50,000
+Well, the statistics are more interesting
+
+961
+00:51:50,000 --> 00:51:54,000
+that's what they do
+
+962
+00:51:54,000 --> 00:51:57,000
+a corollary that can do something like this
+
+963
+00:51:57,000 --> 00:52:00,000
+That is, if I talk about the variable A
+
+964
+00:52:00,000 --> 00:52:03,600
+I can get some data
+
+965
+00:52:03,600 --> 00:52:06,600
+For the variable C, some data can also be obtained
+
+966
+00:52:06,600 --> 00:52:08,100
+E is also available
+
+967
+00:52:08,100 --> 00:52:09,600
+D is also available
+
+968
+00:52:09,600 --> 00:52:11,400
+But I don't know R and V
+
+969
+00:52:11,400 --> 00:52:13,100
+these are my interesting
+
+970
+00:52:13,100 --> 00:52:16,400
+Through some so-called Bation of computation
+
+971
+00:52:16,400 --> 00:52:18,800
+This calculation method of Base
+
+972
+00:52:18,800 --> 00:52:22,800
+If you already know this before and after
+
+973
+00:52:22,800 --> 00:52:24,400
+relationship words
+
+974
+00:52:24,400 --> 00:52:25,800
+it can go backwards
+
+975
+00:52:25,800 --> 00:52:29,400
+You can get what is the variable in this R
+
+976
+00:52:30,000 --> 00:52:31,100
+That
+
+977
+00:52:31,100 --> 00:52:33,700
+But a structure like this
+
+978
+00:52:33,700 --> 00:52:35,600
+pro set is
+
+979
+00:52:35,600 --> 00:52:37,500
+First
+
+980
+00:52:37,500 --> 00:52:42,100
+There are quite a lot of these nodes in the biological system
+
+981
+00:52:42,100 --> 00:52:43,200
+That
+
+982
+00:52:43,200 --> 00:52:43,900
+at the same time
+
+983
+00:52:43,900 --> 00:52:46,000
+You know a lot
+
+984
+00:52:46,000 --> 00:52:48,800
+Let's say you now have 25,000 genes
+
+985
+00:52:48,800 --> 00:52:50,500
+You now have 25,000 nodes all know
+
+986
+00:52:50,500 --> 00:52:52,800
+but there are many things in it
+
+987
+00:52:52,800 --> 00:52:54,900
+don't even know
+
+988
+00:52:54,900 --> 00:52:56,900
+There will be more things I don't know
+
+989
+00:52:56,900 --> 00:52:59,800
+So there are many of this dimension
+
+990
+00:53:00,000 --> 00:53:01,000
+some problems
+
+991
+00:53:01,100 --> 00:53:03,000
+how to overcome this
+
+992
+00:53:03,000 --> 00:53:05,000
+Dimension Difficulty
+
+993
+00:53:05,000 --> 00:53:07,000
+On Base Computation
+
+994
+00:53:07,000 --> 00:53:09,000
+great progress so far
+
+995
+00:53:09,000 --> 00:53:11,000
+Statisticians invest a lot
+
+996
+00:53:11,000 --> 00:53:14,000
+Many so-called MCMC Algorithms
+
+997
+00:53:14,000 --> 00:53:16,000
+what about that part
+
+998
+00:53:16,000 --> 00:53:19,000
+I won't talk about him here
+
+999
+00:53:22,000 --> 00:53:24,000
+That's what I just mentioned about Macopher's
+
+1000
+00:53:24,000 --> 00:53:26,000
+this principle
+
+1001
+00:53:26,000 --> 00:53:29,000
+So what I want to talk about today is
+
+1002
+00:53:29,000 --> 00:53:32,000
+This is the comparison
+
+1003
+00:53:32,000 --> 00:53:35,000
+as a more general
+
+1004
+00:53:35,000 --> 00:53:37,000
+just don't need to say yes so carefully
+
+1005
+00:53:37,000 --> 00:53:38,000
+I have to know this identification
+
+1006
+00:53:38,000 --> 00:53:39,000
+Which one to identify
+
+1007
+00:53:39,000 --> 00:53:40,000
+what kind of relationship
+
+1008
+00:53:40,000 --> 00:53:42,000
+This is comparing a Generic Purpose
+
+1009
+00:53:42,000 --> 00:53:45,000
+This is the relationship between identification and identification
+
+1010
+00:53:45,000 --> 00:53:46,000
+I do not know anything
+
+1011
+00:53:46,000 --> 00:53:48,000
+I don't need to make any assumptions
+
+1012
+00:53:48,000 --> 00:53:50,000
+then you can fetch
+
+1013
+00:53:50,000 --> 00:53:52,000
+Do this to maintain the drop-down above
+
+1014
+00:53:52,000 --> 00:53:55,000
+It's just that I have a lot of information
+
+1015
+00:53:55,000 --> 00:53:57,000
+But according to these common methods
+
+1016
+00:53:57,000 --> 00:53:59,000
+we can reduce it to its dimension
+
+1017
+00:54:00,000 --> 00:54:04,000
+Comparably capable of mastering these data
+
+1018
+00:54:04,000 --> 00:54:07,000
+Then there are several ways
+
+1019
+00:54:07,000 --> 00:54:09,000
+One is Principle Component composition analysis
+
+1020
+00:54:09,000 --> 00:54:11,000
+Factor Analysis
+
+1021
+00:54:11,000 --> 00:54:15,000
+And then there's the division of powers and so on.
+
+1022
+00:54:15,000 --> 00:54:18,000
+Behind these methods
+
+1023
+00:54:18,000 --> 00:54:21,000
+In fact, the most important concept is
+
+1024
+00:54:21,000 --> 00:54:23,000
+Correlation
+
+1025
+00:54:23,000 --> 00:54:25,000
+That's because there are many variables
+
+1026
+00:54:25,000 --> 00:54:28,000
+So different Correlation is a lot
+
+1027
+00:54:28,000 --> 00:54:31,000
+Then it looks like a matrix
+
+1028
+00:54:31,000 --> 00:54:34,000
+It is Correlation Matrix
+
+1029
+00:54:34,000 --> 00:54:36,000
+Then this Correlation
+
+1030
+00:54:36,000 --> 00:54:38,000
+You can also look at it from another angle
+
+1031
+00:54:38,000 --> 00:54:41,000
+It can also be regarded as similarity
+
+1032
+00:54:41,000 --> 00:54:43,000
+Large and polyphasic
+
+1033
+00:54:43,000 --> 00:54:46,000
+High Correlation indicates that the two verbals are very similar
+
+1034
+00:54:46,000 --> 00:54:48,000
+wait
+
+1035
+00:54:48,000 --> 00:54:51,000
+ok so let's get back to this
+
+1036
+00:55:00,000 --> 00:55:03,400
+Expression of this gene in Micro-A
+
+1037
+00:55:03,400 --> 00:55:05,500
+you see these bright spots
+
+1038
+00:55:05,500 --> 00:55:06,640
+first step
+
+1039
+00:55:06,640 --> 00:55:08,400
+you need to analyze the data
+
+1040
+00:55:08,400 --> 00:55:11,400
+You're going to do a lighten on this intensity
+
+1041
+00:55:11,400 --> 00:55:13,400
+The lighting is very simple
+
+1042
+00:55:13,400 --> 00:55:15,800
+That's what it's called how bright it is
+
+1043
+00:55:15,800 --> 00:55:19,000
+But the measurement of brightness is not enough
+
+1044
+00:55:19,000 --> 00:55:22,800
+In fact, if you put this image
+
+1045
+00:55:22,800 --> 00:55:25,000
+transfer is the expression of the gene
+
+1046
+00:55:25,500 --> 00:55:29,400
+There are a lot of statistical
+
+1047
+00:55:29,400 --> 00:55:30,560
+Application service
+
+1048
+00:55:30,560 --> 00:55:31,500
+how it goes
+
+1049
+00:55:31,500 --> 00:55:34,000
+Because every different color has some bias
+
+1050
+00:55:34,000 --> 00:55:37,500
+There are also cases where this wavelength is different
+
+1051
+00:55:37,500 --> 00:55:39,200
+it will have some of this deviation
+
+1052
+00:55:39,200 --> 00:55:40,100
+it is to correct
+
+1053
+00:55:40,100 --> 00:55:43,200
+Then different just above this space
+
+1054
+00:55:43,200 --> 00:55:45,400
+Different points may have some deviation
+
+1055
+00:55:45,400 --> 00:55:48,500
+These things have to be corrected
+
+1056
+00:55:48,500 --> 00:55:51,800
+Then some background noise
+
+1057
+00:55:51,800 --> 00:55:57,000
+Then so this part belongs to the part of this image processing
+
+1058
+00:55:57,000 --> 00:55:59,200
+then more trouble
+
+1059
+00:55:59,200 --> 00:56:00,000
+this paragraph
+
+1060
+00:56:00,000 --> 00:56:01,160
+after processing
+
+1061
+00:56:01,160 --> 00:56:02,680
+Usually all you have to do is
+
+1062
+00:56:02,680 --> 00:56:04,440
+Action of Chip and Chip's Nong Ma Lai
+
+1063
+00:56:04,440 --> 00:56:07,200
+I am now in today's laboratory
+
+1064
+00:56:07,200 --> 00:56:08,640
+make a plane
+
+1065
+00:56:08,640 --> 00:56:12,000
+After the next five minutes, another piece of machine noodles was created
+
+1066
+00:56:12,000 --> 00:56:14,880
+But it is in this film and the film
+
+1067
+00:56:14,880 --> 00:56:17,400
+There is a different treatment of this
+
+1068
+00:56:17,400 --> 00:56:18,320
+not saying different
+
+1069
+00:56:18,320 --> 00:56:19,440
+the same way
+
+1070
+00:56:19,440 --> 00:56:22,760
+But the operation is always different
+
+1071
+00:56:23,320 --> 00:56:25,280
+Then the words inside
+
+1072
+00:56:25,280 --> 00:56:28,080
+There may be many, many factors
+
+1073
+00:56:28,080 --> 00:56:31,840
+For example, sometimes your machine capacity is slightly different
+
+1074
+00:56:31,840 --> 00:56:34,040
+poor temperature control
+
+1075
+00:56:34,040 --> 00:56:37,360
+Or in this Processor
+
+1076
+00:56:37,360 --> 00:56:40,480
+you have to go through cleaning and so on
+
+1077
+00:56:40,480 --> 00:56:41,560
+It is quite complicated Processor
+
+1078
+00:56:41,560 --> 00:56:44,000
+Any step can go wrong
+
+1079
+00:56:44,000 --> 00:56:46,000
+From then on we often see
+
+1080
+00:56:46,000 --> 00:56:48,240
+This one looks very bright
+
+1081
+00:56:48,240 --> 00:56:50,400
+That one looks less bright
+
+1082
+00:56:50,400 --> 00:56:51,720
+what about these
+
+1083
+00:56:51,720 --> 00:56:54,000
+These require statistical methods
+
+1084
+00:56:54,000 --> 00:56:55,760
+to do Normalization
+
+1085
+00:56:55,840 --> 00:56:58,200
+Now here comes the problem
+
+1086
+00:56:58,200 --> 00:56:59,520
+everyone can do
+
+1087
+00:56:59,520 --> 00:57:00,000
+because
+
+1088
+00:57:00,000 --> 00:57:02,560
+There are too many statisticians
+
+1089
+00:57:02,560 --> 00:57:04,600
+In fact there are different teams
+
+1090
+00:57:04,600 --> 00:57:07,420
+Each team's words are also quite famous
+
+1091
+00:57:07,420 --> 00:57:10,240
+For example, my former colleague is now
+
+1092
+00:57:10,740 --> 00:57:14,080
+Academician Wang Yongxiong
+
+1093
+00:57:14,340 --> 00:57:16,380
+Now at Stanford
+
+1094
+00:57:16,640 --> 00:57:19,720
+They have a method called D-CHIP that must be used a lot
+
+1095
+00:57:19,720 --> 00:57:21,760
+The other word is
+
+1096
+00:57:22,020 --> 00:57:24,320
+Terry Speed's One
+
+1097
+00:57:24,840 --> 00:57:25,600
+that
+
+1098
+00:57:25,860 --> 00:57:27,900
+Berger Professor of Statistics
+
+1099
+00:57:28,060 --> 00:57:30,720
+He has a very popular method
+
+1100
+00:57:30,980 --> 00:57:32,500
+what about different methods
+
+1101
+00:57:32,760 --> 00:57:34,300
+Everyone uses a lot but
+
+1102
+00:57:34,560 --> 00:57:37,120
+The trouble is this result
+
+1103
+00:57:37,380 --> 00:57:39,160
+the result is different
+
+1104
+00:57:39,420 --> 00:57:40,700
+Message out
+
+1105
+00:57:40,960 --> 00:57:41,980
+tend to create
+
+1106
+00:57:42,240 --> 00:57:45,560
+different and that difference is quite a difference
+
+1107
+00:57:46,080 --> 00:57:47,100
+so what about this
+
+1108
+00:57:47,360 --> 00:57:48,900
+there is no way
+
+1109
+00:57:49,660 --> 00:57:52,220
+The only suggestion is
+
+1110
+00:57:52,480 --> 00:57:56,320
+You may need to use a little more method and find out his commonality
+
+1111
+00:57:56,580 --> 00:57:57,080
+Then
+
+1112
+00:57:57,080 --> 00:58:00,100
+hope at a different time
+
+1113
+00:58:00,000 --> 00:58:02,560
+According to this experiment in the next step
+
+1114
+00:58:02,820 --> 00:58:05,120
+to determine which one would be better
+
+1115
+00:58:06,140 --> 00:58:09,480
+The other concept I want to tell you is that
+
+1116
+00:58:09,980 --> 00:58:11,520
+Relative amount
+
+1117
+00:58:11,780 --> 00:58:15,880
+We hope that in fact we want to say how many votes a certain gene has
+
+1118
+00:58:16,140 --> 00:58:17,160
+but this kind of thing
+
+1119
+00:58:17,420 --> 00:58:19,200
+he is so far unfeasible
+
+1120
+00:58:19,460 --> 00:58:21,000
+there is no way to do it like this
+
+1121
+00:58:21,260 --> 00:58:23,040
+Now the only thing that can be done is
+
+1122
+00:58:23,300 --> 00:58:27,900
+The relative amount is the relative amount of this gene to that one.
+
+1123
+00:58:28,160 --> 00:58:28,680
+this thing
+
+1124
+00:58:28,880 --> 00:58:30,980
+can be detected
+
+1125
+00:58:36,360 --> 00:58:40,200
+What about after this preprocessing?
+
+1126
+00:58:40,460 --> 00:58:43,780
+What we got is this kind of out-of-string data is
+
+1127
+00:58:45,320 --> 00:58:47,620
+Here each row represents a gene
+
+1128
+00:58:47,880 --> 00:58:53,000
+This is the gene. The first gene, the second gene, and the third gene are those light spots.
+
+1129
+00:58:53,260 --> 00:58:53,760
+Then
+
+1130
+00:58:54,020 --> 00:58:55,560
+listed like this
+
+1131
+00:58:55,820 --> 00:58:56,840
+First
+
+1132
+00:58:56,840 --> 00:58:59,920
+The first column is in this
+
+1133
+00:59:00,000 --> 00:59:03,380
+The first piece, you need to make a
+
+1134
+00:59:03,380 --> 00:59:05,960
+The experiment obtained by the operation is this kind
+
+1135
+00:59:05,960 --> 00:59:08,080
+You found a situation and got
+
+1136
+00:59:08,080 --> 00:59:10,940
+It is a chip that represents a
+
+1137
+00:59:10,940 --> 00:59:12,440
+a condition
+
+1138
+00:59:17,600 --> 00:59:19,600
+is the condition
+
+1139
+00:59:20,440 --> 00:59:23,120
+I use this below
+
+1140
+00:59:23,120 --> 00:59:26,000
+This cycle of filial mother bacteria to explain
+
+1141
+00:59:26,000 --> 00:59:28,600
+This filial mother fungus in its lifetime
+
+1142
+00:59:28,600 --> 00:59:30,600
+he only does one thing
+
+1143
+00:59:30,600 --> 00:59:32,600
+that is
+
+1144
+00:59:32,600 --> 00:59:35,600
+In copying one cell divides into two cells
+
+1145
+00:59:35,600 --> 00:59:38,600
+But this process is quite complicated
+
+1146
+00:59:38,600 --> 00:59:41,600
+Filial piety mothers want to know
+
+1147
+00:59:41,600 --> 00:59:43,600
+at a certain stage
+
+1148
+00:59:43,600 --> 00:59:45,600
+Which genes are expressed
+
+1149
+00:59:45,600 --> 00:59:47,600
+Why can it be done from one place
+
+1150
+00:59:47,600 --> 00:59:49,600
+which one next step
+
+1151
+00:59:49,600 --> 00:59:52,600
+So there is something like this
+
+1152
+00:59:52,600 --> 00:59:54,600
+gene expression data
+
+1153
+00:59:54,600 --> 00:59:56,600
+According to the data of such performance
+
+1154
+00:59:56,600 --> 00:59:57,600
+would have been very complicated
+
+1155
+00:59:57,600 --> 00:59:59,600
+But after the so-called
+
+1156
+01:00:00,000 --> 01:00:07,000
+So Cruster's method is to group genes with the same or similar expression
+
+1157
+01:00:07,000 --> 01:00:12,000
+Then you will see that if it is a certain piece of A, it becomes very similar
+
+1158
+01:00:12,000 --> 01:00:15,000
+And then this say this is the original part
+
+1159
+01:00:15,000 --> 01:00:18,000
+Then you take the same piece of a certain piece and enlarge it
+
+1160
+01:00:18,000 --> 01:00:22,000
+You can see it and see what its gene is doing
+
+1161
+01:00:22,000 --> 01:00:24,000
+For example, most of this area is rival zone
+
+1162
+01:00:24,000 --> 01:00:29,000
+It is the body of the translation of the gene that we just talked about
+
+1163
+01:00:29,000 --> 01:00:35,000
+These things make the biologist happy
+
+1164
+01:00:35,000 --> 01:00:41,000
+He said that through these complex things that seem to have no clue
+
+1165
+01:00:41,000 --> 01:00:43,000
+After you line up like this
+
+1166
+01:00:43,000 --> 01:00:50,000
+Then it can be seen that the function of its gene is roughly the same
+
+1167
+01:00:50,000 --> 01:00:53,000
+So how does this work?
+
+1168
+01:00:53,000 --> 01:00:57,000
+In case there are some genes in this piece
+
+1169
+01:00:57,000 --> 01:01:00,000
+It also has a different notation
+
+1170
+01:01:00,000 --> 01:01:02,240
+I don't know, that is to say, he doesn't know his function yet.
+
+1171
+01:01:02,740 --> 01:01:06,100
+that is placed by this in the same
+
+1172
+01:01:06,100 --> 01:01:07,000
+you can go and see
+
+1173
+01:01:07,000 --> 01:01:10,000
+Then his function is probably the same as others already known
+
+1174
+01:01:10,200 --> 01:01:13,400
+So this is the most basic one, an application
+
+1175
+01:01:18,840 --> 01:01:20,800
+What about this grouping method?
+
+1176
+01:01:21,240 --> 01:01:22,640
+most important idea
+
+1177
+01:01:23,100 --> 01:01:24,540
+that's the similarity
+
+1178
+01:01:24,540 --> 01:01:27,440
+How is the similarity obtained?
+
+1179
+01:01:27,440 --> 01:01:28,540
+Statistically above
+
+1180
+01:01:28,700 --> 01:01:30,880
+is to use the so-called correlation coefficient
+
+1181
+01:01:31,580 --> 01:01:34,580
+The correlation coefficient is used a lot in daily life
+
+1182
+01:01:34,580 --> 01:01:35,600
+like you
+
+1183
+01:01:35,840 --> 01:01:36,700
+height and weight
+
+1184
+01:01:36,700 --> 01:01:38,640
+We all know that there is a proportional relationship
+
+1185
+01:01:40,000 --> 01:01:42,300
+taller, heavier
+
+1186
+01:01:42,300 --> 01:01:45,200
+that's roughly the way it is
+
+1187
+01:01:45,840 --> 01:01:47,340
+what about sometimes
+
+1188
+01:01:47,340 --> 01:01:50,580
+This correlation will become the inverse relationship
+
+1189
+01:01:50,580 --> 01:01:52,180
+Let's say your test scores
+
+1190
+01:01:52,180 --> 01:01:54,080
+Questions that you answered incorrectly
+
+1191
+01:01:54,840 --> 01:01:56,880
+The more mistakes you make, the lower your score
+
+1192
+01:01:56,880 --> 01:02:00,120
+In other cases, less obvious
+
+1193
+01:02:00,000 --> 01:02:02,000
+For example, age and speed
+
+1194
+01:02:02,000 --> 01:02:05,600
+Age and speed are roughly the same as running five strings
+
+1195
+01:02:05,600 --> 01:02:06,900
+when you were very young
+
+1196
+01:02:06,900 --> 01:02:09,100
+Probably the older you are, the faster you run
+
+1197
+01:02:09,100 --> 01:02:10,400
+but when you grow old
+
+1198
+01:02:10,400 --> 01:02:12,800
+The older you get, you can't run
+
+1199
+01:02:12,800 --> 01:02:14,600
+So the relationship is different
+
+1200
+01:02:14,600 --> 01:02:18,400
+Then the correlation coefficient is obtained according to a formula like this
+
+1201
+01:02:22,400 --> 01:02:26,400
+Then let me dance a little here to talk about some ceremonies
+
+1202
+01:02:27,000 --> 01:02:29,000
+What about the correlation coefficient?
+
+1203
+01:02:29,000 --> 01:02:32,000
+It is rarely used by mathematicians, high teachers, etc.
+
+1204
+01:02:32,000 --> 01:02:33,600
+But on the statistical series
+
+1205
+01:02:33,600 --> 01:02:37,400
+Everyone admires this guy named Gelton
+
+1206
+01:02:37,400 --> 01:02:43,200
+He did a lot of interesting research during this period
+
+1207
+01:02:43,200 --> 01:02:45,200
+Then he published an article
+
+1208
+01:02:45,200 --> 01:02:49,400
+His article is typical low heredity
+
+1209
+01:02:49,400 --> 01:02:52,700
+Mate has a lot to do with biology
+
+1210
+01:02:52,700 --> 01:02:56,900
+Then later KL Pearson promoted his method
+
+1211
+01:02:56,900 --> 01:02:59,700
+The usual correlation we are talking about now is
+
+1212
+01:03:00,000 --> 01:03:04,000
+It turned out to be Gelton
+
+1213
+01:03:04,000 --> 01:03:12,000
+Scientists at Gelton's time knew pretty much everything.
+
+1214
+01:03:12,000 --> 01:03:17,000
+Another explorer and Georgia, Mentor, etc.
+
+1215
+01:03:17,000 --> 01:03:21,000
+He's a Half-Carson from Darwin
+
+1216
+01:03:21,000 --> 01:03:25,000
+so he's very interesting about the agenda
+
+1217
+01:03:25,000 --> 01:03:31,000
+One of the most important jobs he did was regulatory analysis
+
+1218
+01:03:31,000 --> 01:03:38,000
+He used the relationship between the elevation of the previous generation and the next generation
+
+1219
+01:03:38,000 --> 01:03:42,000
+He downloaded it one by one based on the information at the time
+
+1220
+01:03:42,000 --> 01:03:45,000
+Then it is very hard to draw this picture
+
+1221
+01:03:45,000 --> 01:03:50,000
+This diagram is the most successful part of empirical science
+
+1222
+01:03:50,000 --> 01:03:56,000
+He just depends on how much the rise, the rise of the father, and the rise of the children
+
+1223
+01:03:56,000 --> 01:04:00,000
+appear, several times in this position
+
+1224
+01:04:00,000 --> 01:04:02,300
+Such a frequency graph to deduce that
+
+1225
+01:04:02,300 --> 01:04:03,600
+This Distribution
+
+1226
+01:04:03,840 --> 01:04:07,840
+It is a flower circle with the same probability of equal height
+
+1227
+01:04:07,840 --> 01:04:09,200
+Everyone is round
+
+1228
+01:04:09,200 --> 01:04:11,740
+are all circles in the same direction
+
+1229
+01:04:11,740 --> 01:04:14,840
+According to this thing, it can make some mathematical inferences
+
+1230
+01:04:14,840 --> 01:04:20,340
+Then add some normally distributed variables
+
+1231
+01:04:20,340 --> 01:04:23,600
+It can put the two-bit Normal Distribution
+
+1232
+01:04:23,600 --> 01:04:23,900
+come out
+
+1233
+01:04:23,900 --> 01:04:26,800
+But this is a very important formula
+
+1234
+01:04:30,000 --> 01:04:33,720
+Everyone knows that the normal distribution is that Cov is long
+
+1235
+01:04:33,720 --> 01:04:36,800
+So it looks like a Bell
+
+1236
+01:04:36,800 --> 01:04:37,840
+more in the middle
+
+1237
+01:04:37,840 --> 01:04:38,840
+relatively few aspects
+
+1238
+01:04:40,260 --> 01:04:46,000
+Let's take a look at a very simple application
+
+1239
+01:04:46,000 --> 01:04:50,100
+Here are four genes
+
+1240
+01:04:50,100 --> 01:04:56,160
+Called MCM1, MCM2, MCM3, MCM4, MCM5, MCM7
+
+1241
+01:04:56,160 --> 01:05:00,020
+Let's not worry about what it's doing for now
+
+1242
+01:05:00,000 --> 01:05:02,880
+Let's use the graph of its gene expression to see
+
+1243
+01:05:02,880 --> 01:05:03,840
+look at this
+
+1244
+01:05:04,860 --> 01:05:07,680
+mcm6 and mcm5
+
+1245
+01:05:08,440 --> 01:05:09,480
+7
+
+1246
+01:05:09,480 --> 01:05:11,280
+What about each of these two genes?
+
+1247
+01:05:11,520 --> 01:05:15,360
+Indicates that each point is a different condition
+
+1248
+01:05:15,620 --> 01:05:16,900
+its performance
+
+1249
+01:05:17,160 --> 01:05:19,720
+So here it means that when mcm
+
+1250
+01:05:19,980 --> 01:05:21,000
+when it was high
+
+1251
+01:05:21,260 --> 01:05:24,060
+When mcm6 is high, mcm7 is also high
+
+1252
+01:05:24,320 --> 01:05:25,340
+when d is also d
+
+1253
+01:05:25,600 --> 01:05:27,140
+So it is positively correlated
+
+1254
+01:05:27,640 --> 01:05:29,700
+So mcm7 is with
+
+1255
+01:05:30,020 --> 01:05:32,700
+mcm6 has a positive correlation with this one
+
+1256
+01:05:32,940 --> 01:05:34,560
+5 are positively related to this
+
+1257
+01:05:34,820 --> 01:05:36,100
+4 have a positive correlation
+
+1258
+01:05:36,360 --> 01:05:39,180
+3 has a positive correlation, this correlation is slightly less
+
+1259
+01:05:39,440 --> 01:05:40,200
+what about this
+
+1260
+01:05:40,700 --> 01:05:42,240
+Correlation is very weak
+
+1261
+01:05:42,500 --> 01:05:43,520
+hardly relevant
+
+1262
+01:05:43,780 --> 01:05:46,340
+Then take a good look at these
+
+1263
+01:05:46,600 --> 01:05:47,620
+you will find
+
+1264
+01:05:47,880 --> 01:05:49,920
+This mcm1 is very strange
+
+1265
+01:05:50,180 --> 01:05:53,500
+How does mcm1 relate to everyone?
+
+1266
+01:05:53,760 --> 01:05:54,540
+are very weak
+
+1267
+01:05:54,800 --> 01:05:58,120
+The other relationships are stronger.
+
+1268
+01:05:58,120 --> 01:06:00,120
+so what would you infer
+
+1269
+01:06:00,000 --> 01:06:05,640
+So 2 to 7, its functions on creatures should be more like
+
+1270
+01:06:05,640 --> 01:06:08,360
+Then the function of MCA1 will be relatively poor
+
+1271
+01:06:08,360 --> 01:06:10,160
+That's actually what it looks like
+
+1272
+01:06:15,880 --> 01:06:22,680
+The role of this MCA2 is to replicate this chromosome
+
+1273
+01:06:22,680 --> 01:06:24,520
+It helps in the replication of chromosomes
+
+1274
+01:06:25,520 --> 01:06:29,480
+This MCA1 it is a transcription factor
+
+1275
+01:06:29,480 --> 01:06:30,560
+is the transferred factor
+
+1276
+01:06:30,560 --> 01:06:32,720
+It is bind in front of this gene
+
+1277
+01:06:32,720 --> 01:06:33,720
+promoting
+
+1278
+01:06:33,720 --> 01:06:35,880
+So the two functions are completely different
+
+1279
+01:06:35,880 --> 01:06:40,320
+So just relying on this simple statistic
+
+1280
+01:06:40,320 --> 01:06:42,720
+You can make an inference like this
+
+1281
+01:06:48,720 --> 01:06:54,320
+The one I'm going to talk about next is more advanced than similarity
+
+1282
+01:06:55,320 --> 01:06:57,040
+higher level
+
+1283
+01:06:57,040 --> 01:07:00,040
+Then this is quite surprising
+
+1284
+01:07:00,000 --> 01:07:01,600
+What about this concept?
+
+1285
+01:07:01,600 --> 01:07:04,160
+it was me in 2002
+
+1286
+01:07:04,160 --> 01:07:06,360
+I just started jumping into this time
+
+1287
+01:07:06,360 --> 01:07:07,500
+I find
+
+1288
+01:07:07,500 --> 01:07:09,800
+At that time a lot of people have done a lot of things
+
+1289
+01:07:09,800 --> 01:07:10,960
+like this Crossing
+
+1290
+01:07:10,960 --> 01:07:12,560
+everyone did
+
+1291
+01:07:12,560 --> 01:07:13,600
+then i was thinking
+
+1292
+01:07:13,600 --> 01:07:15,360
+what am i doing here
+
+1293
+01:07:15,360 --> 01:07:17,800
+Is there anyone who already knows
+
+1294
+01:07:17,800 --> 01:07:19,400
+Everyone can use computer
+
+1295
+01:07:19,400 --> 01:07:20,560
+then i will think about some
+
+1296
+01:07:20,560 --> 01:07:22,760
+Is there still fish in the meat net?
+
+1297
+01:07:22,760 --> 01:07:24,200
+There are some ideas
+
+1298
+01:07:24,200 --> 01:07:25,360
+Everyone hasn't thought of it yet
+
+1299
+01:07:25,360 --> 01:07:26,360
+but don't be too responsible
+
+1300
+01:07:26,360 --> 01:07:28,160
+because you talk to the school of life
+
+1301
+01:07:28,160 --> 01:07:30,560
+Or what, you talked too complicated all at once
+
+1302
+01:07:30,560 --> 01:07:31,960
+they can't accept
+
+1303
+01:07:31,960 --> 01:07:34,060
+Then there will be some in the middle
+
+1304
+01:07:34,060 --> 01:07:35,960
+There are some gaps
+
+1305
+01:07:35,960 --> 01:07:38,860
+Then I hope to find a very simple solution
+
+1306
+01:07:38,860 --> 01:07:40,660
+but there's still something you can do
+
+1307
+01:07:40,660 --> 01:07:42,660
+Let everyone unexpected at the same time
+
+1308
+01:07:42,660 --> 01:07:45,160
+Is it possible to convince the school of life that
+
+1309
+01:07:45,160 --> 01:07:45,860
+also useful
+
+1310
+01:07:45,860 --> 01:07:49,060
+Then this article is here
+
+1311
+01:07:49,060 --> 01:07:51,860
+that PNS
+
+1312
+01:07:51,860 --> 01:07:54,460
+that is
+
+1313
+01:07:54,460 --> 01:07:56,960
+The PNS above in 2002
+
+1314
+01:07:57,060 --> 01:07:59,460
+post below
+
+1315
+01:07:59,460 --> 01:08:00,060
+then i
+
+1316
+01:08:00,000 --> 01:08:06,340
+Because just now the dean and the vice dean also mentioned that I was born in the Department of Mathematics
+
+1317
+01:08:06,340 --> 01:08:07,660
+in college
+
+1318
+01:08:07,660 --> 01:08:14,500
+What we often ask in mathematics is a logical relationship
+
+1319
+01:08:14,500 --> 01:08:16,300
+if a then b
+
+1320
+01:08:16,300 --> 01:08:18,300
+if a holds
+
+1321
+01:08:18,300 --> 01:08:22,500
+This b is established if this is a true statement
+
+1322
+01:08:22,500 --> 01:08:24,800
+Then its counter-narrative may not be correct
+
+1323
+01:08:24,800 --> 01:08:28,200
+If b is right, you may not be right about a
+
+1324
+01:08:28,400 --> 01:08:30,900
+This is a logically important concept
+
+1325
+01:08:30,900 --> 01:08:33,300
+So ask a question like this
+
+1326
+01:08:33,300 --> 01:08:38,300
+Just now we know that your two genes have a high degree of similarity
+
+1327
+01:08:38,300 --> 01:08:42,400
+Then we biologists focus on its biological function
+
+1328
+01:08:42,400 --> 01:08:44,200
+will be more or less the same
+
+1329
+01:08:44,200 --> 01:08:46,000
+So one question I ask is
+
+1330
+01:08:46,000 --> 01:08:52,000
+If two genes are related
+
+1331
+01:08:52,000 --> 01:08:54,700
+is very similar
+
+1332
+01:08:54,700 --> 01:08:59,900
+ok that ok
+
+1333
+01:09:00,000 --> 01:09:06,000
+you two on this creature
+
+1334
+01:09:06,000 --> 01:09:10,000
+it's related to genes that act a lot like
+
+1335
+01:09:10,000 --> 01:09:13,000
+it's this expression it's the expression
+
+1336
+01:09:13,000 --> 01:09:16,000
+Is the degree of belief very high?
+
+1337
+01:09:16,000 --> 01:09:19,000
+i repeat
+
+1338
+01:09:19,000 --> 01:09:21,000
+What we saw earlier is
+
+1339
+01:09:21,000 --> 01:09:25,000
+If it is two genes, its expression is above
+
+1340
+01:09:25,000 --> 01:09:28,000
+its similarity is high
+
+1341
+01:09:28,000 --> 01:09:32,000
+Biologists will accept that it functions above
+
+1342
+01:09:32,000 --> 01:09:35,000
+There is a fair chance it will be the same
+
+1343
+01:09:35,000 --> 01:09:37,000
+or similar
+
+1344
+01:09:37,000 --> 01:09:39,000
+What we are now asking is the opposite
+
+1345
+01:09:39,000 --> 01:09:42,000
+That is, two genes are related in the same way.
+
+1346
+01:09:42,000 --> 01:09:44,000
+participating in the same function
+
+1347
+01:09:44,000 --> 01:09:47,000
+It's on this gene expression
+
+1348
+01:09:47,000 --> 01:09:52,000
+Will it be that there is often a great degree of similarity
+
+1349
+01:09:52,000 --> 01:09:55,000
+that answer is wrong
+
+1350
+01:09:55,000 --> 01:09:59,000
+It's because of our genes
+
+1351
+01:09:59,000 --> 01:10:00,000
+its regulation
+
+1352
+01:10:00,000 --> 01:10:01,320
+it's too complicated
+
+1353
+01:10:01,320 --> 01:10:04,720
+My first Ns is of course that micro-ray is too noisy
+
+1354
+01:10:04,720 --> 01:10:07,000
+but noise is another matter
+
+1355
+01:10:07,000 --> 01:10:09,000
+Because of the regulation of your gene
+
+1356
+01:10:09,000 --> 01:10:10,960
+is a very complex structure
+
+1357
+01:10:10,960 --> 01:10:14,720
+So while two genes are participating in the same industry
+
+1358
+01:10:14,720 --> 01:10:17,760
+Because there are many external factors interfering there
+
+1359
+01:10:17,760 --> 01:10:20,600
+so your words won't be consistent
+
+1360
+01:10:23,920 --> 01:10:27,480
+Here are some reasons for the list
+
+1361
+01:10:27,480 --> 01:10:30,240
+do i think i'll just skip this part
+
+1362
+01:10:30,240 --> 01:10:31,720
+don't talk about it
+
+1363
+01:10:31,720 --> 01:10:34,720
+in fact
+
+1364
+01:10:34,720 --> 01:10:37,920
+on a further molecular level
+
+1365
+01:10:37,920 --> 01:10:40,280
+There is also a phenomenon
+
+1366
+01:10:40,280 --> 01:10:41,960
+I'm here to say quickly
+
+1367
+01:10:41,960 --> 01:10:46,120
+That is, your genes fall into the so-called Histone
+
+1368
+01:10:46,120 --> 01:10:47,960
+the so-called main protein
+
+1369
+01:10:47,960 --> 01:10:49,160
+you are some chromosomes
+
+1370
+01:10:49,160 --> 01:10:50,520
+Then
+
+1371
+01:10:50,520 --> 01:10:53,760
+So it by itself suppresses the expression of this gene
+
+1372
+01:10:53,760 --> 01:10:56,240
+You need to open this thing first
+
+1373
+01:10:56,400 --> 01:10:58,040
+make it not wrapped in
+
+1374
+01:10:58,040 --> 01:11:00,000
+You can have genetic expression
+
+1375
+01:11:00,000 --> 01:11:03,200
+So there's a gene here
+
+1376
+01:11:03,200 --> 01:11:05,200
+There is a transcription factor
+
+1377
+01:11:05,200 --> 01:11:09,700
+it works weird
+
+1378
+01:11:09,700 --> 01:11:15,400
+even if it is a repressor
+
+1379
+01:11:15,400 --> 01:11:17,900
+is also an activator
+
+1380
+01:11:17,900 --> 01:11:22,300
+what is repressor
+
+1381
+01:11:22,300 --> 01:11:24,800
+its turn factor
+
+1382
+01:11:24,800 --> 01:11:27,600
+it suppresses gene expression
+
+1383
+01:11:27,600 --> 01:11:29,300
+activator is just the opposite
+
+1384
+01:11:29,300 --> 01:11:31,700
+But in some cases it can do both
+
+1385
+01:11:31,700 --> 01:11:34,000
+The reason why it can do both
+
+1386
+01:11:34,000 --> 01:11:36,900
+It turns out that there are other factors at work
+
+1387
+01:11:36,900 --> 01:11:40,800
+This example is a pretend finite number
+
+1388
+01:11:40,800 --> 01:11:43,700
+This pretends to limit this Harm to do its job
+
+1389
+01:11:43,700 --> 01:11:47,600
+It has a structure without pretending to be limited
+
+1390
+01:11:47,600 --> 01:11:49,600
+There are pretending to limit the number of its structures to change
+
+1391
+01:11:49,600 --> 01:11:53,300
+so we often say
+
+1392
+01:11:53,300 --> 01:11:54,700
+a certain turn factor
+
+1393
+01:11:54,700 --> 01:11:56,600
+It is positively regulated
+
+1394
+01:11:56,600 --> 01:11:58,100
+a turn factor
+
+1395
+01:11:58,100 --> 01:11:59,600
+attached regulation
+
+1396
+01:12:00,000 --> 01:12:01,760
+This way of speaking is too five paragraphs
+
+1397
+01:12:01,760 --> 01:12:03,660
+Some of these regulators
+
+1398
+01:12:03,660 --> 01:12:05,860
+There are forward and reverse
+
+1399
+01:12:05,860 --> 01:12:10,960
+that controls whether it is forward or bidirectional
+
+1400
+01:12:10,960 --> 01:12:13,100
+are some other extrinsic factors
+
+1401
+01:12:13,100 --> 01:12:14,000
+Now here comes the problem
+
+1402
+01:12:14,000 --> 01:12:15,500
+these extrinsic factors
+
+1403
+01:12:15,500 --> 01:12:18,000
+how do we know
+
+1404
+01:12:18,000 --> 01:12:19,860
+the biologist
+
+1405
+01:12:19,860 --> 01:12:23,060
+he because
+
+1406
+01:12:23,060 --> 01:12:24,900
+many things are sprouting
+
+1407
+01:12:24,900 --> 01:12:25,760
+limited knowledge
+
+1408
+01:12:25,760 --> 01:12:26,560
+so he doesn't know
+
+1409
+01:12:26,560 --> 01:12:28,160
+Then ask our ruler
+
+1410
+01:12:28,160 --> 01:12:29,260
+more laymen
+
+1411
+01:12:29,260 --> 01:12:29,760
+how do you know
+
+1412
+01:12:29,760 --> 01:12:31,460
+you don't know of course i don't know
+
+1413
+01:12:31,460 --> 01:12:32,960
+then i
+
+1414
+01:12:32,960 --> 01:12:35,460
+but i just told you
+
+1415
+01:12:35,460 --> 01:12:37,260
+what about statisticians
+
+1416
+01:12:37,260 --> 01:12:39,200
+something mathematicians are not afraid of
+
+1417
+01:12:39,200 --> 01:12:40,900
+is that we can make some assumptions
+
+1418
+01:12:40,900 --> 01:12:42,720
+we want to start from position
+
+1419
+01:12:42,720 --> 01:12:44,200
+there is something from the chair
+
+1420
+01:12:44,200 --> 01:12:45,000
+or part chair
+
+1421
+01:12:45,000 --> 01:12:46,720
+we go to test the location of things
+
+1422
+01:12:46,720 --> 01:12:48,300
+made some models
+
+1423
+01:12:48,300 --> 01:12:50,660
+So let's make an adult's assumption here
+
+1424
+01:12:50,660 --> 01:12:52,060
+OK, if the gene
+
+1425
+01:12:52,060 --> 01:12:54,060
+with the things it regulates
+
+1426
+01:12:54,060 --> 01:12:56,400
+in a certain state
+
+1427
+01:12:56,400 --> 01:12:58,400
+it has positive
+
+1428
+01:12:58,400 --> 01:13:00,000
+It is a
+
+1429
+01:13:00,000 --> 01:13:01,040
+positive transfer
+
+1430
+01:13:01,040 --> 01:13:02,500
+then in another state
+
+1431
+01:13:02,500 --> 01:13:03,580
+it has a reverse feed
+
+1432
+01:13:03,580 --> 01:13:06,240
+But I control this turn
+
+1433
+01:13:06,240 --> 01:13:09,500
+The forward or reverse of these timbres
+
+1434
+01:13:09,500 --> 01:13:10,080
+I have no idea
+
+1435
+01:13:10,080 --> 01:13:11,700
+But I make an assumption
+
+1436
+01:13:11,700 --> 01:13:15,340
+Say this, these sound quality, or this state
+
+1437
+01:13:15,340 --> 01:13:17,880
+will be on a certain pitch
+
+1438
+01:13:17,880 --> 01:13:19,080
+will be shown
+
+1439
+01:13:19,080 --> 01:13:20,800
+it's just an assumption
+
+1440
+01:13:20,800 --> 01:13:22,680
+So in this different this
+
+1441
+01:13:22,680 --> 01:13:24,580
+For example, when Hormono
+
+1442
+01:13:24,580 --> 01:13:26,180
+For example, when Hormono
+
+1443
+01:13:26,180 --> 01:13:27,880
+This State 1
+
+1444
+01:13:28,080 --> 01:13:29,980
+its fundamental tone it doesn't show
+
+1445
+01:13:29,980 --> 01:13:31,220
+But when there is less hormonal
+
+1446
+01:13:31,220 --> 01:13:33,860
+This pitch is more than expressed
+
+1447
+01:13:33,860 --> 01:13:35,460
+then i can
+
+1448
+01:13:35,460 --> 01:13:36,680
+There is a hypothesis like this
+
+1449
+01:13:36,680 --> 01:13:39,460
+I don't need to know that it's hormonal that affects this
+
+1450
+01:13:39,460 --> 01:13:41,560
+I just need to know that it affects it
+
+1451
+01:13:41,560 --> 01:13:43,820
+Just a certain pitch
+
+1452
+01:13:43,820 --> 01:13:45,460
+Although this thing is the most important
+
+1453
+01:13:45,460 --> 01:13:46,960
+but its performance
+
+1454
+01:13:46,960 --> 01:13:48,920
+So I make an assumption like this
+
+1455
+01:13:48,920 --> 01:13:51,420
+So through a situation like this
+
+1456
+01:13:51,420 --> 01:13:53,460
+In addition to saying that the pitch and its
+
+1457
+01:13:53,460 --> 01:13:55,160
+This is a transfer sound quality
+
+1458
+01:13:55,160 --> 01:13:56,880
+This is the pitch of its regulation
+
+1459
+01:13:56,920 --> 01:13:58,320
+It is sometimes a positive regulation
+
+1460
+01:13:58,320 --> 01:13:59,520
+negative regulation
+
+1461
+01:13:59,520 --> 01:14:00,160
+but you not only
+
+1462
+01:14:00,000 --> 01:14:02,400
+Knowing this is true, you would think
+
+1463
+01:14:02,400 --> 01:14:03,600
+he doesn't matter
+
+1464
+01:14:03,600 --> 01:14:07,400
+But if you say that through this third gene
+
+1465
+01:14:07,400 --> 01:14:10,700
+When your third gene doesn't express
+
+1466
+01:14:10,700 --> 01:14:11,600
+all green
+
+1467
+01:14:11,600 --> 01:14:13,300
+just these times
+
+1468
+01:14:13,300 --> 01:14:14,900
+If it's red, that's all
+
+1469
+01:14:14,900 --> 01:14:17,900
+So it's a very simple concept
+
+1470
+01:14:17,900 --> 01:14:20,400
+that's how it behaves
+
+1471
+01:14:20,400 --> 01:14:23,700
+But it's so dark here that it's us
+
+1472
+01:14:23,700 --> 01:14:25,400
+can't be the same
+
+1473
+01:14:25,400 --> 01:14:28,100
+Previously it was only necessary to link two genes to see how similar they were
+
+1474
+01:14:28,100 --> 01:14:30,600
+That now turns into studying three genes
+
+1475
+01:14:30,600 --> 01:14:32,100
+That's X, Y, Z
+
+1476
+01:14:32,100 --> 01:14:33,200
+that's more complicated
+
+1477
+01:14:33,200 --> 01:14:35,200
+What is the level of complexity?
+
+1478
+01:14:35,200 --> 01:14:37,800
+we are doing
+
+1479
+01:14:37,800 --> 01:14:39,900
+Like the example just now, when making filial mother fungus
+
+1480
+01:14:39,900 --> 01:14:42,400
+Probably around 6,000 genes
+
+1481
+01:14:42,400 --> 01:14:44,400
+Of the 6,000 genes you have to take three
+
+1482
+01:14:44,400 --> 01:14:45,600
+thirty eight
+
+1483
+01:14:45,600 --> 01:14:47,000
+This is 5878
+
+1484
+01:14:47,000 --> 01:14:50,800
+Counting is 33.8 triplets of point B
+
+1485
+01:14:50,800 --> 01:14:52,700
+That's too much
+
+1486
+01:14:52,700 --> 01:14:54,300
+If the quantity is too large
+
+1487
+01:14:54,300 --> 01:14:56,500
+I can't say a triplet
+
+1488
+01:14:56,500 --> 01:14:59,400
+Just use the priest method just now to look at his relationship
+
+1489
+01:14:59,400 --> 01:15:00,000
+I must
+
+1490
+01:15:00,000 --> 01:15:03,860
+Provide a statistic for the computer to calculate
+
+1491
+01:15:03,860 --> 01:15:06,360
+What about the amount?
+
+1492
+01:15:06,360 --> 01:15:08,600
+How did you recruit them?
+
+1493
+01:15:08,600 --> 01:15:12,000
+I inferred from some of these mathematical statistics
+
+1494
+01:15:12,000 --> 01:15:14,080
+I'm sorry about this
+
+1495
+01:15:14,080 --> 01:15:15,040
+i'm just here
+
+1496
+01:15:15,040 --> 01:15:16,840
+It's just like show off
+
+1497
+01:15:16,840 --> 01:15:19,320
+Just a reference
+
+1498
+01:15:19,320 --> 01:15:23,400
+So after some statistics, some definitions above, etc.
+
+1499
+01:15:23,400 --> 01:15:25,400
+found that under such circumstances
+
+1500
+01:15:25,400 --> 01:15:26,800
+there is a nice formula
+
+1501
+01:15:26,800 --> 01:15:29,200
+You can use this to calculate this
+
+1502
+01:15:29,200 --> 01:15:31,160
+The formula is simply
+
+1503
+01:15:31,160 --> 01:15:33,160
+x1 y1 z1
+
+1504
+01:15:33,160 --> 01:15:34,960
+cover up
+
+1505
+01:15:34,960 --> 01:15:35,920
+multiply up add up
+
+1506
+01:15:35,920 --> 01:15:39,000
+What is x1 y1 z1 x2 y2 z2
+
+1507
+01:15:39,000 --> 01:15:41,440
+That is, the three genes are different
+
+1508
+01:15:41,440 --> 01:15:43,600
+Performance under condition
+
+1509
+01:15:43,600 --> 01:15:45,320
+so very simple
+
+1510
+01:15:45,320 --> 01:15:47,400
+in a certain state
+
+1511
+01:15:47,400 --> 01:15:48,840
+how much the first gene is expressed
+
+1512
+01:15:48,840 --> 01:15:49,880
+how much the second gene is expressed
+
+1513
+01:15:49,880 --> 01:15:51,600
+how much the first three genes express
+
+1514
+01:15:51,600 --> 01:15:52,360
+just ride it up
+
+1515
+01:15:52,360 --> 01:15:54,160
+everyone will be punished
+
+1516
+01:15:54,160 --> 01:15:55,680
+in the second case
+
+1517
+01:15:55,680 --> 01:15:56,800
+add it up too
+
+1518
+01:15:56,800 --> 01:15:59,120
+So all your data adds up like this
+
+1519
+01:16:00,000 --> 01:16:02,560
+This is my consideration
+
+1520
+01:16:02,560 --> 01:16:04,600
+Then this example is called liquid association
+
+1521
+01:16:04,600 --> 01:16:08,200
+Liquid association is a relatively abstract concept
+
+1522
+01:16:08,200 --> 01:16:10,760
+It is mainly used to describe
+
+1523
+01:16:10,760 --> 01:16:11,780
+this
+
+1524
+01:16:12,040 --> 01:16:14,340
+correlation
+
+1525
+01:16:14,600 --> 01:16:15,360
+will be like
+
+1526
+01:16:15,620 --> 01:16:18,180
+Liquids flow like water
+
+1527
+01:16:18,440 --> 01:16:20,740
+Sometimes it's positive, sometimes it's negative
+
+1528
+01:16:21,760 --> 01:16:23,040
+there will be this fluttering
+
+1529
+01:16:23,800 --> 01:16:24,320
+image
+
+1530
+01:16:24,580 --> 01:16:26,360
+What about a formula like this?
+
+1531
+01:16:26,620 --> 01:16:29,180
+In fact, it is equivalent to a
+
+1532
+01:16:29,740 --> 01:16:31,740
+Fissure yes correlation a generalization
+
+1533
+01:16:32,260 --> 01:16:36,600
+Fissure i fissure is arguably the most famous statistician in the world
+
+1534
+01:16:36,860 --> 01:16:37,380
+That
+
+1535
+01:16:37,640 --> 01:16:40,180
+Yes, it is also looking for a very important statistician
+
+1536
+01:16:40,440 --> 01:16:40,960
+then they
+
+1537
+01:16:41,220 --> 01:16:45,300
+When doing this correlation before, he didn’t follow the same route as Pearlson
+
+1538
+01:16:45,560 --> 01:16:46,080
+he is
+
+1539
+01:16:46,340 --> 01:16:49,660
+Do say I just put this first each
+
+1540
+01:16:49,920 --> 01:16:54,780
+Statistics first make it a normal score transformation first normalize it
+
+1541
+01:16:55,300 --> 01:16:56,060
+then you
+
+1542
+01:16:56,320 --> 01:16:57,600
+After normalizing it
+
+1543
+01:16:57,600 --> 01:16:59,860
+I want to calculate his two correlation is very simple
+
+1544
+01:17:00,000 --> 01:17:02,000
+It's fine if the two inherit each other.
+
+1545
+01:17:02,000 --> 01:17:03,600
+this is their method
+
+1546
+01:17:03,600 --> 01:17:05,600
+This method has its benefits
+
+1547
+01:17:05,600 --> 01:17:07,600
+it for those
+
+1548
+01:17:07,600 --> 01:17:08,600
+The so-called Outline
+
+1549
+01:17:08,600 --> 01:17:10,600
+Sometimes the data is messy
+
+1550
+01:17:10,600 --> 01:17:12,600
+some words jump especially big
+
+1551
+01:17:12,600 --> 01:17:14,600
+This method will not be so Sensitive
+
+1552
+01:17:14,600 --> 01:17:15,600
+can limit
+
+1553
+01:17:15,600 --> 01:17:16,900
+my method
+
+1554
+01:17:16,900 --> 01:17:18,900
+almost equal to this replica of it
+
+1555
+01:17:18,900 --> 01:17:19,900
+add an extra gene
+
+1556
+01:17:19,900 --> 01:17:23,400
+But the math behind it is completely different.
+
+1557
+01:17:23,900 --> 01:17:25,900
+so that's
+
+1558
+01:17:25,900 --> 01:17:28,400
+I'll do a little math for the benefit
+
+1559
+01:17:28,400 --> 01:17:30,400
+So here is the Normal distribution
+
+1560
+01:17:30,400 --> 01:17:32,400
+how did it work
+
+1561
+01:17:32,400 --> 01:17:33,800
+back to this
+
+1562
+01:17:33,800 --> 01:17:35,800
+This example of filial mother
+
+1563
+01:17:35,800 --> 01:17:37,800
+let me tell you one
+
+1564
+01:17:37,800 --> 01:17:39,800
+only one application
+
+1565
+01:17:39,800 --> 01:17:41,800
+Because what I said today is that there are several applications left
+
+1566
+01:17:41,800 --> 01:17:43,800
+But maybe I'm not here because of time
+
+1567
+01:17:43,800 --> 01:17:45,300
+keep talking about this app
+
+1568
+01:17:45,300 --> 01:17:46,800
+this application
+
+1569
+01:17:46,800 --> 01:17:48,800
+looks very complicated
+
+1570
+01:17:48,800 --> 01:17:50,800
+actually
+
+1571
+01:17:50,800 --> 01:17:52,800
+you know other results
+
+1572
+01:17:52,800 --> 01:17:54,800
+The secret is actually quite simple
+
+1573
+01:17:54,800 --> 01:17:56,800
+This is a
+
+1574
+01:17:58,400 --> 01:18:00,600
+path of chemical reaction
+
+1575
+01:18:00,000 --> 01:18:03,400
+Its main purpose is to illuminate the Aquini
+
+1576
+01:18:03,400 --> 01:18:07,000
+This Aquini is crystal dark acid
+
+1577
+01:18:07,000 --> 01:18:11,800
+It is a series of chemical reactions
+
+1578
+01:18:11,800 --> 01:18:15,200
+Every chemical reaction involves an enzyme
+
+1579
+01:18:15,200 --> 01:18:21,000
+Its original source is from ancient times
+
+1580
+01:18:21,000 --> 01:18:25,800
+Gutmey is blessing dark acid
+
+1581
+01:18:26,000 --> 01:18:29,200
+Through this ARG2 enzyme
+
+1582
+01:18:29,200 --> 01:18:33,200
+ARG2 is this synthetic beauty
+
+1583
+01:18:33,200 --> 01:18:38,400
+And then make this called Osli Bird Dark Sour
+
+1584
+01:18:38,400 --> 01:18:40,400
+and then after here
+
+1585
+01:18:40,400 --> 01:18:43,600
+Its chemical reaction is going this way
+
+1586
+01:18:43,600 --> 01:18:46,800
+If you come here, the next step is to become this Psytrillion
+
+1587
+01:18:46,800 --> 01:18:48,800
+is hanging dark acid
+
+1588
+01:18:48,800 --> 01:18:52,800
+Then wait until the end to get Crystal Dark Acid
+
+1589
+01:18:52,800 --> 01:18:55,600
+When your crystal dark acid if too much
+
+1590
+01:18:55,600 --> 01:18:57,800
+it will be broken down again
+
+1591
+01:18:57,800 --> 01:19:00,600
+This breaks down into
+
+1592
+01:19:00,000 --> 01:19:01,640
+back to this bird dark sour
+
+1593
+01:19:01,640 --> 01:19:03,440
+So this is a cycle
+
+1594
+01:19:03,440 --> 01:19:05,600
+This is quite effective
+
+1595
+01:19:05,600 --> 01:19:07,240
+Because this has uria cycle
+
+1596
+01:19:07,240 --> 01:19:08,800
+word from here
+
+1597
+01:19:08,800 --> 01:19:11,800
+After this crystal dark acid is decomposed
+
+1598
+01:19:11,800 --> 01:19:13,800
+will run deep in this uria
+
+1599
+01:19:16,140 --> 01:19:17,700
+So what about the loop
+
+1600
+01:19:17,700 --> 01:19:19,700
+Although on filial mother fungi
+
+1601
+01:19:19,700 --> 01:19:22,200
+The same is true for the human body and the kidneys
+
+1602
+01:19:22,200 --> 01:19:24,540
+is a very important mechanism
+
+1603
+01:19:24,540 --> 01:19:27,000
+Then if you look at a picture like this
+
+1604
+01:19:27,000 --> 01:19:29,240
+look at these chemical reactions
+
+1605
+01:19:29,240 --> 01:19:30,840
+how do i know
+
+1606
+01:19:30,840 --> 01:19:33,040
+But this is very certain
+
+1607
+01:19:33,040 --> 01:19:34,540
+imagine these chemical reactions
+
+1608
+01:19:34,540 --> 01:19:40,340
+In fact, it is like a string of processing factories.
+
+1609
+01:19:40,340 --> 01:19:41,640
+so stuff comes in
+
+1610
+01:19:41,640 --> 01:19:43,640
+I just parse it
+
+1611
+01:19:43,640 --> 01:19:45,640
+So let's say
+
+1612
+01:19:45,640 --> 01:19:47,340
+when you want to take this thing
+
+1613
+01:19:47,340 --> 01:19:48,440
+this thing must have
+
+1614
+01:19:48,440 --> 01:19:49,640
+So the more this thing
+
+1615
+01:19:49,640 --> 01:19:52,740
+I will show more of this thing
+
+1616
+01:19:52,740 --> 01:19:54,940
+But my goal is to follow this
+
+1617
+01:19:54,940 --> 01:19:57,240
+So if say this CR2
+
+1618
+01:19:58,240 --> 01:19:59,440
+nuclease
+
+1619
+01:19:59,440 --> 01:20:00,240
+have something
+
+1620
+01:20:00,000 --> 01:20:03,240
+also expressed a lot of words
+
+1621
+01:20:03,240 --> 01:20:05,120
+Then this Ostiny thing
+
+1622
+01:20:05,120 --> 01:20:06,960
+Will it be broken down immediately?
+
+1623
+01:20:06,960 --> 01:20:10,560
+Then it would be wrong to do false work for nothing.
+
+1624
+01:20:10,560 --> 01:20:12,280
+So you'd guess that yes
+
+1625
+01:20:12,280 --> 01:20:15,360
+When ARG2 it expresses high
+
+1626
+01:20:15,360 --> 01:20:16,560
+When the synthetic surface is high
+
+1627
+01:20:16,560 --> 01:20:18,560
+this thing shouldn't exist
+
+1628
+01:20:18,560 --> 01:20:19,720
+It should express less
+
+1629
+01:20:19,720 --> 01:20:21,640
+Otherwise, you just go in
+
+1630
+01:20:21,640 --> 01:20:24,680
+It will be digested immediately, and it will be a waste of work
+
+1631
+01:20:24,680 --> 01:20:29,000
+So you would speculate that the relationship between these two
+
+1632
+01:20:29,000 --> 01:20:30,640
+should be related
+
+1633
+01:20:30,640 --> 01:20:31,880
+This is higher and this is lower
+
+1634
+01:20:31,880 --> 01:20:34,440
+Then let's see if Data looks like this
+
+1635
+01:20:34,440 --> 01:20:39,040
+Sorry, this jumps a few pages first
+
+1636
+01:20:39,040 --> 01:20:43,200
+I'll come back to this later
+
+1637
+01:20:43,200 --> 01:20:44,840
+Let's look at Data first
+
+1638
+01:20:44,840 --> 01:20:49,560
+This data is for everyone not to look at these two lines
+
+1639
+01:20:49,560 --> 01:20:52,920
+Also don't look at these red dots or different colors
+
+1640
+01:20:52,920 --> 01:20:56,320
+Every point is a data point
+
+1641
+01:20:56,400 --> 01:20:58,880
+This information is from what we just talked about
+
+1642
+01:20:58,880 --> 01:21:00,160
+The information on Sale Cycle
+
+1643
+01:21:00,000 --> 01:21:03,100
+Exactly the same but I use it to study different things
+
+1644
+01:21:03,100 --> 01:21:06,000
+You said oh oh, check to see if there is anything related
+
+1645
+01:21:06,000 --> 01:21:08,000
+It cannot be positively correlated without correlation
+
+1646
+01:21:08,000 --> 01:21:10,700
+If it is positively correlated, it should look like this
+
+1647
+01:21:10,700 --> 01:21:12,700
+Direct phase is not reverse
+
+1648
+01:21:12,700 --> 01:21:15,000
+Not reverse is no correlation
+
+1649
+01:21:15,000 --> 01:21:17,200
+that's not relevant
+
+1650
+01:21:17,200 --> 01:21:19,500
+Then we just speculated that
+
+1651
+01:21:19,500 --> 01:21:23,500
+Just now I speculated that it was these two, if so
+
+1652
+01:21:23,500 --> 01:21:27,600
+Cell needs RNG saying these two should have a negative correlation
+
+1653
+01:21:27,600 --> 01:21:29,000
+why didn't that
+
+1654
+01:21:30,000 --> 01:21:32,000
+Then I said ok then it's okay
+
+1655
+01:21:32,000 --> 01:21:35,000
+Then maybe if the cells disappear forever, it will be RNG
+
+1656
+01:21:35,000 --> 01:21:36,500
+Not called RGN
+
+1657
+01:21:36,500 --> 01:21:38,000
+it maybe sometimes it doesn't need
+
+1658
+01:21:38,000 --> 01:21:39,500
+how do i know
+
+1659
+01:21:39,500 --> 01:21:42,000
+How do I know when it's needed and when it's not
+
+1660
+01:21:42,000 --> 01:21:44,500
+Then I will use this liquid manual to learn how to use it
+
+1661
+01:21:44,500 --> 01:21:47,500
+My hypothesis is that maybe at some point it will
+
+1662
+01:21:47,500 --> 01:21:49,500
+maybe it doesn't
+
+1663
+01:21:50,500 --> 01:21:52,000
+what time does it want
+
+1664
+01:21:52,000 --> 01:21:55,500
+Maybe some of the elite will be shown when it wants to
+
+1665
+01:21:55,500 --> 01:21:57,000
+which elites
+
+1666
+01:21:57,000 --> 01:21:58,500
+how could I know
+
+1667
+01:21:58,500 --> 01:22:00,000
+I don't know it's okay
+
+1668
+01:22:00,000 --> 01:22:01,020
+find one by one
+
+1669
+01:22:01,280 --> 01:22:02,820
+so how do i find it
+
+1670
+01:22:03,080 --> 01:22:04,360
+this is me
+
+1671
+01:22:09,480 --> 01:22:11,520
+I take this thing as x
+
+1672
+01:22:12,040 --> 01:22:14,840
+This thing is regarded as y, so there is no
+
+1673
+01:22:15,100 --> 01:22:16,900
+without that
+
+1674
+01:22:17,160 --> 01:22:18,680
+correlation so it is
+
+1675
+01:22:18,940 --> 01:22:21,500
+To count this liquid association
+
+1676
+01:22:23,300 --> 01:22:28,420
+For each gene, there are about 6,000 genes in total, and each one is counted, so the basic calculation is not too big
+
+1677
+01:22:28,820 --> 01:22:30,980
+then arrange it
+
+1678
+01:22:31,240 --> 01:22:35,080
+and then went to see its largest and found
+
+1679
+01:22:35,840 --> 01:22:37,640
+The eighth largest here is the small
+
+1680
+01:22:37,900 --> 01:22:38,920
+this
+
+1681
+01:22:39,180 --> 01:22:41,740
+negative biggest
+
+1682
+01:22:41,980 --> 01:22:46,080
+Find this gene as soon as you look for it, that's good because there are 6,000 genes
+
+1683
+01:22:46,340 --> 01:22:48,140
+The eighth is around here
+
+1684
+01:22:48,400 --> 01:22:49,920
+so this
+
+1685
+01:22:50,700 --> 01:22:52,740
+It can be said that it was hit
+
+1686
+01:22:53,000 --> 01:22:53,500
+hit
+
+1687
+01:22:53,760 --> 01:22:55,560
+Not only that
+
+1688
+01:22:55,560 --> 01:22:59,400
+Here it is, if you look more closely
+
+1689
+01:23:00,000 --> 01:23:03,320
+But you can see that when the CPA is
+
+1690
+01:23:03,320 --> 01:23:05,380
+when performance is high
+
+1691
+01:23:05,380 --> 01:23:06,920
+it has a negative correlation
+
+1692
+01:23:06,920 --> 01:23:08,960
+The negative correlation we want is when
+
+1693
+01:23:08,960 --> 01:23:11,260
+CPA is when performance is high
+
+1694
+01:23:11,260 --> 01:23:13,560
+When the CPA performance is small it is
+
+1695
+01:23:13,560 --> 01:23:14,840
+multiply positive correlation
+
+1696
+01:23:14,840 --> 01:23:17,400
+Is this relationship reasonable?
+
+1697
+01:23:17,400 --> 01:23:19,460
+let's look back
+
+1698
+01:23:20,480 --> 01:23:24,320
+What does it mean when this gene is expressed high?
+
+1699
+01:23:25,860 --> 01:23:28,680
+If this thing is high, it can take this Gutmin
+
+1700
+01:23:29,080 --> 01:23:32,280
+Decomposition then yields this
+
+1701
+01:23:32,280 --> 01:23:34,820
+This metabolite of Carbomile phosphate
+
+1702
+01:23:34,820 --> 01:23:36,120
+What about this metabolite?
+
+1703
+01:23:36,120 --> 01:23:37,640
+Can Oscling with this
+
+1704
+01:23:37,640 --> 01:23:40,720
+Through this ARG this synthesis
+
+1705
+01:23:40,720 --> 01:23:42,000
+to synthesize this
+
+1706
+01:23:42,000 --> 01:23:43,020
+so
+
+1707
+01:23:43,020 --> 01:23:46,860
+When this you do RG0
+
+1708
+01:23:46,860 --> 01:23:49,420
+Right and wrong need not only Oscling
+
+1709
+01:23:49,420 --> 01:23:51,720
+At the same time you also need this Carbomile
+
+1710
+01:23:51,720 --> 01:23:53,760
+Then you need Carbomile
+
+1711
+01:23:53,760 --> 01:23:56,080
+It's about to come out. If you don't have this synthesis, you won't have it.
+
+1712
+01:23:56,080 --> 01:23:56,840
+so
+
+1713
+01:23:56,840 --> 01:24:00,120
+My explanation is that when the composition does not show
+
+1714
+01:24:00,000 --> 01:24:02,800
+It will represent that the cell needs RG0
+
+1715
+01:24:02,800 --> 01:24:05,480
+When the cell needs RG0
+
+1716
+01:24:05,480 --> 01:24:08,800
+ARG2 is just negatively correlated with CR2
+
+1717
+01:24:08,800 --> 01:24:12,800
+So this is completely represented by our picture
+
+1718
+01:24:12,800 --> 01:24:17,440
+Another situation is when CR2 does not perform
+
+1719
+01:24:17,440 --> 01:24:20,040
+It happens to be DR's WareRound
+
+1720
+01:24:20,040 --> 01:24:21,600
+just another situation
+
+1721
+01:24:21,600 --> 01:24:25,680
+That is, when there is no here, it means that there is no need here
+
+1722
+01:24:25,680 --> 01:24:27,080
+those are the times when you don't need it
+
+1723
+01:24:27,240 --> 01:24:31,800
+In that case, it means that the cell
+
+1724
+01:24:31,800 --> 01:24:34,240
+Maybe this arginic acid is too much
+
+1725
+01:24:34,240 --> 01:24:36,280
+If there is too much arginic acid, it will break down
+
+1726
+01:24:36,280 --> 01:24:39,040
+So when you want to decompose this thing should show
+
+1727
+01:24:39,040 --> 01:24:41,120
+So when you are still tall
+
+1728
+01:24:41,120 --> 01:24:43,360
+If your stuff is not high
+
+1729
+01:24:43,360 --> 01:24:45,400
+that's bad
+
+1730
+01:24:45,400 --> 01:24:49,800
+It will also be forced on this may produce more
+
+1731
+01:24:49,800 --> 01:24:52,680
+So the best solution is when this high
+
+1732
+01:24:52,680 --> 01:24:55,680
+The god you produce is digested immediately
+
+1733
+01:24:55,720 --> 01:24:57,560
+broken down
+
+1734
+01:24:57,560 --> 01:25:00,080
+Use CR2 performance to decompose it
+
+1735
+01:25:00,000 --> 01:25:03,400
+So this is a rather subtle
+
+1736
+01:25:03,400 --> 01:25:06,000
+right here
+
+1737
+01:25:06,000 --> 01:25:09,400
+The enzymes in the shells that we often eat
+
+1738
+01:25:09,400 --> 01:25:11,000
+Inside a little angry bag
+
+1739
+01:25:11,000 --> 01:25:13,000
+by the expression of this gene
+
+1740
+01:25:13,000 --> 01:25:15,000
+complicated inside
+
+1741
+01:25:15,000 --> 01:25:17,000
+6000 genes inside
+
+1742
+01:25:17,000 --> 01:25:19,000
+Let's watch these
+
+1743
+01:25:19,000 --> 01:25:21,000
+It's all in this picture
+
+1744
+01:25:21,000 --> 01:25:24,500
+Then you look out and see it's totally irrelevant
+
+1745
+01:25:24,500 --> 01:25:28,000
+But you should use statistical methods well
+
+1746
+01:25:28,500 --> 01:25:30,000
+go
+
+1747
+01:25:30,000 --> 01:25:33,000
+From what is already known to infer some positions
+
+1748
+01:25:33,000 --> 01:25:37,000
+Can find a quite reasonable explanation
+
+1749
+01:25:37,000 --> 01:25:39,000
+Then this method can be used a lot
+
+1750
+01:25:39,000 --> 01:25:40,000
+means you have two genes
+
+1751
+01:25:40,000 --> 01:25:44,000
+I'm going to find a third gene that regulates these two
+
+1752
+01:25:44,000 --> 01:25:45,000
+there is a way
+
+1753
+01:25:45,000 --> 01:25:46,000
+That can also be said in reverse
+
+1754
+01:25:46,000 --> 01:25:48,000
+I one I can start with a gene
+
+1755
+01:25:48,000 --> 01:25:50,000
+See which genes it can regulate
+
+1756
+01:25:50,000 --> 01:25:53,000
+wait
+
+1757
+01:25:53,000 --> 01:25:56,000
+Then this method can also be extended to
+
+1758
+01:25:56,000 --> 01:25:57,000
+more genes above
+
+1759
+01:25:57,000 --> 01:26:00,000
+That uses some other math
+
+1760
+01:26:00,000 --> 01:26:02,200
+Are these just for reference?
+
+1761
+01:26:04,400 --> 01:26:06,000
+that's in this
+
+1762
+01:26:06,000 --> 01:26:07,600
+ah early words
+
+1763
+01:26:07,900 --> 01:26:09,640
+ah for publication
+
+1764
+01:26:09,640 --> 01:26:12,200
+During the paper period, I went to find some
+
+1765
+01:26:12,200 --> 01:26:14,200
+this on the gene
+
+1766
+01:26:14,200 --> 01:26:15,200
+Information
+
+1767
+01:26:15,200 --> 01:26:16,000
+and found
+
+1768
+01:26:16,140 --> 01:26:17,400
+there is a group
+
+1769
+01:26:18,100 --> 01:26:20,500
+The information can be brought here
+
+1770
+01:26:20,500 --> 01:26:22,200
+do some of this
+
+1771
+01:26:22,600 --> 01:26:25,300
+Ah, the research on human genes
+
+1772
+01:26:25,300 --> 01:26:27,540
+According to that information
+
+1773
+01:26:27,840 --> 01:26:28,440
+ah
+
+1774
+01:26:28,740 --> 01:26:30,340
+At that time, for some reason
+
+1775
+01:26:30,340 --> 01:26:32,540
+Special interest in dementia
+
+1776
+01:26:32,740 --> 01:26:34,440
+then read some books
+
+1777
+01:26:34,440 --> 01:26:35,540
+then just
+
+1778
+01:26:36,040 --> 01:26:37,940
+ah see some of this
+
+1779
+01:26:38,540 --> 01:26:40,840
+major gene
+
+1780
+01:26:40,840 --> 01:26:41,440
+that is
+
+1781
+01:26:41,540 --> 01:26:44,040
+ah on top of this
+
+1782
+01:26:44,040 --> 01:26:46,940
+I just saw some black ones that are called
+
+1783
+01:26:47,540 --> 01:26:49,240
+amino acid beta peptide
+
+1784
+01:26:49,340 --> 01:26:50,540
+this thing is made of
+
+1785
+01:26:50,740 --> 01:26:51,940
+a large protein
+
+1786
+01:26:52,040 --> 01:26:54,940
+After two of this chemical this
+
+1787
+01:26:55,040 --> 01:26:57,040
+Enzyme changes, this
+
+1788
+01:26:57,140 --> 01:26:59,540
+7. I just feel that I can use the lump at the bottom to compare
+
+1789
+01:26:59,640 --> 01:26:59,940
+want
+
+1790
+01:27:00,000 --> 01:27:01,500
+show it
+
+1791
+01:27:01,500 --> 01:27:03,400
+That's the big one
+
+1792
+01:27:03,400 --> 01:27:05,600
+This red part is
+
+1793
+01:27:05,600 --> 01:27:09,400
+This is what caused your brain age
+
+1794
+01:27:09,400 --> 01:27:11,600
+eat the most important ingredient
+
+1795
+01:27:11,600 --> 01:27:15,200
+Then this ingredient needs to be cut by two enzymes
+
+1796
+01:27:15,200 --> 01:27:17,200
+Then one by one
+
+1797
+01:27:17,200 --> 01:27:20,400
+just on the left
+
+1798
+01:27:20,400 --> 01:27:22,600
+Then a knife is on the right
+
+1799
+01:27:22,600 --> 01:27:25,600
+Those two are two different enzymes
+
+1800
+01:27:26,600 --> 01:27:27,900
+good
+
+1801
+01:27:27,900 --> 01:27:30,400
+That
+
+1802
+01:27:30,400 --> 01:27:34,400
+Then the APP’s role in general physiology
+
+1803
+01:27:34,400 --> 01:27:35,800
+Actually it's not clear
+
+1804
+01:27:35,800 --> 01:27:38,800
+Then in 2001
+
+1805
+01:27:38,800 --> 01:27:40,200
+it was me just then
+
+1806
+01:27:40,200 --> 01:27:42,600
+Really like this liquid phone
+
+1807
+01:27:42,600 --> 01:27:44,000
+When I first started researching
+
+1808
+01:27:44,000 --> 01:27:47,800
+This paper just came out
+
+1809
+01:27:47,800 --> 01:27:48,400
+Then what
+
+1810
+01:27:48,400 --> 01:27:50,400
+it's taken from some chemistry experiments
+
+1811
+01:27:50,400 --> 01:27:52,200
+It found this APP?
+
+1812
+01:27:52,200 --> 01:27:55,500
+with these two proteins
+
+1813
+01:27:55,700 --> 01:27:57,900
+were caught together at the same time
+
+1814
+01:27:57,900 --> 01:27:59,100
+They use a
+
+1815
+01:27:59,100 --> 01:28:00,000
+a kind of that
+
+1816
+01:28:00,000 --> 01:28:02,000
+It's like saying you're going to commit a crime first.
+
+1817
+01:28:02,000 --> 01:28:03,000
+he opened the cell
+
+1818
+01:28:03,000 --> 01:28:04,000
+then make some discoveries
+
+1819
+01:28:04,000 --> 01:28:06,000
+found this thing combined with him
+
+1820
+01:28:06,000 --> 01:28:08,000
+This thing is combined with him
+
+1821
+01:28:08,000 --> 01:28:10,000
+if that thing is put together
+
+1822
+01:28:10,000 --> 01:28:12,000
+I would deduce that he should have
+
+1823
+01:28:12,000 --> 01:28:15,000
+Fang Xiong should have related
+
+1824
+01:28:15,000 --> 01:28:17,000
+Fangxiong related words
+
+1825
+01:28:17,000 --> 01:28:19,000
+on the expression of this gene
+
+1826
+01:28:19,000 --> 01:28:21,000
+not necessarily relevant
+
+1827
+01:28:21,000 --> 01:28:23,000
+because i this is my original subject
+
+1828
+01:28:23,000 --> 01:28:25,000
+then he is
+
+1829
+01:28:25,000 --> 01:28:27,000
+Correlation is indeed very little
+
+1830
+01:28:27,000 --> 01:28:28,000
+His correlation is very little
+
+1831
+01:28:28,000 --> 01:28:30,000
+so i say
+
+1832
+01:28:30,000 --> 01:28:32,000
+Then this is EH maybe use liquid
+
+1833
+01:28:32,000 --> 01:28:33,000
+The method learned
+
+1834
+01:28:33,000 --> 01:28:35,000
+So I put this APP
+
+1835
+01:28:35,000 --> 01:28:37,000
+When X and Y are regarded as one of them
+
+1836
+01:28:37,000 --> 01:28:38,000
+Then
+
+1837
+01:28:38,000 --> 01:28:40,000
+Here is the human body
+
+1838
+01:28:40,000 --> 01:28:42,000
+So this whole gold probably
+
+1839
+01:28:42,000 --> 01:28:44,000
+At that time their gold piece
+
+1840
+01:28:44,000 --> 01:28:46,000
+technology limitation
+
+1841
+01:28:46,000 --> 01:28:48,000
+probably made almost ten thousand
+
+1842
+01:28:48,000 --> 01:28:50,000
+So just the same job
+
+1843
+01:28:50,000 --> 01:28:52,000
+one to find those related
+
+1844
+01:28:52,000 --> 01:28:55,000
+first to find this
+
+1845
+01:28:56,000 --> 01:28:58,000
+PSEN
+
+1846
+01:28:58,000 --> 01:29:00,000
+this is the code
+
+1847
+01:29:00,000 --> 01:29:01,000
+this
+
+1848
+01:29:01,000 --> 01:29:03,000
+oops , a little too fast
+
+1849
+01:29:03,000 --> 01:29:04,000
+you want to go back
+
+1850
+01:29:08,000 --> 01:29:11,000
+Sorry, one of them may have been skipped
+
+1851
+01:29:17,000 --> 01:29:19,000
+OK, that one dropped in the second place
+
+1852
+01:29:19,000 --> 01:29:21,000
+That is to say, simply explain
+
+1853
+01:29:21,000 --> 01:29:23,000
+this
+
+1854
+01:29:23,000 --> 01:29:26,000
+what about my result
+
+1855
+01:29:26,000 --> 01:29:28,000
+It's in that very high ranking
+
+1856
+01:29:29,000 --> 01:29:31,000
+just found this
+
+1857
+01:29:31,000 --> 01:29:33,000
+it has related this
+
+1858
+01:29:33,000 --> 01:29:35,000
+PSAN
+
+1859
+01:29:35,000 --> 01:29:36,000
+then this thing is
+
+1860
+01:29:36,000 --> 01:29:38,000
+Gama Security
+
+1861
+01:29:38,000 --> 01:29:40,000
+what about the other one
+
+1862
+01:29:40,000 --> 01:29:42,000
+same, good
+
+1863
+01:29:42,000 --> 01:29:44,000
+This X, that's another
+
+1864
+01:29:44,000 --> 01:29:46,000
+was caught at the same time as it
+
+1865
+01:29:46,000 --> 01:29:48,000
+then go to see
+
+1866
+01:29:48,000 --> 01:29:50,000
+The result you see is this
+
+1867
+01:29:50,000 --> 01:29:52,000
+Base 2, that is
+
+1868
+01:29:52,000 --> 01:29:54,000
+Veta Side's APP
+
+1869
+01:29:54,000 --> 01:29:56,000
+Cricked Entire
+
+1870
+01:29:56,000 --> 01:29:58,000
+Simple explanation, just use this method
+
+1871
+01:29:58,000 --> 01:30:00,000
+it's ingenious
+
+1872
+01:30:00,000 --> 01:30:03,020
+That is, in 10,000 manager heads
+
+1873
+01:30:03,020 --> 01:30:05,160
+Use this XY to find
+
+1874
+01:30:05,160 --> 01:30:07,320
+I found out that it happened to be these two audio loaders.
+
+1875
+01:30:07,320 --> 01:30:09,020
+Its score is very high
+
+1876
+01:30:11,860 --> 01:30:14,620
+And then down here is an app
+
+1877
+01:30:14,620 --> 01:30:16,720
+That's because there is a doctor
+
+1878
+01:30:16,720 --> 01:30:18,560
+I know that at UCL
+
+1879
+01:30:18,560 --> 01:30:19,920
+this postdoc
+
+1880
+01:30:19,920 --> 01:30:21,860
+He is from Human Genetic
+
+1881
+01:30:21,860 --> 01:30:24,460
+he sees these results
+
+1882
+01:30:24,460 --> 01:30:26,400
+he is very interested
+
+1883
+01:30:26,400 --> 01:30:29,460
+So I found his instructor
+
+1884
+01:30:30,000 --> 01:30:32,000
+Come and discuss with me
+
+1885
+01:30:32,000 --> 01:30:34,460
+Then his team is right about this
+
+1886
+01:30:34,460 --> 01:30:36,100
+Multiple Sclerosis
+
+1887
+01:30:36,100 --> 01:30:38,160
+polymorphism
+
+1888
+01:30:38,160 --> 01:30:39,360
+very interested
+
+1889
+01:30:39,360 --> 01:30:40,960
+the european white
+
+1890
+01:30:40,960 --> 01:30:42,960
+This specifies a lot
+
+1891
+01:30:42,960 --> 01:30:47,040
+Then it's a Neuron's this
+
+1892
+01:30:47,040 --> 01:30:49,440
+Simply put, the immune system
+
+1893
+01:30:49,440 --> 01:30:52,700
+this cell that is attacking this nerve
+
+1894
+01:30:52,700 --> 01:30:54,640
+put this outside this
+
+1895
+01:30:54,640 --> 01:30:56,000
+The Mining of the students
+
+1896
+01:30:56,000 --> 01:30:57,500
+persecuted it
+
+1897
+01:30:57,500 --> 01:31:00,040
+so he starts this
+
+1898
+01:31:00,000 --> 01:31:02,700
+there are some scars coming out
+
+1899
+01:31:02,700 --> 01:31:05,500
+Then it recurs after a while
+
+1900
+01:31:05,500 --> 01:31:10,000
+that's usually looking for the gene
+
+1901
+01:31:10,000 --> 01:31:13,500
+Generally, it is the route of Genovice
+
+1902
+01:31:13,500 --> 01:31:16,800
+That is, where do you go to see people doing some Genovice
+
+1903
+01:31:16,800 --> 01:31:21,700
+at that time i was
+
+1904
+01:31:21,700 --> 01:31:23,900
+Learning while doing Liquid
+
+1905
+01:31:23,900 --> 01:31:29,100
+So what is used is a quite different method from ordinary people.
+
+1906
+01:31:29,400 --> 01:31:31,900
+What was used at that time was
+
+1907
+01:31:31,900 --> 01:31:35,600
+This data is completely Geneexpression data
+
+1908
+01:31:35,600 --> 01:31:37,300
+Not this marker data
+
+1909
+01:31:37,300 --> 01:31:38,400
+gene expression data
+
+1910
+01:31:38,400 --> 01:31:40,800
+At the same time, these Geneexpression data
+
+1911
+01:31:40,800 --> 01:31:43,900
+It has nothing to do with this Multiple Sclerosis
+
+1912
+01:31:43,900 --> 01:31:46,200
+this one is
+
+1913
+01:31:46,200 --> 01:31:49,100
+researching this
+
+1914
+01:31:49,100 --> 01:31:51,600
+i-Zen is different from i-C8
+
+1915
+01:31:51,600 --> 01:31:55,000
+Then additionally these data are
+
+1916
+01:31:55,000 --> 01:31:58,900
+looking at the different organs of the body
+
+1917
+01:31:58,900 --> 01:32:00,100
+expression of these genes
+
+1918
+01:32:00,000 --> 01:32:02,000
+how to be different
+
+1919
+01:32:02,000 --> 01:32:07,000
+These data are completely unrelated to Multiple
+
+1920
+01:32:07,000 --> 01:32:11,000
+And what about the MVP?
+
+1921
+01:32:11,000 --> 01:32:12,000
+is a gene
+
+1922
+01:32:12,000 --> 01:32:14,000
+it is
+
+1923
+01:32:14,000 --> 01:32:18,000
+It is the cell in this Mining
+
+1924
+01:32:18,000 --> 01:32:20,000
+In the outer layer of nerve cells, there are many manifestations
+
+1925
+01:32:20,000 --> 01:32:22,000
+So it's a very important Proton
+
+1926
+01:32:22,000 --> 01:32:24,000
+So take it as X
+
+1927
+01:32:24,000 --> 01:32:25,000
+what is Y
+
+1928
+01:32:25,000 --> 01:32:28,000
+Y is provided by our collaborators
+
+1929
+01:32:28,000 --> 01:32:30,000
+They were very interested in this gene at the time
+
+1930
+01:32:30,000 --> 01:32:34,000
+Because they are this difficult TIN
+
+1931
+01:32:34,000 --> 01:32:35,000
+where he found
+
+1932
+01:32:35,000 --> 01:32:39,000
+After some genetics above this Typing
+
+1933
+01:32:39,000 --> 01:32:46,000
+It was found that this gene is likely to be related to this Multiple Sclerosis
+
+1934
+01:32:46,000 --> 01:32:48,000
+So he just provided the gene
+
+1935
+01:32:48,000 --> 01:32:49,000
+and this gene
+
+1936
+01:32:49,000 --> 01:32:53,000
+Then the rest is our bioinformatics method
+
+1937
+01:32:53,000 --> 01:32:55,000
+find these information
+
+1938
+01:32:55,000 --> 01:32:56,000
+Then some with Liquid's hands
+
+1939
+01:32:56,000 --> 01:33:00,000
+Then I found this gene in the second place early in the morning
+
+1940
+01:33:00,000 --> 01:33:01,280
+Then use this gene
+
+1941
+01:33:01,540 --> 01:33:04,100
+And do liquid association with this gene
+
+1942
+01:33:04,360 --> 01:33:05,120
+is xy
+
+1943
+01:33:05,380 --> 01:33:06,140
+find it related
+
+1944
+01:33:06,400 --> 01:33:07,420
+Find a lot more
+
+1945
+01:33:07,680 --> 01:33:08,700
+According to different data
+
+1946
+01:33:08,960 --> 01:33:11,260
+This way you get a table
+
+1947
+01:33:11,520 --> 01:33:12,540
+Most importantly, this gene
+
+1948
+01:33:12,800 --> 01:33:13,820
+the word of the gene
+
+1949
+01:33:14,080 --> 01:33:17,160
+Our collaborator is very interested
+
+1950
+01:33:17,660 --> 01:33:20,220
+because they were doing a
+
+1951
+01:33:20,740 --> 01:33:21,500
+Research
+
+1952
+01:33:21,760 --> 01:33:23,040
+The gene itself is interesting
+
+1953
+01:33:23,300 --> 01:33:24,320
+Because it is Glutamate
+
+1954
+01:33:24,580 --> 01:33:25,600
+Glutamate is a
+
+1955
+01:33:25,860 --> 01:33:27,400
+neurotransmitter
+
+1956
+01:33:28,120 --> 01:33:29,180
+it's very important
+
+1957
+01:33:29,440 --> 01:33:32,260
+This gene is specialized in this neurotransmitter
+
+1958
+01:33:32,520 --> 01:33:35,840
+A very important thing that is sent from the inside of the cell to the outside
+
+1959
+01:33:36,360 --> 01:33:37,140
+this
+
+1960
+01:33:37,400 --> 01:33:38,400
+protein
+
+1961
+01:33:39,940 --> 01:33:41,220
+OK this
+
+1962
+01:33:41,480 --> 01:33:42,240
+because
+
+1963
+01:33:42,500 --> 01:33:44,560
+sorry this is barely watchable
+
+1964
+01:33:45,320 --> 01:33:47,120
+Because I'm using MaconTosh
+
+1965
+01:33:47,380 --> 01:33:50,440
+Every time you turn to this, it turns like this
+
+1966
+01:33:50,700 --> 01:33:51,720
+of course it doesn't matter
+
+1967
+01:33:51,980 --> 01:33:54,280
+These incomprehensible things
+
+1968
+01:33:54,480 --> 01:33:58,320
+In fact, it was my team who did Gino typing
+
+1969
+01:33:58,580 --> 01:33:59,360
+found this
+
+1970
+01:34:00,000 --> 01:34:02,780
+there is an association
+
+1971
+01:34:03,340 --> 01:34:04,100
+But what?
+
+1972
+01:34:04,100 --> 01:34:07,180
+The problem is because they use too little data
+
+1973
+01:34:07,180 --> 01:34:08,620
+Only about 300
+
+1974
+01:34:08,620 --> 01:34:11,020
+So we are publish wanting to publish
+
+1975
+01:34:11,020 --> 01:34:13,300
+So referee told us to do more
+
+1976
+01:34:13,820 --> 01:34:14,860
+That
+
+1977
+01:34:15,620 --> 01:34:18,580
+Because of this personnel, resources are limited
+
+1978
+01:34:18,580 --> 01:34:20,480
+so we didn't go ahead
+
+1979
+01:34:20,740 --> 01:34:21,760
+But what?
+
+1980
+01:34:22,020 --> 01:34:24,980
+It happens to be a gift that fell from the sky
+
+1981
+01:34:24,980 --> 01:34:26,100
+just in
+
+1982
+01:34:27,380 --> 01:34:29,440
+In 2007
+
+1983
+01:34:30,160 --> 01:34:32,240
+在 New England Journal of Medicine
+
+1984
+01:34:32,240 --> 01:34:34,000
+There is an article like this
+
+1985
+01:34:34,000 --> 01:34:36,300
+this is a very large
+
+1986
+01:34:36,300 --> 01:34:38,240
+generalized study
+
+1987
+01:34:38,240 --> 01:34:39,280
+he used
+
+1988
+01:34:39,280 --> 01:34:43,940
+There are about 12,360 subjects
+
+1989
+01:34:44,340 --> 01:34:47,080
+There are 609 family to you etc.
+
+1990
+01:34:47,080 --> 01:34:48,840
+very large and is
+
+1991
+01:34:48,840 --> 01:34:51,340
+Cross-centre and transnational cooperation
+
+1992
+01:34:51,340 --> 01:34:54,840
+They use this generalized association method
+
+1993
+01:34:54,840 --> 01:34:56,800
+Find the two most important experiences
+
+1994
+01:34:56,800 --> 01:35:00,320
+One is IL-2R and the other is IL-7
+
+1995
+01:35:00,000 --> 01:35:00,500
+ah
+
+1996
+01:35:01,500 --> 01:35:02,700
+Then I see iOS 11
+
+1997
+01:35:02,700 --> 01:35:04,800
+This thing seems familiar
+
+1998
+01:35:06,500 --> 01:35:09,100
+I'll go back and have a look
+
+1999
+01:35:11,600 --> 01:35:14,600
+Hey, if you look at it, this iOS 11A you look at here
+
+2000
+01:35:15,100 --> 01:35:19,140
+So from this totally unrelated genics
+
+2001
+01:35:19,140 --> 01:35:20,100
+Franchon data
+
+2002
+01:35:20,400 --> 01:35:22,600
+Through this and this Genex
+
+2003
+01:35:22,600 --> 01:35:23,800
+so go find this
+
+2004
+01:35:24,200 --> 01:35:26,900
+Then this item is already in referring’s hands
+
+2005
+01:35:26,900 --> 01:35:28,200
+So we just write a letter saying
+
+2006
+01:35:28,600 --> 01:35:30,500
+that this
+
+2007
+01:35:31,100 --> 01:35:32,200
+find is
+
+2008
+01:35:32,800 --> 01:35:34,400
+New England Journal of Medicine
+
+2009
+01:35:34,900 --> 01:35:37,300
+The gene found in the magazine is our gene
+
+2010
+01:35:38,100 --> 01:35:41,100
+So this will be unlocked soon
+
+2011
+01:35:41,100 --> 01:35:41,800
+actually
+
+2012
+01:35:43,100 --> 01:35:45,000
+story behind that is
+
+2013
+01:35:45,400 --> 01:35:46,300
+at this
+
+2014
+01:35:46,900 --> 01:35:49,800
+There is a marker near our gene
+
+2015
+01:35:50,500 --> 01:35:53,000
+Use their data with this generalized data
+
+2016
+01:35:53,100 --> 01:35:55,600
+look this his this
+
+2017
+01:35:56,000 --> 01:35:56,900
+Lot score
+
+2018
+01:35:57,000 --> 01:35:59,000
+His significance is in fact
+
+2019
+01:35:59,400 --> 01:36:00,200
+better than this
+
+2020
+01:36:00,000 --> 01:36:03,360
+This I-L7R is still high
+
+2021
+01:36:03,360 --> 01:36:05,840
+It means more significant
+
+2022
+01:36:05,840 --> 01:36:06,640
+at the same time
+
+2023
+01:36:06,640 --> 01:36:08,400
+What about the two GINs?
+
+2024
+01:36:08,400 --> 01:36:10,040
+actually very close
+
+2025
+01:36:10,040 --> 01:36:13,160
+This is the I-L7R
+
+2026
+01:36:13,160 --> 01:36:16,720
+With this SL C1S
+
+2027
+01:36:16,720 --> 01:36:18,760
+actually very close
+
+2028
+01:36:18,760 --> 01:36:20,400
+So what about this paper?
+
+2029
+01:36:20,400 --> 01:36:21,400
+it's easy to accept
+
+2030
+01:36:21,400 --> 01:36:23,600
+But here
+
+2031
+01:36:23,600 --> 01:36:26,040
+One thing this Person is complaining about
+
+2032
+01:36:26,040 --> 01:36:28,080
+Actually this I-L7R
+
+2033
+01:36:28,080 --> 01:36:30,200
+I'll go back and check
+
+2034
+01:36:30,200 --> 01:36:31,680
+Because the sound is very deep
+
+2035
+01:36:31,680 --> 01:36:33,280
+Just check my E-mail
+
+2036
+01:36:33,280 --> 01:36:37,280
+I sent my Corelibrator in an e-mail
+
+2037
+01:36:37,280 --> 01:36:39,040
+In fact, there is a special mention of this
+
+2038
+01:36:39,040 --> 01:36:40,040
+I tell everyone yes
+
+2039
+01:36:40,040 --> 01:36:42,360
+Between this GIN and this GIN
+
+2040
+01:36:42,360 --> 01:36:44,560
+very short gap
+
+2041
+01:36:44,560 --> 01:36:46,480
+Then this is also very important GIN
+
+2042
+01:36:46,480 --> 01:36:48,720
+can they do something
+
+2043
+01:36:48,720 --> 01:36:51,160
+This Validation and the like
+
+2044
+01:36:51,160 --> 01:36:53,360
+but they didn't do it
+
+2045
+01:36:53,360 --> 01:36:55,520
+The reason is because of that E-mail
+
+2046
+01:36:55,520 --> 01:36:57,280
+Bounced back
+
+2047
+01:36:57,320 --> 01:36:59,320
+they didn't send out at all
+
+2048
+01:36:59,320 --> 01:37:00,080
+so this
+
+2049
+01:37:00,000 --> 01:37:04,040
+But he might not be able to do it even if they are the same generation.
+
+2050
+01:37:04,040 --> 01:37:07,440
+because the words here
+
+2051
+01:37:07,440 --> 01:37:10,640
+Sometimes it's later
+
+2052
+01:37:10,640 --> 01:37:15,760
+We still have a project that is working on this new era
+
+2053
+01:37:15,760 --> 01:37:17,160
+It is solid playful
+
+2054
+01:37:17,160 --> 01:37:17,960
+what about here
+
+2055
+01:37:17,960 --> 01:37:20,080
+There is more information involved
+
+2056
+01:37:20,080 --> 01:37:21,800
+We do Geneexpression probably
+
+2057
+01:37:21,800 --> 01:37:24,600
+Get the sneeper array of 30,000 Gene
+
+2058
+01:37:24,600 --> 01:37:26,240
+like this next generation
+
+2059
+01:37:26,240 --> 01:37:28,960
+Its output this data output is
+
+2060
+01:37:29,200 --> 01:37:30,760
+200 MacBits and more
+
+2061
+01:37:30,760 --> 01:37:33,000
+This is a very large data
+
+2062
+01:37:33,000 --> 01:37:36,520
+So behind this needs a big ID team to do it
+
+2063
+01:37:36,520 --> 01:37:38,680
+Then we have some computer
+
+2064
+01:37:38,680 --> 01:37:42,480
+use some of this
+
+2065
+01:37:42,480 --> 01:37:45,760
+Through some clusters and so on
+
+2066
+01:37:45,760 --> 01:37:47,400
+do something like this
+
+2067
+01:37:47,400 --> 01:37:50,640
+Then we also have a very good note
+
+2068
+01:37:50,640 --> 01:37:52,880
+he may not be here
+
+2069
+01:37:52,880 --> 01:37:54,600
+but he designs
+
+2070
+01:37:54,600 --> 01:37:57,760
+The most important thing is to hope that here can
+
+2071
+01:37:57,760 --> 01:38:00,000
+through some information
+
+2072
+01:38:00,000 --> 01:38:01,200
+Accidents that can happen automatically
+
+2073
+01:38:01,440 --> 01:38:04,120
+Because what we often encounter when dealing with these problems is
+
+2074
+01:38:04,440 --> 01:38:05,880
+you do something today
+
+2075
+01:38:05,880 --> 01:38:06,920
+do something tomorrow
+
+2076
+01:38:06,920 --> 01:38:08,800
+If there is no system
+
+2077
+01:38:08,800 --> 01:38:10,400
+error prone
+
+2078
+01:38:11,040 --> 01:38:13,520
+If this error occurs, it will affect many
+
+2079
+01:38:13,520 --> 01:38:14,960
+so everything
+
+2080
+01:38:15,240 --> 01:38:17,520
+We're all about wanting to be able to
+
+2081
+01:38:17,600 --> 01:38:18,200
+online
+
+2082
+01:38:18,480 --> 01:38:20,000
+Can use online code to get it out
+
+2083
+01:38:20,600 --> 01:38:22,240
+If you are right, you will always be right
+
+2084
+01:38:22,240 --> 01:38:24,040
+If you are wrong, of course you will always be wrong
+
+2085
+01:38:24,280 --> 01:38:26,640
+So you have to be very, very careful when you first start
+
+2086
+01:38:27,120 --> 01:38:29,400
+After that, it doesn't matter
+
+2087
+01:38:29,560 --> 01:38:31,680
+Today is this person's operation, tomorrow is that operation
+
+2088
+01:38:31,680 --> 01:38:32,960
+you won't have
+
+2089
+01:38:33,360 --> 01:38:35,520
+This information will be passed on
+
+2090
+01:38:36,760 --> 01:38:37,800
+generate some errors
+
+2091
+01:38:39,280 --> 01:38:40,360
+so information
+
+2092
+01:38:41,160 --> 01:38:43,920
+Engineering talents help our lab a lot
+
+2093
+01:38:45,200 --> 01:38:49,000
+Then I want to end with this thing
+
+2094
+01:38:50,120 --> 01:38:51,880
+in 2004
+
+2095
+01:38:52,480 --> 01:38:53,640
+this
+
+2096
+01:38:53,960 --> 01:38:55,840
+Professor Joe Cohen
+
+2097
+01:38:56,400 --> 01:38:57,160
+he is
+
+2098
+01:38:57,240 --> 01:38:58,760
+one of rockfellow
+
+2099
+01:38:58,920 --> 01:39:00,120
+very famous population
+
+2100
+01:39:00,000 --> 01:39:02,380
+Professor of Genetics
+
+2101
+01:39:02,380 --> 01:39:04,300
+He wrote articles like this
+
+2102
+01:39:04,300 --> 01:39:05,900
+The picture itself is very obvious
+
+2103
+01:39:05,900 --> 01:39:06,800
+Mathematics is
+
+2104
+01:39:06,800 --> 01:39:09,900
+biologist's next microscope only better
+
+2105
+01:39:09,900 --> 01:39:13,500
+biologist's mathematics next physics only better
+
+2106
+01:39:13,500 --> 01:39:15,200
+that means yes
+
+2107
+01:39:15,200 --> 01:39:16,900
+in biology
+
+2108
+01:39:16,900 --> 01:39:18,900
+Is it a problem in many trees?
+
+2109
+01:39:18,900 --> 01:39:20,100
+are developing
+
+2110
+01:39:20,100 --> 01:39:21,900
+After that, there will be more and more business
+
+2111
+01:39:21,900 --> 01:39:26,700
+So this is a pretty important direction
+
+2112
+01:39:27,600 --> 01:39:29,600
+That
+
+2113
+01:39:30,600 --> 01:39:31,800
+Almost over
+
+2114
+01:39:31,800 --> 01:39:33,500
+Then this liquid association
+
+2115
+01:39:33,500 --> 01:39:36,100
+Here is a profile from this creature
+
+2116
+01:39:36,100 --> 01:39:37,600
+Concepts developed
+
+2117
+01:39:37,600 --> 01:39:40,400
+Can it be used in other contacts?
+
+2118
+01:39:40,400 --> 01:39:42,400
+I'm sure there are many places to use
+
+2119
+01:39:42,400 --> 01:39:46,400
+Actually, I told my daughter before
+
+2120
+01:39:46,400 --> 01:39:48,700
+I want to explain what this liquid association is
+
+2121
+01:39:48,700 --> 01:39:51,600
+Just think about your relationship with your friends
+
+2122
+01:39:51,600 --> 01:39:52,500
+good relationship sometimes
+
+2123
+01:39:52,500 --> 01:39:54,500
+That's like repository creation
+
+2124
+01:39:54,500 --> 01:39:56,400
+but when you're in a bad mood
+
+2125
+01:39:56,500 --> 01:39:58,300
+The machinery is broken
+
+2126
+01:39:58,300 --> 01:40:00,000
+Then your relationship with him may be
+
+2127
+01:40:00,000 --> 01:40:03,000
+So your positive negative
+
+2128
+01:40:03,000 --> 01:40:05,000
+Does it change with your mood or how?
+
+2129
+01:40:05,000 --> 01:40:07,000
+Sometimes it will be positive and sometimes it will be negative
+
+2130
+01:40:07,000 --> 01:40:09,000
+look at it from another angle
+
+2131
+01:40:09,000 --> 01:40:10,000
+look at another question
+
+2132
+01:40:10,000 --> 01:40:13,000
+It should be a few days from now
+
+2133
+01:40:13,000 --> 01:40:15,000
+Many people may have to take the exam
+
+2134
+01:40:15,000 --> 01:40:17,000
+Then you see from the exam
+
+2135
+01:40:17,000 --> 01:40:20,000
+Your preparation time and your grade
+
+2136
+01:40:20,000 --> 01:40:22,000
+Is it effective?
+
+2137
+01:40:22,000 --> 01:40:24,000
+You may talk to your children, friends
+
+2138
+01:40:24,000 --> 01:40:25,000
+noisy for a long time
+
+2139
+01:40:25,000 --> 01:40:26,000
+Sometimes it works
+
+2140
+01:40:26,000 --> 01:40:27,000
+Sometimes it doesn't work
+
+2141
+01:40:27,000 --> 01:40:29,000
+The more you prepare, of course the grades will come.
+
+2142
+01:40:29,000 --> 01:40:31,000
+I have been preparing for half a day
+
+2143
+01:40:31,000 --> 01:40:34,000
+But these many different backgrounds
+
+2144
+01:40:34,000 --> 01:40:36,000
+For example, a state of health
+
+2145
+01:40:36,000 --> 01:40:38,000
+If you say you are in good spirits
+
+2146
+01:40:38,000 --> 01:40:40,000
+you are of course very effective
+
+2147
+01:40:40,000 --> 01:40:42,000
+The more you prepare, the better your grades
+
+2148
+01:40:42,000 --> 01:40:43,000
+then your health is not good
+
+2149
+01:40:43,000 --> 01:40:44,000
+you have been sick
+
+2150
+01:40:44,000 --> 01:40:47,000
+Then you'll be wasting your time if you're ready.
+
+2151
+01:40:47,000 --> 01:40:49,000
+Then maybe there is no correlation
+
+2152
+01:40:49,000 --> 01:40:51,000
+or have cross-correlation
+
+2153
+01:40:51,000 --> 01:40:53,000
+So this idea that liquid has learned
+
+2154
+01:40:53,000 --> 01:40:55,000
+is actually quite common
+
+2155
+01:40:55,000 --> 01:40:58,000
+almost in personal life
+
+2156
+01:40:58,000 --> 01:41:00,000
+He can use various
+
+2157
+01:41:00,000 --> 01:41:03,000
+This data, its calculation method is also very simple
+
+2158
+01:41:03,000 --> 01:41:06,000
+In that regard, I think this
+
+2159
+01:41:06,000 --> 01:41:11,000
+Basically the relationship between these two variables
+
+2160
+01:41:11,000 --> 01:41:14,000
+In fact, is it forever?
+
+2161
+01:41:14,000 --> 01:41:18,000
+then i want to carry the message here
+
+2162
+01:41:18,000 --> 01:41:19,000
+OK everybody
+
+2163
+01:41:19,000 --> 01:41:21,000
+That's some relevant information
+
+2164
+01:41:21,000 --> 01:41:24,000
+If you are interested, go and see
+
+2165
+01:41:24,000 --> 01:41:27,000
+Then I want to thank some past colleagues
+
+2166
+01:41:27,000 --> 01:41:32,000
+And then there are colleagues who are currently working on this
+
+2167
+01:41:32,000 --> 01:41:36,000
+And this Haida team
+
+2168
+01:41:36,000 --> 01:41:40,000
+There is also this Director of Combat Skills who can turn around in the sea
+
+2169
+01:41:40,000 --> 01:41:42,000
+And provide us with a lot of information
+
+2170
+01:41:42,000 --> 01:41:44,000
+ok thank you everyone
+
+2171
+01:41:45,000 --> 01:41:46,000
+Thanks
+
+2172
+01:41:56,000 --> 01:41:58,000
+What's your problem?
+
+2173
+01:42:00,000 --> 01:42:15,040
+I would like to ask a question, now we are making the entire genetic line of the wedding paper in Taiwan
+
+2174
+01:42:15,040 --> 01:42:21,460
+Came to find this Target Drog Dachanghai seems to have a special achievement
+
+2175
+01:42:21,460 --> 01:42:27,020
+But the cost is very high, and health insurance costs more than 20,000 yuan
+
+2176
+01:42:27,360 --> 01:42:33,420
+I think this will have a relatively stable price in the future around your research journal
+
+2177
+01:42:33,420 --> 01:42:35,720
+or expand to other cancers
+
+2178
+01:42:36,220 --> 01:42:39,320
+I think you may be asking the wrong person.
+
+2179
+01:42:39,320 --> 01:42:42,880
+Because we do statistics, I can't help
+
+2180
+01:42:42,880 --> 01:42:48,520
+I guess our job is to help people who develop
+
+2181
+01:42:48,520 --> 01:42:53,380
+Then maybe be able to find a more effective marker
+
+2182
+01:42:53,380 --> 01:42:55,940
+If you only need the proper information
+
+2183
+01:42:55,940 --> 01:43:00,300
+If those markers say that elder brother lost
+
+2184
+01:43:00,000 --> 01:43:02,300
+not much and very effective
+
+2185
+01:43:02,300 --> 01:43:06,900
+In fact, its price should be much lower than that of
+
+2186
+01:43:06,900 --> 01:43:09,000
+so this is
+
+2187
+01:43:09,000 --> 01:43:11,000
+Eventure will also have
+
+2188
+01:43:11,000 --> 01:43:13,300
+The ultimate goal, of course
+
+2189
+01:43:13,300 --> 01:43:16,140
+The whole method should be quite civilian
+
+2190
+01:43:16,140 --> 01:43:19,960
+So these things like genetic testing are still
+
+2191
+01:43:19,960 --> 01:43:23,800
+the future is if it really works really
+
+2192
+01:43:25,100 --> 01:43:28,400
+It's really easy to promote
+
+2193
+01:43:28,400 --> 01:43:32,240
+Must be pretty cheap when mass produced
+
+2194
+01:43:32,240 --> 01:43:36,840
+like i just mentioned
+
+2195
+01:43:36,840 --> 01:43:39,400
+EGFR Mutation on lung cancer
+
+2196
+01:43:39,400 --> 01:43:42,240
+Now I listen to that Professor Yang
+
+2197
+01:43:42,240 --> 01:43:45,300
+You have been judged as lung adenocarcinoma
+
+2198
+01:43:45,300 --> 01:43:49,900
+Especially if you are a gland, you will definitely make one like this
+
+2199
+01:43:49,900 --> 01:43:50,940
+Pest
+
+2200
+01:43:50,940 --> 01:43:52,460
+EGFR TEST
+
+2201
+01:43:52,460 --> 01:43:56,040
+Because there are already medicines over there that can target this aspect
+
+2202
+01:43:56,040 --> 01:43:59,880
+Then our current work is mainly aimed at
+
+2203
+01:44:00,000 --> 01:44:04,000
+Of course that medicine is effective, but not everyone is effective
+
+2204
+01:44:04,000 --> 01:44:06,000
+still some people are bad
+
+2205
+01:44:06,000 --> 01:44:08,000
+Now it's just the gas meter
+
+2206
+01:44:08,000 --> 01:44:10,000
+He wants more than 20,000 yuan
+
+2207
+01:44:10,000 --> 01:44:13,000
+Just look for that gene's calmness
+
+2208
+01:44:13,000 --> 01:44:16,000
+Calm down, I don't know about the holidays
+
+2209
+01:44:16,000 --> 01:44:18,000
+Thank you
+
+2210
+01:44:24,000 --> 01:44:26,000
+Hello, Professor, I would like to ask
+
+2211
+01:44:26,000 --> 01:44:28,000
+Questions about experiments
+
+2212
+01:44:28,000 --> 01:44:31,000
+Professor, I just said that liquid sometimes learns to choose
+
+2213
+01:44:31,000 --> 01:44:35,000
+The professor mentioned that he needs many conditions
+
+2214
+01:44:35,000 --> 01:44:39,000
+That Error to find out the Target
+
+2215
+01:44:39,000 --> 01:44:41,000
+Well, I have two questions
+
+2216
+01:44:41,000 --> 01:44:45,000
+One is to say how many conditions are needed to do this
+
+2217
+01:44:45,000 --> 01:44:47,000
+Then there is the second question
+
+2218
+01:44:47,000 --> 01:44:49,000
+like this is to do it yourself
+
+2219
+01:44:49,000 --> 01:44:51,000
+Or is there some online
+
+2220
+01:44:51,000 --> 01:44:55,000
+It may be that someone else shares it for analysis.
+
+2221
+01:44:55,000 --> 01:44:58,000
+i think that
+
+2222
+01:44:58,000 --> 01:45:00,000
+in two programs
+
+2223
+01:45:00,000 --> 01:45:02,600
+One is to tell you how to do it
+
+2224
+01:45:03,600 --> 01:45:07,000
+When can some interesting results be found
+
+2225
+01:45:07,000 --> 01:45:09,800
+Or the results that are believed in by statistics
+
+2226
+01:45:09,800 --> 01:45:11,400
+How much condition does this need
+
+2227
+01:45:12,100 --> 01:45:14,900
+This depends on your liquid itself first
+
+2228
+01:45:14,900 --> 01:45:17,500
+About the size of your earring
+
+2229
+01:45:17,500 --> 01:45:20,200
+If it is a student of Liquid, his strength is very high
+
+2230
+01:45:20,400 --> 01:45:23,800
+Then the conditions you need will not be very big
+
+2231
+01:45:23,800 --> 01:45:26,300
+Then we did an analysis before
+
+2232
+01:45:26,300 --> 01:45:28,700
+About the same number of conditions
+
+2233
+01:45:28,700 --> 01:45:32,400
+Probably around 50 or so
+
+2234
+01:45:32,400 --> 01:45:33,900
+If the fifth is
+
+2235
+01:45:34,000 --> 01:45:38,100
+Roughly the results obtained are statistically
+
+2236
+01:45:38,100 --> 01:45:41,900
+Probably none that reaches a certain level of salience
+
+2237
+01:45:42,200 --> 01:45:43,700
+this is this one
+
+2238
+01:45:43,700 --> 01:45:46,200
+According to our semiation study
+
+2239
+01:45:47,500 --> 01:45:52,100
+Is it possible to use the data of this public domain
+
+2240
+01:45:52,500 --> 01:45:54,100
+my answer is yes
+
+2241
+01:45:54,100 --> 01:45:57,200
+Because the first one is useless
+
+2242
+01:45:57,200 --> 01:46:00,200
+With the lady over there, you can get it out and you can
+
+2243
+01:46:00,000 --> 01:46:01,400
+some relationships can be found
+
+2244
+01:46:01,400 --> 01:46:05,400
+and then further confirm
+
+2245
+01:46:05,400 --> 01:46:08,600
+that in fact we are
+
+2246
+01:46:08,600 --> 01:46:12,300
+like the examples I just gave
+
+2247
+01:46:12,300 --> 01:46:13,900
+is an example of Multiple Squares
+
+2248
+01:46:13,900 --> 01:46:17,400
+That's exactly Public Domain stuff
+
+2249
+01:46:17,400 --> 01:46:21,100
+at the same time
+
+2250
+01:46:21,100 --> 01:46:25,200
+Now maybe your own personal laboratory
+
+2251
+01:46:25,200 --> 01:46:26,600
+Take some data yourself
+
+2252
+01:46:26,600 --> 01:46:28,100
+that amount may not be much
+
+2253
+01:46:28,600 --> 01:46:31,000
+Then you can find some examples of genes
+
+2254
+01:46:31,000 --> 01:46:33,000
+Moderators can go further with these little experiments
+
+2255
+01:46:33,000 --> 01:46:34,500
+I found several genes
+
+2256
+01:46:34,500 --> 01:46:37,000
+Then you have to go further
+
+2257
+01:46:37,000 --> 01:46:40,600
+Go and see the genes related to the influence of these genes
+
+2258
+01:46:40,600 --> 01:46:44,700
+You can go to the Internet to look up more information about this performance
+
+2259
+01:46:44,700 --> 01:46:45,900
+Then through this method
+
+2260
+01:46:45,900 --> 01:46:47,000
+come with SIMELE
+
+2261
+01:46:47,000 --> 01:46:49,400
+Students who use Corealization or Request
+
+2262
+01:46:49,400 --> 01:46:52,000
+In fact, our lab uses both
+
+2263
+01:46:52,000 --> 01:46:55,800
+Then you can get some more information
+
+2264
+01:46:55,800 --> 01:46:56,700
+then bring it back
+
+2265
+01:46:56,700 --> 01:47:00,000
+Then you can take your experiment a step further
+
+2266
+01:47:00,000 --> 01:47:02,740
+So these are auxiliary
+
+2267
+01:47:02,740 --> 01:47:04,100
+or tools
+
+2268
+01:47:08,720 --> 01:47:11,020
+Hello teacher, thank you for your lecture
+
+2269
+01:47:11,020 --> 01:47:12,360
+i want to ask
+
+2270
+01:47:12,360 --> 01:47:14,860
+When using liquid association
+
+2271
+01:47:14,860 --> 01:47:17,600
+There are a lot of situations coming out
+
+2272
+01:47:17,600 --> 01:47:18,840
+but i think
+
+2273
+01:47:18,840 --> 01:47:20,000
+According to what you just said
+
+2274
+01:47:20,000 --> 01:47:22,140
+It seems that there are at least three situations
+
+2275
+01:47:22,140 --> 01:47:24,140
+Positively correlated positively correlated with each other
+
+2276
+01:47:24,140 --> 01:47:26,120
+Of course if this
+
+2277
+01:47:26,120 --> 01:47:27,740
+positive correlation and positive correlation
+
+2278
+01:47:27,740 --> 01:47:29,040
+There are also positive correlations with each other
+
+2279
+01:47:29,040 --> 01:47:31,040
+or the one of omniscience and interrelationship
+
+2280
+01:47:31,040 --> 01:47:32,440
+If the demarcation point is not adjusted properly
+
+2281
+01:47:32,440 --> 01:47:34,440
+In fact, the data is still messy
+
+2282
+01:47:34,440 --> 01:47:35,840
+That
+
+2283
+01:47:35,840 --> 01:47:37,840
+At the beginning of the research
+
+2284
+01:47:37,840 --> 01:47:41,080
+For example, how did the professor find out
+
+2285
+01:47:41,080 --> 01:47:42,580
+How to cut those states
+
+2286
+01:47:42,580 --> 01:47:43,920
+OK
+
+2287
+01:47:43,920 --> 01:47:46,640
+the cutting words
+
+2288
+01:47:46,640 --> 01:47:49,680
+because our theory is
+
+2289
+01:47:49,680 --> 01:47:51,380
+no need to cut
+
+2290
+01:47:51,380 --> 01:47:53,340
+we're thinking of it as this
+
+2291
+01:47:53,340 --> 01:47:55,540
+state is a continuous state
+
+2292
+01:47:55,540 --> 01:47:57,780
+Then through some calculus methods
+
+2293
+01:47:57,820 --> 01:47:59,420
+go get it out
+
+2294
+01:47:59,420 --> 01:47:59,920
+so
+
+2295
+01:48:00,000 --> 01:48:03,400
+It's not that it's OK, I'll cut to this side, to this side
+
+2296
+01:48:03,400 --> 01:48:04,500
+then compare
+
+2297
+01:48:04,500 --> 01:48:05,300
+That is
+
+2298
+01:48:05,900 --> 01:48:08,400
+I originally thought the same way
+
+2299
+01:48:08,700 --> 01:48:10,700
+But want to say like you just said
+
+2300
+01:48:10,700 --> 01:48:12,800
+Then I have to cut 50%
+
+2301
+01:48:12,800 --> 01:48:14,400
+or 30%
+
+2302
+01:48:14,400 --> 01:48:15,500
+how is it possible
+
+2303
+01:48:15,500 --> 01:48:17,300
+Every gene is different
+
+2304
+01:48:17,300 --> 01:48:19,300
+Well, that's actually what we saw in the end.
+
+2305
+01:48:19,600 --> 01:48:21,900
+so that's why this
+
+2306
+01:48:21,900 --> 01:48:22,500
+Well
+
+2307
+01:48:22,800 --> 01:48:23,800
+do some math with words
+
+2308
+01:48:23,800 --> 01:48:25,800
+There are always some people whose problem is
+
+2309
+01:48:25,800 --> 01:48:26,700
+oops
+
+2310
+01:48:26,700 --> 01:48:28,800
+Although uh intuitive
+
+2311
+01:48:29,000 --> 01:48:31,700
+It is easier to think about it with this discrete method
+
+2312
+01:48:31,700 --> 01:48:35,200
+But doing the math above is to think of it as a continuous
+
+2313
+01:48:35,400 --> 01:48:36,200
+will be easier
+
+2314
+01:48:36,200 --> 01:48:38,300
+So here, the whole sear
+
+2315
+01:48:38,300 --> 01:48:40,100
+this definition of mathematics
+
+2316
+01:48:40,200 --> 01:48:42,900
+is to use an assumption to say that this change
+
+2317
+01:48:42,900 --> 01:48:45,700
+In fact, the change of state is a continuous change
+
+2318
+01:48:45,700 --> 01:48:47,700
+Then it has normal discretion
+
+2319
+01:48:48,000 --> 01:48:51,400
+Then through a lema called a stine
+
+2320
+01:48:51,900 --> 01:48:53,100
+that's professor of stine fire
+
+2321
+01:48:53,100 --> 01:48:54,100
+then he does some
+
+2322
+01:48:54,500 --> 01:48:55,600
+uh director
+
+2323
+01:48:55,600 --> 01:48:58,400
+And then at the end of the day to quit that simple company
+
+2324
+01:48:58,400 --> 01:49:00,200
+and then to the last words
+
+2325
+01:49:00,000 --> 01:49:03,900
+Then find out how to cut this gene
+
+2326
+01:49:03,900 --> 01:49:05,300
+that's easier
+
+2327
+01:49:05,300 --> 01:49:07,500
+You can try it with
+
+2328
+01:49:07,500 --> 01:49:11,200
+We are on our computing workstation
+
+2329
+01:49:11,200 --> 01:49:13,300
+On the Internet, we do two ways
+
+2330
+01:49:13,300 --> 01:49:15,900
+One is to use the Maxmolecular method
+
+2331
+01:49:15,900 --> 01:49:17,700
+The other is to use Discrete
+
+2332
+01:49:17,700 --> 01:49:19,200
+directly to calculate
+
+2333
+01:49:26,200 --> 01:49:28,100
+Director Li's speech is wonderful
+
+2334
+01:49:28,500 --> 01:49:30,400
+i meet you after the afternoon
+
+2335
+01:49:30,400 --> 01:49:32,900
+Won't go there again...
+
+2336
+01:49:32,900 --> 01:49:35,000
+run away
+
+2337
+01:49:35,000 --> 01:49:36,200
+i have two questions
+
+2338
+01:49:36,200 --> 01:49:41,400
+The first one is about the lung cancer thing you just talked about
+
+2339
+01:49:41,400 --> 01:49:49,100
+Later you also mentioned that non-smoking women have a high incidence of incidents in Taiwan
+
+2340
+01:49:49,100 --> 01:49:51,900
+Are these five signature genes related to that?
+
+2341
+01:49:51,900 --> 01:49:54,800
+That is to say, did you subset when analyzing?
+
+2342
+01:49:54,800 --> 01:49:57,600
+See which respects are in the end
+
+2343
+01:49:57,600 --> 01:49:58,700
+with that...
+
+2344
+01:49:58,700 --> 01:49:59,600
+that...
+
+2345
+01:50:00,000 --> 01:50:05,600
+The paper of the five genes, I think they didn't do the classification like that at that time
+
+2346
+01:50:05,600 --> 01:50:12,000
+At that time, according to the title, he just flew the small one
+
+2347
+01:50:12,000 --> 01:50:15,200
+that lung cancer
+
+2348
+01:50:15,200 --> 01:50:20,800
+For this classification, it is divided into this adinocasinoma
+
+2349
+01:50:20,800 --> 01:50:23,600
+is our latest job
+
+2350
+01:50:23,600 --> 01:50:28,400
+And then our latest work is now this adinocasinoma
+
+2351
+01:50:28,400 --> 01:50:34,000
+At the same time, it is based on whether he has EGF ammutation
+
+2352
+01:50:34,000 --> 01:50:39,600
+Let's do a comparison and then look at the formula on his molecule
+
+2353
+01:50:39,600 --> 01:50:42,800
+So what are you still doing because it's important
+
+2354
+01:50:42,800 --> 01:50:45,600
+I heard that only the ones in Taiwan have this kind
+
+2355
+01:50:45,600 --> 01:50:48,400
+In comparison, there are actually a lot of Asians
+
+2356
+01:50:48,400 --> 01:50:52,400
+For Japan, there are a lot of things to wait for
+
+2357
+01:50:52,400 --> 01:50:56,400
+But there is a fundamental
+
+2358
+01:50:56,400 --> 01:51:00,000
+That is, Teacher Ya and the others are most interested in it.
+
+2359
+01:51:00,000 --> 01:51:03,600
+That is, although everyone has discussed a lot about the connection method
+
+2360
+01:51:03,600 --> 01:51:07,000
+Anyway, I think this Adino Castiglino
+
+2361
+01:51:07,000 --> 01:51:10,640
+It was Adino Castiglino who was only recently recognized as
+
+2362
+01:51:10,640 --> 01:51:12,140
+of a new form
+
+2363
+01:51:12,140 --> 01:51:15,940
+In the past, it was probably mixed with Squamers
+
+2364
+01:51:15,940 --> 01:51:17,040
+recent words
+
+2365
+01:51:17,040 --> 01:51:21,400
+So according to the world this is just an international organization
+
+2366
+01:51:21,400 --> 01:51:23,600
+Have had it tested on the ring saying it's a
+
+2367
+01:51:23,600 --> 01:51:25,940
+So in this piece
+
+2368
+01:51:25,940 --> 01:51:29,440
+At present, what I want to know most is
+
+2369
+01:51:29,440 --> 01:51:34,180
+According to Mutation and without Mutation
+
+2370
+01:51:34,180 --> 01:51:36,080
+what is the difference
+
+2371
+01:51:36,080 --> 01:51:39,180
+It's not just a single Mutation that makes the difference
+
+2372
+01:51:39,180 --> 01:51:42,580
+There are already many other classics in the surrounding area that have followed suit
+
+2373
+01:51:42,580 --> 01:51:45,980
+That's what I'm currently working on
+
+2374
+01:51:45,980 --> 01:51:47,880
+So we base this
+
+2375
+01:51:47,880 --> 01:51:52,080
+Copy number of variation and gene expression等等
+
+2376
+01:51:52,080 --> 01:51:53,980
+I believe many people are waiting to see
+
+2377
+01:51:53,980 --> 01:51:55,380
+this very important program
+
+2378
+01:51:55,380 --> 01:51:58,080
+The most important thing is to need a large sample
+
+2379
+01:52:00,000 --> 01:52:01,000
+the most important
+
+2380
+01:52:01,000 --> 01:52:02,000
+I have another question is
+
+2381
+01:52:02,000 --> 01:52:03,000
+about for example
+
+2382
+01:52:03,000 --> 01:52:05,000
+When it should have been broken
+
+2383
+01:52:05,000 --> 01:52:06,000
+It is Messy data
+
+2384
+01:52:06,000 --> 01:52:08,000
+In fact, for biologists
+
+2385
+01:52:08,000 --> 01:52:11,000
+A lot of it is that the system itself is very messy
+
+2386
+01:52:11,000 --> 01:52:13,000
+So it's not easy to do experiments
+
+2387
+01:52:13,000 --> 01:52:15,000
+part i believe many
+
+2388
+01:52:15,000 --> 01:52:16,000
+biological data
+
+2389
+01:52:16,000 --> 01:52:17,000
+Without doing statistics
+
+2390
+01:52:17,000 --> 01:52:20,000
+because make it last and equal to one
+
+2391
+01:52:20,000 --> 01:52:21,000
+There are many times when we do experiments
+
+2392
+01:52:21,000 --> 01:52:23,000
+Because a lot of money
+
+2393
+01:52:23,000 --> 01:52:24,000
+or resources limit
+
+2394
+01:52:24,000 --> 01:52:26,000
+hardly anyone says
+
+2395
+01:52:26,000 --> 01:52:28,000
+do an experiment to repeat
+
+2396
+01:52:28,000 --> 01:52:30,000
+Experiment twenty times can
+
+2397
+01:52:30,000 --> 01:52:32,000
+到statistically significant
+
+2398
+01:52:32,000 --> 01:52:33,000
+so i don't know
+
+2399
+01:52:33,000 --> 01:52:35,000
+developments in this area
+
+2400
+01:52:35,000 --> 01:52:37,000
+Said whether it has reached a certain level
+
+2401
+01:52:37,000 --> 01:52:39,000
+So can biologist
+
+2402
+01:52:39,000 --> 01:52:40,000
+some suggest
+
+2403
+01:52:40,000 --> 01:52:42,000
+How to use the least method
+
+2404
+01:52:42,000 --> 01:52:45,000
+results that can be obtained
+
+2405
+01:52:45,000 --> 01:52:47,000
+able to be treated like this
+
+2406
+01:52:47,000 --> 01:52:50,000
+Statistically significant data like this
+
+2407
+01:52:50,000 --> 01:52:51,000
+because you know now
+
+2408
+01:52:51,000 --> 01:52:53,000
+final result
+
+2409
+01:52:53,000 --> 01:52:56,000
+A while ago they found out that
+
+2410
+01:52:56,000 --> 01:52:59,000
+Almost even if it's a different company
+
+2411
+01:52:59,000 --> 01:53:01,000
+with the same data
+
+2412
+01:53:00,000 --> 01:53:04,000
+The results of these cups are about 40 to 50 completely different
+
+2413
+01:53:04,000 --> 01:53:08,000
+So, for example, by using your method to see
+
+2414
+01:53:08,000 --> 01:53:11,000
+Could you please help us solve these problems?
+
+2415
+01:53:11,000 --> 01:53:13,000
+How to design an experiment
+
+2416
+01:53:13,000 --> 01:53:16,000
+I think your topic is very good
+
+2417
+01:53:16,000 --> 01:53:19,000
+Because you said N equal to 1
+
+2418
+01:53:19,000 --> 01:53:21,000
+In fact, many times although you have a lot of N
+
+2419
+01:53:21,000 --> 01:53:25,000
+But the last words are only in the case of a N equal to 1
+
+2420
+01:53:25,000 --> 01:53:27,000
+Because another experiment was placed
+
+2421
+01:53:27,000 --> 01:53:29,000
+Although they took 100 pictures
+
+2422
+01:53:29,000 --> 01:53:32,000
+But his N and N are under completely different circumstances
+
+2423
+01:53:32,000 --> 01:53:40,000
+Then this one is to think about it from the perspective of the network
+
+2424
+01:53:40,000 --> 01:53:42,000
+That is to say, if today
+
+2425
+01:53:42,000 --> 01:53:45,000
+Many units are willing to send money down
+
+2426
+01:53:45,000 --> 01:53:48,000
+Then do some more systematic design
+
+2427
+01:53:48,000 --> 01:53:52,000
+Then don't say you just thought of something
+
+2428
+01:53:52,000 --> 01:53:53,000
+just think of what to do
+
+2429
+01:53:53,000 --> 01:53:56,000
+Between many N equal to 1
+
+2430
+01:53:56,000 --> 01:53:59,000
+can also have some hosts
+
+2431
+01:54:00,000 --> 01:54:01,180
+will be better
+
+2432
+01:54:01,180 --> 01:54:02,140
+If so
+
+2433
+01:54:02,140 --> 01:54:04,440
+you can combine different labs
+
+2434
+01:54:04,440 --> 01:54:06,640
+A big M comes out like a string
+
+2435
+01:54:07,280 --> 01:54:08,480
+that's there
+
+2436
+01:54:08,980 --> 01:54:10,980
+Now it is through the Internet
+
+2437
+01:54:10,980 --> 01:54:12,880
+a lot of this information
+
+2438
+01:54:12,880 --> 01:54:14,080
+you can take it
+
+2439
+01:54:14,380 --> 01:54:15,580
+charge up
+
+2440
+01:54:15,580 --> 01:54:17,420
+Do some Metal Analyze
+
+2441
+01:54:17,420 --> 01:54:19,280
+I don't really like Metal Analyze
+
+2442
+01:54:19,280 --> 01:54:20,020
+this idea
+
+2443
+01:54:20,020 --> 01:54:22,420
+Because many times it is Trivial
+
+2444
+01:54:22,420 --> 01:54:23,360
+ready to use
+
+2445
+01:54:23,360 --> 01:54:25,160
+that means ok i do this
+
+2446
+01:54:25,160 --> 01:54:26,600
+what to see
+
+2447
+01:54:26,600 --> 01:54:27,420
+Significantly
+
+2448
+01:54:27,420 --> 01:54:29,200
+I will make it a PV
+
+2449
+01:54:29,200 --> 01:54:30,700
+those things have
+
+2450
+01:54:30,700 --> 01:54:31,900
+Significantly
+
+2451
+01:54:31,900 --> 01:54:32,900
+Just post it as a PV
+
+2452
+01:54:32,900 --> 01:54:34,480
+In the end you use a
+
+2453
+01:54:34,480 --> 01:54:35,600
+Same level company
+
+2454
+01:54:35,600 --> 01:54:36,780
+A PV that was born
+
+2455
+01:54:36,780 --> 01:54:37,980
+Actually Metal Analyze
+
+2456
+01:54:37,980 --> 01:54:38,780
+its
+
+2457
+01:54:39,380 --> 01:54:40,080
+significance
+
+2458
+01:54:40,080 --> 01:54:41,140
+more than this
+
+2459
+01:54:41,140 --> 01:54:42,940
+it should go to enalyze
+
+2460
+01:54:42,940 --> 01:54:44,140
+After all
+
+2461
+01:54:44,140 --> 01:54:45,180
+which laboratories
+
+2462
+01:54:45,180 --> 01:54:46,680
+Why with which labs
+
+2463
+01:54:46,680 --> 01:54:48,820
+Which laboratories will be the same
+
+2464
+01:54:48,820 --> 01:54:50,120
+with which labs
+
+2465
+01:54:50,120 --> 01:54:51,820
+why is it different
+
+2466
+01:54:51,820 --> 01:54:52,480
+That
+
+2467
+01:54:52,480 --> 01:54:54,060
+where is the same reason
+
+2468
+01:54:54,060 --> 01:54:55,460
+or same reason where
+
+2469
+01:54:55,460 --> 01:54:57,160
+The reasons for these are the number of positions
+
+2470
+01:54:57,160 --> 01:54:57,760
+right
+
+2471
+01:54:57,760 --> 01:54:58,500
+But the number of positions
+
+2472
+01:54:58,520 --> 01:54:59,500
+if you have eyes
+
+2473
+01:54:59,500 --> 01:55:00,000
+it will be
+
+2474
+01:55:00,000 --> 01:55:01,200
+then no one knows
+
+2475
+01:55:01,200 --> 01:55:02,600
+So we can make an assumption
+
+2476
+01:55:02,600 --> 01:55:03,920
+Perhaps these positions are
+
+2477
+01:55:03,920 --> 01:55:07,320
+Maybe it can be expressed through some variables
+
+2478
+01:55:07,320 --> 01:55:08,720
+those variables maybe
+
+2479
+01:55:08,720 --> 01:55:10,600
+In fact, it may be the condition of the West
+
+2480
+01:55:10,600 --> 01:55:11,800
+how like
+
+2481
+01:55:11,800 --> 01:55:13,200
+Then these things can
+
+2482
+01:55:13,800 --> 01:55:15,520
+expressed by certain genes
+
+2483
+01:55:15,520 --> 01:55:16,800
+So in fact there is a way
+
+2484
+01:55:16,800 --> 01:55:18,520
+When there were many genes
+
+2485
+01:55:18,520 --> 01:55:19,600
+Liquid Association
+
+2486
+01:55:19,600 --> 01:55:21,760
+in fact a
+
+2487
+01:55:21,760 --> 01:55:22,520
+I think
+
+2488
+01:55:22,520 --> 01:55:25,200
+The formula of Liquid Association is not necessarily necessary
+
+2489
+01:55:25,200 --> 01:55:26,920
+but the basic idea of ​​it
+
+2490
+01:55:26,920 --> 01:55:29,440
+It should be able to be used to manage
+
+2491
+01:55:29,440 --> 01:55:32,400
+Because the most important thing is to find some potential factors
+
+2492
+01:55:32,400 --> 01:55:34,480
+If the factors that existed before
+
+2493
+01:55:34,480 --> 01:55:36,000
+Original words look
+
+2494
+01:55:36,000 --> 01:55:37,000
+two time to make it
+
+2495
+01:55:37,000 --> 01:55:38,600
+The result is not related at all.
+
+2496
+01:55:38,600 --> 01:55:40,720
+that may be under certain conditions
+
+2497
+01:55:40,720 --> 01:55:42,000
+they will have related
+
+2498
+01:55:45,200 --> 01:55:47,880
+ask your boss
+
+2499
+01:55:47,880 --> 01:55:49,840
+just now you mentioned that
+
+2500
+01:55:49,840 --> 01:55:52,520
+Is it correct to match the big A with the small questions?
+
+2501
+01:55:52,520 --> 01:55:54,480
+That G type
+
+2502
+01:55:54,480 --> 01:55:56,800
+Then A and G are not compatible
+
+2503
+01:55:56,800 --> 01:55:57,840
+That
+
+2504
+01:55:57,840 --> 01:56:00,000
+If say cross match
+
+2505
+01:56:00,000 --> 01:56:04,000
+G matches T, A matches, okay?
+
+2506
+01:56:04,000 --> 01:56:06,000
+G matching type, A matching type
+
+2507
+01:56:06,000 --> 01:56:08,000
+Like this, is it possible?
+
+2508
+01:56:08,000 --> 01:56:12,000
+The No. 8 calculus seems to be forming wind
+
+2509
+01:56:12,000 --> 01:56:16,000
+So fixed A must match T
+
+2510
+01:56:16,000 --> 01:56:19,000
+Can't change the cross
+
+2511
+01:56:19,000 --> 01:56:21,000
+No way, it has some chemical properties
+
+2512
+01:56:21,000 --> 01:56:26,000
+It's swords between each other, how about its attraction
+
+2513
+01:56:26,000 --> 01:56:29,000
+and its structure
+
+2514
+01:56:30,000 --> 01:56:32,000
+In fact, this is an important concept
+
+2515
+01:56:32,000 --> 01:56:34,000
+In this way, it will be...
+
+2516
+01:56:34,000 --> 01:56:38,000
+It is this DNA that will make a pair and not mess up
+
+2517
+01:56:38,000 --> 01:56:43,000
+If it is not like that, then the structure is very unstable
+
+2518
+01:56:50,000 --> 01:56:51,000
+Hello Professor
+
+2519
+01:56:51,000 --> 01:56:54,000
+We are now working on the Biohometase part
+
+2520
+01:56:54,000 --> 01:56:57,000
+Generally speaking, there are two ways
+
+2521
+01:56:57,000 --> 01:56:59,000
+One is the statistical way you just talked about
+
+2522
+01:57:00,000 --> 01:57:03,800
+It’s just that everyone compares it, and what many people are using is data mining.
+
+2523
+01:57:03,800 --> 01:57:07,400
+In your opinion, what is the biggest difference between these two people?
+
+2524
+01:57:07,400 --> 01:57:10,000
+Or how do people feel that these two
+
+2525
+01:57:10,000 --> 01:57:13,000
+Is there some kind of special opinion?
+
+2526
+01:57:13,000 --> 01:57:15,000
+ok that's a good question
+
+2527
+01:57:15,000 --> 01:57:20,000
+That data mining is actually an informatics scientist
+
+2528
+01:57:21,000 --> 01:57:24,000
+I don't know if it was stolen
+
+2529
+01:57:25,000 --> 01:57:32,000
+Imagine a rather new way to develop statistics
+
+2530
+01:57:32,000 --> 01:57:34,000
+because statisticians
+
+2531
+01:57:34,000 --> 01:57:38,000
+This statistic itself sounds like crying and tasteless
+
+2532
+01:57:38,000 --> 01:57:40,000
+data analysis sound analysis data
+
+2533
+01:57:40,000 --> 01:57:42,000
+to call out a
+
+2534
+01:57:42,000 --> 01:57:44,000
+How about BetaMade in Chinese?
+
+2535
+01:57:44,000 --> 01:57:46,000
+data mining
+
+2536
+01:57:46,000 --> 01:57:48,000
+Mining doesn't sound good.
+
+2537
+01:57:48,000 --> 01:57:50,000
+But carbon health is not good
+
+2538
+01:57:50,000 --> 01:57:52,000
+But English itself is very nice
+
+2539
+01:57:52,000 --> 01:57:54,000
+Yes or no
+
+2540
+01:57:54,000 --> 01:57:56,000
+is data mining itself
+
+2541
+01:57:56,000 --> 01:57:58,000
+I'm human so what do you think
+
+2542
+01:57:58,000 --> 01:58:00,000
+data mining you turn it into data
+
+2543
+01:58:00,000 --> 01:58:05,280
+Do you want to poke around like the unminer?
+
+2544
+01:58:05,280 --> 01:58:06,740
+Does that sound like a lot?
+
+2545
+01:58:06,740 --> 01:58:08,940
+It's not that hard, is it?
+
+2546
+01:58:08,940 --> 01:58:12,740
+But DataMind is going to dig some information
+
+2547
+01:58:12,740 --> 01:58:17,740
+A lot of statistical concepts are used there
+
+2548
+01:58:17,740 --> 01:58:21,740
+There are many things of course a computer scientist
+
+2549
+01:58:21,740 --> 01:58:24,940
+himself according to his intuition
+
+2550
+01:58:24,940 --> 01:58:27,340
+can match many things
+
+2551
+01:58:27,340 --> 01:58:29,040
+these things
+
+2552
+01:58:29,640 --> 01:58:32,640
+Let's not talk about which school this is.
+
+2553
+01:58:32,640 --> 01:58:37,640
+For example, DataMind uses a lot of support vector machines
+
+2554
+01:58:37,640 --> 01:58:42,640
+If it supports vector machine, it is used for classification
+
+2555
+01:58:42,640 --> 01:58:46,040
+Vasus has a set of discreement like RFVsure
+
+2556
+01:58:46,040 --> 01:58:47,040
+Who is better then?
+
+2557
+01:58:47,040 --> 01:58:53,040
+So that actually depends on the structure of the different states
+
+2558
+01:58:53,040 --> 01:58:58,040
+When there is a lot of noise in the Vsure of RFVsure
+
+2559
+01:58:58,040 --> 01:59:00,040
+it will be more effective
+
+2560
+01:59:00,000 --> 01:59:02,820
+SupportVeq's Machine is in the data
+
+2561
+01:59:02,820 --> 01:59:05,000
+its this
+
+2562
+01:59:05,860 --> 01:59:06,960
+Less noise
+
+2563
+01:59:06,960 --> 01:59:09,160
+But the state is complicated
+
+2564
+01:59:11,160 --> 01:59:13,600
+When the Covered Manifold is more complicated
+
+2565
+01:59:13,600 --> 01:59:14,560
+it will be more effective
+
+2566
+01:59:14,560 --> 01:59:16,960
+So each has many different degrees
+
+2567
+01:59:16,960 --> 01:59:17,800
+That
+
+2568
+01:59:19,000 --> 01:59:20,200
+concepts used
+
+2569
+01:59:20,200 --> 01:59:21,320
+you could say statistics
+
+2570
+01:59:21,320 --> 01:59:22,260
+aka mathematics
+
+2571
+01:59:22,260 --> 01:59:23,720
+anyway
+
+2572
+01:59:23,720 --> 01:59:26,400
+It's all logic
+
+2573
+01:59:26,400 --> 01:59:29,920
+A methodical approach to data analysis
+
+2574
+01:59:30,600 --> 01:59:32,960
+so it can be useful in certain situations
+
+2575
+01:59:37,060 --> 01:59:37,560
+OK
+
+2576
+01:59:37,560 --> 01:59:38,560
+besides
+
+2577
+01:59:38,560 --> 01:59:39,360
+close first
+
+2578
+01:59:39,360 --> 01:59:40,300
+we today
+
+2579
+01:59:40,300 --> 01:59:42,700
+this page you know so far
+
+2580
+01:59:42,700 --> 01:59:44,060
+thanks again
+
+2581
+01:59:44,060 --> 01:59:44,860
+Thank you Zhou Da
+

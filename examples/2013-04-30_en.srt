@@ -1,0 +1,10500 @@
+1
+00:00:00,000 --> 00:00:03,540
+absorption.
+
+2
+00:00:30,360 --> 00:00:35,920
+Academia Sinica's April Intellectual Education Academy Lectures Begin
+
+3
+00:00:36,320 --> 00:00:39,720
+We ask Vice President Peng Xuming to host for us
+
+4
+00:00:45,480 --> 00:00:46,720
+Goodnight everybody
+
+5
+00:00:49,500 --> 00:00:53,840
+I'm glad that today is the time we miss again
+
+6
+00:00:54,220 --> 00:00:59,540
+The topic of today's speech
+
+7
+00:01:00,000 --> 00:01:06,140
+The Big Sea of ​​Clouds The Science of Clouds and Their Role in the Global Environment
+
+8
+00:01:06,140 --> 00:01:10,240
+We knew this topic was very knowledgeable and interesting
+
+9
+00:01:10,240 --> 00:01:15,100
+Then I think the summary of this speech is for your reference.
+
+10
+00:01:15,100 --> 00:01:19,460
+Especially if you read this summary after I've heard the speech
+
+11
+00:01:19,460 --> 00:01:22,020
+will be very helpful
+
+12
+00:01:22,020 --> 00:01:26,880
+Then let me briefly introduce the speaker
+
+13
+00:01:26,880 --> 00:01:34,560
+This Dr. Huang Baoguan graduated from Tainan No. 1 Middle School in 1967
+
+14
+00:01:34,560 --> 00:01:39,680
+Then in 1971 take this break this meteorology
+
+15
+00:01:39,680 --> 00:01:43,780
+It is now the Department of Atmospheric Sciences of National Taiwan University
+
+16
+00:01:43,780 --> 00:01:47,360
+Then he served in the military for two years
+
+17
+00:01:47,360 --> 00:01:51,460
+That was the first year of military service for two years
+
+18
+00:01:51,460 --> 00:01:54,780
+I look for him for a year and I only support one year of military service
+
+19
+00:01:54,780 --> 00:01:58,620
+In 1970, I fell to the United States in 1971
+
+20
+00:01:58,620 --> 00:01:59,900
+1973
+
+21
+00:02:00,000 --> 00:02:03,600
+I just came to this UCLA to study for a Ph.D.
+
+22
+00:02:03,600 --> 00:02:07,200
+Then get a doctorate in seven or eight years
+
+23
+00:02:07,200 --> 00:02:09,200
+in atmospheric physics
+
+24
+00:02:09,200 --> 00:02:16,600
+Then he worked as a postdoctoral fellow and part-time assistant professor at UCLA
+
+25
+00:02:16,600 --> 00:02:20,600
+From 1980 onwards in
+
+26
+00:02:20,600 --> 00:02:24,400
+This from the University of Wisconsin Medicine
+
+27
+00:02:24,400 --> 00:02:28,500
+This branch served as the beginning of his academic career
+
+28
+00:02:28,700 --> 00:02:32,400
+Become an associate professor in four years and a professor in four years
+
+29
+00:02:32,400 --> 00:02:34,700
+Professor since 1988
+
+30
+00:02:34,700 --> 00:02:41,400
+Then from 1994 to 1997 served as the atmosphere
+
+31
+00:02:41,400 --> 00:02:44,100
+Dean of the Department of Marine Science
+
+32
+00:02:44,100 --> 00:02:51,700
+Director of the Air Resources Management Program from 1998 to 2002
+
+33
+00:02:51,700 --> 00:02:54,800
+The beginning of the year January 1, 2013
+
+34
+00:02:54,800 --> 00:03:00,000
+Our Central Committee is very fortunate to fight back to be our hospital
+
+35
+00:03:00,000 --> 00:03:02,300
+Director of the Center for Environmental Change
+
+36
+00:03:03,080 --> 00:03:05,880
+that in his academic career
+
+37
+00:03:06,140 --> 00:03:07,940
+Been in National Taiwan University
+
+38
+00:03:08,200 --> 00:03:10,760
+Massachusetts Institute of Technology, we call MIT
+
+39
+00:03:11,260 --> 00:03:12,040
+italy
+
+40
+00:03:12,300 --> 00:03:13,320
+University of Ferrara
+
+41
+00:03:13,820 --> 00:03:15,360
+University of Mex, Germany
+
+42
+00:03:15,620 --> 00:03:16,120
+besides
+
+43
+00:03:16,640 --> 00:03:17,420
+German
+
+44
+00:03:17,660 --> 00:03:18,440
+maple
+
+45
+00:03:18,700 --> 00:03:19,960
+Institute of Chemistry
+
+46
+00:03:20,220 --> 00:03:22,520
+science professor or visiting professor etc.
+
+47
+00:03:24,060 --> 00:03:25,080
+once obtained
+
+48
+00:03:25,340 --> 00:03:26,120
+America's
+
+49
+00:03:26,880 --> 00:03:28,160
+Johnson's on it
+
+50
+00:03:28,420 --> 00:03:29,700
+Distinguished Scholar Award
+
+51
+00:03:29,900 --> 00:03:31,240
+also received the German
+
+52
+00:03:31,760 --> 00:03:32,760
+Homber's
+
+53
+00:03:33,020 --> 00:03:33,540
+this
+
+54
+00:03:34,300 --> 00:03:35,340
+Senior Excellence Award
+
+55
+00:03:36,620 --> 00:03:37,120
+That
+
+56
+00:03:37,380 --> 00:03:39,940
+used to be his main research direction
+
+57
+00:03:40,200 --> 00:03:41,220
+is atmospheric physics
+
+58
+00:03:41,480 --> 00:03:42,240
+especially
+
+59
+00:03:42,760 --> 00:03:44,300
+Microphysics of clouds and rain
+
+60
+00:03:44,800 --> 00:03:46,080
+With the dynamic mechanism
+
+61
+00:03:46,600 --> 00:03:50,940
+Past Chair of the American Meteorological Society Committee on Cloud Physics
+
+62
+00:03:51,460 --> 00:03:54,520
+The main and more important thing is that he has a Chinese version
+
+63
+00:03:54,780 --> 00:03:55,820
+cloud physics
+
+64
+00:03:56,320 --> 00:03:57,100
+and in
+
+65
+00:03:57,360 --> 00:03:58,380
+Enthusiastic about science
+
+66
+00:03:58,380 --> 00:03:59,620
+yes there are many
+
+67
+00:04:00,000 --> 00:04:02,300
+popular science works
+
+68
+00:04:02,560 --> 00:04:04,600
+like heaven and earth
+
+69
+00:04:04,860 --> 00:04:06,400
+from Newton Press
+
+70
+00:04:06,900 --> 00:04:10,240
+Top 10 Open Books of 1996
+
+71
+00:04:10,740 --> 00:04:13,580
+Then there is a book called moving tea
+
+72
+00:04:14,080 --> 00:04:15,360
+is the culture of the world
+
+73
+00:04:16,120 --> 00:04:19,200
+It is the home of the first Wu Dayu Science Popularization Award
+
+74
+00:04:19,460 --> 00:04:22,020
+Home of the 2002 Jinling Awards
+
+75
+00:04:22,780 --> 00:04:24,320
+And Wei Sung Dae-kyeom
+
+76
+00:04:24,840 --> 00:04:26,360
+by Classic Magazine
+
+77
+00:04:26,620 --> 00:04:29,700
+The 2005 Jinling Award finalists and so on
+
+78
+00:04:29,900 --> 00:04:33,740
+So he is also very enthusiastic about this popular science.
+
+79
+00:04:34,000 --> 00:04:36,180
+together we can have a good day
+
+80
+00:04:36,560 --> 00:04:38,600
+this speech we all
+
+81
+00:04:38,860 --> 00:04:39,900
+applaud him
+
+82
+00:04:47,060 --> 00:04:48,340
+Thank you Vice President
+
+83
+00:04:49,620 --> 00:04:50,640
+Goodnight everybody
+
+84
+00:04:52,940 --> 00:04:54,740
+Just now the vice president did a lot
+
+85
+00:04:56,540 --> 00:04:57,300
+too
+
+86
+00:04:57,800 --> 00:04:59,600
+It's an honor to introduce
+
+87
+00:05:00,000 --> 00:05:02,000
+not so honorable
+
+88
+00:05:02,000 --> 00:05:05,000
+but glad to have the opportunity tonight
+
+89
+00:05:05,000 --> 00:05:08,000
+let's chat
+
+90
+00:05:08,000 --> 00:05:12,000
+I'm doing a major in one aspect of the research I'm doing
+
+91
+00:05:12,000 --> 00:05:18,000
+I mean the speech has to have a nice name
+
+92
+00:05:18,000 --> 00:05:21,000
+If I talk about the science of clouds all at once
+
+93
+00:05:21,000 --> 00:05:23,000
+Maybe everyone doesn't want to come
+
+94
+00:05:23,000 --> 00:05:26,000
+But what did I say about clouds and mountains?
+
+95
+00:05:26,000 --> 00:05:28,000
+i tricked everyone
+
+96
+00:05:28,000 --> 00:05:30,000
+let's talk slowly
+
+97
+00:05:30,000 --> 00:05:35,000
+When the dean of our society came here for an interview,
+
+98
+00:05:35,000 --> 00:05:36,000
+At that time I didn't know whether to come or not
+
+99
+00:05:36,000 --> 00:05:38,000
+He told me about you this April
+
+100
+00:05:38,000 --> 00:05:43,000
+He will come to us at the end of April to talk about this science in detail.
+
+101
+00:05:43,000 --> 00:05:45,000
+so i thought about it
+
+102
+00:05:45,000 --> 00:05:46,000
+I didn't know whether to come or not
+
+103
+00:05:46,000 --> 00:05:49,000
+Later, I thought about it and said that I had promised others that I would come.
+
+104
+00:05:49,000 --> 00:05:51,000
+So if you don't come to this ring transformation center
+
+105
+00:05:51,000 --> 00:05:53,000
+I can't seem to make sense
+
+106
+00:05:54,000 --> 00:05:57,000
+I'm very happy to finish the show
+
+107
+00:05:57,000 --> 00:05:59,000
+I just came here for 4 months
+
+108
+00:06:00,000 --> 00:06:02,760
+everything is not very very familiar
+
+109
+00:06:02,760 --> 00:06:05,760
+What I want to report to you today is
+
+110
+00:06:05,760 --> 00:06:08,960
+something about voice
+
+111
+00:06:08,960 --> 00:06:10,960
+common sense mostly common sense
+
+112
+00:06:10,960 --> 00:06:12,460
+Of course it will also mention some
+
+113
+00:06:12,460 --> 00:06:15,760
+We are more professional in the research part
+
+114
+00:06:15,760 --> 00:06:18,760
+Then my general speech is
+
+115
+00:06:18,760 --> 00:06:21,760
+I don't like too much shock
+
+116
+00:06:21,760 --> 00:06:24,760
+so hope
+
+117
+00:06:24,760 --> 00:06:28,260
+Needless to say we have to wait until all the speeches are over
+
+118
+00:06:29,020 --> 00:06:30,020
+only ask if you have a question
+
+119
+00:06:30,020 --> 00:06:32,520
+if you have something in the middle
+
+120
+00:06:32,520 --> 00:06:35,520
+small questions or relatively short
+
+121
+00:06:35,520 --> 00:06:37,520
+hope to understand soon
+
+122
+00:06:37,520 --> 00:06:39,520
+I feel free to ask
+
+123
+00:06:39,520 --> 00:06:42,020
+But if you compare the question
+
+124
+00:06:42,020 --> 00:06:45,020
+Of course we'll wait until it's all over
+
+125
+00:06:45,020 --> 00:06:47,020
+But if there is such a
+
+126
+00:06:47,020 --> 00:06:49,020
+small problem words
+
+127
+00:06:49,020 --> 00:06:52,020
+I think you are welcome to bring it up anytime
+
+128
+00:06:52,020 --> 00:06:54,020
+OK
+
+129
+00:06:58,260 --> 00:07:01,020
+Thanks
+
+130
+00:07:00,000 --> 00:07:02,000
+it doesn't seem to move
+
+131
+00:07:09,000 --> 00:07:11,000
+yes call me yes
+
+132
+00:07:11,000 --> 00:07:13,000
+This has
+
+133
+00:07:15,000 --> 00:07:17,000
+yes it's ok
+
+134
+00:07:19,000 --> 00:07:21,000
+oh down ok
+
+135
+00:07:21,000 --> 00:07:23,000
+OK, thanks
+
+136
+00:07:23,000 --> 00:07:25,000
+we start from that
+
+137
+00:07:25,000 --> 00:07:27,000
+not a science start
+
+138
+00:07:28,000 --> 00:07:30,000
+so-called literature
+
+139
+00:07:30,000 --> 00:07:32,000
+Or generally we are right
+
+140
+00:07:32,000 --> 00:07:35,000
+This impression of the cloud is beginning to speak well
+
+141
+00:07:35,000 --> 00:07:37,000
+But I'm in my Zhuzhu
+
+142
+00:07:37,000 --> 00:07:39,000
+in that insight
+
+143
+00:07:39,000 --> 00:07:41,000
+People generally think that literature is not science
+
+144
+00:07:41,000 --> 00:07:43,000
+Actually a good writer
+
+145
+00:07:43,000 --> 00:07:46,000
+In fact, this kind of scientific observation has been done very carefully.
+
+146
+00:07:46,000 --> 00:07:48,000
+articles he wrote
+
+147
+00:07:48,000 --> 00:07:51,000
+to reach your heart
+
+148
+00:07:51,000 --> 00:07:53,000
+that's my point of view
+
+149
+00:07:53,000 --> 00:07:55,000
+If everyone uses this mood in the future
+
+150
+00:07:55,000 --> 00:07:57,000
+go see some litterateurs
+
+151
+00:07:57,000 --> 00:07:59,000
+books written by famous writers
+
+152
+00:07:59,000 --> 00:08:01,000
+still
+
+153
+00:08:00,000 --> 00:08:01,840
+or article you will find
+
+154
+00:08:01,840 --> 00:08:04,040
+In fact, they observed very carefully
+
+155
+00:08:04,040 --> 00:08:06,200
+But because he observes very carefully
+
+156
+00:08:06,200 --> 00:08:09,040
+What he writes will move your heart
+
+157
+00:08:09,040 --> 00:08:11,540
+so there's science in it
+
+158
+00:08:11,540 --> 00:08:13,540
+It's not that literature means that you don't know science
+
+159
+00:08:15,200 --> 00:08:19,540
+OK, what is our first impression of this cloud?
+
+160
+00:08:19,540 --> 00:08:21,440
+in our usual words
+
+161
+00:08:21,440 --> 00:08:25,440
+A lot of Guanye Yun about this choice is very elegant
+
+162
+00:08:25,880 --> 00:08:31,560
+Or it is very advantageous between some hatred
+
+163
+00:08:31,560 --> 00:08:33,800
+We often use language called
+
+164
+00:08:33,800 --> 00:08:35,040
+Flowing clouds and flowing water
+
+165
+00:08:35,040 --> 00:08:37,240
+On behalf of others, the writing style is very good
+
+166
+00:08:37,240 --> 00:08:38,800
+Teacher, your article is well written
+
+167
+00:08:38,800 --> 00:08:42,000
+For example, like the Controversy Exhibition in our area
+
+168
+00:08:42,000 --> 00:08:44,000
+Flowing clouds and flowing water
+
+169
+00:08:44,000 --> 00:08:46,440
+that's the right word
+
+170
+00:08:46,440 --> 00:08:53,960
+The monk who seems to have nothing at all is called Yunshui monk
+
+171
+00:08:53,960 --> 00:08:58,320
+So this is also a kind of wandering everywhere
+
+172
+00:09:00,000 --> 00:09:02,000
+no homeless kind
+
+173
+00:09:02,000 --> 00:09:05,000
+Then I just cite some examples here.
+
+174
+00:09:05,000 --> 00:09:08,000
+That's us, I think everyone probably
+
+175
+00:09:08,000 --> 00:09:10,000
+read these sentences
+
+176
+00:09:10,000 --> 00:09:13,000
+In the description of the cloud in these sentences
+
+177
+00:09:13,000 --> 00:09:17,000
+What kind of yo-yo are they all using?
+
+178
+00:09:17,000 --> 00:09:19,000
+Is that cloud Yoyo?
+
+179
+00:09:19,000 --> 00:09:22,000
+Of course, we look at it from the eyes of ordinary people.
+
+180
+00:09:22,000 --> 00:09:23,000
+indeed Yoyo
+
+181
+00:09:23,000 --> 00:09:25,000
+it just hangs there like there's nothing going on
+
+182
+00:09:25,000 --> 00:09:27,000
+Sometimes it takes a long time to hang
+
+183
+00:09:27,000 --> 00:09:31,000
+Then it seems to be slightly fluttering with the wind
+
+184
+00:09:31,000 --> 00:09:34,000
+but i want to tell you
+
+185
+00:09:34,000 --> 00:09:36,000
+that was a wrong impression
+
+186
+00:09:36,000 --> 00:09:37,000
+Then you were deceived by the cloud
+
+187
+00:09:37,000 --> 00:09:39,000
+In fact, the cloud is very busy
+
+188
+00:09:39,000 --> 00:09:42,000
+Of course, that's from a scientist's point of view.
+
+189
+00:09:42,000 --> 00:09:44,000
+I'll explain to you later
+
+190
+00:09:49,000 --> 00:09:52,000
+This shadow of Yin Yun
+
+191
+00:09:52,000 --> 00:09:54,000
+have this impression
+
+192
+00:09:54,000 --> 00:09:58,000
+A few years ago, I went to this to that Italy for a meeting
+
+193
+00:09:58,000 --> 00:10:00,000
+in that so-called
+
+194
+00:10:00,000 --> 00:10:05,640
+That Edrisie over there in the Adriatic Sea
+
+195
+00:10:06,520 --> 00:10:09,980
+I saw this cloud early in the morning before going to a meeting here
+
+196
+00:10:10,760 --> 00:10:13,320
+Come back at four or five in the afternoon
+
+197
+00:10:14,080 --> 00:10:15,360
+The same rain is still there
+
+198
+00:10:16,380 --> 00:10:17,920
+wow that's really relaxing
+
+199
+00:10:18,440 --> 00:10:22,020
+That place seems to have just the right day and the weather is very good
+
+200
+00:10:22,280 --> 00:10:26,360
+From this island, one can see that the cloud in the distance is
+
+201
+00:10:26,620 --> 00:10:27,900
+Strange hanging all day
+
+202
+00:10:28,900 --> 00:10:33,280
+So if you just look at this phenomenon, you should think that the cloud is really leisurely.
+
+203
+00:10:33,780 --> 00:10:36,340
+It's all right hanging there like that bum sweat
+
+204
+00:10:38,660 --> 00:10:39,420
+But what?
+
+205
+00:10:40,180 --> 00:10:44,280
+When I was going to talk about it, it was also an illusion cloud. You thought he was hanging there all the time.
+
+206
+00:10:44,540 --> 00:10:46,340
+In fact, it's already different
+
+207
+00:10:46,840 --> 00:10:48,900
+As for why it is different
+
+208
+00:10:49,140 --> 00:10:50,940
+you will understand later
+
+209
+00:10:51,700 --> 00:10:54,260
+But your leisure will be punished
+
+210
+00:10:54,780 --> 00:10:56,320
+Some people also made this cloud
+
+211
+00:10:56,780 --> 00:10:57,860
+this one
+
+212
+00:10:58,120 --> 00:11:00,160
+This gentleman is called Laihu
+
+213
+00:11:00,000 --> 00:11:03,000
+that's what he's talking about
+
+214
+00:11:03,000 --> 00:11:07,000
+Thousands of Lines Looking Forward Rough Sky Hard Water Nagayama
+
+215
+00:11:07,000 --> 00:11:10,000
+Pian Fu Cong Unlimited Han Miao Ku Yi Bacteria
+
+216
+00:11:10,000 --> 00:11:13,000
+Yoyo, virtuous place, do prayers
+
+217
+00:11:13,000 --> 00:11:16,000
+He means that the cloud is in this
+
+218
+00:11:16,000 --> 00:11:19,000
+no one sees over there
+
+219
+00:11:19,000 --> 00:11:21,000
+The place no one cares about is over there
+
+220
+00:11:21,000 --> 00:11:22,000
+change
+
+221
+00:11:22,000 --> 00:11:25,000
+But some of that
+
+222
+00:11:25,000 --> 00:11:28,000
+Waterway, some seedlings
+
+223
+00:11:28,000 --> 00:11:30,000
+fucked to death
+
+224
+00:11:30,000 --> 00:11:31,000
+he doesn't go to the rain
+
+225
+00:11:31,000 --> 00:11:33,000
+Still wandering over there
+
+226
+00:11:33,000 --> 00:11:35,000
+So this is scolding the cloud
+
+227
+00:11:35,000 --> 00:11:36,000
+some people don't understand
+
+228
+00:11:36,000 --> 00:11:38,000
+Thought this was well done
+
+229
+00:11:38,000 --> 00:11:39,000
+so hang him there
+
+230
+00:11:39,000 --> 00:11:40,000
+I don't know what this is
+
+231
+00:11:40,000 --> 00:11:42,000
+Actually a curse poem
+
+232
+00:11:44,000 --> 00:11:46,000
+Cloud of Hell Round Leaf Item
+
+233
+00:11:46,000 --> 00:11:48,000
+That is to say, the cloud is ever-changing
+
+234
+00:11:48,000 --> 00:11:50,000
+We usually belong to the saying
+
+235
+00:11:50,000 --> 00:11:52,000
+Baiyuncanggou
+
+236
+00:11:52,000 --> 00:11:56,000
+It means that the world is actually changing
+
+237
+00:11:56,000 --> 00:11:58,000
+very very big
+
+238
+00:11:58,000 --> 00:12:00,000
+This source is from this
+
+239
+00:12:00,000 --> 00:12:02,000
+from a poem by dufoe
+
+240
+00:12:02,000 --> 00:12:04,000
+It is "Heaven Fu Yin Fu White Clothes"
+
+241
+00:12:04,000 --> 00:12:06,000
+poems and songs change like dogs
+
+242
+00:12:06,000 --> 00:12:08,000
+so the sentence
+
+243
+00:12:08,000 --> 00:12:11,000
+Condensed by us into Hakuin singing dog
+
+244
+00:12:11,000 --> 00:12:13,000
+meaning it gets very fast
+
+245
+00:12:13,000 --> 00:12:14,000
+another one
+
+246
+00:12:14,000 --> 00:12:17,000
+The same meaning is the same as the cloud circle of the world
+
+247
+00:12:17,000 --> 00:12:19,000
+It's just that things in the world change
+
+248
+00:12:19,000 --> 00:12:21,000
+come and go
+
+249
+00:12:21,000 --> 00:12:24,000
+So this world is clouded
+
+250
+00:12:24,000 --> 00:12:27,000
+It also means that clouds come and go
+
+251
+00:12:27,000 --> 00:12:30,000
+This is, of course, generally speaking
+
+252
+00:12:30,000 --> 00:12:33,000
+Observed cloud changes are very fast
+
+253
+00:12:33,000 --> 00:12:36,000
+Usually if you like to watch the cloud
+
+254
+00:12:36,000 --> 00:12:38,000
+I myself have loved watching clouds since I was a child.
+
+255
+00:12:38,000 --> 00:12:40,000
+So study the cloud
+
+256
+00:12:40,000 --> 00:12:42,000
+probably not wrong
+
+257
+00:12:42,000 --> 00:12:46,000
+Many of you here may like to watch clouds
+
+258
+00:12:46,000 --> 00:12:47,000
+i have one thing to say
+
+259
+00:12:47,000 --> 00:12:49,000
+please don't look while driving
+
+260
+00:12:49,000 --> 00:12:50,000
+very dangerous
+
+261
+00:12:50,000 --> 00:12:51,000
+because it's fascinating
+
+262
+00:12:51,000 --> 00:12:54,000
+Suddenly found this problem out
+
+263
+00:12:54,000 --> 00:12:56,000
+But one of the clouds is very special
+
+264
+00:12:56,000 --> 00:13:00,000
+That is to say, when you look at you, it is equal to
+
+265
+00:13:00,000 --> 00:13:02,000
+You just blink and it has become the same
+
+266
+00:13:03,000 --> 00:13:05,000
+Do you feel like a fish is growing
+
+267
+00:13:05,000 --> 00:13:07,000
+then you might say take a break
+
+268
+00:13:07,000 --> 00:13:09,000
+Or someone just called you
+
+269
+00:13:09,000 --> 00:13:12,000
+You spread it out for another 20 seconds
+
+270
+00:13:12,000 --> 00:13:14,000
+That fish might disappear
+
+271
+00:13:14,000 --> 00:13:15,000
+very strange
+
+272
+00:13:15,000 --> 00:13:17,000
+So some people have been dreaming
+
+273
+00:13:17,000 --> 00:13:18,000
+that is to say the fish
+
+274
+00:13:18,000 --> 00:13:21,000
+How on earth is it possible to become so fast
+
+275
+00:13:22,000 --> 00:13:24,000
+Then there is a
+
+276
+00:13:25,000 --> 00:13:26,000
+there is a video
+
+277
+00:13:26,000 --> 00:13:28,000
+A small movie can be
+
+278
+00:13:28,000 --> 00:13:32,000
+You can see how the fish is changing
+
+279
+00:13:32,000 --> 00:13:33,000
+oh
+
+280
+00:13:34,000 --> 00:13:35,000
+can't come back
+
+281
+00:13:40,000 --> 00:13:42,000
+this is going to be moved above this
+
+282
+00:13:52,000 --> 00:13:54,000
+You can see the fish have formed
+
+283
+00:13:54,000 --> 00:13:56,000
+maybe i see this
+
+284
+00:13:56,000 --> 00:13:57,000
+This is like a dog
+
+285
+00:13:57,000 --> 00:13:59,000
+like a cat or something
+
+286
+00:14:00,000 --> 00:14:01,120
+this is changing
+
+287
+00:14:01,120 --> 00:14:02,720
+sometimes it seems like something out of nothing
+
+288
+00:14:02,720 --> 00:14:05,720
+Sometimes it pops up out of nowhere
+
+289
+00:14:14,240 --> 00:14:17,440
+So this of course speeds up the time
+
+290
+00:14:17,440 --> 00:14:20,200
+This is a kind of time lapse to tell the truth
+
+291
+00:14:20,200 --> 00:14:22,920
+honestly this movie
+
+292
+00:14:22,920 --> 00:14:25,480
+But I have to say so you can see
+
+293
+00:14:25,480 --> 00:14:27,720
+It is said that the change of the cloud is indeed very fast.
+
+294
+00:14:27,840 --> 00:14:29,160
+and it turns into this
+
+295
+00:14:29,160 --> 00:14:31,000
+suddenly become like that
+
+296
+00:14:31,000 --> 00:14:32,120
+so this is
+
+297
+00:14:32,120 --> 00:14:35,360
+Why does it cause the so-called world cloud change
+
+298
+00:14:35,360 --> 00:14:37,800
+such an impression
+
+299
+00:14:37,800 --> 00:14:39,120
+Then you see this cloud now
+
+300
+00:14:39,120 --> 00:14:42,000
+Of course, it's mainly chicken clouds on sunny days
+
+301
+00:14:42,000 --> 00:14:45,880
+that under different weather conditions
+
+302
+00:14:45,880 --> 00:14:47,840
+Variations of various clouds
+
+303
+00:14:47,840 --> 00:14:50,920
+Another way
+
+304
+00:14:50,920 --> 00:14:51,520
+OK
+
+305
+00:14:51,520 --> 00:14:56,400
+So not just the kind of cloud itself
+
+306
+00:14:56,400 --> 00:14:58,000
+dynamic changes
+
+307
+00:14:58,000 --> 00:15:00,120
+Even clouds come in all shapes and sizes
+
+308
+00:15:00,000 --> 00:15:01,880
+are various changes
+
+309
+00:15:01,880 --> 00:15:03,000
+like this cloud
+
+310
+00:15:03,000 --> 00:15:04,200
+like this cloud
+
+311
+00:15:04,200 --> 00:15:05,380
+Everyone must have seen it
+
+312
+00:15:05,380 --> 00:15:07,280
+This kind of cloud is called cirrus cloud
+
+313
+00:15:07,280 --> 00:15:10,880
+It's probably very, very long
+
+314
+00:15:10,880 --> 00:15:14,840
+so often this slightly acts like a hook
+
+315
+00:15:14,840 --> 00:15:18,080
+Westerners say this is like a horse's tail
+
+316
+00:15:18,080 --> 00:15:20,080
+that ponytail cloud
+
+317
+00:15:20,080 --> 00:15:22,000
+that's true
+
+318
+00:15:22,000 --> 00:15:24,080
+It's usually shaped like this
+
+319
+00:15:24,080 --> 00:15:26,380
+very long very
+
+320
+00:15:26,380 --> 00:15:30,380
+Often the entire sky is filled with a mass of these clouds
+
+321
+00:15:30,380 --> 00:15:33,180
+That used to be in basic meteorology
+
+322
+00:15:33,180 --> 00:15:35,180
+Teachers often say that you see this kind of cloud
+
+323
+00:15:35,180 --> 00:15:38,180
+it means the weather may change
+
+324
+00:15:38,180 --> 00:15:39,180
+But sometimes I watched for a long time
+
+325
+00:15:39,180 --> 00:15:41,180
+The weather may not change
+
+326
+00:15:41,180 --> 00:15:45,180
+Weather, if you only look at clouds
+
+327
+00:15:45,180 --> 00:15:46,180
+This is not very accurate
+
+328
+00:15:46,180 --> 00:15:49,180
+That thing has changed a lot
+
+329
+00:15:49,180 --> 00:15:50,680
+But what about this cirrus cloud?
+
+330
+00:15:50,680 --> 00:15:52,180
+Cirrus clouds are actually high-altitude clouds
+
+331
+00:15:52,180 --> 00:15:53,980
+it's very high
+
+332
+00:15:53,980 --> 00:15:55,980
+usually very thin
+
+333
+00:15:56,380 --> 00:15:58,380
+What I mean by thin is thin
+
+334
+00:15:58,380 --> 00:16:00,380
+But it's not thin in terms of thickness
+
+335
+00:16:00,000 --> 00:16:02,000
+its possible after a few kilometers
+
+336
+00:16:02,000 --> 00:16:04,000
+I generally think that
+
+337
+00:16:04,000 --> 00:16:06,000
+This seems to be within a few hundred meters.
+
+338
+00:16:06,000 --> 00:16:07,000
+Actually no
+
+339
+00:16:07,000 --> 00:16:09,000
+cirrus clouds may be several kilometers away
+
+340
+00:16:09,000 --> 00:16:11,000
+but it's thin
+
+341
+00:16:11,000 --> 00:16:14,000
+so you can see right through it from the ground
+
+342
+00:16:14,000 --> 00:16:16,000
+so it looks like
+
+343
+00:16:16,000 --> 00:16:17,000
+when the sun shines
+
+344
+00:16:17,000 --> 00:16:19,000
+it's very very bright
+
+345
+00:16:19,000 --> 00:16:22,000
+Because it's mostly ice crystals
+
+346
+00:16:22,000 --> 00:16:24,000
+so this kind of thing
+
+347
+00:16:24,000 --> 00:16:26,000
+cirrus
+
+348
+00:16:26,000 --> 00:16:31,000
+This is more familiar to everyone
+
+349
+00:16:31,000 --> 00:16:33,000
+cirrus cloud
+
+350
+00:16:33,000 --> 00:16:35,000
+Of course there are small and big cirrus clouds
+
+351
+00:16:35,000 --> 00:16:37,000
+that movie we just had
+
+352
+00:16:37,000 --> 00:16:39,000
+That is called sunny cirrus
+
+353
+00:16:39,000 --> 00:16:40,000
+because it was sunny
+
+354
+00:16:40,000 --> 00:16:44,000
+cirrus clouds
+
+355
+00:16:44,000 --> 00:16:46,000
+this one is bigger
+
+356
+00:16:46,000 --> 00:16:48,000
+This is from that accountant
+
+357
+00:16:48,000 --> 00:16:50,000
+founding out
+
+358
+00:16:50,000 --> 00:16:52,000
+This is what we call dense cirrus cloud
+
+359
+00:16:52,000 --> 00:16:54,000
+because it grows a bit bigger
+
+360
+00:16:54,000 --> 00:16:56,000
+Then you can see the shape
+
+361
+00:16:56,000 --> 00:16:58,000
+I think of when you eat
+
+362
+00:16:58,000 --> 00:17:00,000
+The kind that eats that cauliflower
+
+363
+00:17:00,000 --> 00:17:03,240
+You see cauliflower, this is gene
+
+364
+00:17:03,240 --> 00:17:10,880
+If you like Niu-Stopology and you see this thing, this one is convection
+
+365
+00:17:10,880 --> 00:17:18,380
+Why convection? There is this relative movement between the air outside and the air inside
+
+366
+00:17:18,380 --> 00:17:25,780
+So there are a lot here, if you look at them carefully, it looks like a small team bag
+
+367
+00:17:25,780 --> 00:17:27,780
+keep moving
+
+368
+00:17:28,780 --> 00:17:33,020
+I saw it when I was a kid, I practiced this reservoir very early
+
+369
+00:17:33,020 --> 00:17:38,180
+This is Yun Zhongjun from Chuchi Nine Brothers
+
+370
+00:17:38,180 --> 00:17:43,660
+This is one of the ancient cloud gods
+
+371
+00:17:43,660 --> 00:17:50,780
+In his commentary, I just wanted to laugh when I saw it, Yun Zhongjun is Yunshen Fenglong
+
+372
+00:17:50,780 --> 00:17:55,620
+I believe that name is all about being there
+
+373
+00:17:55,620 --> 00:17:59,960
+You see this kind of gene, it really looks fat
+
+374
+00:18:00,000 --> 00:18:02,000
+Of course it's very windy
+
+375
+00:18:02,000 --> 00:18:04,000
+He said another name is Ping Yi
+
+376
+00:18:04,000 --> 00:18:07,000
+This simplicity simply means to block things.
+
+377
+00:18:07,000 --> 00:18:10,000
+Of course, the cloud is blocking the sun
+
+378
+00:18:10,000 --> 00:18:15,000
+So this god's name is probably a bit artificial.
+
+379
+00:18:20,000 --> 00:18:23,000
+This kind of cloud you often see this so-called achievement
+
+380
+00:18:23,000 --> 00:18:25,000
+You say like it's not full of the sky
+
+381
+00:18:25,000 --> 00:18:28,000
+But you can divide it piece by piece
+
+382
+00:18:28,000 --> 00:18:32,000
+So this kind of cloud is also full
+
+383
+00:18:32,000 --> 00:18:36,000
+The other one is called a convective cloud
+
+384
+00:18:36,000 --> 00:18:38,000
+Convective clouds are
+
+385
+00:18:38,000 --> 00:18:43,000
+Usually its vertical scale is a bit larger than its horizontal scale
+
+386
+00:18:43,000 --> 00:18:46,000
+So this is generally produced by convection
+
+387
+00:18:46,000 --> 00:18:50,000
+Then this is of course the cloudy weather in summer in Taiwan.
+
+388
+00:18:50,000 --> 00:18:53,000
+And this kind of cloud you usually see
+
+389
+00:18:53,000 --> 00:18:57,000
+More likely means that there is a chance of rain often
+
+390
+00:18:57,000 --> 00:19:00,000
+Also this kind of cloud, since it is so thick, it means
+
+391
+00:19:00,000 --> 00:19:02,000
+Some of his ascenders are very strong
+
+392
+00:19:02,000 --> 00:19:04,000
+Some ascenders are so strong
+
+393
+00:19:04,000 --> 00:19:07,000
+There is a high chance of rain
+
+394
+00:19:07,000 --> 00:19:09,000
+But it's also a possibility
+
+395
+00:19:09,000 --> 00:19:12,000
+If you say he will definitely rain
+
+396
+00:19:12,000 --> 00:19:13,000
+Not always
+
+397
+00:19:13,000 --> 00:19:15,000
+sometimes he can't get down
+
+398
+00:19:15,000 --> 00:19:19,000
+But the so-called not coming down means not getting down to the ground
+
+399
+00:19:19,000 --> 00:19:20,000
+if you are in the rain
+
+400
+00:19:20,000 --> 00:19:22,000
+then he will come down
+
+401
+00:19:22,000 --> 00:19:23,000
+If you go back into the rain
+
+402
+00:19:23,000 --> 00:19:26,000
+There are many raindrops on that window
+
+403
+00:19:26,000 --> 00:19:30,000
+On that glass of this plane
+
+404
+00:19:30,000 --> 00:19:32,000
+you can see
+
+405
+00:19:32,000 --> 00:19:36,000
+There must be strong raindrops in this convective rain
+
+406
+00:19:39,000 --> 00:19:41,000
+when a convective rain
+
+407
+00:19:41,000 --> 00:19:45,000
+Like when I grew up in a tall place just now
+
+408
+00:19:45,000 --> 00:19:49,000
+This usually reaches a certain height
+
+409
+00:19:49,000 --> 00:19:52,000
+That height we call convective sinking
+
+410
+00:19:52,000 --> 00:19:55,000
+The lowest layer of the atmosphere on the ground
+
+411
+00:19:55,000 --> 00:19:57,000
+We call it convective sinking
+
+412
+00:19:57,000 --> 00:20:00,000
+Basically, he arrived at about 10 kilometers.
+
+413
+00:20:00,000 --> 00:20:01,400
+sometimes ten kilometers
+
+414
+00:20:01,400 --> 00:20:03,600
+onto that
+
+415
+00:20:03,600 --> 00:20:05,400
+another city
+
+416
+00:20:05,400 --> 00:20:07,600
+There is probably Stratocity over ten kilometers away.
+
+417
+00:20:07,600 --> 00:20:11,800
+Stratocity-like movement is difficult to penetrate
+
+418
+00:20:11,800 --> 00:20:15,200
+So the general cloud goes to this convective city
+
+419
+00:20:15,200 --> 00:20:19,000
+It's like there's an invisible glass blocking it
+
+420
+00:20:19,000 --> 00:20:20,800
+your convection basin to the top
+
+421
+00:20:20,800 --> 00:20:22,600
+its cloud won't go up
+
+422
+00:20:22,600 --> 00:20:24,600
+But it can always be opened from the side
+
+423
+00:20:24,600 --> 00:20:27,600
+So it has this kind of opening on both sides
+
+424
+00:20:28,000 --> 00:20:30,200
+So this so-called chicken cloud
+
+425
+00:20:30,200 --> 00:20:34,800
+Chicken clouds are generally connected with the so-called lightning phenomenon
+
+426
+00:20:34,800 --> 00:20:38,200
+Usually it produces lightning and thunder
+
+427
+00:20:38,200 --> 00:20:39,800
+this phenomenon
+
+428
+00:20:39,800 --> 00:20:43,200
+This is the so-called chicken cloud
+
+429
+00:20:45,600 --> 00:20:50,000
+Just now, it was probably the general impression we have of clouds.
+
+430
+00:20:50,000 --> 00:20:51,300
+what is it like
+
+431
+00:20:51,300 --> 00:20:56,600
+Let me see what the artist thinks about this cloud
+
+432
+00:20:57,600 --> 00:21:00,000
+this belt this
+
+433
+00:21:00,000 --> 00:21:02,560
+A painter named Guo Xi
+
+434
+00:21:02,560 --> 00:21:04,600
+Everyone, if you go to the Boyuan of the Forbidden City
+
+435
+00:21:04,600 --> 00:21:06,900
+There are several very large paintings
+
+436
+00:21:06,900 --> 00:21:10,500
+He once wrote an article called "Linquan Gaozhi"
+
+437
+00:21:10,500 --> 00:21:13,060
+He narrates a lot in it
+
+438
+00:21:13,060 --> 00:21:15,860
+If you want to draw clouds, how should you draw them?
+
+439
+00:21:15,860 --> 00:21:17,160
+Of course he mainly said
+
+440
+00:21:17,160 --> 00:21:19,200
+The clouds in spring should be like white cranes
+
+441
+00:21:19,200 --> 00:21:20,740
+The wind is blowing
+
+442
+00:21:20,740 --> 00:21:22,280
+This makes sense
+
+443
+00:21:22,280 --> 00:21:24,580
+Because the convection is stronger in summer
+
+444
+00:21:24,580 --> 00:21:26,360
+Just like the convection just now
+
+445
+00:21:26,360 --> 00:21:28,160
+so summer clouds
+
+446
+00:21:29,120 --> 00:21:32,520
+A lot of them are like this kind of strange mountain.
+
+447
+00:21:32,520 --> 00:21:35,080
+autumn and winter clouds
+
+448
+00:21:35,080 --> 00:21:36,860
+Each has its own characteristics
+
+449
+00:21:36,860 --> 00:21:39,420
+that this
+
+450
+00:21:39,420 --> 00:21:40,960
+Later this
+
+451
+00:21:40,960 --> 00:21:44,040
+It may be the ring garden in the Ming Dynasty
+
+452
+00:21:44,040 --> 00:21:47,620
+In the picture book, it is a great article about the cloud coming to heaven and earth
+
+453
+00:21:47,620 --> 00:21:51,720
+Qianyan of Mountains and Rivers is too busy in the future
+
+454
+00:21:51,720 --> 00:21:54,780
+You have to draw some clouds when you draw too much this Qianyan
+
+455
+00:21:54,780 --> 00:21:57,340
+make him look slanted
+
+456
+00:21:57,340 --> 00:21:59,900
+After that request, I am too willing to do so
+
+457
+00:22:00,000 --> 00:22:03,000
+What are you going to do because there are so few things?
+
+458
+00:22:03,000 --> 00:22:06,000
+You also draw some shadows, he looks a little busy
+
+459
+00:22:06,000 --> 00:22:09,000
+So this has this wonderful effect
+
+460
+00:22:09,000 --> 00:22:13,000
+I think what he said is quite reasonable.
+
+461
+00:22:13,000 --> 00:22:16,000
+I found two examples, the first one is
+
+462
+00:22:16,000 --> 00:22:20,000
+These two are from the Yuan Dynasty. Wang Meng has one called
+
+463
+00:22:20,000 --> 00:22:23,000
+Juquling Wutu, what about this pot?
+
+464
+00:22:23,000 --> 00:22:26,000
+Wang Meng is of course a Taoist of the Yuan Dynasty
+
+465
+00:22:26,000 --> 00:22:28,000
+So of course his brush is very good
+
+466
+00:22:28,000 --> 00:22:32,000
+But I think this earth dragon is too urgent
+
+467
+00:22:32,000 --> 00:22:34,000
+It's like I can't breathe
+
+468
+00:22:34,000 --> 00:22:39,000
+The densely packed trees he drew are also stones
+
+469
+00:22:39,000 --> 00:22:41,000
+If he can draw a little cloud in the middle
+
+470
+00:22:41,000 --> 00:22:43,000
+Looks like it's more likely not to be in such a hurry
+
+471
+00:22:43,000 --> 00:22:46,000
+The other easel is better for him
+
+472
+00:22:46,000 --> 00:22:51,000
+He has a lot of mountains and fields, but there are some clouds in the middle of him.
+
+473
+00:22:51,000 --> 00:22:54,000
+Of course, the so-called cloud is actually the same as there is no painting
+
+474
+00:22:54,000 --> 00:22:57,000
+mostly blank
+
+475
+00:22:57,000 --> 00:23:00,000
+So it seems less urgent
+
+476
+00:23:00,000 --> 00:23:02,000
+he doesn't feel like he can't breathe
+
+477
+00:23:02,000 --> 00:23:05,000
+So the cloud does have this magical effect
+
+478
+00:23:05,000 --> 00:23:09,000
+Like this is Dong Qicha from the Ming Dynasty, Shu Hua's family
+
+479
+00:23:09,000 --> 00:23:14,000
+He's not really that professional a painter
+
+480
+00:23:14,000 --> 00:23:17,000
+Three strokes and two strokes of literati paintings by him
+
+481
+00:23:17,000 --> 00:23:20,000
+So he didn't have much time to draw in such detail
+
+482
+00:23:20,000 --> 00:23:24,000
+So he used the awareness just now
+
+483
+00:23:24,000 --> 00:23:27,000
+He said that you, Zhuo Yi, are too suspicious of a male Yun Mangzi
+
+484
+00:23:27,000 --> 00:23:31,000
+You just use that cloud to make it look like there's something in it
+
+485
+00:23:31,000 --> 00:23:34,000
+So what he actually painted is the black place.
+
+486
+00:23:34,000 --> 00:23:36,000
+this place is left blank
+
+487
+00:23:36,000 --> 00:23:38,000
+But you seem to say it's a cloud
+
+488
+00:23:38,000 --> 00:23:42,000
+I would imagine that there might be trees behind that cloud
+
+489
+00:23:42,000 --> 00:23:45,000
+Actually he didn't say that
+
+490
+00:23:45,000 --> 00:23:47,000
+But that's what's in your head
+
+491
+00:23:47,000 --> 00:23:49,000
+There must be something behind that cloud
+
+492
+00:23:49,000 --> 00:23:52,000
+So this is the so-called Zhuo Yi too disliked
+
+493
+00:23:52,000 --> 00:23:56,000
+Male Yun Manzi makes him look a little more manly
+
+494
+00:23:56,000 --> 00:23:58,000
+this is not bad
+
+495
+00:23:58,000 --> 00:24:00,000
+Therefore, Chinese painters
+
+496
+00:24:00,000 --> 00:24:03,000
+There are many theories of phonetics
+
+497
+00:24:04,000 --> 00:24:07,000
+But the modern voice
+
+498
+00:24:07,000 --> 00:24:09,000
+That is to say, the voice painting in this Chinese painting is the best
+
+499
+00:24:09,000 --> 00:24:12,000
+It may be the late Mr. Huang Junbi
+
+500
+00:24:12,000 --> 00:24:15,000
+His nickname is Master of Baiyun Hall
+
+501
+00:24:15,000 --> 00:24:20,000
+So I think he's already very, very confident with this voice painting
+
+502
+00:24:20,000 --> 00:24:24,000
+That's true, his voice and painting are quite good.
+
+503
+00:24:24,000 --> 00:24:28,000
+He painted voices better than those painters of previous generations
+
+504
+00:24:28,000 --> 00:24:30,000
+He draws more realistically
+
+505
+00:24:30,000 --> 00:24:33,000
+So this one is one of his rhythms
+
+506
+00:24:33,000 --> 00:24:37,000
+He often mentions a
+
+507
+00:24:37,000 --> 00:24:41,000
+Looking at the green mountains and deep white clouds are all the feelings of hometown
+
+508
+00:24:41,000 --> 00:24:43,000
+also very realistic
+
+509
+00:24:43,000 --> 00:24:48,000
+But I have one dissatisfaction with our Chinese painter
+
+510
+00:24:48,000 --> 00:24:50,000
+Dissatisfaction is that
+
+511
+00:24:50,000 --> 00:24:52,000
+Half the day they drew his clouds looked the same
+
+512
+00:24:52,000 --> 00:24:55,000
+He didn't try to draw other clouds
+
+513
+00:24:55,000 --> 00:24:59,000
+He also didn't try to draw cloud shadows
+
+514
+00:25:00,000 --> 00:25:03,700
+Its camp is basically next to the mountain
+
+515
+00:25:03,700 --> 00:25:06,200
+Then there are some clouds
+
+516
+00:25:06,200 --> 00:25:08,500
+So after talking for half a day
+
+517
+00:25:08,500 --> 00:25:11,500
+The main purpose of its cloud painting is to set off the mountains
+
+518
+00:25:11,500 --> 00:25:12,500
+That's all
+
+519
+00:25:12,500 --> 00:25:14,500
+So although it has a lot of theory about painting clouds
+
+520
+00:25:14,500 --> 00:25:16,500
+it doesn't really execute
+
+521
+00:25:16,500 --> 00:25:19,000
+How should the cloud be drawn, how to draw, how to draw
+
+522
+00:25:19,000 --> 00:25:22,000
+So at least I read a lot about the Forbidden City.
+
+523
+00:25:22,000 --> 00:25:25,000
+It seems that I haven't really found a serious one.
+
+524
+00:25:25,000 --> 00:25:28,000
+Example of drawing that different cloud
+
+525
+00:25:28,000 --> 00:25:29,800
+But speaking of Western paintings
+
+526
+00:25:29,800 --> 00:25:31,800
+It's almost like that in ancient times
+
+527
+00:25:31,800 --> 00:25:32,800
+it doesn't matter
+
+528
+00:25:32,800 --> 00:25:34,800
+When we draw clouds, we draw a cloud
+
+529
+00:25:34,800 --> 00:25:37,800
+And the cloud in the ancient western paintings is not the main character
+
+530
+00:25:37,800 --> 00:25:39,800
+Ancient paintings are all figures
+
+531
+00:25:39,800 --> 00:25:41,300
+so be the protagonist
+
+532
+00:25:41,300 --> 00:25:43,800
+Then draw a cloud in that least heavy corner
+
+533
+00:25:43,800 --> 00:25:45,800
+It seems like a place full of clouds
+
+534
+00:25:45,800 --> 00:25:48,800
+This probably lasted until the Impressionist came out.
+
+535
+00:25:48,800 --> 00:25:52,800
+I really started to pay attention to that cloud
+
+536
+00:25:52,800 --> 00:25:55,800
+Draw that cloud very realistically
+
+537
+00:25:55,800 --> 00:25:56,800
+And not only the clouds are very realistic
+
+538
+00:25:56,800 --> 00:26:00,800
+That kind of scene turns into clouds and shines on each other
+
+539
+00:26:00,000 --> 00:26:02,000
+Various coordination between online
+
+540
+00:26:02,000 --> 00:26:03,000
+very well drawn
+
+541
+00:26:03,000 --> 00:26:06,000
+This is the master of impressionism
+
+542
+00:26:06,000 --> 00:26:07,000
+his master
+
+543
+00:26:07,000 --> 00:26:09,000
+This one is called Caude Monet
+
+544
+00:26:09,000 --> 00:26:10,000
+painted
+
+545
+00:26:11,000 --> 00:26:14,000
+He speaks from the point of view of this cloudy school
+
+546
+00:26:14,000 --> 00:26:16,000
+he drew it exactly right
+
+547
+00:26:16,000 --> 00:26:19,000
+Exactly like Convection Shadow
+
+548
+00:26:19,000 --> 00:26:20,000
+Ba Xiao
+
+549
+00:26:20,000 --> 00:26:22,000
+And where should his shadow be?
+
+550
+00:26:22,000 --> 00:26:24,000
+Then the bottom should look like
+
+551
+00:26:24,000 --> 00:26:25,000
+I have nothing to say
+
+552
+00:26:25,000 --> 00:26:26,000
+that's him
+
+553
+00:26:26,000 --> 00:26:29,000
+Indeed, the painting is very, very
+
+554
+00:26:29,000 --> 00:26:30,000
+lifelike
+
+555
+00:26:31,000 --> 00:26:32,000
+just that part
+
+556
+00:26:32,000 --> 00:26:33,000
+I think
+
+557
+00:26:33,000 --> 00:26:34,000
+although i can't draw
+
+558
+00:26:34,000 --> 00:26:35,000
+but i think
+
+559
+00:26:35,000 --> 00:26:36,000
+if you study hard
+
+560
+00:26:36,000 --> 00:26:37,000
+very well said
+
+561
+00:26:38,000 --> 00:26:39,000
+But after I saw this
+
+562
+00:26:39,000 --> 00:26:41,000
+I said that there is nothing I can do about it
+
+563
+00:26:43,000 --> 00:26:45,000
+I don't think I can draw this
+
+564
+00:26:45,000 --> 00:26:47,000
+my first time in
+
+565
+00:26:47,000 --> 00:26:49,000
+I'm in Paris, France
+
+566
+00:26:49,000 --> 00:26:50,000
+that
+
+567
+00:26:50,000 --> 00:26:53,000
+I was actually at a place called Caude Pong
+
+568
+00:26:53,000 --> 00:26:54,000
+that that that that
+
+569
+00:26:54,000 --> 00:26:56,000
+when i saw this picture
+
+570
+00:26:56,000 --> 00:26:57,000
+just thought about it
+
+571
+00:26:57,000 --> 00:26:59,000
+Somebody come in and really can draw
+
+572
+00:27:00,000 --> 00:27:01,200
+get this cloud out
+
+573
+00:27:03,200 --> 00:27:04,800
+One of the reasons is that
+
+574
+00:27:05,400 --> 00:27:07,100
+The first one I am very sensitive to this cloud
+
+575
+00:27:07,100 --> 00:27:08,300
+Every time the sky derails this cloud
+
+576
+00:27:08,300 --> 00:27:10,000
+My whole body is uncomfortable
+
+577
+00:27:11,100 --> 00:27:13,400
+I just said I've been thinking about it for a long time and I can't figure it out
+
+578
+00:27:13,400 --> 00:27:15,500
+Later I figured out why
+
+579
+00:27:16,200 --> 00:27:17,200
+so i'll explain later
+
+580
+00:27:17,200 --> 00:27:19,700
+But I've ever felt that way
+
+581
+00:27:19,700 --> 00:27:22,700
+That is, if anyone can take the cloud
+
+582
+00:27:22,700 --> 00:27:25,800
+That kind of cloud can be drawn with that brush
+
+583
+00:27:26,200 --> 00:27:27,500
+I admire it very much
+
+584
+00:27:27,500 --> 00:27:30,700
+I ended up visiting this museum.
+
+585
+00:27:30,700 --> 00:27:33,700
+There is such a painting in this demon
+
+586
+00:27:34,700 --> 00:27:36,400
+This means it's not sunny
+
+587
+00:27:37,100 --> 00:27:38,100
+but it's not raining
+
+588
+00:27:38,500 --> 00:27:40,400
+It's half sunny and half rainy
+
+589
+00:27:40,700 --> 00:27:41,500
+at a glance
+
+590
+00:27:41,700 --> 00:27:43,300
+When I saw it, I felt that the cloud was really uncomfortable.
+
+591
+00:27:44,400 --> 00:27:46,600
+That's an amazing art too
+
+592
+00:27:47,700 --> 00:27:49,300
+So this is very, very powerful
+
+593
+00:27:49,300 --> 00:27:51,600
+I don't see anyone else drawing
+
+594
+00:27:52,100 --> 00:27:54,200
+draw it like this
+
+595
+00:27:55,200 --> 00:27:57,700
+that mentioned why
+
+596
+00:27:57,700 --> 00:28:00,000
+Just look at this picture first
+
+597
+00:28:00,000 --> 00:28:02,000
+This one is the so-called high-speed luck
+
+598
+00:28:02,000 --> 00:28:05,000
+You may often see this
+
+599
+00:28:05,000 --> 00:28:08,000
+What impression do you usually have when you see this kind of luck?
+
+600
+00:28:08,000 --> 00:28:11,000
+what kind of weather do you usually live in
+
+601
+00:28:11,000 --> 00:28:13,000
+See what Gao Jiyun looks like
+
+602
+00:28:13,000 --> 00:28:15,000
+like a fish spirit
+
+603
+00:28:16,000 --> 00:28:17,000
+Does anyone care to guess
+
+604
+00:28:17,000 --> 00:28:21,000
+Or tell me about your usual impression
+
+605
+00:28:24,000 --> 00:28:25,000
+actually not
+
+606
+00:28:25,000 --> 00:28:28,000
+This kind of luck is good when the weather is good
+
+607
+00:28:29,000 --> 00:28:30,000
+Yulingtian
+
+608
+00:28:31,000 --> 00:28:34,000
+This kind of high-speed luck is usually when the sky is better
+
+609
+00:28:35,000 --> 00:28:40,000
+and the background can often be seen through
+
+610
+00:28:40,000 --> 00:28:42,000
+see above that blue sky
+
+611
+00:28:43,000 --> 00:28:46,000
+This is actually mentioned in many elementary and middle school textbooks
+
+612
+00:28:46,000 --> 00:28:47,000
+But when he mentioned it he often said
+
+613
+00:28:47,000 --> 00:28:51,000
+If you see this cloud like fish spirit
+
+614
+00:28:51,000 --> 00:28:53,000
+yes means sunny
+
+615
+00:28:54,000 --> 00:28:56,000
+I think this sentence is a bit redundant
+
+616
+00:28:56,000 --> 00:28:58,000
+This sentence is of course true
+
+617
+00:29:00,000 --> 00:29:18,000
+So this is of little significance, it should be like this, that is to say, if you see this kind of cloud, and then it becomes a piece, and becomes a whole cloud, it means that the weather is going to be bad
+
+618
+00:29:19,000 --> 00:29:32,000
+Why? Because when you have this kind of cloud, it usually represents small-scale convection, one by one small convection packets, and it is not very deep, it is a small and shallow convection, so it is not itself not thick
+
+619
+00:29:33,000 --> 00:29:42,000
+But if they are connected together, it means that there is a large-scale movement approaching, so the whole air will rise upwards
+
+620
+00:29:42,000 --> 00:29:52,000
+When you see this convection, some of the air rises and some of it goes down, but when you see the whole becomes one piece, then the weather starts to get bad
+
+621
+00:29:53,000 --> 00:29:59,000
+If it's the other way around, you first see a large layer of cloud formation, and then come on, it suddenly becomes this
+
+622
+00:30:00,000 --> 00:30:02,000
+the weather will get better
+
+623
+00:30:04,000 --> 00:30:08,000
+This situation means that when I was a freshman or sophomore
+
+624
+00:30:08,000 --> 00:30:10,000
+I just learned a little bit about this
+
+625
+00:30:10,000 --> 00:30:11,000
+very happy
+
+626
+00:30:11,000 --> 00:30:13,000
+I just got married
+
+627
+00:30:13,000 --> 00:30:15,000
+it rained heavily that morning
+
+628
+00:30:15,000 --> 00:30:17,000
+Of course everyone is very troubled
+
+629
+00:30:17,000 --> 00:30:19,000
+It's finally raining
+
+630
+00:30:19,000 --> 00:30:22,000
+It's inconvenient to get married when it rains
+
+631
+00:30:22,000 --> 00:30:24,000
+Trouble with guests
+
+632
+00:30:24,000 --> 00:30:27,000
+Sometimes I told him that I hadn't studied the heptathlon
+
+633
+00:30:28,000 --> 00:30:31,000
+Soon about ten o'clock
+
+634
+00:30:31,000 --> 00:30:35,000
+I saw that the blue sky began to have a few pieces of this small
+
+635
+00:30:35,000 --> 00:30:38,000
+This kind of high-speed machine looks like it came out
+
+636
+00:30:38,000 --> 00:30:40,000
+I'm bold enough to tell my father
+
+637
+00:30:40,000 --> 00:30:43,000
+Don't worry, the weather will improve
+
+638
+00:30:43,000 --> 00:30:46,000
+Sure enough, more than an hour
+
+639
+00:30:46,000 --> 00:30:49,000
+Slowly and slowly the whole cost becomes the whole rain
+
+640
+00:30:49,000 --> 00:30:51,000
+slowly become like this
+
+641
+00:30:51,000 --> 00:30:52,000
+rain like rain
+
+642
+00:30:52,000 --> 00:30:55,000
+In the afternoon, it was simply the situation.
+
+643
+00:30:55,000 --> 00:30:59,000
+So I'm very impressed with doing
+
+644
+00:31:00,000 --> 00:31:02,000
+It's a good day to see high altitude clouds
+
+645
+00:31:02,000 --> 00:31:04,000
+Everyone knows about this painting
+
+646
+00:31:04,000 --> 00:31:09,000
+The problem is that you want to change the shape of the cloud from this
+
+647
+00:31:09,000 --> 00:31:12,000
+go see what the weather will be like
+
+648
+00:31:12,000 --> 00:31:13,000
+which is more important
+
+649
+00:31:13,000 --> 00:31:15,000
+so you want to understand this
+
+650
+00:31:15,000 --> 00:31:16,000
+Of course you need to understand
+
+651
+00:31:16,000 --> 00:31:18,000
+Where did this cloud come from?
+
+652
+00:31:18,000 --> 00:31:20,000
+so after knowing this
+
+653
+00:31:20,000 --> 00:31:23,000
+It's more interesting to look at the cloud
+
+654
+00:31:23,000 --> 00:31:28,000
+Some western flower family even even clouds
+
+655
+00:31:28,000 --> 00:31:31,000
+Those were a little more static
+
+656
+00:31:31,000 --> 00:31:32,000
+The painting is a little dynamic
+
+657
+00:31:32,000 --> 00:31:35,000
+because it draws clouds
+
+658
+00:31:35,000 --> 00:31:38,000
+This is clearly a dense cloud
+
+659
+00:31:38,000 --> 00:31:39,000
+and it's beyond the clouds
+
+660
+00:31:39,000 --> 00:31:41,000
+look at the windy direction
+
+661
+00:31:41,000 --> 00:31:43,000
+sometimes see that cloud
+
+662
+00:31:43,000 --> 00:31:44,000
+especially in autumn
+
+663
+00:31:44,000 --> 00:31:46,000
+The higher wind is stronger
+
+664
+00:31:46,000 --> 00:31:49,000
+It can blow clouds from side to side
+
+665
+00:31:49,000 --> 00:31:51,000
+you can see this cloud
+
+666
+00:31:51,000 --> 00:31:53,000
+so-called wind shear
+
+667
+00:31:53,000 --> 00:31:54,000
+so it's obvious
+
+668
+00:31:54,000 --> 00:31:57,000
+The wind on this upper level blows from the right to the left
+
+669
+00:31:57,000 --> 00:32:00,000
+This is an American painter's Junker
+
+670
+00:32:00,000 --> 00:32:03,080
+He just made it so that he wasn't really one of us.
+
+671
+00:32:03,080 --> 00:32:04,380
+But the scenery he painted
+
+672
+00:32:04,380 --> 00:32:07,580
+It’s just the scenery near the Metis where I live
+
+673
+00:32:07,580 --> 00:32:09,580
+exactly like this
+
+674
+00:32:09,580 --> 00:32:12,080
+some countryside then some trees
+
+675
+00:32:12,080 --> 00:32:14,880
+And did you see that autumn really is
+
+676
+00:32:14,880 --> 00:32:19,420
+This very high cloud then goes in a certain direction
+
+677
+00:32:19,420 --> 00:32:22,000
+I just asked my students
+
+678
+00:32:22,000 --> 00:32:25,500
+After you see this painting, is there any way to warm it up on the ground?
+
+679
+00:32:25,500 --> 00:32:29,340
+As the altitude changes then the wind on the ground follows the wind direction at altitude
+
+680
+00:32:30,220 --> 00:32:33,340
+We call the explorer refusal, is there a way to write it out?
+
+681
+00:32:33,340 --> 00:32:35,340
+It should be possible
+
+682
+00:32:35,340 --> 00:32:40,340
+If you are familiar with the terroir of a place
+
+683
+00:32:42,680 --> 00:32:45,840
+In addition to these individual clouds just now
+
+684
+00:32:45,840 --> 00:32:47,840
+I have all kinds of scenery
+
+685
+00:32:47,840 --> 00:32:52,840
+Like our sea of ​​clouds, a friend of mine named Zhuang Kaihua took this picture
+
+686
+00:32:52,840 --> 00:32:56,840
+This one is in Miaoli
+
+687
+00:32:56,840 --> 00:32:59,840
+Miaoli seems to be called crow leaf or something
+
+688
+00:33:00,000 --> 00:33:02,000
+where we are over there
+
+689
+00:33:02,000 --> 00:33:04,000
+we go camping over there
+
+690
+00:33:04,000 --> 00:33:07,000
+We often see this in Taiwan
+
+691
+00:33:07,000 --> 00:33:12,000
+The whole cloud submerges the mountain like the sea
+
+692
+00:33:12,000 --> 00:33:15,000
+So it's a cloud phenomenon
+
+693
+00:33:15,000 --> 00:33:19,000
+often in the valley
+
+694
+00:33:19,000 --> 00:33:21,000
+early in the morning
+
+695
+00:33:21,000 --> 00:33:23,000
+maybe the weather is nice
+
+696
+00:33:23,000 --> 00:33:26,000
+But slowly the wind blows
+
+697
+00:33:26,000 --> 00:33:29,000
+you can see the whole valley
+
+698
+00:33:29,000 --> 00:33:30,000
+empty full of clouds
+
+699
+00:33:30,000 --> 00:33:33,000
+a piece exactly like the sea
+
+700
+00:33:33,000 --> 00:33:36,000
+So this sea of ​​clouds is really like a sea of ​​clouds
+
+701
+00:33:36,000 --> 00:33:41,000
+Yunshan is really a mountain
+
+702
+00:33:41,000 --> 00:33:43,000
+This is the plane I took
+
+703
+00:33:43,000 --> 00:33:48,000
+Already flew at a peak of about 12,000 meters
+
+704
+00:33:48,000 --> 00:33:49,000
+But because of the clouds above
+
+705
+00:33:49,000 --> 00:33:51,000
+taller than this plane
+
+706
+00:33:51,000 --> 00:33:53,000
+Twelve thousand meters
+
+707
+00:33:53,000 --> 00:33:55,000
+world's highest peak
+
+708
+00:33:55,000 --> 00:33:57,000
+Come to Mount Everest this time
+
+709
+00:33:57,000 --> 00:34:00,000
+Or I will code the wind in mainland China
+
+710
+00:34:00,000 --> 00:34:02,800
+Only more than 8000 less than 9000 meters
+
+711
+00:34:03,460 --> 00:34:06,920
+So if you move Inoki male king to
+
+712
+00:34:07,160 --> 00:34:08,200
+same place
+
+713
+00:34:08,460 --> 00:34:09,720
+still below
+
+714
+00:34:11,260 --> 00:34:13,060
+Clouds in our Taiwan summer
+
+715
+00:34:13,320 --> 00:34:15,620
+It's just ten kilometers
+
+716
+00:34:15,880 --> 00:34:18,940
+The kind of summer that makes cloud-based tops
+
+717
+00:34:19,200 --> 00:34:21,240
+About 12 to 13 kilometers
+
+718
+00:34:21,760 --> 00:34:22,260
+At least
+
+719
+00:34:23,300 --> 00:34:25,860
+When it is more vigorous, sometimes 15
+
+720
+00:34:26,620 --> 00:34:27,140
+15 6 km
+
+721
+00:34:27,400 --> 00:34:28,420
+are very high clouds
+
+722
+00:34:29,140 --> 00:34:31,760
+Your so-called highest peak in the world is actually still
+
+723
+00:34:32,260 --> 00:34:33,800
+still much lower than that
+
+724
+00:34:34,060 --> 00:34:34,820
+Simply
+
+725
+00:34:35,080 --> 00:34:36,360
+89 kilometers like this
+
+726
+00:34:40,700 --> 00:34:41,480
+This is also based on
+
+727
+00:34:41,740 --> 00:34:44,300
+This is all you can see if you look at him from a plane based on
+
+728
+00:34:44,560 --> 00:34:47,880
+Basically, it grows long and long from a very low place a few hundred meters
+
+729
+00:34:48,140 --> 00:34:49,160
+grow to
+
+730
+00:34:49,420 --> 00:34:50,180
+ten kilometers high
+
+731
+00:34:51,460 --> 00:34:53,500
+So if you haven't been to this Everest
+
+732
+00:34:53,760 --> 00:34:55,300
+if moved in front of your eyes
+
+733
+00:34:55,560 --> 00:34:56,580
+how high will it be
+
+734
+00:34:56,580 --> 00:34:58,580
+It's not really that high
+
+735
+00:35:00,000 --> 00:35:05,000
+So this can give you a better reference point is
+
+736
+00:35:05,000 --> 00:35:09,000
+Of course not all clouds are happy
+
+737
+00:35:09,000 --> 00:35:12,000
+Some clouds look a little scary
+
+738
+00:35:12,000 --> 00:35:14,000
+This is called a milky advanced cloud
+
+739
+00:35:14,000 --> 00:35:19,000
+This is usually in this kind of cloud with this storm
+
+740
+00:35:19,000 --> 00:35:21,000
+very relevant cloud
+
+741
+00:35:21,000 --> 00:35:23,000
+You can see it this below
+
+742
+00:35:23,000 --> 00:35:27,000
+Round and round, a bit like that cow
+
+743
+00:35:27,000 --> 00:35:31,000
+Saggy bunch of this cow's milk like
+
+744
+00:35:31,000 --> 00:35:33,000
+So we call it milky high cloud
+
+745
+00:35:33,000 --> 00:35:37,000
+I remember Li He in the Tang Dynasty
+
+746
+00:35:37,000 --> 00:35:39,000
+Also wrote a poem called Black Cloud
+
+747
+00:35:39,000 --> 00:35:41,000
+Duck City Chen Yuchui
+
+748
+00:35:41,000 --> 00:35:44,000
+The false light is like golden clouds blooming on the sun
+
+749
+00:35:44,000 --> 00:35:46,000
+he wrote this scene
+
+750
+00:35:46,000 --> 00:35:52,000
+I think it's exactly like the scene I took that time
+
+751
+00:35:52,000 --> 00:35:55,000
+This is the so-called milky advanced cloud
+
+752
+00:35:55,000 --> 00:35:57,000
+how did this come about
+
+753
+00:35:57,000 --> 00:35:59,000
+now everyone is arguing
+
+754
+00:36:00,000 --> 00:36:01,000
+have different theories
+
+755
+00:36:01,000 --> 00:36:04,000
+But why would he cause
+
+756
+00:36:04,000 --> 00:36:07,000
+It just so happens that this kind of spherical shape is very strange.
+
+757
+00:36:12,000 --> 00:36:14,000
+Gao Jin's advocacy just now also looks strange.
+
+758
+00:36:14,000 --> 00:36:16,000
+But it's not scary
+
+759
+00:36:17,000 --> 00:36:19,000
+This movie is more scary
+
+760
+00:36:19,000 --> 00:36:21,000
+This shadow is what we call the strong shadow
+
+761
+00:36:21,000 --> 00:36:23,000
+Walk on
+
+762
+00:36:23,000 --> 00:36:26,000
+basically you can see this ground
+
+763
+00:36:26,000 --> 00:36:28,000
+This shadow is like a big one of this kind
+
+764
+00:36:28,000 --> 00:36:31,000
+Vacuum cleaner blows down from the sky again
+
+765
+00:36:31,000 --> 00:36:33,000
+If you just stood below
+
+766
+00:36:33,000 --> 00:36:35,000
+The hot water is sucked up
+
+767
+00:36:35,000 --> 00:36:39,000
+It's like an alien machine
+
+768
+00:36:40,000 --> 00:36:41,000
+Of course you see this cloud
+
+769
+00:36:41,000 --> 00:36:43,000
+i think you better run faster
+
+770
+00:36:44,000 --> 00:36:48,000
+Because this kind of shadow is the precursor of a tornado
+
+771
+00:36:49,000 --> 00:36:51,000
+This cloud usually appears
+
+772
+00:36:51,000 --> 00:36:53,000
+Signs of a tornado
+
+773
+00:36:53,000 --> 00:36:56,000
+This wall-like circle of clouds
+
+774
+00:36:56,000 --> 00:36:58,000
+Then it's slowly turning
+
+775
+00:37:00,000 --> 00:37:02,700
+That tornado doesn't seem to appear slowly
+
+776
+00:37:02,700 --> 00:37:03,800
+some slowly
+
+777
+00:37:03,800 --> 00:37:05,000
+but there are
+
+778
+00:37:05,000 --> 00:37:06,300
+when you look happy like this
+
+779
+00:37:06,300 --> 00:37:08,000
+it came suddenly
+
+780
+00:37:08,000 --> 00:37:10,000
+Maybe it's right in front of your eyes
+
+781
+00:37:10,000 --> 00:37:11,800
+Suddenly a tornado appeared
+
+782
+00:37:11,800 --> 00:37:13,000
+it will be like this
+
+783
+00:37:13,000 --> 00:37:18,000
+So when you see this cloud phenomenon
+
+784
+00:37:18,000 --> 00:37:21,000
+This is to find a place to hide
+
+785
+00:37:21,000 --> 00:37:24,000
+or lower your voice
+
+786
+00:37:24,000 --> 00:37:26,000
+Maybe it's safer
+
+787
+00:37:27,000 --> 00:37:30,000
+Those just now are not very scientific
+
+788
+00:37:30,000 --> 00:37:32,000
+those are a chat
+
+789
+00:37:32,000 --> 00:37:34,000
+let's take a look now
+
+790
+00:37:34,000 --> 00:37:36,000
+Where did the cloud come from?
+
+791
+00:37:36,000 --> 00:37:40,000
+The elements of the cloud are not there in the end
+
+792
+00:37:40,000 --> 00:37:41,000
+That's it
+
+793
+00:37:41,000 --> 00:37:42,000
+First
+
+794
+00:37:42,000 --> 00:37:45,000
+Clouds must have water vapor
+
+795
+00:37:45,000 --> 00:37:47,000
+Clouds must have water vapor
+
+796
+00:37:47,000 --> 00:37:50,000
+We say that clouds are mainly made of water
+
+797
+00:37:50,000 --> 00:37:52,000
+If you have another smoke cause
+
+798
+00:37:52,000 --> 00:37:53,000
+that doesn't count
+
+799
+00:37:54,000 --> 00:37:56,000
+Speaking of this water vapor
+
+800
+00:37:56,000 --> 00:37:57,000
+you mention again
+
+801
+00:37:57,000 --> 00:38:00,000
+Here we sometimes talk about the so-called man-made cloud
+
+802
+00:38:00,000 --> 00:38:03,740
+Say wow, no, we are in a drought, we need to hurry up and make rain
+
+803
+00:38:05,240 --> 00:38:07,640
+But drought, what does drought mean?
+
+804
+00:38:07,640 --> 00:38:09,340
+You are almost out of water
+
+805
+00:38:10,340 --> 00:38:15,040
+True droughts are very, very rare in representations of water in the air
+
+806
+00:38:15,040 --> 00:38:15,880
+absolutely not
+
+807
+00:38:16,640 --> 00:38:18,180
+How do you make rain when you have no water at all?
+
+808
+00:38:18,680 --> 00:38:19,440
+no way
+
+809
+00:38:20,240 --> 00:38:22,780
+So I made a skylight question, do you have any comments?
+
+810
+00:38:23,540 --> 00:38:26,880
+What is the south of the bridge, what is nothing, what is known
+
+811
+00:38:27,080 --> 00:38:30,760
+Anyone want to try it?
+
+812
+00:38:30,760 --> 00:38:34,560
+In fact, this is not an answer, the answer is up to you
+
+813
+00:38:34,560 --> 00:38:36,860
+say what you want
+
+814
+00:38:41,980 --> 00:38:44,280
+I made this
+
+815
+00:38:44,280 --> 00:38:47,120
+if you have no water at all
+
+816
+00:38:47,120 --> 00:38:49,920
+Even if you are a god, you cannot create clouds
+
+817
+00:38:49,920 --> 00:38:53,000
+There is no water to make it, you are making too much of this
+
+818
+00:38:53,880 --> 00:38:56,840
+It's useless to throw away stippling silver or something like that
+
+819
+00:38:57,600 --> 00:38:59,920
+So if you want clouds, first of all, of course you must form water
+
+820
+00:39:00,000 --> 00:39:05,000
+Sometimes there is water vapor, but sometimes there is no cloud, why?
+
+821
+00:39:05,000 --> 00:39:08,000
+Because the water vapor has to be saturated to be able to
+
+822
+00:39:08,000 --> 00:39:12,000
+So the second one is that you have to reach saturation
+
+823
+00:39:12,000 --> 00:39:14,000
+What does it mean to be saturated?
+
+824
+00:39:14,000 --> 00:39:19,000
+The first one is that your water vapor content must be sufficient
+
+825
+00:39:19,000 --> 00:39:24,000
+Second, sometimes there is a lot of water vapor, you will feel very stuffy
+
+826
+00:39:24,000 --> 00:39:29,000
+But the sky is still very bright with few and no clouds
+
+827
+00:39:29,000 --> 00:39:33,000
+But you feel dazed and sad, why?
+
+828
+00:39:33,000 --> 00:39:37,000
+Because it has not reached saturation, then under what circumstances will it reach saturation
+
+829
+00:39:37,000 --> 00:39:41,000
+That kind of saturation has a lot to do with temperature and air temperature.
+
+830
+00:39:41,000 --> 00:39:45,000
+Therefore, the water vapor content and the temperature must be coordinated with each other.
+
+831
+00:39:45,000 --> 00:39:48,000
+to saturate the cloud
+
+832
+00:39:48,000 --> 00:39:52,000
+These two things are actually related to the movement of air.
+
+833
+00:39:52,000 --> 00:39:54,000
+What is air movement called?
+
+834
+00:39:54,000 --> 00:39:57,000
+air movement that is called wind
+
+835
+00:39:57,000 --> 00:40:01,000
+Of course it's wind and water
+
+836
+00:40:00,000 --> 00:40:02,000
+just one of them
+
+837
+00:40:02,000 --> 00:40:04,000
+Usually we call horizontal movement
+
+838
+00:40:04,000 --> 00:40:06,000
+is called the wind
+
+839
+00:40:06,000 --> 00:40:08,000
+The wind from east to west, from north to south
+
+840
+00:40:08,000 --> 00:40:10,000
+This is to say that the air is a horizontal movement
+
+841
+00:40:10,000 --> 00:40:12,000
+But the air has to move up and down
+
+842
+00:40:12,000 --> 00:40:14,000
+At that time it was not called the wind
+
+843
+00:40:14,000 --> 00:40:16,000
+updraft or downdraft
+
+844
+00:40:16,000 --> 00:40:18,000
+then this is
+
+845
+00:40:18,000 --> 00:40:20,000
+turn this
+
+846
+00:40:20,000 --> 00:40:22,000
+talk about this up and down
+
+847
+00:40:22,000 --> 00:40:24,000
+general cloud formation
+
+848
+00:40:24,000 --> 00:40:26,000
+updraft relationship
+
+849
+00:40:26,000 --> 00:40:28,000
+relatively close
+
+850
+00:40:28,000 --> 00:40:30,000
+comparison means
+
+851
+00:40:30,000 --> 00:40:32,000
+some in
+
+852
+00:40:32,000 --> 00:40:34,000
+There are of course other possibilities under individual circumstances.
+
+853
+00:40:34,000 --> 00:40:36,000
+but the updraft
+
+854
+00:40:36,000 --> 00:40:38,000
+The relationship is particularly great
+
+855
+00:40:38,000 --> 00:40:40,000
+that might
+
+856
+00:40:40,000 --> 00:40:42,000
+a little unforgettable
+
+857
+00:40:42,000 --> 00:40:44,000
+That is to say, the horizontal movement of the air is
+
+858
+00:40:44,000 --> 00:40:46,000
+What is the difference in vertical movement?
+
+859
+00:40:46,000 --> 00:40:48,000
+This difference is very large
+
+860
+00:40:48,000 --> 00:40:50,000
+just with you
+
+861
+00:40:50,000 --> 00:40:52,000
+usually walk on flat road
+
+862
+00:40:52,000 --> 00:40:54,000
+follow you up the mountain
+
+863
+00:40:54,000 --> 00:40:56,000
+Also walk a mile to see
+
+864
+00:40:56,000 --> 00:40:58,000
+Generally similar
+
+865
+00:41:00,000 --> 00:41:01,540
+you see this is different
+
+866
+00:41:01,540 --> 00:41:02,940
+But for the air
+
+867
+00:41:02,940 --> 00:41:05,740
+what is its biggest difference
+
+868
+00:41:05,740 --> 00:41:07,440
+its biggest difference
+
+869
+00:41:07,440 --> 00:41:09,540
+vertical movement of air
+
+870
+00:41:09,540 --> 00:41:12,740
+The change in air pressure it experiences is very large
+
+871
+00:41:12,740 --> 00:41:14,340
+if you level
+
+872
+00:41:14,340 --> 00:41:15,940
+it doesn't change air pressure
+
+873
+00:41:15,940 --> 00:41:17,740
+In general, a large area
+
+874
+00:41:17,740 --> 00:41:20,140
+its air pressure is about the same
+
+875
+00:41:20,140 --> 00:41:22,940
+So your air if in the same area
+
+876
+00:41:22,940 --> 00:41:24,140
+move around
+
+877
+00:41:24,140 --> 00:41:25,540
+If it is a horizontal movement
+
+878
+00:41:25,540 --> 00:41:27,140
+its air pressure hasn't changed
+
+879
+00:41:27,140 --> 00:41:28,740
+But if it is vertical
+
+880
+00:41:28,740 --> 00:41:30,180
+it's totally different
+
+881
+00:41:30,180 --> 00:41:33,980
+Ordinary air, if it runs upwards,
+
+882
+00:41:33,980 --> 00:41:35,580
+what consequences will it have
+
+883
+00:41:39,580 --> 00:41:41,580
+when an air goes up
+
+884
+00:41:41,580 --> 00:41:43,980
+The pressure outside is suddenly less
+
+885
+00:41:43,980 --> 00:41:45,180
+we all know
+
+886
+00:41:45,180 --> 00:41:48,740
+The higher the altitude, the thinner the air
+
+887
+00:41:48,740 --> 00:41:50,480
+right
+
+888
+00:41:50,480 --> 00:41:52,080
+some people have mountain sickness
+
+889
+00:41:52,080 --> 00:41:53,140
+That altitude sickness is another
+
+890
+00:41:53,140 --> 00:41:55,580
+But Takayama has a very serious
+
+891
+00:41:55,580 --> 00:41:58,040
+In the mountains, the air is thinner
+
+892
+00:41:58,080 --> 00:41:59,380
+Some people are not used to it
+
+893
+00:41:59,380 --> 00:42:00,280
+Some people even outside
+
+894
+00:42:00,000 --> 00:42:01,000
+will be confused
+
+895
+00:42:01,340 --> 00:42:03,340
+that almost everyone
+
+896
+00:42:03,340 --> 00:42:05,340
+except for local residents
+
+897
+00:42:05,340 --> 00:42:08,340
+If you go to the mountain with a height of about 5,000 meters
+
+898
+00:42:08,340 --> 00:42:11,340
+Almost all of them will come across more or less
+
+899
+00:42:11,940 --> 00:42:14,840
+So, for example, when it comes to the shoreland 13 in South America
+
+900
+00:42:14,840 --> 00:42:16,840
+That place is five or six thousand meters
+
+901
+00:42:16,840 --> 00:42:19,840
+People who are not used to it can't stand that height
+
+902
+00:42:19,840 --> 00:42:20,840
+why
+
+903
+00:42:20,840 --> 00:42:22,340
+Because it is very air-absorbing
+
+904
+00:42:22,340 --> 00:42:24,340
+The air is very attracted to you
+
+905
+00:42:24,340 --> 00:42:26,340
+Inhaled air, the oxygen content is not enough
+
+906
+00:42:26,340 --> 00:42:31,340
+Let you this can't produce enough heat
+
+907
+00:42:31,340 --> 00:42:33,340
+So this air is getting more and more absorbed
+
+908
+00:42:33,340 --> 00:42:35,340
+This is a very important phenomenon
+
+909
+00:42:35,340 --> 00:42:37,340
+when you have a cloud of air
+
+910
+00:42:37,340 --> 00:42:39,340
+when going up
+
+911
+00:42:39,340 --> 00:42:41,340
+outside air adsorption
+
+912
+00:42:41,340 --> 00:42:42,340
+on behalf of
+
+913
+00:42:42,340 --> 00:42:46,340
+Because the air is supposed to have pressure, right?
+
+914
+00:42:46,340 --> 00:42:48,340
+Then you are under so much pressure
+
+915
+00:42:48,340 --> 00:42:50,340
+When it rises suddenly, the pressure outside it decreases
+
+916
+00:42:50,340 --> 00:42:53,340
+Then it will start to expand outward
+
+917
+00:42:54,340 --> 00:42:57,340
+What will be the consequences of this expansion in the past?
+
+918
+00:42:57,340 --> 00:42:59,340
+If a mass of air expands outward
+
+919
+00:43:00,000 --> 00:43:02,000
+without other sources of heat
+
+920
+00:43:02,500 --> 00:43:05,500
+It's one of the greatest possibilities it will get cold
+
+921
+00:43:06,000 --> 00:43:07,500
+So when an air it expands
+
+922
+00:43:08,000 --> 00:43:10,000
+As it rises and expands it cools
+
+923
+00:43:11,000 --> 00:43:13,500
+Once it got cold, there was some water vapor in it
+
+924
+00:43:15,000 --> 00:43:17,500
+The water vapor is originally called unsaturated
+
+925
+00:43:17,500 --> 00:43:20,500
+Because under the condition of relatively high temperature
+
+926
+00:43:20,500 --> 00:43:22,000
+it does not reach saturation
+
+927
+00:43:22,500 --> 00:43:24,000
+But when you get cold
+
+928
+00:43:24,500 --> 00:43:26,500
+It may slowly this saturation
+
+929
+00:43:27,000 --> 00:43:28,000
+Higher and higher
+
+930
+00:43:28,500 --> 00:43:29,500
+it may not necessarily reach saturation
+
+931
+00:43:30,500 --> 00:43:32,500
+but maybe 90 percent saturated
+
+932
+00:43:33,000 --> 00:43:34,000
+Then lift it up
+
+933
+00:43:34,500 --> 00:43:36,000
+In the end it really saturates
+
+934
+00:43:36,500 --> 00:43:38,500
+As long as the air goes up
+
+935
+00:43:38,500 --> 00:43:39,500
+it's getting colder
+
+936
+00:43:40,500 --> 00:43:42,000
+cloud of dry air
+
+937
+00:43:42,000 --> 00:43:44,500
+Or even a cloud of air with water vapor in it
+
+938
+00:43:44,500 --> 00:43:45,500
+it goes up
+
+939
+00:43:45,500 --> 00:43:48,500
+As long as there is no condensation
+
+940
+00:43:49,500 --> 00:43:51,000
+it lifts a kilometer
+
+941
+00:43:51,000 --> 00:43:52,500
+it's about ten degrees lower
+
+942
+00:43:54,000 --> 00:43:55,000
+so cold
+
+943
+00:43:55,500 --> 00:43:57,500
+A cloud of air is on the ground if twenty degrees
+
+944
+00:43:57,500 --> 00:44:00,000
+You lifted it two thousand meters
+
+945
+00:44:00,000 --> 00:44:03,000
+it will be zero degrees freezing point
+
+946
+00:44:03,000 --> 00:44:07,000
+So this is a big change
+
+947
+00:44:07,000 --> 00:44:11,000
+A cloud of air rises two meters from the ground, after two thousand meters
+
+948
+00:44:11,000 --> 00:44:14,000
+Alishan Alishan is not even 2,000 meters away
+
+949
+00:44:14,000 --> 00:44:17,000
+If a cloud of air rises from the ground to the height of Alishan
+
+950
+00:44:17,000 --> 00:44:21,000
+The air inside can become freezing point.
+
+951
+00:44:21,000 --> 00:44:23,000
+then you may find it strange
+
+952
+00:44:23,000 --> 00:44:26,000
+But Alishan is not always freezing point
+
+953
+00:44:27,000 --> 00:44:29,000
+Of course the so-called what I just said is
+
+954
+00:44:29,000 --> 00:44:31,000
+That is only if the air has movement
+
+955
+00:44:31,000 --> 00:44:34,000
+But usually the air in Alishan is not from sports.
+
+956
+00:44:34,000 --> 00:44:38,000
+That's another mechanic, that's another story
+
+957
+00:44:38,000 --> 00:44:40,000
+I won't mention it for now
+
+958
+00:44:40,000 --> 00:44:41,000
+What I want to mention here is that
+
+959
+00:44:41,000 --> 00:44:43,000
+If you have a cloud of air rising up the table
+
+960
+00:44:43,000 --> 00:44:47,000
+For two kilometers, it was originally twenty degrees and it became zero degrees.
+
+961
+00:44:47,000 --> 00:44:50,000
+Because every kilometer it cools down ten degrees
+
+962
+00:44:50,000 --> 00:44:54,000
+The same cloud of air if from a high altitude
+
+963
+00:44:54,000 --> 00:44:57,000
+sinking for some reason
+
+964
+00:44:57,000 --> 00:45:00,000
+It's going to be a day and it's going to be a very very day
+
+965
+00:45:00,000 --> 00:45:02,000
+This is actually thermodynamics
+
+966
+00:45:02,000 --> 00:45:03,000
+Thermodynamics means
+
+967
+00:45:03,000 --> 00:45:05,000
+Adiabatic expansion cools
+
+968
+00:45:05,000 --> 00:45:09,000
+Adiabatic compression heats an air
+
+969
+00:45:09,000 --> 00:45:11,000
+Then this thing with a
+
+970
+00:45:11,000 --> 00:45:13,000
+it has something to do with your flight
+
+971
+00:45:13,000 --> 00:45:16,000
+Usually we fly
+
+972
+00:45:16,000 --> 00:45:17,000
+start from the ground
+
+973
+00:45:17,000 --> 00:45:19,000
+The ground air probably has us or something
+
+974
+00:45:19,000 --> 00:45:21,000
+around 1000 mbar
+
+975
+00:45:21,000 --> 00:45:23,000
+You fly so high
+
+976
+00:45:23,000 --> 00:45:25,000
+About 200 millibars left
+
+977
+00:45:25,000 --> 00:45:26,000
+so the air has
+
+978
+00:45:26,000 --> 00:45:28,000
+That pressure has been reduced by 1.5
+
+979
+00:45:29,000 --> 00:45:30,000
+if that air
+
+980
+00:45:30,000 --> 00:45:33,000
+If the cabin doesn't pressurize the air
+
+981
+00:45:33,000 --> 00:45:35,000
+you will feel very sad
+
+982
+00:45:35,000 --> 00:45:36,000
+Because the air is too thin
+
+983
+00:45:36,000 --> 00:45:38,000
+So the captain must use
+
+984
+00:45:38,000 --> 00:45:40,000
+big compressor
+
+985
+00:45:40,000 --> 00:45:42,000
+press that air to
+
+986
+00:45:42,000 --> 00:45:44,000
+very stressful
+
+987
+00:45:44,000 --> 00:45:46,000
+almost as big as the ground
+
+988
+00:45:46,000 --> 00:45:48,000
+sometimes say 90%
+
+989
+00:45:48,000 --> 00:45:50,000
+and put that air in
+
+990
+00:45:50,000 --> 00:45:52,000
+into this cabin to let you
+
+991
+00:45:52,000 --> 00:45:53,000
+let you breathe
+
+992
+00:45:53,000 --> 00:45:55,000
+you will feel very natural
+
+993
+00:45:55,000 --> 00:45:57,000
+Then we just talked about the air
+
+994
+00:45:57,000 --> 00:45:58,000
+So if you compress that
+
+995
+00:45:58,000 --> 00:45:59,000
+it gets hot
+
+996
+00:46:00,000 --> 00:46:02,000
+Will high altitude be able to?
+
+997
+00:46:02,000 --> 00:46:04,240
+When the captain sucks in the air
+
+998
+00:46:04,240 --> 00:46:06,740
+Then heat it up and put it in
+
+999
+00:46:06,740 --> 00:46:08,540
+If it doesn't put this air
+
+1000
+00:46:08,540 --> 00:46:10,420
+after that cold
+
+1001
+00:46:10,420 --> 00:46:12,920
+if the air conditioner cools it down
+
+1002
+00:46:12,920 --> 00:46:15,920
+The temperature is about 60 degrees
+
+1003
+00:46:15,920 --> 00:46:17,420
+everyone will be hot
+
+1004
+00:46:17,420 --> 00:46:19,420
+Rick it's all over
+
+1005
+00:46:19,420 --> 00:46:23,120
+So when it shakes this air into the cabin
+
+1006
+00:46:23,120 --> 00:46:24,160
+It must be air-conditioned first
+
+1007
+00:46:24,160 --> 00:46:28,160
+pump this excess heat off
+
+1008
+00:46:28,160 --> 00:46:33,160
+So that consumes a very, very large amount of energy
+
+1009
+00:46:33,160 --> 00:46:37,160
+It is to put this pressurized hot air
+
+1010
+00:46:37,160 --> 00:46:40,160
+let it cool down and put it in this cabin
+
+1011
+00:46:40,160 --> 00:46:43,160
+So this is a very, very fuel-intensive thing
+
+1012
+00:46:43,160 --> 00:46:47,160
+Even if you still have to spend some oil to deal with these problems
+
+1013
+00:46:47,160 --> 00:46:50,160
+Even if the temperature outside the cabin at that time
+
+1014
+00:46:50,160 --> 00:46:52,160
+maybe minus sixty or seventy degrees
+
+1015
+00:46:52,160 --> 00:46:56,160
+It still needs to get this air to cool it down
+
+1016
+00:46:56,160 --> 00:46:59,160
+Relying on the outside air temperature is not enough
+
+1017
+00:47:00,000 --> 00:47:03,440
+Use this air conditioner to send the cooling back in again
+
+1018
+00:47:03,440 --> 00:47:07,860
+So this is called the expansion of the air
+
+1019
+00:47:09,300 --> 00:47:13,240
+A very important reason for the cooling of the camp
+
+1020
+00:47:13,240 --> 00:47:15,480
+So basically come this is called
+
+1021
+00:47:15,480 --> 00:47:16,960
+The basic mechanism is
+
+1022
+00:47:16,960 --> 00:47:19,080
+The mechanism of forming a camp is mainly here
+
+1023
+00:47:19,080 --> 00:47:21,200
+A cloud of air with water vapor
+
+1024
+00:47:21,200 --> 00:47:23,080
+it cools as it goes up
+
+1025
+00:47:23,080 --> 00:47:24,120
+because of swelling
+
+1026
+00:47:24,120 --> 00:47:25,240
+after cooling
+
+1027
+00:47:25,240 --> 00:47:28,080
+It will reach saturation
+
+1028
+00:47:29,080 --> 00:47:30,920
+Once saturated
+
+1029
+00:47:30,920 --> 00:47:33,640
+In theory its condensation should produce
+
+1030
+00:47:33,640 --> 00:47:36,400
+At that time you will see the clouds come out
+
+1031
+00:47:36,400 --> 00:47:41,040
+So the picture below represents a cloud
+
+1032
+00:47:41,040 --> 00:47:42,880
+A basic mechanism of cloud formation
+
+1033
+00:47:42,880 --> 00:47:46,720
+A mass of air has no water droplets in it
+
+1034
+00:47:46,720 --> 00:47:48,080
+but there is water vapor
+
+1035
+00:47:48,080 --> 00:47:51,080
+Go up and slowly get bigger and bigger
+
+1036
+00:47:51,080 --> 00:47:52,600
+to a certain extent
+
+1037
+00:47:52,600 --> 00:47:54,160
+to a certain extent
+
+1038
+00:47:54,160 --> 00:47:57,400
+After they are saturated with water vapor,
+
+1039
+00:47:57,400 --> 00:47:59,960
+Ectopic Concrete
+
+1040
+00:48:00,000 --> 00:48:04,000
+By this time you should see that cloud start to come out
+
+1041
+00:48:04,000 --> 00:48:08,000
+This is the so-called bottom of the cloud, the cloud base is starting to come out
+
+1042
+00:48:08,000 --> 00:48:12,000
+And the cloud if it still has enough water in it
+
+1043
+00:48:12,000 --> 00:48:16,000
+it will keep going up and you can see the clouds
+
+1044
+00:48:16,000 --> 00:48:20,000
+keep showing up and that weird place
+
+1045
+00:48:20,000 --> 00:48:23,000
+That is to say, once it has an air lift up
+
+1046
+00:48:23,000 --> 00:48:26,000
+The other air pocket below is probably coming up from the same place
+
+1047
+00:48:26,000 --> 00:48:29,000
+Because once you have one air and one goes up
+
+1048
+00:48:29,000 --> 00:48:32,000
+You can easily drive other places to bring in the air
+
+1049
+00:48:32,000 --> 00:48:35,000
+And from there the new air rises up
+
+1050
+00:48:35,000 --> 00:48:39,000
+The new air has other new sources of water vapor in it
+
+1051
+00:48:39,000 --> 00:48:42,000
+So you see a cloud rising far away
+
+1052
+00:48:42,000 --> 00:48:46,000
+it's cause like this up out
+
+1053
+00:48:49,000 --> 00:48:54,000
+So let's talk nonsense, let's watch this kind of cloud-making movie
+
+1054
+00:48:54,000 --> 00:49:00,000
+This is the so-called move of Yundi just now
+
+1055
+00:49:00,000 --> 00:49:05,000
+We can see the phenomenon we just mentioned
+
+1056
+00:49:14,000 --> 00:49:16,000
+you see it keeps going up
+
+1057
+00:49:16,000 --> 00:49:18,000
+I can't see anything below why
+
+1058
+00:49:18,000 --> 00:49:19,000
+because of water vapor
+
+1059
+00:49:19,000 --> 00:49:21,000
+Water vapor is so transparent you can't see it at all
+
+1060
+00:49:21,000 --> 00:49:23,000
+In fact the air is always going up
+
+1061
+00:49:23,000 --> 00:49:25,000
+But because it is transparent
+
+1062
+00:49:25,000 --> 00:49:26,000
+contains water vapor
+
+1063
+00:49:26,000 --> 00:49:28,000
+so you can't see
+
+1064
+00:49:28,000 --> 00:49:31,000
+you can't see it going up
+
+1065
+00:49:35,000 --> 00:49:38,000
+In fact, there are constantly new air bags
+
+1066
+00:49:38,000 --> 00:49:39,000
+come in here
+
+1067
+00:49:39,000 --> 00:49:41,000
+then always
+
+1068
+00:49:41,000 --> 00:49:43,000
+for this cloud
+
+1069
+00:49:43,000 --> 00:49:45,000
+A lot of new water vapor comes out
+
+1070
+00:49:45,000 --> 00:49:47,000
+If there is enough water vapor in a place,
+
+1071
+00:49:47,000 --> 00:49:50,000
+Clouds can always go up
+
+1072
+00:49:51,000 --> 00:49:54,000
+even grown to thunder and lightning
+
+1073
+00:49:56,000 --> 00:49:57,000
+Why does the air go up
+
+1074
+00:49:57,000 --> 00:49:59,000
+wait a second
+
+1075
+00:50:00,000 --> 00:50:06,880
+The little teacher didn't want to see through everyone's past
+
+1076
+00:50:06,880 --> 00:50:08,280
+wait a minute let me see
+
+1077
+00:50:08,280 --> 00:50:11,380
+You asked exactly the topic I chose
+
+1078
+00:50:11,380 --> 00:50:13,180
+Why does the air rise so high
+
+1079
+00:50:13,180 --> 00:50:15,500
+there are several theories
+
+1080
+00:50:15,500 --> 00:50:16,400
+several reasons
+
+1081
+00:50:16,400 --> 00:50:17,280
+The first is convection
+
+1082
+00:50:17,280 --> 00:50:18,780
+under the same air pressure
+
+1083
+00:50:18,780 --> 00:50:21,080
+If the air in this place is warmer
+
+1084
+00:50:21,080 --> 00:50:23,980
+Its density will become a little lighter
+
+1085
+00:50:23,980 --> 00:50:26,580
+So it creates a force
+
+1086
+00:50:26,580 --> 00:50:28,240
+For a light air is like
+
+1087
+00:50:28,440 --> 00:50:30,440
+an air bubble in water
+
+1088
+00:50:30,440 --> 00:50:32,040
+relatively small density
+
+1089
+00:50:32,040 --> 00:50:34,440
+So it will rise with a force
+
+1090
+00:50:34,440 --> 00:50:37,740
+So this is one of the first
+
+1091
+00:50:37,740 --> 00:50:40,440
+Usually this convection is called free convection
+
+1092
+00:50:40,440 --> 00:50:43,240
+because it's all temperature dependent
+
+1093
+00:50:43,240 --> 00:50:45,540
+The first is a forced convection
+
+1094
+00:50:45,540 --> 00:50:46,740
+forced convection
+
+1095
+00:50:46,740 --> 00:50:49,940
+inside the weather inside the air
+
+1096
+00:50:49,940 --> 00:50:52,140
+This is usually
+
+1097
+00:50:52,140 --> 00:50:54,640
+For example, there is a very cold air
+
+1098
+00:50:54,640 --> 00:50:55,840
+Very cold air generally
+
+1099
+00:50:55,840 --> 00:50:58,040
+it's a bit heavier
+
+1100
+00:50:58,040 --> 00:51:00,040
+when it starts moving
+
+1101
+00:51:00,000 --> 00:51:04,000
+There are many things moving, and the rotation of the earth will also drive it
+
+1102
+00:51:04,000 --> 00:51:07,000
+It doesn't rotate at the same time as the earth
+
+1103
+00:51:07,000 --> 00:51:09,000
+It sometimes spins at a different speed than the Earth
+
+1104
+00:51:09,000 --> 00:51:12,000
+So anyway, it still has relative motion with the ground
+
+1105
+00:51:12,000 --> 00:51:14,000
+Then once such cold air moves
+
+1106
+00:51:14,000 --> 00:51:17,000
+it will make the front lighter
+
+1107
+00:51:17,000 --> 00:51:19,000
+or warmer air would be lifted by it
+
+1108
+00:51:19,000 --> 00:51:23,000
+The air, the air in front is not necessarily warmer
+
+1109
+00:51:23,000 --> 00:51:25,000
+But it is also forced by it
+
+1110
+00:51:25,000 --> 00:51:27,000
+Because of its sense of movement is forced by it
+
+1111
+00:51:27,000 --> 00:51:30,000
+it winds it up like an opener
+
+1112
+00:51:30,000 --> 00:51:33,000
+So it's called compulsive, compulsive uplifting
+
+1113
+00:51:33,000 --> 00:51:36,000
+Then once the air may be reluctant
+
+1114
+00:51:36,000 --> 00:51:39,000
+It is unwilling to rise, but because of its movement
+
+1115
+00:51:39,000 --> 00:51:40,000
+so be lifted by it
+
+1116
+00:51:40,000 --> 00:51:43,000
+What should I do after I lift it up? It's the same
+
+1117
+00:51:43,000 --> 00:51:46,000
+It also expands and cools when lifted
+
+1118
+00:51:46,000 --> 00:51:48,000
+Then come the clouds
+
+1119
+00:51:48,000 --> 00:51:52,000
+That's because this kind of movement usually has a larger scale
+
+1120
+00:51:52,000 --> 00:51:54,000
+So it's whole, it's a movement
+
+1121
+00:51:54,000 --> 00:51:56,000
+The whole floor has gone up
+
+1122
+00:51:56,000 --> 00:51:59,000
+So the clouds you see act like clouds
+
+1123
+00:52:00,000 --> 00:52:03,400
+Because the large area is full of clouds
+
+1124
+00:52:03,400 --> 00:52:06,400
+That hair is the weather will get worse
+
+1125
+00:52:06,400 --> 00:52:08,400
+because it is a large-scale movement
+
+1126
+00:52:08,400 --> 00:52:10,400
+that's why i just said
+
+1127
+00:52:10,400 --> 00:52:12,900
+If it was a high-flying
+
+1128
+00:52:12,900 --> 00:52:15,400
+And then it becomes the whole layer all connected
+
+1129
+00:52:15,400 --> 00:52:17,400
+the weather may turn bad
+
+1130
+00:52:17,400 --> 00:52:19,400
+It is because of this large-scale movement
+
+1131
+00:52:19,400 --> 00:52:21,400
+The other is volatility
+
+1132
+00:52:21,400 --> 00:52:25,400
+Fluctuations This is usually caused by relatively small movements
+
+1133
+00:52:25,400 --> 00:52:27,400
+The so-called fluctuation is like water waves
+
+1134
+00:52:27,400 --> 00:52:30,400
+Water wave, you throw away the silk and go into the water
+
+1135
+00:52:30,400 --> 00:52:32,400
+Look at it spreading out in waves
+
+1136
+00:52:32,400 --> 00:52:34,400
+A wave spreads out as if moving
+
+1137
+00:52:34,400 --> 00:52:37,400
+But the water itself is not flowing
+
+1138
+00:52:37,400 --> 00:52:39,400
+The water itself is actually just moving up and down
+
+1139
+00:52:39,400 --> 00:52:43,400
+But that wave looks like it's been running out
+
+1140
+00:52:43,400 --> 00:52:45,400
+it just runs outside
+
+1141
+00:52:45,400 --> 00:52:48,400
+The water itself must be flowing
+
+1142
+00:52:48,400 --> 00:52:50,400
+If you throw a piece of wood on the water
+
+1143
+00:52:50,400 --> 00:52:52,400
+The log didn't run away either
+
+1144
+00:52:52,400 --> 00:52:56,400
+The wood just moves up and down in place for a while.
+
+1145
+00:52:56,400 --> 00:52:58,400
+So this is called volatility
+
+1146
+00:53:00,000 --> 00:53:01,260
+have this up and down movement
+
+1147
+00:53:01,260 --> 00:53:03,740
+whatever the reason
+
+1148
+00:53:03,740 --> 00:53:05,160
+as long as you move up
+
+1149
+00:53:05,160 --> 00:53:06,440
+air will expand
+
+1150
+00:53:06,440 --> 00:53:07,800
+will condense into clouds
+
+1151
+00:53:07,800 --> 00:53:11,160
+So all kinds of clouds come out
+
+1152
+00:53:13,000 --> 00:53:17,400
+This is a lot of individual convection generation that you saw just now
+
+1153
+00:53:17,400 --> 00:53:19,040
+This is relatively large
+
+1154
+00:53:19,040 --> 00:53:21,300
+is usually you will see something like this
+
+1155
+00:53:21,300 --> 00:53:25,440
+The whole big cloud
+
+1156
+00:53:25,440 --> 00:53:28,100
+How much does it rain
+
+1157
+00:53:28,300 --> 00:53:30,500
+or the light rain in the big rain building
+
+1158
+00:53:30,500 --> 00:53:31,940
+Of course not to say rainstorm
+
+1159
+00:53:31,940 --> 00:53:35,100
+It's unlikely
+
+1160
+00:53:35,100 --> 00:53:38,260
+If there is no wind, will there be clouds?
+
+1161
+00:53:38,260 --> 00:53:41,140
+We usually talk about wind and clouds
+
+1162
+00:53:41,140 --> 00:53:44,800
+So there must be wind and there must be clouds
+
+1163
+00:53:44,800 --> 00:53:46,900
+But we used to have one that hurt
+
+1164
+00:53:46,900 --> 00:53:48,500
+the great poet this du fu
+
+1165
+00:53:48,500 --> 00:53:51,500
+He has a Qingzhou miscellaneous stone
+
+1166
+00:53:51,500 --> 00:53:54,400
+Generally twenty hands, this is the seventh hand
+
+1167
+00:53:54,400 --> 00:53:58,500
+He has a boundless mountain, an isolated city, and a valley
+
+1168
+00:53:58,500 --> 00:54:00,000
+Wu Fengyun promotes the sun
+
+1169
+00:54:00,000 --> 00:54:01,400
+If you are unemployed, you will be more critical
+
+1170
+00:54:03,100 --> 00:54:05,600
+The two most famous of these are the
+
+1171
+00:54:06,300 --> 00:54:07,800
+Then this unemployed is getting closer
+
+1172
+00:54:07,800 --> 00:54:08,900
+Then this is astronomical
+
+1173
+00:54:09,100 --> 00:54:11,200
+Leave it to the people at the astronomical institute to explain
+
+1174
+00:54:11,800 --> 00:54:14,200
+A college student from Houhou Earth Institute can also explain
+
+1175
+00:54:15,200 --> 00:54:16,500
+then i want to explain
+
+1176
+00:54:17,100 --> 00:54:18,700
+Will no wind and cloud block
+
+1177
+00:54:18,800 --> 00:54:19,920
+If there is no wind, will it
+
+1178
+00:54:20,000 --> 00:54:21,200
+will the clouds come out
+
+1179
+00:54:22,300 --> 00:54:23,500
+that's certainly possible
+
+1180
+00:54:23,500 --> 00:54:24,900
+Because I mentioned it for a long time
+
+1181
+00:54:25,600 --> 00:54:27,600
+It doesn't have to be windy
+
+1182
+00:54:28,000 --> 00:54:29,700
+you can still have clouds
+
+1183
+00:54:30,600 --> 00:54:31,300
+pop up
+
+1184
+00:54:32,600 --> 00:54:33,600
+this is for volatility
+
+1185
+00:54:34,900 --> 00:54:36,800
+it's just at dusk
+
+1186
+00:54:36,800 --> 00:54:39,600
+You can see that there are actually many fluctuations in the air
+
+1187
+00:54:39,600 --> 00:54:41,200
+Air is like water
+
+1188
+00:54:41,300 --> 00:54:42,300
+same thing
+
+1189
+00:54:43,000 --> 00:54:44,000
+moving from time to time
+
+1190
+00:54:44,600 --> 00:54:47,400
+What if the air humidity is just right?
+
+1191
+00:54:47,700 --> 00:54:49,000
+You see just created a cloud
+
+1192
+00:54:50,200 --> 00:54:52,200
+Usually this tail is invisible
+
+1193
+00:54:52,200 --> 00:54:53,500
+because it's usually thin
+
+1194
+00:54:53,800 --> 00:54:55,300
+Good luck after giving birth on this day
+
+1195
+00:54:55,800 --> 00:54:57,800
+The sun just shines from that angle
+
+1196
+00:54:57,800 --> 00:55:00,100
+show you this thin eye
+
+1197
+00:55:00,000 --> 00:55:04,000
+So it should be seen that this place is actually a large part of the whole wave
+
+1198
+00:55:04,000 --> 00:55:08,000
+Just at the place where the height of the wave is the highest, where the wave wind
+
+1199
+00:55:08,000 --> 00:55:10,000
+some clouds will come out
+
+1200
+00:55:10,000 --> 00:55:13,000
+Why do clouds form where the wind blows?
+
+1201
+00:55:13,000 --> 00:55:17,000
+Because the place where the wave is square is of course where the air rises
+
+1202
+00:55:17,000 --> 00:55:21,000
+Usually an ancient place like this is where the air sinks
+
+1203
+00:55:21,000 --> 00:55:23,000
+There are no clouds in most places
+
+1204
+00:55:23,000 --> 00:55:25,000
+this day is special
+
+1205
+00:55:25,000 --> 00:55:26,000
+It's more humid
+
+1206
+00:55:26,000 --> 00:55:28,000
+So there will be clouds even in this place that day
+
+1207
+00:55:28,000 --> 00:55:30,000
+But this place the clouds are thicker
+
+1208
+00:55:30,000 --> 00:55:33,000
+So this cloud is a cloud produced by fluctuations
+
+1209
+00:55:33,000 --> 00:55:36,000
+it often looks like a lens
+
+1210
+00:55:36,000 --> 00:55:38,000
+So this is called lenticular
+
+1211
+00:55:38,000 --> 00:55:40,000
+lenticular cloud
+
+1212
+00:55:42,000 --> 00:55:43,000
+This is really a lenticular cloud
+
+1213
+00:55:43,000 --> 00:55:46,000
+Sometimes you can see the sky full of clouds like this
+
+1214
+00:55:46,000 --> 00:55:47,000
+like a lens
+
+1215
+00:55:47,000 --> 00:55:49,000
+like a thick slice
+
+1216
+00:55:49,000 --> 00:55:52,000
+In fact, this is all generated by waves.
+
+1217
+00:55:52,000 --> 00:55:55,000
+This is really like playing without wind and clouds
+
+1218
+00:55:55,000 --> 00:55:56,000
+you can
+
+1219
+00:55:56,000 --> 00:55:59,000
+I know it why these two doses learn well
+
+1220
+00:56:00,000 --> 00:56:02,760
+In the last section, this somewhat mysterious place
+
+1221
+00:56:02,760 --> 00:56:07,000
+Because it is written in such an unofficial place
+
+1222
+00:56:07,000 --> 00:56:10,360
+It mentions that there is no wind but there are clouds, coming out
+
+1223
+00:56:10,360 --> 00:56:13,360
+You feel as if there is no movement, but the enemy suddenly appears
+
+1224
+00:56:13,360 --> 00:56:18,840
+There's this air of absurdity coming out of your body
+
+1225
+00:56:18,840 --> 00:56:21,240
+You can imagine this place
+
+1226
+00:56:21,240 --> 00:56:25,600
+It seems that your officer is here, then on the opposite side of the mountain or when
+
+1227
+00:56:25,600 --> 00:56:30,600
+This evil slave's Qibing regiment popped up, no wind and shadow left the fortress
+
+1228
+00:56:34,600 --> 00:56:39,600
+I'm not saying I believe the name of the flying saucer, it may be a so-called flying saucer
+
+1229
+00:56:42,600 --> 00:56:45,600
+But our dude drinks decently, it's all right
+
+1230
+00:56:46,600 --> 00:56:50,600
+But this kind of cloud in the broken mirror sometimes looks like this
+
+1231
+00:56:50,600 --> 00:56:54,600
+It seems that suddenly a big tide rises and appears in the sky
+
+1232
+00:56:54,600 --> 00:56:58,600
+Then this is exactly the relationship that should fluctuate, especially in the mountains
+
+1233
+00:57:00,000 --> 00:57:03,440
+back then it would have a lot of these fluctuations
+
+1234
+00:57:03,440 --> 00:57:07,600
+This kind of fluctuation will produce this kind of cloud if the kind of conditions are just right
+
+1235
+00:57:07,600 --> 00:57:09,240
+This is often geographical
+
+1236
+00:57:09,240 --> 00:57:12,800
+Certain geographies are particularly prone to such clouds
+
+1237
+00:57:12,800 --> 00:57:14,800
+so you want to see ufo
+
+1238
+00:57:14,800 --> 00:57:17,000
+It looks especially good in that place
+
+1239
+00:57:19,800 --> 00:57:21,800
+This is the same lenticular cloud
+
+1240
+00:57:21,800 --> 00:57:23,200
+it has several layers
+
+1241
+00:57:23,200 --> 00:57:25,600
+It's the same kind of fluctuation not just one layer
+
+1242
+00:57:25,600 --> 00:57:26,800
+sometimes several layers
+
+1243
+00:57:27,400 --> 00:57:31,000
+Sometimes it looks very, very spectacular
+
+1244
+00:57:31,000 --> 00:57:33,800
+This will just go here and look up
+
+1245
+00:57:33,800 --> 00:57:35,600
+This is actually very, very many
+
+1246
+00:57:35,600 --> 00:57:38,600
+Very, very beautiful clouds can be seen
+
+1247
+00:57:41,400 --> 00:57:43,800
+And I just talked for a long time
+
+1248
+00:57:43,800 --> 00:57:45,600
+No weather
+
+1249
+00:57:45,600 --> 00:57:47,800
+So if there is no wind
+
+1250
+00:57:47,800 --> 00:57:49,000
+Clouds will still come
+
+1251
+00:57:49,000 --> 00:57:50,400
+so the wind blows
+
+1252
+00:57:50,400 --> 00:57:52,600
+This is just a general statement
+
+1253
+00:57:52,600 --> 00:57:54,800
+It's okay without the wind
+
+1254
+00:57:54,800 --> 00:57:56,600
+that's the other way around now
+
+1255
+00:57:56,600 --> 00:57:59,000
+If there is wind, do the clouds have to move?
+
+1256
+00:58:00,000 --> 00:58:05,000
+After each use, after psychology is disassembled, we may or may not move
+
+1257
+00:58:05,000 --> 00:58:10,500
+It does not move sometimes, why? You can watch this video
+
+1258
+00:58:19,000 --> 00:58:21,000
+The wind is clearly blowing
+
+1259
+00:58:22,000 --> 00:58:25,000
+But some power supplies don't seem to want to run away
+
+1260
+00:58:25,000 --> 00:58:28,000
+Like this teacher here on this mountain
+
+1261
+00:58:28,000 --> 00:58:32,000
+One side is bigger and the other side is small, but it seems that he is not willing to run away
+
+1262
+00:58:32,000 --> 00:58:35,000
+isn't it a bit strange
+
+1263
+00:58:35,000 --> 00:59:00,000
+So if there is no wind blowing, will the cloud not move? Is it possible to not move?
+
+1264
+00:59:00,000 --> 00:59:02,000
+like this case
+
+1265
+00:59:02,720 --> 00:59:05,440
+The wind is clearly leaving, the wind is blowing
+
+1266
+00:59:05,440 --> 00:59:07,720
+But that means I don't want to run away
+
+1267
+00:59:08,440 --> 00:59:09,600
+is it possible
+
+1268
+00:59:10,320 --> 00:59:12,080
+But that's what the movie is about
+
+1269
+00:59:13,040 --> 00:59:14,680
+Actually what's going on
+
+1270
+00:59:14,680 --> 00:59:16,160
+This is also a wave shadow
+
+1271
+00:59:16,480 --> 00:59:18,080
+How does this wave shadow come about?
+
+1272
+00:59:18,400 --> 00:59:20,800
+Because when the wind blows over the mountain, there are many waves
+
+1273
+00:59:21,360 --> 00:59:23,080
+so where the wind blows
+
+1274
+00:59:23,400 --> 00:59:24,280
+cloud is born
+
+1275
+00:59:24,280 --> 00:59:25,560
+because the air is reborn
+
+1276
+00:59:26,600 --> 00:59:28,320
+Just when this wave is generated
+
+1277
+00:59:28,320 --> 00:59:30,920
+This wave is called Standing Wave.
+
+1278
+00:59:31,440 --> 00:59:33,040
+when it blows over this mountain
+
+1279
+00:59:33,640 --> 00:59:35,960
+The wind of that wave is always in the same place
+
+1280
+00:59:36,800 --> 00:59:41,800
+So every time this moisture-laden air
+
+1281
+00:59:41,800 --> 00:59:43,800
+As soon as it blows over this mountain
+
+1282
+00:59:44,160 --> 00:59:45,200
+in the same place
+
+1283
+00:59:45,400 --> 00:59:47,080
+it also produces a wind
+
+1284
+00:59:47,240 --> 00:59:48,360
+where is a wave of wind
+
+1285
+00:59:48,840 --> 00:59:51,240
+So the air goes up in that same place
+
+1286
+00:59:51,680 --> 00:59:52,840
+after this wind
+
+1287
+00:59:53,120 --> 00:59:54,560
+Air rises down in the same place
+
+1288
+00:59:55,280 --> 00:59:57,280
+Once it goes down, it rises into the clouds and disappears.
+
+1289
+00:59:57,280 --> 00:59:59,640
+Once it goes up the cloud appears
+
+1290
+01:00:00,000 --> 01:00:03,360
+So in fact that cloud is not the original cloud
+
+1291
+01:00:03,360 --> 01:00:05,860
+That cloud is different from that water vapor
+
+1292
+01:00:05,860 --> 01:00:08,860
+If you make a mark for each of the water vapor, say
+
+1293
+01:00:08,860 --> 01:00:10,860
+This water vapor is fake and this is mobile
+
+1294
+01:00:10,860 --> 01:00:14,060
+I don't know where the water vapor in that Chiayi bottle went.
+
+1295
+01:00:14,060 --> 01:00:17,060
+But it looks like you're talking about the same cloud
+
+1296
+01:00:17,060 --> 01:00:19,060
+that's just an illusion
+
+1297
+01:00:19,060 --> 01:00:22,060
+In fact, all clouds are illusions
+
+1298
+01:00:22,060 --> 01:00:28,060
+When talking about age, everyone is actually an illusion
+
+1299
+01:00:28,060 --> 01:00:30,060
+So in biologists say
+
+1300
+01:00:30,060 --> 01:00:33,060
+Our cells seem to be replaced every seven years.
+
+1301
+01:00:33,060 --> 01:00:37,060
+So every seven years I am actually a different person
+
+1302
+01:00:37,060 --> 01:00:41,060
+So I used to say that the American one
+
+1303
+01:00:41,060 --> 01:00:43,060
+A swap called that Simpson
+
+1304
+01:00:43,060 --> 01:00:47,060
+Oggy Simpson he all scrubs his wife
+
+1305
+01:00:47,060 --> 01:00:49,060
+if in case he is convicted
+
+1306
+01:00:49,060 --> 01:00:52,060
+He can be hidden for seven years and then run out
+
+1307
+01:00:52,060 --> 01:00:54,060
+say I'm different
+
+1308
+01:00:54,060 --> 01:00:56,060
+I'm not the original one
+
+1309
+01:00:56,060 --> 01:00:59,060
+At critical times, I can say that what I want to judge is not
+
+1310
+01:00:59,060 --> 01:01:00,060
+not your body
+
+1311
+01:01:00,000 --> 01:01:03,000
+It's who you are, who you are as Oggy Simpson
+
+1312
+01:01:04,000 --> 01:01:10,000
+But the cloud really isn't it's not a solid thing
+
+1313
+01:01:10,000 --> 01:01:15,000
+So the components inside him are actually changing all the time.
+
+1314
+01:01:15,000 --> 01:01:19,000
+The cloud you'll see isn't really a constant thing
+
+1315
+01:01:19,000 --> 01:01:21,000
+The thing itself is always changing
+
+1316
+01:01:21,000 --> 01:01:25,000
+What you see doesn't change is the shape of that thing
+
+1317
+01:01:25,000 --> 01:01:27,000
+just a pattern, a form
+
+1318
+01:01:28,000 --> 01:01:31,000
+You always think that thing, this cloud is not
+
+1319
+01:01:31,000 --> 01:01:34,000
+That's just the form of that cloud
+
+1320
+01:01:34,000 --> 01:01:38,000
+So this thing is a very important point to understand the movement of clouds
+
+1321
+01:01:38,000 --> 01:01:43,000
+So the following pattern is also such a phenomenon
+
+1322
+01:01:43,000 --> 01:01:46,000
+The water vapor has already been
+
+1323
+01:01:46,000 --> 01:01:48,000
+You can see that the cloud doesn't seem to go anywhere else.
+
+1324
+01:01:48,000 --> 01:01:50,000
+It's just been moving up and down, but it's not
+
+1325
+01:01:50,000 --> 01:01:51,000
+That cloud has already gone away
+
+1326
+01:01:51,000 --> 01:01:53,000
+I don't know where the water went
+
+1327
+01:01:53,000 --> 01:01:56,000
+What you see is actually a completely different cloud
+
+1328
+01:01:56,000 --> 01:02:00,000
+That water vapor is already new water vapor
+
+1329
+01:02:00,000 --> 01:02:04,600
+For the same reason, when you watch the sign reports on TV, you can see
+
+1330
+01:02:04,600 --> 01:02:07,160
+Where does a certain typhoon come from?
+
+1331
+01:02:07,160 --> 01:02:11,000
+A huge cloud, like a whirlpool, and move here
+
+1332
+01:02:11,000 --> 01:02:14,840
+That's just the form of the vortex running
+
+1333
+01:02:14,840 --> 01:02:17,660
+I don't know where the water went
+
+1334
+01:02:17,660 --> 01:02:19,460
+Those waters have already finished raining
+
+1335
+01:02:19,460 --> 01:02:21,760
+There is new water coming out
+
+1336
+01:02:21,760 --> 01:02:24,060
+It's just that the water runs into the same whirlpool all day long
+
+1337
+01:02:24,060 --> 01:02:25,340
+so it looks like
+
+1338
+01:02:25,340 --> 01:02:27,140
+The clouds seem to have the same shape
+
+1339
+01:02:27,500 --> 01:02:30,980
+In fact, the water in those clouds has already been replaced with a lot of new ones.
+
+1340
+01:02:30,980 --> 01:02:32,520
+completely different
+
+1341
+01:02:32,520 --> 01:02:33,800
+so the point is
+
+1342
+01:02:33,800 --> 01:02:38,400
+One of the things you need to know when looking at the cloud
+
+1343
+01:02:38,400 --> 01:02:42,240
+OK, just now we mentioned that the vertical movement is mainly related to the generation of clouds
+
+1344
+01:02:42,240 --> 01:02:45,060
+Then let's say the level will not
+
+1345
+01:02:45,060 --> 01:02:47,100
+Did you guess wrong about the level?
+
+1346
+01:02:47,100 --> 01:02:49,660
+because there is no change in air pressure
+
+1347
+01:02:49,660 --> 01:02:52,220
+So the possibility of creating a cloud
+
+1348
+01:02:52,220 --> 01:02:54,540
+doesn't seem too big
+
+1349
+01:02:54,540 --> 01:02:58,020
+Is there any objection to this
+
+1350
+01:02:58,020 --> 01:02:59,860
+Is there any objection? No one seems to object. Strange
+
+1351
+01:03:00,000 --> 01:03:02,600
+Everyone agrees very much today
+
+1352
+01:03:05,600 --> 01:03:08,400
+In fact, a horizontal pass can also cause clouds
+
+1353
+01:03:11,200 --> 01:03:12,600
+have you seen this
+
+1354
+01:03:13,800 --> 01:03:15,800
+If you go to the show of this plane
+
+1355
+01:03:15,800 --> 01:03:19,200
+Panel sometimes sees that the aircraft performance is very slow
+
+1356
+01:03:19,200 --> 01:03:20,400
+when suddenly it's fast
+
+1357
+01:03:20,400 --> 01:03:25,400
+Suddenly, as soon as I dodged and won, I was captured in a certain place on the plane
+
+1358
+01:03:26,400 --> 01:03:28,000
+This is a positive wave
+
+1359
+01:03:28,600 --> 01:03:29,600
+Why is it called Zhengbo
+
+1360
+01:03:29,600 --> 01:03:34,600
+Because it's generated in exactly the same place as the so-called positive wave wind
+
+1361
+01:03:35,600 --> 01:03:36,200
+Sharkfron
+
+1362
+01:03:36,200 --> 01:03:39,600
+It is exactly the same shape as its positive wave
+
+1363
+01:03:39,600 --> 01:03:41,000
+and this place is
+
+1364
+01:03:41,000 --> 01:03:44,600
+When an aircraft accelerates to just supersonic speed
+
+1365
+01:03:45,200 --> 01:03:46,800
+That's when this cloud was born
+
+1366
+01:03:48,200 --> 01:03:49,200
+this is weird
+
+1367
+01:03:49,200 --> 01:03:50,800
+How did this cloud come about
+
+1368
+01:03:51,600 --> 01:03:53,400
+The two elements of the cloud we just talked about
+
+1369
+01:03:53,400 --> 01:03:55,000
+one is water vapor
+
+1370
+01:03:55,000 --> 01:03:56,800
+one is saturated
+
+1371
+01:03:57,200 --> 01:03:59,400
+so you have a way to saturate it
+
+1372
+01:04:00,000 --> 01:04:01,520
+In fact, both horizontal and vertical
+
+1373
+01:04:01,520 --> 01:04:02,520
+it doesn't matter
+
+1374
+01:04:02,520 --> 01:04:04,480
+So this horizontal movement
+
+1375
+01:04:04,480 --> 01:04:06,880
+How can it be saturated?
+
+1376
+01:04:07,600 --> 01:04:11,520
+When an aircraft accelerates beyond the factor
+
+1377
+01:04:12,000 --> 01:04:14,040
+For a while because of the movement of the plane itself
+
+1378
+01:04:14,040 --> 01:04:16,480
+faster than its rising wave
+
+1379
+01:04:16,960 --> 01:04:18,560
+the one with its air
+
+1380
+01:04:19,040 --> 01:04:22,000
+The air originally had a rising wave, the so-called compression wave
+
+1381
+01:04:22,560 --> 01:04:24,200
+when you generate this
+
+1382
+01:04:24,200 --> 01:04:25,400
+your wave source
+
+1383
+01:04:25,400 --> 01:04:28,000
+When the speed of this wave is faster than yours
+
+1384
+01:04:28,320 --> 01:04:29,480
+the wave generated at that time
+
+1385
+01:04:29,480 --> 01:04:30,880
+That's no ordinary rising wave
+
+1386
+01:04:30,880 --> 01:04:32,040
+that's a positive wave
+
+1387
+01:04:32,040 --> 01:04:35,480
+That positive wave causes the air to expand dramatically
+
+1388
+01:04:35,880 --> 01:04:38,760
+Usually the rising wave and the expansion are very small
+
+1389
+01:04:38,760 --> 01:04:41,160
+But this positive wave suddenly
+
+1390
+01:04:41,160 --> 01:04:43,920
+In a very short time it swells very much
+
+1391
+01:04:43,920 --> 01:04:45,480
+As long as the air expands
+
+1392
+01:04:45,880 --> 01:04:46,880
+right away
+
+1393
+01:04:47,600 --> 01:04:50,920
+Rapid expansion produces rapid cooling
+
+1394
+01:04:51,240 --> 01:04:53,400
+If you were this
+
+1395
+01:04:54,000 --> 01:04:56,080
+If the moisture content is sufficient
+
+1396
+01:04:56,080 --> 01:04:57,040
+so rapidly expanding
+
+1397
+01:04:57,040 --> 01:04:58,600
+let it happen now
+
+1398
+01:04:58,600 --> 01:04:59,960
+big ticket cloud
+
+1399
+01:05:00,000 --> 01:05:04,220
+His shape is exactly the same as the shape of the positive wave
+
+1400
+01:05:04,220 --> 01:05:06,200
+So this quantity is the so-called positive wave
+
+1401
+01:05:06,200 --> 01:05:14,000
+So he this if he keeps going at this supersonic speed
+
+1402
+01:05:14,000 --> 01:05:15,720
+That Yun Changchang has been following him
+
+1403
+01:05:15,720 --> 01:05:19,600
+Because he looked like he hung up a pilot
+
+1404
+01:05:19,600 --> 01:05:21,160
+It's like running for a long time
+
+1405
+01:05:21,160 --> 01:05:23,720
+Sometimes you fly over that drier place
+
+1406
+01:05:23,720 --> 01:05:24,880
+the cloud disappears
+
+1407
+01:05:24,880 --> 01:05:26,280
+The certifier is about to emerge
+
+1408
+01:05:26,280 --> 01:05:28,240
+you say watch that kind of movie
+
+1409
+01:05:29,240 --> 01:05:31,160
+And he sometimes does not practice local
+
+1410
+01:05:31,160 --> 01:05:32,680
+Sometimes there are two different places
+
+1411
+01:05:32,680 --> 01:05:36,440
+As long as that place exceeded the speed of sound at that time
+
+1412
+01:05:36,440 --> 01:05:37,960
+you will see this cloud
+
+1413
+01:05:37,960 --> 01:05:41,160
+So the same positive wave cloud
+
+1414
+01:05:41,160 --> 01:05:42,600
+so this is horizontal movement
+
+1415
+01:05:42,600 --> 01:05:44,440
+accounting is fair
+
+1416
+01:05:49,000 --> 01:05:50,920
+Is there anything other than this word?
+
+1417
+01:05:50,920 --> 01:05:52,760
+This positive wave supersonic
+
+1418
+01:05:53,760 --> 01:05:55,480
+Is there anyone climbing here?
+
+1419
+01:05:55,480 --> 01:05:57,480
+does anyone like mountain climbing
+
+1420
+01:06:00,000 --> 01:06:04,000
+Has anyone seen this cloud before?
+
+1421
+01:06:04,000 --> 01:06:07,000
+In fact, Yushan sometimes has this kind of cloud
+
+1422
+01:06:07,000 --> 01:06:10,000
+This is Benechal and this is Qi Yun
+
+1423
+01:06:10,000 --> 01:06:12,000
+because it will be like a Qizi
+
+1424
+01:06:12,000 --> 01:06:16,000
+Usually this cloud is where it's downwind
+
+1425
+01:06:16,000 --> 01:06:18,000
+Especially an isolated mountain like this
+
+1426
+01:06:18,000 --> 01:06:20,000
+particularly likely
+
+1427
+01:06:20,000 --> 01:06:22,000
+As long as this mountain is not too long
+
+1428
+01:06:22,000 --> 01:06:23,000
+like a ridge
+
+1429
+01:06:23,000 --> 01:06:24,000
+as long as it is relatively isolated
+
+1430
+01:06:24,000 --> 01:06:26,000
+and there are no other mountains nearby
+
+1431
+01:06:26,000 --> 01:06:29,000
+block until it has a high probability of producing this cloud
+
+1432
+01:06:30,000 --> 01:06:33,000
+like the world's tallest everest
+
+1433
+01:06:33,000 --> 01:06:36,000
+Also often have this kind of Benechal
+
+1434
+01:06:36,000 --> 01:06:38,000
+generate this cloud
+
+1435
+01:06:38,000 --> 01:06:40,000
+If you are climbing
+
+1436
+01:06:40,000 --> 01:06:41,000
+you see this cloud
+
+1437
+01:06:41,000 --> 01:06:43,000
+you plan not to go up
+
+1438
+01:06:43,000 --> 01:06:44,000
+better
+
+1439
+01:06:44,000 --> 01:06:45,000
+why
+
+1440
+01:06:45,000 --> 01:06:46,000
+because when you see this cloud
+
+1441
+01:06:46,000 --> 01:06:50,000
+it means the weather is not going to be good
+
+1442
+01:06:50,000 --> 01:06:52,000
+at least the wind will be strong
+
+1443
+01:06:52,000 --> 01:06:53,000
+so you were climbing
+
+1444
+01:06:53,000 --> 01:06:55,000
+can be quite dangerous
+
+1445
+01:06:55,000 --> 01:06:57,000
+especially the mountain
+
+1446
+01:06:57,000 --> 01:06:59,000
+That mountain wind is so strong
+
+1447
+01:07:00,000 --> 01:07:01,000
+but how did it come about
+
+1448
+01:07:01,000 --> 01:07:04,560
+Because usually you want enough wind speed
+
+1449
+01:07:04,560 --> 01:07:05,880
+windy enough
+
+1450
+01:07:05,880 --> 01:07:07,800
+Of course there is enough water
+
+1451
+01:07:07,800 --> 01:07:09,360
+when the wind is strong enough
+
+1452
+01:07:09,360 --> 01:07:11,680
+when you blow through a main obstacle
+
+1453
+01:07:11,680 --> 01:07:13,760
+in front of the obstacle
+
+1454
+01:07:13,760 --> 01:07:15,720
+it is a high pressure area
+
+1455
+01:07:15,720 --> 01:07:17,960
+But behind this obstacle
+
+1456
+01:07:17,960 --> 01:07:20,200
+is a low pressure area
+
+1457
+01:07:20,200 --> 01:07:22,320
+So of course when an air goes from high pressure to low pressure
+
+1458
+01:07:22,320 --> 01:07:24,160
+it also swells
+
+1459
+01:07:24,160 --> 01:07:25,760
+it would have been denser
+
+1460
+01:07:25,760 --> 01:07:27,640
+Once in this low pressure area it has no limit
+
+1461
+01:07:27,640 --> 01:07:30,400
+as the air rises
+
+1462
+01:07:30,400 --> 01:07:32,040
+At this time, the air will also expand
+
+1463
+01:07:32,040 --> 01:07:33,840
+when the air expands
+
+1464
+01:07:33,840 --> 01:07:35,480
+it will cool down
+
+1465
+01:07:35,480 --> 01:07:37,440
+possible after cooling
+
+1466
+01:07:37,440 --> 01:07:39,880
+saturate the water with air
+
+1467
+01:07:39,880 --> 01:07:43,680
+So you have this cloud
+
+1468
+01:07:43,680 --> 01:07:46,880
+Of course there are one or two other causes of cloud formation
+
+1469
+01:07:46,880 --> 01:07:48,480
+But the most important cause
+
+1470
+01:07:48,480 --> 01:07:50,600
+It's because of the wind inside
+
+1471
+01:07:50,600 --> 01:07:52,040
+so why do you see clouds
+
+1472
+01:07:52,040 --> 01:07:53,760
+Almost every time
+
+1473
+01:07:53,760 --> 01:07:55,320
+just behind this mountain
+
+1474
+01:07:55,320 --> 01:07:56,320
+just one
+
+1475
+01:07:56,320 --> 01:07:59,080
+like a cloud floating in the ocean
+
+1476
+01:07:59,080 --> 01:07:59,960
+the reason for it
+
+1477
+01:08:00,000 --> 01:08:01,000
+That's it
+
+1478
+01:08:01,000 --> 01:08:02,000
+so this is another
+
+1479
+01:08:02,000 --> 01:08:08,000
+Similarly, Ma Dehong in Switzerland is particularly easy to produce
+
+1480
+01:08:08,000 --> 01:08:11,000
+Because he is a particularly isolated mountain
+
+1481
+01:08:11,000 --> 01:08:14,000
+So he often has a big flag
+
+1482
+01:08:14,000 --> 01:08:16,000
+hanging on his flagpole
+
+1483
+01:08:16,000 --> 01:08:18,000
+it will
+
+1484
+01:08:18,000 --> 01:08:23,000
+So while horizontal motion is not the most important cause of clouds
+
+1485
+01:08:23,000 --> 01:08:25,000
+But he can also generate clouds
+
+1486
+01:08:25,000 --> 01:08:27,000
+Just gave two examples
+
+1487
+01:08:27,000 --> 01:08:29,000
+OK
+
+1488
+01:08:29,000 --> 01:08:33,000
+So we conclude that the shape of the cloud is mainly due to the flow of air
+
+1489
+01:08:33,000 --> 01:08:36,000
+Clouds are formed in the air
+
+1490
+01:08:36,000 --> 01:08:38,000
+If the air flow pattern does not change
+
+1491
+01:08:38,000 --> 01:08:40,000
+The shape of the cloud will not change
+
+1492
+01:08:40,000 --> 01:08:41,000
+look at those wave shadows
+
+1493
+01:08:41,000 --> 01:08:43,000
+it stays that way
+
+1494
+01:08:43,000 --> 01:08:46,000
+Why? Because the shape of the air flow will not change
+
+1495
+01:08:46,000 --> 01:08:49,000
+And if the air flows in the wrong way
+
+1496
+01:08:49,000 --> 01:08:51,000
+and not moving
+
+1497
+01:08:51,000 --> 01:08:53,000
+Instant air is moving
+
+1498
+01:08:53,000 --> 01:08:54,000
+the cloud doesn't move
+
+1499
+01:08:54,000 --> 01:08:57,000
+Because the cloud is in this form only
+
+1500
+01:08:57,000 --> 01:08:59,000
+The cloud of the cloud actually represents the kind of
+
+1501
+01:08:59,000 --> 01:09:01,000
+a pattern
+
+1502
+01:09:00,000 --> 01:09:03,240
+So the wind blows that cloud whatever you want
+
+1503
+01:09:03,240 --> 01:09:04,600
+It's not moving at all
+
+1504
+01:09:05,600 --> 01:09:10,100
+This is the most important point of watching the movement of clouds
+
+1505
+01:09:11,480 --> 01:09:15,400
+OK, come on down, we usually say that clouds condense when they reach saturation.
+
+1506
+01:09:16,160 --> 01:09:20,280
+Right or wrong because common sense doesn't seem to be wrong
+
+1507
+01:09:20,920 --> 01:09:23,640
+But seriously, it's not quite right.
+
+1508
+01:09:25,560 --> 01:09:28,480
+Because the so-called so-called saturation is 100%
+
+1509
+01:09:30,480 --> 01:09:32,480
+Relatively moderate and you can reach saturation
+
+1510
+01:09:32,480 --> 01:09:36,200
+The so-called relative moderate is under a specific temperature and pressure
+
+1511
+01:09:36,200 --> 01:09:39,880
+Ratio of current steam to saturated steam
+
+1512
+01:09:39,880 --> 01:09:41,600
+that is called relative moderation
+
+1513
+01:09:42,160 --> 01:09:46,320
+Saturated steam is generally determined by temperature
+
+1514
+01:09:46,320 --> 01:09:47,520
+under a certain temperature
+
+1515
+01:09:47,960 --> 01:09:53,080
+This steam that needs to be balanced on your level
+
+1516
+01:09:53,080 --> 01:09:54,560
+That is called saturated steam
+
+1517
+01:09:56,160 --> 01:09:58,720
+British scientist Teklin Kelvin
+
+1518
+01:09:58,720 --> 01:10:00,080
+he proposes a
+
+1519
+01:10:00,000 --> 01:10:04,000
+He proves to you that when your relative numbers are hundreds of words
+
+1520
+01:10:04,000 --> 01:10:08,000
+I will give you a drop of water, I promise that the drop of water must be multiplied
+
+1521
+01:10:08,000 --> 01:10:12,000
+And it must be multiplied until all of them disappear, do you want to believe it or not
+
+1522
+01:10:12,000 --> 01:10:16,000
+We usually say that I don't believe it, we have already said in textbooks
+
+1523
+01:10:16,000 --> 01:10:20,000
+Humidity is 100 words, it is starting to be lingering, but CAMMAN says it is wrong
+
+1524
+01:10:20,000 --> 01:10:25,000
+Humidity, the water droplet should be increased, I didn't believe it at the beginning
+
+1525
+01:10:25,000 --> 01:10:28,000
+But when you go to the partner company, it seems that you don't have a big face
+
+1526
+01:10:28,000 --> 01:10:32,000
+Later, many people did a lot of experiments, and it is indeed the case
+
+1527
+01:10:32,000 --> 01:10:36,000
+Indeed, it is indeed multiplied, and I later found out that our ordinary water droplets
+
+1528
+01:10:36,000 --> 01:10:40,000
+That's a few different kinds of water droplets, our normal water droplets
+
+1529
+01:10:40,000 --> 01:10:44,000
+It's not clean enough at all, if the water droplet is clean
+
+1530
+01:10:44,000 --> 01:10:48,000
+The water droplet of your relative number of hundreds of characters will increase and dissolve
+
+1531
+01:10:48,000 --> 01:10:52,000
+This has been proved by many experiments
+
+1532
+01:10:52,000 --> 01:10:57,000
+Then under what circumstances that water drop
+
+1533
+01:10:57,000 --> 01:11:00,000
+won't multiply
+
+1534
+01:11:00,000 --> 01:11:02,000
+The water drops will get off, there must be something else
+
+1535
+01:11:02,800 --> 01:11:03,800
+not just water
+
+1536
+01:11:05,500 --> 01:11:07,500
+Many experiments have proved that
+
+1537
+01:11:07,500 --> 01:11:09,500
+just below our surface environment
+
+1538
+01:11:10,100 --> 01:11:11,600
+if you only have water vapor
+
+1539
+01:11:12,400 --> 01:11:13,900
+nothing else the air will stick
+
+1540
+01:11:13,900 --> 01:11:15,100
+you smoked it very clean
+
+1541
+01:11:15,100 --> 01:11:17,200
+Use a filter to get it very clean
+
+1542
+01:11:17,800 --> 01:11:20,100
+Are you probably 300% or 400% relatively
+
+1543
+01:11:20,700 --> 01:11:22,100
+you will have to condense out
+
+1544
+01:11:22,600 --> 01:11:24,100
+Otherwise there would be no condensation
+
+1545
+01:11:24,900 --> 01:11:26,600
+Usually our air is not so clean
+
+1546
+01:11:26,600 --> 01:11:27,700
+There's a lot of stuff in there
+
+1547
+01:11:28,700 --> 01:11:29,900
+a bunch of these little particles
+
+1548
+01:11:30,200 --> 01:11:32,600
+That kind of small particle is the so-called condensation here
+
+1549
+01:11:33,400 --> 01:11:36,200
+Usually you need the help of these little particles
+
+1550
+01:11:36,800 --> 01:11:39,700
+Water vapor can only be used when the relative number is 100%.
+
+1551
+01:11:39,700 --> 01:11:40,800
+just started to condense
+
+1552
+01:11:41,100 --> 01:11:43,900
+Otherwise it would be so-called oversatisfaction
+
+1553
+01:11:44,500 --> 01:11:45,900
+it will go all the way to 300 400
+
+1554
+01:11:45,900 --> 01:11:48,100
+Then it starts to condense into water
+
+1555
+01:11:49,600 --> 01:11:51,800
+So this is called condensation
+
+1556
+01:11:52,100 --> 01:11:53,500
+So it's important to say
+
+1557
+01:11:53,900 --> 01:11:56,000
+Clouds will form in our air
+
+1558
+01:11:56,800 --> 01:11:58,100
+almost certain to have this condensation
+
+1559
+01:11:58,100 --> 01:11:59,400
+Otherwise there would be no clouds
+
+1560
+01:12:00,000 --> 01:12:03,380
+Very clean air and probably no clouds
+
+1561
+01:12:04,240 --> 01:12:06,400
+So it must be clean without air
+
+1562
+01:12:06,400 --> 01:12:10,840
+There must be some fine dust in the air
+
+1563
+01:12:10,840 --> 01:12:14,920
+Some dust particles create this cloud
+
+1564
+01:12:14,920 --> 01:12:17,400
+So this thing is called condensation nuclei
+
+1565
+01:12:18,400 --> 01:12:20,240
+The most common condensation nuclei are
+
+1566
+01:12:20,640 --> 01:12:21,720
+Leuphane-Anderlein
+
+1567
+01:12:22,600 --> 01:12:24,480
+This Sodium Ammonium Sulphate
+
+1568
+01:12:24,720 --> 01:12:27,840
+And the usual severity
+
+1569
+01:12:28,760 --> 01:12:30,840
+Ordinary is less severe
+
+1570
+01:12:30,840 --> 01:12:33,800
+Most of this flow cream
+
+1571
+01:12:38,680 --> 01:12:40,440
+if the cloud continues to grow
+
+1572
+01:12:41,720 --> 01:12:42,440
+will turn into rain
+
+1573
+01:12:42,800 --> 01:12:43,520
+become raindrops
+
+1574
+01:12:44,240 --> 01:12:48,040
+I used Google to find some cartoonists
+
+1575
+01:12:48,680 --> 01:12:49,880
+raindrops have any opinion
+
+1576
+01:12:50,880 --> 01:12:53,200
+Which one of the raindrops do you think is the best?
+
+1577
+01:12:54,200 --> 01:12:55,320
+or which one is the worst
+
+1578
+01:12:56,200 --> 01:12:58,720
+In fact, they all look the same
+
+1579
+01:12:58,720 --> 01:13:00,200
+He must have painted them all the same.
+
+1580
+01:13:00,000 --> 01:13:05,000
+But the most important point is that the raindrops here are all drawn wrong
+
+1581
+01:13:05,000 --> 01:13:07,000
+raindrops don't look like that
+
+1582
+01:13:07,000 --> 01:13:09,000
+this is not a raindrop
+
+1583
+01:13:09,000 --> 01:13:10,000
+this is tears
+
+1584
+01:13:10,000 --> 01:13:12,000
+This is a teardrop
+
+1585
+01:13:12,000 --> 01:13:14,000
+Raindrops are not like this
+
+1586
+01:13:14,000 --> 01:13:17,000
+Apparently these cartoonists have never seen raindrops like this
+
+1587
+01:13:19,000 --> 01:13:21,000
+what raindrops look like
+
+1588
+01:13:22,000 --> 01:13:24,000
+The raindrops are actually quite steep
+
+1589
+01:13:24,000 --> 01:13:27,000
+You said to use that kind of quick photo
+
+1590
+01:13:27,000 --> 01:13:31,000
+When it rains, take pictures of the raindrops
+
+1591
+01:13:33,000 --> 01:13:34,000
+This is an example
+
+1592
+01:13:34,000 --> 01:13:36,000
+Below the raindrops is flat
+
+1593
+01:13:36,000 --> 01:13:37,000
+almost flat
+
+1594
+01:13:37,000 --> 01:13:38,000
+sometimes farther
+
+1595
+01:13:38,000 --> 01:13:40,000
+But most of them are cheaper
+
+1596
+01:13:40,000 --> 01:13:42,000
+farther up
+
+1597
+01:13:42,000 --> 01:13:45,000
+This is the image of real raindrops and this is what it looks like
+
+1598
+01:13:46,000 --> 01:13:49,000
+You see, none of the cartoonists came out with a drawing board
+
+1599
+01:13:52,000 --> 01:13:54,000
+But if you know slip mechanics
+
+1600
+01:13:54,000 --> 01:13:56,000
+That's the only thing that's reasonable
+
+1601
+01:13:56,000 --> 01:13:58,000
+That's exactly what it looks like
+
+1602
+01:13:58,000 --> 01:14:00,000
+Indeed the image of raindrops
+
+1603
+01:14:00,000 --> 01:14:02,600
+It's exactly the shape of this barbarian head
+
+1604
+01:14:03,260 --> 01:14:06,300
+And here's one that we're doing experiments in a wind tunnel
+
+1605
+01:14:06,760 --> 01:14:10,720
+You can put a bead of water in a vertical wind tunnel
+
+1606
+01:14:10,720 --> 01:14:11,860
+there's wind blowing up below
+
+1607
+01:14:12,300 --> 01:14:16,900
+You can use this as long as the technology and equipment are in high condition
+
+1608
+01:14:16,900 --> 01:14:18,460
+You can stop this droplet in the air
+
+1609
+01:14:18,800 --> 01:14:19,900
+let it stop there
+
+1610
+01:14:19,900 --> 01:14:23,060
+Even in front of your eyes you can watch it stew for two hours
+
+1611
+01:14:23,860 --> 01:14:25,060
+if you want
+
+1612
+01:14:25,060 --> 01:14:28,500
+We did this kind of experiment before I was at this time
+
+1613
+01:14:30,000 --> 01:14:40,160
+This one is 1 to 3mm
+
+1614
+01:14:40,860 --> 01:14:41,960
+and no power plant
+
+1615
+01:14:41,960 --> 01:14:43,300
+In addition, there are cases for power plants
+
+1616
+01:14:43,300 --> 01:14:45,600
+But today I won't have the chance to tell you
+
+1617
+01:14:50,860 --> 01:14:52,960
+This drop of water floating in the air
+
+1618
+01:14:55,260 --> 01:14:56,900
+Do you see if its shape is that of a brute?
+
+1619
+01:15:00,000 --> 01:15:01,160
+blow up
+
+1620
+01:15:01,760 --> 01:15:04,240
+The same is equivalent to this raindrop
+
+1621
+01:15:04,240 --> 01:15:06,360
+like falling from above
+
+1622
+01:15:10,200 --> 01:15:11,640
+then i make it stop there
+
+1623
+01:15:11,640 --> 01:15:12,840
+adjust from time to time
+
+1624
+01:15:13,720 --> 01:15:14,440
+speed of air
+
+1625
+01:15:14,440 --> 01:15:17,040
+Because the water droplets will gradually increase in size after a long time.
+
+1626
+01:15:17,640 --> 01:15:18,520
+so it gets smaller
+
+1627
+01:15:18,520 --> 01:15:20,160
+So its speed will change
+
+1628
+01:15:30,200 --> 01:15:35,240
+This one is through a glass pie
+
+1629
+01:15:57,020 --> 01:15:58,420
+Then I want to raise the stage here
+
+1630
+01:15:58,420 --> 01:16:00,080
+I'll mention it here
+
+1631
+01:16:00,000 --> 01:16:03,000
+mentioned water of course, but rain if it's high enough
+
+1632
+01:16:03,000 --> 01:16:08,000
+There is not only water in it, of course there is also ice, that is what will be mentioned below
+
+1633
+01:16:08,000 --> 01:16:14,000
+So that's the water drop that's all in the air in october four
+
+1634
+01:16:22,000 --> 01:16:25,000
+So I hope everyone will go back after watching this today
+
+1635
+01:16:25,000 --> 01:16:29,000
+The next time it rains, you have to think about it all over your head, that's right
+
+1636
+01:16:33,000 --> 01:16:38,000
+OK, so when the temperature in that cloud drops below zero degrees Celsius
+
+1637
+01:16:38,000 --> 01:16:43,000
+Water vapor and water droplets in clouds may start to freeze into ice
+
+1638
+01:16:43,000 --> 01:16:47,000
+Water droplets may freeze into ice, but if water vapor freezes directly
+
+1639
+01:16:47,000 --> 01:16:52,000
+That is a freezing phenomenon called sublimation
+
+1640
+01:16:53,000 --> 01:16:58,000
+This is just common sense, common sense is often not the truth
+
+1641
+01:16:58,000 --> 01:17:01,000
+When observing in the clouds
+
+1642
+01:17:00,000 --> 01:17:03,280
+The temperature of its clouds is often minus 20 degrees
+
+1643
+01:17:03,280 --> 01:17:05,160
+As a result, the water is still low
+
+1644
+01:17:05,160 --> 01:17:07,960
+The water inside is still low, and it still hasn't turned into ice
+
+1645
+01:17:07,960 --> 01:17:09,920
+That water is too cold
+
+1646
+01:17:09,920 --> 01:17:14,120
+That supercooled water is often very, very common.
+
+1647
+01:17:14,120 --> 01:17:16,320
+So what we often observe below zero is to say
+
+1648
+01:17:16,320 --> 01:17:17,960
+minus ten to twenty degrees
+
+1649
+01:17:17,960 --> 01:17:20,280
+Sometimes even to minus 40 degrees
+
+1650
+01:17:20,280 --> 01:17:21,960
+it will really turn into ice
+
+1651
+01:17:21,960 --> 01:17:24,560
+Otherwise it is often still a lot of water
+
+1652
+01:17:24,560 --> 01:17:27,280
+and it's bad to say
+
+1653
+01:17:27,280 --> 01:17:29,320
+you know it's water
+
+1654
+01:17:29,800 --> 01:17:31,000
+But once your plane flies over
+
+1655
+01:17:31,000 --> 01:17:32,760
+it may turn to ice in no time
+
+1656
+01:17:32,760 --> 01:17:33,720
+and as soon as it flies past
+
+1657
+01:17:33,720 --> 01:17:38,280
+It's the water that sticks to the wings of your plane
+
+1658
+01:17:38,280 --> 01:17:40,520
+and can't get rid of
+
+1659
+01:17:40,520 --> 01:17:42,440
+And once the cloud is thick enough,
+
+1660
+01:17:42,440 --> 01:17:43,360
+you keep flying
+
+1661
+01:17:43,360 --> 01:17:45,000
+Its ice is getting thicker
+
+1662
+01:17:45,000 --> 01:17:48,520
+In the end, the shape of your wings completely changed
+
+1663
+01:17:48,520 --> 01:17:50,280
+It's that changed shape, that plane
+
+1664
+01:17:50,280 --> 01:17:51,800
+won't get up at all
+
+1665
+01:17:51,800 --> 01:17:54,480
+Because the wings of an airplane must have a certain shape
+
+1666
+01:17:54,480 --> 01:17:55,960
+it can go up
+
+1667
+01:17:55,960 --> 01:17:58,680
+When your airplane wings are covered with ice like this
+
+1668
+01:17:58,680 --> 01:18:00,000
+you'll come down again
+
+1669
+01:18:00,000 --> 01:18:04,940
+Many plane crashes are due to the phenomenon of aircraft crews
+
+1670
+01:18:04,940 --> 01:18:06,540
+The machine is on the paper list
+
+1671
+01:18:06,540 --> 01:18:10,440
+The most serious machine soldier does not mean that the soldier is directly glued to it
+
+1672
+01:18:10,440 --> 01:18:12,200
+but this supercooled water
+
+1673
+01:18:12,200 --> 01:18:13,840
+super cold water
+
+1674
+01:18:13,840 --> 01:18:16,640
+But once he touches this solid surface
+
+1675
+01:18:16,640 --> 01:18:18,500
+He immediately formed an army
+
+1676
+01:18:18,500 --> 01:18:20,100
+and can't take it off
+
+1677
+01:18:20,100 --> 01:18:22,000
+he's so clingy
+
+1678
+01:18:22,000 --> 01:18:23,940
+that is the most dangerous situation
+
+1679
+01:18:23,940 --> 01:18:26,440
+so under what circumstances
+
+1680
+01:18:26,440 --> 01:18:27,940
+he will form an army
+
+1681
+01:18:28,680 --> 01:18:29,900
+same as coagulation
+
+1682
+01:18:29,900 --> 01:18:32,540
+He wants another thing called a soldier box
+
+1683
+01:18:32,540 --> 01:18:35,140
+He can do it only if he gets a soldier
+
+1684
+01:18:40,640 --> 01:18:44,540
+He needs a soldier box before he can form a soldier
+
+1685
+01:18:44,540 --> 01:18:48,540
+The so-called ordinary weapon box often processes ordinary things
+
+1686
+01:18:48,540 --> 01:18:49,940
+just ordinary sand
+
+1687
+01:18:49,940 --> 01:18:51,340
+just ordinary dust
+
+1688
+01:18:51,340 --> 01:18:54,440
+So you think that this thing should be all over the sky
+
+1689
+01:18:54,440 --> 01:18:56,040
+not all over the sky
+
+1690
+01:18:56,140 --> 01:18:58,140
+Ordinary sand is actually big
+
+1691
+01:18:58,140 --> 01:18:59,640
+Ordinary sand means maybe
+
+1692
+01:19:00,000 --> 01:19:02,000
+fraction of a millimeter
+
+1693
+01:19:03,000 --> 01:19:05,760
+You gotta get this thing up that high
+
+1694
+01:19:05,760 --> 01:19:06,760
+it is not going up
+
+1695
+01:19:06,760 --> 01:19:08,760
+so be slow
+
+1696
+01:19:08,760 --> 01:19:10,560
+So the high altitude is actually
+
+1697
+01:19:10,560 --> 01:19:12,060
+The sky is clean
+
+1698
+01:19:12,060 --> 01:19:14,860
+so you have these things that condense into ice
+
+1699
+01:19:14,860 --> 01:19:16,360
+In fact, it is full
+
+1700
+01:19:16,360 --> 01:19:17,860
+But once it freezes
+
+1701
+01:19:17,860 --> 01:19:19,360
+it's quite beautiful
+
+1702
+01:19:19,360 --> 01:19:22,860
+You can see many different
+
+1703
+01:19:22,860 --> 01:19:25,360
+snowflake shape
+
+1704
+01:19:25,360 --> 01:19:28,360
+Here is an example for you
+
+1705
+01:19:30,000 --> 01:19:32,000
+Snowflakes usually mentioned in camp
+
+1706
+01:19:32,000 --> 01:19:34,000
+Many ice spirits collide
+
+1707
+01:19:34,000 --> 01:19:36,000
+it combines with each other
+
+1708
+01:19:36,000 --> 01:19:38,000
+become the so-called Goose Feather University
+
+1709
+01:19:38,000 --> 01:19:40,000
+Have you seen Goose Feather University
+
+1710
+01:19:40,000 --> 01:19:41,000
+It's not actually a piece of ice
+
+1711
+01:19:41,000 --> 01:19:43,000
+several different pieces of ice
+
+1712
+01:19:43,000 --> 01:19:45,000
+even hundreds of pieces of different years up
+
+1713
+01:19:45,000 --> 01:19:48,000
+That is the so-called Goose Feather University
+
+1714
+01:19:48,000 --> 01:19:50,000
+something like this
+
+1715
+01:19:50,000 --> 01:19:52,000
+this piece
+
+1716
+01:19:52,000 --> 01:19:55,000
+In fact, there are probably dozens of different
+
+1717
+01:19:55,000 --> 01:19:57,000
+The little ice spirits are all connected together
+
+1718
+01:19:57,000 --> 01:19:59,000
+caused
+
+1719
+01:20:00,000 --> 01:20:02,000
+In addition to this ice aid, of course there are also ice explosions
+
+1720
+01:20:02,000 --> 01:20:04,000
+bigger stuff
+
+1721
+01:20:04,000 --> 01:20:06,000
+This thing is more dangerous
+
+1722
+01:20:06,000 --> 01:20:08,000
+When the ice burst is relatively small
+
+1723
+01:20:08,000 --> 01:20:10,000
+We have this called a soft burst
+
+1724
+01:20:10,000 --> 01:20:12,000
+called Blobber
+
+1725
+01:20:12,000 --> 01:20:14,000
+Soft bursts usually occur in very specific shapes
+
+1726
+01:20:14,000 --> 01:20:16,000
+A bit like our Lianwu
+
+1727
+01:20:16,000 --> 01:20:18,000
+But it's very small
+
+1728
+01:20:18,000 --> 01:20:20,000
+Little Lianwu
+
+1729
+01:20:20,000 --> 01:20:22,000
+The ice bursts are of course big and small
+
+1730
+01:20:22,000 --> 01:20:24,000
+This is 2006
+
+1731
+01:20:24,000 --> 01:20:28,000
+Some ice blasts in front of my back yard
+
+1732
+01:20:28,000 --> 01:20:30,000
+so if you don't know
+
+1733
+01:20:30,000 --> 01:20:32,000
+what kind of steamed stuffed bun is there
+
+1734
+01:20:32,000 --> 01:20:34,000
+pearl balls or something
+
+1735
+01:20:34,000 --> 01:20:36,000
+no
+
+1736
+01:20:36,000 --> 01:20:38,000
+This is an ice blast
+
+1737
+01:20:38,000 --> 01:20:40,000
+That time the parcel company lost money
+
+1738
+01:20:40,000 --> 01:20:42,000
+Lost us 20,000 yuan
+
+1739
+01:20:42,000 --> 01:20:44,000
+fix the roof
+
+1740
+01:20:44,000 --> 01:20:46,000
+Because the ice burst
+
+1741
+01:20:46,000 --> 01:20:48,000
+Is the roof not pierced?
+
+1742
+01:20:48,000 --> 01:20:50,000
+But there are a lot of cold spots
+
+1743
+01:20:50,000 --> 01:20:52,000
+So that time it seemed like this
+
+1744
+01:20:52,000 --> 01:20:54,000
+The parcel company over there lost money
+
+1745
+01:20:54,000 --> 01:20:56,000
+throughout the region
+
+1746
+01:20:56,000 --> 01:20:58,000
+the one in the area
+
+1747
+01:20:58,000 --> 01:21:00,000
+The parcel company will pay for it
+
+1748
+01:21:00,000 --> 01:21:19,000
+This is the largest ice storm in the world record in 2010, 0.88 kilograms and 20 centimeters in diameter
+
+1749
+01:21:19,000 --> 01:21:24,000
+It's better not to go out in this weather
+
+1750
+01:21:24,000 --> 01:21:31,000
+So the clouds represent the possibility of a large ice storm.
+
+1751
+01:21:31,000 --> 01:21:34,000
+Under what circumstances will an ice storm occur?
+
+1752
+01:21:34,000 --> 01:21:37,000
+This is all based on such a big
+
+1753
+01:21:37,000 --> 01:21:40,000
+What conditions do you need to generate such a large ice storm?
+
+1754
+01:21:40,000 --> 01:21:44,000
+Must have that ascender has very strong
+
+1755
+01:21:44,000 --> 01:21:47,000
+Because if the ascender is not strong enough
+
+1756
+01:21:47,000 --> 01:21:50,000
+That thing condensed a little bit and fell off.
+
+1757
+01:21:51,000 --> 01:21:54,000
+So it has to be so strong that it goes all the way up
+
+1758
+01:21:54,000 --> 01:21:57,000
+Then collide with others, grow bigger and longer
+
+1759
+01:21:57,000 --> 01:22:01,000
+up to or even higher than that too high for an ice storm
+
+1760
+01:22:00,000 --> 01:22:01,200
+The typhoon is even faster
+
+1761
+01:22:01,200 --> 01:22:03,400
+when it goes up all the way up to
+
+1762
+01:22:03,400 --> 01:22:05,600
+About 60 to 70 meters per second
+
+1763
+01:22:05,600 --> 01:22:07,600
+so fast ascent
+
+1764
+01:22:07,600 --> 01:22:10,000
+to produce such a large ice storm
+
+1765
+01:22:10,000 --> 01:22:13,000
+Then once your ascending current is not enough to support it
+
+1766
+01:22:13,000 --> 01:22:15,000
+it just started to fall
+
+1767
+01:22:15,000 --> 01:22:17,000
+So when you see such a big ice storm
+
+1768
+01:22:17,000 --> 01:22:18,800
+This represents the original
+
+1769
+01:22:18,800 --> 01:22:22,000
+the speed is very very high
+
+1770
+01:22:22,000 --> 01:22:25,200
+So a whole bunch of this process
+
+1771
+01:22:25,200 --> 01:22:27,200
+how do we study it
+
+1772
+01:22:27,200 --> 01:22:29,000
+Of course, the most direct way is to
+
+1773
+01:22:29,000 --> 01:22:31,000
+Will go to the operator to observe
+
+1774
+01:22:31,000 --> 01:22:33,000
+But I will go to the operator to observe it.
+
+1775
+01:22:33,000 --> 01:22:36,000
+The first consumption will be very large
+
+1776
+01:22:36,000 --> 01:22:38,000
+The second is very dangerous
+
+1777
+01:22:38,000 --> 01:22:40,000
+Generally speaking
+
+1778
+01:22:40,000 --> 01:22:41,000
+real worst area
+
+1779
+01:22:41,000 --> 01:22:43,000
+Most likely, they just dare not go in.
+
+1780
+01:22:43,000 --> 01:22:45,000
+dare not drive in
+
+1781
+01:22:45,000 --> 01:22:48,000
+Some people go in by accident
+
+1782
+01:22:48,000 --> 01:22:51,000
+If you accidentally go in, it's a serious situation.
+
+1783
+01:22:51,000 --> 01:22:52,000
+lots of fighting chances to go in
+
+1784
+01:22:52,000 --> 01:22:54,000
+will be beaten by ice
+
+1785
+01:22:54,000 --> 01:22:55,000
+There's something wrong with the windows too
+
+1786
+01:22:55,000 --> 01:22:57,000
+The shape of the wings has also changed
+
+1787
+01:22:57,000 --> 01:22:59,000
+a lot of boil
+
+1788
+01:23:00,000 --> 01:23:01,500
+We generally have another method theory
+
+1789
+01:23:01,500 --> 01:23:05,160
+all the physical processes we know
+
+1790
+01:23:05,160 --> 01:23:07,000
+represented by mathematical formulas
+
+1791
+01:23:07,000 --> 01:23:08,500
+This is called a mathematical formula
+
+1792
+01:23:08,500 --> 01:23:11,000
+The obtained partial text is represented by replacing it with
+
+1793
+01:23:11,000 --> 01:23:14,000
+Then formulate its initial boundary conditions
+
+1794
+01:23:14,000 --> 01:23:17,500
+Use a computer to find a set of solutions
+
+1795
+01:23:17,500 --> 01:23:19,000
+Then answer these
+
+1796
+01:23:19,000 --> 01:23:22,000
+Draw it with the method of computer drawing
+
+1797
+01:23:22,000 --> 01:23:25,000
+I can come and explain what the process is like
+
+1798
+01:23:26,000 --> 01:23:30,000
+If compared with the actual observation
+
+1799
+01:23:30,000 --> 01:23:32,000
+if it's good
+
+1800
+01:23:32,000 --> 01:23:35,000
+We can take this cloud model
+
+1801
+01:23:35,000 --> 01:23:40,000
+The help produced is a research tool
+
+1802
+01:23:40,000 --> 01:23:41,000
+can come to study
+
+1803
+01:23:41,000 --> 01:23:45,000
+The formation of a cloud is roughly like its internal structure
+
+1804
+01:23:45,000 --> 01:23:48,000
+So this is one of our institutes
+
+1805
+01:23:48,000 --> 01:23:50,000
+Made a cloud model like this
+
+1806
+01:23:50,000 --> 01:23:54,000
+make a cloud make a base cloud
+
+1807
+01:23:54,000 --> 01:23:58,000
+Its pattern basically at least looks like
+
+1808
+01:23:58,000 --> 01:24:00,000
+Kiyun starts from the ground
+
+1809
+01:24:00,000 --> 01:24:02,640
+grow to protrude a little
+
+1810
+01:24:02,640 --> 01:24:06,740
+And then as soon as you get to this really long, real inflammation
+
+1811
+01:24:06,740 --> 01:24:08,240
+in this flat city
+
+1812
+01:24:08,240 --> 01:24:12,240
+Produced at the top of this convective city
+
+1813
+01:24:12,240 --> 01:24:15,740
+So this is an example of a fish pattern
+
+1814
+01:24:15,740 --> 01:24:17,440
+you can see this
+
+1815
+01:24:17,440 --> 01:24:20,940
+Indeed compared with the real observation
+
+1816
+01:24:20,940 --> 01:24:22,740
+It is indeed full of images
+
+1817
+01:24:24,440 --> 01:24:25,840
+So this once this after
+
+1818
+01:24:25,840 --> 01:24:29,640
+We can put all kinds of different fish inside the fish
+
+1819
+01:24:29,640 --> 01:24:33,640
+ice burst cloud low ice crystals
+
+1820
+01:24:33,640 --> 01:24:36,640
+Draw different windcloths
+
+1821
+01:24:36,640 --> 01:24:37,980
+and then animate it too
+
+1822
+01:24:37,980 --> 01:24:40,480
+You can know where the ice burst and where
+
+1823
+01:24:43,980 --> 01:24:45,180
+It can be predicted that
+
+1824
+01:24:45,180 --> 01:24:47,480
+The blue above is all ice
+
+1825
+01:24:47,480 --> 01:24:49,980
+The red part, the ice burst part
+
+1826
+01:24:49,980 --> 01:24:53,480
+The green part represents the part where it rains
+
+1827
+01:24:53,480 --> 01:24:54,640
+at this time
+
+1828
+01:24:54,640 --> 01:24:57,640
+We use it as a research tool
+
+1829
+01:24:57,640 --> 01:24:59,640
+It's still very useful
+
+1830
+01:25:00,000 --> 01:25:05,620
+And if you want that kind of thing, you can study it.
+
+1831
+01:25:05,620 --> 01:25:07,220
+how big is the flood
+
+1832
+01:25:07,220 --> 01:25:10,220
+How much rain can you have with one fortune
+
+1833
+01:25:10,220 --> 01:25:11,520
+Do you want to guess
+
+1834
+01:25:11,520 --> 01:25:14,420
+How much rain can an ordinary lucky flower bring
+
+1835
+01:25:14,420 --> 01:25:16,420
+How many tons can be dropped
+
+1836
+01:25:16,420 --> 01:25:18,420
+do you want to guess
+
+1837
+01:25:18,420 --> 01:25:22,520
+10,000 tons seems to be asking for a price
+
+1838
+01:25:22,520 --> 01:25:25,520
+100,000 tons, 1,000,000 tons
+
+1839
+01:25:25,520 --> 01:25:29,220
+almost one million tons
+
+1840
+01:25:30,220 --> 01:25:32,220
+even millions of tons
+
+1841
+01:25:32,220 --> 01:25:34,220
+a simple luck
+
+1842
+01:25:34,220 --> 01:25:36,220
+so much water can come out
+
+1843
+01:25:36,220 --> 01:25:39,220
+Anyway very very strong
+
+1844
+01:25:39,220 --> 01:25:41,220
+Speaking of the flood means
+
+1845
+01:25:41,220 --> 01:25:43,220
+I just talked about a multiple choice question
+
+1846
+01:25:45,220 --> 01:25:47,220
+Everyone, be brave and choose
+
+1847
+01:25:47,220 --> 01:25:50,220
+Which flood was the largest ever to occur on earth
+
+1848
+01:25:50,220 --> 01:25:54,220
+One is the time when Datong water was in the age of shaking
+
+1849
+01:25:54,220 --> 01:25:56,220
+The second is Deep Gold as mentioned above
+
+1850
+01:25:56,220 --> 01:25:58,220
+Noah's Ark
+
+1851
+01:25:58,220 --> 01:26:00,220
+The so-called Great Ark of Animal Rescue conveys
+
+1852
+01:26:00,000 --> 01:26:04,720
+That time, it might have been Typhoon Morakot.
+
+1853
+01:26:04,720 --> 01:26:06,400
+i bring soda with this
+
+1854
+01:26:06,400 --> 01:26:08,000
+you probably don't know
+
+1855
+01:26:08,000 --> 01:26:12,000
+Your older self remembers having this big bottle of soda in this
+
+1856
+01:26:12,000 --> 01:26:15,000
+The fifth answer is to fly above the knot
+
+1857
+01:26:21,000 --> 01:26:24,000
+we have some experts here
+
+1858
+01:26:24,000 --> 01:26:29,000
+The real biggest flood is not long after the formation of the ninth hill
+
+1859
+01:26:29,000 --> 01:26:31,000
+That time was really the biggest
+
+1860
+01:26:31,000 --> 01:26:32,000
+because why
+
+1861
+01:26:32,000 --> 01:26:34,000
+Now the flood is once
+
+1862
+01:26:34,000 --> 01:26:37,000
+For example, if you are given tens of millions of tons of water
+
+1863
+01:26:37,000 --> 01:26:39,000
+but what was that time
+
+1864
+01:26:39,000 --> 01:26:42,000
+That rain caused the entire ocean
+
+1865
+01:26:42,000 --> 01:26:44,000
+You don't have that much water now
+
+1866
+01:26:44,000 --> 01:26:46,000
+Not so much water now
+
+1867
+01:26:46,000 --> 01:26:48,000
+Because when our earth first started
+
+1868
+01:26:48,000 --> 01:26:50,000
+There was no water for a while
+
+1869
+01:26:50,000 --> 01:26:57,000
+Later, a lot of water vapor is slowly released from the earth's crust.
+
+1870
+01:26:57,000 --> 01:27:00,000
+Then it starts to create a lot of geo
+
+1871
+01:27:00,000 --> 01:27:01,540
+So it's not the same as silver now
+
+1872
+01:27:01,540 --> 01:27:02,880
+Silver must have been dazzling back then
+
+1873
+01:27:02,880 --> 01:27:04,600
+full of dark clouds
+
+1874
+01:27:04,600 --> 01:27:06,400
+water vapor everywhere
+
+1875
+01:27:06,400 --> 01:27:08,200
+hot everywhere
+
+1876
+01:27:08,200 --> 01:27:09,480
+volcanoes everywhere
+
+1877
+01:27:09,480 --> 01:27:11,520
+that steam comes out
+
+1878
+01:27:11,520 --> 01:27:14,080
+not ordinary so-called silver
+
+1879
+01:27:14,080 --> 01:27:15,620
+that was a volcanic eruption
+
+1880
+01:27:15,620 --> 01:27:16,900
+volcanic eruptions
+
+1881
+01:27:16,900 --> 01:27:18,680
+Even in the current volcanic eruption
+
+1882
+01:27:18,680 --> 01:27:19,720
+largest part
+
+1883
+01:27:19,720 --> 01:27:21,760
+The released gas is still water vapor
+
+1884
+01:27:21,760 --> 01:27:23,300
+mostly water vapor
+
+1885
+01:27:23,300 --> 01:27:25,860
+Second is carbon dioxide
+
+1886
+01:27:25,860 --> 01:27:26,880
+sulfur dioxide
+
+1887
+01:27:26,880 --> 01:27:28,680
+and then finally
+
+1888
+01:27:28,680 --> 01:27:30,220
+it's bomb now
+
+1889
+01:27:30,220 --> 01:27:33,020
+So I was still an old demon at the time.
+
+1890
+01:27:33,020 --> 01:27:36,100
+The most common gas is this
+
+1891
+01:27:36,100 --> 01:27:38,160
+For a while, the earth actually had many of these
+
+1892
+01:27:38,160 --> 01:27:40,460
+But because of the environment of the earth
+
+1893
+01:27:40,460 --> 01:27:41,480
+a little cold
+
+1894
+01:27:41,480 --> 01:27:43,520
+So the water will become clean soon
+
+1895
+01:27:43,520 --> 01:27:47,360
+So this kind of process has been going through I don't know how long
+
+1896
+01:27:47,360 --> 01:27:51,720
+Finally, all the excess water and air in it are all in the early morning water.
+
+1897
+01:27:51,720 --> 01:27:53,760
+really biggest biggest flood
+
+1898
+01:27:53,760 --> 01:27:57,360
+This is how the world's oceans are now created
+
+1899
+01:27:57,360 --> 01:27:59,620
+this is what is called
+
+1900
+01:28:00,000 --> 01:28:02,820
+The biggest flood ever happened, so you guessed it
+
+1901
+01:28:04,080 --> 01:28:06,400
+Of course he doesn't know that he can't guess
+
+1902
+01:28:09,980 --> 01:28:13,060
+Ok, what impact does the cloud have on the overall environment?
+
+1903
+01:28:15,360 --> 01:28:18,180
+I'm not saying that the cloud is only good-looking over there.
+
+1904
+01:28:18,440 --> 01:28:21,760
+There must be some effect on the entire atmospheric environment
+
+1905
+01:28:21,760 --> 01:28:24,060
+What is his role like?
+
+1906
+01:28:24,060 --> 01:28:26,120
+The first everyone knows this so-called
+
+1907
+01:28:26,620 --> 01:28:28,420
+A star fish is not a fish, it nourishes all things
+
+1908
+01:28:28,420 --> 01:28:29,180
+this
+
+1909
+01:28:29,700 --> 01:28:33,020
+The squid place is of course on the ground
+
+1910
+01:28:33,280 --> 01:28:35,080
+crops are fine
+
+1911
+01:28:35,340 --> 01:28:36,360
+no if not
+
+1912
+01:28:36,860 --> 01:28:38,140
+this is that
+
+1913
+01:28:38,400 --> 01:28:39,940
+NASA this Modus
+
+1914
+01:28:40,200 --> 01:28:42,760
+made this surface color
+
+1915
+01:28:43,020 --> 01:28:44,300
+real color
+
+1916
+01:28:44,540 --> 01:28:46,080
+Overview of
+
+1917
+01:28:46,340 --> 01:28:47,360
+you can tell by saying
+
+1918
+01:28:47,880 --> 01:28:48,900
+some places
+
+1919
+01:28:49,160 --> 01:28:49,920
+high humidity
+
+1920
+01:28:50,440 --> 01:28:51,460
+looks green
+
+1921
+01:28:51,980 --> 01:28:53,760
+The surface has some straight backs
+
+1922
+01:28:53,760 --> 01:28:59,900
+where the color looks dry and cool of course
+
+1923
+01:29:00,000 --> 01:29:02,700
+It's just sprinkled in the desert
+
+1924
+01:29:02,700 --> 01:29:05,900
+Like a salad in the west of China
+
+1925
+01:29:05,900 --> 01:29:08,500
+and central australia
+
+1926
+01:29:08,500 --> 01:29:10,900
+It's all desert
+
+1927
+01:29:10,900 --> 01:29:13,600
+So this role needs to be adjusted
+
+1928
+01:29:13,600 --> 01:29:16,300
+What is the second fish for?
+
+1929
+01:29:16,300 --> 01:29:18,700
+Is the most efficient cleaner of the atmosphere
+
+1930
+01:29:18,700 --> 01:29:20,900
+inside our atmosphere
+
+1931
+01:29:20,900 --> 01:29:23,100
+If there is no such process of rain
+
+1932
+01:29:23,100 --> 01:29:26,400
+Our pollution has been accumulating and accumulating
+
+1933
+01:29:26,400 --> 01:29:27,700
+just stop
+
+1934
+01:29:28,200 --> 01:29:30,500
+it won't be cleared
+
+1935
+01:29:30,500 --> 01:29:33,800
+that clearing effect
+
+1936
+01:29:33,800 --> 01:29:36,500
+The strongest effect is this rain
+
+1937
+01:29:36,500 --> 01:29:40,300
+This is the mechanism of heavy rain and rain
+
+1938
+01:29:40,300 --> 01:29:41,900
+The mechanism of Shen Yuyu is the biggest
+
+1939
+01:29:41,900 --> 01:29:43,800
+the most efficient
+
+1940
+01:29:43,800 --> 01:29:46,300
+It is the so-called sinking rain effect
+
+1941
+01:29:46,300 --> 01:29:48,000
+Didn't we just talk about Ling Jiehe?
+
+1942
+01:29:48,000 --> 01:29:49,900
+You only need a Lingjiehe
+
+1943
+01:29:49,900 --> 01:29:51,500
+It is possible to absorb this moisture
+
+1944
+01:29:51,500 --> 01:29:54,500
+Then a cloud or raindrop is formed
+
+1945
+01:29:54,500 --> 01:29:57,500
+As long as you are in the rainy process
+
+1946
+01:29:57,500 --> 01:30:00,000
+Then your thing and the river
+
+1947
+01:30:00,000 --> 01:30:02,200
+Even in this rain everything falls to the ground
+
+1948
+01:30:02,200 --> 01:30:03,600
+so the air is clean
+
+1949
+01:30:03,600 --> 01:30:04,900
+so why after it rains
+
+1950
+01:30:04,900 --> 01:30:06,600
+The air seems to be cleaner
+
+1951
+01:30:06,600 --> 01:30:09,600
+Or the air looks cleaner after it snows
+
+1952
+01:30:09,600 --> 01:30:14,200
+It is because of this process of rain
+
+1953
+01:30:14,200 --> 01:30:17,800
+Sweep away these polluting things in the air
+
+1954
+01:30:20,200 --> 01:30:21,800
+This is an experiment done by others
+
+1955
+01:30:21,800 --> 01:30:24,500
+The representative said that after it snows
+
+1956
+01:30:24,500 --> 01:30:27,600
+Indeed, I saw a circle around the snow
+
+1957
+01:30:27,600 --> 01:30:31,200
+This sweat, this dirt
+
+1958
+01:30:31,200 --> 01:30:33,200
+was brought down by this snow
+
+1959
+01:30:33,200 --> 01:30:34,400
+it means
+
+1960
+01:30:34,400 --> 01:30:38,400
+it does have a good cleaning effect
+
+1961
+01:30:39,700 --> 01:30:42,800
+There is another very expensive thing over here
+
+1962
+01:30:43,600 --> 01:30:45,400
+This thing is called Gridfield Gap
+
+1963
+01:30:46,800 --> 01:30:49,000
+snow or rain
+
+1964
+01:30:49,000 --> 01:30:53,200
+When the particle is very small
+
+1965
+01:30:53,200 --> 01:30:54,600
+it clears well
+
+1966
+01:30:54,600 --> 01:30:56,900
+It clears well when the particles are large
+
+1967
+01:30:56,900 --> 01:31:00,100
+But when the particle is between 0.1 and 1 as the surface
+
+1968
+01:31:00,000 --> 01:31:05,000
+It can hardly be cleared, and it can be cleared very little
+
+1969
+01:31:05,000 --> 01:31:09,000
+So there's always these 0.1 to 1 millimeters in the air
+
+1970
+01:31:09,000 --> 01:31:12,000
+A thing of this great concentration
+
+1971
+01:31:12,000 --> 01:31:15,000
+That thing is almost impossible to clear
+
+1972
+01:31:15,000 --> 01:31:18,000
+That seems like how you wash it those particles
+
+1973
+01:31:18,000 --> 01:31:19,000
+always in the air
+
+1974
+01:31:19,000 --> 01:31:21,000
+there's a physical reason for that
+
+1975
+01:31:21,000 --> 01:31:24,000
+we used to do
+
+1976
+01:31:24,000 --> 01:31:26,000
+A calculation model we made
+
+1977
+01:31:26,000 --> 01:31:27,000
+calculated result
+
+1978
+01:31:27,000 --> 01:31:30,000
+That's exactly what it looks like
+
+1979
+01:31:30,000 --> 01:31:32,000
+The middle one is called Griffel Gammel
+
+1980
+01:31:32,000 --> 01:31:34,000
+This guy Griffel when he first brought it up
+
+1981
+01:31:34,000 --> 01:31:35,000
+there is such a possibility
+
+1982
+01:31:35,000 --> 01:31:39,000
+Then we have confirmed that this phenomenon does exist.
+
+1983
+01:31:39,000 --> 01:31:41,000
+ok
+
+1984
+01:31:41,000 --> 01:31:44,000
+So this third character is
+
+1985
+01:31:44,000 --> 01:31:50,000
+Clouds affect the Earth's ambient light
+
+1986
+01:31:50,000 --> 01:31:52,000
+The so-called ambient light ratio is Albido
+
+1987
+01:31:52,000 --> 01:31:54,000
+that of course means
+
+1988
+01:31:54,000 --> 01:31:56,000
+If you look at something in space
+
+1989
+01:31:56,000 --> 01:31:57,000
+how bright
+
+1990
+01:31:57,000 --> 01:32:00,000
+In fact, if that thing doesn't light up by itself
+
+1991
+01:32:00,000 --> 01:32:04,600
+It's the kind that inverts the color of other light sources
+
+1992
+01:32:04,600 --> 01:32:07,600
+That brightness is the so-called slowing force
+
+1993
+01:32:07,600 --> 01:32:09,100
+So the greater the retardation
+
+1994
+01:32:09,100 --> 01:32:11,100
+Indicates that those things may be brighter
+
+1995
+01:32:11,100 --> 01:32:12,800
+In terms of the celestial body
+
+1996
+01:32:12,800 --> 01:32:13,800
+inside our celestial body
+
+1997
+01:32:13,800 --> 01:32:16,300
+The brightest in the sky are of course the sun and the moon
+
+1998
+01:32:16,300 --> 01:32:17,400
+The two largest
+
+1999
+01:32:17,400 --> 01:32:19,100
+Of course the sun brightens itself
+
+2000
+01:32:19,100 --> 01:32:20,700
+Of course the moon is illuminated by the sun
+
+2001
+01:32:20,700 --> 01:32:22,700
+besides these two
+
+2002
+01:32:22,700 --> 01:32:24,600
+Which is the brightest celestial body
+
+2003
+01:32:25,200 --> 01:32:27,200
+Venus
+
+2004
+01:32:27,200 --> 01:32:28,700
+Venus
+
+2005
+01:32:28,700 --> 01:32:30,200
+Venus
+
+2006
+01:32:30,200 --> 01:32:32,200
+Has anyone voted for Mars?
+
+2007
+01:32:32,200 --> 01:32:34,700
+No
+
+2008
+01:32:34,700 --> 01:32:35,400
+strangeness
+
+2009
+01:32:35,400 --> 01:32:37,100
+all Venus fans
+
+2010
+01:32:37,100 --> 01:32:38,200
+But it is true
+
+2011
+01:32:38,200 --> 01:32:40,700
+Venus is nothing but the sun and the moon
+
+2012
+01:32:40,700 --> 01:32:41,800
+third
+
+2013
+01:32:41,800 --> 01:32:43,200
+third two
+
+2014
+01:32:43,200 --> 01:32:45,700
+is auric
+
+2015
+01:32:45,700 --> 01:32:48,700
+why is venus so bright
+
+2016
+01:32:48,700 --> 01:32:49,700
+these two reasons
+
+2017
+01:32:49,700 --> 01:32:51,700
+because it's close
+
+2018
+01:32:51,700 --> 01:32:52,900
+because it's close
+
+2019
+01:32:52,900 --> 01:32:54,400
+first because it's close
+
+2020
+01:32:54,400 --> 01:32:55,400
+it's closer to us
+
+2021
+01:32:55,400 --> 01:32:57,100
+so this is the first reason
+
+2022
+01:32:57,100 --> 01:33:00,000
+The first reason is because it is surrounded by a very dense cloud
+
+2023
+01:33:00,000 --> 01:33:05,000
+What about his clouds, unlike our place where there are no clouds?
+
+2024
+01:33:05,000 --> 01:33:08,000
+He surrounded all the ninety or so secret clouds
+
+2025
+01:33:08,000 --> 01:33:12,000
+But his cloud is a bad cloud
+
+2026
+01:33:12,000 --> 01:33:16,000
+His clouds are all acid, all are clouds of acid
+
+2027
+01:33:16,000 --> 01:33:22,000
+So this is bad because Jingxing is called Vinus on the Western side
+
+2028
+01:33:22,000 --> 01:33:25,000
+Weiner is a very cute girl
+
+2029
+01:33:25,000 --> 01:33:28,000
+But in fact, Jingxing is a very bad place
+
+2030
+01:33:29,000 --> 01:33:32,000
+His clouds are all acid, all clouds of acid
+
+2031
+01:33:32,000 --> 01:33:34,000
+His ground is more than 400 degrees
+
+2032
+01:33:34,000 --> 01:33:37,000
+That's terrible. He's just hot medicine.
+
+2033
+01:33:37,000 --> 01:33:42,000
+As soon as all the water gets there, it doesn’t just boil, it literally melts away.
+
+2034
+01:33:42,000 --> 01:33:47,000
+His pressure is more than ninety times that of the earth's surface
+
+2035
+01:33:47,000 --> 01:33:50,000
+So if you're not protected, you can't breathe at all.
+
+2036
+01:33:50,000 --> 01:33:56,000
+It's as if you are shallow in this sea, about 2,000 meters under pressure
+
+2037
+01:33:56,000 --> 01:33:59,000
+So much pressure, this is Jingxing's surface
+
+2038
+01:34:00,000 --> 01:34:03,680
+Bi Xing looks so bright, but there is nothing to envy
+
+2039
+01:34:03,680 --> 01:34:07,480
+That's because it was blown out whole by a secret cloud
+
+2040
+01:34:07,480 --> 01:34:11,640
+So it reflects this sunlight very, very strongly
+
+2041
+01:34:11,640 --> 01:34:15,080
+It looks very bright in the night sky
+
+2042
+01:34:15,080 --> 01:34:17,080
+Earth is not so much
+
+2043
+01:34:17,080 --> 01:34:19,480
+Earth's albedo is not as strong
+
+2044
+01:34:19,480 --> 01:34:23,840
+So the blue part of the earth basically sees the sea surface
+
+2045
+01:34:23,840 --> 01:34:28,320
+The surface of the sea is very dark if you look directly at it.
+
+2046
+01:34:28,520 --> 01:34:30,800
+What is the reason for the reflection of the earth?
+
+2047
+01:34:30,800 --> 01:34:32,560
+Mostly because the cloud doesn't matter
+
+2048
+01:34:32,560 --> 01:34:34,880
+cloud it is very white
+
+2049
+01:34:34,880 --> 01:34:37,560
+So when the sun shines on it, it reflects back
+
+2050
+01:34:37,560 --> 01:34:40,600
+The Earth includes clouds including floor albedo
+
+2051
+01:34:40,600 --> 01:34:42,840
+The reflection band is about 30%
+
+2052
+01:34:42,840 --> 01:34:45,000
+So the albedo is 0.3%
+
+2053
+01:34:45,000 --> 01:34:49,160
+This is our common sense of the earth's albedo
+
+2054
+01:34:49,160 --> 01:34:52,880
+If cloud cover on Earth increases
+
+2055
+01:34:52,880 --> 01:34:54,320
+The albedo of the earth will increase
+
+2056
+01:34:54,320 --> 01:34:55,480
+Because there are more clouds
+
+2057
+01:34:55,480 --> 01:34:57,520
+When there are more clouds, its albedo will increase
+
+2058
+01:34:57,520 --> 01:34:59,760
+if you were an alien
+
+2059
+01:35:00,000 --> 01:35:02,300
+Because the earth is a little suddenly bright
+
+2060
+01:35:02,300 --> 01:35:06,100
+The biggest possible reason is that the earth's clouds suddenly increased
+
+2061
+01:35:06,100 --> 01:35:09,000
+then say your next question
+
+2062
+01:35:09,000 --> 01:35:11,200
+Why do Earth's clouds increase?
+
+2063
+01:35:11,200 --> 01:35:13,000
+he started researching
+
+2064
+01:35:13,000 --> 01:35:16,000
+There are of course various reasons for this
+
+2065
+01:35:19,000 --> 01:35:21,000
+next one
+
+2066
+01:35:24,000 --> 01:35:27,000
+What is the most important greenhouse atmosphere on Earth
+
+2067
+01:35:28,000 --> 01:35:31,000
+If you don't know a little bit, it will change
+
+2068
+01:35:31,000 --> 01:35:32,000
+right
+
+2069
+01:35:32,000 --> 01:35:34,000
+The most important thing is actually water vapor
+
+2070
+01:35:34,000 --> 01:35:39,000
+Water vapor is the largest greenhouse atmosphere on Earth
+
+2071
+01:35:39,000 --> 01:35:44,000
+The so-called Hu-color equilibrium temperature on the earth is about minus 21 degrees
+
+2072
+01:35:45,000 --> 01:35:46,000
+very cold
+
+2073
+01:35:46,000 --> 01:35:48,000
+The earth is supposed to be cold
+
+2074
+01:35:48,000 --> 01:35:50,000
+But the earth is not that cold
+
+2075
+01:35:50,000 --> 01:35:51,000
+Why
+
+2076
+01:35:51,000 --> 01:35:54,000
+Because the earth's surface releases some water vapor
+
+2077
+01:35:54,000 --> 01:35:57,000
+This water vapor surrounds our planet
+
+2078
+01:35:58,000 --> 01:36:00,000
+making the earth's surface
+
+2079
+01:36:00,000 --> 01:36:02,000
+So increasing the temperature
+
+2080
+01:36:02,000 --> 01:36:05,000
+The average temperature of our earth is about 15 degrees
+
+2081
+01:36:05,000 --> 01:36:08,000
+So from minus 21 degrees to 15 degrees
+
+2082
+01:36:08,000 --> 01:36:10,000
+Added 36 degrees
+
+2083
+01:36:10,000 --> 01:36:13,000
+80 to 90 credits for this concentration
+
+2084
+01:36:13,000 --> 01:36:15,000
+It's all crystal
+
+2085
+01:36:15,000 --> 01:36:18,000
+not carbon dioxide
+
+2086
+01:36:18,000 --> 01:36:21,000
+Then you must feel very strange
+
+2087
+01:36:21,000 --> 01:36:24,000
+Otherwise, now everyone is teaching carbon dioxide what is the truth
+
+2088
+01:36:24,000 --> 01:36:28,000
+Because everyone thinks that crystal aura is a state of balance
+
+2089
+01:36:28,000 --> 01:36:30,000
+When there is more crystal gas, it will become a cloud
+
+2090
+01:36:30,000 --> 01:36:32,000
+So go back to the state of crystal air
+
+2091
+01:36:32,000 --> 01:36:34,000
+it just keeps looping
+
+2092
+01:36:34,000 --> 01:36:36,000
+So has the crystal energy increased?
+
+2093
+01:36:36,000 --> 01:36:37,000
+we do not know
+
+2094
+01:36:37,000 --> 01:36:39,000
+Let's say it's balanced
+
+2095
+01:36:39,000 --> 01:36:41,000
+But the carbon dioxide cools down
+
+2096
+01:36:41,000 --> 01:36:43,000
+just keep going up
+
+2097
+01:36:43,000 --> 01:36:44,000
+so it's obvious
+
+2098
+01:36:44,000 --> 01:36:46,000
+It must have this warming effect
+
+2099
+01:36:46,000 --> 01:36:48,000
+That's why we now put carbon dioxide
+
+2100
+01:36:48,000 --> 01:36:50,000
+Considered an important greenhouse base
+
+2101
+01:36:50,000 --> 01:36:52,000
+But if you talk about the real magnitude
+
+2102
+01:36:52,000 --> 01:36:54,000
+Carbon dioxide is not
+
+2103
+01:36:54,000 --> 01:36:56,000
+really the biggest thing
+
+2104
+01:36:56,000 --> 01:36:58,000
+crystal air
+
+2105
+01:37:00,000 --> 01:37:04,340
+In addition to water vapor, clouds actually have a great stabilizing effect
+
+2106
+01:37:05,500 --> 01:37:08,500
+It's just that clouds are difficult to measure, which is a bit of a headache
+
+2107
+01:37:11,700 --> 01:37:15,700
+OK, so this cloud has a lot of problems
+
+2108
+01:37:16,000 --> 01:37:18,300
+Are clouds stabilizing or cooling?
+
+2109
+01:37:19,000 --> 01:37:23,700
+Clouds, as we just talked about, are major contributors to the Earth's albedo
+
+2110
+01:37:24,000 --> 01:37:26,700
+So if it's cloudy, it reflects the light back
+
+2111
+01:37:27,200 --> 01:37:28,700
+light is reflected much more of course
+
+2112
+01:37:28,700 --> 01:37:30,700
+This means that less energy from the sun passes through
+
+2113
+01:37:31,200 --> 01:37:36,200
+So in terms of its role, it should cool the ground
+
+2114
+01:37:37,200 --> 01:37:39,700
+But if the ground radiation goes up,
+
+2115
+01:37:40,200 --> 01:37:42,700
+The cloud will absorb him and then reflect it back to him
+
+2116
+01:37:43,200 --> 01:37:46,200
+So in terms of that role, it also has a stabilizing effect
+
+2117
+01:37:47,200 --> 01:37:49,200
+so this is bad, what to do
+
+2118
+01:37:50,700 --> 01:37:54,200
+To make matters worse, low clouds are not the same as high clouds
+
+2119
+01:37:54,700 --> 01:37:58,700
+low cloud, it is now common opinion to say
+
+2120
+01:37:59,200 --> 01:38:00,200
+low cloud it is mostly
+
+2121
+01:38:00,000 --> 01:38:02,500
+Has a warming and cooling effect
+
+2122
+01:38:02,500 --> 01:38:06,000
+Its main function is to slow down the sunlight
+
+2123
+01:38:06,000 --> 01:38:10,500
+It does not have much heat dissipation in this brook
+
+2124
+01:38:10,500 --> 01:38:12,000
+no effect
+
+2125
+01:38:12,000 --> 01:38:14,000
+But high clouds like cirrus clouds
+
+2126
+01:38:14,000 --> 01:38:15,500
+Just saw those cirrus clouds
+
+2127
+01:38:15,500 --> 01:38:17,500
+It does have the effect of steaming and warming
+
+2128
+01:38:17,500 --> 01:38:19,000
+If there are many cirrus clouds
+
+2129
+01:38:19,000 --> 01:38:20,000
+it may creek a lot hotter
+
+2130
+01:38:20,000 --> 01:38:21,500
+before spreading it back
+
+2131
+01:38:21,500 --> 01:38:23,000
+it dissipates heat by itself
+
+2132
+01:38:23,000 --> 01:38:26,500
+But its heat dissipation is the so-called black body radiation
+
+2133
+01:38:26,500 --> 01:38:29,500
+It radiates from a black body because its temperature itself is very cold
+
+2134
+01:38:29,500 --> 01:38:31,500
+So it dissipates very little heat
+
+2135
+01:38:31,500 --> 01:38:33,500
+So it's generally
+
+2136
+01:38:33,500 --> 01:38:35,500
+It has more effect of steaming and warming
+
+2137
+01:38:35,500 --> 01:38:37,500
+So now it becomes two to balance
+
+2138
+01:38:37,500 --> 01:38:41,500
+After all, the cooling effect of low clouds is more important
+
+2139
+01:38:41,500 --> 01:38:45,000
+Is it more important for the steaming and warming effect of high clouds?
+
+2140
+01:38:45,000 --> 01:38:46,500
+Let's see which one is more
+
+2141
+01:38:46,500 --> 01:38:47,500
+right
+
+2142
+01:38:47,500 --> 01:38:49,000
+low cloud or high cloud
+
+2143
+01:38:49,000 --> 01:38:51,500
+Now the question is how cool is Gao Yun
+
+2144
+01:38:51,500 --> 01:38:53,500
+This is a big problem
+
+2145
+01:38:53,500 --> 01:38:56,500
+Except for the so-called cirrus clouds that you can see with your eyes
+
+2146
+01:38:56,500 --> 01:38:57,500
+beyond the high altitude cirrus clouds
+
+2147
+01:38:57,500 --> 01:39:00,500
+It's so hot that there are cirrus clouds that are invisible to the eyes
+
+2148
+01:39:00,000 --> 01:39:05,440
+Its eyes can't see the silver roll, not only can't see
+
+2149
+01:39:05,440 --> 01:39:07,320
+And it's very thick
+
+2150
+01:39:07,320 --> 01:39:09,600
+Its thickness is sometimes as thick as six or seven kilometers
+
+2151
+01:39:09,600 --> 01:39:11,880
+It's full of ice crystals
+
+2152
+01:39:11,880 --> 01:39:14,040
+But because of it, the ice crystal will grow smaller
+
+2153
+01:39:14,040 --> 01:39:16,240
+you can't see your eyes can't see
+
+2154
+01:39:16,240 --> 01:39:18,360
+So I thought it was not
+
+2155
+01:39:18,360 --> 01:39:20,640
+I can’t see it anymore, no, yes
+
+2156
+01:39:20,640 --> 01:39:22,440
+So now the question is
+
+2157
+01:39:22,440 --> 01:39:24,200
+Is that thing real or general?
+
+2158
+01:39:24,200 --> 01:39:26,320
+Now everyone will become confused
+
+2159
+01:39:26,320 --> 01:39:28,400
+So now NASA has another very important
+
+2160
+01:39:28,720 --> 01:39:31,120
+This mission on climate is
+
+2161
+01:39:31,120 --> 01:39:32,880
+to observe these things
+
+2162
+01:39:32,880 --> 01:39:35,680
+Show me every layer of these clouds
+
+2163
+01:39:35,680 --> 01:39:37,320
+Then observe clearly
+
+2164
+01:39:37,320 --> 01:39:38,960
+Only when you can truly cleanse people
+
+2165
+01:39:38,960 --> 01:39:42,480
+What is the role of clouds in the atmospheric environment
+
+2166
+01:39:42,480 --> 01:39:44,800
+The role of real text or general text
+
+2167
+01:39:44,800 --> 01:39:46,800
+This thing needs to do this
+
+2168
+01:39:46,800 --> 01:39:49,840
+This kind of observation in three-dimensional space can
+
+2169
+01:39:49,840 --> 01:39:51,560
+that's a big problem
+
+2170
+01:39:51,560 --> 01:39:54,280
+Because satellite observations are roughly one layer
+
+2171
+01:39:54,280 --> 01:39:56,160
+Most of the satellites now have better ones
+
+2172
+01:39:56,200 --> 01:39:58,920
+But that observation is still too far off
+
+2173
+01:39:58,920 --> 01:40:00,320
+Observing it from the ground is even more different
+
+2174
+01:40:00,000 --> 01:40:02,760
+There are not many quantities that can have this kind of data
+
+2175
+01:40:02,760 --> 01:40:05,260
+There is no information on the sea
+
+2176
+01:40:05,260 --> 01:40:12,800
+So the question of cloud to climate research
+
+2177
+01:40:12,800 --> 01:40:14,760
+create very, very big problems
+
+2178
+01:40:14,760 --> 01:40:18,800
+So why this IPCC
+
+2179
+01:40:18,800 --> 01:40:23,800
+This body of research climate across the board
+
+2180
+01:40:23,800 --> 01:40:28,260
+That is to say, for all radiation factors
+
+2181
+01:40:29,260 --> 01:40:34,260
+Carbon dioxide warms up, other clouds have something to cool them down
+
+2182
+01:40:34,260 --> 01:40:38,020
+But it turned into a big thing here
+
+2183
+01:40:38,020 --> 01:40:40,020
+is its uncertainty
+
+2184
+01:40:40,020 --> 01:40:43,020
+because we have clouds and climates
+
+2185
+01:40:43,020 --> 01:40:45,520
+Just now these knots also know that there are too few
+
+2186
+01:40:45,520 --> 01:40:47,520
+Lingjie is producing clouds again
+
+2187
+01:40:47,520 --> 01:40:49,020
+If you have a lot of knots inside
+
+2188
+01:40:49,020 --> 01:40:50,520
+a little cloud will increase
+
+2189
+01:40:50,520 --> 01:40:53,020
+So it does something else that we don't understand at all
+
+2190
+01:40:53,020 --> 01:40:55,520
+So it has a lot of uncertainty
+
+2191
+01:40:55,520 --> 01:40:57,520
+so much uncertainty
+
+2192
+01:40:57,520 --> 01:40:59,980
+So this picture is often seen by many people
+
+2193
+01:41:00,000 --> 01:41:07,000
+Why is this place often emphasized in its fourth report that
+
+2194
+01:41:07,000 --> 01:41:10,000
+We can only say that this thing can be determined to a certain extent
+
+2195
+01:41:10,000 --> 01:41:14,000
+Pretty sure, slightly sure, not sure or something
+
+2196
+01:41:14,000 --> 01:41:16,000
+Why do you use such words?
+
+2197
+01:41:16,000 --> 01:41:20,000
+Because the cloud represents a great uncertainty
+
+2198
+01:41:22,000 --> 01:41:24,000
+there are worse nightmares inside
+
+2199
+01:41:25,000 --> 01:41:27,000
+There are also clouds in Pingliu City
+
+2200
+01:41:27,000 --> 01:41:30,000
+We're not right, Stratocity used to think that Stratocity was very dry
+
+2201
+01:41:30,000 --> 01:41:31,000
+no cloud possible
+
+2202
+01:41:32,000 --> 01:41:35,000
+But our recent observations show that Stratocity does have
+
+2203
+01:41:35,000 --> 01:41:37,000
+On a storm you often see
+
+2204
+01:41:37,000 --> 01:41:39,000
+Sometimes clouds like chimneys are up there
+
+2205
+01:41:40,000 --> 01:41:41,000
+Someone actually saw it before
+
+2206
+01:41:41,000 --> 01:41:42,000
+but don't know what it is
+
+2207
+01:41:43,000 --> 01:41:45,000
+Later someone saw it and published it
+
+2208
+01:41:45,000 --> 01:41:47,000
+But he still doesn't know why
+
+2209
+01:41:48,000 --> 01:41:50,000
+It is indeed in Stratocity
+
+2210
+01:41:50,000 --> 01:41:51,000
+because this has been
+
+2211
+01:41:51,000 --> 01:41:52,000
+This really strong part
+
+2212
+01:41:52,000 --> 01:41:55,000
+The top of this storm is already at the top of Stratocity
+
+2213
+01:41:55,000 --> 01:42:00,000
+This so-called chimney-like chimney
+
+2214
+01:42:00,000 --> 01:42:03,740
+it's more on top of this cloud
+
+2215
+01:42:03,740 --> 01:42:06,540
+So it's clearly in the bottle layer
+
+2216
+01:42:06,540 --> 01:42:10,000
+We now know that in terms of radiation
+
+2217
+01:42:10,000 --> 01:42:12,540
+If water vapor in this vial layer
+
+2218
+01:42:12,540 --> 01:42:17,540
+Its role in absorbing this infrared
+
+2219
+01:42:17,540 --> 01:42:20,540
+It is nearly 1000 times that in the bottle layer
+
+2220
+01:42:20,540 --> 01:42:22,540
+So it's very powerful
+
+2221
+01:42:22,540 --> 01:42:27,040
+It is equivalent to building a very effective quilt in this thermal layer
+
+2222
+01:42:27,040 --> 01:42:30,040
+Your long-wave radiation can't escape if you want to escape.
+
+2223
+01:42:30,040 --> 01:42:31,540
+it's there covered
+
+2224
+01:42:31,540 --> 01:42:33,040
+So if there are many of these things
+
+2225
+01:42:33,040 --> 01:42:35,040
+Then this positive temperature effect is incredible.
+
+2226
+01:42:35,040 --> 01:42:37,040
+so this thing knows what's going on
+
+2227
+01:42:37,040 --> 01:42:40,040
+We are now gradually understanding
+
+2228
+01:42:40,040 --> 01:42:41,540
+This is the result of our simulation
+
+2229
+01:42:41,540 --> 01:42:43,040
+indeed with that fishing mode
+
+2230
+01:42:43,040 --> 01:42:46,040
+You can simulate it just like what you see in that satellite
+
+2231
+01:42:46,040 --> 01:42:49,040
+like a chimney cloud
+
+2232
+01:42:49,040 --> 01:42:51,040
+So let's explain
+
+2233
+01:42:51,040 --> 01:42:53,040
+In the process of generating a machine cloud
+
+2234
+01:42:53,040 --> 01:42:56,040
+Due to the effect of these fluctuations
+
+2235
+01:42:56,040 --> 01:43:00,040
+You can make this water vapor or even moisture
+
+2236
+01:43:00,000 --> 01:43:03,000
+From the cloud all the way to the bottle layer
+
+2237
+01:43:04,000 --> 01:43:05,000
+and then later
+
+2238
+01:43:05,000 --> 01:43:07,000
+it might stay there
+
+2239
+01:43:07,000 --> 01:43:08,000
+steam off
+
+2240
+01:43:08,000 --> 01:43:13,000
+Then leave the air in the water completely at the bottom of the bottle layer
+
+2241
+01:43:13,000 --> 01:43:14,000
+so this time
+
+2242
+01:43:14,000 --> 01:43:17,000
+Its vibration effect may be very powerful
+
+2243
+01:43:17,000 --> 01:43:18,000
+so what about this
+
+2244
+01:43:18,000 --> 01:43:21,000
+In the current climate model again
+
+2245
+01:43:21,000 --> 01:43:23,000
+where little is considered
+
+2246
+01:43:23,000 --> 01:43:24,000
+so here
+
+2247
+01:43:24,000 --> 01:43:27,000
+Now this problem is very, very much
+
+2248
+01:43:27,000 --> 01:43:29,000
+So this is what we just said
+
+2249
+01:43:29,000 --> 01:43:30,000
+inside the vial layer
+
+2250
+01:43:30,000 --> 01:43:33,000
+It may have a strong effect of this addition
+
+2251
+01:43:33,000 --> 01:43:35,000
+And the air in the water is in the bottle layer
+
+2252
+01:43:35,000 --> 01:43:37,000
+it has a long lifespan
+
+2253
+01:43:37,000 --> 01:43:39,000
+it may have a lifespan of several years
+
+2254
+01:43:39,000 --> 01:43:41,000
+Then once your life span is so long
+
+2255
+01:43:41,000 --> 01:43:45,000
+What do you think about this climate change factor
+
+2256
+01:43:45,000 --> 01:43:47,000
+it can be very big
+
+2257
+01:43:47,000 --> 01:43:51,000
+So this is the climate model guy again
+
+2258
+01:43:51,000 --> 01:43:53,000
+need attention
+
+2259
+01:43:53,000 --> 01:43:56,000
+So why this cloud of uncertainty
+
+2260
+01:43:56,000 --> 01:43:57,000
+so important
+
+2261
+01:43:57,000 --> 01:43:59,000
+This is one of the important reasons
+
+2262
+01:44:00,000 --> 01:44:02,940
+So when the school encounters cloud problems in the future
+
+2263
+01:44:02,940 --> 01:44:06,680
+Its suspicions can be explosive like this
+
+2264
+01:44:06,680 --> 01:44:08,600
+I can't help it. I don't understand.
+
+2265
+01:44:08,600 --> 01:44:10,640
+so angry
+
+2266
+01:44:10,640 --> 01:44:14,600
+Because the uncertainties of the cloud are too great
+
+2267
+01:44:16,400 --> 01:44:20,800
+Except that this cloud has certain roles in the world
+
+2268
+01:44:20,800 --> 01:44:24,140
+Will human activities have any impact on the cloud?
+
+2269
+01:44:24,140 --> 01:44:25,800
+there must be
+
+2270
+01:44:25,800 --> 01:44:28,840
+The first one is what everyone calls an acid shadow
+
+2271
+01:44:28,840 --> 01:44:32,480
+Human industrial activities produce many such
+
+2272
+01:44:32,480 --> 01:44:34,480
+Sulfur dioxide Oxidized eggs
+
+2273
+01:44:34,480 --> 01:44:38,880
+Acid Shadow
+
+2274
+01:44:38,880 --> 01:44:46,040
+The main source of sulfur dioxide is burning coal and thermal power
+
+2275
+01:44:46,040 --> 01:44:52,440
+This oxidized egg reacts with the cloud to produce acid elimination
+
+2276
+01:44:52,440 --> 01:44:55,080
+Where does the acid-reducing oxidized egg come from?
+
+2277
+01:44:55,080 --> 01:44:59,920
+All magnanimous people will have this problem
+
+2278
+01:45:00,000 --> 01:45:03,800
+This is when I was about to land from Tokyo
+
+2279
+01:45:03,800 --> 01:45:05,840
+From the accounting network
+
+2280
+01:45:05,840 --> 01:45:11,800
+The entire vicinity of Tokyo is shrouded in the air of the nuclear installation
+
+2281
+01:45:11,800 --> 01:45:17,160
+So there are a lot of oxidation products in it.
+
+2282
+01:45:17,160 --> 01:45:20,240
+All of them have this phenomenon inside
+
+2283
+01:45:20,240 --> 01:45:22,800
+All metropolises as long as the weather is good
+
+2284
+01:45:23,800 --> 01:45:24,800
+acid rain
+
+2285
+01:45:27,000 --> 01:45:29,200
+Photos taken in 1908
+
+2286
+01:45:29,200 --> 01:45:33,000
+It's been 200 years since it was taken in 1908
+
+2287
+01:45:33,000 --> 01:45:34,600
+it's still fine
+
+2288
+01:45:34,600 --> 01:45:37,000
+But after another 60 years
+
+2289
+01:45:37,000 --> 01:45:39,600
+unrecognizable
+
+2290
+01:45:39,600 --> 01:45:43,400
+I can't see anything from the face to the nose.
+
+2291
+01:45:43,400 --> 01:45:46,000
+Standard Acid Rain Effects
+
+2292
+01:45:47,000 --> 01:45:53,200
+The second one is that the influence of the moon is Xue Humei
+
+2293
+01:45:53,200 --> 01:45:57,200
+Everyone should be very clear about this map.
+
+2294
+01:45:57,200 --> 01:45:59,200
+with tokyo influence
+
+2295
+01:46:00,000 --> 01:46:07,440
+During the northeast monsoon, a large pile of this kind of smoke is produced in the industrial area upstream of the industrial area
+
+2296
+01:46:07,440 --> 01:46:12,960
+Then they come down here with the northeast monsoon
+
+2297
+01:46:12,960 --> 01:46:15,460
+The whole is a long strip
+
+2298
+01:46:15,460 --> 01:46:19,700
+Japanese Jiye you can on the satellite map
+
+2299
+01:46:19,700 --> 01:46:20,900
+We are called MODIS
+
+2300
+01:46:20,900 --> 01:46:26,540
+Seen from satellites that end reliability
+
+2301
+01:46:26,540 --> 01:46:28,160
+often see this
+
+2302
+01:46:28,160 --> 01:46:33,280
+You can imagine why older
+
+2303
+01:46:33,280 --> 01:46:35,780
+Crash Island and our age
+
+2304
+01:46:35,780 --> 01:46:38,160
+When we were young, when it was sunny in Taiwan
+
+2305
+01:46:38,160 --> 01:46:40,680
+The blue sky is really very blue
+
+2306
+01:46:40,680 --> 01:46:42,220
+It was really blue
+
+2307
+01:46:42,220 --> 01:46:45,080
+Now children may think that the blue sky is also blue now
+
+2308
+01:46:45,080 --> 01:46:46,560
+I tell you now the blue sky is not blue at all
+
+2309
+01:46:46,560 --> 01:46:50,680
+Now the sky is blue, the sky is sunny, and the sky is gray
+
+2310
+01:46:50,680 --> 01:46:53,520
+not at all blue
+
+2311
+01:46:53,520 --> 01:46:55,080
+Why
+
+2312
+01:46:55,080 --> 01:46:57,120
+too clear
+
+2313
+01:46:57,120 --> 01:47:00,040
+Because the neighbor next door generates a lot of
+
+2314
+01:47:00,000 --> 01:47:02,000
+so there is no way
+
+2315
+01:47:02,000 --> 01:47:06,000
+Here's a lot of human influence on this levitation example
+
+2316
+01:47:06,000 --> 01:47:08,000
+look at its different colors
+
+2317
+01:47:08,000 --> 01:47:12,000
+It's the smog and the clean sea
+
+2318
+01:47:12,000 --> 01:47:14,000
+This contrast is too great
+
+2319
+01:47:14,000 --> 01:47:16,000
+We don't even have that color here
+
+2320
+01:47:16,000 --> 01:47:18,000
+the color we have here
+
+2321
+01:47:18,000 --> 01:47:21,000
+It's almost the picture of this kind of satellite that I often look at
+
+2322
+01:47:21,000 --> 01:47:26,000
+We Taiwanese nurses rarely see such a blue sea color
+
+2323
+01:47:26,000 --> 01:47:32,000
+Must be through this more smoky color
+
+2324
+01:47:34,000 --> 01:47:38,000
+This is the distribution of small particles of PM2.5 around the world
+
+2325
+01:47:40,000 --> 01:47:44,000
+There is a lot of this kind of fine dust in the desert
+
+2326
+01:47:44,000 --> 01:47:47,000
+because it's a desert
+
+2327
+01:47:47,000 --> 01:47:50,000
+But eastern China is clearly not a desert
+
+2328
+01:47:50,000 --> 01:47:52,000
+But you can also see
+
+2329
+01:47:52,000 --> 01:47:54,000
+industrial impact
+
+2330
+01:47:54,000 --> 01:47:57,000
+This is almost now the highest region in the world
+
+2331
+01:47:57,000 --> 01:47:59,000
+most concentrated area
+
+2332
+01:48:00,000 --> 01:48:01,500
+So the northeast monsoon comes down
+
+2333
+01:48:01,500 --> 01:48:04,220
+Taiwan is sure to enjoy
+
+2334
+01:48:08,220 --> 01:48:11,780
+OK is the Xionghu Weili team
+
+2335
+01:48:11,780 --> 01:48:13,060
+already said
+
+2336
+01:48:13,060 --> 01:48:15,460
+The first increases the number of condensation nuclei
+
+2337
+01:48:15,460 --> 01:48:17,660
+If the concentration of water aeration is the same
+
+2338
+01:48:17,660 --> 01:48:22,860
+The size of cloud water droplets will become smaller
+
+2339
+01:48:22,860 --> 01:48:24,860
+Cloud particles get smaller
+
+2340
+01:48:24,860 --> 01:48:26,060
+it will become more stable
+
+2341
+01:48:26,060 --> 01:48:28,460
+If the cloud strength is stable, it will be less likely to rain
+
+2342
+01:48:29,460 --> 01:48:30,460
+once it doesn't rain
+
+2343
+01:48:30,460 --> 01:48:33,460
+It is less likely to wash away the paint dust
+
+2344
+01:48:33,460 --> 01:48:35,960
+So the possibility of air pollution
+
+2345
+01:48:35,960 --> 01:48:38,460
+higher and higher
+
+2346
+01:48:38,460 --> 01:48:39,460
+Then what
+
+2347
+01:48:39,460 --> 01:48:41,960
+Because condensation nuclei may dissolve in the water
+
+2348
+01:48:41,960 --> 01:48:43,060
+condensation nuclei
+
+2349
+01:48:43,060 --> 01:48:44,860
+it may be relatively strong water droplets
+
+2350
+01:48:44,860 --> 01:48:46,660
+easier to spill
+
+2351
+01:48:46,660 --> 01:48:48,460
+then we know that means
+
+2352
+01:48:48,460 --> 01:48:50,960
+a highly concentrated droplet
+
+2353
+01:48:50,960 --> 01:48:52,660
+it is less accretive
+
+2354
+01:48:52,660 --> 01:48:53,460
+dirty water
+
+2355
+01:48:53,460 --> 01:48:55,260
+You see usually it's not very accretive
+
+2356
+01:48:55,260 --> 01:48:56,660
+Clean water is easy to multiply
+
+2357
+01:48:56,660 --> 01:48:57,660
+dirty water on the ground
+
+2358
+01:48:57,660 --> 01:48:59,660
+Things on the ground last longer
+
+2359
+01:49:00,000 --> 01:49:01,600
+the same in the cloud
+
+2360
+01:49:01,600 --> 01:49:02,800
+As long as the cloud is dirty
+
+2361
+01:49:02,800 --> 01:49:05,400
+That cloud will last a little longer
+
+2362
+01:49:08,300 --> 01:49:10,300
+There are usually more clouds, which increase the albedo
+
+2363
+01:49:10,300 --> 01:49:11,800
+it lowers the surface temperature
+
+2364
+01:49:12,200 --> 01:49:14,800
+seriously pollute the air
+
+2365
+01:49:16,900 --> 01:49:19,300
+OK but there's a lot more in it
+
+2366
+01:49:19,300 --> 01:49:21,100
+We have no mention of electrical effects
+
+2367
+01:49:21,100 --> 01:49:24,700
+because time is not enough
+
+2368
+01:49:25,900 --> 01:49:27,000
+so many things
+
+2369
+01:49:27,000 --> 01:49:28,800
+your best bet is
+
+2370
+01:49:28,800 --> 01:49:30,400
+if you have a way to fly to the sky
+
+2371
+01:49:30,400 --> 01:49:31,400
+Then look from below
+
+2372
+01:49:31,900 --> 01:49:33,200
+Now of course we can't fly
+
+2373
+01:49:33,200 --> 01:49:35,200
+But someone flew for us
+
+2374
+01:49:35,600 --> 01:49:37,200
+This is called the International Space Station
+
+2375
+01:49:37,800 --> 01:49:40,200
+So this one might take that voice and put it
+
+2376
+01:49:40,200 --> 01:49:41,400
+Push to
+
+2377
+01:50:00,000 --> 01:50:02,000
+look down
+
+2378
+01:50:06,640 --> 01:50:07,640
+pile of lightning
+
+2379
+01:50:30,000 --> 01:50:32,000
+pile of lightning
+
+2380
+01:52:00,000 --> 01:52:07,000
+OK, thank you all for today
+
+2381
+01:52:07,000 --> 01:52:11,000
+Thank you Jin Tai for the speech this last game last this
+
+2382
+01:52:11,000 --> 01:52:14,000
+Very good at shooting outer space to see the earth
+
+2383
+01:52:14,000 --> 01:52:17,000
+ok we have 10 minutes to start
+
+2384
+01:52:17,000 --> 01:52:21,000
+do we have any questions please
+
+2385
+01:52:21,000 --> 01:52:22,000
+consult
+
+2386
+01:52:22,000 --> 01:52:27,000
+ask the professor
+
+2387
+01:52:27,000 --> 01:52:32,000
+Just now the professor mentioned many kinds of
+
+2388
+01:52:32,000 --> 01:52:35,000
+For example, Jiyin, Jianying, and Chen Jiyin
+
+2389
+01:52:35,000 --> 01:52:39,000
+Please teach me the number sound of tornado
+
+2390
+01:52:39,000 --> 01:52:42,000
+what type of sound thanks
+
+2391
+01:52:42,000 --> 01:52:44,000
+he has nothing to do with either
+
+2392
+01:52:44,000 --> 01:52:46,000
+He said something completely different
+
+2393
+01:52:46,000 --> 01:52:48,000
+You are sounding like the fluctuating sound I mentioned just now
+
+2394
+01:52:48,000 --> 01:52:53,000
+Also not included in the earliest mentioned
+
+2395
+01:52:53,000 --> 01:52:56,000
+He is another way of classifying
+
+2396
+01:53:00,000 --> 01:53:05,000
+So Long Jianfeng, rolled up, is that a cloud?
+
+2397
+01:53:05,000 --> 01:53:06,000
+that's cloud
+
+2398
+01:53:06,000 --> 01:53:08,000
+that cloud
+
+2399
+01:53:08,000 --> 01:53:10,000
+That cloud is not a cloud
+
+2400
+01:53:10,000 --> 01:53:14,000
+Clouds are just about light
+
+2401
+01:53:14,000 --> 01:53:19,000
+So the one that was rolled up by the wind of dragon inspection
+
+2402
+01:53:19,000 --> 01:53:21,000
+That name is Lu Douyun
+
+2403
+01:53:21,000 --> 01:53:22,000
+Lu Douyun
+
+2404
+01:53:22,000 --> 01:53:23,000
+He looks like Ludo
+
+2405
+01:53:23,000 --> 01:53:24,000
+Gradually
+
+2406
+01:53:24,000 --> 01:53:26,000
+Thanks
+
+2407
+01:53:27,000 --> 01:53:28,000
+good
+
+2408
+01:53:28,000 --> 01:53:30,000
+Director Wang
+
+2409
+01:53:30,000 --> 01:53:31,000
+Excuse me
+
+2410
+01:53:31,000 --> 01:53:34,000
+That is, the continental climate will obviously
+
+2411
+01:53:34,000 --> 01:53:37,000
+It is the polluted road that will obviously pollute Taiwan
+
+2412
+01:53:37,000 --> 01:53:40,000
+That's our main polluting line
+
+2413
+01:53:40,000 --> 01:53:42,000
+That is to say, the northeast monsoon
+
+2414
+01:53:42,000 --> 01:53:44,000
+The Northeast is not a continent
+
+2415
+01:53:44,000 --> 01:53:47,000
+The Northeast comes from Japan and the Pacific Ocean.
+
+2416
+01:53:47,000 --> 01:53:49,000
+So why the mainland
+
+2417
+01:53:49,000 --> 01:53:51,000
+going in such a strange direction
+
+2418
+01:53:51,000 --> 01:53:52,000
+blow to Taiwan
+
+2419
+01:53:52,000 --> 01:53:53,000
+The northeast monsoon is only because
+
+2420
+01:53:53,000 --> 01:53:55,000
+to us is northeast
+
+2421
+01:53:55,000 --> 01:53:58,000
+But from the original place, I don’t think it’s the Northeast
+
+2422
+01:53:58,000 --> 01:54:00,000
+that domineering transfer
+
+2423
+01:54:00,000 --> 01:54:02,600
+In fact, it is mostly a circular motion.
+
+2424
+01:54:02,600 --> 01:54:03,600
+a little more
+
+2425
+01:54:03,600 --> 01:54:05,100
+it won't say from there
+
+2426
+01:54:05,100 --> 01:54:06,700
+It's all the way from the northeast
+
+2427
+01:54:06,700 --> 01:54:08,300
+not like this
+
+2428
+01:54:08,300 --> 01:54:09,200
+so this situation
+
+2429
+01:54:09,200 --> 01:54:11,500
+It's like bypassing Japan and coming back.
+
+2430
+01:54:11,500 --> 01:54:14,500
+Bypass Japan, South Korea and come again
+
+2431
+01:54:14,500 --> 01:54:15,400
+so keep coming
+
+2432
+01:54:15,400 --> 01:54:17,200
+Another little problem is that
+
+2433
+01:54:17,200 --> 01:54:20,600
+Just mentioned that water vapor is the main greenhouse gas
+
+2434
+01:54:20,600 --> 01:54:22,800
+But crocodile carbon is man-made
+
+2435
+01:54:22,800 --> 01:54:25,100
+a greenhouse gas that has been increasing
+
+2436
+01:54:25,100 --> 01:54:27,100
+After the crocodile carbon dioxide increases
+
+2437
+01:54:27,100 --> 01:54:28,500
+until the temperature increases
+
+2438
+01:54:28,500 --> 01:54:32,800
+Does the increase in temperature increase the stability of the earth's water vapor?
+
+2439
+01:54:32,800 --> 01:54:34,000
+After that lift up
+
+2440
+01:54:34,000 --> 01:54:36,300
+The temperature increased further
+
+2441
+01:54:36,300 --> 01:54:39,000
+Will it have such a vicious effect?
+
+2442
+01:54:40,400 --> 01:54:41,800
+this has a possibility
+
+2443
+01:54:41,800 --> 01:54:43,000
+not completely impossible
+
+2444
+01:54:43,000 --> 01:54:45,100
+But now when reading this article
+
+2445
+01:54:45,100 --> 01:54:47,200
+On a yearly scale
+
+2446
+01:54:47,200 --> 01:54:49,000
+more water vapor
+
+2447
+01:54:49,000 --> 01:54:51,400
+Rainfall will also increase
+
+2448
+01:54:51,400 --> 01:54:52,800
+because of the source of moisture
+
+2449
+01:54:52,800 --> 01:54:55,200
+The source of that rain is water vapor
+
+2450
+01:54:55,200 --> 01:54:56,800
+So you make water vapor and rain increase
+
+2451
+01:54:56,900 --> 01:54:59,100
+So on a yearly basis
+
+2452
+01:54:59,100 --> 01:55:00,000
+Take it easy
+
+2453
+01:55:00,000 --> 01:55:02,000
+These two should balance each other
+
+2454
+01:55:02,000 --> 01:55:05,000
+So the annual flower increase and the annual precipitation
+
+2455
+01:55:05,000 --> 01:55:08,000
+The two should just cancel out
+
+2456
+01:55:08,000 --> 01:55:10,000
+So for the whole year
+
+2457
+01:55:10,000 --> 01:55:13,000
+That is, on average, the amount of air in water in your earth
+
+2458
+01:55:13,000 --> 01:55:15,000
+indeed will increase
+
+2459
+01:55:15,000 --> 01:55:17,000
+But the rainfall will also increase
+
+2460
+01:55:17,000 --> 01:55:20,000
+But what you just asked probably meant
+
+2461
+01:55:20,000 --> 01:55:21,000
+The increased air volume in the water
+
+2462
+01:55:21,000 --> 01:55:26,000
+Will it increase the temperature inside the earth?
+
+2463
+01:55:26,000 --> 01:55:28,000
+the answer is yes
+
+2464
+01:55:28,000 --> 01:55:30,000
+And the so-called warming
+
+2465
+01:55:30,000 --> 01:55:33,000
+It is mentioned in the mode that this calculation is included in it.
+
+2466
+01:55:33,000 --> 01:55:36,000
+I've already factored in this warming up.
+
+2467
+01:55:38,000 --> 01:55:39,000
+good
+
+2468
+01:55:40,000 --> 01:55:42,000
+is there any problem
+
+2469
+01:55:42,000 --> 01:55:44,000
+professor
+
+2470
+01:55:44,000 --> 01:55:47,000
+Just that video, the last video
+
+2471
+01:55:47,000 --> 01:55:50,000
+It's like burning the physiology
+
+2472
+01:55:50,000 --> 01:55:52,000
+what does that mean
+
+2473
+01:55:52,000 --> 01:55:56,000
+There are not many, but the one that seems to be on fire
+
+2474
+01:55:56,000 --> 01:55:58,000
+you say green red
+
+2475
+01:55:58,000 --> 01:56:00,000
+red a lot like
+
+2476
+01:56:00,000 --> 01:56:02,000
+The one that burns like magma
+
+2477
+01:56:02,000 --> 01:56:05,000
+That's actually in space
+
+2478
+01:56:05,000 --> 01:56:07,000
+That's called Aurora
+
+2479
+01:56:07,000 --> 01:56:10,000
+like the aurora borealis
+
+2480
+01:56:10,000 --> 01:56:12,000
+Are there so many auroras?
+
+2481
+01:56:12,000 --> 01:56:14,000
+why is it light
+
+2482
+01:56:14,000 --> 01:56:16,000
+the red one all over the place
+
+2483
+01:56:16,000 --> 01:56:18,000
+fixed bit by bit
+
+2484
+01:56:18,000 --> 01:56:20,000
+very many
+
+2485
+01:56:20,000 --> 01:56:22,000
+That is the night in the city
+
+2486
+01:56:22,000 --> 01:56:24,000
+of course you see a little
+
+2487
+01:56:24,000 --> 01:56:26,000
+you don't really see a light
+
+2488
+01:56:26,000 --> 01:56:29,000
+Lights across the metropolitan area
+
+2489
+01:56:29,000 --> 01:56:31,000
+Maybe it's in space
+
+2490
+01:56:31,000 --> 01:56:33,000
+waste time
+
+2491
+01:56:33,000 --> 01:56:35,000
+The whole, for example, the whole of Taipei City
+
+2492
+01:56:35,000 --> 01:56:37,000
+just see a little
+
+2493
+01:56:37,000 --> 01:56:39,000
+it's a light like this
+
+2494
+01:56:39,000 --> 01:56:41,000
+all covered
+
+2495
+01:56:41,000 --> 01:56:43,000
+are all cities
+
+2496
+01:56:43,000 --> 01:56:45,000
+Thanks
+
+2497
+01:56:49,000 --> 01:56:51,000
+we just want to ask
+
+2498
+01:56:51,000 --> 01:56:53,000
+you just mentioned
+
+2499
+01:56:53,000 --> 01:56:55,000
+We currently lack global
+
+2500
+01:56:55,000 --> 01:56:57,000
+3D Cloud Observation
+
+2501
+01:56:57,000 --> 01:56:59,000
+then i'm curious
+
+2502
+01:56:59,000 --> 01:57:01,000
+is there any possibility
+
+2503
+01:57:00,000 --> 01:57:01,660
+can proceed
+
+2504
+01:57:01,660 --> 01:57:02,540
+because we usually now see
+
+2505
+01:57:02,540 --> 01:57:04,240
+just look up from the ground
+
+2506
+01:57:04,240 --> 01:57:06,300
+looking down from the sky
+
+2507
+01:57:06,300 --> 01:57:07,700
+just to see the flickering
+
+2508
+01:57:07,700 --> 01:57:09,500
+is there any possibility
+
+2509
+01:57:09,500 --> 01:57:10,040
+Thanks
+
+2510
+01:57:11,340 --> 01:57:13,540
+And the possibility is that
+
+2511
+01:57:13,540 --> 01:57:17,640
+It's better to have a lot of these tactics
+
+2512
+01:57:17,640 --> 01:57:20,540
+One of the current satellites is
+
+2513
+01:57:20,540 --> 01:57:22,700
+a cloud radar
+
+2514
+01:57:22,700 --> 01:57:25,700
+That cloud moon called Clausian
+
+2515
+01:57:25,700 --> 01:57:28,400
+It is different from ordinary satellites
+
+2516
+01:57:28,400 --> 01:57:30,900
+Ordinary satellites are cloud satellites that use visible photosynthesis
+
+2517
+01:57:30,900 --> 01:57:31,400
+look
+
+2518
+01:57:31,400 --> 01:57:33,000
+But what you see is a plane equal to this
+
+2519
+01:57:33,000 --> 01:57:34,300
+just one layer
+
+2520
+01:57:34,300 --> 01:57:36,500
+This new relatively new relic
+
+2521
+01:57:36,500 --> 01:57:38,400
+it can penetrate
+
+2522
+01:57:38,400 --> 01:57:39,200
+it can penetrate
+
+2523
+01:57:39,200 --> 01:57:42,900
+Then in theory it could see several layers
+
+2524
+01:57:42,900 --> 01:57:44,900
+The current satellite
+
+2525
+01:57:44,900 --> 01:57:47,000
+it is not a geostationary satellite
+
+2526
+01:57:47,000 --> 01:57:47,900
+If geostationary satellite
+
+2527
+01:57:47,900 --> 01:57:51,900
+It says it can be 24 hours a day
+
+2528
+01:57:51,900 --> 01:57:53,500
+all have been watching
+
+2529
+01:57:53,500 --> 01:57:55,900
+At present, this kind of satellite is only a kind of orbiting satellite
+
+2530
+01:57:55,900 --> 01:57:57,200
+So it just selects
+
+2531
+01:57:57,200 --> 01:57:58,500
+just for a certain period of time
+
+2532
+01:57:58,500 --> 01:57:59,800
+so the data
+
+2533
+01:58:00,000 --> 01:58:01,340
+incomplete is
+
+2534
+01:58:01,340 --> 01:58:03,340
+but there is a possibility in the future
+
+2535
+01:58:03,340 --> 01:58:05,840
+If we say that the future technology is so high that
+
+2536
+01:58:05,840 --> 01:58:07,540
+Pompeo also has such a thing
+
+2537
+01:58:07,540 --> 01:58:08,640
+There is also this radar
+
+2538
+01:58:08,640 --> 01:58:10,240
+There is also this cloud radar
+
+2539
+01:58:10,240 --> 01:58:14,940
+From such a high altitude of tens of thousands of kilometers
+
+2540
+01:58:14,940 --> 01:58:17,340
+penetrate the ground and make observations
+
+2541
+01:58:17,340 --> 01:58:18,640
+that's possible
+
+2542
+01:58:18,640 --> 01:58:21,540
+This kind of global 3D observation is possible
+
+2543
+01:58:24,640 --> 01:58:25,580
+Professor OK Wang
+
+2544
+01:58:25,580 --> 01:58:27,840
+thank you for a very good presentation
+
+2545
+01:58:27,840 --> 01:58:28,580
+I have a question
+
+2546
+01:58:28,580 --> 01:58:30,980
+You mean the water and water vapor on the earth
+
+2547
+01:58:30,980 --> 01:58:32,320
+Is it constant
+
+2548
+01:58:32,320 --> 01:58:35,780
+won't it disappear into space
+
+2549
+01:58:35,780 --> 01:58:37,120
+Yes
+
+2550
+01:58:37,120 --> 01:58:39,120
+if so far
+
+2551
+01:58:39,120 --> 01:58:42,480
+Disappeared because no one observed
+
+2552
+01:58:42,480 --> 01:58:44,620
+So since no one observed
+
+2553
+01:58:44,620 --> 01:58:47,180
+We assume it is always
+
+2554
+01:58:47,180 --> 01:58:49,820
+always balanced
+
+2555
+01:58:49,820 --> 01:58:51,480
+so many things are said
+
+2556
+01:58:51,480 --> 01:58:55,680
+Let's just say we haven't seen evidence to the contrary
+
+2557
+01:58:55,680 --> 01:58:57,820
+That is to say, we don't know for sure
+
+2558
+01:58:57,820 --> 01:59:00,060
+The water in the earth is increasing
+
+2559
+01:59:00,000 --> 01:59:03,360
+Maybe there is a lot of water coming in from outer space, we don't know
+
+2560
+01:59:03,360 --> 01:59:06,360
+So do you think there is such a possibility?
+
+2561
+01:59:06,360 --> 01:59:07,840
+Of course it's possible
+
+2562
+01:59:07,840 --> 01:59:09,840
+It's just that we have nothing to do with it
+
+2563
+01:59:09,840 --> 01:59:13,340
+Directly connected to the earth, there is another promise
+
+2564
+01:59:13,340 --> 01:59:15,080
+That's what we call Jiawan
+
+2565
+01:59:15,080 --> 01:59:17,200
+After oxidation, the pill will produce water
+
+2566
+01:59:17,200 --> 01:59:19,200
+That's really putting it together
+
+2567
+01:59:19,200 --> 01:59:22,600
+A lot of steamed juice is due to the oxidation of Jiawan
+
+2568
+01:59:22,600 --> 01:59:24,600
+The generated water vapor is over there
+
+2569
+01:59:24,600 --> 01:59:26,500
+So now if the ground is like
+
+2570
+01:59:26,500 --> 01:59:29,800
+If more and more such pills are released underground,
+
+2571
+01:59:30,200 --> 01:59:31,600
+after it is oxidized
+
+2572
+01:59:31,600 --> 01:59:33,600
+it produces oxidized water
+
+2573
+01:59:33,600 --> 01:59:35,400
+likely to increase
+
+2574
+01:59:35,400 --> 01:59:38,800
+It's also possible that this is another possible measure
+
+2575
+01:59:38,800 --> 01:59:40,800
+ok last question
+
+2576
+01:59:40,800 --> 01:59:42,800
+ask teacher wang
+
+2577
+01:59:42,800 --> 01:59:44,200
+you just mentioned that there are
+
+2578
+01:59:44,200 --> 01:59:48,700
+Tiny particles with negative subscale sizes cannot be sucked down by rainwater
+
+2579
+01:59:48,700 --> 01:59:52,200
+If so, will there be more and more pollutants in the air?
+
+2580
+01:59:52,200 --> 01:59:53,700
+ah
+
+2581
+01:59:53,700 --> 01:59:58,000
+it gets to a point where it might reach a certain balance
+
+2582
+01:59:58,000 --> 02:00:00,200
+not always
+
+2583
+02:00:00,000 --> 02:00:04,000
+take that sentence back in half
+
+2584
+02:00:04,000 --> 02:00:08,000
+If humans do not go too far
+
+2585
+02:00:08,000 --> 02:00:12,000
+if humans go too far
+
+2586
+02:00:12,000 --> 02:00:14,000
+Then I think it will keep increasing
+
+2587
+02:00:14,000 --> 02:00:17,000
+Because it will exceed the nature of this
+
+2588
+02:00:17,000 --> 02:00:20,000
+This efficiency in removing pollution from the air
+
+2589
+02:00:20,000 --> 02:00:22,000
+Once you exceed this limit
+
+2590
+02:00:22,000 --> 02:00:24,000
+it keeps increasing
+
+2591
+02:00:24,000 --> 02:00:26,000
+This is the so-called wrong away
+
+2592
+02:00:26,000 --> 02:00:28,000
+just follow
+
+2593
+02:00:28,000 --> 02:00:30,000
+we all know why
+
+2594
+02:00:30,000 --> 02:00:32,000
+elaborate why make me hot
+
+2595
+02:00:32,000 --> 02:00:34,000
+Because its soup is called wrong away
+
+2596
+02:00:34,000 --> 02:00:36,000
+it can't be balanced
+
+2597
+02:00:36,000 --> 02:00:38,000
+A water vapor it is the same as the earth
+
+2598
+02:00:38,000 --> 02:00:40,000
+Its water vapor also flowed from the ground
+
+2599
+02:00:40,000 --> 02:00:42,000
+it pops out of the ground
+
+2600
+02:00:42,000 --> 02:00:44,000
+we are tough here
+
+2601
+02:00:44,000 --> 02:00:46,000
+then we will take business
+
+2602
+02:00:46,000 --> 02:00:48,000
+because it is too close to the sun
+
+2603
+02:00:48,000 --> 02:00:50,000
+it's too hot
+
+2604
+02:00:50,000 --> 02:00:52,000
+so it's been water vapor
+
+2605
+02:00:52,000 --> 02:00:54,000
+it broke down shortly after
+
+2606
+02:00:54,000 --> 02:00:56,000
+So its water vapor decomposes
+
+2607
+02:00:56,000 --> 02:00:58,000
+so it's not in its atmosphere
+
+2608
+02:00:58,000 --> 02:01:00,000
+So that elaborate atmosphere
+
+2609
+02:01:00,000 --> 02:01:02,000
+That's hundreds of times the weight of the earth
+
+2610
+02:01:02,000 --> 02:01:05,000
+Because its air-conditioning is not like ours running into the sea
+
+2611
+02:01:05,000 --> 02:01:07,000
+no , not gas
+
+2612
+02:01:07,000 --> 02:01:09,000
+it's always been inside its origin
+
+2613
+02:01:09,000 --> 02:01:10,000
+So this great potential
+
+2614
+02:01:10,000 --> 02:01:13,000
+There's no way it can go back, there's no way it can be balanced
+
+2615
+02:01:13,000 --> 02:01:15,000
+Then what I just said at this time
+
+2616
+02:01:15,000 --> 02:01:17,000
+If human beings are always in the air
+
+2617
+02:01:17,000 --> 02:01:19,000
+send in this
+
+2618
+02:01:19,000 --> 02:01:21,000
+so many particles
+
+2619
+02:01:21,000 --> 02:01:23,000
+someday
+
+2620
+02:01:23,000 --> 02:01:26,000
+The forces of nature cannot remove
+
+2621
+02:01:26,000 --> 02:01:28,000
+this time is
+
+2622
+02:01:28,000 --> 02:01:31,000
+It is not stipulated, this is point on no return
+
+2623
+02:01:31,000 --> 02:01:33,000
+it's possible
+
+2624
+02:01:35,000 --> 02:01:38,000
+OK, let's thank Director Wang again
+
+2625
+02:01:38,000 --> 02:01:41,000
+thank you all
+

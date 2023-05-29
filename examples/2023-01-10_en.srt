@@ -1,0 +1,9512 @@
+1
+00:08:00,000 --> 00:08:02,920
+good night everyone
+
+2
+00:08:02,920 --> 00:08:05,460
+Lecture is about to start
+
+3
+00:08:05,460 --> 00:08:09,240
+Please set your phone to vibrate or silent
+
+4
+00:08:09,240 --> 00:08:11,060
+Remind you
+
+5
+00:08:11,060 --> 00:08:15,740
+Please set your phone to vibrate or silent
+
+6
+00:08:15,740 --> 00:08:17,420
+Remind you
+
+7
+00:08:17,420 --> 00:08:21,180
+Please set your phone to vibrate or silent
+
+8
+00:08:21,180 --> 00:08:24,300
+Please set your phone to vibrate or silent
+
+9
+00:08:24,300 --> 00:08:26,240
+Remind you
+
+10
+00:08:26,240 --> 00:08:27,780
+Please set your phone to vibrate or silent
+
+11
+00:08:28,760 --> 00:08:29,900
+Remind you
+
+12
+00:08:29,900 --> 00:08:31,880
+This presentation is in progress
+
+13
+00:08:31,880 --> 00:08:34,380
+Please wear a mask at all times
+
+14
+00:08:34,380 --> 00:08:36,260
+and prohibit eating
+
+15
+00:08:36,260 --> 00:08:38,460
+video and audio recording
+
+16
+00:08:38,460 --> 00:08:41,720
+Do not use the flash when taking pictures
+
+17
+00:08:41,720 --> 00:08:43,720
+Thank you for your cooperation
+
+18
+00:09:00,000 --> 00:09:07,000
+Academia Sinica's 112-year-old governor Cai Yuanpei's popular science award begins
+
+19
+00:09:07,000 --> 00:09:11,000
+We ask Vice President Zhou Meiyin to host for us
+
+20
+00:09:15,000 --> 00:09:19,000
+Ask Vice President Zhou Meiyin to host for us
+
+21
+00:09:19,000 --> 00:09:23,000
+Ask Vice President Zhou Meiyin to host for us
+
+22
+00:09:23,000 --> 00:09:26,000
+Ask Vice President Zhou Meiyin to host for us
+
+23
+00:09:30,000 --> 00:09:37,000
+Dear teachers Ma, distinguished guests and colleagues, good night everyone
+
+24
+00:09:37,000 --> 00:09:44,000
+In order to commemorate the 155th birthday of President Cai Yuanpei Gu
+
+25
+00:09:44,000 --> 00:09:50,000
+So we are holding today this is the 2023 Governor's Vision
+
+26
+00:09:50,000 --> 00:09:53,000
+Dean Cai Yuanpei's Science Popularization Award
+
+27
+00:09:53,000 --> 00:10:00,000
+So we are very happy and honored to invite you to the Institute of Earth Sciences
+
+28
+00:10:00,000 --> 00:10:04,600
+Ma Guofeng Distinguished Researcher of the Institute of Earth Sciences
+
+29
+00:10:04,600 --> 00:10:06,400
+come and give us a lecture
+
+30
+00:10:06,400 --> 00:10:10,240
+see this generation of light that initiates earthquakes
+
+31
+00:10:10,240 --> 00:10:14,840
+When the light first penetrates into the monitoring of the fault zone
+
+32
+00:10:14,840 --> 00:10:18,440
+this could be very interesting
+
+33
+00:10:18,440 --> 00:10:23,040
+Then we know that Mr. Ma graduated from
+
+34
+00:10:23,040 --> 00:10:26,880
+Department of Geophysics, Chuo University
+
+35
+00:10:26,880 --> 00:10:30,960
+Then at the Institute of Oceanography at National Taiwan University
+
+36
+00:10:30,960 --> 00:10:34,560
+Study abroad after earning a master's degree
+
+37
+00:10:34,560 --> 00:10:38,920
+Finally at Caltech
+
+38
+00:10:38,920 --> 00:10:42,480
+The Department of Geology and Planetary Sciences
+
+39
+00:10:42,480 --> 00:10:44,040
+very special one
+
+40
+00:10:44,040 --> 00:10:46,600
+received a Ph.D.
+
+41
+00:10:46,600 --> 00:10:49,480
+Return to Taiwan to serve after graduation
+
+42
+00:10:49,480 --> 00:10:52,480
+Then enter Central University to teach
+
+43
+00:10:52,480 --> 00:10:55,040
+until 2020
+
+44
+00:10:55,040 --> 00:11:00,400
+Transfer to this institute as a special research institute of the Earth Institute
+
+45
+00:11:00,000 --> 00:11:07,000
+He is also currently the Chief Scientist of the Taiwan Earthquake Science Center
+
+46
+00:11:07,000 --> 00:11:19,000
+That's also the director of the Earthquake Disaster Chain Risk Assessment and Management Research Center at Chuo University
+
+47
+00:11:19,000 --> 00:11:27,000
+Mr. Nama's main major is in seismology and political mechanics
+
+48
+00:11:27,000 --> 00:11:31,000
+So wait a minute to hear him explain this to us
+
+49
+00:11:31,000 --> 00:11:41,000
+These studies are able to observe earthquakes that are very relevant to us
+
+50
+00:11:41,000 --> 00:11:50,000
+His greatest contribution was the first observation of the thickness of the Chinese belt of a large earthquake fault
+
+51
+00:11:50,000 --> 00:11:58,000
+Then, quantitative calculations can be used to obtain the energy for generating earthquakes
+
+52
+00:11:58,000 --> 00:12:00,000
+then what energy
+
+53
+00:12:00,000 --> 00:12:01,600
+military research on earthquakes, etc.
+
+54
+00:12:01,600 --> 00:12:05,480
+We'll hear some research on this later
+
+55
+00:12:05,920 --> 00:12:10,560
+What about the research on earthquake disaster risk assessment?
+
+56
+00:12:10,560 --> 00:12:13,760
+We can take the results of academic research
+
+57
+00:12:14,000 --> 00:12:16,520
+applied to related industries
+
+58
+00:12:16,840 --> 00:12:20,400
+To reduce the damage caused by earthquakes
+
+59
+00:12:20,600 --> 00:12:24,600
+So this is our Academia Sinica doing basic research
+
+60
+00:12:24,600 --> 00:12:29,320
+But it is closely related to the current situation of Paiwai.
+
+61
+00:12:30,160 --> 00:12:34,640
+Teacher Nama Guofeng has received many academic honors
+
+62
+00:12:34,920 --> 00:12:37,440
+as early as 2000
+
+63
+00:12:37,440 --> 00:12:40,400
+Elected as one of the top ten outstanding young women of the Republic of China
+
+64
+00:12:41,200 --> 00:12:45,240
+In 2011, he won the Taiwan Outstanding Scientist Award
+
+65
+00:12:45,920 --> 00:12:50,840
+Received the 17th National Award from the Ministry of Education in 2013
+
+66
+00:12:51,240 --> 00:12:52,800
+Measure right as long as it doesn't matter
+
+67
+00:12:52,800 --> 00:12:55,720
+and many other awards
+
+68
+00:12:55,840 --> 00:12:59,800
+2019 was elected to the American Geophysical Union
+
+69
+00:13:00,000 --> 00:13:04,720
+2021 is the Year of the Earth Science Society of Asia and Oceania
+
+70
+00:13:04,720 --> 00:13:08,640
+These awards of an X-Ware Medal Award
+
+71
+00:13:09,360 --> 00:13:12,040
+So now we're talking about today's lecture
+
+72
+00:13:12,040 --> 00:13:15,040
+I will introduce this to you in particular
+
+73
+00:13:15,480 --> 00:13:20,000
+Our so-called vibration research on seismic waves observed by Mitsusen
+
+74
+00:13:20,440 --> 00:13:21,440
+can help us
+
+75
+00:13:22,920 --> 00:13:24,600
+The observation of this earthquake
+
+76
+00:13:24,600 --> 00:13:29,600
+And then going deep into this fault zone can provide high-resolution seismic signals
+
+77
+00:13:29,800 --> 00:13:33,800
+This is very important to our understanding of earthquakes
+
+78
+00:13:34,200 --> 00:13:37,400
+Okay, now please give us a big round of applause
+
+79
+00:13:37,840 --> 00:13:41,120
+Welcome Ma Guofeng Distinguished Researcher
+
+80
+00:13:41,480 --> 00:13:43,920
+Give us a special lecture today
+
+81
+00:13:51,480 --> 00:13:53,120
+Thank you Vice President for your introduction
+
+82
+00:13:53,120 --> 00:13:57,200
+Also, thank you, my friends, for your special attention.
+
+83
+00:13:57,200 --> 00:13:57,680
+Thanks
+
+84
+00:13:57,680 --> 00:14:00,040
+I am very happy to have this opportunity today
+
+85
+00:14:00,000 --> 00:14:04,000
+Personally, I think it is in our seismological science supernatural
+
+86
+00:14:04,000 --> 00:14:06,000
+very important for a new generation
+
+87
+00:14:06,000 --> 00:14:10,000
+Then I think each science is about 20 to 30 years
+
+88
+00:14:10,000 --> 00:14:12,000
+There will be a new conversion into
+
+89
+00:14:12,000 --> 00:14:14,000
+then i'm glad to have this opportunity
+
+90
+00:14:14,000 --> 00:14:16,000
+when i was a doctor
+
+91
+00:14:16,000 --> 00:14:20,000
+Seismology from flat to broadband
+
+92
+00:14:20,000 --> 00:14:22,000
+How about when you are more senior?
+
+93
+00:14:22,000 --> 00:14:26,000
+Having access to this highest resolution material again
+
+94
+00:14:26,000 --> 00:14:30,000
+Analysis with the current big data data
+
+95
+00:14:30,000 --> 00:14:32,000
+Earthquake Science Content
+
+96
+00:14:32,000 --> 00:14:34,000
+then i'm happy too
+
+97
+00:14:34,000 --> 00:14:38,000
+My idea has achieved a key breakthrough in the hospital
+
+98
+00:14:38,000 --> 00:14:40,000
+support for this project
+
+99
+00:14:40,000 --> 00:14:42,000
+Only way to get this job today
+
+100
+00:14:42,000 --> 00:14:46,000
+Well, this is actually a new attempt
+
+101
+00:14:46,000 --> 00:14:48,000
+Then I would like to take this opportunity to introduce to you
+
+102
+00:14:48,000 --> 00:14:52,000
+We now have the development of a new generation of earthquake science
+
+103
+00:14:52,000 --> 00:14:54,000
+and why do we need this thing
+
+104
+00:14:54,000 --> 00:14:56,000
+Of course, there are still many challenges in it.
+
+105
+00:14:56,000 --> 00:14:59,000
+but i think it's the future
+
+106
+00:15:00,000 --> 00:15:05,440
+Towards that job, of course I am the main leader
+
+107
+00:15:05,440 --> 00:15:08,280
+But it takes a lot of teams to actually execute
+
+108
+00:15:08,280 --> 00:15:11,680
+Because it actually has a lot of technology in it
+
+109
+00:15:11,680 --> 00:15:13,840
+Not just data analysis Data analysis is
+
+110
+00:15:13,840 --> 00:15:16,480
+Now let's enjoy data analysis
+
+111
+00:15:16,480 --> 00:15:20,720
+But in the first two years it was actually a lot of labor work
+
+112
+00:15:20,720 --> 00:15:23,720
+researchers of technologies that matter to our planet
+
+113
+00:15:23,720 --> 00:15:26,640
+they are very important roles
+
+114
+00:15:26,640 --> 00:15:29,160
+Dr. Lin Qingren Dr. Gu Jinshang
+
+115
+00:15:29,160 --> 00:15:31,080
+And researcher Huang Xinhua
+
+116
+00:15:31,080 --> 00:15:35,480
+This is a very elite key figure in the whole team
+
+117
+00:15:35,480 --> 00:15:38,040
+Then it's me and Germany
+
+118
+00:15:38,040 --> 00:15:41,000
+Especially Sabastian and Philip
+
+119
+00:15:41,000 --> 00:15:43,560
+their instruments in europe
+
+120
+00:15:43,560 --> 00:15:45,440
+They first lent us the equipment
+
+121
+00:15:45,440 --> 00:15:48,320
+Let's understand what characterizes the whole instrument
+
+122
+00:15:48,320 --> 00:15:50,400
+So I am very happy to tell you today
+
+123
+00:15:50,400 --> 00:15:51,720
+Launch the Seismic Light Generation
+
+124
+00:15:51,720 --> 00:15:53,760
+Then I believe that those who are doing
+
+125
+00:15:53,760 --> 00:15:56,120
+It should be a little bit about earthquakes
+
+126
+00:15:56,160 --> 00:15:59,880
+So what I'm talking about may be more popular than general science.
+
+127
+00:15:59,880 --> 00:16:00,720
+slightly higher
+
+128
+00:16:00,000 --> 00:16:01,000
+a little deeper
+
+129
+00:16:01,000 --> 00:16:02,000
+but i think
+
+130
+00:16:02,000 --> 00:16:05,000
+This is a knowledge experiment at the hospital of traditional Chinese medicine
+
+131
+00:16:05,000 --> 00:16:09,000
+and the audience may be more able to
+
+132
+00:16:09,000 --> 00:16:10,000
+what you want to contact
+
+133
+00:16:10,000 --> 00:16:12,000
+So I will talk a little bit
+
+134
+00:16:12,000 --> 00:16:13,000
+General science is a little deeper
+
+135
+00:16:13,000 --> 00:16:15,000
+Well, of course earthquake observation I just mentioned
+
+136
+00:16:15,000 --> 00:16:17,000
+I am honored to be in
+
+137
+00:16:17,000 --> 00:16:19,000
+When I graduated from my Ph.D.
+
+138
+00:16:19,000 --> 00:16:22,000
+The result is that the entire earthquake becomes broadband
+
+139
+00:16:22,000 --> 00:16:25,000
+The observation is that I go from 1Hz to
+
+140
+00:16:25,000 --> 00:16:28,000
+1Hz should mean from 0.01 seconds
+
+141
+00:16:28,000 --> 00:16:30,000
+I can write it all down to 100Hz
+
+142
+00:16:30,000 --> 00:16:32,000
+So this is what we call a broadband seismic network.
+
+143
+00:16:32,000 --> 00:16:35,000
+In fact, in the hospital of traditional Chinese medicine
+
+144
+00:16:35,000 --> 00:16:37,000
+Dr. Liang Wenzhong We started to promote
+
+145
+00:16:37,000 --> 00:16:40,000
+的 Broadband Array in Seismology
+
+146
+00:16:40,000 --> 00:16:41,000
+This is BATS
+
+147
+00:16:41,000 --> 00:16:43,000
+At that time, I was in the Earth Institute of the Hospital of Traditional Chinese Medicine
+
+148
+00:16:43,000 --> 00:16:46,000
+He has been in seismology in Taiwan
+
+149
+00:16:46,000 --> 00:16:48,000
+play a very important role
+
+150
+00:16:48,000 --> 00:16:50,000
+That is, whenever an earthquake occurs
+
+151
+00:16:50,000 --> 00:16:52,000
+Whether it's the shock of all the boots
+
+152
+00:16:52,000 --> 00:16:55,000
+or any earthquake in the world
+
+153
+00:16:55,000 --> 00:16:57,000
+happened we can all remember
+
+154
+00:16:57,000 --> 00:16:59,000
+Well, of course it has something to do with the work of the weather bureau.
+
+155
+00:16:59,000 --> 00:17:01,000
+Of course it's very close
+
+156
+00:17:00,000 --> 00:17:03,600
+From the Odds Bureau, it is of course more biased towards large-scale earthquakes
+
+157
+00:17:03,600 --> 00:17:07,400
+Scale 4 Scale 5 It's gonna start doing some of these enouncements of earthquakes
+
+158
+00:17:07,400 --> 00:17:09,940
+Its location may not be as precise as ours
+
+159
+00:17:09,940 --> 00:17:13,340
+But it needs to be within the fastest time
+
+160
+00:17:13,340 --> 00:17:15,880
+Tell everyone where the earthquake is and how big it is
+
+161
+00:17:15,880 --> 00:17:18,480
+But with the role of BETS of the Central Plains Earth Institute
+
+162
+00:17:18,480 --> 00:17:21,080
+It's just that I am very accurate for small earthquakes.
+
+163
+00:17:21,080 --> 00:17:23,980
+Then my scale also has a certain scale relationship
+
+164
+00:17:23,980 --> 00:17:28,180
+Only then can I have a series of high-quality data for earthquake research
+
+165
+00:17:28,280 --> 00:17:31,180
+Then this high-quality data is not just a study of Taiwan
+
+166
+00:17:31,180 --> 00:17:33,820
+is the world's earthquake science
+
+167
+00:17:33,820 --> 00:17:35,660
+Of course I think it's the same in every field of science.
+
+168
+00:17:35,660 --> 00:17:39,220
+That is, earthquake science is a very international research science.
+
+169
+00:17:39,220 --> 00:17:43,220
+Because of the large-scale earthquake, the so-called large-scale is scale 7 scale 8
+
+170
+00:17:43,220 --> 00:17:45,660
+Of course we don't want it to happen often
+
+171
+00:17:45,660 --> 00:17:47,260
+but as soon as it happened
+
+172
+00:17:47,260 --> 00:17:50,800
+The world wants to be able to share this material and understand its uniqueness
+
+173
+00:17:50,800 --> 00:17:54,440
+In particular, seismology is a very science of earthquake observation
+
+174
+00:17:54,460 --> 00:17:58,400
+It must have earthquake observation and disaster status
+
+175
+00:17:58,400 --> 00:18:00,200
+The more refined we are
+
+176
+00:18:00,000 --> 00:18:02,000
+theories of our science
+
+177
+00:18:02,000 --> 00:18:04,000
+Then make the basis of disaster prevention
+
+178
+00:18:04,000 --> 00:18:06,000
+So here at the Zhongyingyuan
+
+179
+00:18:06,000 --> 00:18:08,000
+In fact, it has always played a very important role
+
+180
+00:18:08,000 --> 00:18:10,000
+This is from Teacher Liang Wenzhong
+
+181
+00:18:10,000 --> 00:18:13,000
+We are on the official website of the Earth Institute of the Zhongying Institute
+
+182
+00:18:13,000 --> 00:18:16,000
+Show it directly and GPS ground deformation
+
+183
+00:18:16,000 --> 00:18:19,000
+That is, except for the situation that happened during the earthquake
+
+184
+00:18:19,000 --> 00:18:20,000
+I still need to know
+
+185
+00:18:20,000 --> 00:18:22,000
+Entire plate collides with Taiwan
+
+186
+00:18:22,000 --> 00:18:23,000
+how is it
+
+187
+00:18:23,000 --> 00:18:24,000
+how energy is accumulated
+
+188
+00:18:24,000 --> 00:18:26,000
+how much it accumulated
+
+189
+00:18:26,000 --> 00:18:27,000
+how fast it accumulates
+
+190
+00:18:27,000 --> 00:18:28,000
+that of course is back to us
+
+191
+00:18:28,000 --> 00:18:30,000
+It was later shown with the so-called seismic hazard
+
+192
+00:18:30,000 --> 00:18:31,000
+such a job
+
+193
+00:18:31,000 --> 00:18:33,000
+Then this is actually for Backbone
+
+194
+00:18:33,000 --> 00:18:35,000
+Just one he must be stable
+
+195
+00:18:35,000 --> 00:18:37,000
+and he can't disconnect
+
+196
+00:18:37,000 --> 00:18:40,000
+And permanently maintain the highest quality signal
+
+197
+00:18:40,000 --> 00:18:42,000
+Then this quality control
+
+198
+00:18:42,000 --> 00:18:44,000
+Of course the most important thing
+
+199
+00:18:44,000 --> 00:18:46,000
+that besides this
+
+200
+00:18:46,000 --> 00:18:49,000
+Many developments in the past twenty or thirty years
+
+201
+00:18:49,000 --> 00:18:50,000
+Although I just talked about the generation of light
+
+202
+00:18:50,000 --> 00:18:52,000
+It's not that we were twenty or thirty years ago
+
+203
+00:18:52,000 --> 00:18:53,000
+didn't do anything
+
+204
+00:18:53,000 --> 00:18:54,000
+but twenty or thirty years ago
+
+205
+00:18:54,000 --> 00:18:56,000
+we have started to develop
+
+206
+00:18:56,000 --> 00:18:58,000
+the entire earthquake signal
+
+207
+00:18:58,000 --> 00:19:00,000
+Hope to prevent disasters from earthquakes
+
+208
+00:19:00,000 --> 00:19:01,460
+Just mentioned by the vice president
+
+209
+00:19:01,460 --> 00:19:04,080
+A very important role in our earthquake science is
+
+210
+00:19:04,080 --> 00:19:05,620
+give back to society
+
+211
+00:19:05,620 --> 00:19:07,000
+when an earthquake occurs
+
+212
+00:19:07,000 --> 00:19:08,460
+how the hell do we get
+
+213
+00:19:08,460 --> 00:19:10,240
+what is the fastest message
+
+214
+00:19:10,240 --> 00:19:12,040
+So this is a solemn admission
+
+215
+00:19:12,040 --> 00:19:13,940
+the same is within us
+
+216
+00:19:13,940 --> 00:19:15,360
+Dr. Li Xianzhong received
+
+217
+00:19:15,360 --> 00:19:16,680
+is our signal
+
+218
+00:19:16,680 --> 00:19:17,600
+the signal just said
+
+219
+00:19:17,600 --> 00:19:18,960
+In fact I am every second
+
+220
+00:19:18,960 --> 00:19:20,900
+Actually every 0.01 seconds
+
+221
+00:19:20,900 --> 00:19:22,280
+The signal keeps coming in
+
+222
+00:19:22,280 --> 00:19:24,200
+So let's build
+
+223
+00:19:24,200 --> 00:19:26,560
+Database of Seismic Waves of All Taiwan
+
+224
+00:19:26,560 --> 00:19:28,920
+Then as long as the earthquake comes every two seconds
+
+225
+00:19:28,920 --> 00:19:30,520
+In fact, whether there is an earthquake or not
+
+226
+00:19:30,520 --> 00:19:32,840
+Every two seconds I react by myself
+
+227
+00:19:32,840 --> 00:19:34,520
+Going to explain my current vibration
+
+228
+00:19:34,520 --> 00:19:35,560
+Is it an earthquake
+
+229
+00:19:35,560 --> 00:19:37,720
+Therefore, we can quickly
+
+230
+00:19:37,720 --> 00:19:39,040
+two seconds or even ten seconds
+
+231
+00:19:39,040 --> 00:19:41,120
+we can book the earthquake
+
+232
+00:19:41,120 --> 00:19:42,920
+size
+
+233
+00:19:42,920 --> 00:19:44,040
+and its location
+
+234
+00:19:44,040 --> 00:19:45,600
+that this is now
+
+235
+00:19:45,600 --> 00:19:47,160
+There are many collaborations with the weather track list
+
+236
+00:19:47,160 --> 00:19:48,720
+or everyone here
+
+237
+00:19:48,720 --> 00:19:49,920
+may work for us
+
+238
+00:19:49,920 --> 00:19:50,960
+some familiar words
+
+239
+00:19:50,960 --> 00:19:53,400
+That's when we have an earthquake every time
+
+240
+00:19:53,400 --> 00:19:55,240
+We will directly poss up
+
+241
+00:19:55,240 --> 00:19:57,880
+Many friends also directly
+
+242
+00:19:57,880 --> 00:19:58,680
+just look online
+
+243
+00:19:58,680 --> 00:19:59,920
+I see a lot of friends on Facebook
+
+244
+00:20:00,000 --> 00:20:02,000
+So directly put this network
+
+245
+00:20:02,000 --> 00:20:04,000
+As far as the post is concerned, where is the earthquake?
+
+246
+00:20:04,000 --> 00:20:07,000
+For example, this is the Hualien earthquake on February 6, 2018
+
+247
+00:20:07,000 --> 00:20:10,000
+At this moment, of course we can put
+
+248
+00:20:10,000 --> 00:20:12,000
+size, depth
+
+249
+00:20:12,000 --> 00:20:14,000
+Solve for its positive element mechanism
+
+250
+00:20:14,000 --> 00:20:16,000
+All solved and its maximum position
+
+251
+00:20:16,000 --> 00:20:18,000
+That's totally intelligent
+
+252
+00:20:18,000 --> 00:20:20,000
+It is completely Online
+
+253
+00:20:20,000 --> 00:20:22,000
+Then Real Time directly and automatically
+
+254
+00:20:22,000 --> 00:20:24,000
+do the program work
+
+255
+00:20:24,000 --> 00:20:28,000
+Then this is one of the very important contributions
+
+256
+00:20:28,000 --> 00:20:30,000
+It is just mentioned in the past 10 years
+
+257
+00:20:30,000 --> 00:20:32,000
+Taiwan Earthquake Science Center
+
+258
+00:20:32,000 --> 00:20:34,000
+important work done
+
+259
+00:20:34,000 --> 00:20:36,000
+outside of scientific research
+
+260
+00:20:36,000 --> 00:20:39,000
+How to really feedback the information of the whole Society
+
+261
+00:20:39,000 --> 00:20:41,000
+Well, this is of course another important task.
+
+262
+00:20:41,000 --> 00:20:43,000
+is also in
+
+263
+00:20:43,000 --> 00:20:45,000
+It will be seen in the official website of the Earth Institute
+
+264
+00:20:45,000 --> 00:20:47,000
+every time an earthquake occurs
+
+265
+00:20:47,000 --> 00:20:49,000
+There will be more than 600 steps in Taiwan
+
+266
+00:20:49,000 --> 00:20:52,000
+We get Real Time's Share Map anytime
+
+267
+00:20:52,000 --> 00:20:55,000
+the vibration chart
+
+268
+00:20:55,000 --> 00:20:57,000
+In fact, earthquake disaster prevention is very important
+
+269
+00:20:57,000 --> 00:20:59,000
+say it's a beauty earthquake
+
+270
+00:21:00,000 --> 00:21:03,700
+Maybe everyone is in the middle of the night and it's New Year's Eve
+
+271
+00:21:03,700 --> 00:21:05,900
+so no one knows what's going on
+
+272
+00:21:05,900 --> 00:21:08,100
+But if you come directly to this page
+
+273
+00:21:08,100 --> 00:21:11,700
+You can see that I am in Kaohsiung Tainan
+
+274
+00:21:11,700 --> 00:21:14,500
+Vibrations with a magnitude of 7 or higher are generated near here
+
+275
+00:21:14,500 --> 00:21:16,100
+That's because our earthquake blood is researching
+
+276
+00:21:16,100 --> 00:21:17,700
+We know this is bound to produce disaster
+
+277
+00:21:17,700 --> 00:21:21,300
+At the beginning, it was also NCDR who directly contacted and said
+
+278
+00:21:21,300 --> 00:21:22,500
+kink
+
+279
+00:21:22,500 --> 00:21:23,700
+it will surely produce disaster
+
+280
+00:21:23,700 --> 00:21:27,300
+Then make direct contact with other units of the fire department
+
+281
+00:21:27,500 --> 00:21:30,900
+Then this part is also the shake map of real time every five seconds
+
+282
+00:21:30,900 --> 00:21:33,300
+That's because our Central Plains Institute is currently
+
+283
+00:21:33,300 --> 00:21:37,200
+There are many things that need to be strengthened in terms of law and order
+
+284
+00:21:37,200 --> 00:21:39,300
+So we are currently offline
+
+285
+00:21:39,300 --> 00:21:41,700
+Because of the maintenance of the security firewall
+
+286
+00:21:41,700 --> 00:21:43,600
+That's another challenge
+
+287
+00:21:43,600 --> 00:21:45,200
+That is, I want to open data
+
+288
+00:21:45,200 --> 00:21:48,200
+But I also need a very good firewall
+
+289
+00:21:48,200 --> 00:21:49,300
+it's a bit of a dilemma
+
+290
+00:21:49,300 --> 00:21:51,400
+but we want to find the balance
+
+291
+00:21:51,400 --> 00:21:55,300
+Then this is all open to all people can use
+
+292
+00:21:55,400 --> 00:21:56,800
+of course i now
+
+293
+00:21:56,800 --> 00:21:58,600
+I know Teacher Liang just met him
+
+294
+00:21:58,600 --> 00:21:59,400
+Said he would come too
+
+295
+00:21:59,400 --> 00:22:00,100
+we now hope
+
+296
+00:22:00,000 --> 00:22:07,000
+I can play this real time intensity directly to
+
+297
+00:22:07,000 --> 00:22:09,000
+above the person's position
+
+298
+00:22:09,000 --> 00:22:12,000
+If you put it in the corner where you are
+
+299
+00:22:12,000 --> 00:22:14,000
+That's what we want to develop now
+
+300
+00:22:14,000 --> 00:22:17,000
+work related to communication
+
+301
+00:22:17,000 --> 00:22:19,000
+Then this is actually
+
+302
+00:22:19,000 --> 00:22:22,000
+What we have done over the years
+
+303
+00:22:22,000 --> 00:22:26,000
+Of course, these jobs have already played a certain role.
+
+304
+00:22:26,000 --> 00:22:28,000
+Especially since everyone has become familiar with
+
+305
+00:22:28,000 --> 00:22:30,000
+what early warning message
+
+306
+00:22:30,000 --> 00:22:31,000
+some people will mention
+
+307
+00:22:31,000 --> 00:22:32,000
+is he borderline
+
+308
+00:22:32,000 --> 00:22:33,000
+why didn't he receive
+
+309
+00:22:33,000 --> 00:22:35,000
+why did he receive blah blah blah
+
+310
+00:22:35,000 --> 00:22:37,000
+Of course if you want to be accurate
+
+311
+00:22:37,000 --> 00:22:39,000
+It must be very high resolution
+
+312
+00:22:39,000 --> 00:22:42,000
+Because everyone has heard that I am in Shichenglou
+
+313
+00:22:42,000 --> 00:22:43,000
+You said the vibration level is 2
+
+314
+00:22:43,000 --> 00:22:45,000
+I can't, I'm shaking too much
+
+315
+00:22:45,000 --> 00:22:47,000
+OK because Shicheng Tower has different
+
+316
+00:22:47,000 --> 00:22:49,000
+different shake sizes
+
+317
+00:22:49,000 --> 00:22:51,000
+There is someone in the Taipei Basin who has been shaking for a long time
+
+318
+00:22:51,000 --> 00:22:53,000
+Some people shake it better on the side of the mountain
+
+319
+00:22:53,000 --> 00:22:54,000
+not so long
+
+320
+00:22:54,000 --> 00:22:57,000
+But with the current earthquake stations in Taiwan
+
+321
+00:22:57,000 --> 00:23:00,000
+Probably more than 10 kilometers as a resolution
+
+322
+00:23:00,000 --> 00:23:02,400
+Well, that's still important in this part.
+
+323
+00:23:02,400 --> 00:23:05,400
+We must say that this most basic backbone
+
+324
+00:23:05,400 --> 00:23:07,800
+is to keep all signals stable
+
+325
+00:23:07,800 --> 00:23:11,700
+important key observation network
+
+326
+00:23:11,700 --> 00:23:14,800
+then it can instantly locate the scale mechanism
+
+327
+00:23:14,800 --> 00:23:18,900
+That probably means we have meteorological laws when we go to Taiwan.
+
+328
+00:23:18,900 --> 00:23:22,600
+basically we can't announce the location of the earthquake
+
+329
+00:23:22,600 --> 00:23:24,200
+We want the weather bureau to announce
+
+330
+00:23:24,200 --> 00:23:26,700
+then what we do is meteorology
+
+331
+00:23:26,800 --> 00:23:30,300
+But we are after this real time Maping
+
+332
+00:23:30,300 --> 00:23:32,500
+There is some interaction with the Meteorological Bureau
+
+333
+00:23:32,500 --> 00:23:34,700
+So but sometimes you'll see that the scale is a little bit different
+
+334
+00:23:34,700 --> 00:23:35,800
+the location is a bit different
+
+335
+00:23:35,800 --> 00:23:39,100
+That is we probably every earthquake is like last time
+
+336
+00:23:39,100 --> 00:23:40,100
+Ikegami Earthquake
+
+337
+00:23:40,100 --> 00:23:41,200
+September's Ikegami Earthquake
+
+338
+00:23:41,200 --> 00:23:41,900
+a week later
+
+339
+00:23:41,900 --> 00:23:44,900
+We'll have a joint seminar with the Bureau of Meteorology
+
+340
+00:23:44,900 --> 00:23:47,800
+Discuss all communication and
+
+341
+00:23:47,800 --> 00:23:50,800
+Understanding and analyzing data, etc.
+
+342
+00:23:50,800 --> 00:23:54,400
+Well, that's actually going to really see some
+
+343
+00:23:54,400 --> 00:23:56,200
+More precise slices
+
+344
+00:23:56,200 --> 00:23:58,800
+For example, the structure of the Taipei Flat just mentioned
+
+345
+00:23:58,800 --> 00:24:00,000
+you are next to the fault
+
+346
+00:24:00,000 --> 00:24:02,260
+on the hanging wall of the fault you are on the foot wall of the fault
+
+347
+00:24:02,260 --> 00:24:03,420
+etc
+
+348
+00:24:03,420 --> 00:24:06,340
+You need a lot of more detailed data analysis
+
+349
+00:24:06,340 --> 00:24:08,420
+that in the past few years
+
+350
+00:24:08,420 --> 00:24:10,800
+In fact, it is just a Geofone Array
+
+351
+00:24:10,800 --> 00:24:13,820
+That is, you will, we will go out into the field to set up a few side stations
+
+352
+00:24:13,820 --> 00:24:16,620
+Which station may be how to go is about a kilometer away
+
+353
+00:24:16,620 --> 00:24:19,420
+but you need it to have battery impact
+
+354
+00:24:19,420 --> 00:24:22,020
+It may be operable for about a month, three months
+
+355
+00:24:22,020 --> 00:24:24,700
+but you will do it with your needs
+
+356
+00:24:24,700 --> 00:24:26,460
+Well, this actually did a lot
+
+357
+00:24:26,460 --> 00:24:29,520
+Especially now that there was a geothermal seminar yesterday
+
+358
+00:24:29,520 --> 00:24:33,320
+You mentioned a lot of this kind of Geofone
+
+359
+00:24:33,320 --> 00:24:37,520
+To probe the entire structure in high resolution
+
+360
+00:24:37,520 --> 00:24:41,520
+OK, but while this high-resolution detection
+
+361
+00:24:41,520 --> 00:24:45,180
+There's something new, and it's called fiber optics.
+
+362
+00:24:45,180 --> 00:24:47,740
+In fact, everyone is using this optical fiber now.
+
+363
+00:24:47,740 --> 00:24:50,440
+It is Chunghwa Telecom, you will see 5G optical fiber
+
+364
+00:24:50,440 --> 00:24:51,840
+you have a cable
+
+365
+00:24:51,840 --> 00:24:54,720
+The current practice is to say
+
+366
+00:24:54,720 --> 00:24:58,320
+how do i bury us in the ground
+
+367
+00:24:58,320 --> 00:25:00,320
+Chunghwa Telecom these cables
+
+368
+00:25:00,000 --> 00:25:02,000
+It becomes the observation of the earthquake chair
+
+369
+00:25:02,000 --> 00:25:04,000
+Then its main job is to say
+
+370
+00:25:04,000 --> 00:25:07,000
+I'm next to all the fibers
+
+371
+00:25:07,000 --> 00:25:10,000
+Adding a DARS here is a
+
+372
+00:25:10,000 --> 00:25:11,000
+that is
+
+373
+00:25:11,000 --> 00:25:14,000
+Distributed Acoustic Sensing
+
+374
+00:25:14,000 --> 00:25:16,000
+it actually shoots a laser beam out
+
+375
+00:25:16,000 --> 00:25:18,000
+Then if you talk about disturbance
+
+376
+00:25:18,000 --> 00:25:20,000
+When the laser beam returns
+
+377
+00:25:20,000 --> 00:25:22,000
+you will have a phase change
+
+378
+00:25:22,000 --> 00:25:23,000
+Phase change from
+
+379
+00:25:23,000 --> 00:25:25,000
+I can figure it out and say
+
+380
+00:25:25,000 --> 00:25:26,000
+How much does it disturb
+
+381
+00:25:26,000 --> 00:25:28,000
+how much disturbance
+
+382
+00:25:28,000 --> 00:25:29,000
+Of course I can decide
+
+383
+00:25:29,000 --> 00:25:31,000
+Where did this disturbance come from?
+
+384
+00:25:31,000 --> 00:25:33,000
+the fiber optic
+
+385
+00:25:33,000 --> 00:25:35,000
+Monitoring Of course it's not just
+
+386
+00:25:35,000 --> 00:25:36,000
+do earthquake
+
+387
+00:25:36,000 --> 00:25:40,000
+car waves weather water
+
+388
+00:25:40,000 --> 00:25:41,000
+all can
+
+389
+00:25:41,000 --> 00:25:43,000
+Well, I'm just more focused today.
+
+390
+00:25:43,000 --> 00:25:46,000
+to mention its relationship to earthquakes
+
+391
+00:25:46,000 --> 00:25:47,000
+That's my current job
+
+392
+00:25:47,000 --> 00:25:49,000
+already like i last week
+
+393
+00:25:49,000 --> 00:25:51,000
+Three months in Caltic in the United States
+
+394
+00:25:51,000 --> 00:25:53,000
+work i know has done froding
+
+395
+00:25:53,000 --> 00:25:54,000
+It's now
+
+396
+00:25:54,000 --> 00:25:55,000
+America is now flooding
+
+397
+00:25:55,000 --> 00:25:57,000
+flooded quite seriously
+
+398
+00:25:57,000 --> 00:25:59,000
+It's about this aspect of Froding
+
+399
+00:25:59,000 --> 00:26:00,000
+natural test is
+
+400
+00:26:00,000 --> 00:26:01,280
+is allowed
+
+401
+00:26:01,280 --> 00:26:02,480
+of course this part
+
+402
+00:26:02,480 --> 00:26:03,680
+We still have many challenges
+
+403
+00:26:03,680 --> 00:26:05,680
+I'm buried in the ground
+
+404
+00:26:05,680 --> 00:26:08,080
+Then all disturbances will be sent
+
+405
+00:26:08,080 --> 00:26:11,080
+So how do I tell if it's a signal
+
+406
+00:26:11,080 --> 00:26:13,320
+still an earthquake
+
+407
+00:26:13,320 --> 00:26:16,160
+That requires a lot of data analysis of big data
+
+408
+00:26:16,160 --> 00:26:17,720
+so i will say
+
+409
+00:26:17,720 --> 00:26:21,920
+I am honored that in my senior years
+
+410
+00:26:21,920 --> 00:26:23,600
+Senior this experience when
+
+411
+00:26:23,600 --> 00:26:25,600
+to another generation
+
+412
+00:26:25,600 --> 00:26:28,000
+Of course, this is even more interdisciplinary.
+
+413
+00:26:28,000 --> 00:26:29,000
+it's not earthquake blood
+
+414
+00:26:29,000 --> 00:26:30,720
+It also includes the training of the AI
+
+415
+00:26:30,720 --> 00:26:32,920
+Training materials for Machine Learning
+
+416
+00:26:32,920 --> 00:26:34,920
+Because its data is a few terabytes a day
+
+417
+00:26:34,920 --> 00:26:36,480
+how about the whole data
+
+418
+00:26:36,480 --> 00:26:37,960
+make it fast and accurate
+
+419
+00:26:37,960 --> 00:26:40,200
+that's another challenge
+
+420
+00:26:40,200 --> 00:26:41,600
+that job of course
+
+421
+00:26:41,600 --> 00:26:44,000
+Just mentioned I've been thinking about saying
+
+422
+00:26:44,000 --> 00:26:46,000
+Is it possible to do this
+
+423
+00:26:46,000 --> 00:26:47,320
+Advancing our earthquake science
+
+424
+00:26:47,320 --> 00:26:49,280
+to what extent
+
+425
+00:26:49,280 --> 00:26:51,120
+Actually, I've been thinking about it
+
+426
+00:26:51,120 --> 00:26:54,080
+That is, I can increase the resolution to a higher
+
+427
+00:26:54,080 --> 00:26:56,080
+So how can I parse
+
+428
+00:26:56,080 --> 00:26:57,440
+Problems in Earthquake Physics
+
+429
+00:26:57,440 --> 00:26:58,960
+to what extent
+
+430
+00:26:58,960 --> 00:26:59,960
+this is my thinking
+
+431
+00:27:00,000 --> 00:27:04,120
+But in terms of structure, it is absolutely possible to have higher-resolution structural analysis
+
+432
+00:27:04,120 --> 00:27:08,520
+Can it improve the accuracy of our earthquake early warning?
+
+433
+00:27:08,520 --> 00:27:11,300
+Accuracy of Earthquakes
+
+434
+00:27:11,300 --> 00:27:13,100
+For example, if you have a shock level of 2 and a shock level of 3
+
+435
+00:27:13,100 --> 00:27:16,800
+Can I get the correct data more accurately?
+
+436
+00:27:16,800 --> 00:27:19,080
+That's not to mention looking at energy
+
+437
+00:27:19,080 --> 00:27:22,320
+Because I just saw colleagues from Taipower come over
+
+438
+00:27:22,320 --> 00:27:26,440
+or some of the other ex-friends
+
+439
+00:27:26,440 --> 00:27:29,400
+Now we are talking about carbon dioxide storage in Taiwan
+
+440
+00:27:29,720 --> 00:27:31,720
+Green energy and so on
+
+441
+00:27:31,720 --> 00:27:34,760
+So if I pump carbon dioxide into the ground today
+
+442
+00:27:34,760 --> 00:27:36,760
+how carbon dioxide travels
+
+443
+00:27:36,760 --> 00:27:38,360
+We can also map it out
+
+444
+00:27:38,360 --> 00:27:39,960
+because I can put all the signals
+
+445
+00:27:39,960 --> 00:27:43,960
+All perturbations down to a few micro and even down to a Nano
+
+446
+00:27:43,960 --> 00:27:45,320
+can detect it
+
+447
+00:27:45,320 --> 00:27:50,200
+Everyone, see where my Fiber is placed
+
+448
+00:27:50,200 --> 00:27:52,760
+That's now geothermal carbon sequestration
+
+449
+00:27:52,760 --> 00:27:56,960
+Or if you have questions about geothermal energy
+
+450
+00:27:57,120 --> 00:27:58,720
+geothermal exploration
+
+451
+00:27:58,720 --> 00:28:00,080
+For example in Finland
+
+452
+00:28:00,000 --> 00:28:04,360
+Or another earthquake in the Netherlands because of geothermal carbon deposits
+
+453
+00:28:04,360 --> 00:28:08,640
+So shut down the whole factory
+
+454
+00:28:08,640 --> 00:28:12,320
+Is there a way for us to come up with some solutions for this part?
+
+455
+00:28:12,320 --> 00:28:14,080
+So it can be applied in a wide range of
+
+456
+00:28:14,080 --> 00:28:17,040
+Then I just talk about it today as the beginning of an era of light
+
+457
+00:28:17,040 --> 00:28:20,800
+I must say the whole thing I'm going to share today
+
+458
+00:28:20,800 --> 00:28:22,240
+In fact, the future may be even more exciting
+
+459
+00:28:22,240 --> 00:28:25,840
+Today is just a bit of a kick off feeling
+
+460
+00:28:25,840 --> 00:28:28,400
+Well, the application of this is of course
+
+461
+00:28:28,400 --> 00:28:30,160
+why so accurate
+
+462
+00:28:30,160 --> 00:28:31,040
+we generally speaking
+
+463
+00:28:31,040 --> 00:28:31,840
+Of course when the earthquake comes
+
+464
+00:28:31,840 --> 00:28:32,840
+you want to shake
+
+465
+00:28:32,840 --> 00:28:34,280
+know how much i shake
+
+466
+00:28:34,280 --> 00:28:36,440
+But our real challenge is to say
+
+467
+00:28:36,440 --> 00:28:37,480
+the beginning of the earthquake
+
+468
+00:28:37,480 --> 00:28:39,280
+when the first person starts shaking
+
+469
+00:28:39,280 --> 00:28:42,640
+Do you know if it will be a scale seven or a scale eight
+
+470
+00:28:42,640 --> 00:28:44,920
+or do you think it's only scale five
+
+471
+00:28:44,920 --> 00:28:46,680
+Yes, we are usually when the earthquake hits
+
+472
+00:28:46,680 --> 00:28:47,800
+whether you were warned
+
+473
+00:28:47,800 --> 00:28:49,240
+You must feel it first
+
+474
+00:28:49,240 --> 00:28:51,640
+How big is my earthquake?
+
+475
+00:28:51,640 --> 00:28:52,880
+when you really get nervous
+
+476
+00:28:52,880 --> 00:28:55,760
+it just stopped
+
+477
+00:28:55,760 --> 00:28:58,200
+but can we do it
+
+478
+00:28:58,200 --> 00:29:00,200
+Do we have scientifically
+
+479
+00:29:00,000 --> 00:29:02,500
+This ability even physically understands
+
+480
+00:29:02,500 --> 00:29:05,440
+Is there a way to know the beginning of an earthquake?
+
+481
+00:29:05,440 --> 00:29:07,640
+How big will it become? Is it possible?
+
+482
+00:29:07,640 --> 00:29:10,440
+Well, of course, this raises a lot of scientific issues.
+
+483
+00:29:10,440 --> 00:29:13,300
+But in general industry
+
+484
+00:29:13,300 --> 00:29:15,840
+The industry began to make a lot of contact with us
+
+485
+00:29:15,840 --> 00:29:19,240
+He will tell me, Mr. Mao, I am not doing earthquake prediction.
+
+486
+00:29:19,240 --> 00:29:22,440
+but can you tell me how long this earthquake will shake
+
+487
+00:29:22,440 --> 00:29:25,640
+Or can I make my machine
+
+488
+00:29:25,640 --> 00:29:28,740
+Such as the semiconductor process
+
+489
+00:29:29,040 --> 00:29:31,480
+I know when my machine shakes to 20G
+
+490
+00:29:31,480 --> 00:29:35,180
+it may contaminate can i let it be mentioned
+
+491
+00:29:35,180 --> 00:29:37,280
+It takes 3 seconds when I mention it takes 2 seconds
+
+492
+00:29:37,280 --> 00:29:39,080
+can i do it
+
+493
+00:29:39,080 --> 00:29:43,080
+So with this kind of dialogue, I actually feel that
+
+494
+00:29:43,080 --> 00:29:45,240
+very important conversation let me think
+
+495
+00:29:45,240 --> 00:29:47,580
+what can i do
+
+496
+00:29:47,580 --> 00:29:49,480
+Then this part of the information becomes very important
+
+497
+00:29:49,480 --> 00:29:53,480
+For example, when this signal comes in
+
+498
+00:29:53,480 --> 00:29:54,980
+when this signal comes in
+
+499
+00:29:54,980 --> 00:29:57,140
+I just mentioned my little signal from the beginning
+
+500
+00:29:57,180 --> 00:29:59,280
+you haven't you probably haven't felt yet
+
+501
+00:29:59,280 --> 00:30:00,080
+But suppose I
+
+502
+00:30:00,000 --> 00:30:01,720
+has a very sharp fiber optic
+
+503
+00:30:01,720 --> 00:30:04,000
+even very close side stand
+
+504
+00:30:04,000 --> 00:30:06,120
+I can tell it's already a signal
+
+505
+00:30:06,120 --> 00:30:07,920
+Then I know that from this signal
+
+506
+00:30:07,920 --> 00:30:09,360
+can know this signal
+
+507
+00:30:09,360 --> 00:30:12,720
+It arrives at the maximum acceleration value
+
+508
+00:30:12,720 --> 00:30:15,880
+Does it have a certain regression relationship?
+
+509
+00:30:15,880 --> 00:30:19,320
+How many seconds will it take me to be sure?
+
+510
+00:30:19,320 --> 00:30:22,280
+Will this earthquake cause disaster?
+
+511
+00:30:22,280 --> 00:30:26,080
+I may have no way of knowing where the earthquake is right away
+
+512
+00:30:26,080 --> 00:30:27,680
+Because earthquake location takes time
+
+513
+00:30:27,680 --> 00:30:30,520
+You have to have at least three stations to receive
+
+514
+00:30:30,520 --> 00:30:32,880
+that's earthquake scale
+
+515
+00:30:32,880 --> 00:30:35,160
+You may not be so accurate right away.
+
+516
+00:30:35,160 --> 00:30:38,640
+But I know when I shake to a certain degree
+
+517
+00:30:38,640 --> 00:30:40,040
+For example, our human feelings
+
+518
+00:30:40,040 --> 00:30:43,520
+I think everyone in Taiwan must have felt an earthquake
+
+519
+00:30:43,520 --> 00:30:45,920
+When you shake for more than 10 seconds
+
+520
+00:30:45,920 --> 00:30:47,160
+you will start to get nervous
+
+521
+00:30:47,160 --> 00:30:49,800
+Do you think that this earthquake will
+
+522
+00:30:49,800 --> 00:30:51,480
+I should protect myself
+
+523
+00:30:51,480 --> 00:30:52,920
+Is there even a disaster
+
+524
+00:30:52,920 --> 00:30:54,720
+Then our seismology
+
+525
+00:30:54,720 --> 00:30:55,760
+about 3 seconds
+
+526
+00:30:55,800 --> 00:30:58,400
+That is what we tell us from our empirical data
+
+527
+00:30:58,400 --> 00:31:00,080
+3 seconds before the earthquake signal comes in
+
+528
+00:31:00,000 --> 00:31:04,000
+It can tell us it's about to turn into a catastrophic earthquake
+
+529
+00:31:04,000 --> 00:31:06,000
+or not a catastrophic earthquake
+
+530
+00:31:06,000 --> 00:31:07,000
+That is to say, after it comes up in 3 seconds,
+
+531
+00:31:07,000 --> 00:31:08,000
+it may go down
+
+532
+00:31:08,000 --> 00:31:10,000
+After 3 seconds it keeps going
+
+533
+00:31:10,000 --> 00:31:11,000
+If you continue walking after 3 seconds
+
+534
+00:31:11,000 --> 00:31:12,000
+it can produce disaster
+
+535
+00:31:12,000 --> 00:31:15,000
+Although I don't know if it's scale 7 or scale 8
+
+536
+00:31:15,000 --> 00:31:16,000
+but it will have disasters
+
+537
+00:31:16,000 --> 00:31:17,000
+So I gave a warning
+
+538
+00:31:17,000 --> 00:31:21,000
+These are some related concepts of earthquake early warning
+
+539
+00:31:21,000 --> 00:31:23,000
+Of course, in terms of decision-making
+
+540
+00:31:23,000 --> 00:31:25,000
+It's whether I can be in that moment
+
+541
+00:31:25,000 --> 00:31:26,000
+just make a decision
+
+542
+00:31:26,000 --> 00:31:29,000
+Of course, this decision must be an intelligent one.
+
+543
+00:31:29,000 --> 00:31:31,000
+So this is a high-resolution signal
+
+544
+00:31:31,000 --> 00:31:33,000
+its important precision
+
+545
+00:31:33,000 --> 00:31:36,000
+That's why I was referring to the fiber optic
+
+546
+00:31:36,000 --> 00:31:39,000
+Can we make this more precise
+
+547
+00:31:39,000 --> 00:31:42,000
+Because we don't want to have Force Alarm either
+
+548
+00:31:42,000 --> 00:31:44,000
+In general industry
+
+549
+00:31:44,000 --> 00:31:46,000
+Force Alarm it also loses a lot
+
+550
+00:31:46,000 --> 00:31:47,000
+so they have to say
+
+551
+00:31:47,000 --> 00:31:49,000
+I need to know my Early Warning
+
+552
+00:31:49,000 --> 00:31:52,000
+But I'm not a Force Alarm
+
+553
+00:31:52,000 --> 00:31:55,000
+Otherwise, my Impact would be huge
+
+554
+00:31:55,000 --> 00:31:58,000
+So that's the whole challenge in this place
+
+555
+00:31:58,000 --> 00:32:00,000
+Of course, this is an industrial application
+
+556
+00:32:00,000 --> 00:32:01,760
+It's about earthquake science.
+
+557
+00:32:01,760 --> 00:32:05,160
+Great connection with the social body of the whole society
+
+558
+00:32:05,160 --> 00:32:07,580
+Of course it also mentioned Taiwan
+
+559
+00:32:07,580 --> 00:32:09,140
+I think the news is familiar
+
+560
+00:32:09,140 --> 00:32:10,940
+Taiwan's semiconductor
+
+561
+00:32:10,940 --> 00:32:12,140
+is important to us
+
+562
+00:32:12,140 --> 00:32:14,520
+very important economic value
+
+563
+00:32:14,520 --> 00:32:16,520
+Then Taiwan is a place with multiple arrays
+
+564
+00:32:16,520 --> 00:32:18,180
+then many people will want to say
+
+565
+00:32:18,180 --> 00:32:20,820
+Then I may have a lot of losses
+
+566
+00:32:20,820 --> 00:32:22,720
+Then I also thought
+
+567
+00:32:22,720 --> 00:32:25,020
+This is the situation facing Taiwan
+
+568
+00:32:25,020 --> 00:32:28,520
+So what angle does our science use?
+
+569
+00:32:28,520 --> 00:32:30,920
+can be impacted in this area when
+
+570
+00:32:30,920 --> 00:32:32,420
+keep us
+
+571
+00:32:32,420 --> 00:32:34,520
+won't be affected too much
+
+572
+00:32:34,520 --> 00:32:37,120
+At the same time, it has also become a business opportunity for us
+
+573
+00:32:37,120 --> 00:32:39,320
+It is now that the whole world is developing
+
+574
+00:32:39,320 --> 00:32:41,360
+In 2010, of course, Japan is doing a lot
+
+575
+00:32:41,360 --> 00:32:42,400
+California is doing it too
+
+576
+00:32:42,400 --> 00:32:44,360
+Italy and other countries are doing
+
+577
+00:32:44,360 --> 00:32:47,500
+But we have the most earthquake signals
+
+578
+00:32:47,500 --> 00:32:49,000
+that's because you want to train
+
+579
+00:32:49,000 --> 00:32:50,840
+You need a lot of data
+
+580
+00:32:50,840 --> 00:32:52,840
+Then Taiwan is a large amount of information
+
+581
+00:32:52,840 --> 00:32:56,180
+important database
+
+582
+00:32:56,180 --> 00:32:57,340
+That's another
+
+583
+00:32:57,340 --> 00:33:00,100
+If the earthquake is far away from me
+
+584
+00:33:00,000 --> 00:33:02,000
+That Early Warning is useless
+
+585
+00:33:02,000 --> 00:33:04,000
+That is to say, five or six years ago
+
+586
+00:33:04,000 --> 00:33:06,000
+But mainland China is developing a lot Early Warning
+
+587
+00:33:06,000 --> 00:33:08,000
+Then the news mentioned that
+
+588
+00:33:08,000 --> 00:33:10,000
+Earthquake warnings in Taiwan are poor
+
+589
+00:33:10,000 --> 00:33:11,000
+Only three seconds, five seconds
+
+590
+00:33:11,000 --> 00:33:13,000
+Look at the earthquake in Sichuan in Japan
+
+591
+00:33:13,000 --> 00:33:16,000
+It can warn earthquakes for 20 to 30 seconds
+
+592
+00:33:16,000 --> 00:33:17,000
+In fact, there is a concept to know
+
+593
+00:33:17,000 --> 00:33:21,000
+Twenty seconds, thirty seconds means the earthquake is very, very far away from you
+
+594
+00:33:21,000 --> 00:33:23,000
+Giving you an Early Warning is actually useless
+
+595
+00:33:23,000 --> 00:33:24,000
+Because I can't say it's useless
+
+596
+00:33:24,000 --> 00:33:27,000
+It should mean that it does not actually cause disasters
+
+597
+00:33:27,000 --> 00:33:29,000
+so sometimes we talk
+
+598
+00:33:29,000 --> 00:33:32,000
+Early Warning sometimes becomes Entertainment
+
+599
+00:33:32,000 --> 00:33:34,000
+That's the earthquake warning
+
+600
+00:33:34,000 --> 00:33:35,000
+Huh? Did you get it?
+
+601
+00:33:35,000 --> 00:33:37,000
+Huh? Why didn't I get it? Why didn't you get it?
+
+602
+00:33:37,000 --> 00:33:42,000
+In fact the whole real purpose is to reduce the shock
+
+603
+00:33:42,000 --> 00:33:44,000
+But sometimes there's this aspect
+
+604
+00:33:44,000 --> 00:33:47,000
+become everyone comparing me
+
+605
+00:33:47,000 --> 00:33:49,000
+under what conditions
+
+606
+00:33:49,000 --> 00:33:53,000
+Of course, this is something we have discussed a lot with the Qiathlon Bureau and the NCD.
+
+607
+00:33:53,000 --> 00:33:55,000
+That is, we must all test
+
+608
+00:33:55,000 --> 00:33:57,000
+Everyone can receive this message accurately
+
+609
+00:33:57,000 --> 00:33:59,000
+Okay back to the science question
+
+610
+00:34:00,000 --> 00:34:02,000
+There are many important scientific challenges
+
+611
+00:34:02,000 --> 00:34:03,000
+that is
+
+612
+00:34:03,000 --> 00:34:04,500
+i hope what we do
+
+613
+00:34:04,500 --> 00:34:05,800
+except for the folk
+
+614
+00:34:05,800 --> 00:34:08,000
+Beyond contributions that are important to our country
+
+615
+00:34:08,000 --> 00:34:10,500
+Taiwan's role in earthquake science
+
+616
+00:34:10,500 --> 00:34:12,500
+What kind of leadership can there be in the world
+
+617
+00:34:12,500 --> 00:34:13,500
+scientific value
+
+618
+00:34:13,500 --> 00:34:15,500
+that just mentioned
+
+619
+00:34:15,500 --> 00:34:18,000
+Everyone is most concerned about earthquake prediction
+
+620
+00:34:18,000 --> 00:34:19,700
+as long as i say i am a seismologist
+
+621
+00:34:19,700 --> 00:34:21,000
+Including customs clearance to the United States
+
+622
+00:34:21,000 --> 00:34:22,500
+As long as I say I'm a Sesemologist
+
+623
+00:34:22,500 --> 00:34:25,500
+He immediately asked me if I could do earthquake prediction
+
+624
+00:34:25,500 --> 00:34:28,000
+Earthquake prediction is a matter of concern to everyone.
+
+625
+00:34:28,000 --> 00:34:29,700
+Is it possible that he
+
+626
+00:34:30,700 --> 00:34:32,700
+I just mentioned the earthquake
+
+627
+00:34:32,700 --> 00:34:34,200
+he was at the beginning
+
+628
+00:34:34,200 --> 00:34:36,200
+Do you know how big he has become?
+
+629
+00:34:36,200 --> 00:34:38,200
+How exactly did the earthquake start?
+
+630
+00:34:38,200 --> 00:34:39,700
+how did he end
+
+631
+00:34:39,700 --> 00:34:42,200
+In fact, there is still no answer
+
+632
+00:34:42,200 --> 00:34:44,200
+then i keep saying
+
+633
+00:34:44,200 --> 00:34:46,200
+If you don't know how an earthquake starts
+
+634
+00:34:46,200 --> 00:34:47,700
+don't know how he ended
+
+635
+00:34:47,700 --> 00:34:49,700
+You can't do earthquake prediction at all
+
+636
+00:34:49,700 --> 00:34:51,700
+Earthquake predictions just stay in statistics
+
+637
+00:34:51,700 --> 00:34:53,700
+statistics it has a certain value
+
+638
+00:34:53,700 --> 00:34:56,200
+the industry I just mentioned
+
+639
+00:34:56,200 --> 00:34:57,200
+they want to know
+
+640
+00:34:57,200 --> 00:35:00,200
+earthquake forecasting
+
+641
+00:35:00,000 --> 00:35:00,960
+how is the estimate
+
+642
+00:35:00,960 --> 00:35:03,300
+Then we have a certain theory
+
+643
+00:35:03,300 --> 00:35:05,040
+can do this work
+
+644
+00:35:05,040 --> 00:35:07,200
+But earthquake prediction works
+
+645
+00:35:07,200 --> 00:35:09,880
+He still has many challenges
+
+646
+00:35:09,880 --> 00:35:11,880
+I even often say
+
+647
+00:35:11,880 --> 00:35:14,480
+If the earthquake prediction is successful
+
+648
+00:35:14,480 --> 00:35:16,080
+Earthquakes will still come
+
+649
+00:35:16,080 --> 00:35:17,240
+Not that you predict earthquakes
+
+650
+00:35:17,240 --> 00:35:18,920
+Earthquakes don't come, right?
+
+651
+00:35:18,920 --> 00:35:20,880
+so you really do work
+
+652
+00:35:20,880 --> 00:35:22,440
+In fact, earthquake disaster prevention
+
+653
+00:35:22,440 --> 00:35:23,780
+and earthquake warning
+
+654
+00:35:23,780 --> 00:35:25,260
+even
+
+655
+00:35:25,260 --> 00:35:27,820
+If Earthquake Prediction Fails
+
+656
+00:35:27,820 --> 00:35:29,160
+the disaster he caused
+
+657
+00:35:29,160 --> 00:35:32,120
+Possibly worse than a real earthquake disaster
+
+658
+00:35:32,120 --> 00:35:33,620
+Right, you can think about it
+
+659
+00:35:33,620 --> 00:35:36,260
+If I talk about a
+
+660
+00:35:36,260 --> 00:35:37,960
+Taiwan may be within a week
+
+661
+00:35:37,960 --> 00:35:40,160
+A scale period of earthquakes
+
+662
+00:35:40,160 --> 00:35:41,860
+Stocks may plummet
+
+663
+00:35:41,860 --> 00:35:42,800
+everyone wants to go abroad
+
+664
+00:35:42,800 --> 00:35:44,240
+or where are you going
+
+665
+00:35:44,240 --> 00:35:45,940
+last time there was a tsunami
+
+666
+00:35:45,940 --> 00:35:48,540
+The first tsunami alarm
+
+667
+00:35:48,540 --> 00:35:51,480
+As a result, there was a traffic jam on the highway.
+
+668
+00:35:51,480 --> 00:35:52,840
+that this is actually
+
+669
+00:35:52,840 --> 00:35:54,740
+When we're working on this
+
+670
+00:35:54,740 --> 00:35:56,740
+how are we getting ready
+
+671
+00:35:56,740 --> 00:35:59,900
+Then I often used to talk to students
+
+672
+00:36:00,000 --> 00:36:03,600
+my dream but my dream i don't think i can make it
+
+673
+00:36:03,600 --> 00:36:06,200
+That's me, if the earthquake prediction is successful
+
+674
+00:36:06,200 --> 00:36:09,900
+Then make it a hundred times the energy into a real energy that can be used
+
+675
+00:36:09,900 --> 00:36:15,040
+I think earthquake prediction is feasible
+
+676
+00:36:15,040 --> 00:36:16,600
+or worth doing
+
+677
+00:36:16,600 --> 00:36:19,200
+Otherwise the work we do
+
+678
+00:36:19,200 --> 00:36:21,000
+Earthquake early warning and earthquake disaster prevention
+
+679
+00:36:21,000 --> 00:36:24,200
+How do we proceed with earthquake early warning and earthquake disaster prevention?
+
+680
+00:36:24,200 --> 00:36:28,400
+For example, how do I put Taiwan but the whole world is the same
+
+681
+00:36:28,400 --> 00:36:32,000
+The location of these fault zones that may produce earthquakes in Taiwan
+
+682
+00:36:32,000 --> 00:36:34,000
+not very clear
+
+683
+00:36:34,000 --> 00:36:37,000
+This is what we do with geologists
+
+684
+00:36:37,000 --> 00:36:40,500
+However, the Geological Survey Institute, the Meteorological Bureau, and many related units
+
+685
+00:36:40,500 --> 00:36:43,600
+how do i know where the fault is
+
+686
+00:36:43,600 --> 00:36:45,400
+When will this fault move?
+
+687
+00:36:45,400 --> 00:36:46,800
+how much does it move
+
+688
+00:36:46,800 --> 00:36:49,600
+If it moves, what about the mayor of Taipei?
+
+689
+00:36:49,600 --> 00:36:51,200
+what will happen
+
+690
+00:36:51,200 --> 00:36:53,200
+what will happen to my family
+
+691
+00:36:53,200 --> 00:36:55,700
+the location of a place how it will be
+
+692
+00:36:55,800 --> 00:36:58,200
+That's what we're talking about now
+
+693
+00:36:58,200 --> 00:37:00,200
+National Disaster Prevention Science and Technology Center
+
+694
+00:37:00,000 --> 00:37:02,700
+Or something that the Ministry of the Interior Interdepartmental Council is doing
+
+695
+00:37:02,700 --> 00:37:05,920
+It is a drill for a large-scale earthquake every September
+
+696
+00:37:05,920 --> 00:37:07,620
+But this part is not precise enough
+
+697
+00:37:07,620 --> 00:37:10,820
+That's how I know about earthquake fault systems
+
+698
+00:37:10,820 --> 00:37:13,460
+For example, the Chishang earthquake on September 18
+
+699
+00:37:13,460 --> 00:37:14,660
+It moves both faults
+
+700
+00:37:14,660 --> 00:37:16,060
+Central Sanpai fault to the west
+
+701
+00:37:16,060 --> 00:37:17,360
+Chishang Fault to the east
+
+702
+00:37:17,360 --> 00:37:18,460
+both moved
+
+703
+00:37:18,460 --> 00:37:20,400
+The 1906 Meishan Earthquake
+
+704
+00:37:20,400 --> 00:37:23,560
+It actually you see an east-west Meishan fault
+
+705
+00:37:23,560 --> 00:37:24,960
+But in fact its real motion structure
+
+706
+00:37:24,960 --> 00:37:26,560
+is the movement structure underneath
+
+707
+00:37:26,560 --> 00:37:28,860
+Then the reverse fault becomes a strike fault
+
+708
+00:37:28,860 --> 00:37:32,760
+Is there a way for us to do these things first?
+
+709
+00:37:32,760 --> 00:37:35,320
+understand its shape
+
+710
+00:37:35,320 --> 00:37:36,560
+even academically
+
+711
+00:37:36,560 --> 00:37:38,860
+If my fault jumps to another fault
+
+712
+00:37:38,860 --> 00:37:41,860
+Or the 1935 Hsinchu-Taichung Earthquake
+
+713
+00:37:41,860 --> 00:37:44,320
+It is an earthquake with a greater disaster than 921
+
+714
+00:37:44,320 --> 00:37:45,560
+It is actually three faults
+
+715
+00:37:45,560 --> 00:37:48,420
+From reverse faults to dead faults to strike faults
+
+716
+00:37:48,420 --> 00:37:51,120
+How are these mechanisms formed?
+
+717
+00:37:51,120 --> 00:37:53,320
+so real earthquake science
+
+718
+00:37:53,320 --> 00:37:56,660
+I don't think it's just about earthquake prediction
+
+719
+00:37:56,660 --> 00:37:58,820
+real science is understanding
+
+720
+00:37:58,820 --> 00:38:00,820
+How did the fault break
+
+721
+00:38:00,000 --> 00:38:04,000
+Is there a way for me to know the shape of the fault in advance?
+
+722
+00:38:04,000 --> 00:38:05,000
+how to count
+
+723
+00:38:05,000 --> 00:38:08,000
+And what happens to him when he moves?
+
+724
+00:38:08,000 --> 00:38:10,000
+We are now finding more and more into fault vibrations
+
+725
+00:38:10,000 --> 00:38:13,000
+You fault away from your location
+
+726
+00:38:13,000 --> 00:38:14,000
+when you fault
+
+727
+00:38:14,000 --> 00:38:15,000
+a very long period signal
+
+728
+00:38:15,000 --> 00:38:19,000
+The stunned shout he produced will be introduced later
+
+729
+00:38:19,000 --> 00:38:20,000
+then again
+
+730
+00:38:20,000 --> 00:38:24,000
+How do I know which fault he's moving when
+
+731
+00:38:24,000 --> 00:38:26,000
+Can I simulate it first?
+
+732
+00:38:26,000 --> 00:38:28,000
+that this morning
+
+733
+00:38:28,000 --> 00:38:30,000
+I'm actually at noon today
+
+734
+00:38:30,000 --> 00:38:31,000
+National Disaster Prevention Science Center
+
+735
+00:38:31,000 --> 00:38:32,000
+we are talking
+
+736
+00:38:32,000 --> 00:38:34,000
+What we now call digital chaos
+
+737
+00:38:34,000 --> 00:38:35,000
+Digital Twin
+
+738
+00:38:35,000 --> 00:38:37,000
+How do I take my Synaryl
+
+739
+00:38:37,000 --> 00:38:38,000
+become a VR
+
+740
+00:38:38,000 --> 00:38:40,000
+Then I can have a solution
+
+741
+00:38:40,000 --> 00:38:41,000
+is coming in
+
+742
+00:38:41,000 --> 00:38:43,000
+that part too
+
+743
+00:38:43,000 --> 00:38:46,000
+digital transformation
+
+744
+00:38:46,000 --> 00:38:49,000
+Or in the current big data data
+
+745
+00:38:49,000 --> 00:38:50,000
+work that can be contributed
+
+746
+00:38:50,000 --> 00:38:53,000
+Then accurately predict the earthquake
+
+747
+00:38:53,000 --> 00:38:55,000
+That certainly doesn't sound like it has anything to do with the light.
+
+748
+00:38:55,000 --> 00:38:56,000
+the fact that light i mentioned
+
+749
+00:38:56,000 --> 00:38:58,000
+it actually increases the resolution
+
+750
+00:38:58,000 --> 00:39:00,000
+let me all countries on this side
+
+751
+00:39:00,000 --> 00:39:05,000
+Make a more accurate observation component
+
+752
+00:39:05,000 --> 00:39:08,000
+Okay, so if the answer to an earthquake is a more scientific question
+
+753
+00:39:08,000 --> 00:39:10,000
+That's how the earthquake started
+
+754
+00:39:10,000 --> 00:39:13,000
+How do I know the earthquake from the first 0.01 seconds
+
+755
+00:39:13,000 --> 00:39:16,000
+When it starts to bite, how big is it?
+
+756
+00:39:16,000 --> 00:39:18,000
+Earthquake it's a random act
+
+757
+00:39:18,000 --> 00:39:21,000
+or is it a self-similarity act
+
+758
+00:39:21,000 --> 00:39:22,000
+so some people will want to say
+
+759
+00:39:22,000 --> 00:39:24,000
+Why should I have an earthquake on a scale 2
+
+760
+00:39:24,000 --> 00:39:27,000
+I'm even on a scale -1 earthquake
+
+761
+00:39:27,000 --> 00:39:29,000
+Because I want to know how the earthquake started
+
+762
+00:39:29,000 --> 00:39:32,000
+How did that moment come out?
+
+763
+00:39:32,000 --> 00:39:35,000
+There are probably a lot of different theories on this part.
+
+764
+00:39:35,000 --> 00:39:38,000
+to explore, for example, that it has self-similarity
+
+765
+00:39:38,000 --> 00:39:39,000
+or cascadia
+
+766
+00:39:39,000 --> 00:39:41,000
+It actually doesn't know if it will do it
+
+767
+00:39:41,000 --> 00:39:43,000
+It changes as it encounters
+
+768
+00:39:43,000 --> 00:39:47,000
+What if this is the case?
+
+769
+00:39:47,000 --> 00:39:48,000
+It's hard to predict earthquakes
+
+770
+00:39:48,000 --> 00:39:52,000
+Which means my earthquake is actually a random act
+
+771
+00:39:52,000 --> 00:39:54,000
+Of course it's not random
+
+772
+00:39:54,000 --> 00:39:57,000
+It should mean that I did not judge the shape of the entire fault zone
+
+773
+00:39:57,000 --> 00:39:59,000
+I don't know its strain value
+
+774
+00:40:00,000 --> 00:40:03,400
+Strength and fault give me resistance
+
+775
+00:40:03,400 --> 00:40:04,400
+who is bigger
+
+776
+00:40:04,400 --> 00:40:06,700
+I can decide whether I want to move forward and continue to break
+
+777
+00:40:06,700 --> 00:40:07,800
+still have to stop
+
+778
+00:40:07,800 --> 00:40:10,200
+The other way is to say
+
+779
+00:40:10,200 --> 00:40:12,200
+I Earthquake In fact there is one
+
+780
+00:40:12,200 --> 00:40:13,900
+preparatory behavior
+
+781
+00:40:13,900 --> 00:40:15,200
+I am in one place first
+
+782
+00:40:15,200 --> 00:40:16,500
+After accumulating energy
+
+783
+00:40:16,500 --> 00:40:18,100
+then start breaking out
+
+784
+00:40:18,100 --> 00:40:21,500
+Well, this is of course a scientific challenge.
+
+785
+00:40:21,500 --> 00:40:24,700
+The role of the science challenge
+
+786
+00:40:24,700 --> 00:40:26,800
+Of course, the previous data were all on the surface.
+
+787
+00:40:26,800 --> 00:40:28,800
+or that its data is limited
+
+788
+00:40:28,800 --> 00:40:32,100
+Farther away from the location of the real small earthquake
+
+789
+00:40:32,100 --> 00:40:34,100
+So there is no way to get it very precisely.
+
+790
+00:40:34,100 --> 00:40:36,200
+Not only do I hope that the future's glamorous data
+
+791
+00:40:36,200 --> 00:40:38,800
+is there a way to work on this
+
+792
+00:40:38,800 --> 00:40:41,100
+come up with a higher resolution
+
+793
+00:40:41,100 --> 00:40:44,100
+For example, a few seconds before the beginning
+
+794
+00:40:44,100 --> 00:40:46,100
+this is one second
+
+795
+00:40:46,100 --> 00:40:48,000
+or one to six seconds
+
+796
+00:40:48,000 --> 00:40:50,200
+Earthquakes of different sizes from 6.7 to 8.7
+
+797
+00:40:50,200 --> 00:40:54,200
+You will find it difficult to judge at the beginning
+
+798
+00:40:54,200 --> 00:40:57,500
+That is to say, we may very well imagine that
+
+799
+00:40:57,500 --> 00:40:59,600
+It may be relatively slow for small-scale earthquakes
+
+800
+00:40:59,600 --> 00:41:00,600
+massive earthquake
+
+801
+00:41:00,000 --> 00:41:01,040
+In fact, it may be shaking
+
+802
+00:41:01,040 --> 00:41:01,960
+no
+
+803
+00:41:01,960 --> 00:41:03,000
+it actually
+
+804
+00:41:03,000 --> 00:41:04,840
+It might be shaking at first for a small earthquake
+
+805
+00:41:04,840 --> 00:41:06,160
+but it flattened out again
+
+806
+00:41:06,160 --> 00:41:06,760
+OK
+
+807
+00:41:06,760 --> 00:41:08,200
+so tell us
+
+808
+00:41:08,200 --> 00:41:11,400
+I want a few seconds from the beginning of the 0.0 signal
+
+809
+00:41:11,400 --> 00:41:13,600
+to assess how big the earthquake will be
+
+810
+00:41:13,600 --> 00:41:15,040
+it is challenging
+
+811
+00:41:15,040 --> 00:41:16,840
+but where is its real challenge
+
+812
+00:41:16,840 --> 00:41:19,200
+Because my stations are all above the surface
+
+813
+00:41:19,200 --> 00:41:21,400
+Above the surface my various noises
+
+814
+00:41:21,400 --> 00:41:24,000
+I have a submerged reflection signal
+
+815
+00:41:24,000 --> 00:41:26,960
+I have this shockwave zoom in on the grade layer
+
+816
+00:41:26,960 --> 00:41:28,640
+i have all kinds of pollution
+
+817
+00:41:28,760 --> 00:41:31,200
+That's why we keep referring to earthquakes
+
+818
+00:41:31,200 --> 00:41:33,840
+I always hope that the deeper the better
+
+819
+00:41:33,840 --> 00:41:37,440
+So you will go to the so-called special police
+
+820
+00:41:37,440 --> 00:41:40,200
+That's what I just mentioned
+
+821
+00:41:40,200 --> 00:41:42,560
+Although such challenges have been encountered in the past
+
+822
+00:41:42,560 --> 00:41:45,360
+but in theory
+
+823
+00:41:45,360 --> 00:41:47,360
+We know that when 3 seconds
+
+824
+00:41:47,360 --> 00:41:49,400
+My initial signal can tell me
+
+825
+00:41:49,400 --> 00:41:51,760
+If I surpass a government like this
+
+826
+00:41:51,760 --> 00:41:53,040
+can tell me about the earthquake
+
+827
+00:41:53,040 --> 00:41:54,800
+At least scale 6 and above
+
+828
+00:41:54,800 --> 00:41:56,800
+So I can start giving earthquake warnings
+
+829
+00:41:56,800 --> 00:41:58,040
+Below 6 we may
+
+830
+00:41:58,040 --> 00:42:00,040
+but limited to the west
+
+831
+00:42:00,000 --> 00:42:01,600
+the regulations say
+
+832
+00:42:01,600 --> 00:42:04,440
+Positive degree 5 or scale 6 or above
+
+833
+00:42:04,440 --> 00:42:07,000
+Early warning of earthquakes with a scale of 5.5 or more
+
+834
+00:42:07,000 --> 00:42:09,000
+ok that job
+
+835
+00:42:09,000 --> 00:42:11,400
+This work was published in 2005
+
+836
+00:42:11,400 --> 00:42:14,440
+In 2005, the data base behind the important
+
+837
+00:42:14,440 --> 00:42:15,880
+All earthquake data from Taiwan
+
+838
+00:42:15,880 --> 00:42:19,000
+This is Mr. Wu Yimin
+
+839
+00:42:19,000 --> 00:42:20,360
+the one just mentioned
+
+840
+00:42:20,360 --> 00:42:23,600
+Initial work on the entire orthographic map of PLR
+
+841
+00:42:23,600 --> 00:42:25,920
+In fact, the whole of Taiwan is used
+
+842
+00:42:25,920 --> 00:42:28,320
+The most dense data about nearly 20 years
+
+843
+00:42:28,320 --> 00:42:30,320
+Do the understanding of the whole signal
+
+844
+00:42:30,320 --> 00:42:33,920
+To understand the possibility of explaining this earthquake warning
+
+845
+00:42:33,920 --> 00:42:36,120
+Of course, it goes without saying that in the past ten years
+
+846
+00:42:36,120 --> 00:42:38,120
+Everyone has become more and more familiar
+
+847
+00:42:38,120 --> 00:42:41,720
+That concept was actually being talked about ten years ago
+
+848
+00:42:41,720 --> 00:42:45,120
+Of course this concept needs a lot
+
+849
+00:42:45,120 --> 00:42:46,520
+All signals in the latter part
+
+850
+00:42:46,520 --> 00:42:49,720
+Let all the resources in the latter stage be completed
+
+851
+00:42:49,720 --> 00:42:52,320
+Of course it's not
+
+852
+00:42:52,320 --> 00:42:54,320
+doused and wet
+
+853
+00:42:54,320 --> 00:42:57,120
+That is to say, when the earthquake warning was issued
+
+854
+00:42:57,120 --> 00:42:59,120
+some people have a concept
+
+855
+00:42:59,120 --> 00:43:00,120
+but very accurate
+
+856
+00:43:00,000 --> 00:43:01,340
+his concept he mentioned
+
+857
+00:43:01,340 --> 00:43:02,840
+Earthquake warnings are useless
+
+858
+00:43:03,540 --> 00:43:05,580
+Because you can give early warning somewhere
+
+859
+00:43:05,580 --> 00:43:06,960
+He's not that bad anymore
+
+860
+00:43:07,620 --> 00:43:09,840
+OK because your government has decayed
+
+861
+00:43:10,340 --> 00:43:11,620
+But he is not necessarily accurate
+
+862
+00:43:11,620 --> 00:43:13,960
+I must say, suppose there is an earthquake today
+
+863
+00:43:13,960 --> 00:43:16,580
+How many times did the 921 earthquake hit Taipei?
+
+864
+00:43:16,580 --> 00:43:19,280
+About 10 seconds 20 seconds warning time
+
+865
+00:43:19,680 --> 00:43:21,620
+But Taipei because of its shock wave amplification
+
+866
+00:43:21,620 --> 00:43:23,580
+So you have a moderate amount of forewarning.
+
+867
+00:43:23,580 --> 00:43:25,780
+But not to mention high-speed rail, MRT
+
+868
+00:43:25,780 --> 00:43:27,000
+These things are already
+
+869
+00:43:27,240 --> 00:43:28,920
+directly already in use
+
+870
+00:43:29,640 --> 00:43:31,240
+But this concept is not
+
+871
+00:43:31,240 --> 00:43:32,420
+his concept
+
+872
+00:43:32,420 --> 00:43:34,420
+It is generally challenging the concept of earthquake early warning
+
+873
+00:43:34,420 --> 00:43:35,380
+nothing wrong
+
+874
+00:43:35,380 --> 00:43:37,500
+That is to say, my real challenge is
+
+875
+00:43:37,500 --> 00:43:39,500
+I On site Erling Undead
+
+876
+00:43:40,000 --> 00:43:44,680
+How do I make my blind spot smaller and smaller
+
+877
+00:43:44,680 --> 00:43:47,040
+Which means I'll build an earthquake signal in.
+
+878
+00:43:47,040 --> 00:43:48,800
+I have to have three stations to receive
+
+879
+00:43:48,800 --> 00:43:50,220
+So, I passed it through three stations
+
+880
+00:43:50,220 --> 00:43:51,840
+You are at a depth of 10 kilometers
+
+881
+00:43:51,840 --> 00:43:53,960
+It's already going to cost three stations
+
+882
+00:43:53,960 --> 00:43:55,200
+two or three seconds
+
+883
+00:43:55,200 --> 00:43:56,800
+Not to mention I also need data processing
+
+884
+00:43:56,800 --> 00:43:58,360
+I want to go out again
+
+885
+00:43:58,360 --> 00:43:59,960
+you want the signal to come in
+
+886
+00:44:00,000 --> 00:44:01,360
+You throw it out after you get it
+
+887
+00:44:01,360 --> 00:44:03,200
+Then the whole time is delayed
+
+888
+00:44:03,200 --> 00:44:05,000
+So there is a big blind spot
+
+889
+00:44:05,000 --> 00:44:07,480
+That's about 30 kilometers, 50 kilometers
+
+890
+00:44:07,480 --> 00:44:10,000
+That is to say, if Jingyuan is right next to you
+
+891
+00:44:10,000 --> 00:44:11,640
+you have no chance of getting
+
+892
+00:44:11,640 --> 00:44:13,200
+time to get warning
+
+893
+00:44:13,200 --> 00:44:14,720
+Of course we are developing now
+
+894
+00:44:14,720 --> 00:44:15,840
+Unsee Aluminium Wondering 4
+
+895
+00:44:15,840 --> 00:44:18,640
+Earthquake 10 kilometers deep in the ground
+
+896
+00:44:18,640 --> 00:44:20,200
+You may still have 1 2 seconds
+
+897
+00:44:20,200 --> 00:44:21,960
+Effective
+
+898
+00:44:21,960 --> 00:44:23,520
+But this is not from the weather bureau
+
+899
+00:44:23,520 --> 00:44:24,400
+Regional Earthquake Early Warning
+
+900
+00:44:24,400 --> 00:44:26,040
+Bureau of Meteorology We are now receiving
+
+901
+00:44:26,040 --> 00:44:29,000
+Earthquake warnings issued by Meteorological Bureau are regional earthquake warnings
+
+902
+00:44:29,160 --> 00:44:31,240
+just after some distance
+
+903
+00:44:31,240 --> 00:44:32,520
+you will get an earthquake warning
+
+904
+00:44:32,520 --> 00:44:33,720
+but you are there
+
+905
+00:44:33,720 --> 00:44:34,960
+For example, the Ikegami earthquake
+
+906
+00:44:34,960 --> 00:44:36,160
+you are on the pool
+
+907
+00:44:36,160 --> 00:44:38,320
+You have no chance of getting an earthquake warning signal
+
+908
+00:44:38,320 --> 00:44:40,560
+because time is too late
+
+909
+00:44:40,560 --> 00:44:42,000
+Then our real challenge now is
+
+910
+00:44:42,000 --> 00:44:43,760
+How do I future is there a chance to use
+
+911
+00:44:43,760 --> 00:44:45,000
+this bright signal
+
+912
+00:44:45,000 --> 00:44:46,920
+I can make the blind spot smaller and smaller
+
+913
+00:44:46,920 --> 00:44:50,600
+I can't say with absolute certainty that it's perfectly fine
+
+914
+00:44:50,600 --> 00:44:52,640
+But because the challenge is great
+
+915
+00:44:52,640 --> 00:44:54,160
+like me this morning ourselves
+
+916
+00:44:54,160 --> 00:44:56,200
+Guru Meeting is doing Aluminum Wondering of AI
+
+917
+00:44:56,200 --> 00:44:57,640
+just mentioned
+
+918
+00:44:57,640 --> 00:44:59,800
+It seems that after the Chigami earthquake
+
+919
+00:44:59,800 --> 00:45:00,360
+nearby
+
+920
+00:45:00,000 --> 00:45:02,000
+Those stations are all disconnected
+
+921
+00:45:02,000 --> 00:45:05,000
+So even if my data processing site is good
+
+922
+00:45:05,000 --> 00:45:06,300
+Well done Fly
+
+923
+00:45:06,300 --> 00:45:09,000
+Actually the earthquake shook it and it disconnected
+
+924
+00:45:09,000 --> 00:45:11,000
+So we can't do it
+
+925
+00:45:11,000 --> 00:45:13,000
+So I just introduced to you
+
+926
+00:45:13,000 --> 00:45:16,000
+Real-Time Moment Tensors made by Mr. Li Xiancong
+
+927
+00:45:16,000 --> 00:45:18,000
+So we later have many versions that are
+
+928
+00:45:18,000 --> 00:45:21,000
+Scale 6 scale 5 both work fine
+
+929
+00:45:21,000 --> 00:45:23,000
+because it's all online
+
+930
+00:45:23,000 --> 00:45:25,000
+A scale of 7 has several stations that may be
+
+931
+00:45:25,000 --> 00:45:28,000
+Will Centralize or disconnect
+
+932
+00:45:28,000 --> 00:45:31,000
+So we mentioned at that time that I really wanted to challenge
+
+933
+00:45:31,000 --> 00:45:34,000
+An earthquake with a magnitude of 8.0 in the Ryukyu Trench is in the open sea
+
+934
+00:45:34,000 --> 00:45:36,000
+Then we're going to use the Japanese signal
+
+935
+00:45:36,000 --> 00:45:38,000
+Signals used in the Philippines
+
+936
+00:45:38,000 --> 00:45:40,000
+Signals used in Mainland China
+
+937
+00:45:40,000 --> 00:45:42,000
+to skip Taiwan
+
+938
+00:45:42,000 --> 00:45:44,000
+Then how do we have an instant signal exchange
+
+939
+00:45:44,000 --> 00:45:46,000
+Then this is also the Earth Institute of the Chinese Academy
+
+940
+00:45:46,000 --> 00:45:48,000
+Cooperate with many international
+
+941
+00:45:48,000 --> 00:45:50,000
+That is, I have direct data exchange
+
+942
+00:45:50,000 --> 00:45:53,000
+can keep me on our island
+
+943
+00:45:53,000 --> 00:45:56,000
+In the case of a large-scale earthquake and power outages
+
+944
+00:45:56,000 --> 00:45:57,000
+i can still function
+
+945
+00:45:57,000 --> 00:45:59,000
+If you have the opportunity to compare yourself
+
+946
+00:45:59,000 --> 00:46:00,000
+will know
+
+947
+00:46:00,000 --> 00:46:03,460
+During the 921 earthquake, the COFCO radio station collapsed and nothing was left
+
+948
+00:46:03,460 --> 00:46:06,600
+I remember back then that I still had to talk over the phone
+
+949
+00:46:06,600 --> 00:46:09,160
+Let my Japanese friends tell me what happened
+
+950
+00:46:09,160 --> 00:46:13,200
+Then as long as there is power, grab the signal and start analyzing it.
+
+951
+00:46:13,200 --> 00:46:17,600
+Of course, the experience of 921 taught our country a lot
+
+952
+00:46:17,600 --> 00:46:21,600
+So we are now in the Ministry of Science and Technology
+
+953
+00:46:21,600 --> 00:46:25,360
+When the National Science and Technology Council does these tasks, it will mention that
+
+954
+00:46:25,360 --> 00:46:29,200
+How do I ensure critical infrastructure is not compromised
+
+955
+00:46:29,700 --> 00:46:31,700
+So the simulation of the large-scale earthquake we just talked about
+
+956
+00:46:31,700 --> 00:46:34,000
+I want to know where the Taipower tower is
+
+957
+00:46:34,000 --> 00:46:37,000
+gas it won't it leak because
+
+958
+00:46:37,000 --> 00:46:40,000
+It's just that if there is a leak, it will cause a fire.
+
+959
+00:46:40,000 --> 00:46:43,300
+Are our facilities complete in this part?
+
+960
+00:46:43,300 --> 00:46:46,000
+Here's what we're doing with massive earthquakes
+
+961
+00:46:46,000 --> 00:46:49,600
+Well, of course, this is very early work.
+
+962
+00:46:49,600 --> 00:46:52,200
+But I think it's worth watching directly with you
+
+963
+00:46:52,200 --> 00:46:53,600
+For example, during the 921 earthquake
+
+964
+00:46:53,600 --> 00:46:56,200
+You can see that the earthquake took ten or twenty seconds
+
+965
+00:46:56,200 --> 00:47:00,000
+Seismic waves began to spread to Taichung
+
+966
+00:47:00,000 --> 00:47:02,000
+The government here in Fengyuan is very big
+
+967
+00:47:02,000 --> 00:47:03,500
+it breaks from south to north
+
+968
+00:47:03,500 --> 00:47:06,000
+So there is a relatively large government in the north
+
+969
+00:47:06,000 --> 00:47:08,000
+You will see that Taipei currently has no
+
+970
+00:47:08,000 --> 00:47:10,500
+So we have about 40 seconds
+
+971
+00:47:10,500 --> 00:47:12,000
+Early warning to Taipei
+
+972
+00:47:12,000 --> 00:47:14,500
+Of course, this concept is already underway.
+
+973
+00:47:14,500 --> 00:47:17,500
+I just wanna say it's a really good
+
+974
+00:47:17,500 --> 00:47:21,000
+The demo lets you see what the concept of early warning is
+
+975
+00:47:21,000 --> 00:47:23,000
+Of course I don't now
+
+976
+00:47:23,000 --> 00:47:25,000
+I need a signal received
+
+977
+00:47:25,000 --> 00:47:27,000
+and then send out these times
+
+978
+00:47:27,000 --> 00:47:29,000
+But in fact these are already being resolved
+
+979
+00:47:29,000 --> 00:47:31,000
+Then of course when you arrive in Taipei City
+
+980
+00:47:31,000 --> 00:47:34,000
+Use three-dimensional transmission in this management line
+
+981
+00:47:34,000 --> 00:47:37,000
+It is very important to calculate this information
+
+982
+00:47:37,000 --> 00:47:40,000
+Of course there are layers of problems in the Taipei Basin
+
+983
+00:47:40,000 --> 00:47:42,500
+These signals need to be higher and higher resolution
+
+984
+00:47:42,500 --> 00:47:45,000
+We can see the seismic waves inside the basin
+
+985
+00:47:45,000 --> 00:47:47,000
+how does it shake and how long does it shake
+
+986
+00:47:47,000 --> 00:47:49,000
+So you'll talk about when Earthquake Island comes
+
+987
+00:47:49,000 --> 00:47:50,000
+how long did you shake
+
+988
+00:47:50,000 --> 00:47:52,000
+because the longer you shake
+
+989
+00:47:52,000 --> 00:47:53,000
+Of course there will be some disasters
+
+990
+00:47:53,000 --> 00:47:55,000
+How long can I shake it
+
+991
+00:47:55,000 --> 00:47:58,000
+This matter is also included in the information
+
+992
+00:47:58,000 --> 00:48:00,000
+This is what I personally consider my second generation seismic domain
+
+993
+00:48:00,000 --> 00:48:03,800
+I hope my second-generation earthquake warning is based on the floor level and the degree of shaking
+
+994
+00:48:03,800 --> 00:48:07,000
+It can be included in the concept of earthquake early warning
+
+995
+00:48:07,000 --> 00:48:10,000
+These tasks are actually the basic information behind
+
+996
+00:48:10,000 --> 00:48:12,000
+high-resolution basic data
+
+997
+00:48:12,000 --> 00:48:14,500
+This is also back to the bright
+
+998
+00:48:14,500 --> 00:48:17,800
+At that time, we hoped that several scenes in the Taipei Basin
+
+999
+00:48:17,800 --> 00:48:19,000
+I can also play bright
+
+1000
+00:48:19,000 --> 00:48:23,500
+I can parse the whole related construct more clearly
+
+1001
+00:48:24,500 --> 00:48:26,000
+the whole job of course
+
+1002
+00:48:26,000 --> 00:48:27,500
+this is what i just mentioned
+
+1003
+00:48:27,500 --> 00:48:30,500
+We started 10 years ago
+
+1004
+00:48:30,500 --> 00:48:34,000
+It is the Taiwan earthquake model under the framework of the Taiwan Earthquake Science Center
+
+1005
+00:48:34,000 --> 00:48:37,500
+Cross-departmental committees cast all these tasks in
+
+1006
+00:48:37,500 --> 00:48:41,500
+For example, the Shanjiao fault that everyone is familiar with in the Taipei Basin
+
+1007
+00:48:41,500 --> 00:48:43,500
+that in order
+
+1008
+00:48:43,500 --> 00:48:47,500
+In fact, September of this year is the Xin-Chen Fault, which is on the Hsinchu side.
+
+1009
+00:48:47,500 --> 00:48:49,500
+So your drill in September is also calculated by us.
+
+1010
+00:48:49,500 --> 00:48:53,500
+That is, the exercise in September will focus on new and old faults
+
+1011
+00:48:53,500 --> 00:48:55,000
+Then next year will focus on Chiayi
+
+1012
+00:48:55,000 --> 00:48:59,000
+That is, we will continue to work with ministries related to the Ministry of the Interior
+
+1013
+00:48:59,000 --> 00:49:00,000
+to get to know them
+
+1014
+00:49:00,000 --> 00:49:02,000
+requirements on the application
+
+1015
+00:49:02,000 --> 00:49:05,000
+If you want to be accurate
+
+1016
+00:49:05,000 --> 00:49:08,000
+That is to say, you are talking about the simulation of seismic waves.
+
+1017
+00:49:08,000 --> 00:49:10,000
+Since ten or twenty years ago
+
+1018
+00:49:10,000 --> 00:49:12,000
+very, very many people are developing
+
+1019
+00:49:12,000 --> 00:49:14,000
+Then of course we mentioned that
+
+1020
+00:49:14,000 --> 00:49:16,000
+simulation
+
+1021
+00:49:16,000 --> 00:49:18,000
+It is already difficult to write programs for agents
+
+1022
+00:49:18,000 --> 00:49:20,000
+After you build someone else's program
+
+1023
+00:49:20,000 --> 00:49:22,000
+You just enter and then output
+
+1024
+00:49:22,000 --> 00:49:25,000
+Then let me tell you that you are garbage in garbage out
+
+1025
+00:49:25,000 --> 00:49:26,000
+who knows right
+
+1026
+00:49:26,000 --> 00:49:28,000
+So the simulation at that time was actually
+
+1027
+00:49:28,000 --> 00:49:30,000
+It took a lot of effort to convince that
+
+1028
+00:49:30,000 --> 00:49:32,000
+ours is
+
+1029
+00:49:32,000 --> 00:49:34,000
+of scientific value is
+
+1030
+00:49:34,000 --> 00:49:36,000
+validation came out
+
+1031
+00:49:36,000 --> 00:49:38,000
+Because of too many different simulations
+
+1032
+00:49:38,000 --> 00:49:39,000
+can come in
+
+1033
+00:49:39,000 --> 00:49:41,000
+So we have to be very accurate
+
+1034
+00:49:41,000 --> 00:49:43,000
+I know that the data I entered is
+
+1035
+00:49:43,000 --> 00:49:45,000
+is reliable
+
+1036
+00:49:45,000 --> 00:49:47,000
+We spent a lot of time on that part
+
+1037
+00:49:47,000 --> 00:49:49,000
+With earthquake engineering and with national units
+
+1038
+00:49:49,000 --> 00:49:51,000
+do this communication
+
+1039
+00:49:51,000 --> 00:49:53,000
+So we can take all the criteria
+
+1040
+00:49:53,000 --> 00:49:54,000
+list them all
+
+1041
+00:49:54,000 --> 00:49:56,000
+Then I just mentioned the structure of the entire basin
+
+1042
+00:49:56,000 --> 00:49:59,000
+We still have certain limitations in resolution
+
+1043
+00:50:00,000 --> 00:50:06,720
+So my current signal is about 0.5Hz for 2 seconds
+
+1044
+00:50:06,720 --> 00:50:10,320
+5 seconds but the real one seems to be 1Hz to 10Hz
+
+1045
+00:50:10,320 --> 00:50:13,400
+Then your resolution must be very high, and the calculation program must be very large.
+
+1046
+00:50:13,400 --> 00:50:17,120
+Then we certainly hope that the future fiber will allow us to do this work
+
+1047
+00:50:17,120 --> 00:50:20,400
+push the structural resolution of my basin to become clearer
+
+1048
+00:50:20,400 --> 00:50:24,080
+The other teacher who just talked about cooperation, Mr. Huang Xinhua
+
+1049
+00:50:24,080 --> 00:50:25,800
+he is making mountains
+
+1050
+00:50:25,800 --> 00:50:29,200
+When I use optical fiber, is it shaken by an earthquake?
+
+1051
+00:50:29,200 --> 00:50:31,600
+Or when it rains heavily, there will be landslides
+
+1052
+00:50:31,600 --> 00:50:36,040
+Can I monitor the display of landslides
+
+1053
+00:50:36,040 --> 00:50:38,960
+That's also supported by the plan of the Hospital of Traditional Chinese Medicine.
+
+1054
+00:50:38,960 --> 00:50:41,280
+we're doing the big death part
+
+1055
+00:50:41,280 --> 00:50:47,880
+In addition to earthquakes, there are also extended disasters such as landslides.
+
+1056
+00:50:47,880 --> 00:50:50,240
+For example, there are basin structures but no basin structures
+
+1057
+00:50:50,240 --> 00:50:52,280
+You can see clearly that this is
+
+1058
+00:50:52,280 --> 00:50:54,080
+When there is a structure in the Taipei Basin
+
+1059
+00:50:54,080 --> 00:50:57,960
+You will see the seismic waves when the ship lands
+
+1060
+00:50:57,960 --> 00:51:00,200
+He just showed you
+
+1061
+00:51:00,000 --> 00:51:02,300
+This is Dr. Constitutionalist's calculation.
+
+1062
+00:51:02,300 --> 00:51:04,240
+his resonant behavior in
+
+1063
+00:51:04,240 --> 00:51:05,160
+but you will see say
+
+1064
+00:51:05,160 --> 00:51:06,460
+Because this is a triangle fault
+
+1065
+00:51:06,460 --> 00:51:08,800
+which we provided to the Ministry of the Interior
+
+1066
+00:51:08,800 --> 00:51:10,800
+You sometimes mentioned on the news that
+
+1067
+00:51:10,800 --> 00:51:14,460
+so-and-so member or whoever mentioned said
+
+1068
+00:51:14,460 --> 00:51:17,100
+If an earthquake with a magnitude of 6.4 occurs in Taipei,
+
+1069
+00:51:17,100 --> 00:51:19,200
+How many houses will collapse
+
+1070
+00:51:19,200 --> 00:51:20,200
+how many people were injured
+
+1071
+00:51:20,200 --> 00:51:21,960
+That's actually what we calculated
+
+1072
+00:51:21,960 --> 00:51:25,100
+Give it to NCDR to see their entire
+
+1073
+00:51:25,100 --> 00:51:27,360
+the structure of the house
+
+1074
+00:51:27,360 --> 00:51:29,960
+then start pushing
+
+1075
+00:51:29,960 --> 00:51:30,920
+Internal reinforcement
+
+1076
+00:51:30,920 --> 00:51:33,260
+even new building codes
+
+1077
+00:51:33,260 --> 00:51:36,560
+Then I think these tasks are slowly going on.
+
+1078
+00:51:36,560 --> 00:51:37,760
+Then you see it's still biting
+
+1079
+00:51:37,760 --> 00:51:39,120
+This part is over
+
+1080
+00:51:39,120 --> 00:51:40,120
+so this is
+
+1081
+00:51:40,120 --> 00:51:41,420
+Fine Velocity Structure
+
+1082
+00:51:41,420 --> 00:51:42,920
+allows us to calculate more precisely
+
+1083
+00:51:42,920 --> 00:51:44,420
+so i've been thinking
+
+1084
+00:51:44,420 --> 00:51:46,720
+From 5 to have is relatively simple
+
+1085
+00:51:46,720 --> 00:51:48,620
+but from there to better
+
+1086
+00:51:48,620 --> 00:51:50,620
+I think everyone has experience with this challenge
+
+1087
+00:51:50,620 --> 00:51:53,720
+You can pass the test to 80 points
+
+1088
+00:51:53,720 --> 00:51:55,320
+you score 80 to 90
+
+1089
+00:51:55,320 --> 00:51:56,720
+Efforts can also be achieved
+
+1090
+00:51:56,720 --> 00:51:58,680
+But you're going from 99 to 100
+
+1091
+00:51:58,680 --> 00:51:59,980
+1 point for this
+
+1092
+00:52:00,000 --> 00:52:02,240
+In fact, it takes a lot of effort
+
+1093
+00:52:02,240 --> 00:52:05,040
+So now we actually want to go from 80 to 90
+
+1094
+00:52:05,040 --> 00:52:06,800
+slowly push forward to better
+
+1095
+00:52:06,800 --> 00:52:09,840
+Is there a chance for this signal first?
+
+1096
+00:52:09,840 --> 00:52:11,080
+let's do this
+
+1097
+00:52:11,080 --> 00:52:13,200
+Of course it goes into the process
+
+1098
+00:52:13,200 --> 00:52:15,240
+This is the time to enter section 921
+
+1099
+00:52:15,240 --> 00:52:16,720
+nearby station
+
+1100
+00:52:16,720 --> 00:52:19,560
+These are protected from wind bridges, shot collapse, and so on.
+
+1101
+00:52:19,560 --> 00:52:21,880
+The most important thing is this very signal from the Cheung Chau flag
+
+1102
+00:52:21,880 --> 00:52:23,800
+This speed signal is a possible way
+
+1103
+00:52:23,800 --> 00:52:25,360
+A Cheung Chau flag signal
+
+1104
+00:52:25,360 --> 00:52:27,800
+Push the house down
+
+1105
+00:52:27,960 --> 00:52:30,760
+How did the Cheung Chau flag signal come from?
+
+1106
+00:52:30,760 --> 00:52:32,560
+At that time we published
+
+1107
+00:52:32,560 --> 00:52:34,400
+It was our TCTP at that time
+
+1108
+00:52:34,400 --> 00:52:37,400
+We publish in some of the top
+
+1109
+00:52:37,400 --> 00:52:38,760
+Journals to discuss
+
+1110
+00:52:38,760 --> 00:52:41,040
+how the hell did it happen
+
+1111
+00:52:41,040 --> 00:52:44,360
+For example, it's actually when an earthquake occurs
+
+1112
+00:52:44,360 --> 00:52:45,680
+it can also accelerate
+
+1113
+00:52:45,680 --> 00:52:46,360
+a speed
+
+1114
+00:52:46,360 --> 00:52:48,160
+But when it reaches its maximum speed
+
+1115
+00:52:48,160 --> 00:52:50,240
+My displacement continues to slide forward
+
+1116
+00:52:50,240 --> 00:52:52,640
+Because my section contains
+
+1117
+00:52:52,640 --> 00:52:54,360
+If it is a very detailed
+
+1118
+00:52:54,360 --> 00:52:57,080
+If the ring keeps slipping
+
+1119
+00:52:57,080 --> 00:53:00,200
+My minerals and time-lapse
+
+1120
+00:53:00,000 --> 00:53:02,000
+In fact, particles down to the nanometer
+
+1121
+00:53:02,000 --> 00:53:04,000
+When it comes to nano particles
+
+1122
+00:53:04,000 --> 00:53:06,000
+I fact many thermodynamic influences
+
+1123
+00:53:06,000 --> 00:53:08,000
+my big doubts arise when i have
+
+1124
+00:53:08,000 --> 00:53:10,000
+smoperturization
+
+1125
+00:53:10,000 --> 00:53:12,000
+After letting my faults open
+
+1126
+00:53:12,000 --> 00:53:14,000
+I'll slide forward even bigger
+
+1127
+00:53:14,000 --> 00:53:16,000
+that this part we are not
+
+1128
+00:53:16,000 --> 00:53:18,000
+There is a way for casting
+
+1129
+00:53:18,000 --> 00:53:20,000
+is that I can figure out that
+
+1130
+00:53:20,000 --> 00:53:22,000
+if a scale
+
+1131
+00:53:22,000 --> 00:53:24,000
+When reaching 7.0
+
+1132
+00:53:24,000 --> 00:53:26,000
+behavior like this happens
+
+1133
+00:53:26,000 --> 00:53:28,000
+Then I for my disaster prevention work
+
+1134
+00:53:28,000 --> 00:53:30,000
+it is very important to understand
+
+1135
+00:53:30,000 --> 00:53:32,000
+But science is more important
+
+1136
+00:53:32,000 --> 00:53:34,000
+At that time in 9.1
+
+1137
+00:53:34,000 --> 00:53:36,000
+Many scholars come to Taiwan
+
+1138
+00:53:36,000 --> 00:53:38,000
+He explored why an earthquake
+
+1139
+00:53:38,000 --> 00:53:40,000
+can have so much energy
+
+1140
+00:53:40,000 --> 00:53:42,000
+Theoretically, the hard force generated by the crust
+
+1141
+00:53:42,000 --> 00:53:44,000
+Shouldn't be that hard
+
+1142
+00:53:44,000 --> 00:53:46,000
+In fact it's all kinetic
+
+1143
+00:53:46,000 --> 00:53:48,000
+It is a passive kinetic behavior
+
+1144
+00:53:48,000 --> 00:53:50,000
+of course now
+
+1145
+00:53:50,000 --> 00:53:52,000
+Dynamics simulation can handle this matter
+
+1146
+00:53:52,000 --> 00:53:54,000
+is in the stage of development
+
+1147
+00:53:54,000 --> 00:53:56,000
+that kind of signal
+
+1148
+00:53:56,000 --> 00:53:58,000
+we asked for advice
+
+1149
+00:53:58,000 --> 00:54:00,000
+All scale 6.7 and above
+
+1150
+00:54:00,000 --> 00:54:04,500
+Like the 921G earthquake version 7.3 and the version 7.2 earthquake
+
+1151
+00:54:04,500 --> 00:54:07,000
+The Landes earthquake 7.2 is a large-scale earthquake
+
+1152
+00:54:07,000 --> 00:54:12,500
+But everyone should still remember the Meinong earthquake in 2016
+
+1153
+00:54:12,500 --> 00:54:16,500
+Scale 6.4 Same as a Long period of ground motion
+
+1154
+00:54:16,500 --> 00:54:19,500
+This Long period of ground motion is no longer a
+
+1155
+00:54:19,500 --> 00:54:23,000
+think it may have happened by accident
+
+1156
+00:54:23,000 --> 00:54:27,000
+We now feel more and more that it is a physical phenomenon
+
+1157
+00:54:27,000 --> 00:54:29,500
+it is a physical phenomenon
+
+1158
+00:54:29,500 --> 00:54:32,500
+It's just that the seismic instruments were not placed so densely before.
+
+1159
+00:54:32,500 --> 00:54:34,500
+so no detection
+
+1160
+00:54:34,500 --> 00:54:38,000
+That's not to mention whether the future light may have the opportunity to see more
+
+1161
+00:54:38,000 --> 00:54:41,500
+That's why I say earthquake science is an observational science
+
+1162
+00:54:41,500 --> 00:54:43,500
+Had a lot of conversations with everyone in the engineering world
+
+1163
+00:54:43,500 --> 00:54:45,500
+The engineering world used to tell me back then
+
+1164
+00:54:45,500 --> 00:54:47,500
+Of course we have an earthquake culture preschool attempt
+
+1165
+00:54:47,500 --> 00:54:50,500
+He told me, Mr. Meng, you gave too much shock
+
+1166
+00:54:50,500 --> 00:54:53,000
+This way you can find a way to make it smaller
+
+1167
+00:54:53,000 --> 00:54:55,000
+Then I thought about how to think about it
+
+1168
+00:54:55,000 --> 00:54:58,000
+This is data, I can't think of a way
+
+1169
+00:54:58,000 --> 00:55:00,000
+it is data
+
+1170
+00:55:00,000 --> 00:55:02,120
+But in terms of data, they mean
+
+1171
+00:55:02,120 --> 00:55:04,800
+In our previous earthquake engineering, it was
+
+1172
+00:55:04,800 --> 00:55:06,620
+More than about magnitude 5
+
+1173
+00:55:06,620 --> 00:55:08,000
+my house fell down
+
+1174
+00:55:08,000 --> 00:55:09,400
+In fact we found
+
+1175
+00:55:09,400 --> 00:55:11,860
+A Taiwan egg with a magnitude of 5 may be a well-built house
+
+1176
+00:55:11,860 --> 00:55:13,300
+That's not all down
+
+1177
+00:55:13,300 --> 00:55:15,060
+So something actually
+
+1178
+00:55:15,060 --> 00:55:17,960
+I need to do a lot of dialogue and exploration.
+
+1179
+00:55:17,960 --> 00:55:19,760
+So from the beginning I thought
+
+1180
+00:55:19,760 --> 00:55:22,920
+This Cheung Chau writing signal happened by accident
+
+1181
+00:55:22,920 --> 00:55:25,800
+Up to now, our building regulations in Taiwan
+
+1182
+00:55:25,800 --> 00:55:28,860
+New building codes have broken into earthquakes
+
+1183
+00:55:28,860 --> 00:55:30,820
+These building codes all come in
+
+1184
+00:55:30,820 --> 00:55:32,980
+It was Cheung Chau who wrote the shock
+
+1185
+00:55:32,980 --> 00:55:35,680
+Buildings cannot be built in generations
+
+1186
+00:55:35,680 --> 00:55:37,120
+if you have a private building
+
+1187
+00:55:37,120 --> 00:55:39,320
+You must do a special review
+
+1188
+00:55:39,320 --> 00:55:41,220
+In fact, this part is included in the laws and regulations.
+
+1189
+00:55:41,220 --> 00:55:42,620
+it's my pleasure to have the opportunity
+
+1190
+00:55:42,620 --> 00:55:44,320
+More conversations with engineering
+
+1191
+00:55:44,320 --> 00:55:46,320
+Then wait a minute and I can introduce you
+
+1192
+00:55:46,320 --> 00:55:48,060
+It is in our MIDASData
+
+1193
+00:55:48,060 --> 00:55:51,280
+See the phenomenon that Cheung Chau wrote to shake it
+
+1194
+00:55:51,280 --> 00:55:53,180
+It is actually a fractured structure
+
+1195
+00:55:53,180 --> 00:55:55,320
+caused by the phenomenon
+
+1196
+00:55:55,320 --> 00:55:57,640
+Okay, that's what I just said
+
+1197
+00:55:57,640 --> 00:56:00,040
+The Chigami Earthquake of September 18
+
+1198
+00:56:00,000 --> 00:56:02,800
+It was the earthquake three months ago
+
+1199
+00:56:03,080 --> 00:56:03,960
+four months
+
+1200
+00:56:04,200 --> 00:56:06,960
+You may have seen this on the news
+
+1201
+00:56:06,960 --> 00:56:08,000
+these bridges fell
+
+1202
+00:56:08,240 --> 00:56:10,480
+Semi-11 in that domain is down here
+
+1203
+00:56:10,480 --> 00:56:13,440
+It's just like a very Long period of ground motion
+
+1204
+00:56:13,880 --> 00:56:14,840
+caused this disaster
+
+1205
+00:56:15,120 --> 00:56:17,440
+But some of the same signals are disconnected
+
+1206
+00:56:17,800 --> 00:56:19,600
+That's what I mentioned to the weather bureau
+
+1207
+00:56:19,920 --> 00:56:22,240
+We want a Resilient Society
+
+1208
+00:56:22,240 --> 00:56:25,800
+But we want Resilient Instrumentation
+
+1209
+00:56:26,280 --> 00:56:28,400
+How do we make earthquakes come
+
+1210
+00:56:28,520 --> 00:56:31,360
+My station on the nearest fault won't be disconnected
+
+1211
+00:56:32,160 --> 00:56:35,120
+Because many of my research materials need near-fault data
+
+1212
+00:56:35,840 --> 00:56:37,640
+then this is a challenge
+
+1213
+00:56:38,160 --> 00:56:40,200
+Of course I'm actually in the domain
+
+1214
+00:56:40,200 --> 00:56:42,440
+I set up some stations to see its signal
+
+1215
+00:56:43,440 --> 00:56:43,720
+good
+
+1216
+00:56:44,720 --> 00:56:47,680
+Okay, so back to the phenomena we were talking about
+
+1217
+00:56:47,680 --> 00:56:48,640
+of course i want to say
+
+1218
+00:56:49,560 --> 00:56:51,560
+Why am I talking to the side of the earth?
+
+1219
+00:56:51,560 --> 00:56:54,880
+Let's mention this key breakthrough plan from the Intermediate People's Court.
+
+1220
+00:56:54,960 --> 00:56:56,400
+because i know it's risky
+
+1221
+00:56:56,400 --> 00:56:58,880
+I will thank the hospital for mentioning that
+
+1222
+00:56:58,880 --> 00:56:59,600
+The essential
+
+1223
+00:57:00,000 --> 00:57:02,000
+In fact they understand the risks
+
+1224
+00:57:02,000 --> 00:57:04,000
+I don't know if it will work
+
+1225
+00:57:04,000 --> 00:57:06,000
+but i think it's an opportunity
+
+1226
+00:57:06,000 --> 00:57:08,000
+So I propose to try this
+
+1227
+00:57:08,000 --> 00:57:10,000
+And at that time, I actually mentioned it to Taipower
+
+1228
+00:57:10,000 --> 00:57:12,000
+Carbon dioxide sequesters these things
+
+1229
+00:57:12,000 --> 00:57:15,000
+But everyone is very conservative about the light
+
+1230
+00:57:15,000 --> 00:57:18,000
+Then go back to Academia Sinica personally
+
+1231
+00:57:18,000 --> 00:57:21,000
+It is an honor to come to Academia Sinica
+
+1232
+00:57:21,000 --> 00:57:23,000
+I know what we're going to do is a lookahead
+
+1233
+00:57:23,000 --> 00:57:26,000
+Lead us to Taiwan to challenge a new
+
+1234
+00:57:26,000 --> 00:57:28,000
+The possibility of scientific development
+
+1235
+00:57:28,000 --> 00:57:30,000
+that's nice to have a chance we made it
+
+1236
+00:57:30,000 --> 00:57:32,000
+So start having a lot of conversations
+
+1237
+00:57:32,000 --> 00:57:33,000
+i can't say we succeeded
+
+1238
+00:57:33,000 --> 00:57:35,000
+It should be said that we put it in
+
+1239
+00:57:35,000 --> 00:57:38,000
+The data research is still in the process of writing
+
+1240
+00:57:38,000 --> 00:57:40,000
+Then this is us
+
+1241
+00:57:40,000 --> 00:57:43,000
+At least we are technically successful
+
+1242
+00:57:43,000 --> 00:57:46,000
+We even have conversations with Chunghwa Telecom
+
+1243
+00:57:46,000 --> 00:57:48,000
+We have a signal that uses Chunghwa Telecom's dialogue
+
+1244
+00:57:48,000 --> 00:57:50,000
+because the real purpose is
+
+1245
+00:57:50,000 --> 00:57:52,000
+All cables in Taiwan
+
+1246
+00:57:52,000 --> 00:57:53,000
+can become our signal
+
+1247
+00:57:53,000 --> 00:57:55,000
+and submarine cables
+
+1248
+00:57:55,000 --> 00:57:58,000
+But it's a big challenge just take it step by step
+
+1249
+00:58:00,000 --> 00:58:02,640
+When I mentioned it to the hospital, I said
+
+1250
+00:58:02,640 --> 00:58:04,800
+In addition to these applications
+
+1251
+00:58:04,800 --> 00:58:06,640
+Not to mention the Millennium Fault
+
+1252
+00:58:06,640 --> 00:58:09,600
+Probably the most active fault in the world
+
+1253
+00:58:09,600 --> 00:58:11,000
+Every 70 years
+
+1254
+00:58:11,000 --> 00:58:12,120
+And it moves exactly the same
+
+1255
+00:58:12,120 --> 00:58:13,600
+This was moved in 1951
+
+1256
+00:58:13,600 --> 00:58:16,600
+It's exactly the same as in 2016
+
+1257
+00:58:16,600 --> 00:58:18,800
+In fact, the Ikegami Fault
+
+1258
+00:58:18,800 --> 00:58:22,560
+2022 Ikegami earthquake dynamic position
+
+1259
+00:58:22,560 --> 00:58:25,560
+It is exactly the same as the Yuli fault in 1951
+
+1260
+00:58:25,560 --> 00:58:27,320
+After the earthquake
+
+1261
+00:58:27,320 --> 00:58:29,080
+we've been thinking
+
+1262
+00:58:29,080 --> 00:58:31,840
+In 1951, this series of steam-scale earthquakes
+
+1263
+00:58:31,840 --> 00:58:34,120
+happen within two months
+
+1264
+00:58:34,120 --> 00:58:36,040
+what will its condition be like
+
+1265
+00:58:36,040 --> 00:58:38,120
+Seismic activity was high at the time
+
+1266
+00:58:38,120 --> 00:58:41,840
+So at that time, the chairman of the National Science Council
+
+1267
+00:58:41,840 --> 00:58:43,240
+At that time, he was the Minister of Science and Technology
+
+1268
+00:58:43,240 --> 00:58:44,720
+Also hold a meeting with us to understand
+
+1269
+00:58:44,720 --> 00:58:47,240
+What is the nature of its earthquake
+
+1270
+00:58:47,240 --> 00:58:50,600
+Well, Bai Guangguang once said
+
+1271
+00:58:50,600 --> 00:58:52,360
+Murren Fault it's already clear
+
+1272
+00:58:52,360 --> 00:58:53,680
+It is related to the Ryukyu Trench
+
+1273
+00:58:53,680 --> 00:58:56,400
+I just mentioned past life on scale 8.0
+
+1274
+00:58:56,440 --> 00:58:57,600
+Everyone is on the news sometimes
+
+1275
+00:58:57,600 --> 00:58:59,160
+What century-old politics are you referring to?
+
+1276
+00:58:59,160 --> 00:59:00,160
+since 1920
+
+1277
+00:59:00,000 --> 00:59:01,460
+A magnitude 8 earthquake
+
+1278
+00:59:01,460 --> 00:59:04,400
+Not to mention its entire fault system is linked together
+
+1279
+00:59:04,400 --> 00:59:06,240
+If an earthquake warning
+
+1280
+00:59:06,240 --> 00:59:08,360
+It should be said before the earthquake
+
+1281
+00:59:08,360 --> 00:59:11,200
+it is also possible opportunity
+
+1282
+00:59:11,200 --> 00:59:13,800
+So not to mention I was hoping to make a
+
+1283
+00:59:13,800 --> 00:59:17,500
+The biggest experiment is how I put the fiber
+
+1284
+00:59:17,500 --> 00:59:20,200
+Because the matter of optical fiber has been talked about for two or three years
+
+1285
+00:59:20,200 --> 00:59:22,200
+In fact, it has been talked about for a long time at home and abroad.
+
+1286
+00:59:22,200 --> 00:59:25,860
+It's just that there has been no actual operation
+
+1287
+00:59:25,860 --> 00:59:27,000
+my seminar abroad
+
+1288
+00:59:27,000 --> 00:59:28,740
+Of course the time of COVID caused some trouble
+
+1289
+00:59:28,740 --> 00:59:30,540
+But when in seminars abroad
+
+1290
+00:59:30,540 --> 00:59:31,440
+listen to me
+
+1291
+00:59:31,440 --> 00:59:34,040
+郭鳳,you have to talk about optical fiber
+
+1292
+00:59:34,040 --> 00:59:36,940
+I've been thinking that I'm going to smoke this hilarious
+
+1293
+00:59:36,940 --> 00:59:38,040
+You know sometimes scientific research
+
+1294
+00:59:38,040 --> 00:59:39,940
+still has some feeling of federation
+
+1295
+00:59:39,940 --> 00:59:42,940
+which thing is particularly popular at a certain time
+
+1296
+00:59:42,940 --> 00:59:45,040
+I want to say I don't want to dare to be popular
+
+1297
+00:59:45,040 --> 00:59:47,440
+But I feel more and more
+
+1298
+00:59:47,440 --> 00:59:49,440
+it may be the future
+
+1299
+00:59:49,440 --> 00:59:50,640
+if it is the future
+
+1300
+00:59:50,640 --> 00:59:51,640
+of course i want to try it
+
+1301
+00:59:51,640 --> 00:59:52,840
+what does it look like
+
+1302
+00:59:52,840 --> 00:59:54,740
+let me warm up
+
+1303
+00:59:54,740 --> 00:59:57,040
+that's to say nothing of me stepping over the fault line
+
+1304
+00:59:57,040 --> 00:59:58,640
+What does a fault look like?
+
+1305
+00:59:58,640 --> 01:00:00,140
+that just mentioned
+
+1306
+01:00:00,000 --> 01:00:04,000
+All over the world if I have fiber optics in all locations
+
+1307
+01:00:04,000 --> 01:00:05,800
+can i put the fault under the ground
+
+1308
+01:00:05,800 --> 01:00:07,000
+clearer
+
+1309
+01:00:07,000 --> 01:00:10,000
+I'll put the location where I know the fault first.
+
+1310
+01:00:10,000 --> 01:00:12,000
+Is it possible for me to go in the future?
+
+1311
+01:00:12,000 --> 01:00:13,400
+Test other faults first
+
+1312
+01:00:13,400 --> 01:00:14,400
+so i
+
+1313
+01:00:14,400 --> 01:00:16,400
+This is actually a bit of that
+
+1314
+01:00:16,400 --> 01:00:17,400
+already know the answer
+
+1315
+01:00:17,400 --> 01:00:19,400
+But I still want to know
+
+1316
+01:00:19,400 --> 01:00:21,400
+What does his answer look like?
+
+1317
+01:00:21,400 --> 01:00:23,400
+so we are here
+
+1318
+01:00:23,400 --> 01:00:24,900
+Seven Star Altar Very beautiful Seven Star Altar
+
+1319
+01:00:24,900 --> 01:00:26,400
+This is the Murren Fault
+
+1320
+01:00:26,400 --> 01:00:28,400
+We have a well A and a well B
+
+1321
+01:00:28,400 --> 01:00:29,400
+This is the upper plate This is the lower plate
+
+1322
+01:00:29,400 --> 01:00:31,400
+I want to be a control group
+
+1323
+01:00:31,400 --> 01:00:32,400
+Then in Well C
+
+1324
+01:00:32,400 --> 01:00:35,400
+We measure water, air and temperature
+
+1325
+01:00:35,400 --> 01:00:39,400
+Do earthquake light and seismic energy detection
+
+1326
+01:00:39,400 --> 01:00:41,400
+the real challenge is
+
+1327
+01:00:41,400 --> 01:00:43,400
+I'm going to take an optical fiber directly from the surface
+
+1328
+01:00:43,400 --> 01:00:45,400
+all the way down
+
+1329
+01:00:45,400 --> 01:00:47,400
+700 meters position
+
+1330
+01:00:47,400 --> 01:00:49,400
+That's a big challenge
+
+1331
+01:00:49,400 --> 01:00:50,400
+we have to first
+
+1332
+01:00:50,400 --> 01:00:52,400
+Of course I still have to say
+
+1333
+01:00:52,400 --> 01:00:54,400
+Then don't talk so much about your heart today.
+
+1334
+01:00:54,400 --> 01:00:55,400
+That
+
+1335
+01:00:55,400 --> 01:00:57,400
+that because of covid
+
+1336
+01:00:57,400 --> 01:00:59,400
+I play the first time swing fiber optic
+
+1337
+01:01:00,000 --> 01:01:05,120
+To manipulate the light you have to have absolutely no folds
+
+1338
+01:01:05,120 --> 01:01:08,060
+Then if you want 100, it takes a day
+
+1339
+01:01:08,060 --> 01:01:10,000
+One hundred to seven hundred meters in one go
+
+1340
+01:01:10,000 --> 01:01:13,960
+Then our approach is on Jing A's side.
+
+1341
+01:01:13,960 --> 01:01:16,920
+there's a light starting to come down
+
+1342
+01:01:16,920 --> 01:01:18,380
+Go down to the suite
+
+1343
+01:01:18,380 --> 01:01:19,700
+then go up
+
+1344
+01:01:19,700 --> 01:01:23,120
+Then cross this scene A and go up and down
+
+1345
+01:01:23,120 --> 01:01:25,920
+Go east and go to Qixing
+
+1346
+01:01:25,920 --> 01:01:28,000
+It's where Murren Heights is
+
+1347
+01:01:28,000 --> 01:01:31,000
+In fact, the fire department in Hualien is going to connect us now
+
+1348
+01:01:31,000 --> 01:01:32,500
+Do disaster prevention education
+
+1349
+01:01:32,500 --> 01:01:34,000
+Then go back to Scene A
+
+1350
+01:01:34,000 --> 01:01:37,000
+I use Chunghwa Telecom for this section of blue
+
+1351
+01:01:37,000 --> 01:01:39,000
+We had a long discussion with Chunghwa Telecom
+
+1352
+01:01:39,000 --> 01:01:42,000
+So they now use our Chunghwa Telecom
+
+1353
+01:01:42,000 --> 01:01:46,000
+For our work, they are going to fight for Taiwan's sustainable award
+
+1354
+01:01:46,000 --> 01:01:48,000
+The first time we talked to him
+
+1355
+01:01:48,000 --> 01:01:54,000
+How to put business work and forward-looking science together
+
+1356
+01:01:54,000 --> 01:01:56,000
+Thanks to Lin Qingren and Huang Xinhua
+
+1357
+01:01:56,000 --> 01:01:58,000
+They put a lot of effort into dialogue
+
+1358
+01:01:58,000 --> 01:02:00,000
+Chunghwa Telecom
+
+1359
+01:02:00,000 --> 01:02:02,600
+The main reason is that there are many houses here
+
+1360
+01:02:02,600 --> 01:02:05,300
+It is also impossible for us to dig any location
+
+1361
+01:02:05,300 --> 01:02:06,300
+Chunghwa Telecom
+
+1362
+01:02:06,300 --> 01:02:09,500
+Then he closes and continues up and down
+
+1363
+01:02:09,500 --> 01:02:13,000
+Then go to Qixingtan to cross the whole border
+
+1364
+01:02:13,000 --> 01:02:15,000
+So we become a three-dimensional
+
+1365
+01:02:15,000 --> 01:02:18,000
+monitoring of the entire signal
+
+1366
+01:02:18,000 --> 01:02:20,600
+We are now writing our article
+
+1367
+01:02:20,600 --> 01:02:23,600
+But we in China say that I will extend my salary
+
+1368
+01:02:23,600 --> 01:02:27,600
+The salary extension of this special policeman actually took a lot of effort
+
+1369
+01:02:27,600 --> 01:02:30,600
+Well of course this is a long story to tell
+
+1370
+01:02:30,600 --> 01:02:32,100
+If you are interested
+
+1371
+01:02:32,100 --> 01:02:35,100
+That reporter has been following us for two years
+
+1372
+01:02:35,100 --> 01:02:38,100
+So his reporter wrote a very good article last year
+
+1373
+01:02:38,100 --> 01:02:40,100
+And China TV News Magazine
+
+1374
+01:02:40,100 --> 01:02:45,100
+And Dong Sen has come to make these documentaries
+
+1375
+01:02:45,100 --> 01:02:46,100
+So if you are interested
+
+1376
+01:02:46,100 --> 01:02:48,100
+You can read their reports
+
+1377
+01:02:48,100 --> 01:02:51,100
+I just mentioned that, of course I can't say
+
+1378
+01:02:51,100 --> 01:02:52,600
+Hit it out of nowhere
+
+1379
+01:02:52,600 --> 01:02:54,100
+Explain that at the beginning, of course, many policies
+
+1380
+01:02:54,100 --> 01:02:57,100
+This is after we must have done a lot of thinking
+
+1381
+01:02:57,100 --> 01:03:00,100
+I need to know that I'm actually certain that I'm going to fight
+
+1382
+01:03:00,000 --> 01:03:01,400
+about my location
+
+1383
+01:03:01,400 --> 01:03:03,600
+But it's not just talking about fighting
+
+1384
+01:03:03,600 --> 01:03:05,700
+People may not be willing to let us fight, right?
+
+1385
+01:03:05,700 --> 01:03:08,900
+And then again in such a beautiful place as Qixingtan
+
+1386
+01:03:08,900 --> 01:03:11,400
+I went there and thought Chihsingtan is really, really beautiful.
+
+1387
+01:03:11,400 --> 01:03:15,000
+We hope to combine this work with sightseeing
+
+1388
+01:03:15,000 --> 01:03:17,000
+Combined with disaster prevention education
+
+1389
+01:03:17,000 --> 01:03:19,800
+Therefore, in the selection of the whole field
+
+1390
+01:03:19,800 --> 01:03:21,700
+we spent a year
+
+1391
+01:03:21,700 --> 01:03:24,000
+Convince Hualien County Government
+
+1392
+01:03:24,000 --> 01:03:26,500
+Disaster Prevention Office Central Disaster Prevention Office
+
+1393
+01:03:26,500 --> 01:03:29,500
+Our director went to Hualien and so on
+
+1394
+01:03:29,500 --> 01:03:31,000
+do a lot of public hearings
+
+1395
+01:03:31,000 --> 01:03:33,500
+Tell local residents why we do this work
+
+1396
+01:03:33,500 --> 01:03:35,000
+It took us a year
+
+1397
+01:03:35,000 --> 01:03:37,500
+all clerical visits
+
+1398
+01:03:37,500 --> 01:03:40,700
+I am grateful that is the House of Representatives
+
+1399
+01:03:40,700 --> 01:03:42,000
+some executives of key breakthroughs
+
+1400
+01:03:42,000 --> 01:03:43,300
+and hospital administrators
+
+1401
+01:03:43,300 --> 01:03:45,500
+help with a lot of work
+
+1402
+01:03:45,500 --> 01:03:46,500
+Chunghwa Telecom
+
+1403
+01:03:46,500 --> 01:03:48,700
+Chunghwa Telecom told us at the beginning that we would
+
+1404
+01:03:48,700 --> 01:03:50,800
+You have to charge us 300,000,500,000 a year
+
+1405
+01:03:50,800 --> 01:03:52,300
+1.5 million in three years
+
+1406
+01:03:52,300 --> 01:03:54,200
+I want to say we don't have the funds
+
+1407
+01:03:54,200 --> 01:03:55,700
+So we convinced a lot
+
+1408
+01:03:55,700 --> 01:03:56,900
+tell him why
+
+1409
+01:03:56,900 --> 01:03:58,300
+what do you think about this
+
+1410
+01:03:58,300 --> 01:04:00,300
+Chunghwa Telecom
+
+1411
+01:04:00,000 --> 01:04:02,000
+is also worth it
+
+1412
+01:04:02,000 --> 01:04:05,000
+So it took a lot of work to have this conversation
+
+1413
+01:04:05,000 --> 01:04:10,000
+So thanks to the many teams and all the observations in the field
+
+1414
+01:04:10,000 --> 01:04:13,000
+This whole thing took about a year to start earning
+
+1415
+01:04:13,000 --> 01:04:15,000
+Start earning, of course the key is of course very big
+
+1416
+01:04:15,000 --> 01:04:18,000
+is when we reach earning generation
+
+1417
+01:04:18,000 --> 01:04:20,000
+I have been worrying together all the time
+
+1418
+01:04:20,000 --> 01:04:23,000
+We took the exam for two months
+
+1419
+01:04:23,000 --> 01:04:25,000
+When I took the exam, I thought it was great.
+
+1420
+01:04:25,000 --> 01:04:27,000
+It should be that we reach Earn Generation
+
+1421
+01:04:27,000 --> 01:04:29,000
+But at the same time, I feel that I can't make money, what should I do?
+
+1422
+01:04:29,000 --> 01:04:32,000
+At that time, it was said that the hospital's plan was to talk about it.
+
+1423
+01:04:32,000 --> 01:04:34,000
+Mr. Mao, your knowledge rate is too low
+
+1424
+01:04:34,000 --> 01:04:36,000
+You need to finish it quickly
+
+1425
+01:04:36,000 --> 01:04:39,000
+So there's a lot of dialogue probably with the colonial side
+
+1426
+01:04:39,000 --> 01:04:42,000
+or the office on this side of the courtyard
+
+1427
+01:04:42,000 --> 01:04:45,000
+Quick Technician does a lot of dialogue
+
+1428
+01:04:45,000 --> 01:04:46,000
+i can't give up
+
+1429
+01:04:46,000 --> 01:04:49,000
+But it was impossible for me to give to the money-making company the year before last
+
+1430
+01:04:49,000 --> 01:04:51,000
+I have to be in place before I can give
+
+1431
+01:04:51,000 --> 01:04:54,000
+Then this is fiber optic
+
+1432
+01:04:54,000 --> 01:04:55,000
+too much on this story
+
+1433
+01:04:55,000 --> 01:04:57,000
+I will tell the result directly
+
+1434
+01:04:57,000 --> 01:04:59,000
+This is the fiber that actually runs from the UK
+
+1435
+01:05:00,000 --> 01:05:01,200
+COVID is very serious
+
+1436
+01:05:01,200 --> 01:05:02,120
+So when his instrument comes
+
+1437
+01:05:02,120 --> 01:05:03,880
+We put it in the middle of the situation for two months
+
+1438
+01:05:03,880 --> 01:05:05,760
+no one dares to touch it
+
+1439
+01:05:05,760 --> 01:05:08,520
+The British company is coming
+
+1440
+01:05:08,520 --> 01:05:09,400
+found the company
+
+1441
+01:05:09,400 --> 01:05:11,840
+We've spent all the money the madman cleared.
+
+1442
+01:05:11,840 --> 01:05:14,320
+It's impossible to make money from negative companies
+
+1443
+01:05:14,320 --> 01:05:16,460
+so by us young people
+
+1444
+01:05:16,460 --> 01:05:17,520
+Ph.D. Dr. Gu Jinshang
+
+1445
+01:05:17,520 --> 01:05:22,160
+And these drilling teams
+
+1446
+01:05:22,160 --> 01:05:23,400
+step by step to design
+
+1447
+01:05:23,400 --> 01:05:25,120
+Because when I take the whole case
+
+1448
+01:05:25,120 --> 01:05:26,760
+fiber next to me
+
+1449
+01:05:26,760 --> 01:05:28,200
+I can't fold the fiber
+
+1450
+01:05:28,200 --> 01:05:29,960
+But I want very good copying
+
+1451
+01:05:29,960 --> 01:05:31,760
+Then I'm going to fix it really well
+
+1452
+01:05:31,760 --> 01:05:35,080
+So the whole technique has been practiced N hundred times
+
+1453
+01:05:35,080 --> 01:05:37,080
+That is, every step we take every step to achieve
+
+1454
+01:05:37,080 --> 01:05:40,320
+Then I thank the British team
+
+1455
+01:05:40,320 --> 01:05:41,760
+at christmas time
+
+1456
+01:05:41,760 --> 01:05:43,200
+he is video chatting with us
+
+1457
+01:05:43,200 --> 01:05:45,720
+Our optical fiber was launched in December last year
+
+1458
+01:05:45,720 --> 01:05:46,960
+It should be the year before last
+
+1459
+01:05:46,960 --> 01:05:48,360
+December 31
+
+1460
+01:05:48,360 --> 01:05:49,680
+That's really the first signal coming in
+
+1461
+01:05:49,680 --> 01:05:51,600
+is January 1, 2022
+
+1462
+01:05:51,600 --> 01:05:54,360
+We are all welcoming the sunrise at Qixingtan
+
+1463
+01:05:54,360 --> 01:05:55,320
+In fact, there is no place to live
+
+1464
+01:05:55,320 --> 01:05:56,960
+Because Qixingtan is full
+
+1465
+01:05:56,960 --> 01:05:58,680
+So we are in fact
+
+1466
+01:05:58,680 --> 01:06:00,000
+Everyone find a place by themselves
+
+1467
+01:06:00,000 --> 01:06:03,060
+to finish but just happy
+
+1468
+01:06:03,060 --> 01:06:05,140
+When the signal is completed
+
+1469
+01:06:05,280 --> 01:06:08,700
+But Taiwan is not worried about earthquakes at all, the signal will come in immediately
+
+1470
+01:06:08,800 --> 01:06:10,240
+ok then this is
+
+1471
+01:06:10,800 --> 01:06:13,540
+Scene A on January 1, 2022
+
+1472
+01:06:13,540 --> 01:06:15,880
+Scene B on June 2, 2022
+
+1473
+01:06:15,880 --> 01:06:17,960
+In other words, June 2, 2022
+
+1474
+01:06:17,960 --> 01:06:20,400
+Our entire circuit is complete.
+
+1475
+01:06:20,400 --> 01:06:22,600
+That is, as soon as we put it down,
+
+1476
+01:06:22,600 --> 01:06:25,160
+Must be all 24 hours at once so
+
+1477
+01:06:25,160 --> 01:06:27,320
+And put all the wiring together
+
+1478
+01:06:27,340 --> 01:06:30,560
+is the completion of our entire signal
+
+1479
+01:06:30,560 --> 01:06:31,840
+follow the operation
+
+1480
+01:06:33,240 --> 01:06:36,220
+I think it's really about the signal of an earthquake.
+
+1481
+01:06:36,220 --> 01:06:38,760
+That's what it said
+
+1482
+01:06:38,760 --> 01:06:41,180
+Yes, all the work, is it worth it?
+
+1483
+01:06:41,180 --> 01:06:43,020
+I've actually been thinking
+
+1484
+01:06:43,020 --> 01:06:44,140
+for what
+
+1485
+01:06:44,300 --> 01:06:46,400
+my signal is beautiful
+
+1486
+01:06:46,400 --> 01:06:49,300
+At that time this was
+
+1487
+01:06:49,300 --> 01:06:51,640
+You see, it starts to go down on January 1st.
+
+1488
+01:06:51,640 --> 01:06:53,260
+I face the computer every day
+
+1489
+01:06:53,260 --> 01:06:55,640
+The earthquake on January 7, an earthquake in Taichung
+
+1490
+01:06:55,640 --> 01:06:57,080
+I think earthquakes are really good
+
+1491
+01:06:57,080 --> 01:07:00,100
+Because it has a scale of 4.7, it is neither too big nor too small, and it is very deep.
+
+1492
+01:07:00,000 --> 01:07:03,200
+So its signal to our station is almost vertically rounded
+
+1493
+01:07:03,760 --> 01:07:05,720
+I saw this signal and thought it was so beautiful
+
+1494
+01:07:05,720 --> 01:07:06,920
+but i mean earthquake repair
+
+1495
+01:07:06,920 --> 01:07:08,280
+so i feel very beautiful
+
+1496
+01:07:09,400 --> 01:07:12,920
+This is from the ground to the ground
+
+1497
+01:07:12,920 --> 01:07:13,960
+then it is symmetrical
+
+1498
+01:07:13,960 --> 01:07:14,800
+I just told me to go down
+
+1499
+01:07:14,800 --> 01:07:15,600
+then up again
+
+1500
+01:07:15,600 --> 01:07:16,720
+you can see it's symmetrical
+
+1501
+01:07:17,360 --> 01:07:18,560
+then you can see
+
+1502
+01:07:18,760 --> 01:07:20,240
+This is a two-second signal
+
+1503
+01:07:20,240 --> 01:07:22,080
+I can see when the batch comes in
+
+1504
+01:07:22,080 --> 01:07:23,840
+Then I've seen some disturbances in these
+
+1505
+01:07:24,000 --> 01:07:25,960
+These disturbances are seismic zones
+
+1506
+01:07:26,440 --> 01:07:27,240
+fault zone
+
+1507
+01:07:27,240 --> 01:07:28,920
+then i see some facial zone
+
+1508
+01:07:29,160 --> 01:07:32,000
+I am one and then how does the seismic wave reflect the selective shot
+
+1509
+01:07:32,000 --> 01:07:34,800
+I can see everything clearly
+
+1510
+01:07:35,800 --> 01:07:36,640
+Even so
+
+1511
+01:07:36,640 --> 01:07:39,000
+I'm still staring at it in a daze
+
+1512
+01:07:39,000 --> 01:07:41,160
+So what can you do?
+
+1513
+01:07:41,400 --> 01:07:41,960
+Ok
+
+1514
+01:07:41,960 --> 01:07:43,320
+You guys beautiful and then
+
+1515
+01:07:44,160 --> 01:07:45,960
+so I've been thinking about it
+
+1516
+01:07:46,480 --> 01:07:50,680
+But there are more and more important discoveries
+
+1517
+01:07:51,480 --> 01:07:53,560
+For example this is the same as an earthquake
+
+1518
+01:07:53,560 --> 01:07:56,160
+Of course I drew it in a better way
+
+1519
+01:07:56,520 --> 01:07:57,400
+you can see
+
+1520
+01:08:00,000 --> 01:08:01,260
+4 meters, sorry, forgot to mention
+
+1521
+01:08:01,260 --> 01:08:02,060
+we are one
+
+1522
+01:08:02,060 --> 01:08:04,300
+We have a resolution of 4 meters
+
+1523
+01:08:04,300 --> 01:08:06,100
+Then the signal is 1000Hz
+
+1524
+01:08:06,100 --> 01:08:08,220
+So it has a very, very large amount of data
+
+1525
+01:08:08,220 --> 01:08:10,160
+Of course we have to treat it as
+
+1526
+01:08:10,160 --> 01:08:11,500
+When sample to 200Hz
+
+1527
+01:08:11,500 --> 01:08:13,200
+Then we also follow what we get
+
+1528
+01:08:13,200 --> 01:08:15,100
+The grid center of our courtyard
+
+1529
+01:08:15,100 --> 01:08:16,260
+Thanks to Mr. Liang Wenzhong
+
+1530
+01:08:16,260 --> 01:08:18,100
+They have collaborated many times before
+
+1531
+01:08:18,100 --> 01:08:19,100
+on some basis of
+
+1532
+01:08:19,100 --> 01:08:20,900
+Do this same conversation with the grid center
+
+1533
+01:08:20,900 --> 01:08:22,900
+Our data is sent to the grid center
+
+1534
+01:08:22,900 --> 01:08:24,700
+Then our grid center has
+
+1535
+01:08:24,700 --> 01:08:26,060
+When we analyze data
+
+1536
+01:08:26,060 --> 01:08:27,900
+Put data directly from the center of the grid
+
+1537
+01:08:27,900 --> 01:08:29,300
+extract
+
+1538
+01:08:29,300 --> 01:08:31,060
+then this part is
+
+1539
+01:08:31,060 --> 01:08:33,800
+Collaboration between many units in the hospital
+
+1540
+01:08:33,800 --> 01:08:35,100
+then we
+
+1541
+01:08:35,100 --> 01:08:36,800
+An earthquake is coming up from below
+
+1542
+01:08:36,800 --> 01:08:38,300
+You can see this signal below
+
+1543
+01:08:38,300 --> 01:08:40,500
+It's standing in a row, it's quite beautiful
+
+1544
+01:08:40,500 --> 01:08:43,300
+After reaching the fault, it was disturbed
+
+1545
+01:08:43,300 --> 01:08:45,100
+then you have surface reflection
+
+1546
+01:08:45,100 --> 01:08:46,300
+Then your batch comes in
+
+1547
+01:08:46,300 --> 01:08:48,500
+your signal
+
+1548
+01:08:48,500 --> 01:08:50,300
+The structure of each signal and formation
+
+1549
+01:08:50,300 --> 01:08:52,700
+Can simulate one by one
+
+1550
+01:08:52,700 --> 01:08:53,900
+for real
+
+1551
+01:08:53,900 --> 01:08:55,300
+don't do any analysis at all
+
+1552
+01:08:55,300 --> 01:08:57,600
+You can see where it says I'm close to the fault line
+
+1553
+01:08:57,600 --> 01:08:59,700
+The whole government is amplified
+
+1554
+01:09:00,000 --> 01:09:01,500
+remember what i just mentioned
+
+1555
+01:09:01,500 --> 01:09:04,000
+Cheung Chau flag shakes near fault
+
+1556
+01:09:04,000 --> 01:09:06,800
+In this example it is
+
+1557
+01:09:06,800 --> 01:09:08,500
+you don't move anything
+
+1558
+01:09:08,500 --> 01:09:11,300
+you actually see it is fault behavior
+
+1559
+01:09:11,300 --> 01:09:14,300
+it doesn't happen randomly either
+
+1560
+01:09:14,300 --> 01:09:17,300
+As long as your fault zone is certain
+
+1561
+01:09:17,300 --> 01:09:19,500
+The difference in material
+
+1562
+01:09:19,500 --> 01:09:21,500
+it produces a government amplification
+
+1563
+01:09:21,500 --> 01:09:22,400
+fault zone
+
+1564
+01:09:22,400 --> 01:09:23,800
+not very clear
+
+1565
+01:09:23,800 --> 01:09:25,300
+about 20 meters
+
+1566
+01:09:25,300 --> 01:09:28,100
+Then this is a fault zone only 20 meters
+
+1567
+01:09:28,100 --> 01:09:30,500
+So, if you take Jinxia earthquake today
+
+1568
+01:09:30,500 --> 01:09:32,100
+you'll miss it too
+
+1569
+01:09:32,100 --> 01:09:34,400
+because after you cross the fault zone
+
+1570
+01:09:34,400 --> 01:09:37,300
+It behaves exactly the same
+
+1571
+01:09:37,300 --> 01:09:40,400
+So you can only rely on this very high resolution
+
+1572
+01:09:40,400 --> 01:09:43,800
+Only then can you know if your long fingers have been magnified
+
+1573
+01:09:43,800 --> 01:09:46,300
+Did you really see the Yanpan signal?
+
+1574
+01:09:46,300 --> 01:09:48,200
+Going back to the beginning of the earthquake just mentioned
+
+1575
+01:09:48,200 --> 01:09:50,600
+0.01 seconds how long is it
+
+1576
+01:09:50,600 --> 01:09:53,500
+If you look at it from a shallower position
+
+1577
+01:09:53,500 --> 01:09:54,900
+it has been disturbed
+
+1578
+01:09:54,900 --> 01:09:56,000
+what you really want to see is
+
+1579
+01:09:56,100 --> 01:09:58,300
+You have to start looking at the Yanpan signal
+
+1580
+01:09:58,300 --> 01:10:00,200
+This is what we now want to continue to
+
+1581
+01:10:00,000 --> 01:10:03,840
+Inquiry, if I detect a magnitude 1, magnitude 2 earthquake
+
+1582
+01:10:03,840 --> 01:10:07,160
+Its initial signal that it is certain
+
+1583
+01:10:07,160 --> 01:10:09,480
+Hold on to the relationship on the road to explore
+
+1584
+01:10:11,260 --> 01:10:12,280
+that this
+
+1585
+01:10:12,280 --> 01:10:15,360
+Of course, there are many discussions about fault generations.
+
+1586
+01:10:15,360 --> 01:10:17,160
+For example say I am in my three months
+
+1587
+01:10:17,160 --> 01:10:20,480
+This fault generation was mentioned in the AGU seminar in the United States
+
+1588
+01:10:20,480 --> 01:10:22,780
+Then many people must want to say when did you see this fault generation
+
+1589
+01:10:22,780 --> 01:10:27,400
+The most important value of this job is that we can also gain
+
+1590
+01:10:27,860 --> 01:10:31,760
+This word heart is just a double stare after I take it in.
+
+1591
+01:10:31,760 --> 01:10:35,080
+I took out Yanxin and could see very fine fault mud
+
+1592
+01:10:35,080 --> 01:10:37,640
+Just mentioned that it's stuck all over the drill
+
+1593
+01:10:37,640 --> 01:10:41,480
+Our drill bits are actually very hard, even diamond bits
+
+1594
+01:10:41,480 --> 01:10:45,080
+But because this has been informed to Nano, there is a lot of water
+
+1595
+01:10:45,080 --> 01:10:47,880
+So when my drill goes in, the whole
+
+1596
+01:10:47,880 --> 01:10:52,480
+You just cover it all up so my drill bit can't move the hole at all
+
+1597
+01:10:52,480 --> 01:10:54,800
+So the whole technical thing
+
+1598
+01:10:55,400 --> 01:10:57,800
+It took about two months
+
+1599
+01:10:57,800 --> 01:10:59,960
+Then I also think our Taiwan team
+
+1600
+01:11:00,000 --> 01:11:02,640
+The engineering team is also very strong
+
+1601
+01:11:02,640 --> 01:11:06,140
+He also understands that our work is a scientific challenge
+
+1602
+01:11:06,140 --> 01:11:07,680
+so he is not in a hurry
+
+1603
+01:11:07,680 --> 01:11:09,740
+But he is also in a hurry
+
+1604
+01:11:09,740 --> 01:11:13,580
+Because they still have a lot of geothermal greed projects to implement
+
+1605
+01:11:13,580 --> 01:11:14,600
+he mentioned
+
+1606
+01:11:14,600 --> 01:11:16,380
+Mom, teacher, if you don't continue to specialize
+
+1607
+01:11:16,380 --> 01:11:19,200
+I'm about to be fined again for my civil service plan
+
+1608
+01:11:19,200 --> 01:11:20,480
+because I'm tired
+
+1609
+01:11:20,480 --> 01:11:23,540
+But thank you all for some support
+
+1610
+01:11:23,540 --> 01:11:25,860
+This is very important. It can be seen from the heart.
+
+1611
+01:11:25,860 --> 01:11:27,140
+Of course the words
+
+1612
+01:11:28,100 --> 01:11:31,500
+The same is that you can publish many top-level articles
+
+1613
+01:11:31,500 --> 01:11:33,540
+because the behavior of the entire fault zone
+
+1614
+01:11:33,540 --> 01:11:37,120
+It depends on these territorial studies
+
+1615
+01:11:37,120 --> 01:11:39,440
+Then these are some English students of my summer vacation
+
+1616
+01:11:39,440 --> 01:11:42,500
+This is Lai Xuanrong, he told me he would come today
+
+1617
+01:11:42,500 --> 01:11:43,780
+then during the summer vacation
+
+1618
+01:11:43,780 --> 01:11:46,600
+Let's look at some data from Taiwan for several months
+
+1619
+01:11:46,600 --> 01:11:47,880
+you can see the fault line
+
+1620
+01:11:47,880 --> 01:11:50,440
+Every earthquake he is a continuous amplification
+
+1621
+01:11:50,440 --> 01:11:51,720
+The location of this fault zone
+
+1622
+01:11:51,720 --> 01:11:53,500
+Then see Decay on the surface
+
+1623
+01:11:53,500 --> 01:11:56,060
+But the upper plate has a relatively large magnification
+
+1624
+01:11:57,040 --> 01:11:58,320
+It's Decay
+
+1625
+01:11:58,320 --> 01:12:00,100
+So at that time, I often said that you bought a house
+
+1626
+01:12:00,000 --> 01:12:02,000
+Be sure to buy the lower order, don't buy the upper order
+
+1627
+01:12:02,000 --> 01:12:03,680
+that of course means
+
+1628
+01:12:03,680 --> 01:12:05,680
+You need to know where your upper plate is and where your lower plate is
+
+1629
+01:12:05,680 --> 01:12:06,840
+that or
+
+1630
+01:12:06,840 --> 01:12:08,480
+But Taiwan has many faults
+
+1631
+01:12:08,480 --> 01:12:11,200
+So the footwall on your side may be the hanging wall of another fault.
+
+1632
+01:12:11,200 --> 01:12:14,800
+So the standard of the whole struggle is the real
+
+1633
+01:12:14,800 --> 01:12:16,080
+place to analyze
+
+1634
+01:12:16,080 --> 01:12:18,080
+But this is very important to understand
+
+1635
+01:12:18,080 --> 01:12:19,480
+then you fault
+
+1636
+01:12:19,480 --> 01:12:21,680
+When you get close, you see your whole government zoom in
+
+1637
+01:12:21,680 --> 01:12:22,760
+abnormally long
+
+1638
+01:12:22,760 --> 01:12:25,160
+But on the sidelines the whole thing changes
+
+1639
+01:12:25,160 --> 01:12:26,280
+So this is actually
+
+1640
+01:12:26,280 --> 01:12:28,880
+We are talking about this change in history
+
+1641
+01:12:29,040 --> 01:12:31,240
+That's as far as we mentioned back then
+
+1642
+01:12:31,240 --> 01:12:33,360
+A scale as small as this is 20 meters
+
+1643
+01:12:33,360 --> 01:12:35,360
+So of course small earthquakes we can see very clearly
+
+1644
+01:12:35,360 --> 01:12:39,040
+But the far positive signal comes in for a few seconds
+
+1645
+01:12:39,040 --> 01:12:42,920
+That is, my wave is already a signal of more than 10 seconds
+
+1646
+01:12:42,920 --> 01:12:44,360
+how can i still see it
+
+1647
+01:12:44,360 --> 01:12:45,760
+but we're far away
+
+1648
+01:12:45,760 --> 01:12:47,240
+still see it zoomed in
+
+1649
+01:12:47,240 --> 01:12:49,000
+That's the article we're writing right now
+
+1650
+01:12:49,000 --> 01:12:50,080
+just to explain
+
+1651
+01:12:50,080 --> 01:12:52,960
+The reason for this magnification is actually the material of the fault zone itself
+
+1652
+01:12:52,960 --> 01:12:54,520
+It's Lumps constant
+
+1653
+01:12:54,520 --> 01:12:56,560
+when changes occur
+
+1654
+01:12:56,560 --> 01:12:59,720
+It has some government amplification factors in it
+
+1655
+01:13:00,000 --> 01:13:02,000
+This part is very important to say
+
+1656
+01:13:02,560 --> 01:13:04,600
+We've been talking about earthquake induced
+
+1657
+01:13:04,600 --> 01:13:06,920
+I don't know if you guys mentioned it on the news
+
+1658
+01:13:06,920 --> 01:13:09,920
+After the Great East Japan Earthquake
+
+1659
+01:13:09,920 --> 01:13:11,680
+Earthquakes all over the world turned into gunpowder
+
+1660
+01:13:12,280 --> 01:13:15,560
+Also, after the Sumatra earthquake and tsunami in 2004
+
+1661
+01:13:15,560 --> 01:13:18,680
+Everyone has heard that earthquakes all over the world seem to turn into gunpowder
+
+1662
+01:13:18,680 --> 01:13:19,840
+The reporter asked
+
+1663
+01:13:19,840 --> 01:13:21,480
+Teacher Meng, do you think this is related?
+
+1664
+01:13:21,480 --> 01:13:23,400
+Let's say it's a different board
+
+1665
+01:13:23,400 --> 01:13:25,400
+But in fact, we actually feel in our hearts that
+
+1666
+01:13:25,400 --> 01:13:27,400
+Indeed its behavior is amplified
+
+1667
+01:13:27,880 --> 01:13:30,000
+That's why we haven't found the theory
+
+1668
+01:13:30,000 --> 01:13:31,280
+But when working with this
+
+1669
+01:13:31,280 --> 01:13:34,400
+I think it's a good inspiration to say
+
+1670
+01:13:34,680 --> 01:13:37,240
+So no matter how far the earthquake comes from
+
+1671
+01:13:37,240 --> 01:13:38,760
+if you have fault
+
+1672
+01:13:38,760 --> 01:13:40,760
+your strain will be magnified
+
+1673
+01:13:41,120 --> 01:13:41,920
+so what
+
+1674
+01:13:41,920 --> 01:13:44,920
+if your self faults itself
+
+1675
+01:13:44,920 --> 01:13:48,200
+It belongs to the critical academic situation
+
+1676
+01:13:48,200 --> 01:13:49,720
+you are easily induced
+
+1677
+01:13:50,000 --> 01:13:52,880
+So this is of course another article that I think can be developed
+
+1678
+01:13:52,880 --> 01:13:55,840
+That is, my fault zone is not just the near fault.
+
+1679
+01:13:55,960 --> 01:13:58,440
+Is far positive fault I will also be excited
+
+1680
+01:13:58,440 --> 01:13:59,960
+Actually how much is it
+
+1681
+01:14:00,000 --> 01:14:02,000
+So maybe it can explain
+
+1682
+01:14:02,000 --> 01:14:03,840
+Why the scale of the world
+
+1683
+01:14:03,840 --> 01:14:05,320
+More than eight large-scale earthquakes
+
+1684
+01:14:05,320 --> 01:14:07,680
+Seismic activity around the world has increased
+
+1685
+01:14:07,680 --> 01:14:09,040
+that means otherwise
+
+1686
+01:14:09,040 --> 01:14:11,160
+There are many faults in our Taiwan agent
+
+1687
+01:14:11,160 --> 01:14:12,800
+so i can put fiber
+
+1688
+01:14:12,800 --> 01:14:14,040
+can see some signals
+
+1689
+01:14:14,040 --> 01:14:15,240
+but to europe
+
+1690
+01:14:15,240 --> 01:14:16,760
+or to other countries
+
+1691
+01:14:16,760 --> 01:14:18,720
+Earthquakes are not as active as we are
+
+1692
+01:14:18,720 --> 01:14:19,920
+but they still need to know
+
+1693
+01:14:19,920 --> 01:14:21,520
+where is the fault
+
+1694
+01:14:21,520 --> 01:14:23,480
+If he puts the optical fiber
+
+1695
+01:14:23,480 --> 01:14:25,560
+He doesn't have to wait for the earthquake next to him
+
+1696
+01:14:25,560 --> 01:14:27,080
+Earthquakes around the world
+
+1697
+01:14:27,080 --> 01:14:28,240
+he has a chance
+
+1698
+01:14:28,280 --> 01:14:30,280
+Know where his fault is
+
+1699
+01:14:30,280 --> 01:14:31,840
+So this is what I think is a
+
+1700
+01:14:31,840 --> 01:14:33,600
+very important application
+
+1701
+01:14:34,480 --> 01:14:35,960
+That's Chunghwa Telecom
+
+1702
+01:14:35,960 --> 01:14:36,960
+Chunghwa Telecom's signal
+
+1703
+01:14:36,960 --> 01:14:38,400
+Of course not as beautiful as we thought
+
+1704
+01:14:38,400 --> 01:14:40,480
+because it is along
+
+1705
+01:14:40,480 --> 01:14:42,000
+The ditch goes like this
+
+1706
+01:14:42,000 --> 01:14:42,960
+but
+
+1707
+01:14:42,960 --> 01:14:45,120
+We've been doing analysis with them
+
+1708
+01:14:45,120 --> 01:14:46,240
+but you can see
+
+1709
+01:14:46,240 --> 01:14:49,160
+But our job is to see some
+
+1710
+01:14:49,160 --> 01:14:50,000
+enlarged
+
+1711
+01:14:50,000 --> 01:14:50,960
+Continuous zoom position
+
+1712
+01:14:50,960 --> 01:14:52,760
+This is actually the same as our wild
+
+1713
+01:14:52,760 --> 01:14:54,560
+The tomographic magnification position is the same
+
+1714
+01:14:54,560 --> 01:14:56,720
+So Chunghwa Telecom's signal
+
+1715
+01:14:56,720 --> 01:14:58,080
+Our future challenge is to
+
+1716
+01:14:58,080 --> 01:14:59,920
+how do i put him
+
+1717
+01:15:00,000 --> 01:15:02,000
+It works by applying the above
+
+1718
+01:15:02,000 --> 01:15:03,700
+business work
+
+1719
+01:15:03,700 --> 01:15:05,600
+applied to our science
+
+1720
+01:15:05,600 --> 01:15:07,500
+Then there are these reflections on the surface and so on.
+
+1721
+01:15:07,500 --> 01:15:09,400
+I think this might be too thin
+
+1722
+01:15:09,400 --> 01:15:10,800
+that real other job
+
+1723
+01:15:10,800 --> 01:15:12,700
+For example, how did my fault break?
+
+1724
+01:15:12,700 --> 01:15:14,400
+Like the March 22 earthquake
+
+1725
+01:15:14,400 --> 01:15:15,900
+I have a total of small earthquakes
+
+1726
+01:15:15,900 --> 01:15:19,500
+I can work out the mechanics of massive earthquakes
+
+1727
+01:15:19,500 --> 01:15:20,700
+this is what we do
+
+1728
+01:15:20,700 --> 01:15:22,400
+inside a fault
+
+1729
+01:15:22,400 --> 01:15:26,000
+This is the same from the bottom to the top
+
+1730
+01:15:26,000 --> 01:15:27,800
+i can every second
+
+1731
+01:15:27,800 --> 01:15:30,500
+I saw a patch
+
+1732
+01:15:30,500 --> 01:15:32,200
+That is to say, above the fault level
+
+1733
+01:15:32,200 --> 01:15:35,100
+it actually has several
+
+1734
+01:15:35,100 --> 01:15:36,700
+The so-called patch is composed of
+
+1735
+01:15:36,700 --> 01:15:37,800
+Then each patch
+
+1736
+01:15:37,800 --> 01:15:40,400
+There will be the possibility of the signal from Cheung Chau
+
+1737
+01:15:40,400 --> 01:15:42,000
+This is another scientific challenge
+
+1738
+01:15:42,000 --> 01:15:45,300
+It is because when we did the analysis in this area before
+
+1739
+01:15:45,300 --> 01:15:46,900
+They all use signals from Cheung Chau
+
+1740
+01:15:46,900 --> 01:15:49,800
+The previous signal took about 2 to 30 seconds
+
+1741
+01:15:49,800 --> 01:15:51,600
+2 to 30 seconds
+
+1742
+01:15:51,600 --> 01:15:52,700
+P-POS 6 kilometers per second
+
+1743
+01:15:52,700 --> 01:15:54,000
+Your resolution is 10 km
+
+1744
+01:15:54,000 --> 01:15:55,800
+so you'll see our fault line
+
+1745
+01:15:56,300 --> 01:15:58,500
+Calculation is very smooth
+
+1746
+01:15:58,500 --> 01:16:00,100
+with current mechanics
+
+1747
+01:16:00,000 --> 01:16:01,600
+With the signal of the present light now
+
+1748
+01:16:01,600 --> 01:16:03,160
+I'm up to 1000Hz to
+
+1749
+01:16:03,160 --> 01:16:06,260
+This is a direction signal at least 200Hz at 200Hz
+
+1750
+01:16:06,260 --> 01:16:09,100
+I can map every piece of every piece
+
+1751
+01:16:09,100 --> 01:16:11,600
+Then we are working with Captain now
+
+1752
+01:16:11,600 --> 01:16:13,500
+it's my mechanics
+
+1753
+01:16:13,500 --> 01:16:15,900
+how do i break from one piece to another
+
+1754
+01:16:15,900 --> 01:16:17,600
+after the earthquake
+
+1755
+01:16:17,600 --> 01:16:19,500
+Going back to how the earthquake happened
+
+1756
+01:16:19,500 --> 01:16:21,300
+its a cascadia act
+
+1757
+01:16:21,300 --> 01:16:24,700
+If it encounters a relatively large Stress
+
+1758
+01:16:24,700 --> 01:16:27,100
+It's about accumulating energy around here
+
+1759
+01:16:27,100 --> 01:16:30,500
+Then on a Patch I just mentioned
+
+1760
+01:16:30,500 --> 01:16:33,000
+It actually continues to break forward after accumulating energy.
+
+1761
+01:16:33,000 --> 01:16:34,600
+to what extent is it accumulating
+
+1762
+01:16:34,600 --> 01:16:35,700
+it will stop
+
+1763
+01:16:35,700 --> 01:16:38,800
+That's what I think the light is about.
+
+1764
+01:16:38,800 --> 01:16:40,800
+future available jobs
+
+1765
+01:16:40,800 --> 01:16:43,000
+But I'm talking on paper now
+
+1766
+01:16:43,000 --> 01:16:45,400
+All I can say right now is that I see the signal
+
+1767
+01:16:45,400 --> 01:16:47,100
+I'm thinking
+
+1768
+01:16:47,100 --> 01:16:48,900
+Inside the new Generation
+
+1769
+01:16:48,900 --> 01:16:50,600
+what can we do
+
+1770
+01:16:50,600 --> 01:16:52,700
+Then of course I hope I have a chance in the future
+
+1771
+01:16:52,700 --> 01:16:54,400
+verify my ideal
+
+1772
+01:16:54,400 --> 01:16:56,400
+Of course the same
+
+1773
+01:16:57,200 --> 01:16:59,100
+Earthquake early warning work
+
+1774
+01:16:59,100 --> 01:17:00,100
+its whole signal
+
+1775
+01:17:00,000 --> 01:17:02,200
+actually huge
+
+1776
+01:17:02,200 --> 01:17:05,000
+So it is absolutely necessary to use the technology of AI
+
+1777
+01:17:05,000 --> 01:17:07,500
+Because we have a way to wait until we take it one by one
+
+1778
+01:17:07,500 --> 01:17:11,000
+So how do I use whatever Visualization
+
+1779
+01:17:11,000 --> 01:17:15,000
+That is, I use images to directly respond to the strain
+
+1780
+01:17:15,000 --> 01:17:18,000
+Or when the documents come in, I will scan them first.
+
+1781
+01:17:18,000 --> 01:17:19,500
+Do training in this area
+
+1782
+01:17:19,500 --> 01:17:23,000
+This is our work combined with big data
+
+1783
+01:17:23,000 --> 01:17:27,000
+And how to analyze the coupling of the entire data, etc.
+
+1784
+01:17:27,000 --> 01:17:29,000
+It's all done step by step
+
+1785
+01:17:29,000 --> 01:17:32,000
+So I'm probably going the easy way today
+
+1786
+01:17:32,000 --> 01:17:35,000
+Let me introduce to you the coming of this light generation
+
+1787
+01:17:35,000 --> 01:17:39,000
+But I don't know if I really have the means to achieve my ideal
+
+1788
+01:17:39,000 --> 01:17:41,000
+But I think it's a start
+
+1789
+01:17:41,000 --> 01:17:44,000
+Then at least the key to this technology
+
+1790
+01:17:44,000 --> 01:17:47,000
+Work on current energy, green energy, etc.
+
+1791
+01:17:47,000 --> 01:17:50,000
+Initiative work can be produced
+
+1792
+01:17:50,000 --> 01:17:52,000
+Then our place is very beautiful
+
+1793
+01:17:52,000 --> 01:17:55,000
+Welcome to Qixingtan when you are free
+
+1794
+01:17:55,000 --> 01:17:59,000
+Then our place, I also hope that it will become a work of education.
+
+1795
+01:17:59,000 --> 01:18:00,000
+Then
+
+1796
+01:18:00,000 --> 01:18:02,300
+Today a seminar in Japan is held here
+
+1797
+01:18:02,300 --> 01:18:04,860
+We will also do these related discussions here
+
+1798
+01:18:04,860 --> 01:18:07,680
+I hope this is a start
+
+1799
+01:18:07,680 --> 01:18:11,260
+Then last week, I know that some units have already visited
+
+1800
+01:18:11,260 --> 01:18:13,060
+I want to know how they're going
+
+1801
+01:18:13,060 --> 01:18:15,880
+It is currently technically feasible
+
+1802
+01:18:15,880 --> 01:18:18,680
+I also hope to have more opportunities to share with you
+
+1803
+01:18:18,680 --> 01:18:19,200
+Thanks
+
+1804
+01:18:24,060 --> 01:18:27,400
+Okay, we are very grateful to Mr. Ma Guofeng for giving us
+
+1805
+01:18:27,400 --> 01:18:29,440
+such a brilliant speech
+
+1806
+01:18:29,640 --> 01:18:32,520
+Indeed, Qixingtan is a very beautiful place.
+
+1807
+01:18:32,520 --> 01:18:34,300
+If you have ever been
+
+1808
+01:18:35,080 --> 01:18:37,880
+then we start now
+
+1809
+01:18:37,880 --> 01:18:41,720
+Open to questions on site
+
+1810
+01:18:41,720 --> 01:18:44,280
+In particular, I want to announce that
+
+1811
+01:18:44,280 --> 01:18:47,880
+Top 10 Questions
+
+1812
+01:18:47,880 --> 01:18:49,400
+audience friends
+
+1813
+01:18:49,400 --> 01:18:53,000
+You can get a 9-pound flat souvenir
+
+1814
+01:18:53,000 --> 01:18:54,780
+here we are
+
+1815
+01:18:54,780 --> 01:18:56,580
+Secretariat staff will
+
+1816
+01:18:56,580 --> 01:18:58,360
+will be delivered to you
+
+1817
+01:18:58,360 --> 01:18:59,900
+ok so now everyone
+
+1818
+01:19:00,000 --> 01:19:04,500
+Raise your hand if you have any questions
+
+1819
+01:19:04,500 --> 01:19:07,700
+Then you have a microphone in front of your desk
+
+1820
+01:19:07,700 --> 01:19:11,960
+The problem with pressing the microphone down
+
+1821
+01:19:11,960 --> 01:19:13,760
+we can all hear
+
+1822
+01:19:13,760 --> 01:19:17,700
+ok sir please
+
+1823
+01:19:20,000 --> 01:19:21,500
+i have a lot of questions
+
+1824
+01:19:21,500 --> 01:19:23,000
+But first I ask two questions
+
+1825
+01:19:23,000 --> 01:19:25,500
+The first question is the fault just mentioned
+
+1826
+01:19:25,500 --> 01:19:28,500
+Our intuition in signaling
+
+1827
+01:19:28,500 --> 01:19:30,500
+basically a resonance
+
+1828
+01:19:30,500 --> 01:19:34,500
+It seems that there is no so-called resonance problem on the fault side.
+
+1829
+01:19:34,500 --> 01:19:35,700
+i don't know if
+
+1830
+01:19:35,700 --> 01:19:37,700
+but we have another problem
+
+1831
+01:19:37,700 --> 01:19:39,700
+Cascade just mentioned
+
+1832
+01:19:39,700 --> 01:19:44,000
+That is to say it has something of this wave that it reflects
+
+1833
+01:19:44,000 --> 01:19:46,200
+So there's an exposure wave and there's a reflection
+
+1834
+01:19:46,200 --> 01:19:48,000
+reflection in reflection
+
+1835
+01:19:48,000 --> 01:19:52,100
+So it could very well turn into a so-called positive backtracking
+
+1836
+01:19:52,100 --> 01:19:53,600
+Positivity of the feedback
+
+1837
+01:19:53,600 --> 01:19:56,000
+Make it taller than that Embed to
+
+1838
+01:19:56,000 --> 01:19:57,300
+I don't want it, right?
+
+1839
+01:19:57,300 --> 01:20:00,000
+But it is interesting to say that the fault
+
+1840
+01:20:00,000 --> 01:20:05,000
+This looks like its Mesh is that quality
+
+1841
+01:20:05,000 --> 01:20:09,000
+It seems like these problems are resonating with
+
+1842
+01:20:09,000 --> 01:20:11,000
+Or the NPU becomes larger
+
+1843
+01:20:11,000 --> 01:20:13,000
+It seems that it doesn't matter much
+
+1844
+01:20:13,000 --> 01:20:15,000
+But I'm curious, so let's find out
+
+1845
+01:20:15,000 --> 01:20:18,000
+The second question is that I ask first
+
+1846
+01:20:18,000 --> 01:20:20,000
+have a question about communication
+
+1847
+01:20:20,000 --> 01:20:23,000
+You only rely on Fiber or sending signals
+
+1848
+01:20:23,000 --> 01:20:26,000
+Does it look like it's still being used?
+
+1849
+01:20:26,000 --> 01:20:29,000
+Other communication systems are doing the dissemination
+
+1850
+01:20:29,000 --> 01:20:32,000
+because actually
+
+1851
+01:20:32,000 --> 01:20:34,000
+I happened to be in Dulan for the earthquake in Chishang
+
+1852
+01:20:34,000 --> 01:20:37,000
+I'm actually standing on a board
+
+1853
+01:20:37,000 --> 01:20:38,000
+i fell
+
+1854
+01:20:38,000 --> 01:20:40,000
+But we are not afraid of earthquakes
+
+1855
+01:20:40,000 --> 01:20:44,000
+Because there is a distance of 1 kilometer between the residents there
+
+1856
+01:20:44,000 --> 01:20:46,000
+so you just look at that
+
+1857
+01:20:46,000 --> 01:20:47,000
+Seems like it won't fall off
+
+1858
+01:20:47,000 --> 01:20:48,000
+you won't run
+
+1859
+01:20:48,000 --> 01:20:50,000
+i mean
+
+1860
+01:20:50,000 --> 01:20:52,000
+Fiber laid by Chunghwa Telecom
+
+1861
+01:20:52,000 --> 01:20:55,000
+It's actually on the East Coast on Coastal Highway 11
+
+1862
+01:20:55,000 --> 01:20:57,000
+It's actually pretty bad
+
+1863
+01:20:57,000 --> 01:21:00,000
+That is to say, the transmission rate
+
+1864
+01:21:00,000 --> 01:21:01,000
+is bad
+
+1865
+01:21:01,000 --> 01:21:02,600
+so you put Hualien
+
+1866
+01:21:02,600 --> 01:21:05,300
+I think Qixingtan may be a good location
+
+1867
+01:21:05,300 --> 01:21:07,000
+The question is how to manage it
+
+1868
+01:21:07,000 --> 01:21:10,100
+So I guess the part about the newsletter
+
+1869
+01:21:10,100 --> 01:21:11,800
+I want to ask here to compare
+
+1870
+01:21:11,800 --> 01:21:12,600
+Thanks
+
+1871
+01:21:12,600 --> 01:21:14,100
+ok i'll be the first to mention
+
+1872
+01:21:14,100 --> 01:21:17,200
+The incident wave you just mentioned
+
+1873
+01:21:17,200 --> 01:21:18,600
+reflection
+
+1874
+01:21:18,600 --> 01:21:20,600
+reflection is completely simulated by us
+
+1875
+01:21:20,600 --> 01:21:22,100
+So the three-dimensional vibration simulation just mentioned
+
+1876
+01:21:22,100 --> 01:21:23,000
+just doing
+
+1877
+01:21:23,000 --> 01:21:24,000
+So in terms of the fault zone
+
+1878
+01:21:24,000 --> 01:21:25,700
+is all our trip waves
+
+1879
+01:21:25,700 --> 01:21:28,200
+That is, I may have a signal in it
+
+1880
+01:21:28,200 --> 01:21:30,200
+Then of course it was previously thought
+
+1881
+01:21:30,200 --> 01:21:31,500
+Government Amplification of the Fault Zone
+
+1882
+01:21:31,500 --> 01:21:33,500
+May be caused by trip wave
+
+1883
+01:21:33,500 --> 01:21:35,200
+Then our current analyst sees that
+
+1884
+01:21:35,200 --> 01:21:37,600
+In fact, it is caused by the difference of materials
+
+1885
+01:21:37,600 --> 01:21:40,300
+Of course it may also appear as a trip wave
+
+1886
+01:21:40,300 --> 01:21:42,500
+just say our biggest key
+
+1887
+01:21:42,500 --> 01:21:44,000
+It's not just a trip wave
+
+1888
+01:21:44,000 --> 01:21:45,000
+this is one
+
+1889
+01:21:45,000 --> 01:21:46,500
+Then if you briefly mention
+
+1890
+01:21:46,500 --> 01:21:47,800
+the signal you just said
+
+1891
+01:21:47,800 --> 01:21:49,700
+it's two things
+
+1892
+01:21:49,700 --> 01:21:53,200
+We just use fiber optics as a tool
+
+1893
+01:21:53,200 --> 01:21:55,800
+The transmission of the signal depends on
+
+1894
+01:21:55,800 --> 01:21:57,300
+Wi-Fi
+
+1895
+01:21:57,300 --> 01:21:58,300
+or
+
+1896
+01:21:58,300 --> 01:22:00,100
+Of course, the two elders have just
+
+1897
+01:22:00,000 --> 01:22:02,000
+see it near you
+
+1898
+01:22:02,000 --> 01:22:03,400
+The data of our Proband
+
+1899
+01:22:03,400 --> 01:22:05,400
+some even rely on artificial satellites
+
+1900
+01:22:05,400 --> 01:22:07,400
+on various
+
+1901
+01:22:07,400 --> 01:22:10,900
+Then we just talked about Chunghwa Telecom's fiber
+
+1902
+01:22:10,900 --> 01:22:12,900
+Not all fibers can be used
+
+1903
+01:22:12,900 --> 01:22:15,900
+If you're that kind of Black Fiber
+
+1904
+01:22:15,900 --> 01:22:16,900
+In fact it still doesn't work
+
+1905
+01:22:16,900 --> 01:22:18,900
+So you have to go to fiber optic 5G
+
+1906
+01:22:18,900 --> 01:22:19,900
+part like this
+
+1907
+01:22:19,900 --> 01:22:22,400
+Therefore we now
+
+1908
+01:22:22,400 --> 01:22:24,400
+Chunghwa Telecom is in Midas
+
+1909
+01:22:24,400 --> 01:22:26,400
+fiber optics
+
+1910
+01:22:26,400 --> 01:22:27,900
+because I'm going to the depths
+
+1911
+01:22:27,900 --> 01:22:29,900
+I have to resist temperature and pressure
+
+1912
+01:22:29,900 --> 01:22:31,900
+So my fiber optic is actually
+
+1913
+01:22:31,900 --> 01:22:33,900
+Not affected by temperature and pressure at all
+
+1914
+01:22:33,900 --> 01:22:35,900
+then we just want to say
+
+1915
+01:22:35,900 --> 01:22:38,900
+If it is really going to be popularized
+
+1916
+01:22:38,900 --> 01:22:40,900
+We can't do it all by ourselves
+
+1917
+01:22:40,900 --> 01:22:42,900
+So we're going to use the commercial
+
+1918
+01:22:42,900 --> 01:22:44,900
+that commercial
+
+1919
+01:22:44,900 --> 01:22:46,900
+He can't do it for us
+
+1920
+01:22:46,900 --> 01:22:49,900
+So we have to strike a balance in the middle
+
+1921
+01:22:49,900 --> 01:22:51,900
+So his Maintain is completely
+
+1922
+01:22:51,900 --> 01:22:53,900
+commercial company
+
+1923
+01:22:53,900 --> 01:22:54,900
+Maintain themselves
+
+1924
+01:22:54,900 --> 01:22:56,900
+Our future cooperation of course
+
+1925
+01:22:56,900 --> 01:22:57,900
+hope is to say
+
+1926
+01:22:57,900 --> 01:22:58,900
+I know
+
+1927
+01:23:00,000 --> 01:23:02,000
+Two researchers in China and ancient and modern times
+
+1928
+01:23:02,000 --> 01:23:06,400
+They also have a relationship with Chunghwa Telecom in Taipei
+
+1929
+01:23:06,400 --> 01:23:09,400
+Because you know some of Chunghwa Telecom's grids
+
+1930
+01:23:09,400 --> 01:23:10,900
+Not every paragraph can be used
+
+1931
+01:23:10,900 --> 01:23:12,400
+because you must have a loop
+
+1932
+01:23:12,400 --> 01:23:15,400
+They first try a circuit for analysis
+
+1933
+01:23:15,400 --> 01:23:16,900
+it's the same
+
+1934
+01:23:16,900 --> 01:23:19,100
+Tell him about our negative life here
+
+1935
+01:23:19,100 --> 01:23:20,100
+very expensive
+
+1936
+01:23:20,100 --> 01:23:23,300
+They want 300,000 a month
+
+1937
+01:23:23,300 --> 01:23:24,500
+then we feel
+
+1938
+01:23:24,500 --> 01:23:26,100
+what am i going to try
+
+1939
+01:23:26,100 --> 01:23:27,900
+Can I try it for a week?
+
+1940
+01:23:27,900 --> 01:23:29,000
+don't try for a month
+
+1941
+01:23:29,000 --> 01:23:32,600
+But this is in a speculative stage
+
+1942
+01:23:32,600 --> 01:23:33,600
+So I just said
+
+1943
+01:23:33,600 --> 01:23:35,600
+These fibers on the East Coast
+
+1944
+01:23:35,600 --> 01:23:38,800
+Chunghwa These cables may not work yet
+
+1945
+01:23:38,800 --> 01:23:41,400
+but we're talking about the future
+
+1946
+01:23:41,400 --> 01:23:44,400
+Because the optical fiber in the future must be better and better
+
+1947
+01:23:44,400 --> 01:23:46,300
+Probably the simple answer is this
+
+1948
+01:23:46,300 --> 01:23:48,000
+Thanks
+
+1949
+01:23:48,000 --> 01:23:50,400
+Okay, thank you
+
+1950
+01:23:50,400 --> 01:23:51,700
+we'll follow
+
+1951
+01:23:51,700 --> 01:23:53,100
+ok that one is behind
+
+1952
+01:23:53,100 --> 01:23:54,300
+Okay, thank you
+
+1953
+01:24:00,000 --> 01:24:04,520
+Because it means 5.5 and above will have that
+
+1954
+01:24:04,520 --> 01:24:07,600
+Is that the transmission tube?
+
+1955
+01:24:07,600 --> 01:24:09,600
+It's an emergency signal.
+
+1956
+01:24:09,600 --> 01:24:12,440
+then again
+
+1957
+01:24:12,440 --> 01:24:14,440
+if you are in
+
+1958
+01:24:14,440 --> 01:24:17,040
+If it is located in Zhenyang
+
+1959
+01:24:17,040 --> 01:24:18,040
+you won't
+
+1960
+01:24:18,040 --> 01:24:20,540
+when you get the signal
+
+1961
+01:24:20,540 --> 01:24:22,040
+you already happened
+
+1962
+01:24:22,040 --> 01:24:24,040
+Does that mean that if
+
+1963
+01:24:24,040 --> 01:24:26,400
+feel an earthquake
+
+1964
+01:24:26,400 --> 01:24:28,400
+then heard the signal
+
+1965
+01:24:28,560 --> 01:24:30,560
+that means this
+
+1966
+01:24:30,560 --> 01:24:32,560
+I am facing this
+
+1967
+01:24:32,560 --> 01:24:34,560
+This earthquake will be severe
+
+1968
+01:24:34,560 --> 01:24:36,060
+Duality will also be more serious
+
+1969
+01:24:36,060 --> 01:24:37,060
+this means
+
+1970
+01:24:37,060 --> 01:24:39,060
+That's right.
+
+1971
+01:24:39,060 --> 01:24:39,560
+right
+
+1972
+01:24:39,560 --> 01:24:40,560
+but
+
+1973
+01:24:40,560 --> 01:24:43,060
+I must say that now we are doing
+
+1974
+01:24:43,060 --> 01:24:46,060
+The so-called method of earthquake prevention and disaster reduction is
+
+1975
+01:24:46,060 --> 01:24:47,060
+Just a little shock
+
+1976
+01:24:47,060 --> 01:24:49,060
+Nothing will happen to Xiao Zhen
+
+1977
+01:24:49,060 --> 01:24:50,060
+Moderate earthquake
+
+1978
+01:24:50,060 --> 01:24:53,060
+A moderate earthquake, a major earthquake, etc.
+
+1979
+01:24:53,060 --> 01:24:54,060
+such a concept
+
+1980
+01:24:54,060 --> 01:24:57,060
+is how we keep our defenses on cover
+
+1981
+01:24:57,060 --> 01:24:59,060
+Even if it is an earthquake resistance specification
+
+1982
+01:25:00,000 --> 01:25:02,960
+There is no way to meet such a large standard of resistance
+
+1983
+01:25:02,960 --> 01:25:04,340
+but it's slanted
+
+1984
+01:25:04,340 --> 01:25:06,120
+instead of whole crushed
+
+1985
+01:25:06,120 --> 01:25:08,640
+It's not like the whole building of the pseudo-officials fell down.
+
+1986
+01:25:08,640 --> 01:25:10,680
+The man has absolutely no hope of surviving.
+
+1987
+01:25:10,680 --> 01:25:12,000
+but
+
+1988
+01:25:12,000 --> 01:25:15,600
+It is impossible to make it infinitely superior to the earthquake resistance code
+
+1989
+01:25:15,600 --> 01:25:18,680
+So because it still has some cost considerations
+
+1990
+01:25:18,680 --> 01:25:21,640
+So it is indeed a means of earthquake early warning
+
+1991
+01:25:21,640 --> 01:25:26,080
+But it's not entirely possible to do all the work around
+
+1992
+01:25:26,080 --> 01:25:27,880
+Shock resistance is still important
+
+1993
+01:25:27,880 --> 01:25:28,920
+That's why I said
+
+1994
+01:25:29,040 --> 01:25:31,240
+We're talking to the Ministry of the Interior
+
+1995
+01:25:31,240 --> 01:25:34,440
+old house reconstruction etc.
+
+1996
+01:25:34,440 --> 01:25:36,640
+When I mentioned it to the Ministry of the Interior, I found out that
+
+1997
+01:25:36,640 --> 01:25:39,040
+Many units actually
+
+1998
+01:25:39,040 --> 01:25:42,280
+That is, they put about 3 billion yuan for earthquake resistance
+
+1999
+01:25:42,280 --> 01:25:44,200
+Earthquake resistance assessment but no one came to apply
+
+2000
+01:25:44,200 --> 01:25:46,440
+There is no one to apply for the reconstruction of the old house
+
+2001
+01:25:46,440 --> 01:25:50,120
+That of course starts with everyone's information
+
+2002
+01:25:50,120 --> 01:25:51,880
+They think that if I apply today,
+
+2003
+01:25:51,880 --> 01:25:53,680
+Am I not here without shadow three hundred taels?
+
+2004
+01:25:53,680 --> 01:25:55,280
+Say later that my house is not good
+
+2005
+01:25:55,280 --> 01:25:57,440
+That's the concept we're pushing
+
+2006
+01:25:57,440 --> 01:25:59,640
+Just like all of you here
+
+2007
+01:25:59,640 --> 01:26:00,000
+just say
+
+2008
+01:26:00,000 --> 01:26:04,600
+In fact, the disclosure of information allows everyone to do things more bravely
+
+2009
+01:26:04,600 --> 01:26:07,160
+Because when your information is not public
+
+2010
+01:26:07,160 --> 01:26:09,220
+you actually grow
+
+2011
+01:26:09,220 --> 01:26:11,260
+when it grows
+
+2012
+01:26:11,260 --> 01:26:14,080
+Everyone doesn't even know where it is
+
+2013
+01:26:14,080 --> 01:26:15,620
+so i can come up with a solution
+
+2014
+01:26:15,620 --> 01:26:17,660
+So I think the point now is to
+
+2015
+01:26:17,660 --> 01:26:21,000
+I face it when I can make it public
+
+2016
+01:26:21,000 --> 01:26:23,800
+then we can make it better
+
+2017
+01:26:23,800 --> 01:26:25,340
+that's what we're talking about risk management
+
+2018
+01:26:25,340 --> 01:26:26,620
+Thanks
+
+2019
+01:26:26,620 --> 01:26:28,920
+Okay, thank you
+
+2020
+01:26:29,680 --> 01:26:32,760
+ok let's see if there is any more
+
+2021
+01:26:32,760 --> 01:26:35,060
+this gentleman
+
+2022
+01:26:36,340 --> 01:26:38,140
+Hello Mr. Ma
+
+2023
+01:26:38,140 --> 01:26:43,000
+I know this plan is his from the 2018 earthquake
+
+2024
+01:26:43,000 --> 01:26:45,040
+start after the shock
+
+2025
+01:26:45,040 --> 01:26:46,840
+to explore
+
+2026
+01:26:46,840 --> 01:26:51,440
+In fact, speaking from the public's point of view, it means that everyone
+
+2027
+01:26:51,440 --> 01:26:55,540
+An earthquake in the southern part of Canada will be like destroying the city of Liujia
+
+2028
+01:26:55,540 --> 01:26:56,820
+Central axis structure
+
+2029
+01:26:56,820 --> 01:26:57,580
+this kind
+
+2030
+01:26:57,580 --> 01:27:00,140
+He will also be me in the next fifty years
+
+2031
+01:27:00,000 --> 01:27:02,000
+I refer to Mr. Ma's information
+
+2032
+01:27:02,000 --> 01:27:05,760
+His chances are very high
+
+2033
+01:27:05,760 --> 01:27:07,760
+Will you talk about this plan in the future?
+
+2034
+01:27:07,760 --> 01:27:11,260
+The faults that will be transferred to other places to make carbon bricks
+
+2035
+01:27:11,260 --> 01:27:14,260
+For example, put fiber optic bricks into the hexagonal fault
+
+2036
+01:27:14,260 --> 01:27:15,760
+Thanks
+
+2037
+01:27:15,760 --> 01:27:17,760
+I think so, but it's a big challenge
+
+2038
+01:27:17,760 --> 01:27:20,760
+When I published
+
+2039
+01:27:20,760 --> 01:27:22,760
+when i publish
+
+2040
+01:27:22,760 --> 01:27:23,960
+middle school teacher said
+
+2041
+01:27:23,960 --> 01:27:25,960
+Ma, when are you coming to Jiayi?
+
+2042
+01:27:25,960 --> 01:27:27,960
+this
+
+2043
+01:27:27,960 --> 01:27:29,960
+This Labr has a lot
+
+2044
+01:27:29,960 --> 01:27:31,960
+but it's really my idea
+
+2045
+01:27:31,960 --> 01:27:34,960
+Even we originally hoped to go to the Meishan fault
+
+2046
+01:27:34,960 --> 01:27:36,960
+Where is the Meishan fault?
+
+2047
+01:27:36,960 --> 01:27:38,960
+Actually it's still not clear where it is
+
+2048
+01:27:38,960 --> 01:27:40,960
+someone said
+
+2049
+01:27:40,960 --> 01:27:42,960
+Did it go into the mountain or not?
+
+2050
+01:27:42,960 --> 01:27:46,960
+The Tainan Earthquake of 1852 on the Hexagonal Fault
+
+2051
+01:27:46,960 --> 01:27:47,960
+It may be related to the hexagonal fault
+
+2052
+01:27:47,960 --> 01:27:48,960
+150 years now
+
+2053
+01:27:48,960 --> 01:27:50,960
+next to it is chinese reservoir
+
+2054
+01:27:50,960 --> 01:27:52,960
+so in fact it does
+
+2055
+01:27:52,960 --> 01:27:54,960
+this is a start
+
+2056
+01:27:54,960 --> 01:27:55,960
+we hope for the future
+
+2057
+01:27:55,960 --> 01:27:57,960
+don't even need us to show
+
+2058
+01:27:57,960 --> 01:27:59,960
+Using Chunghwa Telecom's signal
+
+2059
+01:28:00,000 --> 01:28:02,940
+way to understand where his fault might be
+
+2060
+01:28:02,940 --> 01:28:04,440
+but i have to buy the ambassador
+
+2061
+01:28:04,440 --> 01:28:06,140
+the ambassador itself is expensive
+
+2062
+01:28:06,140 --> 01:28:07,800
+Thank you for your support
+
+2063
+01:28:07,800 --> 01:28:10,140
+The ambassador wants 7 million to 10 million
+
+2064
+01:28:10,140 --> 01:28:11,600
+but it is potable
+
+2065
+01:28:11,600 --> 01:28:14,140
+That means I can spend two months here today
+
+2066
+01:28:14,140 --> 01:28:16,240
+Then go to another place for two months
+
+2067
+01:28:16,240 --> 01:28:18,340
+that this is now
+
+2068
+01:28:18,340 --> 01:28:19,700
+but we currently feel
+
+2069
+01:28:19,700 --> 01:28:23,100
+Because ambassadors are becoming more and more commercially competitive
+
+2070
+01:28:23,100 --> 01:28:25,300
+So the price goes down every year
+
+2071
+01:28:25,300 --> 01:28:27,300
+because everyone knows
+
+2072
+01:28:27,300 --> 01:28:30,300
+After it is very important, many manufacturers have begun to appear
+
+2073
+01:28:30,300 --> 01:28:32,200
+So maybe there's a chance in the future
+
+2074
+01:28:32,200 --> 01:28:33,860
+Can be more decoration
+
+2075
+01:28:33,860 --> 01:28:34,860
+Thanks
+
+2076
+01:28:36,200 --> 01:28:37,360
+Okay, thank you
+
+2077
+01:28:37,360 --> 01:28:40,400
+we have no other
+
+2078
+01:28:40,400 --> 01:28:41,200
+Casual good
+
+2079
+01:28:41,200 --> 01:28:42,400
+this one is behind
+
+2080
+01:28:42,400 --> 01:28:43,900
+please turn on the microphone
+
+2081
+01:28:47,400 --> 01:28:48,960
+Mr. Man, I have no problem.
+
+2082
+01:28:48,960 --> 01:28:51,660
+but i want to say thank you
+
+2083
+01:28:51,660 --> 01:28:52,860
+feel so hard
+
+2084
+01:28:52,860 --> 01:28:55,900
+I just stopped all the way feeling sad
+
+2085
+01:28:55,960 --> 01:28:56,960
+that is
+
+2086
+01:28:56,960 --> 01:28:58,160
+Thank you
+
+2087
+01:28:58,160 --> 01:28:59,960
+is what we do
+
+2088
+01:29:00,000 --> 01:29:02,000
+But I do have a doubt
+
+2089
+01:29:02,000 --> 01:29:05,000
+because we're an earthquake nation
+
+2090
+01:29:05,000 --> 01:29:09,000
+why are you doing this part of the research
+
+2091
+01:29:09,000 --> 01:29:12,000
+He is a great contribution to the country
+
+2092
+01:29:12,000 --> 01:29:15,000
+But why so little money
+
+2093
+01:29:15,000 --> 01:29:18,000
+I just feel sad the more I listen to it
+
+2094
+01:29:18,000 --> 01:29:20,000
+but i want to say
+
+2095
+01:29:20,000 --> 01:29:24,000
+say thank you
+
+2096
+01:29:24,000 --> 01:29:26,000
+Thank you
+
+2097
+01:29:26,000 --> 01:29:28,000
+Thank you for your recognition
+
+2098
+01:29:28,000 --> 01:29:30,000
+try to
+
+2099
+01:29:30,000 --> 01:29:31,000
+It's okay
+
+2100
+01:29:31,000 --> 01:29:33,000
+At least the hospital has supported us in this project
+
+2101
+01:29:33,000 --> 01:29:35,000
+The matter of large-scale earthquakes
+
+2102
+01:29:35,000 --> 01:29:38,000
+In fact, I have been talking for more than ten years
+
+2103
+01:29:38,000 --> 01:29:41,000
+At that time, the vice president just mentioned
+
+2104
+01:29:41,000 --> 01:29:42,000
+sort of telling a story
+
+2105
+01:29:42,000 --> 01:29:43,000
+But the vice president mentioned that
+
+2106
+01:29:43,000 --> 01:29:46,000
+I started TEM Taiwan Earthquake Past Life
+
+2107
+01:29:46,000 --> 01:29:47,000
+I'm actually in the hospital
+
+2108
+01:29:47,000 --> 01:29:48,000
+we will write a white paper
+
+2109
+01:29:48,000 --> 01:29:51,000
+At that time, Academician Liu Jiahan wrote a white paper
+
+2110
+01:29:51,000 --> 01:29:53,000
+You have to turn against the talent of engineering
+
+2111
+01:29:53,000 --> 01:29:54,000
+engineering say
+
+2112
+01:29:54,000 --> 01:29:55,000
+A certain teacher, you get out the money map
+
+2113
+01:29:55,000 --> 01:29:57,000
+No one dares to invest in Taiwan
+
+2114
+01:29:57,000 --> 01:29:59,000
+because the money is so high
+
+2115
+01:30:00,000 --> 01:30:02,240
+Then why do California and Japan have solutions?
+
+2116
+01:30:02,240 --> 01:30:04,920
+yes we don't hide the problem
+
+2117
+01:30:04,920 --> 01:30:07,720
+It's about what kind of situation we're facing
+
+2118
+01:30:07,720 --> 01:30:08,840
+The results of it
+
+2119
+01:30:08,840 --> 01:30:11,680
+The one really interested in that graph is TSMC
+
+2120
+01:30:11,680 --> 01:30:13,520
+So after the Tainan earthquake
+
+2121
+01:30:13,520 --> 01:30:15,120
+TSMC came to us and said
+
+2122
+01:30:15,120 --> 01:30:18,280
+Teacher Ma, I completely follow the government's regulations
+
+2123
+01:30:18,280 --> 01:30:21,840
+Why the Beauty Earthquake
+
+2124
+01:30:21,840 --> 01:30:24,360
+My plant has suffered so much damage
+
+2125
+01:30:24,360 --> 01:30:26,800
+He started asking us to do a series of calculations
+
+2126
+01:30:26,800 --> 01:30:28,560
+then to massive earthquakes
+
+2127
+01:30:28,560 --> 01:30:30,720
+Start working with the hospital
+
+2128
+01:30:30,720 --> 01:30:34,280
+So I think also those conversations are formative
+
+2129
+01:30:34,280 --> 01:30:36,040
+Then from a scientific point of view
+
+2130
+01:30:36,040 --> 01:30:38,560
+is when we are ready
+
+2131
+01:30:38,560 --> 01:30:40,640
+he can play when he can play
+
+2132
+01:30:40,640 --> 01:30:42,000
+Just like a tsunami
+
+2133
+01:30:42,000 --> 01:30:43,760
+My doctoral dissertation is doing tsunami
+
+2134
+01:30:43,760 --> 01:30:45,480
+My first plan is to do a tsunami in Taiwan
+
+2135
+01:30:45,480 --> 01:30:46,920
+At the time, the National Science and Technology Council of the Ministry of Science and Technology said
+
+2136
+01:30:46,920 --> 01:30:48,840
+There is no tsunami in Taiwan, why do you make a tsunami?
+
+2137
+01:30:48,840 --> 01:30:51,360
+After the Great Sumen Earthquake in 2004
+
+2138
+01:30:51,360 --> 01:30:52,520
+He said Mr. Ma, you can do the math
+
+2139
+01:30:52,520 --> 01:30:54,480
+Tsunami potential map for the whole of Taiwan
+
+2140
+01:30:54,480 --> 01:30:56,560
+Then it will be completed within three months
+
+2141
+01:30:56,680 --> 01:30:59,120
+Of course we must also do it well
+
+2142
+01:30:59,120 --> 01:31:00,000
+So I guess it's
+
+2143
+01:31:00,000 --> 01:31:01,800
+That's the science, we're ready
+
+2144
+01:31:01,800 --> 01:31:05,200
+When the country needs it, we want a chance to be seen
+
+2145
+01:31:07,700 --> 01:31:11,200
+Okay lady please turn on the microphone
+
+2146
+01:31:30,000 --> 01:31:32,000
+thanks thanks
+
+2147
+01:31:32,000 --> 01:31:36,000
+thank you thank you
+
+2148
+01:31:36,000 --> 01:31:40,000
+Thank you maybe in China hope you can accept
+
+2149
+01:31:41,000 --> 01:31:44,000
+ok lady please
+
+2150
+01:31:44,000 --> 01:31:49,000
+Hello, Mr. Mai, I would like to ask for advice, because I am studying architecture myself.
+
+2151
+01:31:49,000 --> 01:31:52,000
+I don't want to say this is from the National Earthquake Research Center
+
+2152
+01:31:52,000 --> 01:31:55,000
+Because in fact there is a that in Jingmei
+
+2153
+01:31:55,000 --> 01:32:00,000
+The earthquake of the one-to-one model The earthquake of the structure
+
+2154
+01:32:00,000 --> 01:32:01,540
+the demonstration center
+
+2155
+01:32:01,540 --> 01:32:03,840
+Then I also took students to see
+
+2156
+01:32:03,840 --> 01:32:06,540
+I want to say that the Construction Department of the Ministry of the Interior
+
+2157
+01:32:06,540 --> 01:32:07,940
+I don't know that there is cooperation with the teacher
+
+2158
+01:32:07,940 --> 01:32:10,600
+Because I think many people don’t know it’s because
+
+2159
+01:32:10,600 --> 01:32:11,840
+Say I buy a house
+
+2160
+01:32:11,840 --> 01:32:13,940
+Are there any fault zones near Arbor
+
+2161
+01:32:13,940 --> 01:32:15,640
+Then I'm breaking above and below
+
+2162
+01:32:15,640 --> 01:32:16,780
+Just the teacher mentioned
+
+2163
+01:32:16,780 --> 01:32:19,240
+what is his influence on my future
+
+2164
+01:32:19,240 --> 01:32:20,640
+Especially in Taipei
+
+2165
+01:32:20,640 --> 01:32:22,140
+In fact, the commentary we just watched
+
+2166
+01:32:22,140 --> 01:32:23,680
+Only then did I know that the spray ground has a kind of
+
+2167
+01:32:23,680 --> 01:32:26,380
+It is the effect of the microwave is returning
+
+2168
+01:32:26,380 --> 01:32:28,540
+In fact, near the 101
+
+2169
+01:32:28,540 --> 01:32:30,180
+There is also a fault zone
+
+2170
+01:32:30,180 --> 01:32:31,480
+so i've been talking to you
+
+2171
+01:32:31,480 --> 01:32:34,340
+For example, our sprayed ground is a mud station
+
+2172
+01:32:34,340 --> 01:32:35,340
+Silt formation
+
+2173
+01:32:35,340 --> 01:32:37,040
+and build a house on it
+
+2174
+01:32:37,040 --> 01:32:39,980
+The assumption is that this can be molded
+
+2175
+01:32:39,980 --> 01:32:41,880
+Is it possible that it's on the ACD's side?
+
+2176
+01:32:41,880 --> 01:32:43,680
+When the builder develops
+
+2177
+01:32:43,680 --> 01:32:46,080
+Just ask him to cooperate with this academic research
+
+2178
+01:32:46,080 --> 01:32:48,180
+He can buy an optical fiber to go down
+
+2179
+01:32:48,180 --> 01:32:50,180
+Well, in fact, the feedback information
+
+2180
+01:32:50,180 --> 01:32:51,640
+volume will be more
+
+2181
+01:32:51,640 --> 01:32:53,380
+This is my question above
+
+2182
+01:32:53,380 --> 01:32:54,180
+Thanks
+
+2183
+01:32:54,180 --> 01:32:55,340
+yes thank you
+
+2184
+01:32:55,340 --> 01:32:56,080
+I think so
+
+2185
+01:32:56,080 --> 01:32:57,940
+but in actuality
+
+2186
+01:32:57,940 --> 01:32:59,340
+been challenged a lot
+
+2187
+01:33:00,000 --> 01:33:02,760
+So I just mentioned that building codes actually
+
+2188
+01:33:02,760 --> 01:33:06,620
+Sometimes you may see some of my essays in the media
+
+2189
+01:33:06,620 --> 01:33:09,520
+They mentioned that this affects investment
+
+2190
+01:33:09,520 --> 01:33:11,340
+impact real estate
+
+2191
+01:33:11,340 --> 01:33:12,960
+At that time I remember when I wrote an article
+
+2192
+01:33:12,960 --> 01:33:15,620
+Tell me, Mr. Ma, you will affect real estate
+
+2193
+01:33:15,620 --> 01:33:18,940
+So I said affecting real estate is something I have to worry about?
+
+2194
+01:33:18,940 --> 01:33:20,360
+that's not my business
+
+2195
+01:33:20,360 --> 01:33:24,560
+OK, what I want to do is to tell everyone what happened
+
+2196
+01:33:24,560 --> 01:33:27,140
+So back to what we just said about the CSA
+
+2197
+01:33:27,140 --> 01:33:29,240
+or the National Earthquake Engineering Center
+
+2198
+01:33:29,240 --> 01:33:31,240
+Then we probably have a lot of conversations.
+
+2199
+01:33:31,240 --> 01:33:34,460
+So the National Electrotechnical Center it has the shakers now
+
+2200
+01:33:34,460 --> 01:33:36,340
+or Construction Department
+
+2201
+01:33:36,340 --> 01:33:38,980
+I just mentioned that earthquake-resistant reinforcements have started to be planned
+
+2202
+01:33:38,980 --> 01:33:42,940
+At that time, the vice president and I were committee members of some projects.
+
+2203
+01:33:42,940 --> 01:33:46,740
+It's the directors of the State Council, etc.
+
+2204
+01:33:46,740 --> 01:33:48,180
+we'll mention that
+
+2205
+01:33:48,180 --> 01:33:50,060
+how do you make information public
+
+2206
+01:33:50,060 --> 01:33:52,900
+or your seismic specification
+
+2207
+01:33:52,900 --> 01:33:55,840
+Why did you spend 3 billion for example on the Menon earthquake
+
+2208
+01:33:55,840 --> 01:33:58,180
+I spent 3 billion to tell everyone to apply.
+
+2209
+01:33:58,180 --> 01:34:00,200
+I can help you with free insights
+
+2210
+01:34:00,000 --> 01:34:01,400
+no one applied
+
+2211
+01:34:01,400 --> 01:34:03,560
+There must be something wrong with the dialogue
+
+2212
+01:34:03,560 --> 01:34:05,160
+then i think step by step
+
+2213
+01:34:05,160 --> 01:34:08,160
+The real ideal, of course I hope
+
+2214
+01:34:08,160 --> 01:34:10,260
+I'm working with another project
+
+2215
+01:34:10,260 --> 01:34:13,640
+That is, I hope to place instruments in each Builder
+
+2216
+01:34:13,640 --> 01:34:15,540
+So back to what was just mentioned
+
+2217
+01:34:15,540 --> 01:34:17,940
+If I want to use the Taipei Basin
+
+2218
+01:34:17,940 --> 01:34:19,640
+If all the signals are analyzed clearly
+
+2219
+01:34:19,640 --> 01:34:21,040
+If I am in every
+
+2220
+01:34:21,040 --> 01:34:23,040
+Seismographs are placed in every house
+
+2221
+01:34:23,040 --> 01:34:25,380
+The current price of the seismograph itself is actually
+
+2222
+01:34:25,380 --> 01:34:27,920
+Let me cooperate with Teacher Liang's team
+
+2223
+01:34:28,640 --> 01:34:30,440
+is very cheap
+
+2224
+01:34:30,440 --> 01:34:33,880
+So we can use smart things
+
+2225
+01:34:33,880 --> 01:34:36,980
+send the signal to the user
+
+2226
+01:34:36,980 --> 01:34:38,720
+that also builds my database
+
+2227
+01:34:38,720 --> 01:34:40,640
+As my database becomes clearer
+
+2228
+01:34:40,640 --> 01:34:44,180
+The faults in each place are enlarged and reduced
+
+2229
+01:34:44,180 --> 01:34:45,920
+It has a big data to do
+
+2230
+01:34:45,920 --> 01:34:48,680
+But what about building data
+
+2231
+01:34:48,680 --> 01:34:50,240
+no one wants to help you
+
+2232
+01:34:50,240 --> 01:34:51,680
+willing to disclose
+
+2233
+01:34:51,680 --> 01:34:53,420
+So we now put instruments on it
+
+2234
+01:34:53,420 --> 01:34:54,160
+but that's
+
+2235
+01:34:54,160 --> 01:34:54,980
+I can let you swing
+
+2236
+01:34:54,980 --> 01:34:56,740
+but you can't make it public
+
+2237
+01:34:56,740 --> 01:34:57,960
+This is also understandable
+
+2238
+01:34:57,960 --> 01:34:59,460
+so we are now
+
+2239
+01:35:00,000 --> 01:35:01,460
+The other will be with the United States and Japan
+
+2240
+01:35:01,460 --> 01:35:03,060
+That is to say, we are going to write a white paper on
+
+2241
+01:35:03,060 --> 01:35:05,040
+because the whole world is in the same situation
+
+2242
+01:35:05,040 --> 01:35:07,840
+Then I know that the United States and Japan already have laws and regulations
+
+2243
+01:35:07,840 --> 01:35:11,140
+Your building is more or less new, you definitely need a seismograph
+
+2244
+01:35:11,140 --> 01:35:14,440
+But he didn't say to analyze the seismograph
+
+2245
+01:35:14,440 --> 01:35:15,640
+that's a challenge
+
+2246
+01:35:15,640 --> 01:35:19,040
+If you want to analyze it, you may not have to disclose it to everyone.
+
+2247
+01:35:19,040 --> 01:35:20,640
+OK so when we mentioned
+
+2248
+01:35:20,640 --> 01:35:23,340
+Then I'll be linked to earthquake insurance.
+
+2249
+01:35:23,340 --> 01:35:25,120
+if you have a pendulum
+
+2250
+01:35:25,120 --> 01:35:27,880
+Can you lower the earthquake insurance, etc.
+
+2251
+01:35:27,880 --> 01:35:31,160
+Therefore, many ideals and legal aspects are carried out.
+
+2252
+01:35:31,160 --> 01:35:32,480
+I also learned a lot
+
+2253
+01:35:32,480 --> 01:35:35,520
+But scientifically, I think it can be done
+
+2254
+01:35:35,520 --> 01:35:38,960
+Then the only way we can talk now is through the public sector
+
+2255
+01:35:38,960 --> 01:35:41,280
+If he is willing to help us
+
+2256
+01:35:41,280 --> 01:35:42,360
+like this thank you
+
+2257
+01:35:44,220 --> 01:35:45,480
+ok, this one is at the end
+
+2258
+01:35:45,480 --> 01:35:46,960
+our last question
+
+2259
+01:35:46,960 --> 01:35:49,320
+Hello, Mr. Ma, I am here today because of the famous name.
+
+2260
+01:35:49,320 --> 01:35:51,560
+then your speech was really wonderful
+
+2261
+01:35:51,560 --> 01:35:53,360
+Although I am a layman in earthquakes
+
+2262
+01:35:53,360 --> 01:35:55,460
+But it's also delicious
+
+2263
+01:35:55,460 --> 01:35:56,820
+Then I have a question about
+
+2264
+01:35:56,820 --> 01:36:00,120
+Muming just talked about the glamorous generation. This technology is not only
+
+2265
+01:36:00,000 --> 01:36:02,360
+can be used to understand faults in Taiwan
+
+2266
+01:36:02,360 --> 01:36:05,200
+It can also be used for forward-looking energy planning now
+
+2267
+01:36:05,200 --> 01:36:09,300
+Technological breakthroughs in geothermal and carbon sequestration
+
+2268
+01:36:09,300 --> 01:36:10,500
+you can specifically say
+
+2269
+01:36:10,500 --> 01:36:12,800
+This kind of light is inside the ground
+
+2270
+01:36:12,800 --> 01:36:14,400
+How can we help us break through
+
+2271
+01:36:14,400 --> 01:36:16,360
+Now look forward to these energy
+
+2272
+01:36:16,360 --> 01:36:18,240
+Used to go in and stop the geothermal
+
+2273
+01:36:18,240 --> 01:36:20,240
+Then I think this pit is really big
+
+2274
+01:36:20,240 --> 01:36:21,960
+there are many problems to be solved
+
+2275
+01:36:21,960 --> 01:36:24,060
+Then can you be more specific?
+
+2276
+01:36:24,060 --> 01:36:26,100
+How can this thing help this
+
+2277
+01:36:26,100 --> 01:36:27,640
+Underground exploration
+
+2278
+01:36:27,640 --> 01:36:28,840
+ok yes thank you
+
+2279
+01:36:29,440 --> 01:36:30,940
+I just mentioned Dust
+
+2280
+01:36:30,940 --> 01:36:32,700
+In fact, when we put the light in
+
+2281
+01:36:32,700 --> 01:36:34,440
+You can also measure the temperature directly
+
+2282
+01:36:34,440 --> 01:36:37,440
+So now of course I just said it was Dust's instrument
+
+2283
+01:36:37,440 --> 01:36:38,740
+I still have a DTS instrument now
+
+2284
+01:36:38,740 --> 01:36:41,300
+I can directly measure how the temperature changes
+
+2285
+01:36:41,300 --> 01:36:43,140
+Then my job now is to see
+
+2286
+01:36:43,140 --> 01:36:46,800
+How temperature and water affect each other
+
+2287
+01:36:46,800 --> 01:36:49,440
+Then if the geothermal temperature
+
+2288
+01:36:49,440 --> 01:36:50,600
+but the important part
+
+2289
+01:36:50,600 --> 01:36:52,500
+Then if you are EGS
+
+2290
+01:36:52,500 --> 01:36:54,600
+That is, after you want to pour water down
+
+2291
+01:36:54,600 --> 01:36:55,700
+Bring the temperature up again
+
+2292
+01:36:55,700 --> 01:36:57,940
+You need to know how your water flows
+
+2293
+01:36:58,000 --> 01:36:59,500
+Although your light if
+
+2294
+01:36:59,500 --> 01:37:00,200
+because of you
+
+2295
+01:37:00,000 --> 01:37:01,740
+This company is only a receiver
+
+2296
+01:37:01,740 --> 01:37:04,860
+So what do you get from these receivers and the government size of his vibration
+
+2297
+01:37:04,860 --> 01:37:08,460
+You can't comment on how big the water flow is
+
+2298
+01:37:08,460 --> 01:37:10,620
+and what is his direction
+
+2299
+01:37:10,620 --> 01:37:13,920
+It is specific to the direction of his entire SCPG
+
+2300
+01:37:13,920 --> 01:37:14,980
+direction of water flow
+
+2301
+01:37:14,980 --> 01:37:16,380
+But it's ideal
+
+2302
+01:37:16,380 --> 01:37:19,660
+This is to say that his possible application of the above work
+
+2303
+01:37:19,660 --> 01:37:22,700
+If it is carbon dioxide madness
+
+2304
+01:37:22,700 --> 01:37:25,580
+But now the situation is that he may have another earthquake
+
+2305
+01:37:25,580 --> 01:37:28,920
+Previously, the Environmental Protection Agency was mentioning these tasks
+
+2306
+01:37:29,680 --> 01:37:31,600
+If I want to know that there will be another earthquake today
+
+2307
+01:37:31,600 --> 01:37:33,360
+How old will he be?
+
+2308
+01:37:33,360 --> 01:37:35,800
+I can actually get in with a fiber optic signal
+
+2309
+01:37:35,800 --> 01:37:37,800
+I do realtime monitoring
+
+2310
+01:37:37,800 --> 01:37:39,360
+I only want
+
+2311
+01:37:39,360 --> 01:37:44,280
+Because of the crazy storage of carbon dioxide, it must be pressurized into my neck.
+
+2312
+01:37:44,280 --> 01:37:45,920
+Because when I'm under pressure
+
+2313
+01:37:45,920 --> 01:37:47,920
+possible recurrent cracks
+
+2314
+01:37:47,920 --> 01:37:49,820
+So I made the crack from again
+
+2315
+01:37:49,820 --> 01:37:52,640
+I can figure out what the size of this earthquake is
+
+2316
+01:37:52,640 --> 01:37:54,520
+so i can know right away
+
+2317
+01:37:54,520 --> 01:37:58,200
+If my earthquake reoccurs
+
+2318
+01:37:58,200 --> 01:38:00,040
+much more than before
+
+2319
+01:38:00,000 --> 01:38:03,560
+That is when the V value of the GRL increases
+
+2320
+01:38:03,560 --> 01:38:06,200
+I can give direct Shutdown signal
+
+2321
+01:38:06,200 --> 01:38:08,120
+So our current concept is red and green
+
+2322
+01:38:08,120 --> 01:38:09,620
+The concept of red, yellow and green lights
+
+2323
+01:38:09,620 --> 01:38:12,920
+Should be green light yellow light red light concept
+
+2324
+01:38:12,920 --> 01:38:15,820
+that's if you've been pressurizing today
+
+2325
+01:38:15,820 --> 01:38:17,720
+Your seismic activity is not particularly high
+
+2326
+01:38:17,720 --> 01:38:19,320
+Because Real Time has been on Monitor
+
+2327
+01:38:19,320 --> 01:38:22,320
+So the rep said you can keep doing carbon dioxide sequestration
+
+2328
+01:38:22,320 --> 01:38:25,000
+But when you get stressed enough
+
+2329
+01:38:25,000 --> 01:38:27,800
+Your little earthquake signal is getting more and more
+
+2330
+01:38:28,000 --> 01:38:30,920
+The representative said that your earthquake has been disturbed by you
+
+2331
+01:38:30,920 --> 01:38:33,260
+you may want to stress lower
+
+2332
+01:38:33,260 --> 01:38:34,420
+reduce the pressure to a certain extent
+
+2333
+01:38:34,420 --> 01:38:36,020
+So that's the yellow light
+
+2334
+01:38:36,020 --> 01:38:39,060
+Then if its scale jumps from 3 to 4
+
+2335
+01:38:39,060 --> 01:38:40,220
+Of course it is Shutdown
+
+2336
+01:38:40,220 --> 01:38:42,120
+It's you that turns into a red light
+
+2337
+01:38:42,120 --> 01:38:44,820
+That Shutdown does not mean that you will never be able to use it
+
+2338
+01:38:44,820 --> 01:38:46,720
+that's what we're talking about
+
+2339
+01:38:46,720 --> 01:38:50,500
+Like the Shutdown situation caused by the earthquake in Oklahoma
+
+2340
+01:38:50,500 --> 01:38:52,260
+We mean after you Shutdown
+
+2341
+01:38:52,260 --> 01:38:54,320
+How long can you recover
+
+2342
+01:38:54,320 --> 01:38:57,720
+Well, this is my other idea, of course.
+
+2343
+01:38:57,720 --> 01:39:00,280
+For example, the scale of the earthquake is the scale
+
+2344
+01:39:00,000 --> 01:39:03,000
+Scale five it's probably up to magnitude five there might be some damage
+
+2345
+01:39:03,000 --> 01:39:05,600
+That can also incorporate the concept of earthquake insurance.
+
+2346
+01:39:05,600 --> 01:39:08,800
+Or the manufacturers of these energy sources
+
+2347
+01:39:08,800 --> 01:39:11,000
+It first places within a radius of 30 kilometers
+
+2348
+01:39:11,000 --> 01:39:14,600
+Generally speaking, the impact of Scale 4 and Scale 5 is within 30 kilometers
+
+2349
+01:39:14,600 --> 01:39:18,300
+The house is made of earthquake-resistant reinforcements to a standard earthquake intensity of five or more
+
+2350
+01:39:18,300 --> 01:39:21,100
+Then use earthquake insurance to solve the problem
+
+2351
+01:39:21,100 --> 01:39:24,500
+This is what I personally think these two
+
+2352
+01:39:24,500 --> 01:39:28,600
+Possible solutions for problems encountered in energy
+
+2353
+01:39:28,600 --> 01:39:30,600
+Just provide a reference, thank you
+
+2354
+01:39:30,600 --> 01:39:33,500
+Okay, thank you all, thank you, Mr. Ma
+
+2355
+01:39:33,500 --> 01:39:35,400
+because of today's time
+
+2356
+01:39:35,400 --> 01:39:38,200
+we're going to end today at 8:30
+
+2357
+01:39:38,200 --> 01:39:41,000
+Then we give warm applause again
+
+2358
+01:39:41,000 --> 01:39:43,500
+Thank you Mr. Ma for giving us today's
+
+2359
+01:39:43,500 --> 01:39:45,200
+short brilliant speech
+
+2360
+01:39:45,200 --> 01:39:47,200
+Thanks
+
+2361
+01:39:47,200 --> 01:39:49,400
+report to everyone
+
+2362
+01:39:49,400 --> 01:39:53,400
+our next lecture
+
+2363
+01:39:53,400 --> 01:39:57,400
+It is a commemorative lecture given by the former private dean
+
+2364
+01:39:57,400 --> 01:40:00,000
+This is co-organized with National Taiwan University
+
+2365
+01:40:00,000 --> 01:40:05,400
+So after the Chinese New Year on February 1st of this year in 112 years
+
+2366
+01:40:05,400 --> 01:40:10,400
+Wednesday, February 1st, 10:00 am to 11:30 am
+
+2367
+01:40:10,400 --> 01:40:16,200
+In the International Conference Hall of the National Taiwan University Campus
+
+2368
+01:40:16,200 --> 01:40:22,200
+We invited Zhen Yu and Academician from the Chinese Department of National Taiwan University
+
+2369
+01:40:22,200 --> 01:40:28,600
+The topic we are going to talk about is polysexuality and how to be modern
+
+2370
+01:40:28,600 --> 01:40:31,700
+The following explanation of this topic is
+
+2371
+01:40:31,700 --> 01:40:37,200
+Reflections on the Transformation of Chinese Characters in the Early 20th Century
+
+2372
+01:40:37,200 --> 01:40:40,400
+So it's a humanities lecture
+
+2373
+01:40:40,400 --> 01:40:45,500
+Thank you again for coming today
+
+2374
+01:40:45,500 --> 01:40:49,000
+Popular Science Lecture by Our Dean Cai Yuanpei
+
+2375
+01:40:49,000 --> 01:40:52,700
+Thank you again, Mr. Ma, for such a wonderful speech.
+
+2376
+01:40:52,700 --> 01:40:55,600
+so have a nice night everyone
+
+2377
+01:40:55,600 --> 01:40:56,400
+Thanks
+
+2378
+01:41:00,000 --> 01:41:24,680
+Thank you.
+

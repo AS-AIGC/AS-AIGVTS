@@ -1,0 +1,10499 @@
+1
+00:00:00,000 --> 00:00:02,000
+good night everyone
+
+2
+00:00:02,000 --> 00:00:04,000
+speech is about to start
+
+3
+00:00:04,000 --> 00:00:07,000
+Please set your phone to vibrate or elite
+
+4
+00:00:07,000 --> 00:00:09,000
+speech in progress
+
+5
+00:00:09,000 --> 00:00:11,000
+Do not take photos with flash
+
+6
+00:00:11,000 --> 00:00:13,000
+Thank you for your cooperation
+
+7
+00:00:21,000 --> 00:00:24,000
+Ladies and gentlemen, hello everyone
+
+8
+00:00:24,000 --> 00:00:28,000
+I am the deputy executive secretary of the Academic Advisory Council of Academia Sinica
+
+9
+00:00:28,000 --> 00:00:30,000
+My name is Li Chaohuang
+
+10
+00:00:30,000 --> 00:00:33,000
+So the poster was supposed to say
+
+11
+00:00:33,000 --> 00:00:36,000
+Today is hosted by Vice President Zhou Meiyin
+
+12
+00:00:36,000 --> 00:00:38,000
+But I'm sorry because the vice president
+
+13
+00:00:38,000 --> 00:00:40,000
+Temporarily have this overseas itinerary
+
+14
+00:00:40,000 --> 00:00:42,000
+there is no way to get back
+
+15
+00:00:42,000 --> 00:00:46,000
+So today I will help him host
+
+16
+00:00:46,000 --> 00:00:50,000
+Then if you become a fan of Vice President Zhou again
+
+17
+00:00:50,000 --> 00:00:52,000
+first say sorry
+
+18
+00:00:52,000 --> 00:00:55,000
+so thank you all very much tonight
+
+19
+00:00:55,000 --> 00:00:59,000
+Use this time after school to attend
+
+20
+00:00:59,000 --> 00:01:00,000
+our show
+
+21
+00:01:00,000 --> 00:01:02,000
+Feast of Knowledge held by the Hospital of Traditional Chinese Medicine
+
+22
+00:01:02,000 --> 00:01:06,000
+Well, we have held this event many times
+
+23
+00:01:06,000 --> 00:01:10,000
+Also accumulated a lot of interesting this
+
+24
+00:01:10,000 --> 00:01:12,000
+Some articles on popular science
+
+25
+00:01:12,000 --> 00:01:18,000
+Well, there are books outside our collection of articles from previous knowledge feasts
+
+26
+00:01:18,000 --> 00:01:21,000
+So if you are interested, you can also buy it
+
+27
+00:01:21,000 --> 00:01:26,000
+Well, what we are talking about today is actually quite a life-like technology.
+
+28
+00:01:26,000 --> 00:01:30,000
+Although it has a lot of basic research elements in it
+
+29
+00:01:30,000 --> 00:01:36,000
+But the title is a word I think everyone has heard of Thermoelectric Technology
+
+30
+00:01:36,000 --> 00:01:40,000
+That is simply how to convert heat into electricity
+
+31
+00:01:40,000 --> 00:01:43,000
+Because we know a lot of this energy
+
+32
+00:01:43,000 --> 00:01:47,000
+It's used then last because the efficiency is not 100%
+
+33
+00:01:47,000 --> 00:01:50,000
+So in the end it's all in the form of waste heat
+
+34
+00:01:50,000 --> 00:01:55,000
+into our rooms or into the atmosphere
+
+35
+00:01:55,000 --> 00:01:57,000
+or drain into the water
+
+36
+00:01:57,000 --> 00:02:00,000
+Then these heats are okay
+
+37
+00:02:00,000 --> 00:02:01,960
+energy used
+
+38
+00:02:01,960 --> 00:02:05,580
+But, the problem is that it's not easy to collect
+
+39
+00:02:05,580 --> 00:02:08,200
+because it's going to be like all kinds of
+
+40
+00:02:08,200 --> 00:02:12,580
+That is to say, from high temperature to low temperature to diverge
+
+41
+00:02:12,880 --> 00:02:15,640
+So the development of thermoelectric technology is in
+
+42
+00:02:15,640 --> 00:02:19,520
+How can we improve energy efficiency now
+
+43
+00:02:19,520 --> 00:02:22,400
+how to improve the earth
+
+44
+00:02:22,600 --> 00:02:25,900
+Energy consumption is a very, very
+
+45
+00:02:25,900 --> 00:02:27,900
+Issues in the spotlight
+
+46
+00:02:28,100 --> 00:02:31,700
+Then we are very honored to have this today
+
+47
+00:02:31,700 --> 00:02:35,180
+Our Institute of Atomic and Molecular Sciences, Academia Sinica
+
+48
+00:02:35,180 --> 00:02:38,780
+Director Chen Guixian is here to introduce this
+
+49
+00:02:38,780 --> 00:02:40,580
+very important technology
+
+50
+00:02:40,580 --> 00:02:44,060
+Then let me briefly introduce Director Chen Guixian
+
+51
+00:02:44,060 --> 00:02:47,460
+In fact, I've known him for probably over 20 years.
+
+52
+00:02:47,460 --> 00:02:48,720
+I don't know if there are 30 years
+
+53
+00:02:48,720 --> 00:02:50,720
+That's definitely over 20 years
+
+54
+00:02:50,720 --> 00:02:52,700
+Director Chen is
+
+55
+00:02:52,700 --> 00:02:54,260
+1981
+
+56
+00:02:54,260 --> 00:02:58,420
+Graduated from the Department of Electrical Engineering, National Taiwan University in 1970
+
+57
+00:02:58,420 --> 00:02:59,420
+That
+
+58
+00:03:00,000 --> 00:03:02,700
+The BA of the big TV drama should have started a business at that time
+
+59
+00:03:02,700 --> 00:03:06,500
+It's right to be a tech upstart
+
+60
+00:03:06,500 --> 00:03:10,000
+However, Director Chen, because of his interest in science
+
+61
+00:03:10,000 --> 00:03:12,500
+so he went to harvard
+
+62
+00:03:12,500 --> 00:03:16,000
+Then earned a Ph.D. in 1989
+
+63
+00:03:16,000 --> 00:03:18,500
+Then he did this
+
+64
+00:03:18,500 --> 00:03:22,000
+Doing this man-made diamond research at that singular company
+
+65
+00:03:22,000 --> 00:03:24,500
+Should be very promising
+
+66
+00:03:24,500 --> 00:03:27,000
+I don't know why he changed his career again
+
+67
+00:03:27,500 --> 00:03:31,500
+Director Chen is obviously quite persistent in academics
+
+68
+00:03:31,500 --> 00:03:35,500
+Then in 1993 he returned to China to serve
+
+69
+00:03:35,500 --> 00:03:39,500
+joined the Institute of Atomic and Molecular Sciences
+
+70
+00:03:39,500 --> 00:03:43,000
+The way from this research assistant to
+
+71
+00:03:43,000 --> 00:03:45,500
+Bitcoin researcher Na is also the director
+
+72
+00:03:45,500 --> 00:03:49,000
+So based on what I know of him
+
+73
+00:03:49,000 --> 00:03:52,000
+I think Director Chen is one
+
+74
+00:03:52,000 --> 00:03:55,000
+a scientist forever
+
+75
+00:03:55,000 --> 00:03:57,000
+because when i knew him
+
+76
+00:03:57,000 --> 00:03:59,000
+he is still very young
+
+77
+00:03:59,000 --> 00:04:00,000
+very dark hair
+
+78
+00:04:00,000 --> 00:04:03,160
+Since then we have seen
+
+79
+00:04:03,160 --> 00:04:06,160
+At that time we will call him Mr. Chen
+
+80
+00:04:06,160 --> 00:04:11,160
+He just has always been able to offer his unique perspective on a variety of issues
+
+81
+00:04:11,160 --> 00:04:14,660
+And keep producing this very creative
+
+82
+00:04:14,660 --> 00:04:18,160
+And there are groundbreaking research results
+
+83
+00:04:18,160 --> 00:04:21,160
+Then I think in an environment like Academia Sinica
+
+84
+00:04:21,160 --> 00:04:28,160
+It is a place that complements such good scientists
+
+85
+00:04:28,160 --> 00:04:30,160
+We see how good scientists grow
+
+86
+00:04:30,160 --> 00:04:32,160
+Then we see good scientists like this
+
+87
+00:04:32,160 --> 00:04:35,160
+Why did you go back and contribute to Academia Sinica?
+
+88
+00:04:35,160 --> 00:04:39,160
+Director Chen is a very, very successful example
+
+89
+00:04:39,160 --> 00:04:41,160
+OK, then I'll introduce it here
+
+90
+00:04:41,160 --> 00:04:44,160
+Then we will hand over the time to Mr. Chen Gui, the director
+
+91
+00:04:44,160 --> 00:04:46,160
+please applaud everyone thank you
+
+92
+00:04:49,160 --> 00:04:52,160
+ok thank you host for this
+
+93
+00:04:52,160 --> 00:04:55,160
+flatter me
+
+94
+00:04:55,160 --> 00:04:59,160
+i think everyone knows
+
+95
+00:05:00,000 --> 00:05:05,000
+He is special in several institutes
+
+96
+00:05:05,000 --> 00:05:09,000
+We have the original institute, the mathematics institute and the astronomy institute
+
+97
+00:05:09,000 --> 00:05:11,000
+It's on the campus of National Taiwan University
+
+98
+00:05:11,000 --> 00:05:16,000
+So this has
+
+99
+00:05:16,000 --> 00:05:20,000
+Although I often come back to the courtyard for meetings
+
+100
+00:05:20,000 --> 00:05:24,000
+But it's my first time to speak here
+
+101
+00:05:24,000 --> 00:05:28,000
+The one that the host didn't introduce just now
+
+102
+00:05:28,000 --> 00:05:34,000
+In addition to graduating from the Department of Electrical Engineering, I went to the United States to study
+
+103
+00:05:34,000 --> 00:05:37,000
+I think the more exciting part of life
+
+104
+00:05:37,000 --> 00:05:40,000
+It was the years when I came back
+
+105
+00:05:40,000 --> 00:05:43,000
+At that time, our Taiwan happened to be from that
+
+106
+00:05:43,000 --> 00:05:45,000
+at the time of national transition
+
+107
+00:05:45,000 --> 00:05:48,000
+There used to be only three TVs
+
+108
+00:05:48,000 --> 00:05:52,000
+Then there are only seven newspapers
+
+109
+00:05:52,000 --> 00:05:54,000
+no more
+
+110
+00:05:54,000 --> 00:06:00,000
+Then we have been going everywhere to demand that the party and government
+
+111
+00:06:00,000 --> 00:06:04,000
+have your own voice, your own what
+
+112
+00:06:04,000 --> 00:06:08,000
+Why was there a so-called underground radio station for a while?
+
+113
+00:06:08,000 --> 00:06:12,000
+get it up from the ground
+
+114
+00:06:12,000 --> 00:06:14,000
+There are several home appliances in Taiwan now
+
+115
+00:06:14,000 --> 00:06:16,000
+The radio station was founded by me
+
+116
+00:06:16,000 --> 00:06:20,000
+And then also in public television
+
+117
+00:06:20,000 --> 00:06:22,000
+Including Hakka TV
+
+118
+00:06:22,000 --> 00:06:24,000
+But this is all related to today's theme
+
+119
+00:06:24,000 --> 00:06:26,000
+Today's topic is
+
+120
+00:06:26,000 --> 00:06:32,000
+What I'm going to tell you today is thermoelectric technology
+
+121
+00:06:32,000 --> 00:06:36,000
+heat into electricity or electricity into heat
+
+122
+00:06:36,000 --> 00:06:38,000
+Turning electricity into heat is easy, right?
+
+123
+00:06:38,000 --> 00:06:40,000
+Let's pass the current through any light bulb
+
+124
+00:06:40,000 --> 00:06:42,000
+Cook it hot
+
+125
+00:06:42,000 --> 00:06:44,000
+But it turns electricity into heat
+
+126
+00:06:44,000 --> 00:06:48,000
+It can also convert electricity into energy
+
+127
+00:06:48,000 --> 00:06:50,000
+wait a minute i can introduce you
+
+128
+00:06:50,000 --> 00:06:52,000
+It's more difficult to get things down
+
+129
+00:06:52,000 --> 00:06:57,000
+English it is called
+
+130
+00:07:00,000 --> 00:07:03,800
+It's a direct flip with this thermoelectric
+
+131
+00:07:03,800 --> 00:07:05,920
+Then I want to tell you today
+
+132
+00:07:05,920 --> 00:07:07,960
+from some of its applications
+
+133
+00:07:07,960 --> 00:07:11,360
+it can be taken from the refrigerator at home
+
+134
+00:07:11,360 --> 00:07:14,320
+communication even to space
+
+135
+00:07:14,320 --> 00:07:18,920
+Some history of these past developments
+
+136
+00:07:18,920 --> 00:07:23,240
+the whole outline for today
+
+137
+00:07:23,240 --> 00:07:25,360
+right from the beginning of it
+
+138
+00:07:25,360 --> 00:07:26,560
+Motivation
+
+139
+00:07:26,560 --> 00:07:29,720
+how did it start
+
+140
+00:07:29,880 --> 00:07:32,480
+and then from its past development history
+
+141
+00:07:32,480 --> 00:07:35,280
+And then what we're going to bump into is to discuss
+
+142
+00:07:35,280 --> 00:07:39,240
+That is to say, what kind of difficulties did it encounter?
+
+143
+00:07:39,240 --> 00:07:41,080
+what chance
+
+144
+00:07:41,080 --> 00:07:42,880
+how to solve the difficulty
+
+145
+00:07:42,880 --> 00:07:44,760
+Everyone is still working hard
+
+146
+00:07:44,760 --> 00:07:46,880
+then to the conclusion
+
+147
+00:07:46,880 --> 00:07:51,160
+This was the beginning of everyone's idea
+
+148
+00:07:51,160 --> 00:07:52,600
+just want to say
+
+149
+00:07:52,600 --> 00:07:55,000
+we are in many
+
+150
+00:07:55,000 --> 00:07:58,480
+We are called ICE
+
+151
+00:07:58,480 --> 00:08:00,000
+internal combustion engine
+
+152
+00:08:00,000 --> 00:08:07,240
+After the Industrial Revolution, machines replaced ordinary animals or humans
+
+153
+00:08:08,520 --> 00:08:16,080
+The most important thing about the machine is that it never cares whether you are burning coal
+
+154
+00:08:16,600 --> 00:08:19,600
+Either burn oil or burn natural gas
+
+155
+00:08:20,320 --> 00:08:27,960
+You call these oil charcoal or Fast or Fuel
+
+156
+00:08:27,960 --> 00:08:35,200
+These fossils that we live under the ground
+
+157
+00:08:35,200 --> 00:08:38,200
+Fast or Fuel should be translated like this
+
+158
+00:08:39,200 --> 00:08:41,600
+You burn it to generate heat
+
+159
+00:08:41,600 --> 00:08:45,200
+Then after it is hot, it pushes the engine of the machine
+
+160
+00:08:45,200 --> 00:08:47,400
+But if you review it
+
+161
+00:08:47,400 --> 00:08:51,200
+You will find that a lot of heat is generated after you burn
+
+162
+00:08:51,200 --> 00:08:57,920
+But maybe only 25% 30% are actually used to do what you want to do
+
+163
+00:08:57,960 --> 00:09:00,120
+most of that
+
+164
+00:09:00,000 --> 00:09:04,000
+More than 60 percent of the heat in this part is wasted
+
+165
+00:09:04,000 --> 00:09:06,000
+It's hard for everyone to imagine
+
+166
+00:09:06,000 --> 00:09:09,000
+say you drive a car
+
+167
+00:09:09,000 --> 00:09:11,000
+or drive a motorcycle
+
+168
+00:09:11,000 --> 00:09:12,000
+Actually all the same
+
+169
+00:09:12,000 --> 00:09:14,000
+look at that car
+
+170
+00:09:14,000 --> 00:09:17,000
+car it doesn't just say
+
+171
+00:09:17,000 --> 00:09:20,000
+it moves it smokes
+
+172
+00:09:20,000 --> 00:09:24,000
+You need one more in your car
+
+173
+00:09:24,000 --> 00:09:26,000
+we call cooling water
+
+174
+00:09:26,000 --> 00:09:28,000
+our radiate
+
+175
+00:09:28,000 --> 00:09:30,000
+what is our chinese name
+
+176
+00:09:30,000 --> 00:09:32,000
+three
+
+177
+00:09:34,000 --> 00:09:36,000
+radiate is not
+
+178
+00:09:36,000 --> 00:09:37,000
+radiate is
+
+179
+00:09:37,000 --> 00:09:41,000
+We have a cooled front of the car
+
+180
+00:09:41,000 --> 00:09:43,000
+cooling
+
+181
+00:09:43,000 --> 00:09:45,000
+water fragrance
+
+182
+00:09:45,000 --> 00:09:47,000
+water fragrance is
+
+183
+00:09:47,000 --> 00:09:49,000
+Then why the perfume
+
+184
+00:09:49,000 --> 00:09:52,000
+it's your eyes that are too hot
+
+185
+00:09:52,000 --> 00:09:55,000
+so you have to cool it with water
+
+186
+00:09:55,000 --> 00:09:57,000
+since you are hot
+
+187
+00:09:57,000 --> 00:09:59,000
+why do you want to water it
+
+188
+00:09:59,000 --> 00:10:01,000
+cool it down drain it
+
+189
+00:10:00,000 --> 00:10:02,000
+isn't this a waste
+
+190
+00:10:02,000 --> 00:10:04,000
+In fact it means
+
+191
+00:10:04,000 --> 00:10:07,000
+After our gasoline goes to burn
+
+192
+00:10:07,000 --> 00:10:09,000
+Mostly more than 60%
+
+193
+00:10:09,000 --> 00:10:11,000
+is scattered
+
+194
+00:10:11,000 --> 00:10:14,000
+Only 30% of them help us work
+
+195
+00:10:14,000 --> 00:10:16,000
+the engine is running
+
+196
+00:10:16,000 --> 00:10:17,000
+so what
+
+197
+00:10:17,000 --> 00:10:20,000
+If we understand such a situation in the future
+
+198
+00:10:20,000 --> 00:10:21,000
+someone wants to say
+
+199
+00:10:21,000 --> 00:10:23,000
+Wow, this one is still 60% hot
+
+200
+00:10:23,000 --> 00:10:27,000
+let's make good use of it
+
+201
+00:10:27,000 --> 00:10:29,000
+then i remember when i was young
+
+202
+00:10:29,000 --> 00:10:31,000
+Sitting on the mountain in Nantou
+
+203
+00:10:31,000 --> 00:10:33,000
+they have that iron bullock cart
+
+204
+00:10:33,000 --> 00:10:35,000
+drive very slowly
+
+205
+00:10:35,000 --> 00:10:39,000
+Iron ox carts also burn oil
+
+206
+00:10:39,000 --> 00:10:41,000
+see you diesel or something
+
+207
+00:10:41,000 --> 00:10:44,000
+that water
+
+208
+00:10:44,000 --> 00:10:47,000
+Cool water burns hot
+
+209
+00:10:47,000 --> 00:10:49,000
+So people will be in the cooling water
+
+210
+00:10:49,000 --> 00:10:51,000
+put some eggs in there
+
+211
+00:10:51,000 --> 00:10:52,000
+then at noon
+
+212
+00:10:52,000 --> 00:10:54,000
+only eggs to eat
+
+213
+00:10:54,000 --> 00:10:55,000
+that might be a
+
+214
+00:10:55,000 --> 00:10:58,000
+Flying fish hot for reuse
+
+215
+00:11:00,000 --> 00:11:01,440
+After all, it is limited
+
+216
+00:11:01,440 --> 00:11:03,440
+Most of the heat is still dissipated
+
+217
+00:11:04,440 --> 00:11:05,240
+so what
+
+218
+00:11:06,000 --> 00:11:07,800
+Many people wanted to say
+
+219
+00:11:07,800 --> 00:11:11,040
+If I take this heat and find a way to recycle it
+
+220
+00:11:11,880 --> 00:11:12,480
+That
+
+221
+00:11:13,240 --> 00:11:14,840
+Suppose you are sixty percent
+
+222
+00:11:14,840 --> 00:11:17,280
+It would be nice if my efficiency was even 10 percent
+
+223
+00:11:17,280 --> 00:11:19,480
+Then I can recycle 6% back
+
+224
+00:11:19,920 --> 00:11:20,840
+that's a lot
+
+225
+00:11:21,720 --> 00:11:22,480
+so what
+
+226
+00:11:23,280 --> 00:11:24,360
+a lot of research
+
+227
+00:11:24,360 --> 00:11:25,840
+that's just right
+
+228
+00:11:25,840 --> 00:11:26,520
+thermoelectric
+
+229
+00:11:26,520 --> 00:11:27,440
+because it's hot
+
+230
+00:11:27,440 --> 00:11:28,000
+right
+
+231
+00:11:28,000 --> 00:11:30,440
+If this heat is converted into electricity
+
+232
+00:11:30,440 --> 00:11:31,680
+that would be perfect
+
+233
+00:11:32,400 --> 00:11:36,040
+So it's not really a new topic
+
+234
+00:11:36,040 --> 00:11:36,800
+for example
+
+235
+00:11:36,800 --> 00:11:38,600
+This German BMW
+
+236
+00:11:38,600 --> 00:11:39,800
+we are bmw
+
+237
+00:11:40,320 --> 00:11:41,680
+they used to do
+
+238
+00:11:41,680 --> 00:11:42,600
+that is
+
+239
+00:11:43,000 --> 00:11:45,600
+thermoelectric material
+
+240
+00:11:46,080 --> 00:11:48,120
+put it on the face of this engine
+
+241
+00:11:48,120 --> 00:11:49,640
+or that exhaust pipe
+
+242
+00:11:49,640 --> 00:11:50,600
+exhaust pipe is hot
+
+243
+00:11:50,920 --> 00:11:52,160
+look at that motorcycle
+
+244
+00:11:52,160 --> 00:11:53,640
+The exhaust pipes have to be covered.
+
+245
+00:11:53,640 --> 00:11:54,880
+you accidentally get burned
+
+246
+00:11:55,520 --> 00:11:57,200
+You take this thermoelectric material
+
+247
+00:11:57,200 --> 00:11:58,400
+stick it on
+
+248
+00:11:58,920 --> 00:11:59,760
+it's ok
+
+249
+00:12:00,000 --> 00:12:03,840
+Save about 5% to 10% on gasoline
+
+250
+00:12:04,600 --> 00:12:06,900
+General Motors GM of America
+
+251
+00:12:07,680 --> 00:12:11,020
+It also added a 350 watt thermoelectric system later
+
+252
+00:12:11,260 --> 00:12:12,280
+it found that
+
+253
+00:12:12,800 --> 00:12:16,900
+The mileage of this car can be increased by 3%-4%
+
+254
+00:12:17,660 --> 00:12:18,180
+That
+
+255
+00:12:18,680 --> 00:12:19,460
+Although
+
+256
+00:12:19,720 --> 00:12:24,060
+3%-4% or this saves 5%-10%
+
+257
+00:12:24,320 --> 00:12:25,340
+sounds small
+
+258
+00:12:25,860 --> 00:12:27,640
+But what if you say
+
+259
+00:12:28,360 --> 00:12:30,460
+This every car we
+
+260
+00:12:30,720 --> 00:12:34,560
+The world produces tens of millions of cars every year
+
+261
+00:12:35,060 --> 00:12:37,360
+Save this on every car
+
+262
+00:12:37,620 --> 00:12:38,900
+In fact, it is still very impressive
+
+263
+00:12:39,920 --> 00:12:40,440
+That
+
+264
+00:12:40,700 --> 00:12:44,800
+Then we have to ask why there is no such thing in the cars we buy today.
+
+265
+00:12:45,820 --> 00:12:46,580
+we will come
+
+266
+00:12:47,620 --> 00:12:48,640
+Let's discuss
+
+267
+00:12:49,400 --> 00:12:51,440
+That's because such a
+
+268
+00:12:51,700 --> 00:12:52,480
+this thought
+
+269
+00:12:53,240 --> 00:12:54,260
+we are at
+
+270
+00:12:54,520 --> 00:12:55,540
+2012
+
+271
+00:12:55,540 --> 00:12:59,640
+A hospital of traditional Chinese medicine started a called
+
+272
+00:13:00,000 --> 00:13:03,160
+Thermoelectric Research Program
+
+273
+00:13:03,160 --> 00:13:04,860
+what about this plan
+
+274
+00:13:04,860 --> 00:13:05,920
+from
+
+275
+00:13:05,920 --> 00:13:08,700
+Fate
+
+276
+00:13:08,700 --> 00:13:10,000
+and the Institute of Physics
+
+277
+00:13:10,000 --> 00:13:13,560
+Fate Institute, except that I am the general convener
+
+278
+00:13:13,560 --> 00:13:16,260
+Our current deputy chief Wei Jinming
+
+279
+00:13:16,260 --> 00:13:17,500
+turn out to be
+
+280
+00:13:17,500 --> 00:13:20,860
+This one is Vice President Zhou Meiyin
+
+281
+00:13:20,860 --> 00:13:22,660
+After becoming the vice president
+
+282
+00:13:22,660 --> 00:13:25,760
+I just want to say that I don't want to ask for a referee
+
+283
+00:13:25,760 --> 00:13:28,260
+So he hastened to give
+
+284
+00:13:28,420 --> 00:13:30,260
+a young
+
+285
+00:13:30,260 --> 00:13:31,420
+Wei Jinming
+
+286
+00:13:31,420 --> 00:13:33,220
+our current deputy chief
+
+287
+00:13:33,220 --> 00:13:34,420
+in the physics institute
+
+288
+00:13:34,420 --> 00:13:35,620
+have
+
+289
+00:13:35,620 --> 00:13:38,420
+Chen Yangyuan
+
+290
+00:13:38,420 --> 00:13:40,220
+Also former Deputy Chief
+
+291
+00:13:40,220 --> 00:13:41,220
+Dr. Chen Yangyuan
+
+292
+00:13:41,220 --> 00:13:43,220
+And Dr. Wu Maokun
+
+293
+00:13:43,220 --> 00:13:45,560
+Academician Wu Maokun
+
+294
+00:13:45,560 --> 00:13:49,060
+There is another one who is our Indian nationality
+
+295
+00:13:49,060 --> 00:13:50,900
+called Sankar
+
+296
+00:13:50,900 --> 00:13:52,020
+Infection
+
+297
+00:13:52,020 --> 00:13:53,300
+sorry
+
+298
+00:13:53,300 --> 00:13:55,220
+That
+
+299
+00:13:55,220 --> 00:13:56,920
+Speaking of
+
+300
+00:13:56,920 --> 00:13:59,920
+Dr. Chen Yangyuan, of course, everyone should
+
+301
+00:14:00,000 --> 00:14:04,000
+He's no stranger, he's more senior than me
+
+302
+00:14:04,000 --> 00:14:12,000
+About ten years ago, I started to do research on thermoelectricity
+
+303
+00:14:12,000 --> 00:14:15,000
+It's also because of him that I dare to say
+
+304
+00:14:15,000 --> 00:14:20,000
+Alright then let's get the House team together
+
+305
+00:14:20,000 --> 00:14:24,000
+Academician Wu Zhaokun, you don’t need my introduction
+
+306
+00:14:24,000 --> 00:14:29,000
+He became very famous because of these things in the Ministry of Education a while ago.
+
+307
+00:14:29,000 --> 00:14:34,000
+In fact he was before the Ministry of Education, he was actually more famous
+
+308
+00:14:34,000 --> 00:14:38,000
+Everyone knows this superconductor
+
+309
+00:14:38,000 --> 00:14:42,000
+We have a scientific community, we talk about high-temperature superconductivity
+
+310
+00:14:42,000 --> 00:14:48,000
+That is to say, the previous superconductivity had to reach almost this absolute zero.
+
+311
+00:14:48,000 --> 00:14:54,000
+Ten degrees below absolute zero will produce superconductivity anyway
+
+312
+00:14:54,000 --> 00:15:00,000
+Academician Wu Zhaokun and his teacher Zhu Jinwu
+
+313
+00:15:00,000 --> 00:15:05,000
+In the United States, Houston at that time
+
+314
+00:15:05,000 --> 00:15:09,000
+One material they discovered is called YBCO
+
+315
+00:15:09,000 --> 00:15:11,000
+four elements together
+
+316
+00:15:11,000 --> 00:15:20,000
+Then raise the temperature of this superconductor to an absolute temperature of 90 degrees
+
+317
+00:15:20,000 --> 00:15:23,000
+If I remember correctly, I just know
+
+318
+00:15:23,000 --> 00:15:28,000
+That temperature is higher than the temperature of liquid nitrogen
+
+319
+00:15:28,000 --> 00:15:32,000
+That was incredible, a very big breakthrough
+
+320
+00:15:32,000 --> 00:15:38,000
+Because in the laboratory, laying eggs is like drinking boiled water
+
+321
+00:15:38,000 --> 00:15:41,000
+That is to say, it is actually possible to obtain
+
+322
+00:15:41,000 --> 00:15:45,000
+Meaning you cool it below the temperature of a fetal egg
+
+323
+00:15:45,000 --> 00:15:50,000
+superconductivity can be achieved, and a lot of research can be done
+
+324
+00:15:50,000 --> 00:15:53,000
+Can save a lot of energy
+
+325
+00:15:53,000 --> 00:15:56,000
+So Wu Maohui Academy is his contribution
+
+326
+00:15:56,000 --> 00:16:00,000
+his understanding of the material
+
+327
+00:16:00,000 --> 00:16:07,000
+This experience provides a very important support for our team
+
+328
+00:16:07,000 --> 00:16:17,000
+In addition to this, Professor Zhou Fangzheng of National Taiwan University Lingtai Center is a Crystal Grower
+
+329
+00:16:17,000 --> 00:16:21,000
+Many thermoelectric materials rely on gold
+
+330
+00:16:21,000 --> 00:16:34,000
+Professor Zhang Zhiwei is very experienced in the analysis of a structure of Nimi and his heat conduction telecommunications
+
+331
+00:16:34,000 --> 00:16:43,000
+In the end, Xie Wenbin from the Institute of Earth Sciences started to be a thermal teacher and assistant researcher. He should have given birth recently, right?
+
+332
+00:16:43,000 --> 00:16:53,000
+He's been doing really well lately and he's really good at measuring heat conduction.
+
+333
+00:16:53,000 --> 00:17:00,000
+We formed such a team, of course except for this account
+
+334
+00:17:00,000 --> 00:17:04,000
+In fact, there are many involved behind the scenes
+
+335
+00:17:04,000 --> 00:17:07,000
+For example, Professor Lin Lixiong present here
+
+336
+00:17:07,000 --> 00:17:10,000
+Director of the Front Desk Da Ning Tai Center
+
+337
+00:17:10,000 --> 00:17:13,000
+also my other half
+
+338
+00:17:13,000 --> 00:17:17,000
+He's actually been involved in this project all along.
+
+339
+00:17:17,000 --> 00:17:20,000
+Just saying the name doesn't stand here
+
+340
+00:17:20,000 --> 00:17:23,000
+I often say
+
+341
+00:17:23,000 --> 00:17:26,000
+I myself was born to learn electrical engineering
+
+342
+00:17:26,000 --> 00:17:28,000
+So it is clearer about electricity
+
+343
+00:17:28,000 --> 00:17:31,000
+familiar with light
+
+344
+00:17:31,000 --> 00:17:34,000
+But when it comes to materials
+
+345
+00:17:34,000 --> 00:17:37,000
+When you come across the structure of this material
+
+346
+00:17:37,000 --> 00:17:38,000
+you put it up
+
+347
+00:17:38,000 --> 00:17:39,000
+you turn it
+
+348
+00:17:39,000 --> 00:17:41,000
+what is its symmetry
+
+349
+00:17:41,000 --> 00:17:42,000
+get this done
+
+350
+00:17:42,000 --> 00:17:44,000
+I usually just get dizzy
+
+351
+00:17:44,000 --> 00:17:48,000
+But luckily when I get sleepy
+
+352
+00:17:48,000 --> 00:17:49,000
+I give it to my wife
+
+353
+00:17:49,000 --> 00:17:51,000
+She can help me out soon
+
+354
+00:17:51,000 --> 00:17:53,000
+say how it should be
+
+355
+00:17:53,000 --> 00:17:56,000
+So although her name is not posted here
+
+356
+00:17:56,000 --> 00:18:00,000
+I especially acknowledge her
+
+357
+00:18:00,000 --> 00:18:19,000
+Okay, let's go back to what thermoelectricity is. Simply put, you have a heat, and then, in the process of heat dissipation, it will generate electricity at the same time.
+
+358
+00:18:19,500 --> 00:18:29,500
+As for this thing, about two hundred years ago, this Sebeck discovered such a phenomenon.
+
+359
+00:18:30,500 --> 00:18:48,500
+In fact, if you look at his original picture, he found that when he put a metal material through one end and heated it, the heat will flow to the other end.
+
+360
+00:18:49,000 --> 00:19:00,000
+At the same time, he found out that he put one, which is similar to a pointer, the pointer is here, and found that the pointer can move, and then felt very, very...
+
+361
+00:19:00,000 --> 00:19:01,120
+Very surprised
+
+362
+00:19:01,120 --> 00:19:02,800
+Then he thought
+
+363
+00:19:02,800 --> 00:19:06,800
+This magnetic field is caused by heat
+
+364
+00:19:06,800 --> 00:19:09,200
+creates a magnetic field
+
+365
+00:19:09,200 --> 00:19:12,800
+Not long after that it was confirmed that
+
+366
+00:19:12,800 --> 00:19:16,400
+In fact, his original idea was wrong.
+
+367
+00:19:16,400 --> 00:19:19,600
+It's because after the heat flow
+
+368
+00:19:19,600 --> 00:19:22,920
+He will also drive a current
+
+369
+00:19:22,920 --> 00:19:24,200
+We know this current
+
+370
+00:19:24,200 --> 00:19:27,000
+Electricity and magnetism are closely related
+
+371
+00:19:27,000 --> 00:19:28,200
+because of current
+
+372
+00:19:28,200 --> 00:19:33,400
+So the generated magnetic field deflects the pointer
+
+373
+00:19:33,400 --> 00:19:34,600
+so what
+
+374
+00:19:34,600 --> 00:19:38,800
+We call this thing C-Back Effect
+
+375
+00:19:38,800 --> 00:19:41,400
+discovered 200 years ago
+
+376
+00:19:41,400 --> 00:19:44,600
+Then such an Effect
+
+377
+00:19:44,600 --> 00:19:48,200
+In fact if you are a material
+
+378
+00:19:48,200 --> 00:19:49,000
+it can also
+
+379
+00:19:49,000 --> 00:19:51,200
+But why do we often draw two
+
+380
+00:19:51,200 --> 00:19:52,800
+We'll tell you later
+
+381
+00:19:52,800 --> 00:19:56,000
+Why do they usually come in pairs?
+
+382
+00:19:56,000 --> 00:19:58,000
+It will be more efficient
+
+383
+00:19:58,000 --> 00:20:00,000
+then say another
+
+384
+00:20:00,000 --> 00:20:04,000
+After the discovery of the thermoelectric effect
+
+385
+00:20:04,000 --> 00:20:06,000
+it's been ten years
+
+386
+00:20:06,000 --> 00:20:09,000
+Another French scientist named Patel
+
+387
+00:20:09,000 --> 00:20:11,000
+he found out
+
+388
+00:20:11,000 --> 00:20:14,000
+If I am in certain materials
+
+389
+00:20:14,000 --> 00:20:16,000
+After I turned it on
+
+390
+00:20:16,000 --> 00:20:17,000
+he found out
+
+391
+00:20:17,000 --> 00:20:20,000
+one end can get very hot
+
+392
+00:20:20,000 --> 00:20:21,000
+even
+
+393
+00:20:21,000 --> 00:20:24,000
+one end can get very cold
+
+394
+00:20:24,000 --> 00:20:26,000
+it's upside down
+
+395
+00:20:26,000 --> 00:20:28,000
+that is
+
+396
+00:20:28,000 --> 00:20:31,000
+Because of the cold temperature difference
+
+397
+00:20:31,000 --> 00:20:34,000
+T degree difference so generate electricity
+
+398
+00:20:34,000 --> 00:20:35,000
+what about here
+
+399
+00:20:35,000 --> 00:20:36,000
+he means
+
+400
+00:20:36,000 --> 00:20:38,000
+If I use current
+
+401
+00:20:38,000 --> 00:20:41,000
+Make a voltage to make it generate a current
+
+402
+00:20:41,000 --> 00:20:45,000
+One end of the material found to be hot
+
+403
+00:20:45,000 --> 00:20:48,000
+the other end will get cold
+
+404
+00:20:48,000 --> 00:20:50,000
+At first
+
+405
+00:20:50,000 --> 00:20:52,000
+these discoveries
+
+406
+00:20:52,000 --> 00:20:54,000
+caused a lot
+
+407
+00:20:54,000 --> 00:20:56,000
+everyone's attention
+
+408
+00:20:56,000 --> 00:20:58,000
+Research
+
+409
+00:20:58,000 --> 00:21:00,000
+So what about this thing?
+
+410
+00:21:00,000 --> 00:21:05,000
+In our general textbooks, there are
+
+411
+00:21:05,000 --> 00:21:12,000
+Wait until later this is called Tomson
+
+412
+00:21:12,000 --> 00:21:20,000
+This William Thompson he just came to know about it
+
+413
+00:21:20,000 --> 00:21:25,000
+In fact, these two things are two sides of the same coin.
+
+414
+00:21:25,000 --> 00:21:28,000
+It's the same thing upside down
+
+415
+00:21:29,000 --> 00:21:36,000
+I have T degrees of temperature and I can generate electricity
+
+416
+00:21:36,000 --> 00:21:39,000
+Upside down I push it back with electricity
+
+417
+00:21:39,000 --> 00:21:41,000
+Electricity pushes it back and I can generate heat
+
+418
+00:21:41,000 --> 00:21:44,000
+or a difference in temperature
+
+419
+00:21:44,000 --> 00:21:45,000
+is the same thing
+
+420
+00:21:45,000 --> 00:21:51,000
+It even takes the two coefficients
+
+421
+00:21:51,000 --> 00:21:55,000
+It is CBF and PADF
+
+422
+00:21:55,000 --> 00:21:57,000
+Association between two coefficients
+
+423
+00:21:57,000 --> 00:21:59,000
+express it mathematically
+
+424
+00:22:00,000 --> 00:22:03,280
+that is a very important contribution
+
+425
+00:22:03,600 --> 00:22:06,260
+Then this William Thompson
+
+426
+00:22:06,500 --> 00:22:09,740
+He was later dubbed the British
+
+427
+00:22:10,240 --> 00:22:11,780
+Lore Kevin
+
+428
+00:22:12,160 --> 00:22:15,820
+I'm curious about this
+
+429
+00:22:16,180 --> 00:22:18,500
+Strange, his name is Thompson
+
+430
+00:22:18,500 --> 00:22:20,100
+Then why is it called Kevin
+
+431
+00:22:20,440 --> 00:22:22,600
+Everyone knows Lore
+
+432
+00:22:22,700 --> 00:22:26,020
+In England they have this class of different nobility
+
+433
+00:22:26,160 --> 00:22:28,000
+some what sir
+
+434
+00:22:28,000 --> 00:22:31,020
+some monkey prince or something
+
+435
+00:22:31,020 --> 00:22:34,380
+Then he was named Lore Kevin
+
+436
+00:22:35,180 --> 00:22:38,100
+should have made a great contribution
+
+437
+00:22:38,100 --> 00:22:40,420
+Then why is it called Kevin
+
+438
+00:22:42,040 --> 00:22:45,440
+If I were Lore Thompson
+
+439
+00:22:45,440 --> 00:22:47,520
+Why Lore Kevin
+
+440
+00:22:49,320 --> 00:22:50,520
+In fact
+
+441
+00:22:50,760 --> 00:22:53,100
+I think his contribution
+
+442
+00:22:53,100 --> 00:22:55,200
+Another contribution is even greater
+
+443
+00:22:55,800 --> 00:22:58,800
+He pushed it down and said
+
+444
+00:22:58,800 --> 00:23:00,200
+have a temperature
+
+445
+00:23:00,000 --> 00:23:04,000
+called the absolute temperature absolute zero
+
+446
+00:23:04,000 --> 00:23:08,000
+Wow, this is actually today
+
+447
+00:23:08,000 --> 00:23:12,000
+It is not easy for ordinary guests to think about this
+
+448
+00:23:12,000 --> 00:23:16,000
+the idea we know
+
+449
+00:23:16,000 --> 00:23:20,000
+All objects have a certain temperature
+
+450
+00:23:20,000 --> 00:23:24,000
+Touch our heads, do you have a fever today?
+
+451
+00:23:24,000 --> 00:23:28,000
+Or this cold snap is coming, it's cold outside
+
+452
+00:23:28,000 --> 00:23:32,000
+Slowly humans figured out and said
+
+453
+00:23:32,000 --> 00:23:36,000
+With the concept of temperature, there can be heat
+
+454
+00:23:36,000 --> 00:23:40,000
+Right? Well, then what?
+
+455
+00:23:40,000 --> 00:23:44,000
+There is a scientist who should be from Denmark or Sweden
+
+456
+00:23:44,000 --> 00:23:48,000
+Called Selces
+
+457
+00:23:48,000 --> 00:23:52,000
+He put the water
+
+458
+00:23:52,000 --> 00:23:56,000
+The freezing temperature is the same as the boiling temperature of water
+
+459
+00:23:56,000 --> 00:24:00,000
+Eight hundred and one hundred grid
+
+460
+00:24:00,000 --> 00:24:04,000
+hundredths
+
+461
+00:24:00,000 --> 00:24:02,860
+that is our facility today
+
+462
+00:24:02,860 --> 00:24:04,100
+Facility temperature
+
+463
+00:24:04,100 --> 00:24:06,340
+I remember going to
+
+464
+00:24:06,340 --> 00:24:08,500
+when denmark
+
+465
+00:24:08,500 --> 00:24:09,620
+there is one
+
+466
+00:24:09,620 --> 00:24:11,820
+it was a museum
+
+467
+00:24:11,820 --> 00:24:14,420
+still in front of a train station
+
+468
+00:24:14,420 --> 00:24:17,660
+Huanong has a very large thermometer
+
+469
+00:24:17,660 --> 00:24:20,620
+Then there is DoC not DoF
+
+470
+00:24:20,620 --> 00:24:22,220
+that's why
+
+471
+00:24:22,220 --> 00:24:23,060
+he just wants
+
+472
+00:24:23,060 --> 00:24:24,220
+Xiu said you have a look
+
+473
+00:24:24,220 --> 00:24:26,820
+This Sales is someone from their country
+
+474
+00:24:26,820 --> 00:24:28,860
+That
+
+475
+00:24:29,180 --> 00:24:31,180
+Originally set the temperature
+
+476
+00:24:31,180 --> 00:24:34,580
+Use a few degrees C facility a few degrees
+
+477
+00:24:34,580 --> 00:24:38,260
+Then turn this temperature into 100 divisions
+
+478
+00:24:38,260 --> 00:24:42,180
+really full
+
+479
+00:24:42,180 --> 00:24:44,580
+Everyone is using it everyday
+
+480
+00:24:44,580 --> 00:24:45,380
+but
+
+481
+00:24:45,380 --> 00:24:47,020
+from that facility
+
+482
+00:24:47,020 --> 00:24:49,580
+to what we call absolute temperature
+
+483
+00:24:49,580 --> 00:24:52,700
+this is not easy
+
+484
+00:24:52,700 --> 00:24:53,820
+But it's not easy
+
+485
+00:24:53,820 --> 00:24:55,300
+that is
+
+486
+00:24:55,300 --> 00:24:57,460
+If we take a
+
+487
+00:25:00,000 --> 00:25:06,000
+material or even biological activity
+
+488
+00:25:06,000 --> 00:25:10,000
+I don't know that no one knew or understood him back then
+
+489
+00:25:10,000 --> 00:25:14,000
+When he got this Tomson
+
+490
+00:25:14,000 --> 00:25:20,000
+That is to say, you put a certain
+
+491
+00:25:22,000 --> 00:25:28,000
+Look at the vibration of atoms or what kind of
+
+492
+00:25:28,000 --> 00:25:34,000
+He transformed this activity into a coordinate with temperature
+
+493
+00:25:34,000 --> 00:25:36,000
+Then this activity becomes smaller and smaller
+
+494
+00:25:36,000 --> 00:25:42,000
+If you push to a certain activity when it is as small as 0
+
+495
+00:25:42,000 --> 00:25:48,000
+He found out that the temperature was -273.16 degrees
+
+496
+00:25:48,000 --> 00:25:52,000
+From that time onwards
+
+497
+00:25:52,000 --> 00:25:54,000
+There is a temperature called absolute zero
+
+498
+00:25:54,000 --> 00:25:58,000
+at that temperature
+
+499
+00:25:58,000 --> 00:26:00,000
+all things will stand still
+
+500
+00:26:00,000 --> 00:26:04,500
+All creatures are lifeless
+
+501
+00:26:04,500 --> 00:26:09,500
+All objects stop when they are at absolute latitude
+
+502
+00:26:09,500 --> 00:26:10,500
+OK
+
+503
+00:26:10,500 --> 00:26:12,500
+so from this
+
+504
+00:26:12,500 --> 00:26:15,500
+it got this calvin
+
+505
+00:26:15,500 --> 00:26:18,500
+is the absolute temperature
+
+506
+00:26:18,500 --> 00:26:23,500
+That's why it was knighted
+
+507
+00:26:23,500 --> 00:26:27,500
+Law, didn't I say Law is called Jazz?
+
+508
+00:26:28,000 --> 00:26:30,000
+It's a knighthood, okay?
+
+509
+00:26:30,000 --> 00:26:32,500
+this is really important
+
+510
+00:26:32,500 --> 00:26:37,000
+Although it is not directly related to today's hot spots
+
+511
+00:26:37,000 --> 00:26:40,500
+That absolute temperature
+
+512
+00:26:40,500 --> 00:26:42,500
+You seem to say fate
+
+513
+00:26:42,500 --> 00:26:45,000
+What about Fate, we have four groups
+
+514
+00:26:45,000 --> 00:26:48,000
+One of them is called AMO
+
+515
+00:26:48,000 --> 00:26:52,000
+Atomic Molecular and Optics
+
+516
+00:26:52,000 --> 00:26:54,000
+What about this group?
+
+517
+00:26:54,500 --> 00:26:58,000
+have a very special plan
+
+518
+00:26:58,000 --> 00:26:59,000
+that is
+
+519
+00:27:00,000 --> 00:27:04,740
+This atom or molecule, has been cooling energy
+
+520
+00:27:04,740 --> 00:27:05,800
+How cold can it be?
+
+521
+00:27:05,800 --> 00:27:09,940
+You said absolute temperature, absolute zero
+
+522
+00:27:09,940 --> 00:27:14,340
+In fact, no one has ever reached absolute zero.
+
+523
+00:27:14,340 --> 00:27:15,540
+it's hard
+
+524
+00:27:15,540 --> 00:27:23,160
+That's all right, then use various methods to cool it under liquid nitrogen
+
+525
+00:27:23,160 --> 00:27:26,660
+liquid liquid nitrogen, and even colder, liquid hydrogen
+
+526
+00:27:26,660 --> 00:27:30,620
+not enough, colder, liquid helium
+
+527
+00:27:30,620 --> 00:27:33,060
+Liquid helium depends on which kind of helium
+
+528
+00:27:33,060 --> 00:27:37,860
+It's two or three degrees below absolute temperature
+
+529
+00:27:37,860 --> 00:27:41,000
+ok , not cold enough
+
+530
+00:27:41,000 --> 00:27:46,000
+There is a Nobel laureate named Zhu Liwen
+
+531
+00:27:46,000 --> 00:27:49,360
+He just uses a laser
+
+532
+00:27:49,360 --> 00:27:55,200
+Take this atomic molecule and make it move smaller and smaller
+
+533
+00:27:55,200 --> 00:27:58,000
+then reached a few
+
+534
+00:27:58,000 --> 00:27:59,640
+Our name is Milly Kevin
+
+535
+00:28:00,000 --> 00:28:03,020
+minus 3 degrees absolute temperature
+
+536
+00:28:03,020 --> 00:28:05,580
+wow smaller
+
+537
+00:28:05,580 --> 00:28:08,360
+But actually that is not enough
+
+538
+00:28:08,740 --> 00:28:11,820
+early in science
+
+539
+00:28:12,860 --> 00:28:16,060
+Derivation There is a thing called Bose Einstein
+
+540
+00:28:16,060 --> 00:28:18,660
+Condensation Einstein
+
+541
+00:28:18,660 --> 00:28:21,560
+everyone knows
+
+542
+00:28:21,560 --> 00:28:24,800
+Another one is from India
+
+543
+00:28:24,920 --> 00:28:27,900
+Scientists call Bose VOSE
+
+544
+00:28:28,500 --> 00:28:31,000
+They theoretically deduce that
+
+545
+00:28:31,000 --> 00:28:33,460
+you take this substance
+
+546
+00:28:33,460 --> 00:28:35,800
+to a certain extent
+
+547
+00:28:35,800 --> 00:28:38,300
+it becomes another state
+
+548
+00:28:38,300 --> 00:28:40,000
+we just know
+
+549
+00:28:40,000 --> 00:28:43,000
+A substance is either a gas or a liquid
+
+550
+00:28:43,000 --> 00:28:44,800
+otherwise solid state
+
+551
+00:28:45,100 --> 00:28:46,400
+but he said no
+
+552
+00:28:46,700 --> 00:28:50,100
+At that point it was called Bose Einstein
+
+553
+00:28:50,100 --> 00:28:53,100
+The Condensation is another completely
+
+554
+00:28:54,440 --> 00:28:56,800
+status no one has seen
+
+555
+00:28:56,800 --> 00:28:57,900
+Theoretical derivation
+
+556
+00:29:00,000 --> 00:29:03,000
+Seventy or eighty years later
+
+557
+00:29:03,000 --> 00:29:07,000
+It was proved experimentally that
+
+558
+00:29:07,000 --> 00:29:10,000
+really called BEC
+
+559
+00:29:10,000 --> 00:29:14,000
+This Bose Einstein Matter Exists
+
+560
+00:29:14,000 --> 00:29:18,000
+that's a hot topic
+
+561
+00:29:18,000 --> 00:29:19,000
+so what
+
+562
+00:29:19,000 --> 00:29:21,000
+This BEC
+
+563
+00:29:21,000 --> 00:29:24,000
+just close to
+
+564
+00:29:24,000 --> 00:29:26,000
+For example, rich six
+
+565
+00:29:26,000 --> 00:29:28,000
+called Microkevin
+
+566
+00:29:28,000 --> 00:29:30,000
+Now the laboratory can do
+
+567
+00:29:30,000 --> 00:29:32,000
+Nano-Calvin is even lower
+
+568
+00:29:32,000 --> 00:29:36,000
+It's very, very close to absolute zero.
+
+569
+00:29:36,000 --> 00:29:38,000
+so what
+
+570
+00:29:38,000 --> 00:29:43,000
+This conception of light from temperature
+
+571
+00:29:43,000 --> 00:29:45,000
+to absolute temperature
+
+572
+00:29:45,000 --> 00:29:47,000
+That's what we just talked about
+
+573
+00:29:47,000 --> 00:29:49,000
+you can approach
+
+574
+00:29:49,000 --> 00:29:52,000
+How close to absolute zero
+
+575
+00:29:52,000 --> 00:29:54,000
+What about this matter?
+
+576
+00:29:54,000 --> 00:29:56,000
+actually
+
+577
+00:29:56,000 --> 00:29:59,000
+is in what we call
+
+578
+00:30:00,000 --> 00:30:03,300
+Cold science, it is very cold
+
+579
+00:30:03,300 --> 00:30:07,500
+How to do this very very cold low temperature
+
+580
+00:30:07,500 --> 00:30:09,500
+ok then we come back
+
+581
+00:30:09,500 --> 00:30:14,500
+So, this Tomson has made great contributions
+
+582
+00:30:14,500 --> 00:30:19,000
+As for thermoelectricity, he combined two phenomena
+
+583
+00:30:19,000 --> 00:30:20,500
+string it up
+
+584
+00:30:20,500 --> 00:30:24,000
+We call this thermoelectric material two sides of one body
+
+585
+00:30:24,000 --> 00:30:27,000
+In fact, we will introduce two phenomena in a moment.
+
+586
+00:30:27,000 --> 00:30:28,000
+it all works
+
+587
+00:30:29,000 --> 00:30:32,000
+Well, I didn't introduce this to you
+
+588
+00:30:32,000 --> 00:30:35,000
+A man named Gustav Magnus
+
+589
+00:30:35,000 --> 00:30:39,000
+It is to combine materials, different materials
+
+590
+00:30:39,000 --> 00:30:41,000
+do some experiments like
+
+591
+00:30:41,000 --> 00:30:44,000
+In the end, it turns out that what we call
+
+592
+00:30:44,000 --> 00:30:47,000
+thermocouple
+
+593
+00:30:47,000 --> 00:30:50,000
+We are often in the laboratory, in some laboratories that do physics
+
+594
+00:30:50,000 --> 00:30:53,000
+you want a high temperature
+
+595
+00:30:53,000 --> 00:30:54,000
+this one thousand degrees
+
+596
+00:30:54,000 --> 00:30:56,000
+Some are four Baidu
+
+597
+00:30:56,000 --> 00:30:59,000
+then you have some zero degrees
+
+598
+00:31:00,000 --> 00:31:03,240
+200 degrees, how to measure these temperatures
+
+599
+00:31:03,840 --> 00:31:08,840
+The most common is to use two different metals
+
+600
+00:31:09,440 --> 00:31:12,140
+then chain it together
+
+601
+00:31:12,140 --> 00:31:15,600
+it will get a potential difference
+
+602
+00:31:15,600 --> 00:31:17,940
+That potential difference is related to its temperature
+
+603
+00:31:18,100 --> 00:31:19,980
+So, that thing
+
+604
+00:31:20,640 --> 00:31:24,200
+This phenomenon is actually related to the material
+
+605
+00:31:24,200 --> 00:31:27,140
+its nature is related
+
+606
+00:31:27,580 --> 00:31:28,580
+good
+
+607
+00:31:29,580 --> 00:31:31,580
+come again, this one
+
+608
+00:31:32,260 --> 00:31:34,760
+called Yof
+
+609
+00:31:35,980 --> 00:31:39,480
+what about yofy , he ' s a soviet
+
+610
+00:31:40,480 --> 00:31:41,480
+What about him
+
+611
+00:31:41,960 --> 00:31:46,880
+around 1900
+
+612
+00:31:47,360 --> 00:31:49,860
+he just said
+
+613
+00:31:49,860 --> 00:31:51,880
+use a pair
+
+614
+00:31:52,920 --> 00:31:55,120
+First, he uses semiconductor
+
+615
+00:31:55,120 --> 00:31:59,720
+Two sides use a pair, we call P type and N type
+
+616
+00:32:00,000 --> 00:32:08,600
+Inside, on the semiconductor surface, there are some positive charges on it.
+
+617
+00:32:08,600 --> 00:32:12,600
+There is a kind of charge that replaces more negative charges
+
+618
+00:32:12,600 --> 00:32:17,100
+He said, put two times and two times in pairs
+
+619
+00:32:17,100 --> 00:32:19,800
+it can get the highest efficiency
+
+620
+00:32:19,800 --> 00:32:22,800
+This is also very important, so you see
+
+621
+00:32:22,800 --> 00:32:25,800
+the soviet stamp
+
+622
+00:32:25,800 --> 00:32:28,800
+This is 1980, and that was the Soviet Union
+
+623
+00:32:29,800 --> 00:32:31,800
+Soviet Union stamps, there it is
+
+624
+00:32:31,800 --> 00:32:34,800
+That's not the only way, if everyone goes
+
+625
+00:32:34,800 --> 00:32:39,800
+That St. Petersburg, let me see, raise your hand if you have been to Russia
+
+626
+00:32:39,800 --> 00:32:41,800
+Many people should have been there, Russia
+
+627
+00:32:41,800 --> 00:32:43,800
+doesn't he? no, don't be so polite
+
+628
+00:32:43,800 --> 00:32:47,800
+Have you ever been to St. Petersburg? Raise your hand
+
+629
+00:32:47,800 --> 00:32:49,800
+How many have been
+
+630
+00:32:49,800 --> 00:32:51,800
+you went to st petersburg again
+
+631
+00:32:51,800 --> 00:32:55,800
+Of course you went to see that so-and-so, that so-and-so East Palace in Kaiserling, right?
+
+632
+00:32:55,800 --> 00:32:57,800
+wow that's beautiful isn't it
+
+633
+00:32:57,800 --> 00:32:59,800
+What about St. Petersburg?
+
+634
+00:33:00,000 --> 00:33:03,000
+The most important scientific research unit
+
+635
+00:33:03,000 --> 00:33:05,000
+It's called YORF Institute
+
+636
+00:33:05,000 --> 00:33:09,000
+is to commemorate it with its name
+
+637
+00:33:09,000 --> 00:33:12,000
+then it's on the thermoelectric
+
+638
+00:33:12,000 --> 00:33:15,000
+it says on the first side it says
+
+639
+00:33:15,000 --> 00:33:18,000
+This semiconductor is better than this metal material
+
+640
+00:33:18,000 --> 00:33:21,000
+or other materials or insulating materials
+
+641
+00:33:21,000 --> 00:33:22,000
+Suitable
+
+642
+00:33:22,000 --> 00:33:23,000
+this is very important
+
+643
+00:33:23,000 --> 00:33:25,000
+second it says
+
+644
+00:33:25,000 --> 00:33:28,000
+The material is the best
+
+645
+00:33:28,000 --> 00:33:30,000
+have a pair
+
+646
+00:33:30,000 --> 00:33:33,000
+One is P-type material
+
+647
+00:33:33,000 --> 00:33:34,000
+The other one is N-type material
+
+648
+00:33:34,000 --> 00:33:35,000
+One is a positively charged material
+
+649
+00:33:35,000 --> 00:33:37,000
+One is a negatively charged material
+
+650
+00:33:37,000 --> 00:33:39,000
+make it paired later
+
+651
+00:33:39,000 --> 00:33:41,000
+everyone can watch
+
+652
+00:33:41,000 --> 00:33:42,000
+its electricity
+
+653
+00:33:42,000 --> 00:33:45,000
+It can run like this
+
+654
+00:33:45,000 --> 00:33:49,000
+So electricity is connected in series
+
+655
+00:33:49,000 --> 00:33:51,000
+two things in series
+
+656
+00:33:51,000 --> 00:33:54,000
+strung together these two are strung together
+
+657
+00:33:54,000 --> 00:33:55,000
+but it's hot
+
+658
+00:33:55,000 --> 00:33:56,000
+hot here is hot
+
+659
+00:33:56,000 --> 00:33:58,000
+here is can
+
+660
+00:33:58,000 --> 00:34:00,000
+heat is electricity
+
+661
+00:34:00,000 --> 00:34:02,600
+This is very strange, our...
+
+662
+00:34:02,600 --> 00:34:08,840
+It is not easy for you to think that there is a structure that can make heat and electricity
+
+663
+00:34:08,840 --> 00:34:12,360
+let one be in series, one patient
+
+664
+00:34:12,360 --> 00:34:16,160
+Then if it is changed in this way, its efficiency can reach the highest
+
+665
+00:34:16,160 --> 00:34:19,400
+So why do we often have a lot of materials?
+
+666
+00:34:19,400 --> 00:34:22,200
+Thermoelectric materials wait for everyone to see
+
+667
+00:34:22,200 --> 00:34:25,040
+It's all one-on-one
+
+668
+00:34:25,440 --> 00:34:30,000
+This thing is at the back
+
+669
+00:34:30,000 --> 00:34:32,760
+Let me take a look, okay, let me tell you first
+
+670
+00:34:32,760 --> 00:34:36,440
+Most of the current thermoelectric materials look like this
+
+671
+00:34:36,440 --> 00:34:41,640
+It looks like this one by one
+
+672
+00:34:41,640 --> 00:34:44,800
+Let's call Array, get it up
+
+673
+00:34:44,800 --> 00:34:48,440
+Well, among them, they are all in pairs, pairs, pairs, pairs
+
+674
+00:34:48,440 --> 00:34:50,440
+can achieve the highest efficiency
+
+675
+00:34:50,560 --> 00:34:55,040
+So here I have brought some materials
+
+676
+00:34:55,040 --> 00:34:57,160
+It's an oil price company called Malo
+
+677
+00:34:57,160 --> 00:35:00,040
+Take a look and let you pass it on
+
+678
+00:35:00,000 --> 00:35:03,840
+What does this material look like?
+
+679
+00:35:03,840 --> 00:35:04,340
+OK
+
+680
+00:35:04,340 --> 00:35:07,340
+Just look at it and get a feeling
+
+681
+00:35:07,340 --> 00:35:14,340
+What about this material?
+
+682
+00:35:14,340 --> 00:35:21,840
+Around the 1940s and 1950s
+
+683
+00:35:21,840 --> 00:35:23,440
+Very
+
+684
+00:35:23,440 --> 00:35:26,440
+Then it became very popular
+
+685
+00:35:26,440 --> 00:35:28,440
+whether it is the soviet union
+
+686
+00:35:28,440 --> 00:35:32,280
+Regardless of the United States, etc. are actively researching
+
+687
+00:35:32,280 --> 00:35:36,280
+For example, the earliest product
+
+688
+00:35:36,280 --> 00:35:41,280
+Just a thermoelectric with an oil lamp
+
+689
+00:35:41,280 --> 00:35:42,280
+light up
+
+690
+00:35:42,280 --> 00:35:44,280
+Then this heat goes to generate electricity
+
+691
+00:35:44,280 --> 00:35:48,280
+This electricity to power a radio
+
+692
+00:35:48,280 --> 00:35:50,280
+Your radio uses its power
+
+693
+00:35:50,280 --> 00:35:52,280
+then i don't have a radio today
+
+694
+00:35:52,280 --> 00:35:54,280
+I brought this thing for everyone to see
+
+695
+00:35:54,280 --> 00:35:56,280
+this is also a
+
+696
+00:35:56,280 --> 00:35:59,120
+put a candle underneath
+
+697
+00:36:00,000 --> 00:36:04,160
+In the future, one side of the thermoelectric material will be heated.
+
+698
+00:36:04,860 --> 00:36:06,060
+after heating
+
+699
+00:36:06,400 --> 00:36:07,420
+this
+
+700
+00:36:08,200 --> 00:36:10,500
+You can see the LED lights
+
+701
+00:36:11,260 --> 00:36:12,040
+that will be bright
+
+702
+00:36:13,060 --> 00:36:13,560
+That
+
+703
+00:36:14,840 --> 00:36:17,160
+Of course everyone will feel very bored, right?
+
+704
+00:36:17,400 --> 00:36:19,200
+Then you already have candles and you need to light them again
+
+705
+00:36:19,700 --> 00:36:21,260
+What do you do with that LED?
+
+706
+00:36:21,760 --> 00:36:22,260
+right
+
+707
+00:36:22,520 --> 00:36:23,800
+then you are not this
+
+708
+00:36:24,320 --> 00:36:25,600
+what are we going to do
+
+709
+00:36:26,120 --> 00:36:27,900
+Your word is Diago Gipson
+
+710
+00:36:28,160 --> 00:36:29,700
+Take the monkey to the mountain
+
+711
+00:36:29,900 --> 00:36:30,720
+what to do
+
+712
+00:36:32,000 --> 00:36:32,520
+but
+
+713
+00:36:33,280 --> 00:36:34,820
+if one day
+
+714
+00:36:35,080 --> 00:36:38,660
+You're going to climb a mountain and you're suddenly stuck in the mountain
+
+715
+00:36:38,920 --> 00:36:40,700
+Then your mobile phone has been used
+
+716
+00:36:41,480 --> 00:36:42,500
+This is out of power
+
+717
+00:36:43,000 --> 00:36:45,320
+Then you asked to save him and found that
+
+718
+00:36:45,580 --> 00:36:46,340
+this
+
+719
+00:36:46,860 --> 00:36:47,360
+No electricity
+
+720
+00:36:47,620 --> 00:36:49,420
+if there is this
+
+721
+00:36:50,940 --> 00:36:52,220
+he can save your life
+
+722
+00:36:52,480 --> 00:36:54,540
+Of course it's more than that. It's just a
+
+723
+00:36:55,040 --> 00:36:56,320
+An example would be to say
+
+724
+00:36:56,580 --> 00:36:58,380
+your simple one
+
+725
+00:36:58,380 --> 00:36:59,860
+oil lamp
+
+726
+00:37:00,000 --> 00:37:04,000
+How is it possible to generate electricity
+
+727
+00:37:04,000 --> 00:37:08,000
+Then wait a minute, this is over, everyone can take a look
+
+728
+00:37:08,000 --> 00:37:14,000
+So, at that time
+
+729
+00:37:14,000 --> 00:37:20,000
+either the soviet union
+
+730
+00:37:20,000 --> 00:37:26,000
+Many people in the United States are concerned about this thermoelectric material
+
+731
+00:37:26,000 --> 00:37:29,000
+have high dreams
+
+732
+00:37:29,000 --> 00:37:34,000
+What dream? That is to say, if the material efficiency is high
+
+733
+00:37:34,000 --> 00:37:38,000
+then i don't need that internal combustion engine, i don't need that engine
+
+734
+00:37:38,000 --> 00:37:42,000
+That engine though we have it in every car, right?
+
+735
+00:37:42,000 --> 00:37:46,000
+That car is noisy, you know that engine
+
+736
+00:37:46,000 --> 00:37:50,000
+It explodes every time, go push this spin of yours
+
+737
+00:37:50,000 --> 00:37:55,000
+If this efficiency is high enough
+
+738
+00:37:55,000 --> 00:37:59,000
+then you burn it up and heat it up
+
+739
+00:38:00,000 --> 00:38:05,460
+It turns into electricity, no noise, very stable
+
+740
+00:38:05,460 --> 00:38:13,020
+So at that time, many countries were developing this thermal power
+
+741
+00:38:13,020 --> 00:38:17,160
+I want to say that one day it will really become a mainstream
+
+742
+00:38:17,160 --> 00:38:21,560
+Then such an effort lasted until about the 1970s
+
+743
+00:38:21,560 --> 00:38:25,220
+In the end, I found out that it doesn't seem to be true.
+
+744
+00:38:25,220 --> 00:38:31,620
+Let's take a look at this in 1960 when
+
+745
+00:38:31,620 --> 00:38:35,020
+The first paper 1954
+
+746
+00:38:35,020 --> 00:38:38,760
+This one is called Gullsmith
+
+747
+00:38:38,760 --> 00:38:44,700
+He used a material called Bismuth Terrarium
+
+748
+00:38:44,700 --> 00:38:48,940
+Is Geochem B
+
+749
+00:38:48,940 --> 00:38:52,980
+This material is now turned into a commercial thermoelectric material
+
+750
+00:38:52,980 --> 00:38:55,740
+is the most widely used
+
+751
+00:38:55,740 --> 00:39:00,300
+This Gullsmith is number one
+
+752
+00:39:00,000 --> 00:39:05,000
+One cools it with thermoelectric method to cool it
+
+753
+00:39:05,000 --> 00:39:08,000
+Cool the material down to sub-zero
+
+754
+00:39:08,000 --> 00:39:12,000
+zero degrees is of course a big milestone
+
+755
+00:39:12,000 --> 00:39:16,000
+So this establishes a milestone
+
+756
+00:39:16,000 --> 00:39:19,000
+Of course Ghost Miss was originally called Chicago
+
+757
+00:39:19,000 --> 00:39:24,000
+Has many contributions to thermoelectricity including writing this book
+
+758
+00:39:24,000 --> 00:39:27,000
+It doesn't just write a book, it just lists a
+
+759
+00:39:27,000 --> 00:39:33,000
+Recently, after getting older, it recently moved to Australia
+
+760
+00:39:33,000 --> 00:39:38,000
+It's a very well-known figure in the thermoelectric community
+
+761
+00:39:38,000 --> 00:39:42,000
+I've just covered most of the material
+
+762
+00:39:42,000 --> 00:39:46,000
+Now pass it down for everyone to see, it looks like this
+
+763
+00:39:46,000 --> 00:39:53,000
+Then it depends on your thickness and height
+
+764
+00:39:53,000 --> 00:39:58,000
+If you want to generate electricity, the hot and cold
+
+765
+00:39:58,000 --> 00:40:00,000
+There must be a temperature difference
+
+766
+00:40:00,000 --> 00:40:02,000
+The bigger the temperature difference, the better
+
+767
+00:40:02,000 --> 00:40:03,500
+so what
+
+768
+00:40:03,500 --> 00:40:04,700
+If you are too thin
+
+769
+00:40:04,700 --> 00:40:06,700
+You can't get it up if you have a temperature difference
+
+770
+00:40:06,700 --> 00:40:07,500
+so generally
+
+771
+00:40:07,500 --> 00:40:10,300
+it also has a certain distance
+
+772
+00:40:10,300 --> 00:40:12,300
+so it can't be made too thin
+
+773
+00:40:12,300 --> 00:40:14,300
+but if you want to cool down
+
+774
+00:40:14,300 --> 00:40:15,100
+it will be easier
+
+775
+00:40:15,100 --> 00:40:16,300
+cool down
+
+776
+00:40:16,300 --> 00:40:17,700
+this can be done
+
+777
+00:40:17,700 --> 00:40:19,300
+even do it with thin film
+
+778
+00:40:19,300 --> 00:40:22,300
+Then everyone can see
+
+779
+00:40:23,300 --> 00:40:24,000
+Then what
+
+780
+00:40:24,000 --> 00:40:26,300
+There is another important
+
+781
+00:40:26,300 --> 00:40:27,700
+there are two people
+
+782
+00:40:27,700 --> 00:40:30,700
+This is Cody and Abel
+
+783
+00:40:30,700 --> 00:40:31,900
+where are they
+
+784
+00:40:31,900 --> 00:40:34,900
+in the 1960s
+
+785
+00:40:34,900 --> 00:40:36,500
+he was the first to propose
+
+786
+00:40:36,500 --> 00:40:39,000
+用Silicon Germanium
+
+787
+00:40:39,000 --> 00:40:41,900
+this fold
+
+788
+00:40:41,900 --> 00:40:43,500
+Folding system or refinement
+
+789
+00:40:43,500 --> 00:40:44,500
+inside the table table
+
+790
+00:40:44,500 --> 00:40:48,900
+It is folded tin sign from carbon series
+
+791
+00:40:48,900 --> 00:40:51,900
+If you were tabled when you were a child
+
+792
+00:40:51,900 --> 00:40:54,100
+it folds the tie
+
+793
+00:40:54,100 --> 00:40:55,000
+get it together
+
+794
+00:40:55,000 --> 00:40:56,300
+become a
+
+795
+00:40:56,300 --> 00:40:58,200
+this alloy
+
+796
+00:40:58,200 --> 00:40:59,000
+That
+
+797
+00:40:59,000 --> 00:41:00,100
+they figured it out
+
+798
+00:41:00,000 --> 00:41:05,440
+This material can be made into a good thermoelectric material
+
+799
+00:41:05,440 --> 00:41:14,040
+Sure enough, the details about Silicon Jumenium
+
+800
+00:41:14,040 --> 00:41:22,600
+The first one it can go from room temperature of 300 to 1100 degrees K
+
+801
+00:41:22,600 --> 00:41:26,200
+It is stable at very high temperatures
+
+802
+00:41:26,800 --> 00:41:30,480
+The second more important thing is that it has a radioactive element
+
+803
+00:41:30,480 --> 00:41:32,320
+called Putonium
+
+804
+00:41:32,320 --> 00:41:34,920
+This Putonium it's dangerous
+
+805
+00:41:34,920 --> 00:41:40,640
+After our nuclear power plant produces nuclear power
+
+806
+00:41:40,640 --> 00:41:43,000
+One of its products is this thing
+
+807
+00:41:43,000 --> 00:41:46,000
+That's because of the radioactive elements in this thing
+
+808
+00:41:46,000 --> 00:41:47,880
+Radiation is still strong
+
+809
+00:41:47,880 --> 00:41:51,520
+So we don't know what to do with the nuclear waste
+
+810
+00:41:51,520 --> 00:41:55,440
+And look at this half-life of 24,000 years
+
+811
+00:41:56,360 --> 00:41:59,280
+After it was produced, you said it was not good and you left it
+
+812
+00:41:59,280 --> 00:42:00,280
+Just leave it for a long time
+
+813
+00:42:00,000 --> 00:42:04,340
+Is it okay? It will be reduced to half after 24,000 years
+
+814
+00:42:04,780 --> 00:42:08,880
+So why does everyone have such a headache about nuclear waste?
+
+815
+00:42:09,540 --> 00:42:14,040
+But, it doesn't mean that this material is useless
+
+816
+00:42:14,600 --> 00:42:15,760
+it this
+
+817
+00:42:16,440 --> 00:42:21,200
+Because it will always release the medium fat and alpha
+
+818
+00:42:21,300 --> 00:42:22,700
+this particle
+
+819
+00:42:23,640 --> 00:42:27,800
+It will generate a lot of heat when it hits this metal
+
+820
+00:42:28,560 --> 00:42:32,460
+Then it puts out the heat of this radioactive element
+
+821
+00:42:32,460 --> 00:42:33,400
+become hot
+
+822
+00:42:33,800 --> 00:42:39,300
+To provide silicon germanium to do thermoelectricity to generate electricity
+
+823
+00:42:40,100 --> 00:42:40,800
+Then what
+
+824
+00:42:41,800 --> 00:42:45,300
+This power supply made in this way
+
+825
+00:42:45,600 --> 00:42:49,500
+Provided a lot of Apollo this pioneer
+
+826
+00:42:49,500 --> 00:42:52,000
+The Pioneer seems to have exploded during Longe
+
+827
+00:42:52,800 --> 00:42:56,900
+Then vacuum, Voyager, Galaxia, Jellilie, etc.
+
+828
+00:42:56,900 --> 00:42:59,900
+Many, many spaceships all use
+
+829
+00:43:00,000 --> 00:43:03,000
+This method means that everyone can see
+
+830
+00:43:03,000 --> 00:43:07,000
+It's something, it's a Voyager
+
+831
+00:43:07,000 --> 00:43:10,000
+its this spaceship
+
+832
+00:43:10,000 --> 00:43:14,000
+In addition to all kinds of
+
+833
+00:43:14,000 --> 00:43:17,000
+Cameras, other than communication equipment
+
+834
+00:43:17,000 --> 00:43:20,000
+where its power
+
+835
+00:43:20,000 --> 00:43:24,000
+From this one, it's called RTG
+
+836
+00:43:24,000 --> 00:43:28,000
+RadioIsotope, just that Plutonium
+
+837
+00:43:28,000 --> 00:43:30,000
+It's called the Confidence Element, and then what?
+
+838
+00:43:30,000 --> 00:43:33,000
+Somoelectric is Silicon Dominium
+
+839
+00:43:33,000 --> 00:43:36,000
+and then generate electricity
+
+840
+00:43:36,000 --> 00:43:39,000
+Then its detailed structure looks like this
+
+841
+00:43:39,000 --> 00:43:43,000
+I don't think I need to explain it to you carefully.
+
+842
+00:43:43,000 --> 00:43:46,000
+That is to say, it basically takes Putonium
+
+843
+00:43:46,000 --> 00:43:49,000
+Put this on, it's hot, it's hot
+
+844
+00:43:49,000 --> 00:43:53,000
+This element is placed here, and after hitting the surface
+
+845
+00:43:53,000 --> 00:43:56,000
+it takes heat, puts it here, and pours
+
+846
+00:43:56,000 --> 00:43:58,000
+Then through thermoelectric materials, and finally
+
+847
+00:43:58,000 --> 00:44:00,000
+Pass the electricity, this one out
+
+848
+00:44:00,000 --> 00:44:06,000
+Of course, many people will wonder
+
+849
+00:44:06,000 --> 00:44:11,000
+Our normal spacecraft don't need this
+
+850
+00:44:11,000 --> 00:44:15,000
+You can use solar panels, right?
+
+851
+00:44:15,000 --> 00:44:19,000
+while outer space is running
+
+852
+00:44:19,000 --> 00:44:25,000
+The sun is stronger than the surface of the earth
+
+853
+00:44:25,000 --> 00:44:28,000
+then why do you need this
+
+854
+00:44:29,000 --> 00:44:32,000
+In fact, ordinary spaceships
+
+855
+00:44:32,000 --> 00:44:34,000
+In fact, it would be better to use solar panels
+
+856
+00:44:34,000 --> 00:44:38,000
+But there are many special uses
+
+857
+00:44:38,000 --> 00:44:41,000
+Come and see everyone
+
+858
+00:44:41,000 --> 00:44:45,000
+For example, this is the Voyager sailing plus
+
+859
+00:44:45,000 --> 00:44:48,000
+it rises from the earth
+
+860
+00:44:48,000 --> 00:44:52,000
+around 1776
+
+861
+00:44:53,000 --> 00:44:56,000
+There are two Voyager 1 and Voyager 2
+
+862
+00:44:56,000 --> 00:44:58,000
+two nautical pluses
+
+863
+00:44:58,000 --> 00:45:01,000
+slippery as it wanders
+
+864
+00:45:00,000 --> 00:45:02,080
+Rocket ascends to outer space
+
+865
+00:45:02,080 --> 00:45:04,600
+and start orbiting the earth
+
+866
+00:45:04,600 --> 00:45:07,440
+centripetal force
+
+867
+00:45:07,440 --> 00:45:09,080
+just kept going around there
+
+868
+00:45:09,080 --> 00:45:11,040
+around to a certain extent
+
+869
+00:45:11,040 --> 00:45:12,640
+it gives a little motivation
+
+870
+00:45:12,640 --> 00:45:14,840
+then from the earth
+
+871
+00:45:14,840 --> 00:45:18,800
+pull this is a
+
+872
+00:45:18,800 --> 00:45:19,840
+Jupiter
+
+873
+00:45:19,840 --> 00:45:21,960
+to the next planet
+
+874
+00:45:21,960 --> 00:45:24,640
+and go around to it over there
+
+875
+00:45:24,640 --> 00:45:27,800
+All the pictures to be probed have been taken
+
+876
+00:45:27,800 --> 00:45:29,360
+then give it a little more motivation
+
+877
+00:45:29,360 --> 00:45:31,960
+It ran to the next one to Saturn
+
+878
+00:45:31,960 --> 00:45:32,800
+even what
+
+879
+00:45:32,800 --> 00:45:34,560
+Uranus or Minwang
+
+880
+00:45:34,560 --> 00:45:36,000
+ancestor star
+
+881
+00:45:36,000 --> 00:45:39,840
+then to Uranus
+
+882
+00:45:39,840 --> 00:45:43,960
+Jupiter goes down one by one
+
+883
+00:45:43,960 --> 00:45:47,760
+It uses a very clever
+
+884
+00:45:47,760 --> 00:45:50,840
+a physical method
+
+885
+00:45:50,840 --> 00:45:52,600
+use very little energy
+
+886
+00:45:52,600 --> 00:45:55,560
+just use its centrifugal force
+
+887
+00:45:55,560 --> 00:45:58,040
+it goes from one to one to one
+
+888
+00:45:58,040 --> 00:46:00,280
+and put the whole sun
+
+889
+00:46:00,000 --> 00:46:04,000
+Visit all these stars
+
+890
+00:46:04,000 --> 00:46:09,000
+Even I remember when there were several stars with their moons
+
+891
+00:46:09,000 --> 00:46:11,000
+didn't know before
+
+892
+00:46:11,000 --> 00:46:16,000
+Because this Voyager went to shoot very clearly
+
+893
+00:46:16,000 --> 00:46:19,000
+such a contribution
+
+894
+00:46:19,000 --> 00:46:21,000
+Everyone should know that you are on Earth
+
+895
+00:46:21,000 --> 00:46:25,000
+you might be on mars
+
+896
+00:46:25,000 --> 00:46:27,000
+strong sunlight
+
+897
+00:46:27,000 --> 00:46:29,000
+No problem with solar version
+
+898
+00:46:29,000 --> 00:46:30,000
+but
+
+899
+00:46:30,000 --> 00:46:32,000
+you are farther away
+
+900
+00:46:32,000 --> 00:46:34,000
+to Saturn
+
+901
+00:46:34,000 --> 00:46:35,000
+to Jupiter
+
+902
+00:46:35,000 --> 00:46:37,000
+too far from the sun
+
+903
+00:46:37,000 --> 00:46:40,000
+not enough sunlight
+
+904
+00:46:40,000 --> 00:46:43,000
+Provide the solar energy you want
+
+905
+00:46:43,000 --> 00:46:44,000
+so what
+
+906
+00:46:44,000 --> 00:46:47,000
+why it needs to be used
+
+907
+00:46:47,000 --> 00:46:50,000
+radioactive elements
+
+908
+00:46:50,000 --> 00:46:52,000
+Then come to provide power
+
+909
+00:46:52,000 --> 00:46:53,000
+that's how it came
+
+910
+00:46:53,000 --> 00:46:54,000
+then everyone can watch
+
+911
+00:46:54,000 --> 00:46:56,000
+because it is radioactive
+
+912
+00:46:56,000 --> 00:46:57,000
+in the process of claiming
+
+913
+00:46:57,000 --> 00:46:58,000
+all
+
+914
+00:46:58,000 --> 00:47:00,000
+to be in this
+
+915
+00:47:00,000 --> 00:47:05,000
+All the space suits in this Clean Room have to be worn
+
+916
+00:47:05,000 --> 00:47:08,000
+Do you know why? Why is it needed?
+
+917
+00:47:08,000 --> 00:47:10,000
+Just put it back on
+
+918
+00:47:10,000 --> 00:47:13,000
+There is no need for the auxiliary line, there is no way to block this
+
+919
+00:47:13,000 --> 00:47:16,000
+Auxiliary line, you have to wear Qianyi
+
+920
+00:47:16,000 --> 00:47:19,000
+why is this? you need to know
+
+921
+00:47:19,000 --> 00:47:22,000
+You go take an X-ray
+
+922
+00:47:22,000 --> 00:47:26,000
+Tell you how many times I take a photo
+
+923
+00:47:26,000 --> 00:47:29,000
+how many doses is it right
+
+924
+00:47:29,000 --> 00:47:33,000
+Then you said, it’s best not to take more than a few times a year
+
+925
+00:47:33,000 --> 00:47:35,000
+Too many security photos are not good
+
+926
+00:47:35,000 --> 00:47:37,000
+everybody knows
+
+927
+00:47:37,000 --> 00:47:39,000
+But today if you say
+
+928
+00:47:39,000 --> 00:47:43,000
+we have a composite
+
+929
+00:47:43,000 --> 00:47:46,000
+or radial rebar
+
+930
+00:47:46,000 --> 00:47:48,000
+if one day
+
+931
+00:47:48,000 --> 00:47:50,000
+you accidentally sucked into your body
+
+932
+00:47:50,000 --> 00:47:54,000
+Then the radioactive substance stays in your body
+
+933
+00:47:54,000 --> 00:47:58,000
+It's like an X-ray inside a body
+
+934
+00:47:58,000 --> 00:48:00,000
+I've been taking photos with you
+
+935
+00:48:00,000 --> 00:48:02,280
+then you are very very dangerous
+
+936
+00:48:03,080 --> 00:48:05,280
+Because if you suck it in, you can't get it out
+
+937
+00:48:05,280 --> 00:48:07,400
+and stay inside you
+
+938
+00:48:07,400 --> 00:48:09,320
+it goes on and on
+
+939
+00:48:09,320 --> 00:48:12,440
+within its half-period
+
+940
+00:48:12,440 --> 00:48:15,480
+it just keeps emitting this radiation
+
+941
+00:48:15,480 --> 00:48:17,520
+so it's very dangerous
+
+942
+00:48:17,520 --> 00:48:18,440
+so what
+
+943
+00:48:18,960 --> 00:48:21,920
+Absolutely no radiation pollution
+
+944
+00:48:21,920 --> 00:48:25,120
+Or it's the same when you go to a nuclear power plant
+
+945
+00:48:25,120 --> 00:48:29,000
+You can't let radioactive material get into your body
+
+946
+00:48:30,000 --> 00:48:31,000
+good
+
+947
+00:48:32,000 --> 00:48:34,520
+this is a
+
+948
+00:48:35,320 --> 00:48:38,080
+this nautical plus spaceship
+
+949
+00:48:38,920 --> 00:48:40,360
+this person is special
+
+950
+00:48:40,880 --> 00:48:42,840
+His name is Ed Stone
+
+951
+00:48:43,440 --> 00:48:47,480
+He was the host of the project
+
+952
+00:48:47,960 --> 00:48:48,720
+NASA
+
+953
+00:48:49,680 --> 00:48:52,280
+When Launch Voyager
+
+954
+00:48:52,640 --> 00:48:53,720
+his host
+
+955
+00:48:54,440 --> 00:48:56,240
+that was very successful
+
+956
+00:48:56,960 --> 00:48:58,240
+Everyone can think of AZ
+
+957
+00:48:58,240 --> 00:48:59,760
+I just told you
+
+958
+00:49:00,000 --> 00:49:03,600
+Skip from planet to planet Skip from planet to planet
+
+959
+00:49:03,600 --> 00:49:08,700
+Walk all the stars of the sun
+
+960
+00:49:08,700 --> 00:49:13,200
+Many people will ask him
+
+961
+00:49:13,200 --> 00:49:15,200
+What about going to the last one?
+
+962
+00:49:15,200 --> 00:49:17,200
+Does anyone know
+
+963
+00:49:17,200 --> 00:49:22,200
+What is the one that went the furthest after the detection?
+
+964
+00:49:22,200 --> 00:49:24,200
+star?
+
+965
+00:49:24,200 --> 00:49:26,200
+after that
+
+966
+00:49:27,200 --> 00:49:29,200
+No
+
+967
+00:49:29,200 --> 00:49:33,200
+What are the hundreds of millions of planets in the universe afraid of?
+
+968
+00:49:33,200 --> 00:49:36,200
+Just go to the next planet after this
+
+969
+00:49:36,200 --> 00:49:38,200
+Does anyone know
+
+970
+00:49:38,200 --> 00:49:40,200
+where is he going
+
+971
+00:49:42,200 --> 00:49:44,200
+Next target
+
+972
+00:49:46,200 --> 00:49:48,200
+Does anyone know
+
+973
+00:49:48,200 --> 00:49:50,200
+Guess
+
+974
+00:49:52,200 --> 00:49:55,200
+There are so many planets in the universe
+
+975
+00:49:55,200 --> 00:49:59,200
+Now, of course, the light pollution of the special style is relatively tight.
+
+976
+00:50:00,000 --> 00:50:01,400
+If you go for diplomacy, take a look
+
+977
+00:50:01,600 --> 00:50:05,700
+Wow, that star is too many to count
+
+978
+00:50:07,100 --> 00:50:09,500
+I went back to my home in Nantou a while ago
+
+979
+00:50:09,700 --> 00:50:11,500
+come with some relatives
+
+980
+00:50:11,800 --> 00:50:14,100
+Wow, they looked at it and said wow, why is this
+
+981
+00:50:14,100 --> 00:50:16,000
+There are so many stars in Nantou
+
+982
+00:50:16,500 --> 00:50:19,000
+and then the terrible
+
+983
+00:50:19,500 --> 00:50:22,400
+have a child like this
+
+984
+00:50:22,600 --> 00:50:25,700
+She clicked on this phone or that app
+
+985
+00:50:26,200 --> 00:50:28,100
+She calls out every star
+
+986
+00:50:29,100 --> 00:50:30,800
+OK now just say
+
+987
+00:50:31,000 --> 00:50:32,900
+Your GPS knows where your location is
+
+988
+00:50:33,100 --> 00:50:35,300
+The second you know when your date is
+
+989
+00:50:35,600 --> 00:50:38,300
+Every star on her phone
+
+990
+00:50:38,700 --> 00:50:40,900
+Correspond to the stars in your sky one by one
+
+991
+00:50:41,700 --> 00:50:43,300
+We used to get half a day there
+
+992
+00:50:43,300 --> 00:50:45,000
+Oh, which one is the Big Dipper?
+
+993
+00:50:45,000 --> 00:50:46,300
+oh which one is the star
+
+994
+00:50:46,400 --> 00:50:47,400
+right now no more
+
+995
+00:50:47,600 --> 00:50:48,500
+Take it out and pair it up
+
+996
+00:50:48,500 --> 00:50:50,100
+Oh this is her this is her
+
+997
+00:50:50,400 --> 00:50:52,600
+This kid seems to be very happy now
+
+998
+00:50:52,600 --> 00:50:55,100
+won't probably lose some of the fun too
+
+999
+00:50:55,100 --> 00:50:59,400
+what to say
+
+1000
+00:51:00,000 --> 00:51:05,440
+This nautical plus to the last star star
+
+1001
+00:51:05,440 --> 00:51:09,560
+It's actually been, maybe three or four years ago
+
+1002
+00:51:09,560 --> 00:51:13,560
+He ran from the earth for forty years
+
+1003
+00:51:13,560 --> 00:51:18,560
+Then of course you can design him and see how long he goes around
+
+1004
+00:51:18,560 --> 00:51:22,060
+But it takes years to go between each star
+
+1005
+00:51:22,060 --> 00:51:24,560
+OK, run like this
+
+1006
+00:51:25,560 --> 00:51:29,560
+ok , to the back
+
+1007
+00:51:29,560 --> 00:51:33,560
+Of course he can wait and say, then I'll go out
+
+1008
+00:51:33,560 --> 00:51:38,060
+It may take many years to wait, and it is possible to go to the next planet
+
+1009
+00:51:38,060 --> 00:51:41,060
+But maybe two or three hundred years later
+
+1010
+00:51:41,060 --> 00:51:45,560
+Do you have the impression that we are talking about the distance between the stars
+
+1011
+00:51:45,560 --> 00:51:50,560
+Of course, there are tens of thousands of light years, or even hundreds of millions of light years.
+
+1012
+00:51:50,560 --> 00:51:54,060
+That's just running away, not man would have already run away
+
+1013
+00:51:54,060 --> 00:51:58,060
+Man-made numbers that can run may be 1/1000th of light
+
+1014
+00:51:58,060 --> 00:52:01,060
+that means
+
+1015
+00:52:00,000 --> 00:52:05,000
+There are many galaxies, but space is still very lonely
+
+1016
+00:52:05,000 --> 00:52:10,000
+You're going from one solar system to the next
+
+1017
+00:52:10,000 --> 00:52:13,000
+And it might be a long, long time
+
+1018
+00:52:13,000 --> 00:52:17,000
+So, here I will make a picture
+
+1019
+00:52:17,000 --> 00:52:22,000
+This is Eston, when he joined NASA very young
+
+1020
+00:52:22,000 --> 00:52:26,000
+This is him two years ago, our thermoelectric society
+
+1021
+00:52:26,000 --> 00:52:31,000
+In Pasadena, at the Celtic
+
+1022
+00:52:31,000 --> 00:52:36,000
+Eston came to tell us the story of Voyager
+
+1023
+00:52:36,000 --> 00:52:40,000
+what does that mean? i want to tell him that means
+
+1024
+00:52:40,000 --> 00:52:44,000
+be his baby, his baby
+
+1025
+00:52:44,000 --> 00:52:47,000
+when done from here
+
+1026
+00:52:47,000 --> 00:52:50,000
+He is also in his seventies, seventies or eighties
+
+1027
+00:52:50,000 --> 00:52:55,000
+He's as ready as a spaceship
+
+1028
+00:52:55,000 --> 00:52:58,000
+retired
+
+1029
+00:53:00,000 --> 00:53:03,020
+It does sound a bit sentimental.
+
+1030
+00:53:03,020 --> 00:53:07,020
+But it's also pretty
+
+1031
+00:53:07,020 --> 00:53:09,020
+how to say
+
+1032
+00:53:09,020 --> 00:53:12,020
+A sense of accomplishment
+
+1033
+00:53:12,020 --> 00:53:16,020
+your mission has been
+
+1034
+00:53:16,020 --> 00:53:19,020
+the way to go
+
+1035
+00:53:19,020 --> 00:53:21,020
+The planets that should be explored have already been explored
+
+1036
+00:53:21,020 --> 00:53:24,020
+from here to here
+
+1037
+00:53:24,020 --> 00:53:27,020
+so it's an interesting story
+
+1038
+00:53:27,020 --> 00:53:29,020
+Of course what we are going to tell today is not his story.
+
+1039
+00:53:29,040 --> 00:53:32,040
+what we're going to talk about is this
+
+1040
+00:53:32,040 --> 00:53:34,040
+use him to generate electricity
+
+1041
+00:53:34,040 --> 00:53:37,040
+For example, this is another new one
+
+1042
+00:53:37,040 --> 00:53:38,040
+Mars
+
+1043
+00:53:38,040 --> 00:53:40,040
+You can use solar panels on Mars
+
+1044
+00:53:40,040 --> 00:53:41,040
+no no no
+
+1045
+00:53:41,040 --> 00:53:45,040
+The power of solar panels is still limited
+
+1046
+00:53:45,040 --> 00:53:47,040
+So it's this Mars rover
+
+1047
+00:53:47,040 --> 00:53:49,040
+Now it's about going to explore Mars.
+
+1048
+00:53:49,040 --> 00:53:52,040
+then you can smooth this
+
+1049
+00:53:52,040 --> 00:53:54,040
+after landing
+
+1050
+00:53:54,040 --> 00:53:56,040
+your cars
+
+1051
+00:53:56,060 --> 00:53:59,060
+You need pretty high power for this
+
+1052
+00:53:59,060 --> 00:54:00,060
+still want
+
+1053
+00:54:00,000 --> 00:54:05,420
+Use this RTG, this radioactive thermoelectric, to generate electricity
+
+1054
+00:54:06,420 --> 00:54:08,420
+So everyone can go from here
+
+1055
+00:54:08,420 --> 00:54:14,820
+You can feel that this thermal power has indeed made a very important contribution
+
+1056
+00:54:14,820 --> 00:54:17,820
+especially in space
+
+1057
+00:54:18,480 --> 00:54:23,780
+Then let's look at this thermoelectric conversion and many mathematical things
+
+1058
+00:54:23,780 --> 00:54:25,280
+let's not talk too much
+
+1059
+00:54:25,280 --> 00:54:28,480
+But this thing has a Figure Marriage
+
+1060
+00:54:28,480 --> 00:54:30,480
+What do we call optimization factor
+
+1061
+00:54:31,360 --> 00:54:34,360
+Basically it has an upstairs and a downstairs
+
+1062
+00:54:34,360 --> 00:54:35,360
+good
+
+1063
+00:54:36,360 --> 00:54:39,360
+It has an upstairs and a downstairs and multiplied by the temperature
+
+1064
+00:54:39,860 --> 00:54:41,860
+The bigger you go upstairs, the better
+
+1065
+00:54:41,860 --> 00:54:43,860
+The lower the downstairs, the better
+
+1066
+00:54:44,520 --> 00:54:48,560
+Upstairs is the thermoelectric coefficient we just talked about
+
+1067
+00:54:48,560 --> 00:54:49,560
+C-back coefficient
+
+1068
+00:54:50,060 --> 00:54:53,060
+Then there's an electrical conductivity here
+
+1069
+00:54:53,140 --> 00:54:55,640
+You said that the higher the conductivity, the greater the C-back coefficient
+
+1070
+00:54:55,640 --> 00:54:56,640
+that's better
+
+1071
+00:54:56,640 --> 00:54:59,640
+Downstairs is the heat transfer coefficient
+
+1072
+00:55:00,000 --> 00:55:02,760
+That leads to the smaller the better
+
+1073
+00:55:03,080 --> 00:55:05,760
+then if you can put this to play with it
+
+1074
+00:55:05,760 --> 00:55:10,240
+You can get better with this thermoelectric material
+
+1075
+00:55:10,880 --> 00:55:12,760
+but it's interesting
+
+1076
+00:55:14,120 --> 00:55:16,280
+In the past if you came to see
+
+1077
+00:55:16,880 --> 00:55:18,760
+This past human development
+
+1078
+00:55:18,760 --> 00:55:21,960
+Seven years from the 1940s to 1960
+
+1079
+00:55:21,960 --> 00:55:23,760
+Wow this is a little bit of progress
+
+1080
+00:55:23,960 --> 00:55:24,920
+In fact
+
+1081
+00:55:25,200 --> 00:55:27,920
+From 670 to 2000
+
+1082
+00:55:28,360 --> 00:55:29,120
+this
+
+1083
+00:55:29,360 --> 00:55:33,280
+This optimization factor is always below 1
+
+1084
+00:55:34,600 --> 00:55:35,720
+what's even
+
+1085
+00:55:36,120 --> 00:55:37,680
+some people doubt that
+
+1086
+00:55:37,680 --> 00:55:38,480
+ah this
+
+1087
+00:55:38,840 --> 00:55:40,480
+Is this optimization factor
+
+1088
+00:55:41,200 --> 00:55:43,040
+This maximum value
+
+1089
+00:55:43,040 --> 00:55:44,120
+must be small 1
+
+1090
+00:55:44,840 --> 00:55:46,120
+It means there is no hope
+
+1091
+00:55:46,120 --> 00:55:47,200
+I thought everyone would
+
+1092
+00:55:47,320 --> 00:55:48,000
+if
+
+1093
+00:55:48,560 --> 00:55:49,760
+I mentioned it here
+
+1094
+00:55:50,240 --> 00:55:52,040
+What if you want this optimization factor?
+
+1095
+00:55:52,040 --> 00:55:53,360
+If you want a sophomore
+
+1096
+00:55:53,640 --> 00:55:55,600
+It has the scrap meat we just talked about
+
+1097
+00:55:55,600 --> 00:55:57,240
+waste meat recycling
+
+1098
+00:55:57,480 --> 00:55:58,440
+what else
+
+1099
+00:55:58,800 --> 00:55:59,960
+our
+
+1100
+00:56:00,000 --> 00:56:03,400
+What is the name of this one in Yangmingshan?
+
+1101
+00:56:04,000 --> 00:56:05,000
+geothermal
+
+1102
+00:56:05,000 --> 00:56:10,000
+With this thing, a lot of energy can be recovered
+
+1103
+00:56:10,000 --> 00:56:13,000
+but you have to be good enough
+
+1104
+00:56:13,000 --> 00:56:14,500
+Or
+
+1105
+00:56:14,500 --> 00:56:19,000
+The air conditioner in your home or the one we are using now
+
+1106
+00:56:19,000 --> 00:56:21,000
+The most important thing for an air conditioner is a compressor
+
+1107
+00:56:21,000 --> 00:56:23,000
+that compressor
+
+1108
+00:56:23,000 --> 00:56:28,000
+Although the efficiency is very good, it is very efficient
+
+1109
+00:56:28,000 --> 00:56:32,000
+Then if you want to compete with the compressor
+
+1110
+00:56:32,000 --> 00:56:35,000
+Your optimization factor should be greater than 4
+
+1111
+00:56:35,000 --> 00:56:39,000
+So let's see how much everyone has done so far.
+
+1112
+00:56:39,000 --> 00:56:43,000
+As just mentioned, most of them are below 1
+
+1113
+00:56:43,000 --> 00:56:46,000
+By the year 2000 or so
+
+1114
+00:56:46,000 --> 00:56:48,000
+got up from the start
+
+1115
+00:56:48,000 --> 00:56:50,000
+Everyone gave up
+
+1116
+00:56:50,000 --> 00:56:52,000
+What is this year 2000?
+
+1117
+00:56:52,000 --> 00:56:54,000
+2000
+
+1118
+00:56:54,000 --> 00:56:57,000
+Clinton announced that
+
+1119
+00:56:57,000 --> 00:56:59,000
+this
+
+1120
+00:57:00,000 --> 00:57:04,400
+National Science, the nanoscience initiative
+
+1121
+00:57:04,400 --> 00:57:13,400
+It's Congress passing a lot of money for the scientific community to do nanoscience.
+
+1122
+00:57:13,400 --> 00:57:18,600
+After the nano science is down, the part of the material, the nano material
+
+1123
+00:57:18,600 --> 00:57:27,600
+There are many, many improvements that make this a considerable improvement
+
+1124
+00:57:27,600 --> 00:57:33,000
+However, although there has been an improvement, it is probably still below two
+
+1125
+00:57:33,000 --> 00:57:38,500
+Especially, the real industrial application is only in this generation
+
+1126
+00:57:38,500 --> 00:57:46,000
+If you want to exceed two, now at most you will occasionally report in the laboratory
+
+1127
+00:57:46,000 --> 00:57:52,400
+So, there is still a long way to go for this development
+
+1128
+00:57:52,400 --> 00:58:00,000
+Let’s look at it again, that is to say, most of this was done in the past, because
+
+1129
+00:58:00,000 --> 00:58:04,840
+So this heat conduction is getting lower and lower
+
+1130
+00:58:04,840 --> 00:58:08,840
+Instead, the part of the above molecule that needs to be elevated
+
+1131
+00:58:08,840 --> 00:58:10,840
+not much improvement
+
+1132
+00:58:10,840 --> 00:58:13,840
+That light reduces the heat conduction
+
+1133
+00:58:13,840 --> 00:58:15,840
+it's not enough
+
+1134
+00:58:15,840 --> 00:58:16,840
+how do you get in
+
+1135
+00:58:16,840 --> 00:58:18,840
+can change the material
+
+1136
+00:58:18,840 --> 00:58:20,840
+its electronic structure
+
+1137
+00:58:20,840 --> 00:58:21,840
+Etc., etc
+
+1138
+00:58:21,840 --> 00:58:24,840
+there's a lot to do
+
+1139
+00:58:24,840 --> 00:58:27,840
+let's not talk too much today
+
+1140
+00:58:27,840 --> 00:58:31,840
+went deep
+
+1141
+00:58:31,840 --> 00:58:33,840
+but let everyone feel
+
+1142
+00:58:33,840 --> 00:58:35,840
+For example, we just talked about your house
+
+1143
+00:58:35,840 --> 00:58:37,840
+Is this complex
+
+1144
+00:58:37,840 --> 00:58:39,840
+Still a regular house
+
+1145
+00:58:39,840 --> 00:58:41,840
+then it has different materials
+
+1146
+00:58:41,840 --> 00:58:43,840
+Here is 1.0
+
+1147
+00:58:43,840 --> 00:58:45,840
+1.0 is here
+
+1148
+00:58:45,840 --> 00:58:47,840
+most of the material
+
+1149
+00:58:47,840 --> 00:58:49,840
+In fact, it is all lower than 1
+
+1150
+00:58:49,840 --> 00:58:51,840
+there are a few
+
+1151
+00:58:51,840 --> 00:58:53,840
+can be higher than 1
+
+1152
+00:58:53,840 --> 00:58:55,840
+then here
+
+1153
+00:58:55,840 --> 00:58:57,840
+At the same time, I want to tell everyone
+
+1154
+00:58:57,840 --> 00:58:59,840
+these materials
+
+1155
+00:59:00,000 --> 00:59:03,600
+You said the Bismuth Terrarium we just talked about is good
+
+1156
+00:59:03,600 --> 00:59:08,700
+It can have a good oil coefficient at very low temperature
+
+1157
+00:59:09,200 --> 00:59:12,800
+But it's only good at certain temperatures
+
+1158
+00:59:13,500 --> 00:59:17,100
+The Silicon Jomainium that was just mentioned is going to space.
+
+1159
+00:59:17,800 --> 00:59:19,400
+it's not very high
+
+1160
+00:59:19,700 --> 00:59:22,800
+But it can go to very high temperature
+
+1161
+00:59:22,800 --> 00:59:24,300
+and then all behaved well
+
+1162
+00:59:24,300 --> 00:59:28,400
+Then your radioactive element can provide very high temperature
+
+1163
+00:59:28,500 --> 00:59:30,000
+so just right for it
+
+1164
+00:59:30,800 --> 00:59:33,900
+Every material it is not omnipotent
+
+1165
+00:59:34,300 --> 00:59:36,800
+It is only in a certain temperature range
+
+1166
+00:59:37,200 --> 00:59:40,900
+is the temperature at which it behaves well
+
+1167
+00:59:41,500 --> 00:59:45,200
+So it depends on what you want to use
+
+1168
+00:59:46,000 --> 00:59:47,600
+if you want to cool down
+
+1169
+00:59:47,600 --> 00:59:48,900
+then climb down
+
+1170
+00:59:49,100 --> 00:59:49,900
+come down
+
+1171
+00:59:50,000 --> 00:59:52,600
+If you want to generate electricity, go up
+
+1172
+00:59:52,900 --> 00:59:56,200
+If you want to use the waste heat of the car
+
+1173
+00:59:56,200 --> 00:59:58,200
+your exhaust pipe comes out
+
+1174
+00:59:58,200 --> 00:59:59,900
+about 800
+
+1175
+01:00:00,000 --> 01:00:04,160
+400 to 800 degrees, this one, this one
+
+1176
+01:00:04,160 --> 01:00:10,000
+Therefore, there may be a lot of research and development needed
+
+1177
+01:00:10,000 --> 01:00:14,600
+we'll see this later
+
+1178
+01:00:14,600 --> 01:00:17,800
+This thing, these parameters
+
+1179
+01:00:17,800 --> 01:00:21,900
+it is, it's not that simple, it's interactive
+
+1180
+01:00:21,900 --> 01:00:26,900
+For example, this is α, this is the thermoelectric parameter, and this is
+
+1181
+01:00:26,900 --> 01:00:29,400
+When you change something, it comes down
+
+1182
+01:00:29,500 --> 01:00:33,200
+But, among them, the conductivity number, the heavier it goes up
+
+1183
+01:00:33,200 --> 01:00:38,500
+Then you are like a see-saw, this side is higher and this side is lower
+
+1184
+01:00:38,500 --> 01:00:43,500
+Come down and go, or there is a saying in Minnan dialect
+
+1185
+01:00:43,500 --> 01:00:46,300
+It's better to describe it as Yagu Zhaobi
+
+1186
+01:00:46,300 --> 01:00:49,800
+You, when you came to this side, this side ran away again
+
+1187
+01:00:49,800 --> 01:00:54,300
+So, we are playing with this material, thermoelectric material
+
+1188
+01:00:54,300 --> 01:00:57,900
+The factory manager doesn't make materials as usual
+
+1189
+01:00:57,900 --> 01:00:59,900
+i want to see models, i don't just
+
+1190
+01:01:00,000 --> 01:01:01,460
+Just make it bigger
+
+1191
+01:01:01,460 --> 01:01:03,020
+No, your side is big
+
+1192
+01:01:03,020 --> 01:01:04,300
+Here is a small set
+
+1193
+01:01:04,300 --> 01:01:05,820
+so it's not easy
+
+1194
+01:01:08,020 --> 01:01:08,620
+OK
+
+1195
+01:01:09,500 --> 01:01:11,700
+that now there are many
+
+1196
+01:01:11,700 --> 01:01:13,420
+various materials
+
+1197
+01:01:13,420 --> 01:01:14,820
+I think I'm not going into details
+
+1198
+01:01:14,820 --> 01:01:17,500
+It has a resistant rice structure
+
+1199
+01:01:17,500 --> 01:01:19,660
+some put some material
+
+1200
+01:01:19,660 --> 01:01:21,060
+will keep it in
+
+1201
+01:01:21,060 --> 01:01:22,860
+This we call Rethylene
+
+1202
+01:01:22,860 --> 01:01:24,700
+let it over there
+
+1203
+01:01:24,700 --> 01:01:26,260
+this student
+
+1204
+01:01:26,260 --> 01:01:27,360
+when it's hot
+
+1205
+01:01:27,360 --> 01:01:28,720
+it will be over there
+
+1206
+01:01:28,720 --> 01:01:31,880
+vibrating inside
+
+1207
+01:01:31,880 --> 01:01:34,760
+Then let the heat go down easily
+
+1208
+01:01:34,760 --> 01:01:36,720
+There are even some materials that say
+
+1209
+01:01:36,720 --> 01:01:38,080
+it looks solid though
+
+1210
+01:01:38,080 --> 01:01:41,240
+But in fact it's like a liquid inside
+
+1211
+01:01:41,240 --> 01:01:43,360
+The heat will be more difficult to pass
+
+1212
+01:01:43,360 --> 01:01:45,880
+blah blah blah
+
+1213
+01:01:45,880 --> 01:01:50,680
+That is the same as, for example, Nami structural materials
+
+1214
+01:01:50,680 --> 01:01:53,680
+how are you like this
+
+1215
+01:01:53,680 --> 01:01:56,360
+Different we call Grain
+
+1216
+01:01:56,360 --> 01:01:58,080
+big or small
+
+1217
+01:01:58,080 --> 01:02:00,080
+or there is this
+
+1218
+01:02:00,000 --> 01:02:03,780
+with raisins, or with this sandwich biscuit in it
+
+1219
+01:02:03,780 --> 01:02:05,940
+Various materials now
+
+1220
+01:02:05,940 --> 01:02:08,020
+it's all there now
+
+1221
+01:02:08,020 --> 01:02:10,180
+lots to do
+
+1222
+01:02:10,180 --> 01:02:12,940
+Just now this was a trial intention
+
+1223
+01:02:12,940 --> 01:02:14,880
+this is
+
+1224
+01:02:14,880 --> 01:02:18,640
+What can be seen in the experimental materials
+
+1225
+01:02:18,640 --> 01:02:19,820
+good
+
+1226
+01:02:20,820 --> 01:02:22,020
+What about us
+
+1227
+01:02:22,020 --> 01:02:23,520
+what about the laboratory
+
+1228
+01:02:23,520 --> 01:02:25,520
+just mentioned
+
+1229
+01:02:25,520 --> 01:02:27,520
+This Silicon Jominium
+
+1230
+01:02:27,520 --> 01:02:30,280
+It has been proven, put it in the tire cavity and use it again
+
+1231
+01:02:30,280 --> 01:02:31,200
+Eh
+
+1232
+01:02:31,200 --> 01:02:33,840
+We say carbon finer
+
+1233
+01:02:33,840 --> 01:02:34,500
+right
+
+1234
+01:02:34,500 --> 01:02:36,120
+carbon fine
+
+1235
+01:02:36,120 --> 01:02:37,800
+wash
+
+1236
+01:02:37,800 --> 01:02:39,000
+ah
+
+1237
+01:02:39,000 --> 01:02:39,720
+wash
+
+1238
+01:02:39,720 --> 01:02:41,320
+then pull
+
+1239
+01:02:41,320 --> 01:02:43,000
+that row
+
+1240
+01:02:43,000 --> 01:02:44,840
+But Silicon Jominium can
+
+1241
+01:02:44,840 --> 01:02:46,840
+Then Silicon Tin can do it
+
+1242
+01:02:46,840 --> 01:02:47,600
+wash
+
+1243
+01:02:47,600 --> 01:02:49,680
+wash heel
+
+1244
+01:02:49,680 --> 01:02:51,040
+wash
+
+1245
+01:02:51,040 --> 01:02:53,000
+wash and wash
+
+1246
+01:02:53,000 --> 01:02:54,800
+These two are in the same row
+
+1247
+01:02:54,880 --> 01:02:57,520
+The electronic structure is almost
+
+1248
+01:02:57,520 --> 01:02:58,720
+only
+
+1249
+01:02:58,720 --> 01:02:59,720
+this ratio
+
+1250
+01:03:00,000 --> 01:03:03,680
+This washing is heavier than folding
+
+1251
+01:03:03,680 --> 01:03:06,680
+The heavier the thermoelectric material, the better.
+
+1252
+01:03:06,680 --> 01:03:08,520
+the heavier the words
+
+1253
+01:03:08,520 --> 01:03:11,680
+Its heat transfer will be slower
+
+1254
+01:03:11,680 --> 01:03:13,920
+so what
+
+1255
+01:03:13,920 --> 01:03:15,360
+we just wanna say wow
+
+1256
+01:03:15,360 --> 01:03:17,360
+then this will be better than this
+
+1257
+01:03:17,360 --> 01:03:19,200
+let's try
+
+1258
+01:03:19,200 --> 01:03:21,200
+Those who work on materials will know
+
+1259
+01:03:21,200 --> 01:03:24,320
+These two things never mix
+
+1260
+01:03:24,320 --> 01:03:26,320
+you put them in one by one
+
+1261
+01:03:26,320 --> 01:03:28,320
+as soon as the temperature drops
+
+1262
+01:03:28,320 --> 01:03:30,320
+separate soon
+
+1263
+01:03:30,320 --> 01:03:32,320
+impossible to be an alloy
+
+1264
+01:03:32,320 --> 01:03:34,320
+Then we said
+
+1265
+01:03:34,320 --> 01:03:36,320
+Impossible to alloy it doesn't matter
+
+1266
+01:03:36,320 --> 01:03:38,320
+then i'll let you make this
+
+1267
+01:03:38,320 --> 01:03:40,320
+We are called non-golden statues
+
+1268
+01:03:40,320 --> 01:03:42,320
+Amorphous
+
+1269
+01:03:42,320 --> 01:03:44,320
+what about Amorphous
+
+1270
+01:03:44,320 --> 01:03:46,320
+then we start researching
+
+1271
+01:03:46,320 --> 01:03:48,320
+Recently there seems to be a sign
+
+1272
+01:03:48,320 --> 01:03:50,320
+I can't explain it to you here.
+
+1273
+01:03:50,320 --> 01:03:52,320
+one direction like this
+
+1274
+01:03:52,320 --> 01:03:54,320
+we are actually doing now
+
+1275
+01:03:54,320 --> 01:03:56,320
+even say
+
+1276
+01:03:56,320 --> 01:03:58,320
+if these two
+
+1277
+01:03:58,320 --> 01:04:00,320
+won't mix
+
+1278
+01:04:00,000 --> 01:04:04,400
+This prisoner, I'll leave as soon as I see you
+
+1279
+01:04:04,400 --> 01:04:08,600
+Then can I use three, a love triangle
+
+1280
+01:04:08,600 --> 01:04:12,600
+It's a big deal between two people, let's put the third one in
+
+1281
+01:04:12,600 --> 01:04:14,600
+Magnetium Silicon Tin
+
+1282
+01:04:14,600 --> 01:04:22,600
+It is possible, in fact this material has been used a lot in thermoelectric materials
+
+1283
+01:04:22,600 --> 01:04:24,600
+studied a lot
+
+1284
+01:04:24,600 --> 01:04:27,100
+Of course it's very important
+
+1285
+01:04:27,100 --> 01:04:30,400
+For example, although the material is very good
+
+1286
+01:04:30,400 --> 01:04:33,900
+But you can tell when you see the material
+
+1287
+01:04:33,900 --> 01:04:36,900
+If you don't touch this Germanium, you better not touch it
+
+1288
+01:04:36,900 --> 01:04:38,900
+because it's expensive
+
+1289
+01:04:38,900 --> 01:04:43,900
+It is probably more than a hundred times that of Silicon
+
+1290
+01:04:43,900 --> 01:04:48,900
+So you have a lot of money just to buy materials
+
+1291
+01:04:48,900 --> 01:04:51,900
+But you said Silicon and Tin, laundry and drama
+
+1292
+01:04:51,900 --> 01:04:55,400
+Both of these are many on the surface
+
+1293
+01:04:55,400 --> 01:04:57,400
+So it's cheap in comparison
+
+1294
+01:04:57,400 --> 01:05:00,400
+But the two don't touch together
+
+1295
+01:05:00,000 --> 01:05:02,000
+what to do
+
+1296
+01:05:02,000 --> 01:05:02,000
+
+1297
+01:05:02,000 --> 01:05:04,000
+Magnetism Silicon Tin
+
+1298
+01:05:04,000 --> 01:05:06,000
+This is also cheap
+
+1299
+01:05:06,000 --> 01:05:08,000
+The second and third are cheaper
+
+1300
+01:05:08,000 --> 01:05:10,000
+then this looks good
+
+1301
+01:05:10,000 --> 01:05:12,000
+So Japan in this regard
+
+1302
+01:05:12,000 --> 01:05:14,000
+great effort
+
+1303
+01:05:14,000 --> 01:05:16,000
+so let everyone
+
+1304
+01:05:16,000 --> 01:05:18,000
+Feel it, so what materials can you play with
+
+1305
+01:05:18,000 --> 01:05:20,000
+for example
+
+1306
+01:05:22,000 --> 01:05:24,000
+Germanium Terulium
+
+1307
+01:05:24,000 --> 01:05:26,000
+this is also a
+
+1308
+01:05:26,000 --> 01:05:28,000
+our normal one
+
+1309
+01:05:28,000 --> 01:05:30,000
+Used in your home
+
+1310
+01:05:30,000 --> 01:05:32,000
+DVDs, CDs
+
+1311
+01:05:32,000 --> 01:05:34,000
+Once the laser is fired, it will
+
+1312
+01:05:34,000 --> 01:05:36,000
+in disguise
+
+1313
+01:05:36,000 --> 01:05:38,000
+So use this to remember
+
+1314
+01:05:38,000 --> 01:05:40,000
+memory for CD
+
+1315
+01:05:40,000 --> 01:05:42,000
+already used a lot
+
+1316
+01:05:42,000 --> 01:05:44,000
+We found that it
+
+1317
+01:05:44,000 --> 01:05:46,000
+Mainly like this battery
+
+1318
+01:05:46,000 --> 01:05:48,000
+We also recently got some
+
+1319
+01:05:48,000 --> 01:05:50,000
+effect, looks
+
+1320
+01:05:50,000 --> 01:05:52,000
+It's really good, although it's inside
+
+1321
+01:05:52,000 --> 01:05:54,000
+This Germanium is quite expensive
+
+1322
+01:05:54,000 --> 01:05:56,000
+Terulium is not cheap either
+
+1323
+01:05:56,000 --> 01:05:58,000
+but
+
+1324
+01:05:58,000 --> 01:06:00,000
+from research
+
+1325
+01:06:00,000 --> 01:06:02,000
+OK
+
+1326
+01:06:00,000 --> 01:06:02,000
+ok good
+
+1327
+01:06:03,320 --> 01:06:05,320
+this is a
+
+1328
+01:06:05,320 --> 01:06:07,320
+uh just arrived
+
+1329
+01:06:07,320 --> 01:06:09,820
+Professor Zhiwei Zhang from Ningtai Center
+
+1330
+01:06:09,820 --> 01:06:10,820
+he brought it up
+
+1331
+01:06:10,820 --> 01:06:13,820
+He said you just put two, two episodes
+
+1332
+01:06:13,820 --> 01:06:15,820
+one can one hot one cold
+
+1333
+01:06:15,820 --> 01:06:17,820
+It's over
+
+1334
+01:06:17,820 --> 01:06:19,820
+uh this is not enough
+
+1335
+01:06:19,820 --> 01:06:21,820
+He uses three-stage
+
+1336
+01:06:21,820 --> 01:06:23,820
+Thermoelectric materials are
+
+1337
+01:06:23,820 --> 01:06:25,820
+uh sorry
+
+1338
+01:06:25,820 --> 01:06:27,820
+I
+
+1339
+01:06:27,820 --> 01:06:29,820
+good
+
+1340
+01:06:29,820 --> 01:06:31,820
+again
+
+1341
+01:06:51,820 --> 01:06:53,820
+So what about Professor Zhang Zhiwei?
+
+1342
+01:06:53,820 --> 01:06:55,820
+he just
+
+1343
+01:06:55,820 --> 01:06:57,820
+does not pose a method
+
+1344
+01:06:57,820 --> 01:06:59,820
+Say you have three temperatures
+
+1345
+01:06:59,820 --> 01:07:01,820
+one
+
+1346
+01:07:00,000 --> 01:07:01,260
+two, three
+
+1347
+01:07:01,760 --> 01:07:04,200
+Then this material is very special
+
+1348
+01:07:04,200 --> 01:07:07,480
+He thinks that if this material is a material called
+
+1349
+01:07:07,920 --> 01:07:11,960
+When electricity or heat is transmitted, it is called
+
+1350
+01:07:13,000 --> 01:07:14,540
+is one is one
+
+1351
+01:07:14,540 --> 01:07:15,760
+Belistic
+
+1352
+01:07:15,760 --> 01:07:16,760
+that is
+
+1353
+01:07:16,760 --> 01:07:19,960
+Not the usual diffuser
+
+1354
+01:07:19,960 --> 01:07:22,440
+but a bullet-like transmission
+
+1355
+01:07:22,440 --> 01:07:25,260
+In this way you can get
+
+1356
+01:07:25,260 --> 01:07:26,760
+higher efficiency
+
+1357
+01:07:27,260 --> 01:07:30,260
+Then it is still working hard
+
+1358
+01:07:30,260 --> 01:07:31,760
+In addition
+
+1359
+01:07:33,760 --> 01:07:36,760
+The laboratory of Academician Wu Maokun
+
+1360
+01:07:36,760 --> 01:07:39,760
+It uses one called Aerogel
+
+1361
+01:07:39,760 --> 01:07:41,760
+Aerogel is a
+
+1362
+01:07:41,760 --> 01:07:44,760
+Oxide-based materials
+
+1363
+01:07:44,760 --> 01:07:46,760
+But it is a very
+
+1364
+01:07:46,760 --> 01:07:48,760
+Sponge-like oxidation system
+
+1365
+01:07:48,760 --> 01:07:51,760
+Oxidizing system because it can withstand very high heat
+
+1366
+01:07:51,760 --> 01:07:53,760
+so what
+
+1367
+01:07:53,760 --> 01:07:54,760
+it won't dissolve
+
+1368
+01:07:54,760 --> 01:07:57,760
+For example, this is a torch and a flame
+
+1369
+01:07:57,760 --> 01:07:59,760
+It burns in this Aerogel
+
+1370
+01:08:00,000 --> 01:08:06,400
+The L of the crab is on the bottom, and a flower is placed on it, it will not be affected
+
+1371
+01:08:06,400 --> 01:08:09,720
+So it conducts heat very, very low
+
+1372
+01:08:09,720 --> 01:08:18,440
+So Academician Wu combined this material with existing thermoelectric materials
+
+1373
+01:08:18,440 --> 01:08:25,760
+Then it was found that the parameters of thermoelectricity can be effectively improved
+
+1374
+01:08:25,760 --> 01:08:31,200
+Wait, I can't introduce everything
+
+1375
+01:08:31,200 --> 01:08:35,760
+This is Professor Chen Lidong in Shanghai
+
+1376
+01:08:35,760 --> 01:08:43,440
+One of the things he did was to say that it develops thermoelectricity. If you were a freshman in thermoelectricity before
+
+1377
+01:08:43,440 --> 01:08:47,520
+At the beginning you can only use it in space, with a very special
+
+1378
+01:08:47,520 --> 01:08:51,120
+Slowly heat and electricity, if it reaches about 2000
+
+1379
+01:08:51,120 --> 01:08:59,440
+It has a few more, including this familiar refrigerator and more
+
+1380
+01:09:00,000 --> 01:09:02,500
+energy available
+
+1381
+01:09:02,500 --> 01:09:04,000
+that's it
+
+1382
+01:09:04,000 --> 01:09:07,000
+What about after 2020?
+
+1383
+01:09:07,000 --> 01:09:08,000
+this
+
+1384
+01:09:08,000 --> 01:09:10,000
+its this gt
+
+1385
+01:09:10,000 --> 01:09:11,000
+freshman
+
+1386
+01:09:11,000 --> 01:09:12,500
+even up to 1.5
+
+1387
+01:09:12,500 --> 01:09:15,500
+Slowly it can be used in the car
+
+1388
+01:09:15,500 --> 01:09:16,500
+etc.
+
+1389
+01:09:16,500 --> 01:09:18,500
+It is more and more widely used
+
+1390
+01:09:18,500 --> 01:09:20,000
+that's like i said
+
+1391
+01:09:20,000 --> 01:09:21,500
+if you really want to be useful
+
+1392
+01:09:21,500 --> 01:09:23,000
+Still have to go to 2.0
+
+1393
+01:09:23,000 --> 01:09:24,500
+or 4.0
+
+1394
+01:09:24,500 --> 01:09:26,500
+is it possible to get there
+
+1395
+01:09:26,500 --> 01:09:28,000
+Now everyone is still working hard
+
+1396
+01:09:28,500 --> 01:09:31,500
+I'll make one with him
+
+1397
+01:09:31,500 --> 01:09:34,500
+current difficulties
+
+1398
+01:09:34,500 --> 01:09:35,500
+What about the difficulty?
+
+1399
+01:09:35,500 --> 01:09:38,500
+The first is that it is not efficient enough
+
+1400
+01:09:38,500 --> 01:09:40,000
+usually
+
+1401
+01:09:40,000 --> 01:09:42,500
+about 10%
+
+1402
+01:09:42,500 --> 01:09:45,500
+10% is
+
+1403
+01:09:45,500 --> 01:09:47,500
+already very high
+
+1404
+01:09:47,500 --> 01:09:49,000
+but
+
+1405
+01:09:49,000 --> 01:09:50,000
+if you come to tell
+
+1406
+01:09:50,000 --> 01:09:51,500
+If you want to generate electricity
+
+1407
+01:09:51,500 --> 01:09:53,500
+e.g. solar
+
+1408
+01:09:53,500 --> 01:09:55,500
+or wind energy
+
+1409
+01:09:55,500 --> 01:09:57,500
+What about solar energy?
+
+1410
+01:09:57,500 --> 01:10:00,000
+has long been proven
+
+1411
+01:10:00,000 --> 01:10:06,160
+He said he is now the cheapest of all energy sources
+
+1412
+01:10:07,760 --> 01:10:08,760
+That
+
+1413
+01:10:09,760 --> 01:10:13,160
+We are all looking for alternative energy now
+
+1414
+01:10:13,500 --> 01:10:16,760
+I can cut it right here
+
+1415
+01:10:16,760 --> 01:10:17,600
+that is
+
+1416
+01:10:17,960 --> 01:10:20,920
+Alternative Energy of the Future
+
+1417
+01:10:21,760 --> 01:10:23,600
+This solar is mainstream
+
+1418
+01:10:24,360 --> 01:10:25,960
+The second is wind power
+
+1419
+01:10:26,660 --> 01:10:28,120
+What about wind power?
+
+1420
+01:10:28,840 --> 01:10:29,640
+recently
+
+1421
+01:10:30,040 --> 01:10:30,540
+Well
+
+1422
+01:10:31,280 --> 01:10:32,320
+also from
+
+1423
+01:10:32,840 --> 01:10:35,640
+The original price has been reduced to
+
+1424
+01:10:35,640 --> 01:10:36,040
+ha
+
+1425
+01:10:36,580 --> 01:10:37,240
+and
+
+1426
+01:10:37,680 --> 01:10:40,280
+This thermal power generation
+
+1427
+01:10:40,980 --> 01:10:42,720
+Similar to traditional thermal power generation
+
+1428
+01:10:44,120 --> 01:10:44,640
+That
+
+1429
+01:10:45,280 --> 01:10:48,720
+This thing is of course similar to the energy transformation we are doing in Taiwan.
+
+1430
+01:10:48,720 --> 01:10:51,180
+Then our government is also developing these two areas
+
+1431
+01:10:51,180 --> 01:10:51,540
+ha
+
+1432
+01:10:52,040 --> 01:10:53,380
+Although that said
+
+1433
+01:10:53,920 --> 01:10:55,120
+They are all
+
+1434
+01:10:56,120 --> 01:10:58,740
+Very Potential Very Cheap
+
+1435
+01:10:58,880 --> 01:10:59,280
+ha
+
+1436
+01:10:59,480 --> 01:11:00,080
+but
+
+1437
+01:11:00,000 --> 01:11:02,560
+The first one you have to invest in earlier
+
+1438
+01:11:02,800 --> 01:11:03,600
+the second
+
+1439
+01:11:04,100 --> 01:11:06,660
+they don't exist forever
+
+1440
+01:11:06,900 --> 01:11:10,500
+And what if there is no sun in this cover transit today?
+
+1441
+01:11:10,760 --> 01:11:11,520
+you will be gone
+
+1442
+01:11:12,040 --> 01:11:14,080
+Or there is no wind today
+
+1443
+01:11:14,340 --> 01:11:16,380
+your wind stops
+
+1444
+01:11:16,640 --> 01:11:19,460
+Then you sometimes do and sometimes don't
+
+1445
+01:11:19,720 --> 01:11:24,320
+It involves the storage of electricity as an energy source
+
+1446
+01:11:24,580 --> 01:11:26,360
+that is becoming very very important
+
+1447
+01:11:26,620 --> 01:11:28,680
+There may be many colleagues here
+
+1448
+01:11:28,940 --> 01:11:29,700
+all in
+
+1449
+01:11:29,900 --> 01:11:32,260
+related to this research
+
+1450
+01:11:33,540 --> 01:11:34,060
+That
+
+1451
+01:11:34,820 --> 01:11:36,360
+but anyway
+
+1452
+01:11:36,620 --> 01:11:37,380
+anyway
+
+1453
+01:11:38,400 --> 01:11:39,680
+if this
+
+1454
+01:11:39,940 --> 01:11:40,700
+like germany
+
+1455
+01:11:41,220 --> 01:11:42,500
+they from that
+
+1456
+01:11:43,020 --> 01:11:44,300
+Japanese style
+
+1457
+01:11:44,560 --> 01:11:45,580
+that tsunami
+
+1458
+01:11:46,080 --> 01:11:47,620
+three one
+
+1459
+01:11:48,140 --> 01:11:48,640
+after
+
+1460
+01:11:49,160 --> 01:11:50,440
+they suddenly
+
+1461
+01:11:50,700 --> 01:11:52,480
+awakened over night said
+
+1462
+01:11:53,260 --> 01:11:55,820
+Let's not go nuclear in the future
+
+1463
+01:11:56,060 --> 01:11:57,860
+Nuclear power will be abolished in a few years
+
+1464
+01:11:57,860 --> 01:11:59,920
+they actively go
+
+1465
+01:12:00,000 --> 01:12:03,320
+That one is these two, wind energy and solar energy
+
+1466
+01:12:03,320 --> 01:12:07,160
+Well they confirmed today
+
+1467
+01:12:07,160 --> 01:12:11,520
+Prove that this is a feasible solution
+
+1468
+01:12:11,520 --> 01:12:15,880
+He has confirmed that step by step
+
+1469
+01:12:15,880 --> 01:12:17,920
+Of course it is impossible to say within a year or two
+
+1470
+01:12:17,920 --> 01:12:24,060
+He can phase out this future nuclear power step by step
+
+1471
+01:12:24,060 --> 01:12:27,400
+Even this petrochemical raw material in the future
+
+1472
+01:12:28,400 --> 01:12:33,540
+Coal or oil or natural gas
+
+1473
+01:12:33,540 --> 01:12:37,900
+The whole step by step use this
+
+1474
+01:12:37,900 --> 01:12:40,960
+We call sustainable green energy
+
+1475
+01:12:47,880 --> 01:12:50,180
+can be used in the future
+
+1476
+01:12:50,180 --> 01:12:52,740
+green energy to replace
+
+1477
+01:12:52,740 --> 01:12:54,800
+That
+
+1478
+01:12:54,800 --> 01:12:57,100
+but
+
+1479
+01:12:57,100 --> 01:12:59,400
+he needs a while
+
+1480
+01:13:00,000 --> 01:13:02,940
+What is your government's plan?
+
+1481
+01:13:02,940 --> 01:13:05,060
+how determined are you
+
+1482
+01:13:05,060 --> 01:13:06,340
+but
+
+1483
+01:13:06,340 --> 01:13:10,220
+Such alternative energy
+
+1484
+01:13:10,220 --> 01:13:13,860
+Is it possible to use thermoelectricity?
+
+1485
+01:13:13,860 --> 01:13:15,580
+Thermoelectricity is far worse than it
+
+1486
+01:13:15,580 --> 01:13:16,980
+General Solar
+
+1487
+01:13:16,980 --> 01:13:18,980
+you are in the lab now
+
+1488
+01:13:18,980 --> 01:13:21,420
+Simply more than 20%
+
+1489
+01:13:21,420 --> 01:13:24,900
+In the market you can buy 15%
+
+1490
+01:13:24,900 --> 01:13:26,100
+15% complete
+
+1491
+01:13:26,100 --> 01:13:28,540
+Then you have to say 5% of our thermal power
+
+1492
+01:13:28,540 --> 01:13:30,540
+right it's hard how you compete
+
+1493
+01:13:30,540 --> 01:13:32,140
+so i'm going to talk to him later
+
+1494
+01:13:32,140 --> 01:13:34,140
+If you want to develop thermoelectricity
+
+1495
+01:13:34,140 --> 01:13:37,140
+you want to use it for a very special purpose
+
+1496
+01:13:37,140 --> 01:13:39,740
+Our name is Niche Application
+
+1497
+01:13:39,740 --> 01:13:41,940
+What about this special purpose?
+
+1498
+01:13:41,940 --> 01:13:43,940
+The most special thing is the spaceship
+
+1499
+01:13:43,940 --> 01:13:45,440
+then it really needs it
+
+1500
+01:13:45,440 --> 01:13:48,440
+Only it can take on this responsibility
+
+1501
+01:13:48,440 --> 01:13:50,440
+Are there any others?
+
+1502
+01:13:50,440 --> 01:13:51,740
+is there any other
+
+1503
+01:13:51,740 --> 01:13:53,240
+Our name is Niche Application
+
+1504
+01:13:53,240 --> 01:13:54,640
+talk later
+
+1505
+01:13:54,640 --> 01:13:55,840
+In addition
+
+1506
+01:13:55,840 --> 01:13:58,340
+One is its high material cost
+
+1507
+01:13:58,340 --> 01:14:00,340
+you say i put it...
+
+1508
+01:14:00,000 --> 01:14:02,760
+it mounts on the car
+
+1509
+01:14:02,760 --> 01:14:07,600
+Then I can increase the mileage by 10%
+
+1510
+01:14:07,600 --> 01:14:11,200
+Very good, 10% is also 10%
+
+1511
+01:14:11,200 --> 01:14:13,700
+if i had this when i bought it
+
+1512
+01:14:13,700 --> 01:14:16,000
+Then I save 10%
+
+1513
+01:14:16,000 --> 01:14:17,400
+but
+
+1514
+01:14:17,400 --> 01:14:20,700
+Current thermoelectric materials are too expensive
+
+1515
+01:14:20,700 --> 01:14:21,500
+so what
+
+1516
+01:14:21,500 --> 01:14:24,400
+Your previous investment was too high
+
+1517
+01:14:24,400 --> 01:14:26,300
+that can only be tested again
+
+1518
+01:14:26,300 --> 01:14:30,600
+You can't really use this for people's livelihood
+
+1519
+01:14:30,600 --> 01:14:32,700
+So how to develop this material
+
+1520
+01:14:32,700 --> 01:14:34,200
+Don't use that expensive material
+
+1521
+01:14:34,200 --> 01:14:36,000
+use cheap materials
+
+1522
+01:14:36,000 --> 01:14:37,800
+is also an important point
+
+1523
+01:14:37,800 --> 01:14:40,000
+good
+
+1524
+01:14:40,000 --> 01:14:41,300
+but
+
+1525
+01:14:41,300 --> 01:14:43,100
+when we talk about energy
+
+1526
+01:14:43,100 --> 01:14:44,900
+especially when it comes to alternative energy
+
+1527
+01:14:44,900 --> 01:14:48,900
+many people will make some mistakes
+
+1528
+01:14:48,900 --> 01:14:50,800
+idea or imagination
+
+1529
+01:14:50,800 --> 01:14:52,100
+for example
+
+1530
+01:14:52,100 --> 01:14:54,200
+Use water as energy
+
+1531
+01:14:54,200 --> 01:14:55,800
+what day is it
+
+1532
+01:14:55,800 --> 01:14:57,500
+That day the dean
+
+1533
+01:14:57,500 --> 01:14:59,100
+When the dean of the tune gave a speech, there was a speech that said
+
+1534
+01:14:59,100 --> 01:14:59,200
+Why
+
+1535
+01:15:00,000 --> 01:15:04,440
+Direct water can be used as energy
+
+1536
+01:15:04,440 --> 01:15:05,740
+why do we still have to buy gasoline
+
+1537
+01:15:05,740 --> 01:15:07,000
+Why do we still want to develop nuclear energy
+
+1538
+01:15:07,000 --> 01:15:08,800
+Why develop thermal power
+
+1539
+01:15:08,800 --> 01:15:09,760
+right
+
+1540
+01:15:09,760 --> 01:15:12,800
+Can water be used as energy?
+
+1541
+01:15:12,800 --> 01:15:17,280
+can anyone answer
+
+1542
+01:15:17,280 --> 01:15:19,320
+water as energy
+
+1543
+01:15:19,320 --> 01:15:21,880
+Then we can use carbon dioxide as energy
+
+1544
+01:15:21,880 --> 01:15:23,160
+carbon dioxide more
+
+1545
+01:15:23,160 --> 01:15:24,120
+our this
+
+1546
+01:15:24,120 --> 01:15:25,960
+it will produce this global warming
+
+1547
+01:15:25,960 --> 01:15:29,720
+We use it as energy
+
+1548
+01:15:29,720 --> 01:15:31,800
+water as energy
+
+1549
+01:15:31,800 --> 01:15:33,120
+Water can be used as energy
+
+1550
+01:15:33,120 --> 01:15:34,920
+you put this water
+
+1551
+01:15:34,920 --> 01:15:36,600
+break it down into
+
+1552
+01:15:36,600 --> 01:15:38,960
+hydrogen and oxygen
+
+1553
+01:15:38,960 --> 01:15:40,680
+What about the hydrogen?
+
+1554
+01:15:40,680 --> 01:15:44,560
+You can use fuel cells and so on
+
+1555
+01:15:44,560 --> 01:15:46,240
+use it
+
+1556
+01:15:46,240 --> 01:15:47,440
+That
+
+1557
+01:15:47,440 --> 01:15:50,920
+People say it is the cleanest energy
+
+1558
+01:15:50,920 --> 01:15:52,600
+because when you use
+
+1559
+01:15:52,600 --> 01:15:54,600
+Hydrogen turns into water again
+
+1560
+01:15:54,600 --> 01:15:55,680
+So no pollution at all
+
+1561
+01:15:55,680 --> 01:15:56,880
+correct
+
+1562
+01:15:56,880 --> 01:15:57,960
+but
+
+1563
+01:15:57,960 --> 01:16:00,080
+you have to turn water into
+
+1564
+01:16:00,000 --> 01:16:02,000
+Cyan and oxygen
+
+1565
+01:16:02,000 --> 01:16:04,000
+then you have many ways
+
+1566
+01:16:04,000 --> 01:16:06,000
+The most common method is to use electrolysis
+
+1567
+01:16:06,000 --> 01:16:08,000
+our middle school
+
+1568
+01:16:08,000 --> 01:16:10,000
+Even elementary school nature lessons
+
+1569
+01:16:10,000 --> 01:16:12,000
+I've done it for everyone to see
+
+1570
+01:16:12,000 --> 01:16:14,000
+How did that call come from?
+
+1571
+01:16:14,000 --> 01:16:16,000
+Most of the electricity still comes from
+
+1572
+01:16:16,000 --> 01:16:18,000
+power plant out
+
+1573
+01:16:18,000 --> 01:16:20,000
+so
+
+1574
+01:16:20,000 --> 01:16:22,000
+not impossible
+
+1575
+01:16:22,000 --> 01:16:24,000
+we say
+
+1576
+01:16:24,000 --> 01:16:26,000
+I said before that you are generating electricity
+
+1577
+01:16:26,000 --> 01:16:28,000
+What do you use electricity to electrolyze water for?
+
+1578
+01:16:28,000 --> 01:16:30,000
+cleanest and best
+
+1579
+01:16:30,000 --> 01:16:32,000
+Why are you going to electrolyze water?
+
+1580
+01:16:32,000 --> 01:16:34,000
+Does anyone know
+
+1581
+01:16:34,000 --> 01:16:36,000
+disable
+
+1582
+01:16:36,000 --> 01:16:38,000
+that is
+
+1583
+01:16:38,000 --> 01:16:40,000
+your nuclear power plant
+
+1584
+01:16:40,000 --> 01:16:42,000
+or your many power plants
+
+1585
+01:16:42,000 --> 01:16:44,000
+you can't switch
+
+1586
+01:16:44,000 --> 01:16:46,000
+then you when you
+
+1587
+01:16:46,000 --> 01:16:48,000
+At night you still have power left
+
+1588
+01:16:48,000 --> 01:16:50,000
+what to do
+
+1589
+01:16:50,000 --> 01:16:52,000
+deplete its electrolyzed water
+
+1590
+01:16:52,000 --> 01:16:54,000
+when you run out of power
+
+1591
+01:16:54,000 --> 01:16:56,000
+when the sun doesn't have the sun
+
+1592
+01:16:56,000 --> 01:16:58,000
+You generate electricity like this
+
+1593
+01:16:58,000 --> 01:17:00,000
+that so
+
+1594
+01:17:00,000 --> 01:17:04,400
+It is said that water can be used as energy
+
+1595
+01:17:04,400 --> 01:17:06,800
+This is only one tenth right
+
+1596
+01:17:06,800 --> 01:17:09,600
+It didn't talk about how the water turns into hydrogen, right?
+
+1597
+01:17:09,600 --> 01:17:11,600
+that's the real difficulty
+
+1598
+01:17:11,600 --> 01:17:14,400
+like many labs including mine
+
+1599
+01:17:14,400 --> 01:17:16,400
+Still researching how to electrolyze water
+
+1600
+01:17:16,400 --> 01:17:21,600
+It is to make the efficiency of electrolysis of water higher
+
+1601
+01:17:21,600 --> 01:17:23,200
+take its material
+
+1602
+01:17:23,200 --> 01:17:26,000
+Because it used to be made of platinum or something.
+
+1603
+01:17:26,000 --> 01:17:28,000
+reduce it
+
+1604
+01:17:28,000 --> 01:17:29,200
+how much time do we have
+
+1605
+01:17:29,200 --> 01:17:31,200
+We were just 8.5
+
+1606
+01:17:31,200 --> 01:17:33,200
+8.5
+
+1607
+01:17:33,200 --> 01:17:35,200
+that other thing
+
+1608
+01:17:35,200 --> 01:17:38,400
+It would be good to say that air is the motive force of the car.
+
+1609
+01:17:38,400 --> 01:17:41,200
+Why do you have this air everywhere
+
+1610
+01:17:41,200 --> 01:17:43,200
+You see people have taken some countries
+
+1611
+01:17:43,200 --> 01:17:45,200
+has proven it this bus
+
+1612
+01:17:45,200 --> 01:17:47,200
+run on air
+
+1613
+01:17:47,200 --> 01:17:50,400
+And it sounds a lot like the real thing
+
+1614
+01:17:50,400 --> 01:17:52,400
+it also proves to you
+
+1615
+01:17:52,400 --> 01:17:54,400
+This blows air in
+
+1616
+01:17:54,400 --> 01:17:56,400
+It can run dozens of kilometers in one run
+
+1617
+01:17:56,400 --> 01:17:58,800
+what it didn't say
+
+1618
+01:18:00,000 --> 01:18:02,620
+You compress this air into
+
+1619
+01:18:02,620 --> 01:18:04,000
+Look at the top ten atmospheric pressure
+
+1620
+01:18:04,000 --> 01:18:05,160
+then use that to run
+
+1621
+01:18:05,160 --> 01:18:07,200
+compression process
+
+1622
+01:18:07,200 --> 01:18:08,200
+it just needs electricity
+
+1623
+01:18:08,200 --> 01:18:10,700
+use motor or oil
+
+1624
+01:18:10,700 --> 01:18:13,200
+so what
+
+1625
+01:18:13,200 --> 01:18:15,800
+not so easy
+
+1626
+01:18:15,800 --> 01:18:18,160
+Are electric cars the cleanest form of energy?
+
+1627
+01:18:18,160 --> 01:18:20,400
+Methods
+
+1628
+01:18:20,400 --> 01:18:21,400
+electric cars of course
+
+1629
+01:18:21,400 --> 01:18:24,400
+You didn't emit any smoke when you went out
+
+1630
+01:18:24,400 --> 01:18:25,800
+no other waste
+
+1631
+01:18:25,800 --> 01:18:26,460
+right
+
+1632
+01:18:26,460 --> 01:18:28,920
+But how does it get electricity
+
+1633
+01:18:28,920 --> 01:18:31,120
+electricity you if not from solar
+
+1634
+01:18:31,120 --> 01:18:33,420
+you still have to get from the power plant
+
+1635
+01:18:33,420 --> 01:18:35,520
+that power plant has its benefits
+
+1636
+01:18:35,520 --> 01:18:38,420
+Its power plant is that it is focused on you
+
+1637
+01:18:38,420 --> 01:18:40,920
+If you discharge these
+
+1638
+01:18:40,920 --> 01:18:43,320
+Carbon dioxide and these waste
+
+1639
+01:18:43,320 --> 01:18:45,020
+you can immediately
+
+1640
+01:18:45,020 --> 01:18:47,220
+If you filter it before discharging it
+
+1641
+01:18:47,220 --> 01:18:50,620
+then you can reduce the level of air pollution
+
+1642
+01:18:50,620 --> 01:18:51,920
+than say
+
+1643
+01:18:51,920 --> 01:18:52,920
+normal car
+
+1644
+01:18:52,920 --> 01:18:54,720
+That day the Sixth Dean spoke
+
+1645
+01:18:54,720 --> 01:18:56,020
+cars run around
+
+1646
+01:18:56,020 --> 01:18:58,720
+Once it's out, you can't get it back.
+
+1647
+01:18:58,720 --> 01:19:00,020
+this has it
+
+1648
+01:19:00,000 --> 01:19:05,000
+But it's not an absolute solution
+
+1649
+01:19:05,000 --> 01:19:10,000
+Well, another one I want to give an example to tell you
+
+1650
+01:19:10,000 --> 01:19:17,000
+Not all energy sources are equally efficient
+
+1651
+01:19:17,000 --> 01:19:22,000
+For example, Hawaii, raise your hand if you haven't been to Hawaii
+
+1652
+01:19:22,000 --> 01:19:28,000
+There are many parties in Hawaii
+
+1653
+01:19:28,000 --> 01:19:31,000
+There is a party in Hawaii called Big Island
+
+1654
+01:19:31,000 --> 01:19:38,000
+The biggest Big Island is Hawaiian coffee
+
+1655
+01:19:38,000 --> 01:19:42,000
+It is produced in a place called Kona
+
+1656
+01:19:42,000 --> 01:19:46,000
+Hawaii has many volcanoes
+
+1657
+01:19:46,000 --> 01:19:51,000
+Monglowa is a
+
+1658
+01:19:51,000 --> 01:19:56,000
+Then Killer Whale next to it is still spraying every day
+
+1659
+01:19:56,000 --> 01:19:59,000
+there are so many
+
+1660
+01:20:00,000 --> 01:20:06,800
+Natural resources, and one of the more interesting natural resources among them
+
+1661
+01:20:07,000 --> 01:20:11,400
+He is naturally the same as our Huadong and Rift Valley.
+
+1662
+01:20:11,600 --> 01:20:15,400
+That is, the seaside drop is very, very large
+
+1663
+01:20:15,600 --> 01:20:21,600
+You may have descended to a depth of hundreds of meters after going out for tens of meters
+
+1664
+01:20:21,800 --> 01:20:23,800
+What's so good about this?
+
+1665
+01:20:24,000 --> 01:20:29,000
+This genius scientist came up with the idea of ​​saying
+
+1666
+01:20:29,000 --> 01:20:32,000
+He went for a measurement and found that
+
+1667
+01:20:32,200 --> 01:20:37,200
+This one drops 1,000 feet, about 300 meters
+
+1668
+01:20:37,400 --> 01:20:43,400
+The water temperature is more than 20 degrees different from the water at sea level
+
+1669
+01:20:43,600 --> 01:20:49,600
+You have a temperature difference from the mechanics above
+
+1670
+01:20:49,800 --> 01:20:52,800
+You can generate power with just a temperature difference
+
+1671
+01:20:53,200 --> 01:20:58,200
+Okay, then he's coming, and he's trying to get that one thousand feet
+
+1672
+01:20:58,400 --> 01:21:00,400
+The water temperature at a depth of 300 meters
+
+1673
+01:21:00,000 --> 01:21:02,000
+pump up the water
+
+1674
+01:21:02,000 --> 01:21:05,000
+like here
+
+1675
+01:21:05,000 --> 01:21:06,000
+wet liquid soil
+
+1676
+01:21:06,000 --> 01:21:10,000
+pump up deep water
+
+1677
+01:21:10,000 --> 01:21:15,000
+Then the water temperature difference from sea level is 20 degrees
+
+1678
+01:21:15,000 --> 01:21:21,000
+Then it needs this temperature difference to drive a Turban generator
+
+1679
+01:21:21,000 --> 01:21:25,000
+It's like 20 degrees water without boiling
+
+1680
+01:21:25,000 --> 01:21:26,000
+how enough
+
+1681
+01:21:26,000 --> 01:21:27,000
+it doesn't matter
+
+1682
+01:21:27,000 --> 01:21:29,000
+General power plants boil water
+
+1683
+01:21:29,000 --> 01:21:32,000
+then go push that warrant
+
+1684
+01:21:32,000 --> 01:21:34,000
+it if use an alcohol
+
+1685
+01:21:34,000 --> 01:21:36,000
+or use something
+
+1686
+01:21:36,000 --> 01:21:38,000
+It has a lower boiling point
+
+1687
+01:21:38,000 --> 01:21:40,000
+it can do the same thing
+
+1688
+01:21:40,000 --> 01:21:42,000
+20 degrees temperature difference can be done
+
+1689
+01:21:42,000 --> 01:21:45,000
+that's the problem
+
+1690
+01:21:45,000 --> 01:21:48,000
+you pump up the water
+
+1691
+01:21:48,000 --> 01:21:49,000
+you need electricity
+
+1692
+01:21:49,000 --> 01:21:51,000
+you need energy
+
+1693
+01:21:51,000 --> 01:21:53,000
+Then you have to generate electricity
+
+1694
+01:21:53,000 --> 01:21:54,000
+After all, you generate more electricity
+
+1695
+01:21:54,000 --> 01:21:56,000
+Or do you use more electricity to pump water?
+
+1696
+01:21:57,000 --> 01:21:58,000
+right
+
+1697
+01:21:58,000 --> 01:21:59,000
+good
+
+1698
+01:21:59,000 --> 01:22:00,000
+good question
+
+1699
+01:22:00,000 --> 01:22:01,400
+Congress of the United States
+
+1700
+01:22:02,000 --> 01:22:03,100
+divided into two
+
+1701
+01:22:03,900 --> 01:22:05,900
+Allocated dozens of million
+
+1702
+01:22:07,100 --> 01:22:08,000
+Then what
+
+1703
+01:22:08,000 --> 01:22:09,200
+do research for them
+
+1704
+01:22:09,200 --> 01:22:10,300
+prove
+
+1705
+01:22:11,100 --> 01:22:12,300
+he can generate electricity
+
+1706
+01:22:12,300 --> 01:22:14,200
+is the electricity ratio
+
+1707
+01:22:14,200 --> 01:22:15,600
+use more electricity
+
+1708
+01:22:15,600 --> 01:22:16,700
+wow this
+
+1709
+01:22:17,100 --> 01:22:18,000
+scientifically
+
+1710
+01:22:18,000 --> 01:22:19,200
+big success
+
+1711
+01:22:19,200 --> 01:22:20,000
+success
+
+1712
+01:22:20,900 --> 01:22:21,600
+OK
+
+1713
+01:22:22,100 --> 01:22:22,900
+but i want to ask
+
+1714
+01:22:22,900 --> 01:22:24,400
+How much do you charge once
+
+1715
+01:22:26,000 --> 01:22:26,700
+Probably
+
+1716
+01:22:26,700 --> 01:22:28,400
+10 times more than ours
+
+1717
+01:22:28,900 --> 01:22:29,900
+wow that
+
+1718
+01:22:31,000 --> 01:22:32,100
+high cost
+
+1719
+01:22:32,800 --> 01:22:33,900
+what to do
+
+1720
+01:22:33,900 --> 01:22:34,500
+so
+
+1721
+01:22:34,500 --> 01:22:35,800
+when we talk
+
+1722
+01:22:35,800 --> 01:22:37,600
+wow what energy what energy
+
+1723
+01:22:37,600 --> 01:22:38,500
+ah this
+
+1724
+01:22:38,500 --> 01:22:39,600
+Where is the geothermal heat?
+
+1725
+01:22:39,600 --> 01:22:40,800
+where is the hot spring
+
+1726
+01:22:41,700 --> 01:22:43,300
+first we have to ask
+
+1727
+01:22:43,800 --> 01:22:44,500
+your
+
+1728
+01:22:44,500 --> 01:22:46,600
+How much is the electricity you send
+
+1729
+01:22:47,500 --> 01:22:48,200
+OK
+
+1730
+01:22:48,800 --> 01:22:50,600
+The second one, for example, when we talk about biomass energy
+
+1731
+01:22:50,600 --> 01:22:51,700
+That sounds good
+
+1732
+01:22:51,700 --> 01:22:52,400
+right
+
+1733
+01:22:52,600 --> 01:22:54,900
+Biomass is very good in the US and in Canada
+
+1734
+01:22:54,900 --> 01:22:56,700
+it has so many forests
+
+1735
+01:22:56,700 --> 01:22:57,800
+It has some long
+
+1736
+01:22:57,800 --> 01:22:59,700
+But there are not many forests in Taiwan
+
+1737
+01:23:00,000 --> 01:23:03,600
+You get all those digital pages of Taiwan's forest
+
+1738
+01:23:04,600 --> 01:23:07,920
+Not enough for Taiwan's current needs
+
+1739
+01:23:09,480 --> 01:23:11,280
+then this is an example
+
+1740
+01:23:12,400 --> 01:23:13,840
+scientifically successful
+
+1741
+01:23:14,080 --> 01:23:14,600
+but
+
+1742
+01:23:14,840 --> 01:23:16,640
+economically worthless
+
+1743
+01:23:17,400 --> 01:23:19,200
+then i used to
+
+1744
+01:23:19,440 --> 01:23:21,520
+At that time with Professor Chen Jiajun
+
+1745
+01:23:22,000 --> 01:23:24,320
+There was a meeting at Air Force in the United States
+
+1746
+01:23:25,080 --> 01:23:26,360
+just flow over to see
+
+1747
+01:23:26,880 --> 01:23:28,920
+Just go and see for yourself
+
+1748
+01:23:28,920 --> 01:23:30,960
+It's called OTEC
+
+1749
+01:23:32,000 --> 01:23:34,800
+Ocean Thermoelectric Conversion
+
+1750
+01:23:37,880 --> 01:23:39,920
+After the result, it was a very surprise
+
+1751
+01:23:40,440 --> 01:23:41,200
+First
+
+1752
+01:23:42,760 --> 01:23:43,760
+Of course they do.
+
+1753
+01:23:44,020 --> 01:23:44,800
+power generation
+
+1754
+01:23:45,560 --> 01:23:46,840
+Electricity is expensive
+
+1755
+01:23:47,080 --> 01:23:48,120
+What to do then he just needs to find
+
+1756
+01:23:48,360 --> 01:23:50,680
+Find a way to subsidize it, right?
+
+1757
+01:23:51,200 --> 01:23:51,960
+how to subsidize
+
+1758
+01:23:52,200 --> 01:23:52,720
+very funny
+
+1759
+01:23:53,480 --> 01:23:55,800
+After the electricity is generated, the water, yes
+
+1760
+01:23:56,320 --> 01:23:57,600
+deep water called
+
+1761
+01:23:57,600 --> 01:23:59,920
+hawaii sound
+
+1762
+01:24:00,000 --> 01:24:02,000
+ocean water
+
+1763
+01:24:02,000 --> 01:24:03,000
+ok
+
+1764
+01:24:03,000 --> 01:24:04,000
+Then he battled
+
+1765
+01:24:04,000 --> 01:24:05,000
+Then fly to Tokyo
+
+1766
+01:24:05,000 --> 01:24:07,000
+Ah, it's so scary
+
+1767
+01:24:07,000 --> 01:24:09,000
+made a lot of money
+
+1768
+01:24:09,000 --> 01:24:10,000
+alright
+
+1769
+01:24:10,000 --> 01:24:12,000
+It's been a few years
+
+1770
+01:24:12,000 --> 01:24:13,000
+because of that water
+
+1771
+01:24:13,000 --> 01:24:14,000
+salty water man
+
+1772
+01:24:14,000 --> 01:24:15,000
+People can't drink
+
+1773
+01:24:15,000 --> 01:24:17,000
+So he's going to downplay him, right?
+
+1774
+01:24:17,000 --> 01:24:19,000
+Dilution is our general RO
+
+1775
+01:24:19,000 --> 01:24:20,000
+reverse osmosis
+
+1776
+01:24:20,000 --> 01:24:21,000
+good
+
+1777
+01:24:21,000 --> 01:24:23,000
+Sell ​​after reverse osmosis
+
+1778
+01:24:23,000 --> 01:24:24,000
+after a few years
+
+1779
+01:24:24,000 --> 01:24:25,000
+next to it
+
+1780
+01:24:25,000 --> 01:24:27,000
+that pile of salt
+
+1781
+01:24:27,000 --> 01:24:29,000
+a bunch of mountains
+
+1782
+01:24:29,000 --> 01:24:30,000
+Headache?
+
+1783
+01:24:30,000 --> 01:24:32,000
+right? what should he do?
+
+1784
+01:24:32,000 --> 01:24:33,000
+then he said
+
+1785
+01:24:33,000 --> 01:24:34,000
+then thought of saying
+
+1786
+01:24:34,000 --> 01:24:35,000
+pack the salt
+
+1787
+01:24:35,000 --> 01:24:36,000
+Air freight to Japan for sale
+
+1788
+01:24:36,000 --> 01:24:37,000
+Raw water
+
+1789
+01:24:37,000 --> 01:24:39,000
+raw sea
+
+1790
+01:24:39,000 --> 01:24:41,000
+what kind of salt is this
+
+1791
+01:24:41,000 --> 01:24:43,000
+sold out
+
+1792
+01:24:43,000 --> 01:24:45,000
+that's not all
+
+1793
+01:24:45,000 --> 01:24:46,000
+when we went to see
+
+1794
+01:24:46,000 --> 01:24:48,000
+They also did an experiment
+
+1795
+01:24:48,000 --> 01:24:51,000
+Said the water pumped from here
+
+1796
+01:24:51,000 --> 01:24:53,000
+to raise those seafood
+
+1797
+01:24:53,000 --> 01:24:54,000
+than this
+
+1798
+01:24:54,000 --> 01:24:57,000
+Seafood grown from water on the sea
+
+1799
+01:24:57,000 --> 01:24:58,000
+Raised too much
+
+1800
+01:24:58,000 --> 01:24:59,000
+good
+
+1801
+01:25:00,000 --> 01:25:02,560
+In the end it doesn't matter at all
+
+1802
+01:25:02,560 --> 01:25:05,860
+really earning extra money
+
+1803
+01:25:05,860 --> 01:25:07,300
+That
+
+1804
+01:25:07,300 --> 01:25:10,000
+You say it's a bit sarcastic
+
+1805
+01:25:10,000 --> 01:25:11,020
+but also
+
+1806
+01:25:11,020 --> 01:25:14,600
+And at least he proved a lot of things, okay?
+
+1807
+01:25:14,600 --> 01:25:15,860
+good
+
+1808
+01:25:15,860 --> 01:25:19,200
+we have a chance
+
+1809
+01:25:19,200 --> 01:25:21,260
+For example, this car
+
+1810
+01:25:21,260 --> 01:25:24,060
+Then you say you come out of the engine
+
+1811
+01:25:24,060 --> 01:25:26,620
+then to this
+
+1812
+01:25:26,620 --> 01:25:28,660
+Exhaust pipe goes to this
+
+1813
+01:25:28,660 --> 01:25:30,960
+we need noodle drinkers or something
+
+1814
+01:25:30,960 --> 01:25:35,820
+The temperature here ranges from 700 to 800 to 600 to 500 to 400
+
+1815
+01:25:35,820 --> 01:25:38,660
+So what you need to say here is that you want to do thermoelectricity
+
+1816
+01:25:38,660 --> 01:25:40,700
+The materials you want are different
+
+1817
+01:25:40,700 --> 01:25:41,960
+mean to say
+
+1818
+01:25:41,960 --> 01:25:44,540
+We still have a lot of rice bowls to eat
+
+1819
+01:25:44,540 --> 01:25:47,100
+can study a lot
+
+1820
+01:25:47,100 --> 01:25:48,880
+again now there is
+
+1821
+01:25:48,880 --> 01:25:50,160
+you can buy it in the market
+
+1822
+01:25:50,160 --> 01:25:50,940
+this is
+
+1823
+01:25:50,940 --> 01:25:55,540
+Get $100 off the internet and you can buy a refrigerator
+
+1824
+01:25:55,540 --> 01:25:56,560
+what about this refrigerator
+
+1825
+01:25:56,560 --> 01:25:57,840
+15L
+
+1826
+01:25:57,840 --> 01:25:59,840
+is thermoelectric
+
+1827
+01:26:00,000 --> 01:26:02,560
+you may not feel
+
+1828
+01:26:02,560 --> 01:26:04,240
+What is thermal power
+
+1829
+01:26:04,240 --> 01:26:05,520
+First
+
+1830
+01:26:05,520 --> 01:26:09,280
+If you want to put a small refrigerator in your car
+
+1831
+01:26:09,280 --> 01:26:12,000
+put in your suitcase too
+
+1832
+01:26:12,000 --> 01:26:13,800
+too big for you
+
+1833
+01:26:13,800 --> 01:26:17,200
+Normal compressor refrigerators are pretty big.
+
+1834
+01:26:17,200 --> 01:26:19,680
+Because the compressor itself is not small
+
+1835
+01:26:19,680 --> 01:26:20,840
+Then if you use thermoelectric
+
+1836
+01:26:20,840 --> 01:26:21,640
+that small is good
+
+1837
+01:26:21,640 --> 01:26:28,120
+You might just need a few L's for your energy
+
+1838
+01:26:28,120 --> 01:26:29,520
+except this
+
+1839
+01:26:29,520 --> 01:26:32,560
+I don't know if anyone has the same experience as me
+
+1840
+01:26:32,560 --> 01:26:34,120
+you go to a meeting like this
+
+1841
+01:26:34,120 --> 01:26:36,000
+then came to a place
+
+1842
+01:26:36,000 --> 01:26:37,400
+time difference
+
+1843
+01:26:37,400 --> 01:26:40,520
+can't sleep very troublesome
+
+1844
+01:26:40,520 --> 01:26:42,560
+I can finally fall asleep
+
+1845
+01:26:42,560 --> 01:26:43,960
+in that room
+
+1846
+01:26:43,960 --> 01:26:47,000
+Every now hotel has a refrigerator inside
+
+1847
+01:26:47,000 --> 01:26:49,920
+that refrigerator is noisy
+
+1848
+01:26:49,920 --> 01:26:51,080
+finally got up
+
+1849
+01:26:51,080 --> 01:26:52,640
+Can't turn off that refrigerator
+
+1850
+01:26:52,640 --> 01:26:56,040
+Then unplug it long ago
+
+1851
+01:26:56,040 --> 01:26:58,240
+Why is the refrigerator so noisy
+
+1852
+01:26:58,240 --> 01:27:00,040
+But if you use this today
+
+1853
+01:27:00,000 --> 01:27:02,000
+no sound at all
+
+1854
+01:27:02,000 --> 01:27:04,000
+Once we went abroad in
+
+1855
+01:27:04,000 --> 01:27:06,000
+somewhere
+
+1856
+01:27:06,000 --> 01:27:08,000
+he declared that he was
+
+1857
+01:27:08,000 --> 01:27:10,000
+this thermoelectric refrigerator
+
+1858
+01:27:10,000 --> 01:27:12,000
+really no sound at all
+
+1859
+01:27:12,000 --> 01:27:14,000
+so what
+
+1860
+01:27:14,000 --> 01:27:16,000
+he has his special purpose
+
+1861
+01:27:16,000 --> 01:27:18,000
+or say you make a
+
+1862
+01:27:18,000 --> 01:27:20,000
+local cooling
+
+1863
+01:27:20,000 --> 01:27:22,000
+cooling is effective
+
+1864
+01:27:22,000 --> 01:27:24,000
+For example, you are
+
+1865
+01:27:24,000 --> 01:27:26,000
+when driving in a seat
+
+1866
+01:27:26,000 --> 01:27:28,000
+there are some parts
+
+1867
+01:27:28,000 --> 01:27:30,000
+cooling is nice
+
+1868
+01:27:30,000 --> 01:27:32,000
+A
+
+1869
+01:27:32,000 --> 01:27:34,000
+currently in use
+
+1870
+01:27:34,000 --> 01:27:36,000
+For example, we used to
+
+1871
+01:27:36,000 --> 01:27:38,000
+There are many detectors in the laboratory
+
+1872
+01:27:38,000 --> 01:27:40,000
+CCD, infrared
+
+1873
+01:27:40,000 --> 01:27:42,000
+detector
+
+1874
+01:27:42,000 --> 01:27:44,000
+You have to bring the temperature down
+
+1875
+01:27:44,000 --> 01:27:46,000
+Your noise will be reduced
+
+1876
+01:27:46,000 --> 01:27:48,000
+The cooling of this thermoelectric
+
+1877
+01:27:48,000 --> 01:27:50,000
+very effective
+
+1878
+01:27:50,000 --> 01:27:52,000
+because it doesn't vibrate
+
+1879
+01:27:52,000 --> 01:27:54,000
+So it's less noisy
+
+1880
+01:27:54,000 --> 01:27:56,000
+In addition
+
+1881
+01:27:56,000 --> 01:27:58,000
+have many computers
+
+1882
+01:27:58,000 --> 01:28:00,000
+or your CPU
+
+1883
+01:28:00,000 --> 01:28:04,000
+Your mobile phone is getting better and better
+
+1884
+01:28:04,000 --> 01:28:06,000
+powerful is getting denser and denser
+
+1885
+01:28:07,000 --> 01:28:10,000
+That powerful means that it unit time
+
+1886
+01:28:10,000 --> 01:28:12,000
+It does more and more calculations
+
+1887
+01:28:13,000 --> 01:28:17,000
+Then the density is more crowded
+
+1888
+01:28:17,000 --> 01:28:19,000
+The heat dissipated per unit time
+
+1889
+01:28:19,000 --> 01:28:20,000
+Higher and higher
+
+1890
+01:28:20,000 --> 01:28:24,000
+In fact, many CPU applications
+
+1891
+01:28:24,000 --> 01:28:27,000
+not limited to itself
+
+1892
+01:28:27,000 --> 01:28:30,000
+It's limiting its heat and there's no way to get it out
+
+1893
+01:28:30,000 --> 01:28:31,000
+Can't get away
+
+1894
+01:28:32,000 --> 01:28:37,000
+Then if you do a local thermoelectric cooling
+
+1895
+01:28:37,000 --> 01:28:38,000
+absolutely necessary
+
+1896
+01:28:38,000 --> 01:28:40,000
+what about this need
+
+1897
+01:28:40,000 --> 01:28:42,000
+We can look at it from another use
+
+1898
+01:28:42,000 --> 01:28:45,000
+This is what we call a hydrodynamic missile
+
+1899
+01:28:45,000 --> 01:28:46,000
+Tom Hawk
+
+1900
+01:28:46,000 --> 01:28:48,000
+That Tom Hawk missile
+
+1901
+01:28:48,000 --> 01:28:50,000
+As soon as the missile flies out
+
+1902
+01:28:50,000 --> 01:28:52,000
+OK you take the map
+
+1903
+01:28:53,000 --> 01:28:55,000
+put it in its head
+
+1904
+01:28:55,000 --> 01:28:57,000
+when it's flying
+
+1905
+01:28:57,000 --> 01:28:59,000
+it will fly along your map
+
+1906
+01:28:59,000 --> 01:29:00,000
+how does it know
+
+1907
+01:29:00,000 --> 01:29:04,000
+Where is it? It relies on the same GPS that everyone uses in cars.
+
+1908
+01:29:04,000 --> 01:29:09,000
+It's just that it needs to be very precise. Besides whether the left and right will touch the mountain
+
+1909
+01:29:09,000 --> 01:29:15,000
+It also needs to know the height. Usually our cars don’t count the height.
+
+1910
+01:29:15,000 --> 01:29:18,000
+It tells you when to turn right and how to turn left
+
+1911
+01:29:18,000 --> 01:29:21,000
+Then when you use it, you know yourself. If you have a mobile phone, you are using GPS.
+
+1912
+01:29:21,000 --> 01:29:25,000
+Your battery dies in a very short time unless you're plugged in all the time
+
+1913
+01:29:25,000 --> 01:29:30,000
+Why because it's been calculating it's been following the signal received from the satellite
+
+1914
+01:29:30,000 --> 01:29:33,000
+Instead it says where is my point now
+
+1915
+01:29:33,000 --> 01:29:40,000
+The computing power is very high, so here comes
+
+1916
+01:29:40,000 --> 01:29:46,000
+If you want to guide a missile today, your power is so high
+
+1917
+01:29:46,000 --> 01:29:51,000
+That computer burned up quickly so every computer
+
+1918
+01:29:51,000 --> 01:29:58,000
+Just now everyone saw that MARLO is the most profitable, and all the money it makes is this money
+
+1919
+01:29:58,000 --> 01:30:00,000
+are used on missiles
+
+1920
+01:30:00,000 --> 01:30:04,000
+OK, so you know this we call Niche application
+
+1921
+01:30:04,000 --> 01:30:09,000
+is the special purpose, the localized cooling of the cooling
+
+1922
+01:30:09,000 --> 01:30:18,000
+In addition, I want to tell you about the many thermoelectric devices developed in South Korea called Kawashiro-style flexible
+
+1923
+01:30:18,000 --> 01:30:21,000
+Will it work, I don't know
+
+1924
+01:30:21,000 --> 01:30:26,000
+Then when I read it, I thought I kept
+
+1925
+01:30:26,000 --> 01:30:31,000
+Because you know your body temperature is 36 degrees
+
+1926
+01:30:31,000 --> 01:30:36,000
+Then your outside is 30 degrees or 25 degrees
+
+1927
+01:30:36,000 --> 01:30:41,000
+This delta T is actually very small, even if it is 10 degrees
+
+1928
+01:30:41,000 --> 01:30:44,000
+Then you usually make this material
+
+1929
+01:30:44,000 --> 01:30:49,000
+From your contact, the contact itself has some temperature loss
+
+1930
+01:30:49,000 --> 01:30:53,000
+Finally, if you come to a delta T temperature difference of 5 degrees
+
+1931
+01:30:53,000 --> 01:30:57,000
+In fact, the electricity it can generate will generate electricity, but it will generate very little electricity.
+
+1932
+01:30:57,000 --> 01:31:00,000
+whether that will work i don't know
+
+1933
+01:31:00,000 --> 01:31:02,500
+South Korea is very very positive
+
+1934
+01:31:02,500 --> 01:31:04,680
+He said I might make a
+
+1935
+01:31:04,680 --> 01:31:06,280
+very small
+
+1936
+01:31:06,280 --> 01:31:08,740
+Like some Pace Makers or something
+
+1937
+01:31:08,740 --> 01:31:12,540
+It would be nice to be able to make a small generator
+
+1938
+01:31:12,540 --> 01:31:15,780
+another one i was thinking
+
+1939
+01:31:15,780 --> 01:31:19,140
+this is a dress
+
+1940
+01:31:19,140 --> 01:31:20,800
+is it possible
+
+1941
+01:31:20,800 --> 01:31:23,240
+if you can make it flexible
+
+1942
+01:31:23,240 --> 01:31:26,360
+Is it possible for
+
+1943
+01:31:26,360 --> 01:31:27,480
+it's cooler inside
+
+1944
+01:31:27,480 --> 01:31:31,480
+Then vent the heat out in the outer layer
+
+1945
+01:31:31,480 --> 01:31:34,480
+You don't need to turn on the air conditioner so much
+
+1946
+01:31:34,480 --> 01:31:35,780
+India often reaches 50 degrees
+
+1947
+01:31:35,780 --> 01:31:36,980
+but you wear a cool dress
+
+1948
+01:31:36,980 --> 01:31:39,280
+It's very comfortable inside
+
+1949
+01:31:39,280 --> 01:31:44,680
+You don't have air conditioners everywhere
+
+1950
+01:31:44,680 --> 01:31:47,680
+that thing
+
+1951
+01:31:47,680 --> 01:31:51,980
+It's not impossible
+
+1952
+01:31:51,980 --> 01:31:54,980
+You have to generate electricity from your body temperature
+
+1953
+01:31:54,980 --> 01:31:56,180
+i find it difficult
+
+1954
+01:31:56,180 --> 01:31:57,480
+but like i said
+
+1955
+01:31:57,480 --> 01:31:59,980
+You have to use electricity to be smart
+
+1956
+01:32:00,000 --> 01:32:03,600
+Reporter is okay, is doable
+
+1957
+01:32:03,600 --> 01:32:06,600
+Come again, I want to talk about this
+
+1958
+01:32:06,600 --> 01:32:11,100
+Do you know the football game of this world cup
+
+1959
+01:32:11,100 --> 01:32:13,900
+I didn't look at the chief today
+
+1960
+01:32:13,900 --> 01:32:16,100
+Everyone is watching, everyone sees that
+
+1961
+01:32:16,100 --> 01:32:20,100
+Take a few countries, and finally this Championship
+
+1962
+01:32:20,100 --> 01:32:23,100
+France's Creecia, against
+
+1963
+01:32:23,100 --> 01:32:26,900
+you know the france team
+
+1964
+01:32:27,500 --> 01:32:31,000
+Finally, special thanks to Taiwan
+
+1965
+01:32:31,000 --> 01:32:35,000
+what good things did we do in taiwan
+
+1966
+01:32:35,000 --> 01:32:38,500
+Our jersey sweatshirt
+
+1967
+01:32:38,500 --> 01:32:41,300
+Taiwan made sweatshirts for their players
+
+1968
+01:32:41,300 --> 01:32:43,900
+on the pitch than anything else
+
+1969
+01:32:43,900 --> 01:32:46,100
+It's easy to sweat
+
+1970
+01:32:46,100 --> 01:32:49,800
+He especially thanked Taiwan
+
+1971
+01:32:49,800 --> 01:32:52,000
+then i mean the same
+
+1972
+01:32:52,000 --> 01:32:54,400
+If you take the heat out
+
+1973
+01:32:54,400 --> 01:32:55,900
+isn't that better
+
+1974
+01:32:55,900 --> 01:32:59,700
+You can do it anytime, it's stuffy and hot outside
+
+1975
+01:33:00,000 --> 01:33:01,040
+you feel comfortable
+
+1976
+01:33:01,400 --> 01:33:02,600
+it is possible
+
+1977
+01:33:03,240 --> 01:33:05,800
+so finally i say
+
+1978
+01:33:06,160 --> 01:33:09,680
+Thermoelectric has made many great contributions in the past
+
+1979
+01:33:09,800 --> 01:33:10,560
+but
+
+1980
+01:33:10,680 --> 01:33:14,720
+In all aspects of efficiency, you are in the niche application
+
+1981
+01:33:14,840 --> 01:33:16,040
+before it can be used
+
+1982
+01:33:16,280 --> 01:33:19,320
+Then it can't compete with solar and wind power
+
+1983
+01:33:19,440 --> 01:33:21,000
+to compete for this generation
+
+1984
+01:33:21,200 --> 01:33:23,560
+How to improve the efficiency so that
+
+1985
+01:33:23,640 --> 01:33:25,200
+Even Niche application
+
+1986
+01:33:25,200 --> 01:33:27,400
+You also want to lower the price
+
+1987
+01:33:27,600 --> 01:33:28,880
+but i think that
+
+1988
+01:33:29,120 --> 01:33:29,800
+What about the future?
+
+1989
+01:33:29,800 --> 01:33:31,120
+local cooling
+
+1990
+01:33:31,760 --> 01:33:34,480
+will be where the greater opportunity lies
+
+1991
+01:33:35,080 --> 01:33:35,480
+good
+
+1992
+01:33:35,480 --> 01:33:38,720
+I'm here to report to you today
+
+1993
+01:33:38,880 --> 01:33:39,440
+Thanks
+
+1994
+01:33:43,480 --> 01:33:43,760
+good
+
+1995
+01:33:43,760 --> 01:33:45,440
+i think such a wonderful speech
+
+1996
+01:33:45,440 --> 01:33:46,640
+everyone should have
+
+1997
+01:33:46,920 --> 01:33:48,320
+quite a few questions
+
+1998
+01:33:48,320 --> 01:33:50,480
+Whether it is scientific application
+
+1999
+01:33:50,480 --> 01:33:51,520
+or history
+
+2000
+01:33:51,680 --> 01:33:52,560
+i want this
+
+2001
+01:33:52,760 --> 01:33:54,320
+Teacher Chen has many
+
+2002
+01:33:54,560 --> 01:33:55,840
+Information to share with you
+
+2003
+01:33:55,840 --> 01:33:58,520
+So if you have any questions, you can raise your hands
+
+2004
+01:34:00,000 --> 01:34:08,000
+Please, can you use the front microphone
+
+2005
+01:34:08,000 --> 01:34:11,000
+I'm sorry I'm a layman but please advise
+
+2006
+01:34:11,000 --> 01:34:14,000
+Because it's on the market right now, it's about to happen
+
+2007
+01:34:14,000 --> 01:34:17,000
+Referendum on Nuclear Oxygen Chlorine Thing
+
+2008
+01:34:17,000 --> 01:34:19,000
+what is your opinion
+
+2009
+01:34:19,000 --> 01:34:21,000
+Thanks
+
+2010
+01:34:21,000 --> 01:34:24,000
+This question is quite political.
+
+2011
+01:34:24,000 --> 01:34:26,000
+Let's not talk about politics, okay?
+
+2012
+01:34:26,000 --> 01:34:28,000
+Let's not talk about politics, okay? Thank you.
+
+2013
+01:34:28,000 --> 01:34:30,000
+just say he meant to say
+
+2014
+01:34:30,000 --> 01:34:33,000
+In your green energy, green energy needs to be developed
+
+2015
+01:34:33,000 --> 01:34:35,000
+i don't think anyone will object
+
+2016
+01:34:35,000 --> 01:34:38,000
+The problem is green energy, as I said
+
+2017
+01:34:38,000 --> 01:34:40,000
+They can't be in a year or two
+
+2018
+01:34:40,000 --> 01:34:41,000
+even within ten years
+
+2019
+01:34:41,000 --> 01:34:44,000
+Humans now include Germany
+
+2020
+01:34:44,000 --> 01:34:47,000
+Including California has spent a lot of effort
+
+2021
+01:34:47,000 --> 01:34:49,000
+investing in green energy
+
+2022
+01:34:49,000 --> 01:34:52,000
+but his your making
+
+2023
+01:34:52,000 --> 01:34:54,000
+It may take ten years for you to grow up
+
+2024
+01:34:54,000 --> 01:34:57,000
+It was twenty years later that I arrived at a certain place
+
+2025
+01:34:57,000 --> 01:34:59,000
+this amount
+
+2026
+01:34:59,000 --> 01:35:01,000
+that's okay
+
+2027
+01:35:00,000 --> 01:35:02,400
+Then where the green energy is really developed
+
+2028
+01:35:02,400 --> 01:35:06,700
+I use nuclear power to get by
+
+2029
+01:35:06,700 --> 01:35:08,800
+Sounds good to pass the time
+
+2030
+01:35:09,800 --> 01:35:11,200
+Where is the problem?
+
+2031
+01:35:11,200 --> 01:35:13,800
+The director of the tune also mentioned it that day.
+
+2032
+01:35:13,800 --> 01:35:15,200
+first nuclear waste
+
+2033
+01:35:16,500 --> 01:35:18,800
+That nuclear waste is not a problem in many countries
+
+2034
+01:35:18,800 --> 01:35:20,000
+like india
+
+2035
+01:35:20,000 --> 01:35:22,600
+They are also actively developing their nuclear power
+
+2036
+01:35:24,000 --> 01:35:26,600
+France they have the technology to put
+
+2037
+01:35:26,600 --> 01:35:29,500
+This nuclear waste is re-enriched
+
+2038
+01:35:30,000 --> 01:35:31,500
+made smaller and easier to store
+
+2039
+01:35:32,700 --> 01:35:34,800
+but sorry
+
+2040
+01:35:34,800 --> 01:35:36,100
+We don't have that technology in Taiwan
+
+2041
+01:35:37,500 --> 01:35:41,800
+Is there any place in Taiwan where nuclear waste can be placed?
+
+2042
+01:35:41,800 --> 01:35:43,600
+I believe that I don't need to tell you
+
+2043
+01:35:44,600 --> 01:35:46,100
+Everyone has been arguing for a long time
+
+2044
+01:35:46,100 --> 01:35:49,000
+So if the nuclear waste has nowhere to go
+
+2045
+01:35:50,200 --> 01:35:51,200
+what to do then
+
+2046
+01:35:51,200 --> 01:35:54,000
+Everyone wants to say that it's fine to put it in someone else's house.
+
+2047
+01:35:54,000 --> 01:35:55,600
+So it's a controversy
+
+2048
+01:35:56,600 --> 01:35:58,000
+What do you say
+
+2049
+01:35:58,000 --> 01:36:00,000
+that nuclear waste
+
+2050
+01:36:00,000 --> 01:36:02,800
+That's not something that will happen today or in the next year.
+
+2051
+01:36:02,800 --> 01:36:05,600
+Then we will have been producing in the past few decades.
+
+2052
+01:36:05,600 --> 01:36:08,800
+Right, then can you continue to store in the existing place
+
+2053
+01:36:08,800 --> 01:36:13,400
+even said to store it in a nuclear power plant
+
+2054
+01:36:13,400 --> 01:36:16,400
+that's what we're already doing now
+
+2055
+01:36:16,400 --> 01:36:18,600
+Everyone should know
+
+2056
+01:36:18,600 --> 01:36:22,400
+Nuclear abolition just like I said Ptonium is one of them
+
+2057
+01:36:22,400 --> 01:36:25,800
+it is still active
+
+2058
+01:36:25,800 --> 01:36:29,900
+OK so you're not saying just throw it in a pile
+
+2059
+01:36:30,300 --> 01:36:33,500
+This radioactive element
+
+2060
+01:36:33,500 --> 01:36:35,200
+it has a
+
+2061
+01:36:35,200 --> 01:36:38,800
+it will keep releasing this
+
+2062
+01:36:38,800 --> 01:36:42,900
+These things in Alpha particle's New Chore
+
+2063
+01:36:42,900 --> 01:36:47,500
+But most importantly things like nuclear bombs
+
+2064
+01:36:47,500 --> 01:36:50,400
+It has one of the most important principles
+
+2065
+01:36:50,400 --> 01:36:53,600
+called a chain reaction
+
+2066
+01:36:53,600 --> 01:36:55,600
+Chain reaction is called Chain reaction
+
+2067
+01:36:55,600 --> 01:36:58,700
+it means me
+
+2068
+01:37:00,000 --> 01:37:02,000
+It is OK to put the color temperature and temperature here
+
+2069
+01:37:02,000 --> 01:37:04,000
+It's OK to put this here
+
+2070
+01:37:04,000 --> 01:37:06,640
+But it's not OK when you put the two together
+
+2071
+01:37:06,640 --> 01:37:09,200
+because it keeps pointing out
+
+2072
+01:37:09,200 --> 01:37:10,800
+it keeps pointing out
+
+2073
+01:37:10,800 --> 01:37:12,320
+when you put it close
+
+2074
+01:37:12,320 --> 01:37:13,200
+its middle finger hits it
+
+2075
+01:37:13,200 --> 01:37:14,000
+its middle finger hits it
+
+2076
+01:37:14,000 --> 01:37:16,000
+it just exploded
+
+2077
+01:37:16,000 --> 01:37:21,200
+So you can't put a lot of lung ingredients together
+
+2078
+01:37:21,200 --> 01:37:24,400
+The Japanese one is more special
+
+2079
+01:37:24,400 --> 01:37:26,400
+That is, it has a certain amount of cooling
+
+2080
+01:37:26,400 --> 01:37:28,800
+As a result, an earthquake suddenly interrupted the cooling water
+
+2081
+01:37:28,800 --> 01:37:30,800
+that's information
+
+2082
+01:37:30,800 --> 01:37:32,800
+good
+
+2083
+01:37:32,800 --> 01:37:34,800
+our lung material
+
+2084
+01:37:34,800 --> 01:37:36,800
+the first has nowhere to go
+
+2085
+01:37:36,800 --> 01:37:38,800
+the second
+
+2086
+01:37:38,800 --> 01:37:40,800
+where our nuclear power plant can be placed
+
+2087
+01:37:40,800 --> 01:37:42,800
+almost full
+
+2088
+01:37:42,800 --> 01:37:44,800
+OK
+
+2089
+01:37:44,800 --> 01:37:46,800
+So now as far as I know
+
+2090
+01:37:46,800 --> 01:37:48,800
+Taipower is even considering saying
+
+2091
+01:37:48,800 --> 01:37:52,800
+we are in winter this
+
+2092
+01:37:52,800 --> 01:37:56,800
+When energy demand is not so high
+
+2093
+01:37:56,800 --> 01:38:00,800
+we deload the nuclear power plant
+
+2094
+01:38:00,000 --> 01:38:02,320
+so not so much river waste
+
+2095
+01:38:02,320 --> 01:38:06,480
+Then turn it up a bit more when needed
+
+2096
+01:38:06,480 --> 01:38:09,320
+It's because there's no place for river waste
+
+2097
+01:38:09,320 --> 01:38:15,480
+Then you say that you can build a few more houses nearby to do it.
+
+2098
+01:38:15,480 --> 01:38:19,320
+then they have what's called dry storage
+
+2099
+01:38:19,320 --> 01:38:21,000
+Now we're talking about wet storage
+
+2100
+01:38:21,000 --> 01:38:25,680
+Put this river waste in some kind of water
+
+2101
+01:38:25,680 --> 01:38:28,000
+You said dry storage exists?
+
+2102
+01:38:28,000 --> 01:38:29,800
+We were going to open
+
+2103
+01:38:29,800 --> 01:38:34,000
+Is it approved by the Taipei County Government?
+
+2104
+01:38:34,000 --> 01:38:38,320
+The Taipei County Government will never issue licenses
+
+2105
+01:38:38,320 --> 01:38:40,120
+Then you have to do it when you have a motor
+
+2106
+01:38:40,120 --> 01:38:43,120
+You can't do it with the budget
+
+2107
+01:38:43,120 --> 01:38:47,120
+Guanghe waste is enough of a headache
+
+2108
+01:38:47,120 --> 01:38:52,360
+As for whether it is possible to happen like Che Nuobao
+
+2109
+01:38:52,360 --> 01:38:54,280
+like the tutoring question
+
+2110
+01:38:54,280 --> 01:38:57,240
+That's a question of risk
+
+2111
+01:38:57,240 --> 01:39:00,040
+Last time we said there was a risk, that's okay.
+
+2112
+01:39:00,000 --> 01:39:01,400
+It's a risk for me to drive
+
+2113
+01:39:01,400 --> 01:39:03,800
+It's also risky for me to fly.
+
+2114
+01:39:03,800 --> 01:39:05,700
+It's also a risk for me to take the high-speed rail.
+
+2115
+01:39:05,700 --> 01:39:07,200
+risk you buy insurance
+
+2116
+01:39:09,200 --> 01:39:10,400
+is there anyone today
+
+2117
+01:39:10,400 --> 01:39:12,100
+Is there any men's insurance company that sells it?
+
+2118
+01:39:12,100 --> 01:39:13,600
+nuclear disaster insurance for you
+
+2119
+01:39:14,500 --> 01:39:15,900
+Is it sure to make money?
+
+2120
+01:39:15,900 --> 01:39:17,200
+Everyone is scared, right?
+
+2121
+01:39:18,400 --> 01:39:20,700
+The insurance company must make money
+
+2122
+01:39:21,200 --> 01:39:21,900
+but i tell you
+
+2123
+01:39:21,900 --> 01:39:23,400
+If he can sell nuclear disaster insurance today
+
+2124
+01:39:23,400 --> 01:39:24,400
+he absolutely lied to you
+
+2125
+01:39:25,000 --> 01:39:26,900
+Because in the event of a nuclear disaster
+
+2126
+01:39:26,900 --> 01:39:27,900
+he can't afford it
+
+2127
+01:39:29,300 --> 01:39:29,800
+right
+
+2128
+01:39:29,800 --> 01:39:31,500
+So many things are unresolved
+
+2129
+01:39:33,500 --> 01:39:34,000
+so
+
+2130
+01:39:35,200 --> 01:39:36,800
+that's all i can say
+
+2131
+01:39:36,800 --> 01:39:38,700
+that political issue
+
+2132
+01:39:38,700 --> 01:39:40,700
+This is very oriented
+
+2133
+01:39:40,700 --> 01:39:41,000
+Yes or no
+
+2134
+01:39:41,000 --> 01:39:41,800
+over there please
+
+2135
+01:39:42,300 --> 01:39:43,500
+should use that mic
+
+2136
+01:39:49,100 --> 01:39:50,200
+is a very
+
+2137
+01:39:50,400 --> 01:39:53,400
+It's a source of energy worth using.
+
+2138
+01:39:53,400 --> 01:39:53,800
+yes
+
+2139
+01:39:54,600 --> 01:39:56,400
+But I've heard people say that I don't know
+
+2140
+01:39:56,400 --> 01:39:57,600
+right or wrong
+
+2141
+01:39:58,000 --> 01:39:59,200
+He said he still wants yours
+
+2142
+01:39:59,200 --> 01:40:00,000
+board
+
+2143
+01:40:00,000 --> 01:40:03,000
+Then he still has his time
+
+2144
+01:40:03,000 --> 01:40:05,000
+his deadline
+
+2145
+01:40:05,000 --> 01:40:07,000
+take him there
+
+2146
+01:40:07,000 --> 01:40:09,000
+thank you
+
+2147
+01:40:09,000 --> 01:40:11,000
+solar general
+
+2148
+01:40:11,000 --> 01:40:13,000
+because he is using
+
+2149
+01:40:13,000 --> 01:40:15,000
+For example C, silicon
+
+2150
+01:40:15,000 --> 01:40:18,000
+He has a lot of material on one surface
+
+2151
+01:40:18,000 --> 01:40:20,000
+Elements
+
+2152
+01:40:20,000 --> 01:40:23,000
+Then if after using
+
+2153
+01:40:23,000 --> 01:40:25,000
+direct reuse
+
+2154
+01:40:25,000 --> 01:40:28,000
+or just let it go back to
+
+2155
+01:40:28,000 --> 01:40:32,000
+There is actually not much pollution on the surface
+
+2156
+01:40:32,000 --> 01:40:36,000
+fine solar energy for people to combine
+
+2157
+01:40:36,000 --> 01:40:38,000
+all solar alike
+
+2158
+01:40:38,000 --> 01:40:40,000
+You said I made this solar energy
+
+2159
+01:40:40,000 --> 01:40:43,000
+The efficiency is very high and the cost will be paid back in a few years
+
+2160
+01:40:43,000 --> 01:40:45,000
+but someone said
+
+2161
+01:40:45,000 --> 01:40:47,000
+No, if you count
+
+2162
+01:40:47,000 --> 01:40:49,000
+you come out of the surface
+
+2163
+01:40:49,000 --> 01:40:52,000
+And then store it until the end this solar energy
+
+2164
+01:40:52,000 --> 01:40:54,000
+that cost
+
+2165
+01:40:54,000 --> 01:40:57,000
+the phone you speak
+
+2166
+01:40:57,000 --> 01:40:59,000
+It is also very likely to be ignored by you
+
+2167
+01:41:00,000 --> 01:41:01,800
+He said no, but when he sold me
+
+2168
+01:41:01,800 --> 01:41:03,460
+Those costs are factored in
+
+2169
+01:41:03,460 --> 01:41:04,660
+he said no
+
+2170
+01:41:04,660 --> 01:41:06,800
+because we are all
+
+2171
+01:41:06,800 --> 01:41:08,000
+especially in taiwan
+
+2172
+01:41:08,000 --> 01:41:13,300
+Our store is built to sell
+
+2173
+01:41:13,300 --> 01:41:16,660
+store or gasoline
+
+2174
+01:41:16,660 --> 01:41:18,860
+We don't have a detective now
+
+2175
+01:41:18,860 --> 01:41:21,760
+is when you consider an energy source
+
+2176
+01:41:21,760 --> 01:41:22,560
+you can't talk
+
+2177
+01:41:22,560 --> 01:41:24,800
+what a job i do when i go with it
+
+2178
+01:41:24,800 --> 01:41:25,460
+you should consider saying
+
+2179
+01:41:25,460 --> 01:41:25,920
+when i use it to go
+
+2180
+01:41:25,920 --> 01:41:27,760
+I generate that pollution
+
+2181
+01:41:27,760 --> 01:41:29,960
+is there any cost
+
+2182
+01:41:29,960 --> 01:41:30,460
+right
+
+2183
+01:41:30,460 --> 01:41:32,120
+It's the same as He Leng
+
+2184
+01:41:32,120 --> 01:41:34,760
+wow some say it's the cheapest energy
+
+2185
+01:41:34,760 --> 01:41:35,660
+but then
+
+2186
+01:41:35,660 --> 01:41:38,460
+If you remove the liquid from the river power plant
+
+2187
+01:41:38,460 --> 01:41:40,620
+You waste the river from the river power plant
+
+2188
+01:41:40,620 --> 01:41:43,560
+Once counted, it becomes the most expensive
+
+2189
+01:41:43,560 --> 01:41:48,020
+so many things to consider
+
+2190
+01:41:48,020 --> 01:41:50,560
+The process of making this solar panel
+
+2191
+01:41:50,560 --> 01:41:54,520
+Its many unaccounted for costs
+
+2192
+01:41:54,520 --> 01:41:55,220
+also in it
+
+2193
+01:41:55,220 --> 01:41:58,780
+But I guess pollution is not an important
+
+2194
+01:41:58,780 --> 01:41:59,780
+All right
+
+2195
+01:42:00,000 --> 01:42:02,000
+come here
+
+2196
+01:42:02,000 --> 01:42:04,000
+ask for advice
+
+2197
+01:42:04,000 --> 01:42:06,000
+our land of taiwan
+
+2198
+01:42:06,000 --> 01:42:08,000
+not big
+
+2199
+01:42:08,000 --> 01:42:10,000
+and then add that
+
+2200
+01:42:10,000 --> 01:42:12,000
+365 days a year
+
+2201
+01:42:12,000 --> 01:42:14,000
+number of days in the sun
+
+2202
+01:42:14,000 --> 01:42:16,000
+For us in Taiwan
+
+2203
+01:42:16,000 --> 01:42:18,000
+like solar panels
+
+2204
+01:42:18,000 --> 01:42:20,000
+seems not suitable
+
+2205
+01:42:20,000 --> 01:42:22,000
+we taiwan
+
+2206
+01:42:22,000 --> 01:42:24,000
+Sun exposure is of course
+
+2207
+01:42:24,000 --> 01:42:26,000
+a very important
+
+2208
+01:42:26,000 --> 01:42:28,000
+For example, we are in Taipei
+
+2209
+01:42:28,000 --> 01:42:30,000
+Follow in Kaohsiung
+
+2210
+01:42:30,000 --> 01:42:32,000
+Tainan is different
+
+2211
+01:42:32,000 --> 01:42:34,000
+sunny
+
+2212
+01:42:34,000 --> 01:42:36,000
+number of days
+
+2213
+01:42:36,000 --> 01:42:38,000
+That
+
+2214
+01:42:38,000 --> 01:42:40,000
+Taiwan does
+
+2215
+01:42:40,000 --> 01:42:42,000
+english day
+
+2216
+01:42:42,000 --> 01:42:44,000
+than other countries
+
+2217
+01:42:44,000 --> 01:42:46,000
+come more
+
+2218
+01:42:46,000 --> 01:42:48,000
+mean to say
+
+2219
+01:42:48,000 --> 01:42:50,000
+your solar panel
+
+2220
+01:42:50,000 --> 01:42:52,000
+to recycle
+
+2221
+01:42:52,000 --> 01:42:54,000
+I need money to invest
+
+2222
+01:42:54,000 --> 01:42:56,000
+It used to be said that it might take 15 years to recycle
+
+2223
+01:42:56,000 --> 01:42:58,000
+down to the original
+
+2224
+01:42:58,000 --> 01:43:00,000
+a fifth of the price
+
+2225
+01:43:00,000 --> 01:43:01,260
+Can be recycled in five years
+
+2226
+01:43:01,260 --> 01:43:02,560
+that's good
+
+2227
+01:43:02,560 --> 01:43:03,660
+then if you
+
+2228
+01:43:03,660 --> 01:43:04,720
+you put it on a
+
+2229
+01:43:04,720 --> 01:43:06,560
+A place where there is not much sunlight
+
+2230
+01:43:06,560 --> 01:43:08,700
+That might take ten years to recycle
+
+2231
+01:43:08,700 --> 01:43:12,300
+So it's all a consideration
+
+2232
+01:43:12,300 --> 01:43:14,600
+but
+
+2233
+01:43:14,600 --> 01:43:18,360
+If we put these facilities
+
+2234
+01:43:18,360 --> 01:43:20,960
+We are contracted to a company
+
+2235
+01:43:20,960 --> 01:43:23,900
+It will definitely do the actuarial calculation of the cost
+
+2236
+01:43:23,900 --> 01:43:25,360
+For example, wind power
+
+2237
+01:43:25,360 --> 01:43:26,960
+no one would have dared
+
+2238
+01:43:26,960 --> 01:43:27,500
+right
+
+2239
+01:43:27,500 --> 01:43:28,600
+wow you want to say
+
+2240
+01:43:28,600 --> 01:43:31,000
+this wind power
+
+2241
+01:43:31,000 --> 01:43:32,200
+One set up
+
+2242
+01:43:32,200 --> 01:43:33,800
+Hundreds of millions in one sitting
+
+2243
+01:43:33,800 --> 01:43:34,400
+right
+
+2244
+01:43:34,400 --> 01:43:36,100
+then you start talking
+
+2245
+01:43:36,100 --> 01:43:39,600
+How soon can I recycle, right?
+
+2246
+01:43:39,600 --> 01:43:40,800
+What about especially
+
+2247
+01:43:40,800 --> 01:43:41,600
+the government is pushing
+
+2248
+01:43:41,600 --> 01:43:43,900
+Because you are taking pictures of this windmill on the road
+
+2249
+01:43:43,900 --> 01:43:48,400
+Still have to fight a lot
+
+2250
+01:43:48,400 --> 01:43:50,500
+So what our government is doing now is
+
+2251
+01:43:50,500 --> 01:43:52,100
+ok then i'll go offshore
+
+2252
+01:43:52,100 --> 01:43:54,200
+do it on the sea
+
+2253
+01:43:54,200 --> 01:43:55,800
+Then do it on the sea
+
+2254
+01:43:55,800 --> 01:43:58,300
+that cost maybe three times
+
+2255
+01:43:58,400 --> 01:43:59,400
+especially Taiwan
+
+2256
+01:43:59,400 --> 01:43:59,900
+past
+
+2257
+01:44:00,000 --> 01:44:04,500
+Without this deep sea construction and these technologies
+
+2258
+01:44:05,500 --> 01:44:07,500
+But you go and see
+
+2259
+01:44:08,000 --> 01:44:10,000
+If you drive from the highway
+
+2260
+01:44:10,500 --> 01:44:11,500
+When it's time to stop and say
+
+2261
+01:44:11,500 --> 01:44:13,500
+Hey, there are many windmills over there
+
+2262
+01:44:13,500 --> 01:44:16,500
+But there are two windmills in the sea
+
+2263
+01:44:16,500 --> 01:44:18,500
+And those two windmills are
+
+2264
+01:44:18,500 --> 01:44:21,000
+A company in Taiwan called Shango
+
+2265
+01:44:21,500 --> 01:44:23,000
+to put it up
+
+2266
+01:44:23,500 --> 01:44:26,000
+OK, originally, before that
+
+2267
+01:44:26,000 --> 01:44:28,500
+Many foreign companies are afraid to enter
+
+2268
+01:44:28,500 --> 01:44:30,500
+That is, is this possible?
+
+2269
+01:44:30,500 --> 01:44:32,500
+There is a typhoon in Taiwan, what is it?
+
+2270
+01:44:33,000 --> 01:44:37,000
+Uedo spent a lot of money, the cost of learning
+
+2271
+01:44:37,000 --> 01:44:40,000
+After building those two windmills together
+
+2272
+01:44:40,000 --> 01:44:44,000
+Now everyone including Denmark, including Germany, Siemens has come in
+
+2273
+01:44:44,000 --> 01:44:48,000
+Everyone Comes to Bid for Taiwan's Wind Power
+
+2274
+01:44:48,500 --> 01:44:51,500
+So, this thing is basically a cost
+
+2275
+01:44:52,000 --> 01:44:54,000
+It's the same with solar
+
+2276
+01:44:54,000 --> 01:44:57,000
+If the sun is strong and you have a lot of sunshine
+
+2277
+01:44:57,000 --> 01:44:59,000
+Of course your cost will be reduced
+
+2278
+01:44:59,000 --> 01:45:00,000
+but
+
+2279
+01:45:00,000 --> 01:45:08,000
+Don't worry too much, let those companies decide whether he has to come or not
+
+2280
+01:45:08,000 --> 01:45:13,000
+If someone is willing to invest, it is obviously worth it
+
+2281
+01:45:13,000 --> 01:45:21,000
+Of course, apart from sunlight, your unit price, the unit price of solar panels has been falling
+
+2282
+01:45:22,000 --> 01:45:35,000
+Then again, all your government measures, and how long you have been ordered, actually have a relationship, okay?
+
+2283
+01:45:38,000 --> 01:45:42,000
+Can you use the microphone, others can't hear it, press it, press the green one
+
+2284
+01:45:43,000 --> 01:45:50,000
+OK, thank you, then the things we usually recycle, paper, can be recycled, right?
+
+2285
+01:45:50,000 --> 01:45:57,000
+Scrap iron can be recycled, which solar panels can be recycled, can it be
+
+2286
+01:45:57,000 --> 01:45:59,000
+I heard it's not possible
+
+2287
+01:46:00,000 --> 01:46:03,000
+Everything can be recycled, but after you recycle
+
+2288
+01:46:03,000 --> 01:46:06,000
+what are you doing
+
+2289
+01:46:06,000 --> 01:46:10,000
+For example, you said that our previous
+
+2290
+01:46:10,000 --> 01:46:13,000
+We call it Pai Tan Gu Xia, that canned food, what?
+
+2291
+01:46:13,000 --> 01:46:16,000
+Even the glass is recycled
+
+2292
+01:46:16,000 --> 01:46:18,000
+It's good to recycle and use
+
+2293
+01:46:18,000 --> 01:46:20,000
+but for a while
+
+2294
+01:46:20,000 --> 01:46:23,000
+The recycling price is not high
+
+2295
+01:46:23,000 --> 01:46:25,000
+hospital is low
+
+2296
+01:46:25,000 --> 01:46:28,000
+That is to say, have you reused it after recycling?
+
+2297
+01:46:28,000 --> 01:46:30,000
+to what extent
+
+2298
+01:46:30,000 --> 01:46:34,000
+That thing is actually worth it
+
+2299
+01:46:34,000 --> 01:46:36,000
+we went to develop
+
+2300
+01:46:36,000 --> 01:46:38,000
+That is, you will see game companies
+
+2301
+01:46:38,000 --> 01:46:39,000
+He specializes in recycling
+
+2302
+01:46:39,000 --> 01:46:41,000
+Then if he succeeds, you will find out that
+
+2303
+01:46:41,000 --> 01:46:43,000
+Wow, he can really turn trash into gold
+
+2304
+01:46:43,000 --> 01:46:45,000
+Wow, we admire that very much
+
+2305
+01:46:45,000 --> 01:46:48,000
+because he did you know that
+
+2306
+01:46:48,000 --> 01:46:50,000
+The best country in the world
+
+2307
+01:46:50,000 --> 01:46:52,000
+called Taiwan
+
+2308
+01:46:52,000 --> 01:46:54,000
+ok then do you know why
+
+2309
+01:46:54,000 --> 01:46:56,000
+Tzu Chi
+
+2310
+01:46:56,000 --> 01:46:59,000
+Tzu Chi volunteers
+
+2311
+01:47:00,000 --> 01:47:01,400
+especially in rural areas
+
+2312
+01:47:01,400 --> 01:47:03,400
+it's hard for you to imagine saying
+
+2313
+01:47:03,400 --> 01:47:05,400
+you know that
+
+2314
+01:47:05,400 --> 01:47:07,200
+Is the political performance law
+
+2315
+01:47:07,200 --> 01:47:09,400
+There are a lot of things we don't necessarily agree on
+
+2316
+01:47:09,400 --> 01:47:10,900
+the meaning of the word
+
+2317
+01:47:10,900 --> 01:47:14,300
+But he once said that
+
+2318
+01:47:14,300 --> 01:47:17,200
+do recycling
+
+2319
+01:47:17,200 --> 01:47:20,600
+just doing meritorious deeds
+
+2320
+01:47:20,600 --> 01:47:23,200
+So many volunteers
+
+2321
+01:47:23,200 --> 01:47:24,400
+while he was doing this
+
+2322
+01:47:24,400 --> 01:47:26,700
+indeed to the whole society
+
+2323
+01:47:26,700 --> 01:47:28,900
+make a great contribution
+
+2324
+01:47:28,900 --> 01:47:31,500
+what do we have to do
+
+2325
+01:47:31,500 --> 01:47:35,100
+Some messages continue to say that he bullies the weak
+
+2326
+01:47:35,100 --> 01:47:36,200
+That means
+
+2327
+01:47:36,200 --> 01:47:38,300
+so i say i'm not quite
+
+2328
+01:47:38,300 --> 01:47:40,000
+agree with everything he does
+
+2329
+01:47:40,000 --> 01:47:41,300
+but his
+
+2330
+01:47:41,300 --> 01:47:42,400
+recycle this thing
+
+2331
+01:47:42,400 --> 01:47:44,100
+If it wasn't for continuing to bring up
+
+2332
+01:47:44,100 --> 01:47:46,900
+Taiwan does not have such a good situation
+
+2333
+01:47:46,900 --> 01:47:48,000
+you know
+
+2334
+01:47:48,000 --> 01:47:52,500
+I just came back from India two weeks ago
+
+2335
+01:47:52,500 --> 01:47:53,400
+That
+
+2336
+01:47:53,400 --> 01:47:55,300
+India also has beautiful places
+
+2337
+01:47:55,300 --> 01:47:56,800
+then you say
+
+2338
+01:47:56,900 --> 01:47:58,900
+a pile of garbage over there a pile of garbage
+
+2339
+01:47:58,900 --> 01:47:59,900
+then don't say that
+
+2340
+01:48:00,000 --> 01:48:02,000
+the last time i went to india
+
+2341
+01:48:02,000 --> 01:48:05,000
+one of my own students
+
+2342
+01:48:05,000 --> 01:48:07,000
+read TIGP
+
+2343
+01:48:07,000 --> 01:48:09,000
+well done here
+
+2344
+01:48:09,000 --> 01:48:11,000
+then to india
+
+2345
+01:48:11,000 --> 01:48:13,000
+do we just live in a car
+
+2346
+01:48:13,000 --> 01:48:15,000
+after dinner
+
+2347
+01:48:15,000 --> 01:48:17,000
+Everyone was eating in the car
+
+2348
+01:48:17,000 --> 01:48:19,000
+I ate six or seven lunch boxes
+
+2349
+01:48:19,000 --> 01:48:20,000
+to a place
+
+2350
+01:48:20,000 --> 01:48:21,000
+he just opened the car door
+
+2351
+01:48:21,000 --> 01:48:23,000
+that kind of bento
+
+2352
+01:48:24,000 --> 01:48:25,000
+I took a look
+
+2353
+01:48:25,000 --> 01:48:26,000
+startled say
+
+2354
+01:48:26,000 --> 01:48:27,000
+What are you doing
+
+2355
+01:48:27,000 --> 01:48:29,000
+No, everyone is like this
+
+2356
+01:48:31,000 --> 01:48:32,000
+that
+
+2357
+01:48:32,000 --> 01:48:33,000
+that
+
+2358
+01:48:33,000 --> 01:48:36,000
+everyone's eco-friendly
+
+2359
+01:48:36,000 --> 01:48:37,000
+Consciousness not yet
+
+2360
+01:48:37,000 --> 01:48:38,000
+does not exist yet
+
+2361
+01:48:39,000 --> 01:48:40,000
+That
+
+2362
+01:48:40,000 --> 01:48:41,000
+so
+
+2363
+01:48:41,000 --> 01:48:43,000
+actual contribution
+
+2364
+01:48:43,000 --> 01:48:44,000
+in that respect
+
+2365
+01:48:44,000 --> 01:48:45,000
+I affirmed to him
+
+2366
+01:48:45,000 --> 01:48:46,000
+OK
+
+2367
+01:48:46,000 --> 01:48:48,000
+come please
+
+2368
+01:48:50,000 --> 01:48:51,000
+professor has a
+
+2369
+01:48:51,000 --> 01:48:52,000
+Can
+
+2370
+01:48:52,000 --> 01:48:54,000
+I have a question
+
+2371
+01:48:54,000 --> 01:48:56,000
+Many Koran soldiers in Taiwan
+
+2372
+01:48:56,000 --> 01:48:59,000
+Then a mining of this Koran soldier
+
+2373
+01:48:59,000 --> 01:49:00,000
+Are you currently in
+
+2374
+01:49:00,000 --> 01:49:02,520
+Therefore, relevant units are studying
+
+2375
+01:49:02,520 --> 01:49:04,340
+This is the first question
+
+2376
+01:49:04,340 --> 01:49:06,280
+The second question is
+
+2377
+01:49:06,280 --> 01:49:09,620
+Magma An underground vault in Yangmingshan
+
+2378
+01:49:09,620 --> 01:49:12,980
+The magma basement is 70,000 square kilometers
+
+2379
+01:49:12,980 --> 01:49:14,360
+so big
+
+2380
+01:49:14,360 --> 01:49:16,000
+it's lava fever
+
+2381
+01:49:16,000 --> 01:49:18,360
+Is there any international institution doing research
+
+2382
+01:49:18,360 --> 01:49:20,520
+Thank you, the geothermal heat is what you said
+
+2383
+01:49:20,520 --> 01:49:21,860
+Not necessarily lava heat
+
+2384
+01:49:21,860 --> 01:49:23,760
+yes it is
+
+2385
+01:49:23,760 --> 01:49:25,660
+good
+
+2386
+01:49:25,660 --> 01:49:27,300
+The first Koran soldiers
+
+2387
+01:49:27,300 --> 01:49:30,800
+Kelan soldiers, we call them
+
+2388
+01:49:30,800 --> 01:49:32,100
+First
+
+2389
+01:49:32,100 --> 01:49:34,700
+A, eh, is it the A bowl? It's not the A bowl
+
+2390
+01:49:34,700 --> 01:49:36,800
+Is Kelanbing a bowl?
+
+2391
+01:49:36,800 --> 01:49:39,300
+It's a bowl, sorry
+
+2392
+01:49:39,300 --> 01:49:41,000
+A bowl
+
+2393
+01:49:41,000 --> 01:49:44,200
+Of course it is because in the depths of the sea
+
+2394
+01:49:44,200 --> 01:49:46,200
+under a certain pressure
+
+2395
+01:49:46,200 --> 01:49:48,600
+then the presented
+
+2396
+01:49:48,600 --> 01:49:52,100
+These liquid cups
+
+2397
+01:49:52,100 --> 01:49:54,900
+then we also have someone to go
+
+2398
+01:49:54,900 --> 01:49:56,900
+go
+
+2399
+01:49:56,900 --> 01:50:00,000
+Go get it out and show it to everyone
+
+2400
+01:50:00,000 --> 01:50:04,540
+That's not it, it's like scooping up sea water
+
+2401
+01:50:04,540 --> 01:50:07,060
+right away, isn't it?
+
+2402
+01:50:07,060 --> 01:50:11,040
+Well, you need to find out more carefully
+
+2403
+01:50:11,040 --> 01:50:15,720
+You have to bring it up from such a deep sea
+
+2404
+01:50:15,720 --> 01:50:19,140
+This is a great technical difficulty
+
+2405
+01:50:19,140 --> 01:50:21,640
+second bowl
+
+2406
+01:50:21,640 --> 01:50:23,120
+we will all talk
+
+2407
+01:50:23,120 --> 01:50:24,500
+if you don't handle it well
+
+2408
+01:50:24,500 --> 01:50:27,440
+Then let part of it go up into the air
+
+2409
+01:50:27,600 --> 01:50:32,080
+The impact of Bowl A on global warming
+
+2410
+01:50:32,080 --> 01:50:37,600
+100 times more than carbon dioxide
+
+2411
+01:50:37,600 --> 01:50:40,160
+It's the one that absorbs infrared rays
+
+2412
+01:50:40,160 --> 01:50:42,640
+Our name is Cross section, very high
+
+2413
+01:50:42,640 --> 01:50:44,960
+So if it goes into the air
+
+2414
+01:50:44,960 --> 01:50:47,840
+that's another question
+
+2415
+01:50:47,840 --> 01:50:49,560
+Let me give you an example
+
+2416
+01:50:49,560 --> 01:50:50,840
+i watched a video
+
+2417
+01:50:50,840 --> 01:50:56,280
+Even Japan, they are also interested in studying this armored soldier
+
+2418
+01:50:56,280 --> 01:50:58,360
+Of course you can think of Azhi
+
+2419
+01:50:58,360 --> 01:50:59,960
+Japanese technology they are in
+
+2420
+01:51:00,000 --> 01:51:02,700
+A lot has been done in all aspects
+
+2421
+01:51:02,700 --> 01:51:07,200
+Japan in order to study this foot bowl ice
+
+2422
+01:51:07,200 --> 01:51:10,240
+Later found out that doing research at sea
+
+2423
+01:51:10,240 --> 01:51:12,240
+the cost is too high
+
+2424
+01:51:12,240 --> 01:51:14,500
+then he ran to canada
+
+2425
+01:51:14,500 --> 01:51:19,040
+Alberta, Canada
+
+2426
+01:51:19,040 --> 01:51:22,400
+on their glacier
+
+2427
+01:51:22,400 --> 01:51:26,040
+Drill down on the ground to get a foot bowl of ice
+
+2428
+01:51:26,040 --> 01:51:29,880
+They've been doing research there for ten years
+
+2429
+01:51:29,880 --> 01:51:30,580
+OK
+
+2430
+01:51:30,580 --> 01:51:33,080
+That is to say, the research on the foot bowl ice
+
+2431
+01:51:33,080 --> 01:51:34,280
+I have no idea
+
+2432
+01:51:34,280 --> 01:51:37,680
+That is to say, take a look and say from the Japanese they
+
+2433
+01:51:37,680 --> 01:51:39,880
+spent ten years
+
+2434
+01:51:39,880 --> 01:51:42,440
+Stationed in Canada to do research here
+
+2435
+01:51:42,440 --> 01:51:43,840
+today we just say
+
+2436
+01:51:43,840 --> 01:51:47,780
+The east coast also has foot bowl ice
+
+2437
+01:51:47,780 --> 01:51:52,680
+They're talking about how little work we've done
+
+2438
+01:51:52,680 --> 01:51:54,880
+far less than others
+
+2439
+01:51:54,920 --> 01:51:56,580
+then i didn't answer your question
+
+2440
+01:51:56,580 --> 01:51:58,220
+Is that possible?
+
+2441
+01:51:58,220 --> 01:51:59,920
+But at least what I'm going to say is that
+
+2442
+01:52:00,000 --> 01:52:09,000
+If you want to use it, you have to pay a considerable price to know it and study it, okay?
+
+2443
+01:52:09,000 --> 01:52:18,000
+Then you will secondly refer to the magma in Yangmingshan, they said that I don’t know much about it
+
+2444
+01:52:18,000 --> 01:52:25,000
+Well, if you are hot, there are people going to invest in a certain place in Yilan now
+
+2445
+01:52:25,000 --> 01:52:32,000
+It is to make clear water, and to make a geothermal power generation, which is different from the thermoelectricity I talked about.
+
+2446
+01:52:32,000 --> 01:52:40,000
+It draws out the heat to make a traditional generator
+
+2447
+01:52:40,000 --> 01:52:45,000
+Now some people are doing that research, so is it possible for Yang Mingshan to be better? I don’t know
+
+2448
+01:52:55,000 --> 01:53:00,000
+OK, just to ask, there are some companies in Taiwan
+
+2449
+01:53:00,000 --> 01:53:02,000
+Lin Jian's company
+
+2450
+01:53:02,000 --> 01:53:04,000
+currently in
+
+2451
+01:53:04,000 --> 01:53:08,000
+Develop commercial space rockets
+
+2452
+01:53:08,000 --> 01:53:10,000
+Currently for space rockets
+
+2453
+01:53:10,000 --> 01:53:12,000
+development prospects
+
+2454
+01:53:12,000 --> 01:53:14,000
+Can you analyze it
+
+2455
+01:53:14,000 --> 01:53:16,000
+inside my speech
+
+2456
+01:53:16,000 --> 01:53:18,000
+Although there is talk of spaceships
+
+2457
+01:53:18,000 --> 01:53:20,000
+but with the rocket
+
+2458
+01:53:20,000 --> 01:53:22,000
+two yards
+
+2459
+01:53:22,000 --> 01:53:24,000
+but as far as i know
+
+2460
+01:53:24,000 --> 01:53:26,000
+For example, explain
+
+2461
+01:53:26,000 --> 01:53:28,000
+Explain that there is a professor Wu Zongxin
+
+2462
+01:53:28,000 --> 01:53:30,000
+I know him
+
+2463
+01:53:30,000 --> 01:53:32,000
+Because he's my junior on the infected team
+
+2464
+01:53:32,000 --> 01:53:34,000
+National Taiwan University infection team
+
+2465
+01:53:34,000 --> 01:53:36,000
+he is the one
+
+2466
+01:53:36,000 --> 01:53:38,000
+the middle one
+
+2467
+01:53:38,000 --> 01:53:40,000
+key person
+
+2468
+01:53:40,000 --> 01:53:44,000
+why did he do this
+
+2469
+01:53:44,000 --> 01:53:46,000
+why did he do research
+
+2470
+01:53:46,000 --> 01:53:48,000
+well done too
+
+2471
+01:53:48,000 --> 01:53:50,000
+why do that
+
+2472
+01:53:50,000 --> 01:53:52,000
+Of course he is important
+
+2473
+01:53:52,000 --> 01:53:54,000
+one country
+
+2474
+01:53:54,000 --> 01:53:56,000
+is there a way to launch a rocket
+
+2475
+01:53:56,000 --> 01:53:58,000
+space
+
+2476
+01:53:58,000 --> 01:54:00,000
+this is a
+
+2477
+01:54:00,000 --> 01:54:02,880
+my country did i land on the moon
+
+2478
+01:54:02,880 --> 01:54:04,880
+did i land on mars
+
+2479
+01:54:04,880 --> 01:54:07,880
+it's a big milestone
+
+2480
+01:54:07,880 --> 01:54:12,680
+Of course you if the rocket can go up, like North Korea
+
+2481
+01:54:12,680 --> 01:54:13,960
+right
+
+2482
+01:54:13,960 --> 01:54:15,880
+it went up
+
+2483
+01:54:15,880 --> 01:54:20,200
+America has to be in awe of its three points
+
+2484
+01:54:20,200 --> 01:54:23,760
+its nuclear bomb succeeded
+
+2485
+01:54:23,760 --> 01:54:26,280
+this is amazing
+
+2486
+01:54:26,280 --> 01:54:28,440
+it's not just nuclear bombs
+
+2487
+01:54:28,440 --> 01:54:30,880
+its clear bomb
+
+2488
+01:54:30,880 --> 01:54:33,400
+one is fission
+
+2489
+01:54:33,400 --> 01:54:36,120
+it's nuclear fusion
+
+2490
+01:54:36,120 --> 01:54:37,800
+That's much more powerful
+
+2491
+01:54:37,800 --> 01:54:40,320
+it proves to you
+
+2492
+01:54:40,320 --> 01:54:43,200
+so many milestones
+
+2493
+01:54:43,200 --> 01:54:47,160
+then if we have a way
+
+2494
+01:54:47,160 --> 01:54:53,080
+successfully launched a rocket into space
+
+2495
+01:54:53,080 --> 01:54:55,960
+yes has its importance
+
+2496
+01:54:55,960 --> 01:54:57,320
+That
+
+2497
+01:54:57,320 --> 01:54:59,320
+I don't need to talk about it later, what are you going to do?
+
+2498
+01:55:00,000 --> 01:55:02,000
+I will do it for peaceful purposes
+
+2499
+01:55:02,000 --> 01:55:04,000
+I can't tell
+
+2500
+01:55:04,000 --> 01:55:06,000
+I'm doing it for defense
+
+2501
+01:55:06,000 --> 01:55:08,000
+I don't hit people but if someone hits me
+
+2502
+01:55:08,000 --> 01:55:10,000
+then i think i will fight back
+
+2503
+01:55:10,000 --> 01:55:12,000
+something like
+
+2504
+01:55:12,000 --> 01:55:15,000
+then his story is kind of interesting
+
+2505
+01:55:15,000 --> 01:55:18,000
+Do you know where his funds come from?
+
+2506
+01:55:18,000 --> 01:55:20,000
+Jiaotong University
+
+2507
+01:55:20,000 --> 01:55:23,000
+Jiaotong University is not a school
+
+2508
+01:55:23,000 --> 01:55:26,000
+That's what they're working on launching rockets
+
+2509
+01:55:26,000 --> 01:55:28,000
+want money
+
+2510
+01:55:28,000 --> 01:55:31,000
+Basically, it's all about national honor.
+
+2511
+01:55:31,000 --> 01:55:34,000
+Then he is not
+
+2512
+01:55:34,000 --> 01:55:37,000
+Do you know where his money comes from?
+
+2513
+01:55:37,000 --> 01:55:40,000
+Private fundraising, have you ever invested?
+
+2514
+01:55:40,000 --> 01:55:43,000
+None of us invested. How did he raise money?
+
+2515
+01:55:43,000 --> 01:55:46,000
+there is a taiwanese
+
+2516
+01:55:46,000 --> 01:55:49,000
+He went to the Soviet Union very early
+
+2517
+01:55:49,000 --> 01:55:52,000
+to do business
+
+2518
+01:55:52,000 --> 01:55:55,000
+And then this 1989
+
+2519
+01:55:55,000 --> 01:55:58,000
+the end of the cold war
+
+2520
+01:55:58,000 --> 01:56:00,000
+the collapse of the soviet union
+
+2521
+01:56:00,000 --> 01:56:02,000
+sell it in the country
+
+2522
+01:56:02,000 --> 01:56:06,000
+He used that agency to buy a bunch of oil fields
+
+2523
+01:56:06,000 --> 01:56:08,000
+now he has a lot of oil fields now
+
+2524
+01:56:08,000 --> 01:56:13,000
+Of course the oil fields are producing oil all the time.
+
+2525
+01:56:13,000 --> 01:56:15,000
+So when he came back a little bit, he talked to a few people
+
+2526
+01:56:15,000 --> 01:56:17,000
+Taiwan needs rockets
+
+2527
+01:56:17,000 --> 01:56:19,000
+Then I'll give you 100 million
+
+2528
+01:56:19,000 --> 01:56:22,000
+you go away with one million
+
+2529
+01:56:22,000 --> 01:56:24,000
+Then my student is like this
+
+2530
+01:56:24,000 --> 01:56:26,000
+One day the boss said
+
+2531
+01:56:26,000 --> 01:56:28,000
+I give you two benzes
+
+2532
+01:56:28,000 --> 01:56:30,000
+Then you have one
+
+2533
+01:56:30,000 --> 01:56:32,000
+Then start asking money every year to do it
+
+2534
+01:56:32,000 --> 01:56:34,000
+I admire it very much
+
+2535
+01:56:34,000 --> 01:56:36,000
+that means he is meaningful
+
+2536
+01:56:36,000 --> 01:56:39,000
+Aren't they like box bombs, right?
+
+2537
+01:56:39,000 --> 01:56:42,000
+Box bombs are not always head-on
+
+2538
+01:56:42,000 --> 01:56:43,000
+but the rocket
+
+2539
+01:56:43,000 --> 01:56:45,000
+I remember needing
+
+2540
+01:56:45,000 --> 01:56:48,000
+we should have some dreams
+
+2541
+01:56:48,000 --> 01:56:49,000
+good
+
+2542
+01:56:49,000 --> 01:56:52,000
+I think it's time to stop here
+
+2543
+01:56:52,000 --> 01:56:53,000
+Is there a problem with the network
+
+2544
+01:56:53,000 --> 01:56:54,000
+Is there a problem with the network
+
+2545
+01:56:54,000 --> 01:56:55,000
+maybe no one is watching
+
+2546
+01:56:55,000 --> 01:56:56,000
+right
+
+2547
+01:56:56,000 --> 01:56:57,000
+no problem
+
+2548
+01:56:57,000 --> 01:56:58,000
+no problem
+
+2549
+01:56:58,000 --> 01:56:59,000
+yes
+
+2550
+01:57:00,000 --> 01:57:02,000
+Did you prepare it yourself?
+
+2551
+01:57:02,000 --> 01:57:04,000
+good
+
+2552
+01:57:04,000 --> 01:57:07,000
+Internet says
+
+2553
+01:57:07,000 --> 01:57:11,000
+BMW installs thermoelectric system on balloon
+
+2554
+01:57:11,000 --> 01:57:14,000
+car car
+
+2555
+01:57:14,000 --> 01:57:17,000
+He said that the electricity of these thermoelectric systems
+
+2556
+01:57:17,000 --> 01:57:20,000
+Save them all and when there is enough electricity
+
+2557
+01:57:20,000 --> 01:57:23,000
+Just start the motor and that's it
+
+2558
+01:57:23,000 --> 01:57:25,000
+It's like making a kind of thermoelectric
+
+2559
+01:57:25,000 --> 01:57:27,000
+Hybrid system
+
+2560
+01:57:27,000 --> 01:57:30,000
+Is this better than the current one?
+
+2561
+01:57:30,000 --> 01:57:33,000
+The Hybrid system is more cost-effective, which probably means this
+
+2562
+01:57:33,000 --> 01:57:36,000
+then i think
+
+2563
+01:57:36,000 --> 01:57:39,000
+He talks about BMW
+
+2564
+01:57:39,000 --> 01:57:43,000
+Since the ranking is very high, I just talked about 70% of the
+
+2565
+01:57:43,000 --> 01:57:47,000
+It's all waste heat, you even need a cooler
+
+2566
+01:57:47,000 --> 01:57:50,000
+This water tank is to cool it, then you said there is a way to put it
+
+2567
+01:57:50,000 --> 01:57:54,000
+part of the recycling, but currently
+
+2568
+01:57:54,000 --> 01:57:57,000
+About 5% can be recycled
+
+2569
+01:57:57,000 --> 01:58:00,000
+Then you become electricity, the 5% electricity is of course
+
+2570
+01:58:00,000 --> 01:58:02,400
+It's better to make up less
+
+2571
+01:58:02,600 --> 01:58:04,720
+You charge it, fill up your electrons
+
+2572
+01:58:04,720 --> 01:58:07,060
+Or it's good for other purposes
+
+2573
+01:58:07,560 --> 01:58:10,280
+The only problem right now is
+
+2574
+01:58:10,280 --> 01:58:12,420
+The material itself is too expensive
+
+2575
+01:58:13,160 --> 01:58:14,920
+how do we find
+
+2576
+01:58:15,000 --> 01:58:18,300
+The element that is more abundant on the surface
+
+2577
+01:58:18,300 --> 01:58:21,420
+Then reduce the cost if the key player is like this
+
+2578
+01:58:22,140 --> 01:58:25,440
+I think everyone is deeply concerned about this today.
+
+2579
+01:58:25,440 --> 01:58:28,500
+Realize that this energy costs money
+
+2580
+01:58:28,800 --> 01:58:30,800
+Energy saving also costs money
+
+2581
+01:58:30,800 --> 01:58:31,800
+So I
+
+2582
+01:58:32,600 --> 01:58:35,440
+follow today's talk, I want to help our dean
+
+2583
+01:58:35,440 --> 01:58:38,340
+This Saturday, last Saturday
+
+2584
+01:58:38,340 --> 01:58:40,800
+He made a very important point, that is,
+
+2585
+01:58:40,800 --> 01:58:44,640
+To save the global warming crisis
+
+2586
+01:58:44,640 --> 01:58:48,000
+There is one very important addition to all these studies
+
+2587
+01:58:48,000 --> 01:58:51,300
+Everyone needs to adjust mentally
+
+2588
+01:58:51,300 --> 01:58:54,200
+That means we have to slightly modify the
+
+2589
+01:58:54,200 --> 01:58:56,400
+pattern of our lives
+
+2590
+01:58:56,400 --> 01:58:58,200
+Like he gave a few examples
+
+2591
+01:58:58,200 --> 01:58:59,800
+it's very simple
+
+2592
+01:59:00,000 --> 01:59:02,000
+Do you want to turn it up one degree
+
+2593
+01:59:02,000 --> 01:59:06,000
+Do you want to think more about building a large and medium transportation system when you go out?
+
+2594
+01:59:06,000 --> 01:59:10,000
+And eat more vegetables and fruits and less meat
+
+2595
+01:59:10,000 --> 01:59:12,000
+Especially the beef he choked
+
+2596
+01:59:12,000 --> 01:59:14,000
+Don't underestimate this
+
+2597
+01:59:14,000 --> 01:59:16,000
+Because if more people do
+
+2598
+01:59:16,000 --> 01:59:18,000
+Then his consumption of the whole energy
+
+2599
+01:59:18,000 --> 01:59:21,000
+Of course it will help a lot
+
+2600
+01:59:21,000 --> 01:59:23,000
+So it's pretty comprehensive
+
+2601
+01:59:23,000 --> 01:59:25,000
+I am also very touched today
+
+2602
+01:59:25,000 --> 01:59:29,000
+That is to say, everyone is so concerned about energy issues.
+
+2603
+01:59:29,000 --> 01:59:32,000
+But from Mr. Chen's speech just now, we also know that
+
+2604
+01:59:32,000 --> 01:59:34,000
+He is actually a very complex
+
+2605
+01:59:34,000 --> 01:59:38,000
+It's not that a new technology is necessarily better
+
+2606
+01:59:38,000 --> 01:59:41,000
+Must be because the new technology is more expensive
+
+2607
+01:59:41,000 --> 01:59:43,000
+That's not something any technology can solve.
+
+2608
+01:59:43,000 --> 01:59:45,000
+He is actually a very comprehensive question
+
+2609
+01:59:45,000 --> 01:59:48,000
+There are many young students here
+
+2610
+01:59:48,000 --> 01:59:51,000
+This looks like a lot of potential
+
+2611
+01:59:51,000 --> 01:59:54,000
+We hope that we can also invest in research in this area
+
+2612
+01:59:54,000 --> 01:59:57,000
+Our Chinese language also has many teams doing research in this area
+
+2613
+01:59:57,000 --> 02:00:00,000
+But he needs long-term hard work
+
+2614
+02:00:00,000 --> 02:00:03,680
+Okay then again we take this opportunity to thank speaker Yan
+
+2615
+02:00:03,680 --> 02:00:05,000
+Thank you all for participating
+
+2616
+02:00:05,000 --> 02:00:06,000
+Thanks
+
+2617
+02:00:06,000 --> 02:00:09,480
+Then our next game is this
+
+2618
+02:00:09,480 --> 02:00:12,980
+The next feast of knowledge will be on November 27
+
+2619
+02:00:12,980 --> 02:00:15,280
+There is another theme we find
+
+2620
+02:00:15,280 --> 02:00:17,120
+Shock-absorbing roof
+
+2621
+02:00:17,120 --> 02:00:19,520
+Special researchers also talk about this nerve
+
+2622
+02:00:19,520 --> 02:00:23,520
+Then I think interested guests can
+
+2623
+02:00:23,520 --> 02:00:26,320
+Or you know someone who is interested and can help us spread the word
+
+2624
+02:00:26,320 --> 02:00:29,320
+November 27 Thank you all thank you
+
+2625
+02:00:30,000 --> 02:00:31,000
+thank you all
+

@@ -1,0 +1,8900 @@
+1
+00:00:30,000 --> 00:00:35,260
+Leader Nui?
+
+2
+00:00:42,280 --> 00:00:43,420
+Yen Jiang will
+
+3
+00:00:43,520 --> 00:00:47,180
+with this
+
+4
+00:00:47,280 --> 00:00:50,220
+speech
+
+5
+00:00:50,320 --> 00:00:54,720
+is
+
+6
+00:00:54,820 --> 00:00:58,220
+please, China
+
+7
+00:01:00,000 --> 00:01:02,000
+It's fourteen
+
+8
+00:01:02,000 --> 00:01:09,000
+once a month for the first time in 2014
+
+9
+00:01:09,000 --> 00:01:13,000
+But it's the last time in twelve years
+
+10
+00:01:13,000 --> 00:01:16,000
+Because next year will be a new year
+
+11
+00:01:16,000 --> 00:01:18,000
+Say hello to everyone
+
+12
+00:01:22,000 --> 00:01:26,000
+I am very pleased to invite Dr. Chen Jindi from the Institute of Chemistry today
+
+13
+00:01:26,000 --> 00:01:30,000
+To introduce this colorful world
+
+14
+00:01:30,000 --> 00:01:34,000
+from the traditional rash
+
+15
+00:01:34,000 --> 00:01:38,000
+Optoelectronic technology from craftsmanship to fashion
+
+16
+00:01:38,000 --> 00:01:43,000
+Then Dr. Chen is now in the Institute of Chemistry
+
+17
+00:01:43,000 --> 00:01:46,000
+The main areas of the researcher are
+
+18
+00:01:46,000 --> 00:01:48,000
+Organic Optoelectronic Materials
+
+19
+00:01:48,000 --> 00:01:51,000
+Including Organic Light Emitting Diodes
+
+20
+00:01:51,000 --> 00:01:55,000
+and research and development of organic solar cell materials
+
+21
+00:01:55,000 --> 00:02:00,000
+Tamkang University
+
+22
+00:02:00,000 --> 00:02:05,920
+In 1982, he joined the Department of Chemistry, National Taiwan University.
+
+23
+00:02:05,920 --> 00:02:09,880
+I got a master's degree in my laboratory
+
+24
+00:02:09,880 --> 00:02:12,120
+Then he got military service
+
+25
+00:02:12,120 --> 00:02:19,480
+Then went to America in 1987
+
+26
+00:02:19,480 --> 00:02:21,840
+the University of Illinois
+
+27
+00:02:21,840 --> 00:02:24,440
+Received Ph.D. in 1992
+
+28
+00:02:24,440 --> 00:02:27,640
+Then at Caltech
+
+29
+00:02:27,960 --> 00:02:30,160
+Three years as a postdoctoral fellow
+
+30
+00:02:30,160 --> 00:02:35,360
+Joined the Institute of Chemistry in 1995
+
+31
+00:02:35,360 --> 00:02:42,760
+Then when everyone is a postdoctoral fellow
+
+32
+00:02:42,760 --> 00:02:45,800
+Ph.D. and postdoctoral
+
+33
+00:02:45,800 --> 00:02:50,280
+non-linear optical materials
+
+34
+00:02:50,280 --> 00:02:54,400
+This thing is following the light
+
+35
+00:02:54,400 --> 00:02:56,960
+Visible light is strongly absorbed
+
+36
+00:02:56,960 --> 00:02:59,960
+After returning to Taiwan in 1995
+
+37
+00:03:00,000 --> 00:03:05,500
+The initial research topic was organic light-emitting diodes
+
+38
+00:03:05,500 --> 00:03:08,520
+Organic light-emitting diodes are now many
+
+39
+00:03:08,520 --> 00:03:14,520
+These very colorful materials inside a flat-panel display
+
+40
+00:03:14,520 --> 00:03:19,520
+The electrons emit light and then emit various kinds of light
+
+41
+00:03:19,520 --> 00:03:27,120
+Then in the last five or six years, we have been researching solar cell materials
+
+42
+00:03:27,120 --> 00:03:29,820
+Then you know if you want to absorb solar energy
+
+43
+00:03:29,820 --> 00:03:33,520
+That is, all kinds of attractive materials
+
+44
+00:03:33,520 --> 00:03:38,120
+Can absorb sunlight very effectively
+
+45
+00:03:38,120 --> 00:03:42,920
+So there are some materials related to the color
+
+46
+00:03:42,920 --> 00:03:44,320
+is its specialty
+
+47
+00:03:44,320 --> 00:03:51,320
+So the topic of its speech today is this colorful world
+
+48
+00:03:51,620 --> 00:03:54,320
+That Dr. Chen can in 2002
+
+49
+00:03:54,320 --> 00:03:59,320
+Awarded the third Tsinghua Chemical Science, Technology, Culture and Education Foundation
+
+50
+00:03:59,320 --> 00:04:00,320
+outstanding period
+
+51
+00:04:00,000 --> 00:04:06,800
+In 2003, he won the Research Works Award for Young Scholars from Academia Sinica
+
+52
+00:04:06,800 --> 00:04:14,400
+In 2004, won the case award of patent and transfer of Academia Sinica in that year
+
+53
+00:04:14,400 --> 00:04:21,200
+Therefore, there are more than 100 papers, more than ten patents, and three special books
+
+54
+00:04:21,200 --> 00:04:27,600
+It is for him to serve as the deputy director of the Institute of Chemistry from 2005 to 2009
+
+55
+00:04:27,600 --> 00:04:34,800
+So this subject and even his research specialty
+
+56
+00:04:34,800 --> 00:04:40,400
+So we welcome Dr. Chen to talk about designing the world with warm applause
+
+57
+00:04:43,400 --> 00:04:45,400
+Thank you, Peng Fude, for introducing
+
+58
+00:04:45,400 --> 00:04:48,600
+In fact he was my teacher
+
+59
+00:04:48,600 --> 00:04:51,000
+He should be called Mr. Peng respectfully.
+
+60
+00:04:51,000 --> 00:04:55,400
+Now because everyone is working since graduation
+
+61
+00:04:55,400 --> 00:04:58,400
+So now it is considered to be serving in the same unit
+
+62
+00:05:00,000 --> 00:05:00,820
+have this chance
+
+63
+00:05:00,820 --> 00:05:04,000
+This was also successfully invited by Mr. Peng.
+
+64
+00:05:04,000 --> 00:05:07,200
+Come and make one for everyone before Chinese New Year
+
+65
+00:05:07,200 --> 00:05:11,160
+Such a report of a feast of knowledge
+
+66
+00:05:11,160 --> 00:05:12,200
+because of the new year
+
+67
+00:05:12,200 --> 00:05:13,500
+so i think
+
+68
+00:05:13,500 --> 00:05:16,720
+The topic I think is also very suitable for this season
+
+69
+00:05:16,720 --> 00:05:20,920
+Here are some colorful ones for you
+
+70
+00:05:20,920 --> 00:05:22,200
+beautiful pattern
+
+71
+00:05:22,200 --> 00:05:23,860
+After seeing it like this
+
+72
+00:05:23,860 --> 00:05:26,920
+Everyone can go back to celebrate the New Year happily
+
+73
+00:05:26,920 --> 00:05:31,240
+This is a question of comparing penises
+
+74
+00:05:31,240 --> 00:05:33,140
+Okay, this topic is
+
+75
+00:05:33,140 --> 00:05:35,740
+Mainly talking about dyes
+
+76
+00:05:35,740 --> 00:05:38,740
+Dyes I think everyone knows very well
+
+77
+00:05:38,740 --> 00:05:41,640
+Everyone knows that since childhood
+
+78
+00:05:41,640 --> 00:05:43,540
+This is the part about color
+
+79
+00:05:43,540 --> 00:05:47,220
+In fact, this color
+
+80
+00:05:47,220 --> 00:05:51,340
+I want to talk about the origin of some history
+
+81
+00:05:51,340 --> 00:05:54,940
+This is what you see
+
+82
+00:05:54,940 --> 00:05:55,940
+inside the disaster of the speech
+
+83
+00:05:55,940 --> 00:05:56,940
+mentioned this
+
+84
+00:05:56,940 --> 00:05:59,860
+I'll tell you a little bit about the discovery of this color in a moment.
+
+85
+00:06:00,000 --> 00:06:01,700
+The origin of history
+
+86
+00:06:01,700 --> 00:06:03,100
+sorry
+
+87
+00:06:03,100 --> 00:06:05,500
+This laser ratio is somewhat
+
+88
+00:06:06,800 --> 00:06:08,900
+good this
+
+89
+00:06:08,900 --> 00:06:10,000
+talk about color
+
+90
+00:06:10,000 --> 00:06:14,300
+In fact, I want to explain a little bit about the origin of this color
+
+91
+00:06:14,300 --> 00:06:17,600
+The reason why there are colors on the earth
+
+92
+00:06:17,600 --> 00:06:20,400
+Generates a relationship between the sun and the sun
+
+93
+00:06:20,400 --> 00:06:22,600
+The basis for this is very simple
+
+94
+00:06:22,600 --> 00:06:24,400
+In fact this happens this color
+
+95
+00:06:24,400 --> 00:06:26,000
+One of them is a very famous person
+
+96
+00:06:26,000 --> 00:06:28,200
+It's Newton
+
+97
+00:06:28,200 --> 00:06:29,400
+what about this experiment
+
+98
+00:06:29,400 --> 00:06:32,200
+The experiment in a forest environment called Newton
+
+99
+00:06:32,200 --> 00:06:33,200
+because you all know
+
+100
+00:06:33,200 --> 00:06:35,000
+If you put the sunlight in this mountain forest
+
+101
+00:06:35,000 --> 00:06:36,800
+shine on the forest
+
+102
+00:06:36,800 --> 00:06:40,600
+It can decompose the sunlight into various colors
+
+103
+00:06:40,600 --> 00:06:43,500
+Let's talk about this colorful neon color
+
+104
+00:06:43,500 --> 00:06:45,400
+red orange yellow green blue green purple
+
+105
+00:06:45,400 --> 00:06:47,800
+So in fact sunlight is
+
+106
+00:06:47,800 --> 00:06:53,200
+Sources of colors that our human eyes see all over the planet
+
+107
+00:06:53,200 --> 00:06:55,200
+from the sun
+
+108
+00:06:56,200 --> 00:06:58,200
+what color
+
+109
+00:06:58,200 --> 00:07:00,200
+Add all colors of red, orange, yellow, green, blue, green and purple together
+
+110
+00:07:00,000 --> 00:07:01,400
+becomes white
+
+111
+00:07:01,400 --> 00:07:02,600
+so we see sunlight
+
+112
+00:07:02,600 --> 00:07:06,200
+Predominantly white light color
+
+113
+00:07:06,200 --> 00:07:08,300
+Of course this algae turns yellow
+
+114
+00:07:08,300 --> 00:07:09,700
+will be a bit off
+
+115
+00:07:09,700 --> 00:07:14,800
+Algae turned yellow will be closer to yellow-orange color
+
+116
+00:07:14,800 --> 00:07:18,700
+Among Japanese people, the light color is closer to pure white
+
+117
+00:07:18,700 --> 00:07:22,800
+This is because the atmosphere is dry and old sunlight
+
+118
+00:07:22,800 --> 00:07:25,800
+According to the color of the earth, there are some distorted colors
+
+119
+00:07:25,800 --> 00:07:27,800
+produced by the phenomenon of color twisting
+
+120
+00:07:28,600 --> 00:07:30,400
+Humans have five senses
+
+121
+00:07:30,400 --> 00:07:31,600
+Inside the facial features of a person
+
+122
+00:07:31,600 --> 00:07:35,100
+In fact, only the eyes are responsible for seeing
+
+123
+00:07:35,100 --> 00:07:38,600
+Seeing things is that our human eyes are able to distinguish
+
+124
+00:07:38,600 --> 00:07:41,000
+Different colors of light come out
+
+125
+00:07:41,000 --> 00:07:45,000
+Because of the structural relationship between our eyes and people
+
+126
+00:07:45,000 --> 00:07:50,800
+This is the reason for the origin of a simple color
+
+127
+00:07:51,800 --> 00:07:55,600
+This visible light sun actually emits a lot
+
+128
+00:07:55,600 --> 00:07:59,200
+The radiant energy of different bands comes out
+
+129
+00:07:59,200 --> 00:08:00,600
+Visible light from the sun can only
+
+130
+00:08:00,000 --> 00:08:03,800
+It's just the visible light in a short area
+
+131
+00:08:03,800 --> 00:08:06,800
+What about all the sources of radiation?
+
+132
+00:08:06,800 --> 00:08:09,300
+is very widely distributed
+
+133
+00:08:09,300 --> 00:08:11,300
+from what everyone knows
+
+134
+00:08:11,300 --> 00:08:14,000
+The ones on the radio are called radio waves
+
+135
+00:08:14,000 --> 00:08:18,500
+That is a type of energy emitted by sunlight
+
+136
+00:08:18,500 --> 00:08:20,500
+Or let's talk about a kind of light wave
+
+137
+00:08:20,500 --> 00:08:25,000
+Visible light is only in this wide band
+
+138
+00:08:25,000 --> 00:08:27,000
+within a narrow range
+
+139
+00:08:27,500 --> 00:08:30,500
+What is the shortest possible X-ray and cosmic color line?
+
+140
+00:08:30,500 --> 00:08:34,500
+It is one of the rays emitted by the sun
+
+141
+00:08:36,500 --> 00:08:40,500
+The fact that our human eyes see the color of objects
+
+142
+00:08:40,500 --> 00:08:42,000
+This is about color
+
+143
+00:08:42,000 --> 00:08:45,500
+mainly due to two or three factors
+
+144
+00:08:45,500 --> 00:08:47,500
+We'll actually get to that shortly later
+
+145
+00:08:47,500 --> 00:08:50,000
+This basic color is caused by two reasons
+
+146
+00:08:50,000 --> 00:08:51,500
+one is additive color
+
+147
+00:08:51,500 --> 00:08:54,000
+a color called vanishing
+
+148
+00:08:54,000 --> 00:08:55,500
+let's look at this first
+
+149
+00:08:55,500 --> 00:08:58,000
+This is not an analysis from another angle
+
+150
+00:08:58,000 --> 00:08:59,500
+what color is this
+
+151
+00:08:59,500 --> 00:09:00,500
+our human eyes
+
+152
+00:09:00,000 --> 00:09:02,500
+see what color is made of
+
+153
+00:09:02,500 --> 00:09:04,800
+Burning hot paper of full red lip aperture like sun light
+
+154
+00:09:04,800 --> 00:09:06,900
+If your stuff is transparent
+
+155
+00:09:06,900 --> 00:09:10,200
+All light will pass through
+
+156
+00:09:10,200 --> 00:09:13,700
+None of the beams will be blocked
+
+157
+00:09:13,700 --> 00:09:15,200
+In this example it means
+
+158
+00:09:15,200 --> 00:09:18,800
+It shoots light except red and orange
+
+159
+00:09:18,800 --> 00:09:21,000
+let it penetrate outside
+
+160
+00:09:21,000 --> 00:09:23,300
+Everything else will be absorbed
+
+161
+00:09:23,300 --> 00:09:26,000
+Then what we see with our eyes is
+
+162
+00:09:26,000 --> 00:09:28,500
+light passing through
+
+163
+00:09:28,500 --> 00:09:30,600
+In the example drawn above the figure
+
+164
+00:09:30,600 --> 00:09:32,100
+This is what our eyes see
+
+165
+00:09:32,100 --> 00:09:33,500
+it's red orange
+
+166
+00:09:33,500 --> 00:09:35,000
+In the middle example
+
+167
+00:09:35,000 --> 00:09:38,800
+It allows the blue and sky blue to pass through
+
+168
+00:09:38,800 --> 00:09:40,200
+At this time, the object we saw
+
+169
+00:09:40,200 --> 00:09:42,200
+it's sky blue
+
+170
+00:09:42,200 --> 00:09:43,300
+by analogy
+
+171
+00:09:43,300 --> 00:09:45,400
+This thing looks yellow-green
+
+172
+00:09:45,400 --> 00:09:48,500
+Because this yellow-green light can pass through
+
+173
+00:09:48,500 --> 00:09:49,600
+So what our eyes see
+
+174
+00:09:49,600 --> 00:09:51,900
+In fact one of the sun's rays
+
+175
+00:09:51,900 --> 00:09:54,400
+We call it Complementary Color
+
+176
+00:09:54,400 --> 00:09:56,500
+In addition to penetrating
+
+177
+00:09:56,600 --> 00:09:59,300
+cause this phenomenon to occur
+
+178
+00:09:59,300 --> 00:09:59,900
+another one is
+
+179
+00:10:00,000 --> 00:10:03,400
+The principle of reflection is the same, resulting in the same effect
+
+180
+00:10:03,400 --> 00:10:07,200
+If you don't have a thing that will be absorbed by your object
+
+181
+00:10:07,200 --> 00:10:08,800
+then you see all the rays
+
+182
+00:10:08,800 --> 00:10:10,100
+See all the principles of red and yellow
+
+183
+00:10:10,100 --> 00:10:11,600
+then what you see is white light
+
+184
+00:10:11,600 --> 00:10:12,400
+same
+
+185
+00:10:12,400 --> 00:10:16,900
+If all your other lights except red and orange
+
+186
+00:10:16,900 --> 00:10:17,900
+no absorption
+
+187
+00:10:17,900 --> 00:10:20,100
+The red and orange will be reflected by it
+
+188
+00:10:20,100 --> 00:10:22,200
+At this time, what you see will also be red.
+
+189
+00:10:22,200 --> 00:10:25,800
+This is explained by the phenomenon of reflection
+
+190
+00:10:25,800 --> 00:10:28,000
+The color the object renders
+
+191
+00:10:28,500 --> 00:10:32,100
+It is to make it adhere to the same principle as when penetrating
+
+192
+00:10:32,100 --> 00:10:35,600
+something not absorbed by that thing
+
+193
+00:10:35,600 --> 00:10:36,900
+and be seen by our eyes
+
+194
+00:10:36,900 --> 00:10:41,000
+That's where the colors we see come from
+
+195
+00:10:41,000 --> 00:10:43,100
+this is from
+
+196
+00:10:43,100 --> 00:10:45,600
+So what our eyes see is the color of the object
+
+197
+00:10:45,600 --> 00:10:48,200
+In fact, it is the protection shot of the light shot
+
+198
+00:10:48,200 --> 00:10:49,600
+Our Chen's tail is called Hubushe
+
+199
+00:10:49,600 --> 00:10:52,400
+is caused by this reason
+
+200
+00:10:52,400 --> 00:10:55,300
+This shield shot causes the color of many objects
+
+201
+00:10:55,400 --> 00:10:58,900
+A very important reason for the color of objects
+
+202
+00:10:58,900 --> 00:11:00,100
+what we see most
+
+203
+00:11:00,000 --> 00:11:02,000
+Ink sprayed over a watch
+
+204
+00:11:02,340 --> 00:11:04,360
+you go buy this ink cartridge
+
+205
+00:11:04,360 --> 00:11:06,020
+There will be these three dots on it
+
+206
+00:11:06,020 --> 00:11:08,020
+this color ink cartridge
+
+207
+00:11:08,240 --> 00:11:12,200
+It's going to have this cyan, magenta, and yellow dotted on it.
+
+208
+00:11:12,320 --> 00:11:13,400
+What about these three colors?
+
+209
+00:11:13,400 --> 00:11:16,600
+It's actually on this color chart
+
+210
+00:11:16,600 --> 00:11:19,160
+It's actually the three colors on this side
+
+211
+00:11:19,160 --> 00:11:21,800
+The three colors of Y, M, and C
+
+212
+00:11:21,920 --> 00:11:22,840
+What about these three colors?
+
+213
+00:11:22,840 --> 00:11:24,480
+In fact like yellow
+
+214
+00:11:24,480 --> 00:11:26,960
+Actually the complementary color of blue
+
+215
+00:11:27,160 --> 00:11:28,360
+What about the cyan color?
+
+216
+00:11:28,360 --> 00:11:30,360
+it is the complementary color of red
+
+217
+00:11:30,360 --> 00:11:34,360
+Then the color of sheep's head red is the complementary color of green
+
+218
+00:11:34,360 --> 00:11:37,160
+The red, blue, green
+
+219
+00:11:37,160 --> 00:11:38,760
+we call it tricolor
+
+220
+00:11:38,760 --> 00:11:40,560
+What about the three colors?
+
+221
+00:11:40,560 --> 00:11:41,760
+after being absorbed
+
+222
+00:11:41,760 --> 00:11:43,560
+you'll see its complementary color
+
+223
+00:11:43,560 --> 00:11:46,960
+It is the three colors of Y, M and C we just talked about
+
+224
+00:11:46,960 --> 00:11:48,760
+In fact we can see that
+
+225
+00:11:48,760 --> 00:11:50,360
+so-called complementary colors
+
+226
+00:11:50,360 --> 00:11:52,360
+caused this removal
+
+227
+00:11:52,360 --> 00:11:55,360
+that paint
+
+228
+00:11:55,360 --> 00:11:59,360
+Will melt, color, this paint and so on
+
+229
+00:11:59,360 --> 00:12:00,360
+all are
+
+230
+00:12:00,000 --> 00:12:02,000
+Wujie you because I just saw it before
+
+231
+00:12:02,000 --> 00:12:03,520
+it is not absorbed by it
+
+232
+00:12:03,520 --> 00:12:04,860
+The color after being worn by us
+
+233
+00:12:04,860 --> 00:12:06,020
+and it reflects
+
+234
+00:12:06,020 --> 00:12:07,520
+colors not absorbed by it
+
+235
+00:12:07,520 --> 00:12:10,560
+The origin of the complementary colors we see
+
+236
+00:12:10,560 --> 00:12:11,860
+In fact, on light compensation
+
+237
+00:12:11,860 --> 00:12:13,400
+You can do progressive analysis like
+
+238
+00:12:13,400 --> 00:12:16,900
+If you absorb the color of this area
+
+239
+00:12:16,900 --> 00:12:20,300
+Just now this area was red and orange
+
+240
+00:12:20,300 --> 00:12:22,060
+a little yellow in color
+
+241
+00:12:22,060 --> 00:12:24,660
+If the color in this area is absorbed
+
+242
+00:12:24,660 --> 00:12:26,720
+all your eyes can see
+
+243
+00:12:26,720 --> 00:12:29,360
+Green Natural Blue
+
+244
+00:12:29,360 --> 00:12:31,320
+This is called complementary relationship
+
+245
+00:12:31,320 --> 00:12:33,660
+So there are three cases
+
+246
+00:12:33,660 --> 00:12:34,820
+What we say in terms of triadic colors
+
+247
+00:12:34,820 --> 00:12:35,820
+There are three situations
+
+248
+00:12:35,820 --> 00:12:37,160
+This is the second case
+
+249
+00:12:37,160 --> 00:12:39,360
+put the yellow green blue thin tone in the middle
+
+250
+00:12:39,360 --> 00:12:42,820
+Your eyes can only see red and blue around it
+
+251
+00:12:42,820 --> 00:12:45,060
+The third is that you put the short wavelength
+
+252
+00:12:45,060 --> 00:12:47,120
+This fine shade of blue green natural color
+
+253
+00:12:47,120 --> 00:12:48,860
+Your eyes can only see long wavelengths
+
+254
+00:12:48,860 --> 00:12:50,120
+yellow and red
+
+255
+00:12:50,120 --> 00:12:52,220
+This is the reason for the complementary color of the object
+
+256
+00:12:52,220 --> 00:12:55,820
+That's right, that's how it's explained by industry scholars.
+
+257
+00:12:55,820 --> 00:12:58,460
+Of course if you absorb all the light colors
+
+258
+00:12:58,460 --> 00:12:59,560
+what color is that
+
+259
+00:13:00,000 --> 00:13:01,760
+It becomes black in the middle
+
+260
+00:13:01,760 --> 00:13:02,760
+you can't see anything
+
+261
+00:13:02,760 --> 00:13:05,660
+because all the light is absorbed by the object
+
+262
+00:13:05,660 --> 00:13:07,860
+so you can't see any color
+
+263
+00:13:07,860 --> 00:13:09,860
+Can't see any color is black
+
+264
+00:13:09,860 --> 00:13:11,960
+So black is also a color
+
+265
+00:13:11,960 --> 00:13:15,160
+The color with nothing is called black
+
+266
+00:13:15,160 --> 00:13:19,060
+Alright, this next has to do with chemistry comparisons
+
+267
+00:13:19,060 --> 00:13:21,660
+This is because I am doing chemistry
+
+268
+00:13:21,660 --> 00:13:25,760
+We say that these colors come from sunlight
+
+269
+00:13:25,760 --> 00:13:27,960
+But in fact matter
+
+270
+00:13:27,960 --> 00:13:29,960
+Our place to see is matter
+
+271
+00:13:29,960 --> 00:13:32,460
+The substance itself will produce some color
+
+272
+00:13:32,460 --> 00:13:34,960
+These colors arise entirely from the
+
+273
+00:13:34,960 --> 00:13:38,960
+caused by the basic chemical elements of which a substance is composed
+
+274
+00:13:38,960 --> 00:13:41,460
+then listen to all matter
+
+275
+00:13:41,460 --> 00:13:42,960
+We roughly divide into two categories
+
+276
+00:13:42,960 --> 00:13:46,960
+called organic materials or inorganic substances
+
+277
+00:13:46,960 --> 00:13:48,960
+How to distinguish between organic and inorganic
+
+278
+00:13:48,960 --> 00:13:50,460
+this is in chemistry
+
+279
+00:13:50,460 --> 00:13:52,160
+We usually use this to distinguish
+
+280
+00:13:52,160 --> 00:13:53,960
+If you have a lot of
+
+281
+00:13:53,960 --> 00:13:56,960
+The elements carbon, hydrogen, oxygen, nitrogen
+
+282
+00:13:56,960 --> 00:13:58,960
+this is called organic matter
+
+283
+00:13:58,960 --> 00:13:59,960
+like us
+
+284
+00:14:00,000 --> 00:14:04,500
+The amino acids we eat, the vitamin
+
+285
+00:14:04,500 --> 00:14:09,100
+Or the sugar we eat, these are made into organic matter
+
+286
+00:14:09,100 --> 00:14:13,000
+And the fat we eat is still there
+
+287
+00:14:13,000 --> 00:14:15,000
+Swallow these elemental things of green oxygen egg
+
+288
+00:14:15,000 --> 00:14:17,000
+This stuff is called organic matter
+
+289
+00:14:17,000 --> 00:14:19,600
+In addition to these few I use black circles
+
+290
+00:14:19,600 --> 00:14:21,500
+outside of the circled elements
+
+291
+00:14:21,500 --> 00:14:23,300
+The periodic table has more than 100 images in total
+
+292
+00:14:23,300 --> 00:14:27,200
+100 now has 10 to 110 more elements
+
+293
+00:14:27,200 --> 00:14:29,700
+Deduct these elements
+
+294
+00:14:29,700 --> 00:14:33,000
+substances made of other elements
+
+295
+00:14:33,000 --> 00:14:36,000
+Inorganic matter
+
+296
+00:14:36,000 --> 00:14:38,200
+This substance is divided into two categories
+
+297
+00:14:38,200 --> 00:14:42,600
+The color is also composed of these materials
+
+298
+00:14:42,600 --> 00:14:43,700
+organic and inorganic
+
+299
+00:14:43,700 --> 00:14:47,700
+But the reasons for the colors they produce are different
+
+300
+00:14:47,700 --> 00:14:51,200
+This is a substance made up of inorganic elements
+
+301
+00:14:51,200 --> 00:14:52,800
+the colors it makes
+
+302
+00:14:52,800 --> 00:14:57,300
+actually depends on the size of your composing elements
+
+303
+00:14:57,300 --> 00:15:00,000
+Like this Buddha these are
+
+304
+00:15:00,000 --> 00:15:03,400
+Lu Shu's substance
+
+305
+00:15:03,400 --> 00:15:05,100
+Buddha is gas
+
+306
+00:15:05,100 --> 00:15:06,440
+it itself is yellow
+
+307
+00:15:06,440 --> 00:15:08,300
+slightly yellow
+
+308
+00:15:08,300 --> 00:15:09,540
+slightly bigger green
+
+309
+00:15:09,540 --> 00:15:10,800
+that is green
+
+310
+00:15:10,800 --> 00:15:12,300
+show is liquid
+
+311
+00:15:12,300 --> 00:15:14,200
+but it's orange
+
+312
+00:15:14,200 --> 00:15:14,900
+then click
+
+313
+00:15:14,900 --> 00:15:15,700
+turns purple
+
+314
+00:15:15,700 --> 00:15:16,400
+it's bigger
+
+315
+00:15:16,400 --> 00:15:18,900
+The color will vary with the size of this atom
+
+316
+00:15:18,900 --> 00:15:20,500
+different means i change
+
+317
+00:15:20,500 --> 00:15:23,400
+Another class is made of these metals
+
+318
+00:15:23,400 --> 00:15:26,000
+made up of ions or elements
+
+319
+00:15:26,000 --> 00:15:28,500
+Different ions have different colors
+
+320
+00:15:28,500 --> 00:15:29,600
+For example, like this tire
+
+321
+00:15:29,600 --> 00:15:31,600
+In fact, white has no color
+
+322
+00:15:31,600 --> 00:15:33,000
+what about this one
+
+323
+00:15:33,000 --> 00:15:33,900
+or fall?
+
+324
+00:15:33,900 --> 00:15:35,200
+is yellow
+
+325
+00:15:35,200 --> 00:15:37,700
+Its color has something to do with its structure
+
+326
+00:15:37,700 --> 00:15:40,800
+For example, these two are called Falling Frost and Ion
+
+327
+00:15:40,800 --> 00:15:43,600
+It's just that this is a two sticks connected together
+
+328
+00:15:43,600 --> 00:15:45,400
+But this structure is different
+
+329
+00:15:45,400 --> 00:15:47,000
+Its constituent metal elements are the same
+
+330
+00:15:47,000 --> 00:15:48,500
+But the structurally different relationship
+
+331
+00:15:48,500 --> 00:15:50,600
+cause different colors
+
+332
+00:15:50,600 --> 00:15:52,400
+These are a characteristic of inorganic materials
+
+333
+00:15:52,400 --> 00:15:54,000
+its color big
+
+334
+00:15:54,000 --> 00:15:55,200
+What's the depth
+
+335
+00:15:55,200 --> 00:15:56,500
+or different colors
+
+336
+00:15:56,500 --> 00:15:58,300
+depends on the size of the atom
+
+337
+00:15:58,300 --> 00:15:59,500
+or its structure
+
+338
+00:16:00,000 --> 00:16:01,780
+to make an impact
+
+339
+00:16:01,780 --> 00:16:03,280
+This is an inorganic material
+
+340
+00:16:03,780 --> 00:16:05,040
+Organic materials as I just said
+
+341
+00:16:05,040 --> 00:16:07,740
+The whole medium is composed of elements in carbon, oxygen and nitrogen
+
+342
+00:16:07,740 --> 00:16:09,240
+its color composition
+
+343
+00:16:09,240 --> 00:16:12,840
+In fact, with these carbon-carbon doubles
+
+344
+00:16:13,240 --> 00:16:14,380
+If there is no carbon-carbon double piece
+
+345
+00:16:14,380 --> 00:16:15,840
+all organic matter
+
+346
+00:16:15,840 --> 00:16:17,140
+usually no color
+
+347
+00:16:17,140 --> 00:16:18,340
+is transparent
+
+348
+00:16:18,540 --> 00:16:20,840
+The shade of this color is
+
+349
+00:16:20,840 --> 00:16:22,380
+Red, blue, green?
+
+350
+00:16:22,380 --> 00:16:25,540
+Depends on the amount of this carbon-carbon double
+
+351
+00:16:25,740 --> 00:16:26,840
+Let's talk about this carbon-carbon double piece
+
+352
+00:16:26,840 --> 00:16:28,080
+it has beat electrons
+
+353
+00:16:28,080 --> 00:16:29,080
+beat more electrons
+
+354
+00:16:29,080 --> 00:16:30,880
+your color will be darker
+
+355
+00:16:30,880 --> 00:16:34,080
+The color will be longer wavelength
+
+356
+00:16:34,080 --> 00:16:36,380
+It is the direction of the red offset
+
+357
+00:16:36,380 --> 00:16:38,580
+it may have been blue at first
+
+358
+00:16:38,580 --> 00:16:39,980
+later turned green
+
+359
+00:16:39,980 --> 00:16:40,780
+may be yellow
+
+360
+00:16:40,780 --> 00:16:42,380
+Then there is orange red
+
+361
+00:16:42,880 --> 00:16:45,080
+The longer the wavelength of the color
+
+362
+00:16:45,080 --> 00:16:46,980
+So I beat the number of electrons more and more
+
+363
+00:16:46,980 --> 00:16:48,980
+while there is a proportional increase
+
+364
+00:16:48,980 --> 00:16:51,680
+as organic and inorganic compounds
+
+365
+00:16:51,680 --> 00:16:54,080
+The color produced is actually not the same principle
+
+366
+00:16:54,080 --> 00:16:55,780
+But the result is the same
+
+367
+00:16:55,780 --> 00:16:59,680
+Causes the appearance of colors in visible light
+
+368
+00:17:00,000 --> 00:17:02,000
+Our eyes can perceive this visible light
+
+369
+00:17:02,000 --> 00:17:06,000
+So people are the reason why they can see colors
+
+370
+00:17:06,000 --> 00:17:07,400
+Although different substances
+
+371
+00:17:07,400 --> 00:17:10,500
+the principle is the same
+
+372
+00:17:10,500 --> 00:17:13,000
+Let me give you an example soon
+
+373
+00:17:13,000 --> 00:17:14,700
+Like the ones pictured here
+
+374
+00:17:14,700 --> 00:17:17,000
+all organic matter
+
+375
+00:17:17,000 --> 00:17:20,400
+And these substances actually have different colors
+
+376
+00:17:20,400 --> 00:17:21,500
+for example this
+
+377
+00:17:21,500 --> 00:17:23,500
+This looks like the shortest molecule
+
+378
+00:17:23,500 --> 00:17:24,800
+its absorbing wavelength
+
+379
+00:17:24,800 --> 00:17:28,300
+It's actually the shortest of the four.
+
+380
+00:17:28,300 --> 00:17:29,100
+its absorption wavelength
+
+381
+00:17:29,100 --> 00:17:31,100
+The location is probably in this place
+
+382
+00:17:31,100 --> 00:17:33,600
+It absorbs blue light
+
+383
+00:17:33,600 --> 00:17:35,400
+So our eyes see this
+
+384
+00:17:35,400 --> 00:17:37,300
+Substances that absorb blue light
+
+385
+00:17:37,300 --> 00:17:40,400
+In fact, it will appear more or less yellowish
+
+386
+00:17:40,400 --> 00:17:42,600
+color appears
+
+387
+00:17:42,600 --> 00:17:44,400
+This one is slightly longer
+
+388
+00:17:44,400 --> 00:17:45,700
+Take more electrons
+
+389
+00:17:45,700 --> 00:17:47,500
+Its absorption wavelength will be slightly longer
+
+390
+00:17:47,500 --> 00:17:50,500
+It absorbs mainly green light
+
+391
+00:17:50,500 --> 00:17:52,000
+Complementary colors that our eyes see
+
+392
+00:17:52,000 --> 00:17:54,800
+is to show a color like this carambola
+
+393
+00:17:54,800 --> 00:17:56,100
+monodentate pile
+
+394
+00:17:56,100 --> 00:17:57,500
+If it continues to grow
+
+395
+00:17:57,500 --> 00:18:00,100
+Its absorption wavelength becomes more and more to the right
+
+396
+00:18:00,000 --> 00:18:03,400
+Go ahead, this side absorbs the yellow-orange color
+
+397
+00:18:03,400 --> 00:18:05,300
+The color it presents at this time
+
+398
+00:18:05,300 --> 00:18:08,300
+It will be the color of the complementary color below, Iron Blue
+
+399
+00:18:08,300 --> 00:18:10,300
+And finally if it hides to a certain extent
+
+400
+00:18:10,300 --> 00:18:12,500
+it absorbs red light
+
+401
+00:18:12,500 --> 00:18:17,500
+At this time, the substance will show a green luster.
+
+402
+00:18:17,500 --> 00:18:20,500
+This is exactly a rendering of a complementary color
+
+403
+00:18:23,200 --> 00:18:24,700
+Okay, this is about the color
+
+404
+00:18:24,700 --> 00:18:27,500
+I'm starting to tell the history of this color discovery
+
+405
+00:18:28,500 --> 00:18:32,300
+In this so-called chemical technology
+
+406
+00:18:32,300 --> 00:18:35,500
+or before technology
+
+407
+00:18:35,500 --> 00:18:40,000
+Human beings can get colors from nature
+
+408
+00:18:40,000 --> 00:18:43,200
+I saw this here and found a few photos for everyone to see.
+
+409
+00:18:43,200 --> 00:18:45,200
+The most primitive and primitive bibliophile
+
+410
+00:18:45,200 --> 00:18:46,700
+It's always written in the book
+
+411
+00:18:46,700 --> 00:18:50,000
+The source of the most original color is taken from nature
+
+412
+00:18:50,000 --> 00:18:51,600
+For example, this ingredient
+
+413
+00:18:51,600 --> 00:18:53,300
+This is called sporite
+
+414
+00:18:53,300 --> 00:18:56,000
+It's the color that produces that orange-red color
+
+415
+00:18:56,100 --> 00:18:58,400
+There is another one called Zheshi
+
+416
+00:18:58,400 --> 00:18:59,800
+this translated word
+
+417
+00:19:00,000 --> 00:19:04,000
+This color is a stone showing this dark purple color
+
+418
+00:19:04,000 --> 00:19:08,000
+so you can see this stone age
+
+419
+00:19:08,000 --> 00:19:10,000
+The colors painted on the walls of this cave
+
+420
+00:19:10,000 --> 00:19:13,000
+last saved until now
+
+421
+00:19:13,000 --> 00:19:19,000
+Why do you still see the pattern caused by these two colors?
+
+422
+00:19:19,000 --> 00:19:23,000
+Because at that time it was possible to obtain colors from nature
+
+423
+00:19:23,000 --> 00:19:25,000
+Probably the most common are these two colors
+
+424
+00:19:25,000 --> 00:19:26,000
+so you look at this mural
+
+425
+00:19:26,000 --> 00:19:31,000
+Most of them are renderings of these two colors
+
+426
+00:19:31,000 --> 00:19:36,000
+Then this is all things from the stone age
+
+427
+00:19:36,000 --> 00:19:39,000
+After the emergence of human culture
+
+428
+00:19:39,000 --> 00:19:41,000
+marl culture like ingal
+
+429
+00:19:41,000 --> 00:19:44,000
+Or China's ice cat swimming that painted
+
+430
+00:19:44,000 --> 00:19:47,000
+The color painted on the artist's face
+
+431
+00:19:47,000 --> 00:19:48,000
+with egypt
+
+432
+00:19:48,000 --> 00:19:52,000
+Egypt is one of these major civilizations
+
+433
+00:19:52,000 --> 00:19:54,000
+You can see the color it takes inside
+
+434
+00:19:54,000 --> 00:19:56,000
+Most of them are biased towards this orange
+
+435
+00:19:56,000 --> 00:19:59,000
+or this pleated red color
+
+436
+00:19:59,000 --> 00:20:00,000
+because at that time
+
+437
+00:20:00,000 --> 00:20:03,100
+The source of the most accessible colors
+
+438
+00:20:03,100 --> 00:20:06,300
+is the material from these colors
+
+439
+00:20:06,300 --> 00:20:08,200
+while the color material itself provides the most
+
+440
+00:20:08,200 --> 00:20:10,200
+these two colors
+
+441
+00:20:10,200 --> 00:20:11,600
+you go to the book
+
+442
+00:20:11,600 --> 00:20:12,800
+the book will tell you
+
+443
+00:20:12,800 --> 00:20:14,200
+this ever
+
+444
+00:20:14,200 --> 00:20:17,200
+the first human way
+
+445
+00:20:17,200 --> 00:20:19,100
+synthetic artificial coloring
+
+446
+00:20:19,100 --> 00:20:21,400
+It's in this pharaoh's tomb
+
+447
+00:20:21,400 --> 00:20:23,200
+see this blue substance
+
+448
+00:20:23,200 --> 00:20:27,200
+Because this blue substance does not exist in nature
+
+449
+00:20:27,200 --> 00:20:29,400
+It is artificially synthesized
+
+450
+00:20:29,400 --> 00:20:37,200
+Only then can this blue pigment appear
+
+451
+00:20:37,200 --> 00:20:41,000
+Here we use the current chemical technology
+
+452
+00:20:41,000 --> 00:20:42,800
+The ancient Egyptian
+
+453
+00:20:42,800 --> 00:20:46,300
+How did they go about creating this color?
+
+454
+00:20:46,300 --> 00:20:49,000
+or did he mix it up with three things
+
+455
+00:20:49,000 --> 00:20:50,200
+processed by Galle
+
+456
+00:20:50,200 --> 00:20:51,800
+will be able to generate this thing
+
+457
+00:20:51,800 --> 00:20:56,600
+This thing is called Acidic Copper Tears
+
+458
+00:20:56,600 --> 00:20:58,600
+Although it is something like a stone
+
+459
+00:20:58,600 --> 00:21:00,000
+But this stone is colored
+
+460
+00:21:00,000 --> 00:21:02,000
+The color is the natural color
+
+461
+00:21:02,000 --> 00:21:04,000
+what are these three things it uses
+
+462
+00:21:04,000 --> 00:21:06,000
+The main source of color is from this
+
+463
+00:21:06,000 --> 00:21:08,000
+Copper Carbonate
+
+464
+00:21:08,000 --> 00:21:10,000
+This thing is called malachite
+
+465
+00:21:10,000 --> 00:21:11,000
+this is in
+
+466
+00:21:11,000 --> 00:21:13,000
+presumably earlier
+
+467
+00:21:13,000 --> 00:21:15,000
+Egypt has a lot of this malachite
+
+468
+00:21:15,000 --> 00:21:16,000
+So they can get local material
+
+469
+00:21:16,000 --> 00:21:18,000
+Use this as the source of the color
+
+470
+00:21:18,000 --> 00:21:20,000
+The colors they make are natural colors
+
+471
+00:21:20,000 --> 00:21:22,000
+Then the quartz sand mixed in
+
+472
+00:21:22,000 --> 00:21:25,000
+Quartz sand is the Sally by the sea
+
+473
+00:21:25,000 --> 00:21:26,000
+main source
+
+474
+00:21:26,000 --> 00:21:28,000
+that egypt in
+
+475
+00:21:28,000 --> 00:21:29,000
+Where
+
+476
+00:21:29,000 --> 00:21:31,000
+In North Africa there is a large
+
+477
+00:21:31,000 --> 00:21:34,000
+salad desert
+
+478
+00:21:34,000 --> 00:21:36,000
+There are many quartz stones in the salad desert
+
+479
+00:21:36,000 --> 00:21:38,000
+So this material is not a problem
+
+480
+00:21:38,000 --> 00:21:40,000
+Then there's the marble
+
+481
+00:21:40,000 --> 00:21:43,000
+is the source of carbonated limestone
+
+482
+00:21:43,000 --> 00:21:46,000
+There are many such things in the world of Egypt
+
+483
+00:21:46,000 --> 00:21:48,000
+mixing these three things together
+
+484
+00:21:48,000 --> 00:21:52,000
+Originally malachite was this greenish thing
+
+485
+00:21:52,000 --> 00:21:53,000
+After the result is processed like this
+
+486
+00:21:53,000 --> 00:21:54,000
+it becomes natural color
+
+487
+00:21:54,000 --> 00:21:56,000
+This is the record you can find
+
+488
+00:21:56,000 --> 00:21:58,000
+That's the first artificial
+
+489
+00:21:58,000 --> 00:22:00,000
+artificially synthesized
+
+490
+00:22:00,000 --> 00:22:04,100
+but it is derived from the infinite substance
+
+491
+00:22:04,100 --> 00:22:07,000
+There are no such things as carbon, hydrogen, oxygen and nitrogen in it.
+
+492
+00:22:07,000 --> 00:22:10,000
+So it's the rate of fire of the infinite dye
+
+493
+00:22:10,000 --> 00:22:16,000
+Well, those colors, of course this was discovered a long time ago
+
+494
+00:22:16,000 --> 00:22:20,000
+Then it was later used in the creation of this art
+
+495
+00:22:20,000 --> 00:22:23,000
+I found a few pictures that can be found on the Internet
+
+496
+00:22:23,000 --> 00:22:26,000
+For example, the last supper of Jesus
+
+497
+00:22:27,000 --> 00:22:30,000
+I’ve been to this place before, which city in Italy doesn’t matter
+
+498
+00:22:30,000 --> 00:22:32,000
+Teacher Peng took us there
+
+499
+00:22:32,000 --> 00:22:37,000
+This one is actually a colored lake
+
+500
+00:22:37,000 --> 00:22:39,000
+"Monalis" is smiling, look at the fact
+
+501
+00:22:39,000 --> 00:22:41,000
+The color has faded over time.
+
+502
+00:22:41,000 --> 00:22:44,000
+It fades into the color of that yellow coffee color
+
+503
+00:22:44,000 --> 00:22:46,000
+In fact, it turned out to be a colored substance
+
+504
+00:22:46,000 --> 00:22:47,000
+These are famous paintings
+
+505
+00:22:47,000 --> 00:22:49,000
+colorful colors on top
+
+506
+00:22:49,000 --> 00:22:52,000
+Including the more modern ones like this Monet
+
+507
+00:22:52,000 --> 00:22:53,000
+But it is also a painting more than a hundred years ago
+
+508
+00:22:54,000 --> 00:22:56,000
+This is also his painting, this one is called
+
+509
+00:22:56,000 --> 00:22:58,000
+"In Spring Mountain" I can't find out what is the name of this
+
+510
+00:22:58,000 --> 00:23:00,000
+used in these things
+
+511
+00:23:00,000 --> 00:23:01,960
+These pigment dyes
+
+512
+00:23:01,960 --> 00:23:04,460
+But because of the relationship at that time
+
+513
+00:23:04,460 --> 00:23:05,760
+Because this is an earlier relationship
+
+514
+00:23:05,760 --> 00:23:06,860
+Relationships over a hundred years ago
+
+515
+00:23:06,860 --> 00:23:10,460
+At that time there was no synthesis technology
+
+516
+00:23:10,460 --> 00:23:13,760
+In fact, they are all raw materials
+
+517
+00:23:13,760 --> 00:23:15,660
+e.g. white pigment
+
+518
+00:23:15,660 --> 00:23:18,460
+At that time, it was made of carbon fiber, sulfate fiber
+
+519
+00:23:18,460 --> 00:23:20,660
+made of oxidized fiber
+
+520
+00:23:20,660 --> 00:23:22,860
+The yellow one is made of this acid fiber
+
+521
+00:23:22,860 --> 00:23:25,260
+The blue one is made of this
+
+522
+00:23:25,260 --> 00:23:28,500
+This iron complex is composed of
+
+523
+00:23:28,500 --> 00:23:31,500
+Composed of elements such as red blood fiber and yellow blood fiber
+
+524
+00:23:31,500 --> 00:23:33,560
+Green is ash
+
+525
+00:23:33,560 --> 00:23:37,400
+Composition of yellow blood fiber, red blood fiber and acid copper
+
+526
+00:23:37,400 --> 00:23:39,600
+This is all information you can find on the Internet.
+
+527
+00:23:39,600 --> 00:23:44,800
+The red color is composed of the fibrous compounds of wood acid and
+
+528
+00:23:44,800 --> 00:23:48,800
+And these oxide fibers and copper oxide
+
+529
+00:23:48,800 --> 00:23:50,500
+These are the early paintings
+
+530
+00:23:50,500 --> 00:23:53,200
+Just use these non-productive pigment dyes
+
+531
+00:23:53,200 --> 00:23:56,160
+to do drawing work
+
+532
+00:23:56,160 --> 00:24:00,120
+The fact that these product-free materials are also used in
+
+533
+00:24:00,000 --> 00:24:02,440
+The things used in this printing into the newspaper
+
+534
+00:24:02,440 --> 00:24:04,440
+This is holding up to now to compare
+
+535
+00:24:04,440 --> 00:24:07,400
+Civilization above the printed work we do
+
+536
+00:24:07,400 --> 00:24:09,440
+Most of the oil used for release
+
+537
+00:24:09,440 --> 00:24:13,800
+All come from the materials composed of these inorganic substances
+
+538
+00:24:13,800 --> 00:24:17,440
+it will come in a variety of different colors
+
+539
+00:24:17,440 --> 00:24:20,600
+The setting of the inorganic pigment like this
+
+540
+00:24:20,600 --> 00:24:25,000
+It is also used in this yellow line of the gang line
+
+541
+00:24:25,000 --> 00:24:26,600
+The reason why I mention this is
+
+542
+00:24:26,600 --> 00:24:28,600
+It turns out that the yellow line is mainly made of these
+
+543
+00:24:28,600 --> 00:24:30,200
+made of inorganic compounds
+
+544
+00:24:30,200 --> 00:24:32,440
+like this vulcanized septum or
+
+545
+00:24:32,440 --> 00:24:33,840
+Acid drop this kind of thing
+
+546
+00:24:33,840 --> 00:24:36,000
+This thing we just saw earlier
+
+547
+00:24:36,000 --> 00:24:38,640
+But it's really on the pavement now
+
+548
+00:24:38,640 --> 00:24:42,000
+There's a lot of these yellow paints too
+
+549
+00:24:42,000 --> 00:24:44,240
+made of organic matter
+
+550
+00:24:44,240 --> 00:24:48,440
+There is an English text here
+
+551
+00:24:48,440 --> 00:24:50,540
+I took it from this website
+
+552
+00:24:50,540 --> 00:24:51,840
+This site says
+
+553
+00:24:51,840 --> 00:24:54,040
+Wall-making-Pent Composition
+
+554
+00:24:54,840 --> 00:24:59,040
+The road style of these yellow board horse lines
+
+555
+00:24:59,040 --> 00:25:00,040
+the end of its oil
+
+556
+00:25:00,000 --> 00:25:01,720
+what is the composition of the paint
+
+557
+00:25:01,720 --> 00:25:03,720
+This is explaining the composition of these paints
+
+558
+00:25:03,720 --> 00:25:07,160
+Usually made of this fluidized terrier or Lutheran
+
+559
+00:25:07,160 --> 00:25:11,160
+But now there are a lot of yellow poultices like this
+
+560
+00:25:11,160 --> 00:25:12,600
+is made of this thing
+
+561
+00:25:12,600 --> 00:25:14,880
+This thing is called Benzidine Yellow
+
+562
+00:25:14,880 --> 00:25:17,920
+Translated into this text is called Lianben Anhuang
+
+563
+00:25:17,920 --> 00:25:20,880
+This is made of an organic substance
+
+564
+00:25:20,880 --> 00:25:23,600
+substance with a yellow color
+
+565
+00:25:23,600 --> 00:25:25,160
+what about this thing
+
+566
+00:25:25,160 --> 00:25:27,320
+Because there are some chemicals
+
+567
+00:25:27,320 --> 00:25:32,440
+The release of this same thing is also used in many current cars.
+
+568
+00:25:32,440 --> 00:25:34,720
+paint on car body
+
+569
+00:25:34,720 --> 00:25:37,320
+For example, the yellow color of the little yellow we are talking about
+
+570
+00:25:37,320 --> 00:25:42,120
+It's actually made of this yellow paint substance
+
+571
+00:25:42,120 --> 00:25:43,520
+And the substance of this paint is actually
+
+572
+00:25:43,520 --> 00:25:46,520
+Made entirely of organic matter
+
+573
+00:25:46,520 --> 00:25:47,960
+you will see it has many
+
+574
+00:25:47,960 --> 00:25:50,640
+Pai Tan Tan double key Pai electronic
+
+575
+00:25:50,640 --> 00:25:52,920
+There are a lot of rings on this one
+
+576
+00:25:52,920 --> 00:25:54,440
+So many rings connected together
+
+577
+00:25:54,440 --> 00:25:57,240
+it will appear in color
+
+578
+00:25:57,440 --> 00:25:58,840
+depends on your chemical structure
+
+579
+00:25:58,840 --> 00:26:00,240
+This is all organic matter
+
+580
+00:26:00,000 --> 00:26:03,600
+like this one is showing this fuchsia
+
+581
+00:26:03,600 --> 00:26:05,800
+This one is showing this bright red color
+
+582
+00:26:05,800 --> 00:26:08,600
+This should be an Alfa Romeo sports car
+
+583
+00:26:08,600 --> 00:26:10,000
+This red grilled chicken above
+
+584
+00:26:10,000 --> 00:26:12,800
+Only use organic substances
+
+585
+00:26:12,800 --> 00:26:14,600
+its color rendering
+
+586
+00:26:14,600 --> 00:26:16,400
+And what about this dark blue substance?
+
+587
+00:26:16,400 --> 00:26:18,200
+by this car
+
+588
+00:26:18,200 --> 00:26:20,600
+is made of this dye
+
+589
+00:26:20,600 --> 00:26:23,000
+Finally there is a bright green
+
+590
+00:26:23,000 --> 00:26:24,000
+this is very colorful
+
+591
+00:26:24,000 --> 00:26:26,200
+like the color of this ninja turtle
+
+592
+00:26:26,200 --> 00:26:29,000
+This is made up of the molecules of this macrocycle
+
+593
+00:26:30,000 --> 00:26:33,400
+These are the organic substances that came out later
+
+594
+00:26:33,400 --> 00:26:35,200
+Usually the color of organic matter
+
+595
+00:26:35,200 --> 00:26:39,400
+Will be brighter and brighter than the color of inorganic substances
+
+596
+00:26:39,400 --> 00:26:42,600
+because its color is the intensity of the sunlight it absorbs
+
+597
+00:26:42,600 --> 00:26:43,400
+is relatively strong
+
+598
+00:26:43,400 --> 00:26:45,600
+So what about Rong Gong's bone-protecting color?
+
+599
+00:26:45,600 --> 00:26:47,000
+will be stronger
+
+600
+00:26:47,000 --> 00:26:50,000
+This is how it looks compared to the inorganic material
+
+601
+00:26:50,000 --> 00:26:52,000
+So what about organic matter?
+
+602
+00:26:52,000 --> 00:26:53,200
+One advantage of having this is
+
+603
+00:26:53,200 --> 00:26:55,000
+Because it is more colorful
+
+604
+00:26:55,000 --> 00:26:58,000
+So everyone prefers to color like this
+
+605
+00:26:58,000 --> 00:27:00,000
+showy things add to us
+
+606
+00:27:00,000 --> 00:27:02,500
+in our daily use
+
+607
+00:27:02,500 --> 00:27:04,100
+Because the colors that appear in this way
+
+608
+00:27:04,100 --> 00:27:06,400
+will be brighter and brighter
+
+609
+00:27:06,400 --> 00:27:09,400
+Our race likes to look at that beautiful thing
+
+610
+00:27:09,400 --> 00:27:11,200
+strong color
+
+611
+00:27:11,200 --> 00:27:13,900
+It means very beautiful
+
+612
+00:27:13,900 --> 00:27:17,500
+Including this of our female compatriots
+
+613
+00:27:17,500 --> 00:27:21,300
+Facial makeup also includes the use of various paints
+
+614
+00:27:21,300 --> 00:27:22,900
+Because there are all kinds of colors
+
+615
+00:27:22,900 --> 00:27:25,500
+In the early days, put these paints like this
+
+616
+00:27:25,500 --> 00:27:27,900
+Like painting, it contains these heavy metals
+
+617
+00:27:27,900 --> 00:27:31,700
+Everyone knows that metals are not very healthy for the human body.
+
+618
+00:27:31,700 --> 00:27:34,800
+So now these cosmetics
+
+619
+00:27:34,800 --> 00:27:38,600
+It has largely discarded these heavy metal-containing paints
+
+620
+00:27:38,600 --> 00:27:46,000
+Instead, organic substances are used as the color ingredients in cosmetics.
+
+621
+00:27:46,000 --> 00:27:50,100
+Well, this is me talking about modern times in one breath, right?
+
+622
+00:27:50,100 --> 00:27:52,200
+But you have to think about it
+
+623
+00:27:52,200 --> 00:27:55,000
+These things are all because of chemical synthesis
+
+624
+00:27:55,100 --> 00:27:58,100
+These various organic substances are produced
+
+625
+00:27:58,100 --> 00:28:00,100
+Organic matter is in fact basically
+
+626
+00:28:00,000 --> 00:28:03,040
+The colors of these organic substances seen now
+
+627
+00:28:03,040 --> 00:28:05,540
+Of course it was synthesized in the laboratory.
+
+628
+00:28:05,540 --> 00:28:08,040
+or synthesized by the industry
+
+629
+00:28:08,040 --> 00:28:10,040
+Early organic matter was also
+
+630
+00:28:10,040 --> 00:28:13,540
+But we can see it but we can't use it
+
+631
+00:28:13,540 --> 00:28:18,340
+Because these early organic substances were roughly drawn from
+
+632
+00:28:18,340 --> 00:28:22,340
+For example, flowers show very bright colors
+
+633
+00:28:22,340 --> 00:28:23,940
+What about the colors in the flowers?
+
+634
+00:28:23,940 --> 00:28:26,740
+are also composed of these organic substances
+
+635
+00:28:26,740 --> 00:28:29,540
+But whether these substances are the color of flowers
+
+636
+00:28:29,540 --> 00:28:33,380
+or the color inside an animal's feathers
+
+637
+00:28:33,380 --> 00:28:36,380
+you can find a way to extract it
+
+638
+00:28:36,380 --> 00:28:40,080
+But these substances are not stable enough
+
+639
+00:28:40,080 --> 00:28:42,680
+Not long after you worked so hard to extract it
+
+640
+00:28:42,680 --> 00:28:45,180
+their color fades
+
+641
+00:28:45,180 --> 00:28:50,180
+So early these brightly colored substances
+
+642
+00:28:50,180 --> 00:28:53,380
+It took a lot of effort to get
+
+643
+00:28:53,380 --> 00:28:55,780
+I went to find a piece of information here.
+
+644
+00:28:55,780 --> 00:28:58,840
+It was the early days, which should have been in the Middle Ages.
+
+645
+00:28:58,840 --> 00:29:00,080
+flowers of the color of that time
+
+646
+00:29:00,000 --> 00:29:01,600
+It is still difficult to obtain
+
+647
+00:29:01,900 --> 00:29:07,400
+At that time, there was a color called Taizi's dye
+
+648
+00:29:07,400 --> 00:29:10,600
+This Taizi is translated from the English name
+
+649
+00:29:11,200 --> 00:29:14,100
+How did this dye get it?
+
+650
+00:29:14,700 --> 00:29:16,200
+I learn a lot of English writing here
+
+651
+00:29:16,200 --> 00:29:17,500
+Let me translate for you
+
+652
+00:29:17,700 --> 00:29:22,000
+It's near the Mediterranean Sea and there's a man called Flying Mudbot
+
+653
+00:29:22,000 --> 00:29:24,700
+The Mudbots live next to the Mediterranean Sea
+
+654
+00:29:25,100 --> 00:29:29,800
+There is a type of crustacean in that region of the Mediterranean Sea
+
+655
+00:29:30,600 --> 00:29:32,600
+This is what the crustacean inside it looks like
+
+656
+00:29:32,600 --> 00:29:34,400
+You can find photos on the Internet
+
+657
+00:29:34,400 --> 00:29:36,800
+There is something in this color
+
+658
+00:29:36,800 --> 00:29:40,100
+When you extract it, it takes on this purple color
+
+659
+00:29:40,800 --> 00:29:42,900
+So in the middle ages
+
+660
+00:29:42,900 --> 00:29:45,300
+to get this color
+
+661
+00:29:45,300 --> 00:29:47,700
+Because what was the color actually used for later?
+
+662
+00:29:48,100 --> 00:29:51,800
+That this is the Pope's holy robe
+
+663
+00:29:52,000 --> 00:29:56,900
+You see this is a very famous portrait of Christianity
+
+664
+00:29:56,900 --> 00:29:59,000
+the angel inside
+
+665
+00:29:59,000 --> 00:29:59,700
+this is still
+
+666
+00:30:00,000 --> 00:30:02,000
+jesus doesn't know what
+
+667
+00:30:02,100 --> 00:30:05,900
+The robe it wears is the prince
+
+668
+00:30:06,000 --> 00:30:10,100
+The color dyed by this dye
+
+669
+00:30:10,200 --> 00:30:14,000
+But the dye didn’t exist at that time, and the chemical solution didn’t come out yet.
+
+670
+00:30:14,100 --> 00:30:17,800
+How does this person synthesize these organic dyes?
+
+671
+00:30:17,900 --> 00:30:21,100
+It's from this crustacean to extract it
+
+672
+00:30:21,200 --> 00:30:22,900
+Here's a narrative I'm talking about
+
+673
+00:30:23,000 --> 00:30:25,400
+you want to dye a dress like this
+
+674
+00:30:25,500 --> 00:30:28,900
+do you know how many shells this crustacean needs
+
+675
+00:30:28,900 --> 00:30:33,500
+He said he wanted 10,000,000,100,000,12,000 of these crustaceans
+
+676
+00:30:33,600 --> 00:30:37,500
+To be able to dye this piece of clothing
+
+677
+00:30:37,600 --> 00:30:41,400
+So you can know how difficult it is to obtain this pigment
+
+678
+00:30:41,500 --> 00:30:44,400
+So at that time in the Middle Ages
+
+679
+00:30:44,500 --> 00:30:46,800
+Pigments are very, very difficult to obtain
+
+680
+00:30:46,900 --> 00:30:50,000
+So if you can have a color like this color
+
+681
+00:30:50,100 --> 00:30:53,700
+Usually a symbol of some kind of power
+
+682
+00:30:53,800 --> 00:30:56,400
+Those who are not expensive can afford it
+
+683
+00:30:56,500 --> 00:30:58,800
+can afford this color
+
+684
+00:30:58,900 --> 00:30:59,900
+this is
+
+685
+00:31:00,000 --> 00:31:02,760
+is a history that you can look up
+
+686
+00:31:02,760 --> 00:31:07,460
+Before artificially synthesizing these dyes
+
+687
+00:31:07,460 --> 00:31:11,200
+Acquiring dyes is quite a difficult thing
+
+688
+00:31:11,200 --> 00:31:12,640
+We often hear people say
+
+689
+00:31:12,640 --> 00:31:14,400
+What kind of tree roots are you going to extract from?
+
+690
+00:31:14,400 --> 00:31:16,200
+This has a ready-made example
+
+691
+00:31:16,200 --> 00:31:19,000
+This is called fenugreek root
+
+692
+00:31:19,000 --> 00:31:22,040
+What color is the root of the chickweed
+
+693
+00:31:22,040 --> 00:31:23,200
+brick red color
+
+694
+00:31:23,200 --> 00:31:25,040
+Because there is one like this in it
+
+695
+00:31:25,040 --> 00:31:28,500
+The substance of the organic dye appears
+
+696
+00:31:28,500 --> 00:31:29,900
+So you use the extraction method
+
+697
+00:31:29,900 --> 00:31:32,600
+from a tree root like this
+
+698
+00:31:32,600 --> 00:31:36,600
+Extract the substance of such a color
+
+699
+00:31:36,600 --> 00:31:37,600
+so you can know
+
+700
+00:31:37,600 --> 00:31:39,200
+The color is not fetched from
+
+701
+00:31:39,200 --> 00:31:40,900
+All cancel a natural world
+
+702
+00:31:40,900 --> 00:31:43,400
+like canceling a fake shellfish
+
+703
+00:31:43,400 --> 00:31:45,600
+Otherwise, this is extracted from the root of the tree.
+
+704
+00:31:45,600 --> 00:31:48,400
+it's a hard job
+
+705
+00:31:48,400 --> 00:31:50,000
+The current situation like this
+
+706
+00:31:50,000 --> 00:31:53,000
+Until about 100 years ago
+
+707
+00:31:53,000 --> 00:31:56,400
+Of course the one 150 years ago
+
+708
+00:31:56,400 --> 00:31:58,800
+We now call him the emergence of Chemist
+
+709
+00:31:58,800 --> 00:32:00,800
+This situation has taken a big turn
+
+710
+00:32:00,000 --> 00:32:04,000
+We now respectfully call it chemical production
+
+711
+00:32:04,000 --> 00:32:07,000
+it's british called william burkey
+
+712
+00:32:07,000 --> 00:32:12,000
+It existed from 1838 to 1907
+
+713
+00:32:12,000 --> 00:32:17,000
+Probably around the end of the last century to the beginning of the last century
+
+714
+00:32:17,000 --> 00:32:24,000
+It's in fact the first human to synthesize it in a laboratory way
+
+715
+00:32:24,000 --> 00:32:29,000
+And inventing and synthesizing a substance with a new color appears
+
+716
+00:32:29,000 --> 00:32:33,000
+This new color material is called intrinsically safe paper
+
+717
+00:32:33,000 --> 00:32:36,000
+The color itself has this tinge of purple
+
+718
+00:32:36,000 --> 00:32:39,000
+light purple substance
+
+719
+00:32:39,000 --> 00:32:42,000
+We call this chemical synthesis
+
+720
+00:32:42,000 --> 00:32:45,000
+Created the first entirely new organic dye
+
+721
+00:32:45,000 --> 00:32:47,000
+This thing does not exist in nature
+
+722
+00:32:47,000 --> 00:32:49,000
+something like this structure
+
+723
+00:32:49,000 --> 00:32:50,000
+and no such thing appears
+
+724
+00:32:50,000 --> 00:32:54,000
+So the thing it synthesizes is colored
+
+725
+00:32:54,000 --> 00:32:57,000
+And it's a roughly non-existent color
+
+726
+00:32:57,000 --> 00:33:00,000
+So it's a color created by humans
+
+727
+00:33:00,000 --> 00:33:01,100
+matter of color
+
+728
+00:33:02,800 --> 00:33:05,600
+This is what I found in a book
+
+729
+00:33:05,900 --> 00:33:11,400
+This is the internal substance that was synthesized in his laboratory at the beginning.
+
+730
+00:33:11,400 --> 00:33:12,600
+still preserved
+
+731
+00:33:13,300 --> 00:33:17,000
+This color is called book
+
+732
+00:33:17,600 --> 00:33:18,900
+Yasuko Moto
+
+733
+00:33:19,700 --> 00:33:22,300
+This is what we now call the father of painters
+
+734
+00:33:22,300 --> 00:33:25,900
+because you went to see his hometown
+
+735
+00:33:25,900 --> 00:33:27,800
+His hometown has been turned into a museum
+
+736
+00:33:27,900 --> 00:33:29,500
+there is a sign on it
+
+737
+00:33:30,500 --> 00:33:32,100
+If you zoom in to see him, look at him
+
+738
+00:33:32,600 --> 00:33:33,800
+this person is actually
+
+739
+00:33:33,800 --> 00:33:37,700
+because he discovered the synthesis of this dye
+
+740
+00:33:38,100 --> 00:33:40,200
+One of the next things he did was
+
+741
+00:33:40,600 --> 00:33:47,600
+He founded an industry based on scientific registration
+
+742
+00:33:47,600 --> 00:33:49,700
+The meaning of this English word translated into Chinese
+
+743
+00:33:49,800 --> 00:33:51,900
+Science-based industry industry
+
+744
+00:33:51,900 --> 00:33:53,100
+means industry
+
+745
+00:33:54,400 --> 00:33:57,300
+Industry didn't exist before him
+
+746
+00:33:57,300 --> 00:33:59,900
+The painting industry we are talking about now
+
+747
+00:34:00,000 --> 00:34:01,700
+just start with it
+
+748
+00:34:01,900 --> 00:34:03,400
+what great things does it do
+
+749
+00:34:03,400 --> 00:34:06,700
+It is the self-preparation of the dye
+
+750
+00:34:07,100 --> 00:34:10,600
+Produce in large quantities Collect in large quantities
+
+751
+00:34:10,900 --> 00:34:13,100
+Then take it to the market to sell
+
+752
+00:34:14,200 --> 00:34:14,900
+what color
+
+753
+00:34:14,900 --> 00:34:19,200
+Because the package is very similar to the purple we talked about earlier.
+
+754
+00:34:19,200 --> 00:34:22,000
+So it's purple when we talked about it
+
+755
+00:34:22,000 --> 00:34:24,500
+This is extracted from the carapace and very hard work
+
+756
+00:34:24,700 --> 00:34:28,000
+You have to collect tens of thousands of things to be able to dye a little cloth
+
+757
+00:34:28,500 --> 00:34:31,800
+Now it can be mass-produced at one time by synthetic means
+
+758
+00:34:33,100 --> 00:34:38,100
+So the one with the color is no longer the rich and powerful
+
+759
+00:34:38,100 --> 00:34:41,800
+It's something exclusive
+
+760
+00:34:42,100 --> 00:34:44,300
+So here you see this is a book
+
+761
+00:34:44,300 --> 00:34:45,200
+it says
+
+762
+00:34:45,800 --> 00:34:48,000
+a man it invented a color
+
+763
+00:34:48,000 --> 00:34:50,300
+And it's like this, this, this move
+
+764
+00:34:50,300 --> 00:34:51,800
+changed the whole world
+
+765
+00:34:51,800 --> 00:34:53,000
+I translated it into Chinese
+
+766
+00:34:53,000 --> 00:34:54,400
+a man invents a color
+
+767
+00:34:54,400 --> 00:34:56,800
+The world has changed since then
+
+768
+00:34:57,000 --> 00:34:59,500
+Thus began the chemical industry
+
+769
+00:34:59,500 --> 00:35:00,100
+that's because
+
+770
+00:35:00,000 --> 00:35:02,760
+From the beginning of it we will call it the father of chemical engineering
+
+771
+00:35:04,260 --> 00:35:08,360
+This is also a dye that it synthesized later.
+
+772
+00:35:08,460 --> 00:35:09,760
+This dye is Qiansu
+
+773
+00:35:09,860 --> 00:35:10,960
+is what we just saw earlier
+
+774
+00:35:11,060 --> 00:35:14,160
+This thing extracted from the root of the tree
+
+775
+00:35:14,260 --> 00:35:16,160
+identical chemical structure
+
+776
+00:35:16,760 --> 00:35:18,360
+This is from the root of the tree
+
+777
+00:35:18,460 --> 00:35:20,460
+extracted from natural
+
+778
+00:35:20,560 --> 00:35:24,060
+This microlink thin product from the laboratory
+
+779
+00:35:24,160 --> 00:35:26,960
+Prepare it by chemical synthesis
+
+780
+00:35:27,960 --> 00:35:31,520
+So this is so here you look up the history book
+
+781
+00:35:31,620 --> 00:35:33,520
+It is written that this substance is
+
+782
+00:35:33,620 --> 00:35:36,620
+produced by chemical synthesis
+
+783
+00:35:36,720 --> 00:35:38,920
+The first natural organic dye
+
+784
+00:35:39,020 --> 00:35:41,220
+This dye is found in nature
+
+785
+00:35:41,320 --> 00:35:43,520
+But in the past, it was extracted from the roots of trees.
+
+786
+00:35:43,620 --> 00:35:46,420
+But it is synthesized by the laboratory
+
+787
+00:35:46,520 --> 00:35:48,620
+And another of its inventions is
+
+788
+00:35:48,720 --> 00:35:50,220
+There is no such thing in nature
+
+789
+00:35:50,320 --> 00:35:54,320
+completely pure matter created in the laboratory
+
+790
+00:35:57,020 --> 00:35:59,220
+Okay, let me tell you this is simple
+
+791
+00:35:59,320 --> 00:36:00,220
+this is chemistry
+
+792
+00:36:00,000 --> 00:36:03,020
+How did Winter Night synthesize this dye?
+
+793
+00:36:03,020 --> 00:36:05,580
+add these three things together
+
+794
+00:36:05,580 --> 00:36:09,340
+All three are made of organic matter
+
+795
+00:36:09,340 --> 00:36:11,540
+After putting these three things together
+
+796
+00:36:11,540 --> 00:36:16,700
+Add running acid water and heavy acid
+
+797
+00:36:16,700 --> 00:36:18,140
+This acts as an oxidizing agent
+
+798
+00:36:18,140 --> 00:36:21,700
+You can put these three things in this ring together to fix it together
+
+799
+00:36:21,700 --> 00:36:24,940
+When Wenyuan International synthesized this thing
+
+800
+00:36:24,940 --> 00:36:26,340
+In fact it doesn't know
+
+801
+00:36:26,340 --> 00:36:28,100
+it gets in fact a mixture
+
+802
+00:36:28,300 --> 00:36:31,500
+It includes ABCD
+
+803
+00:36:31,500 --> 00:36:34,700
+There are at least two ingredients of all sorts
+
+804
+00:36:34,700 --> 00:36:36,300
+like this one I drew earlier
+
+805
+00:36:36,300 --> 00:36:39,900
+At least two ingredients make up its pot of medicine
+
+806
+00:36:39,900 --> 00:36:40,900
+chemical
+
+807
+00:36:40,900 --> 00:36:42,300
+this is colored
+
+808
+00:36:42,300 --> 00:36:44,700
+In fact the dye is not a single substance
+
+809
+00:36:44,700 --> 00:36:46,900
+In fact this mixture
+
+810
+00:36:46,900 --> 00:36:49,900
+It does this thing in fact it is not its original purpose
+
+811
+00:36:49,900 --> 00:36:51,100
+write one here
+
+812
+00:36:51,100 --> 00:36:53,400
+What was it actually supposed to do?
+
+813
+00:36:53,400 --> 00:36:56,600
+Back then that sadism was troublesome
+
+814
+00:36:56,600 --> 00:36:58,000
+At that time there was no medicine to treat
+
+815
+00:36:58,000 --> 00:37:00,100
+I knew at that time
+
+816
+00:37:00,000 --> 00:37:02,520
+It is said that treating internal diseases can relieve the symptoms
+
+817
+00:37:02,520 --> 00:37:06,240
+It is from this natural thing called
+
+818
+00:37:06,240 --> 00:37:09,040
+The bark or roots of economical numbers
+
+819
+00:37:09,040 --> 00:37:11,960
+It can be distilled into a thing called the neighbor
+
+820
+00:37:11,960 --> 00:37:16,000
+It can be used to treat internal diseases
+
+821
+00:37:16,000 --> 00:37:18,560
+Its original purpose at that time was to find a way
+
+822
+00:37:18,560 --> 00:37:23,200
+This natural substance was synthesized in the laboratory
+
+823
+00:37:23,200 --> 00:37:26,520
+You can see back then because chemistry was just out
+
+824
+00:37:26,520 --> 00:37:29,560
+We're not that familiar with this synthesis yet.
+
+825
+00:37:29,560 --> 00:37:32,920
+Everyone probably knows about this structure that there is a ring in it.
+
+826
+00:37:32,920 --> 00:37:33,960
+there are eggs in it
+
+827
+00:37:33,960 --> 00:37:36,360
+There are some oxygen elements in it
+
+828
+00:37:36,360 --> 00:37:38,720
+So it starts doing the poor job
+
+829
+00:37:38,720 --> 00:37:43,120
+At that time, the source it chose was to choose these three things
+
+830
+00:37:43,120 --> 00:37:44,720
+to group it and put those groups
+
+831
+00:37:44,720 --> 00:37:46,280
+hope to get this thing
+
+832
+00:37:46,280 --> 00:37:47,800
+Of course it is impossible
+
+833
+00:37:47,800 --> 00:37:50,320
+We know chemistry very well now
+
+834
+00:37:50,320 --> 00:37:52,800
+It's impossible to get this thing like this
+
+835
+00:37:52,800 --> 00:37:55,160
+So its original purpose was not to be a dye
+
+836
+00:37:55,160 --> 00:37:58,760
+It's actually purely for medical purposes
+
+837
+00:37:58,760 --> 00:38:00,080
+synthetic work in education
+
+838
+00:38:00,000 --> 00:38:05,580
+And the narrow false found that it got a colored substance
+
+839
+00:38:05,580 --> 00:38:10,580
+You see it in a beaker with a jar of purple ejaculation in it
+
+840
+00:38:10,580 --> 00:38:13,280
+is a drawing
+
+841
+00:38:13,280 --> 00:38:18,000
+It means that it was walking around in the laboratory at that time
+
+842
+00:38:18,000 --> 00:38:22,240
+In the end, I got a medicine that I didn't get, but I got a colored substance
+
+843
+00:38:22,240 --> 00:38:24,200
+its brain moves fast
+
+844
+00:38:24,200 --> 00:38:27,240
+It wants to say that this is very similar to Taier Paper
+
+845
+00:38:27,240 --> 00:38:29,000
+So it can be sold on the market
+
+846
+00:38:29,000 --> 00:38:32,280
+So it actually retired very early
+
+847
+00:38:32,280 --> 00:38:33,840
+It retired in its 30s
+
+848
+00:38:33,840 --> 00:38:37,000
+because it invented the dye in the 20s
+
+849
+00:38:37,000 --> 00:38:39,000
+big money ever since
+
+850
+00:38:39,000 --> 00:38:40,400
+it just keeps working
+
+851
+00:38:40,400 --> 00:38:41,800
+it's at home by itself
+
+852
+00:38:41,800 --> 00:38:43,800
+It has set up a laboratory at home
+
+853
+00:38:43,800 --> 00:38:46,500
+I am researching and developing various dyes by myself
+
+854
+00:38:46,500 --> 00:38:50,200
+Because at that time around 30 years old it had already made enough money
+
+855
+00:38:50,200 --> 00:38:55,800
+Just retreat into the rivers and lakes and do research at home
+
+856
+00:38:56,000 --> 00:38:57,200
+this and more
+
+857
+00:38:57,200 --> 00:38:59,800
+this is chemical
+
+858
+00:39:00,000 --> 00:39:03,800
+Just now I said that he artificially synthesized the first natural dye
+
+859
+00:39:03,800 --> 00:39:05,600
+He started with this substance
+
+860
+00:39:05,600 --> 00:39:08,400
+This substance is extracted from plum oil
+
+861
+00:39:08,400 --> 00:39:11,400
+After one step, two steps and three steps you will get this
+
+862
+00:39:11,400 --> 00:39:14,600
+Appearance of chigusa reddish yellow dye
+
+863
+00:39:14,600 --> 00:39:17,400
+The Chicasana yellow dye was made to the UK
+
+864
+00:39:17,400 --> 00:39:20,200
+Because that Poke-Voyance Brit
+
+865
+00:39:20,200 --> 00:39:24,300
+This early British floating oath has this red uniform on it
+
+866
+00:39:24,300 --> 00:39:27,300
+This is the dye used for dyeing
+
+867
+00:39:28,300 --> 00:39:32,700
+Well, there is another thing that is related to the material of that Thai son.
+
+868
+00:39:32,700 --> 00:39:35,700
+A very similar thing is called Indigo dye
+
+869
+00:39:35,700 --> 00:39:38,300
+Indigo dye we now translate it as called
+
+870
+00:39:38,300 --> 00:39:40,300
+what is this called
+
+871
+00:39:40,300 --> 00:39:44,500
+electric blue dye
+
+872
+00:39:44,500 --> 00:39:46,700
+electric blue dye
+
+873
+00:39:46,700 --> 00:39:47,700
+Indigo dye
+
+874
+00:39:47,700 --> 00:39:52,000
+This thing is actually what we use to dye jeans now
+
+875
+00:39:52,000 --> 00:39:55,900
+What about the blue pigment dye that is used the most?
+
+876
+00:39:56,000 --> 00:39:58,000
+this is the thing
+
+877
+00:39:58,000 --> 00:40:00,300
+This stuff is actually the same dye as Tay's son
+
+878
+00:40:00,000 --> 00:40:01,960
+The results of non-resembling
+
+879
+00:40:01,960 --> 00:40:03,500
+The fetus is in these two positions
+
+880
+00:40:03,500 --> 00:40:04,960
+In two more show elements
+
+881
+00:40:04,960 --> 00:40:06,300
+You take these two show elements
+
+882
+00:40:06,300 --> 00:40:07,000
+after removing it
+
+883
+00:40:07,000 --> 00:40:09,460
+closer to blue
+
+884
+00:40:09,460 --> 00:40:11,960
+What about the blue pigment?
+
+885
+00:40:11,960 --> 00:40:13,460
+In fact, as we said earlier
+
+886
+00:40:13,460 --> 00:40:15,040
+you want to get from that crustacean
+
+887
+00:40:15,040 --> 00:40:16,660
+Distilling this non-functional and hard work
+
+888
+00:40:16,660 --> 00:40:18,360
+Otherwise you have to get it from the plant
+
+889
+00:40:18,360 --> 00:40:19,500
+This plant is called
+
+890
+00:40:19,500 --> 00:40:20,660
+Inside the plant of Miaolan
+
+891
+00:40:20,660 --> 00:40:22,660
+This thing can also be extracted
+
+892
+00:40:22,660 --> 00:40:24,160
+But this refinement is also very troublesome
+
+893
+00:40:24,160 --> 00:40:25,600
+to go through this
+
+894
+00:40:25,600 --> 00:40:27,760
+Heavy extraction and purification steps
+
+895
+00:40:27,760 --> 00:40:30,920
+to get a little something
+
+896
+00:40:30,920 --> 00:40:35,220
+So the chemical industry in Germany is very fresh
+
+897
+00:40:35,220 --> 00:40:38,420
+At that time, Germany's Basford Industries
+
+898
+00:40:38,420 --> 00:40:39,520
+no it's not basford
+
+899
+00:40:39,520 --> 00:40:41,260
+this bell
+
+900
+00:40:41,260 --> 00:40:43,920
+Bell is actually owned by Bayer AG in Germany.
+
+901
+00:40:43,920 --> 00:40:45,120
+the founder
+
+902
+00:40:45,120 --> 00:40:47,760
+He is also the winner of the Nobel Prize in Chemistry
+
+903
+00:40:47,760 --> 00:40:51,160
+He invented this synthetic method
+
+904
+00:40:51,160 --> 00:40:53,420
+It's like Tyrian paper
+
+905
+00:40:53,420 --> 00:40:55,560
+color dye
+
+906
+00:40:55,560 --> 00:40:58,920
+After these two steps, he can get
+
+907
+00:41:00,000 --> 00:41:01,800
+That was in 1882, over six years old
+
+908
+00:41:01,800 --> 00:41:03,100
+The era of unknown writers and artists
+
+909
+00:41:03,100 --> 00:41:07,600
+At that time, Germany's chemical industry also began to regenerate.
+
+910
+00:41:07,600 --> 00:41:10,200
+This synthesis is inconvenient
+
+911
+00:41:10,200 --> 00:41:11,200
+improved later
+
+912
+00:41:11,200 --> 00:41:14,100
+A synthetic christian improvement made by this guy
+
+913
+00:41:14,100 --> 00:41:16,700
+from a less expensive precursor
+
+914
+00:41:16,700 --> 00:41:20,200
+It is easier to get this dye out
+
+915
+00:41:20,200 --> 00:41:22,100
+This is later all changed to use
+
+916
+00:41:22,100 --> 00:41:24,200
+Lugong Chemical Synthesis
+
+917
+00:41:24,200 --> 00:41:27,900
+Because the chemical synthesis of Lun Gong is much better than the extraction from natural substances
+
+918
+00:41:27,900 --> 00:41:31,900
+Or it's much more convenient to extract from the inside of that crustacean
+
+919
+00:41:31,900 --> 00:41:34,900
+The price is cheap, it can be much cheaper
+
+920
+00:41:34,900 --> 00:41:39,100
+Anyone who has entered the era of the chemical industry
+
+921
+00:41:39,100 --> 00:41:45,100
+This dye was invented after such a twists and turns
+
+922
+00:41:45,100 --> 00:41:47,900
+Then we use the most truthful product now
+
+923
+00:41:47,900 --> 00:41:49,100
+It's a plastic product
+
+924
+00:41:49,100 --> 00:41:53,300
+Everyone knows that plastic products are often colorless.
+
+925
+00:41:53,300 --> 00:41:56,400
+But like the clothes you physically wear
+
+926
+00:41:56,400 --> 00:41:59,900
+These are all made of the real fiber of the real product
+
+927
+00:42:00,000 --> 00:42:01,400
+It was all colorless
+
+928
+00:42:01,400 --> 00:42:03,400
+why now we can wear
+
+929
+00:42:03,400 --> 00:42:05,900
+There are so many colors
+
+930
+00:42:05,900 --> 00:42:08,100
+because of all the plastic inside
+
+931
+00:42:08,100 --> 00:42:10,200
+The dye of ginseng is in this
+
+932
+00:42:10,200 --> 00:42:12,500
+plastic we can see this
+
+933
+00:42:12,500 --> 00:42:14,600
+Whether it is PVC, PS
+
+934
+00:42:14,600 --> 00:42:18,000
+Di density, drama language, high-density drama language and
+
+935
+00:42:18,000 --> 00:42:20,600
+The drama interest and that PET
+
+936
+00:42:20,600 --> 00:42:23,000
+The material of the PET bottle is called PET.
+
+937
+00:42:23,000 --> 00:42:25,800
+There will be colors in it
+
+938
+00:42:25,800 --> 00:42:27,800
+The color without ginseng is like this
+
+939
+00:42:27,800 --> 00:42:29,600
+is white or transparent
+
+940
+00:42:29,800 --> 00:42:31,200
+this is its original color
+
+941
+00:42:31,200 --> 00:42:33,400
+But you see these new doctors in every color
+
+942
+00:42:33,400 --> 00:42:37,400
+All with added dyes or pigments
+
+943
+00:42:37,400 --> 00:42:40,200
+Only after going inside will these colors appear
+
+944
+00:42:41,600 --> 00:42:44,200
+Otherwise our world would be very dull
+
+945
+00:42:44,200 --> 00:42:46,600
+either white or black
+
+946
+00:42:46,600 --> 00:42:49,600
+Without the invention of this dye
+
+947
+00:42:50,600 --> 00:42:54,800
+This is about a thing that was often published in newspapers a while ago
+
+948
+00:42:54,800 --> 00:42:57,200
+peer ratio
+
+949
+00:42:57,200 --> 00:42:59,800
+This thing is it's a natural pigment
+
+950
+00:43:00,000 --> 00:43:02,760
+It's a natural pigment very close to something
+
+951
+00:43:02,760 --> 00:43:07,200
+The closest natural pigment to it is the leaf green tree
+
+952
+00:43:07,200 --> 00:43:08,800
+we know the natural world
+
+953
+00:43:08,800 --> 00:43:11,600
+you look at the leaves of that tree
+
+954
+00:43:11,600 --> 00:43:14,000
+That is, each color of multicolored ice has its own color.
+
+955
+00:43:14,000 --> 00:43:16,160
+The green in it is made of this
+
+956
+00:43:16,160 --> 00:43:17,360
+This is a natural substance
+
+957
+00:43:17,360 --> 00:43:20,200
+That's where the chemical structure of the chlorophyll tree is located
+
+958
+00:43:20,200 --> 00:43:22,400
+Look at this sodium copper chlorophyllin
+
+959
+00:43:22,400 --> 00:43:24,400
+Does it look very similar to this structure?
+
+960
+00:43:24,400 --> 00:43:26,600
+It removes the long tail
+
+961
+00:43:26,800 --> 00:43:28,600
+then it puts
+
+962
+00:43:28,600 --> 00:43:30,800
+I see this upside down
+
+963
+00:43:30,800 --> 00:43:33,400
+Everything else looks very similar
+
+964
+00:43:33,400 --> 00:43:34,800
+There is one thing that is different
+
+965
+00:43:34,800 --> 00:43:37,800
+It puts the beautiful element of MG in the middle
+
+966
+00:43:37,800 --> 00:43:39,000
+changed to copper
+
+967
+00:43:39,000 --> 00:43:40,800
+why is this thing called copper
+
+968
+00:43:40,800 --> 00:43:42,200
+The reason this word is in it
+
+969
+00:43:42,200 --> 00:43:45,400
+It is because it puts the beauty in the leafy green tree
+
+970
+00:43:45,400 --> 00:43:47,200
+The metal was replaced by copper
+
+971
+00:43:47,200 --> 00:43:49,800
+and then it's next to this
+
+972
+00:43:49,800 --> 00:43:51,200
+this is a sour root
+
+973
+00:43:51,200 --> 00:43:54,600
+The acid radical will carry an ion with a that
+
+974
+00:43:54,800 --> 00:43:56,000
+in this position with
+
+975
+00:43:56,000 --> 00:43:58,000
+All three positions will carry acid radicals
+
+976
+00:43:58,000 --> 00:43:59,600
+and then carry that
+
+977
+00:43:59,600 --> 00:44:00,600
+so this position
+
+978
+00:44:00,000 --> 00:44:02,180
+The name of this painting is called Same Ye Filter Tree Na
+
+979
+00:44:02,180 --> 00:44:04,180
+I found this from the website
+
+980
+00:44:04,180 --> 00:44:06,160
+I'll read it for everyone
+
+981
+00:44:06,160 --> 00:44:07,600
+Although everyone understands what it means
+
+982
+00:44:07,600 --> 00:44:11,560
+The same leaf filter refers to the leaf filter semi-synthetic
+
+983
+00:44:11,560 --> 00:44:13,560
+a practical pigment
+
+984
+00:44:13,560 --> 00:44:15,560
+it's actually edible
+
+985
+00:44:15,560 --> 00:44:20,440
+it is called natural green tree
+
+986
+00:44:20,440 --> 00:44:22,440
+number three
+
+987
+00:44:22,440 --> 00:44:25,440
+It also has an English serial number called 1141
+
+988
+00:44:25,440 --> 00:44:30,420
+In Taiwan, it is a practical pigment that can be added at zero clock
+
+989
+00:44:30,420 --> 00:44:33,420
+But it cannot be added to the practical oil
+
+990
+00:44:33,420 --> 00:44:37,580
+A while ago, the inner defender in the newspaper made a shameful mistake.
+
+991
+00:44:37,580 --> 00:44:39,580
+it adds it to utility oil
+
+992
+00:44:39,580 --> 00:44:41,080
+this is not allowed
+
+993
+00:44:41,080 --> 00:44:42,280
+it's illegal
+
+994
+00:44:42,280 --> 00:44:43,580
+it is edible
+
+995
+00:44:43,580 --> 00:44:46,080
+But it cannot be added to utility oil
+
+996
+00:44:48,580 --> 00:44:51,180
+The leaf filter tree we just saw in nature
+
+997
+00:44:51,180 --> 00:44:54,580
+The leaf filter tree is a plant that has
+
+998
+00:44:54,620 --> 00:44:56,620
+A source of many pigments
+
+999
+00:44:56,620 --> 00:44:58,620
+The other is that compared to plants, they are animals
+
+1000
+00:44:58,620 --> 00:44:59,620
+what about animals
+
+1001
+00:45:00,000 --> 00:45:03,400
+is red because blood is red
+
+1002
+00:45:03,800 --> 00:45:07,400
+that makes these two very different colors
+
+1003
+00:45:07,400 --> 00:45:10,400
+In fact, its chemistry is very similar
+
+1004
+00:45:10,800 --> 00:45:13,700
+The following is the main structure of the leaf green tree
+
+1005
+00:45:13,700 --> 00:45:16,400
+The one above is our red blood cell
+
+1006
+00:45:16,400 --> 00:45:18,900
+Iron fingers in red blood cells
+
+1007
+00:45:19,400 --> 00:45:21,700
+Red blood cells should, in fact, also be colorless
+
+1008
+00:45:21,700 --> 00:45:23,600
+But it contains a thing like this
+
+1009
+00:45:23,600 --> 00:45:26,800
+This thing is available in red color
+
+1010
+00:45:27,600 --> 00:45:29,600
+Do you see that this structure looks very similar to
+
+1011
+00:45:29,800 --> 00:45:31,400
+Except for the middle this is a beauty
+
+1012
+00:45:31,400 --> 00:45:32,600
+above is an iron
+
+1013
+00:45:32,600 --> 00:45:34,000
+different metal
+
+1014
+00:45:34,000 --> 00:45:36,800
+The structure of Zhongwei is also slightly different
+
+1015
+00:45:36,800 --> 00:45:39,800
+But the color is so different
+
+1016
+00:45:39,800 --> 00:45:41,800
+one is red one is green
+
+1017
+00:45:44,000 --> 00:45:46,400
+This is a newspaper from two or three years ago
+
+1018
+00:45:46,400 --> 00:45:48,400
+I don't know if you guys still remember
+
+1019
+00:45:50,000 --> 00:45:55,000
+Looking at the body, it means that there is a daughter-in-law who wants to kill his in-laws
+
+1020
+00:45:55,200 --> 00:45:56,700
+what did he put in it
+
+1021
+00:45:56,700 --> 00:45:59,300
+He put a pinch of sour in their meal
+
+1022
+00:46:00,000 --> 00:46:01,460
+What is subsoleic acid?
+
+1023
+00:46:01,460 --> 00:46:03,360
+It's the bacon thing
+
+1024
+00:46:03,360 --> 00:46:08,360
+Sodium nitrite chemical molecule is NANO2
+
+1025
+00:46:08,360 --> 00:46:11,160
+It's the combination of Assiolic Acid and
+
+1026
+00:46:11,160 --> 00:46:13,360
+Assona
+
+1027
+00:46:13,360 --> 00:46:16,360
+This thing is actually an oxidizing agent
+
+1028
+00:46:16,360 --> 00:46:18,000
+it will eat into the human body
+
+1029
+00:46:18,000 --> 00:46:21,660
+It will take the ferrous iron in the heme
+
+1030
+00:46:21,660 --> 00:46:23,260
+the action of oxidation
+
+1031
+00:46:23,260 --> 00:46:26,200
+Turn Iron Two into Iron Three
+
+1032
+00:46:26,200 --> 00:46:30,500
+Our human blood must be able to absorb oxygen
+
+1033
+00:46:30,500 --> 00:46:34,160
+We need oxygen to breathe
+
+1034
+00:46:34,160 --> 00:46:36,260
+Rely on the second iron frame
+
+1035
+00:46:36,260 --> 00:46:39,460
+Once the iron two frame is replaced by the iron three frame
+
+1036
+00:46:39,460 --> 00:46:41,860
+Human blood can no longer absorb oxygen
+
+1037
+00:46:41,860 --> 00:46:43,700
+so people die
+
+1038
+00:46:43,700 --> 00:46:46,260
+What are your symptoms?
+
+1039
+00:46:46,260 --> 00:46:49,260
+Normal blood looks red
+
+1040
+00:46:49,260 --> 00:46:52,800
+But that's because of the iron content of Iron II
+
+1041
+00:46:52,800 --> 00:46:55,060
+But if you turn Iron II into Iron III
+
+1042
+00:46:55,120 --> 00:46:56,920
+What about iron quality at this time?
+
+1043
+00:46:56,920 --> 00:46:58,420
+It looks darker
+
+1044
+00:46:58,420 --> 00:47:00,060
+Look at the left and right hands
+
+1045
+00:47:00,000 --> 00:47:04,340
+It's the color of the hands of the poisoned in-laws
+
+1046
+00:47:05,040 --> 00:47:08,640
+because its blood can no longer absorb oxygen
+
+1047
+00:47:09,140 --> 00:47:10,500
+At that time the report said
+
+1048
+00:47:10,500 --> 00:47:12,940
+It was later discovered that it was because of the poison
+
+1049
+00:47:12,940 --> 00:47:14,340
+they are in the hospital
+
+1050
+00:47:14,600 --> 00:47:17,040
+Symptoms of a poisoning like this
+
+1051
+00:47:17,040 --> 00:47:19,280
+can add this sub
+
+1052
+00:47:19,540 --> 00:47:20,040
+First
+
+1053
+00:47:20,040 --> 00:47:20,440
+blue
+
+1054
+00:47:20,440 --> 00:47:21,140
+this thing
+
+1055
+00:47:21,140 --> 00:47:23,540
+In fact this is a finite color substance
+
+1056
+00:47:23,740 --> 00:47:26,440
+This thing can help put this iron shirt rack
+
+1057
+00:47:26,440 --> 00:47:28,440
+Revert back to Iron Erjia
+
+1058
+00:47:28,940 --> 00:47:31,440
+In fact, what about this colored substance?
+
+1059
+00:47:31,740 --> 00:47:33,540
+also a potion
+
+1060
+00:47:33,540 --> 00:47:36,040
+In fact it can do that oxidative mixing action
+
+1061
+00:47:36,040 --> 00:47:37,440
+itself it is blue
+
+1062
+00:47:37,440 --> 00:47:39,040
+you can see it melt in the water
+
+1063
+00:47:39,040 --> 00:47:41,140
+There is a blue substance in the water
+
+1064
+00:47:41,340 --> 00:47:42,440
+you go
+
+1065
+00:47:43,640 --> 00:47:45,240
+If you have to look it up
+
+1066
+00:47:45,240 --> 00:47:47,640
+you can see it's a chemical indicator
+
+1067
+00:47:47,940 --> 00:47:48,940
+Also a dye
+
+1068
+00:47:48,940 --> 00:47:50,540
+because it has a color relationship
+
+1069
+00:47:50,540 --> 00:47:53,440
+It is also a biological stain
+
+1070
+00:47:53,440 --> 00:47:54,740
+you can see this above
+
+1071
+00:47:54,740 --> 00:47:56,340
+The word is the tissue of the human body
+
+1072
+00:47:56,340 --> 00:47:57,640
+After applying this dye
+
+1073
+00:47:57,640 --> 00:47:59,740
+You can see it renders this blue
+
+1074
+00:48:00,000 --> 00:48:02,000
+presented
+
+1075
+00:48:03,260 --> 00:48:05,860
+So this release is also a dye thing
+
+1076
+00:48:05,860 --> 00:48:08,160
+Because as long as there is color, we can call it a dye
+
+1077
+00:48:08,160 --> 00:48:11,060
+And the dye is actually an antidote
+
+1078
+00:48:11,060 --> 00:48:13,600
+Once you plant this acesena poison
+
+1079
+00:48:13,600 --> 00:48:15,100
+Just rely on this to detoxify
+
+1080
+00:48:16,160 --> 00:48:18,560
+This news report is headline news
+
+1081
+00:48:18,560 --> 00:48:20,720
+There are several chemicals in it
+
+1082
+00:48:20,720 --> 00:48:21,960
+includes this dye
+
+1083
+00:48:21,960 --> 00:48:24,760
+This bacon is included
+
+1084
+00:48:24,760 --> 00:48:26,260
+In fact, this is our pool of people
+
+1085
+00:48:26,260 --> 00:48:27,460
+this will be poisonous
+
+1086
+00:48:28,460 --> 00:48:32,220
+with this leafy green tree or ferrite
+
+1087
+00:48:32,220 --> 00:48:33,420
+a very similar thing
+
+1088
+00:48:33,420 --> 00:48:35,420
+It's a synthetic thing
+
+1089
+00:48:35,420 --> 00:48:38,720
+This is a thing that is used a lot in the industry
+
+1090
+00:48:38,720 --> 00:48:42,220
+Because this is completely produced by synthesis in the laboratory
+
+1091
+00:48:42,220 --> 00:48:45,220
+These things are also dyes or pigments
+
+1092
+00:48:45,220 --> 00:48:48,420
+Dye called Taiqinglin
+
+1093
+00:48:48,420 --> 00:48:50,420
+Or I can see it in
+
+1094
+00:48:50,420 --> 00:48:52,920
+It's very similar to the ferrous structure
+
+1095
+00:48:52,920 --> 00:48:55,420
+just in the four corners
+
+1096
+00:48:55,880 --> 00:48:58,380
+Change this CH to N
+
+1097
+00:48:58,380 --> 00:48:59,380
+changed to bomb
+
+1098
+00:49:00,000 --> 00:49:04,660
+The structure of Yuanyuan's large plate still looks exactly the same
+
+1099
+00:49:04,660 --> 00:49:08,220
+But this color is just like these four eggs
+
+1100
+00:49:08,220 --> 00:49:10,160
+It's not the same as without these four colors
+
+1101
+00:49:10,160 --> 00:49:13,720
+Originally, the inside of the iron paper was red.
+
+1102
+00:49:13,720 --> 00:49:16,400
+If it were changed to beauty, it might be green
+
+1103
+00:49:16,400 --> 00:49:20,700
+This one has four more eggs and then replaced it with a bucket
+
+1104
+00:49:20,700 --> 00:49:21,600
+or no bucket
+
+1105
+00:49:21,600 --> 00:49:23,600
+The color itself is blue
+
+1106
+00:49:23,600 --> 00:49:25,000
+like this is very blue blue
+
+1107
+00:49:25,000 --> 00:49:27,000
+or so this one is bluish
+
+1108
+00:49:27,400 --> 00:49:32,200
+This type of substance is a pigment dye that is completely functionally synthesized.
+
+1109
+00:49:32,200 --> 00:49:36,200
+This thing is much more stable than iron paper or these
+
+1110
+00:49:36,200 --> 00:49:43,720
+Such dyes and pigments are widely used in some optoelectronic industries
+
+1111
+00:49:43,720 --> 00:49:46,920
+Let's come back to the photoelectric application later.
+
+1112
+00:49:46,920 --> 00:49:49,000
+Next, let's talk about the substance of this color.
+
+1113
+00:49:49,000 --> 00:49:51,400
+is about this practical pigment
+
+1114
+00:49:51,400 --> 00:49:53,360
+As we mentioned earlier, Tongye Suna
+
+1115
+00:49:53,360 --> 00:49:57,360
+That is allowed to be added to the utility
+
+1116
+00:49:57,360 --> 00:49:59,360
+But it cannot be added to utility oil
+
+1117
+00:49:59,360 --> 00:50:00,160
+that too
+
+1118
+00:50:00,000 --> 00:50:01,400
+is a food coloring
+
+1119
+00:50:02,200 --> 00:50:03,600
+there are many things
+
+1120
+00:50:03,800 --> 00:50:04,800
+inside what we eat
+
+1121
+00:50:04,800 --> 00:50:07,800
+In order to increase the vividness of the food
+
+1122
+00:50:07,800 --> 00:50:09,800
+Usually some coloring is added here
+
+1123
+00:50:10,600 --> 00:50:12,800
+What is allowed to be added is called
+
+1124
+00:50:12,800 --> 00:50:16,000
+Qualified edible artificial coloring
+
+1125
+00:50:16,300 --> 00:50:17,700
+These edible artificial colors
+
+1126
+00:50:17,700 --> 00:50:19,200
+Let me give you an example
+
+1127
+00:50:21,300 --> 00:50:23,400
+I didn't know you liked this hot dog
+
+1128
+00:50:23,400 --> 00:50:25,400
+This is a very standard hot dog thing
+
+1129
+00:50:25,600 --> 00:50:26,800
+hot dog with bun
+
+1130
+00:50:26,800 --> 00:50:28,000
+there is a sausage in it
+
+1131
+00:50:28,100 --> 00:50:31,400
+Then usually put this ketchup and mustard sauce
+
+1132
+00:50:33,200 --> 00:50:37,200
+Food coloring is added to mustard, ketchup, and hot dogs
+
+1133
+00:50:37,200 --> 00:50:40,000
+Because otherwise the colors wouldn't be so bright
+
+1134
+00:50:40,900 --> 00:50:42,200
+ketchup is red, right?
+
+1135
+00:50:42,200 --> 00:50:45,400
+Added this orange-red pigment in it
+
+1136
+00:50:45,800 --> 00:50:47,200
+What about the yellow mustard?
+
+1137
+00:50:47,200 --> 00:50:50,000
+Added this yellow pigment inside
+
+1138
+00:50:50,900 --> 00:50:54,700
+There is also this orange-red pigment added to the sausage
+
+1139
+00:50:54,900 --> 00:50:58,500
+These three pigments are classified according to their chemical structure
+
+1140
+00:50:58,700 --> 00:50:59,900
+All three are called
+
+1141
+00:51:00,000 --> 00:51:01,360
+Mouth Tears Dye
+
+1142
+00:51:01,960 --> 00:51:02,760
+colorful
+
+1143
+00:51:02,760 --> 00:51:04,120
+one is orange
+
+1144
+00:51:04,120 --> 00:51:04,960
+one is yellow
+
+1145
+00:51:05,160 --> 00:51:05,960
+add to this
+
+1146
+00:51:05,960 --> 00:51:09,360
+Can make your hot fruit look more salivating
+
+1147
+00:51:09,360 --> 00:51:10,960
+The color is very strong and very bright
+
+1148
+00:51:11,920 --> 00:51:13,200
+whet your appetite
+
+1149
+00:51:13,640 --> 00:51:14,680
+something like this
+
+1150
+00:51:14,680 --> 00:51:17,880
+are also widely used on these planet-colored
+
+1151
+00:51:17,880 --> 00:51:18,840
+inside the food
+
+1152
+00:51:19,200 --> 00:51:22,520
+Like this is MMM's chocolate candy
+
+1153
+00:51:22,800 --> 00:51:26,200
+This is Regan's candy
+
+1154
+00:51:26,200 --> 00:51:27,360
+Called Jerry Bean
+
+1155
+00:51:28,280 --> 00:51:31,560
+There are many different colors in the edible drink
+
+1156
+00:51:31,560 --> 00:51:34,160
+Wind model with pills
+
+1157
+00:51:34,360 --> 00:51:36,000
+It is usually colored inside
+
+1158
+00:51:36,000 --> 00:51:38,960
+These edible artificial colors are usually added
+
+1159
+00:51:40,600 --> 00:51:42,800
+I remember this one is called Marco Dirty
+
+1160
+00:51:43,520 --> 00:51:45,200
+See various colors inside
+
+1161
+00:51:45,200 --> 00:51:47,200
+It's all food coloring.
+
+1162
+00:51:47,640 --> 00:51:49,400
+You can easily find it online
+
+1163
+00:51:49,400 --> 00:51:51,320
+What are these food colorings?
+
+1164
+00:51:51,320 --> 00:51:52,360
+these things
+
+1165
+00:51:52,840 --> 00:51:56,640
+The ones listed above are the pigments of silver Xu in the United States
+
+1166
+00:51:56,640 --> 00:51:59,000
+Different countries have different banking licenses
+
+1167
+00:52:00,000 --> 00:52:04,700
+Using the United States as the standard, these chemical structures I have found out
+
+1168
+00:52:04,700 --> 00:52:08,000
+It's all organic chemicals and they're colored
+
+1169
+00:52:08,000 --> 00:52:12,000
+Some may be blue, some may be red, yellow, orange
+
+1170
+00:52:13,300 --> 00:52:18,300
+These are allowed to be added to the utility
+
+1171
+00:52:18,300 --> 00:52:20,800
+substances that add color
+
+1172
+00:52:22,400 --> 00:52:25,000
+There are also some pigments that come from nature
+
+1173
+00:52:25,000 --> 00:52:27,200
+For example, astaxanthin
+
+1174
+00:52:27,200 --> 00:52:31,200
+In fact you can in the pharmaceutical factory
+
+1175
+00:52:31,200 --> 00:52:34,700
+You can get this at the pharmacy
+
+1176
+00:52:34,700 --> 00:52:39,200
+it's not a drug it's a drug called like a vitamin
+
+1177
+00:52:39,200 --> 00:52:40,500
+is a tonic thing
+
+1178
+00:52:40,500 --> 00:52:44,200
+It's sold inside, you can see what's inside this orange-red capsule
+
+1179
+00:52:44,200 --> 00:52:46,600
+liquid is astaxanthin
+
+1180
+00:52:46,600 --> 00:52:49,000
+it puts it in oil
+
+1181
+00:52:49,000 --> 00:52:51,000
+itself it is cloth body like this one
+
+1182
+00:52:51,000 --> 00:52:54,400
+very dark orange-red colored powder
+
+1183
+00:52:54,400 --> 00:52:56,700
+It is also an organic substance
+
+1184
+00:52:56,700 --> 00:52:58,200
+lots of doubles in it
+
+1185
+00:52:58,200 --> 00:53:00,200
+Here are 1 2 3 4 5 6 7 8 9 10
+
+1186
+00:53:00,000 --> 00:53:02,000
+eleven, twelve, thirteen
+
+1187
+00:53:02,700 --> 00:53:04,500
+From head to tail, fourteen or fifteen double swords
+
+1188
+00:53:04,700 --> 00:53:07,000
+So the wavelength of its color can be extended to
+
+1189
+00:53:07,700 --> 00:53:09,700
+within this range of long-wavelength red
+
+1190
+00:53:11,000 --> 00:53:14,000
+This thing actually takes tea from nature
+
+1191
+00:53:14,000 --> 00:53:16,300
+Much more convenient than artificial synthesis
+
+1192
+00:53:17,600 --> 00:53:18,600
+I'll check it out
+
+1193
+00:53:18,700 --> 00:53:22,000
+Artificial, like this category, all substances that belong to this category are called
+
+1194
+00:53:22,100 --> 00:53:24,400
+family of carotenoid trees
+
+1195
+00:53:24,800 --> 00:53:27,600
+What's Included Beta Carrot Tree
+
+1196
+00:53:27,600 --> 00:53:29,800
+yellow tree including corn leaves
+
+1197
+00:53:29,800 --> 00:53:32,200
+What we saw before me looks like this
+
+1198
+00:53:32,700 --> 00:53:36,400
+This is actually produced from the algae itself
+
+1199
+00:53:36,700 --> 00:53:40,200
+Obtain the pigment of the shrimp mangrove like this from this algae
+
+1200
+00:53:40,400 --> 00:53:42,800
+Much simpler than synthetic
+
+1201
+00:53:44,400 --> 00:53:46,400
+Because the synthesis is more troublesome
+
+1202
+00:53:46,400 --> 00:53:49,300
+so this thing especially this thing
+
+1203
+00:53:49,300 --> 00:53:52,200
+We won't be so stupid as to say we synthesize it ourselves in the lab
+
+1204
+00:53:52,200 --> 00:53:57,200
+Because it will cost more to synthesize it yourself
+
+1205
+00:53:57,300 --> 00:53:58,800
+to do the synthetic work
+
+1206
+00:53:59,400 --> 00:54:00,000
+this is
+
+1207
+00:54:00,000 --> 00:54:02,300
+It is some steps of artificial synthesis
+
+1208
+00:54:02,300 --> 00:54:03,600
+you see very troublesome
+
+1209
+00:54:03,600 --> 00:54:04,700
+many steps
+
+1210
+00:54:04,700 --> 00:54:07,600
+So it's better to go find that naturally
+
+1211
+00:54:07,600 --> 00:54:08,500
+Looking for a class?
+
+1212
+00:54:08,500 --> 00:54:11,000
+The convenience of extracting from looking for classes
+
+1213
+00:54:11,000 --> 00:54:13,200
+What about the same substance?
+
+1214
+00:54:13,200 --> 00:54:16,000
+Also includes this nightshade tree and carrot tree
+
+1215
+00:54:16,000 --> 00:54:18,000
+that yellow
+
+1216
+00:54:18,000 --> 00:54:19,700
+orange-yellow substance
+
+1217
+00:54:19,700 --> 00:54:22,400
+All belong to this category
+
+1218
+00:54:22,400 --> 00:54:25,800
+Substances of this family
+
+1219
+00:54:25,800 --> 00:54:27,500
+There is another kind of colored
+
+1220
+00:54:27,500 --> 00:54:29,500
+These are the fruits we often eat
+
+1221
+00:54:29,500 --> 00:54:31,500
+this dark fruit
+
+1222
+00:54:31,500 --> 00:54:33,700
+like blueberries or grapes
+
+1223
+00:54:33,700 --> 00:54:35,200
+Eggplant Helizi
+
+1224
+00:54:35,200 --> 00:54:39,200
+This is a dye that contains the same pigment
+
+1225
+00:54:39,200 --> 00:54:42,700
+This is called a flower tree
+
+1226
+00:54:42,700 --> 00:54:48,200
+These are usually reddish substances
+
+1227
+00:54:48,200 --> 00:54:49,500
+What about this flower tree?
+
+1228
+00:54:49,500 --> 00:54:50,800
+there is another thing
+
+1229
+00:54:50,800 --> 00:54:51,700
+also often appear
+
+1230
+00:54:51,700 --> 00:54:52,800
+somewhat similar to that structure
+
+1231
+00:54:52,800 --> 00:54:55,700
+called the color inside the hydrangea
+
+1232
+00:54:55,700 --> 00:54:56,500
+hydrangea inside color
+
+1233
+00:54:56,500 --> 00:54:58,300
+It also contains this anthocyanin tree
+
+1234
+00:54:58,300 --> 00:54:59,400
+The top of the structure of the anthocyanin tree
+
+1235
+00:55:00,000 --> 00:55:04,000
+His color will follow the color of your soil
+
+1236
+00:55:04,000 --> 00:55:07,000
+Variations in acidity and alkalinity
+
+1237
+00:55:07,000 --> 00:55:12,000
+This is a substance that belongs to the color of nature
+
+1238
+00:55:12,000 --> 00:55:16,000
+ok this is his time
+
+1239
+00:55:16,000 --> 00:55:19,000
+about ten minutes
+
+1240
+00:55:19,000 --> 00:55:23,000
+In more than ten minutes, I took the second half of this
+
+1241
+00:55:23,000 --> 00:55:24,000
+finish it
+
+1242
+00:55:24,000 --> 00:55:25,000
+I'm going to talk about it next
+
+1243
+00:55:25,000 --> 00:55:28,000
+These we have talked about so far are called
+
+1244
+00:55:28,000 --> 00:55:31,000
+traditional dyeing and finishing process
+
+1245
+00:55:31,000 --> 00:55:34,000
+The dyes we use are usually for coloring
+
+1246
+00:55:34,000 --> 00:55:37,000
+make things come out in color
+
+1247
+00:55:37,000 --> 00:55:39,000
+This is a more traditional approach
+
+1248
+00:55:39,000 --> 00:55:40,000
+What about the current technology?
+
+1249
+00:55:40,000 --> 00:55:43,000
+actually go one step further
+
+1250
+00:55:43,000 --> 00:55:46,000
+We're no longer talking about color
+
+1251
+00:55:46,000 --> 00:55:49,000
+We are using some of its photoelectric characteristics
+
+1252
+00:55:49,000 --> 00:55:51,000
+same color
+
+1253
+00:55:51,000 --> 00:55:53,000
+but we're using it for this
+
+1254
+00:55:53,000 --> 00:55:55,000
+Inside the optoelectronic components
+
+1255
+00:55:55,000 --> 00:55:58,000
+TV-like color rendering
+
+1256
+00:55:58,000 --> 00:56:00,000
+The presentation of the color of the mobile phone panel
+
+1257
+00:56:00,000 --> 00:56:02,000
+Also like what you see here
+
+1258
+00:56:02,000 --> 00:56:05,000
+The discs we use to record data
+
+1259
+00:56:05,000 --> 00:56:07,000
+These dyes are actually used in it.
+
+1260
+00:56:07,000 --> 00:56:11,000
+This is more modern and not traditional
+
+1261
+00:56:11,000 --> 00:56:14,000
+Let's talk about the traditional dyeing and printing process
+
+1262
+00:56:14,000 --> 00:56:18,000
+Now it means that it is applied to optoelectronic technology
+
+1263
+00:56:18,000 --> 00:56:21,000
+Although this technology is a bit outdated
+
+1264
+00:56:21,000 --> 00:56:24,000
+But this was considered a very
+
+1265
+00:56:24,000 --> 00:56:28,000
+More than ten years ago, twenty years ago, it was considered a very popular new technology
+
+1266
+00:56:28,000 --> 00:56:31,000
+It is a technology for storing data
+
+1267
+00:56:31,000 --> 00:56:33,000
+It's the CD.
+
+1268
+00:56:33,000 --> 00:56:37,000
+In fact, there is a layer of dye in it.
+
+1269
+00:56:37,000 --> 00:56:40,000
+Look at this English word, low crooked one means dye
+
+1270
+00:56:40,000 --> 00:56:44,000
+In the middle it is a very thin multilayer film
+
+1271
+00:56:44,000 --> 00:56:47,000
+One of the layers is the substance of this dye
+
+1272
+00:56:47,000 --> 00:56:50,000
+The reason why it can record is that this dye absorbs
+
+1273
+00:56:50,000 --> 00:56:54,000
+We need to use a laser light to do the action of burning the road
+
+1274
+00:56:54,000 --> 00:56:55,000
+it will absorb this laser light
+
+1275
+00:56:55,000 --> 00:56:58,000
+And the dye in this place will go bad
+
+1276
+00:56:58,000 --> 00:57:00,000
+so need
+
+1277
+00:57:00,000 --> 00:57:02,100
+Substances that receive laser light
+
+1278
+00:57:02,100 --> 00:57:03,700
+Laser light is also a kind of light
+
+1279
+00:57:03,700 --> 00:57:04,900
+a type of visible light
+
+1280
+00:57:04,900 --> 00:57:07,900
+So this basically needs to rely on dyes
+
+1281
+00:57:07,900 --> 00:57:11,800
+In order to be able to achieve this application
+
+1282
+00:57:13,100 --> 00:57:14,900
+well everyone knows this
+
+1283
+00:57:14,900 --> 00:57:16,400
+There are two types of discs
+
+1284
+00:57:16,400 --> 00:57:20,100
+One piece is 500Mbz
+
+1285
+00:57:20,100 --> 00:57:23,500
+For DVD2, it is several Gigabytes larger
+
+1286
+00:57:24,700 --> 00:57:27,200
+The storage space varies in size
+
+1287
+00:57:27,200 --> 00:57:29,900
+depending on the dye used in it is not the same
+
+1288
+00:57:30,400 --> 00:57:32,800
+like the dye used in CD2
+
+1289
+00:57:32,800 --> 00:57:35,400
+Usually one of these three
+
+1290
+00:57:35,400 --> 00:57:38,400
+DVD2's dye is a fact
+
+1291
+00:57:38,400 --> 00:57:39,400
+I can't argue with this information
+
+1292
+00:57:39,400 --> 00:57:40,900
+Because this is a winter night secret
+
+1293
+00:57:40,900 --> 00:57:42,100
+wait you will do
+
+1294
+00:57:42,100 --> 00:57:43,600
+I don't want to tell you what exactly it is used for
+
+1295
+00:57:43,600 --> 00:57:44,600
+we just know
+
+1296
+00:57:44,600 --> 00:57:46,900
+It uses these two types of dyes
+
+1297
+00:57:46,900 --> 00:57:50,500
+Synin's Dye or Azol Metal Dye
+
+1298
+00:57:50,500 --> 00:57:53,000
+This Azol is what we saw earlier
+
+1299
+00:57:53,000 --> 00:57:56,000
+Yellow game dye to paint roads
+
+1300
+00:57:56,000 --> 00:57:56,700
+is one of a kind
+
+1301
+00:57:56,700 --> 00:57:58,700
+That one is also called Azol Dye
+
+1302
+00:57:58,700 --> 00:58:00,100
+it just exists
+
+1303
+00:58:00,000 --> 00:58:03,960
+Hot dog, what, what?
+
+1304
+00:58:03,960 --> 00:58:06,760
+What about the color in ketchup and mustard?
+
+1305
+00:58:06,760 --> 00:58:10,660
+It is also a kind of dichotic dye that belongs to the Azure band
+
+1306
+00:58:10,660 --> 00:58:14,960
+This Traner dye is also used in the production of this DVDR
+
+1307
+00:58:16,960 --> 00:58:20,160
+Next, this is really about optoelectronic technology.
+
+1308
+00:58:20,160 --> 00:58:23,660
+The reason why our LCD screen can show color
+
+1309
+00:58:23,660 --> 00:58:26,960
+In fact, a thing called a color-producing green light film is used in it.
+
+1310
+00:58:27,920 --> 00:58:32,220
+This is a presentation of complementary colors
+
+1311
+00:58:32,220 --> 00:58:35,460
+The color-producing green film is to green out the color we don't want
+
+1312
+00:58:35,460 --> 00:58:39,620
+Then filter out the color we want to see
+
+1313
+00:58:39,620 --> 00:58:44,920
+This is a display of a complementary color that is a color that cancels out
+
+1314
+00:58:44,920 --> 00:58:47,920
+This green light film needs to use some colored substances
+
+1315
+00:58:47,920 --> 00:58:51,720
+to absorb the colors we don't want
+
+1316
+00:58:51,720 --> 00:58:56,920
+For example, the screen display usually has three colors: red, blue and green.
+
+1317
+00:58:56,920 --> 00:59:00,080
+So if you want to see red, you have to follow blue
+
+1318
+00:59:00,000 --> 00:59:00,820
+remove the green ones
+
+1319
+00:59:01,820 --> 00:59:05,320
+So for example like this is a green dye
+
+1320
+00:59:05,960 --> 00:59:07,720
+the reason it's green
+
+1321
+00:59:07,720 --> 00:59:10,160
+Because it absorbs red and blue
+
+1322
+00:59:10,660 --> 00:59:15,520
+so a green coloring or dye needs to be used in it
+
+1323
+00:59:15,800 --> 00:59:17,360
+this is its option
+
+1324
+00:59:17,360 --> 00:59:20,200
+In the current LCD technology
+
+1325
+00:59:20,400 --> 00:59:22,320
+The green light film used in this
+
+1326
+00:59:22,320 --> 00:59:23,860
+What about this green pigment?
+
+1327
+00:59:23,860 --> 00:59:25,160
+just use this thing
+
+1328
+00:59:25,560 --> 00:59:27,360
+This is what blue is used for
+
+1329
+00:59:27,360 --> 00:59:29,400
+This is what we just saw
+
+1330
+00:59:31,000 --> 00:59:34,360
+this thing
+
+1331
+00:59:34,360 --> 00:59:35,400
+this thing
+
+1332
+00:59:35,400 --> 00:59:36,560
+CUPC
+
+1333
+00:59:37,000 --> 00:59:40,960
+This is one that is produced in millions of metric tons per year
+
+1334
+00:59:41,360 --> 00:59:44,160
+A very useful coloring used in the craft world
+
+1335
+00:59:44,160 --> 00:59:48,960
+Because it appears blue or cyan color
+
+1336
+00:59:49,560 --> 00:59:51,160
+This substance is very stable
+
+1337
+00:59:51,160 --> 00:59:54,960
+So it can be used on the green light film of this LCD
+
+1338
+00:59:55,800 --> 00:59:56,960
+This is CUPC
+
+1339
+00:59:56,960 --> 00:59:57,920
+the same substance
+
+1340
+00:59:57,920 --> 00:59:59,920
+it's a
+
+1341
+01:00:00,000 --> 01:00:02,240
+a blue pigment
+
+1342
+01:00:02,240 --> 01:00:05,160
+Red is made of such a substance
+
+1343
+01:00:05,160 --> 01:00:09,240
+This substance is also used in the paint of the car
+
+1344
+01:00:09,240 --> 01:00:11,640
+orange red we saw that before
+
+1345
+01:00:11,640 --> 01:00:17,120
+Maforomio's baking paint is also used by some companies
+
+1346
+01:00:17,120 --> 01:00:18,560
+painted on the top of the car
+
+1347
+01:00:18,560 --> 01:00:21,160
+Because these three pigments are very stable
+
+1348
+01:00:21,160 --> 01:00:23,240
+It can be stored for a long time without deterioration
+
+1349
+01:00:23,240 --> 01:00:26,600
+Even under the light of LCE
+
+1350
+01:00:26,600 --> 01:00:28,360
+it won't break
+
+1351
+01:00:30,120 --> 01:00:34,400
+Therefore, the reason why the LCD screen can present a variety of colors
+
+1352
+01:00:34,400 --> 01:00:37,000
+With this color filter
+
+1353
+01:00:37,000 --> 01:00:40,320
+The color filter relies on these three pigments
+
+1354
+01:00:40,320 --> 01:00:44,840
+Red, blue and green pigments to filter out unwanted light colors
+
+1355
+01:00:44,840 --> 01:00:48,480
+This way you can piece together a variety of
+
+1356
+01:00:48,480 --> 01:00:50,840
+colorful lin red color
+
+1357
+01:00:50,840 --> 01:00:52,280
+good this
+
+1358
+01:00:52,280 --> 01:00:54,480
+we've been talking so far
+
+1359
+01:00:54,480 --> 01:00:57,400
+Eliminate the application of models or complementary colors
+
+1360
+01:00:57,400 --> 01:00:59,960
+Include this app in solar tv
+
+1361
+01:01:00,000 --> 01:01:01,460
+dyes are also used
+
+1362
+01:01:01,460 --> 01:01:04,500
+This dye also utilizes the erasing type
+
+1363
+01:01:04,500 --> 01:01:07,160
+Or the color of the complementary color appears
+
+1364
+01:01:07,760 --> 01:01:08,860
+we talked about it from the beginning
+
+1365
+01:01:08,860 --> 01:01:10,300
+things will show dye
+
+1366
+01:01:10,300 --> 01:01:12,100
+It's all caused by sunlight
+
+1367
+01:01:12,100 --> 01:01:15,160
+As long as a certain color of sunlight is absorbed
+
+1368
+01:01:15,160 --> 01:01:17,660
+This thing will show up in color
+
+1369
+01:01:17,660 --> 01:01:20,000
+The colors that appear are called complementary colors
+
+1370
+01:01:20,000 --> 01:01:22,160
+For example, as you see this is translucent
+
+1371
+01:01:22,160 --> 01:01:23,660
+inside these things
+
+1372
+01:01:23,660 --> 01:01:25,260
+yellow like this one
+
+1373
+01:01:25,260 --> 01:01:27,660
+That is, it absorbs the cyan color
+
+1374
+01:01:27,660 --> 01:01:29,960
+To show its complementary color is to show yellow
+
+1375
+01:01:29,960 --> 01:01:31,920
+able to appear red
+
+1376
+01:01:31,920 --> 01:01:34,000
+It is to absorb its protective color
+
+1377
+01:01:34,000 --> 01:01:37,420
+In this case, it will appear that what is left is the red color.
+
+1378
+01:01:37,420 --> 01:01:39,920
+This is what we are currently doing research on
+
+1379
+01:01:39,920 --> 01:01:42,920
+Various colors that are often used
+
+1380
+01:01:42,920 --> 01:01:43,920
+we are designing
+
+1381
+01:01:43,920 --> 01:01:47,820
+What color material can absorb sunlight
+
+1382
+01:01:47,820 --> 01:01:49,920
+The more you absorb sunlight, the more you think about this effect.
+
+1383
+01:01:49,920 --> 01:01:52,620
+The higher the efficiency of the panel it can battery
+
+1384
+01:01:53,420 --> 01:01:55,420
+So this is a comparison
+
+1385
+01:01:55,420 --> 01:01:58,620
+The application of a technology that is still in the research stage
+
+1386
+01:01:58,620 --> 01:02:00,080
+good
+
+1387
+01:02:00,000 --> 01:02:01,300
+we just talked about so far
+
+1388
+01:02:01,300 --> 01:02:05,100
+We're talking about what's called an evanescent color representation.
+
+1389
+01:02:05,100 --> 01:02:06,800
+is what we see is a complementary color
+
+1390
+01:02:07,500 --> 01:02:12,400
+Next, the last ten or so slides will talk about additive color
+
+1391
+01:02:13,300 --> 01:02:16,900
+A phenomenon in which additive color is opposite to subtractive color
+
+1392
+01:02:17,400 --> 01:02:18,700
+if we want to see blue
+
+1393
+01:02:18,700 --> 01:02:20,700
+We are the blue light
+
+1394
+01:02:20,700 --> 01:02:21,500
+that is blue
+
+1395
+01:02:22,000 --> 01:02:23,400
+Green light is green
+
+1396
+01:02:23,400 --> 01:02:25,200
+Red light is red
+
+1397
+01:02:25,800 --> 01:02:27,300
+All three light colors play together
+
+1398
+01:02:27,300 --> 01:02:28,000
+what is that
+
+1399
+01:02:28,000 --> 01:02:29,000
+just white
+
+1400
+01:02:29,400 --> 01:02:31,000
+This is an additive color
+
+1401
+01:02:31,400 --> 01:02:33,000
+red green plus white
+
+1402
+01:02:33,500 --> 01:02:35,000
+Basically red, yellow green, blue electronic paper
+
+1403
+01:02:35,000 --> 01:02:35,800
+all added up
+
+1404
+01:02:35,800 --> 01:02:36,700
+it's sunlight
+
+1405
+01:02:37,200 --> 01:02:41,500
+So in fact sunlight is also an additive color display
+
+1406
+01:02:42,100 --> 01:02:43,600
+So what we just said so far
+
+1407
+01:02:43,600 --> 01:02:45,900
+They're all talking about elimination-type complementary colors
+
+1408
+01:02:46,900 --> 01:02:49,900
+But we're going back now to the sun at the beginning
+
+1409
+01:02:49,900 --> 01:02:51,800
+Sunlight is an additive color
+
+1410
+01:02:52,000 --> 01:02:54,300
+Because the application of matter that we are going to talk about next
+
+1411
+01:02:54,300 --> 01:02:59,800
+Especially the optoelectronic technology industry uses additive colors
+
+1412
+01:03:00,000 --> 01:03:01,500
+using a luminous substance
+
+1413
+01:03:01,700 --> 01:03:02,900
+Luminous matter is like the sun
+
+1414
+01:03:03,000 --> 01:03:04,400
+the sun is something that shines
+
+1415
+01:03:05,200 --> 01:03:08,000
+Luminous substances are all additive colors
+
+1416
+01:03:08,400 --> 01:03:09,400
+for example like this
+
+1417
+01:03:09,600 --> 01:03:13,000
+In the laboratory, some so-called nanoparticles will be made
+
+1418
+01:03:13,200 --> 01:03:15,600
+This is a nanoparticle made of inorganic material
+
+1419
+01:03:16,200 --> 01:03:17,300
+Then we talked about it at the beginning
+
+1420
+01:03:17,400 --> 01:03:20,300
+Color rendering of inorganic materials
+
+1421
+01:03:20,400 --> 01:03:22,500
+and the size of its constituent elements
+
+1422
+01:03:23,200 --> 01:03:24,500
+The size of the radius is related to
+
+1423
+01:03:25,000 --> 01:03:28,500
+So look at the various colors it presents here
+
+1424
+01:03:28,500 --> 01:03:31,200
+It is caused by the size of the nanoparticle
+
+1425
+01:03:31,800 --> 01:03:35,100
+The bigger the color, the more reddish it will be
+
+1426
+01:03:35,200 --> 01:03:36,200
+the smaller you make
+
+1427
+01:03:36,300 --> 01:03:38,200
+This is towards the blue direction
+
+1428
+01:03:38,300 --> 01:03:39,600
+but this is
+
+1429
+01:03:39,700 --> 01:03:42,600
+What you see is an additive color
+
+1430
+01:03:42,900 --> 01:03:45,200
+it's something that emits light
+
+1431
+01:03:45,300 --> 01:03:48,300
+This material called silver light or aura
+
+1432
+01:03:48,400 --> 01:03:51,000
+This is the presentation of additive color
+
+1433
+01:03:53,800 --> 01:03:57,400
+Substances that include these long-lasting auras
+
+1434
+01:03:57,400 --> 01:03:59,600
+It's pretty standard like this
+
+1435
+01:04:00,000 --> 01:04:02,720
+Silver light, for example, we painted on that clock
+
+1436
+01:04:02,720 --> 01:04:04,860
+That or the emergency exit thing that lights up
+
+1437
+01:04:04,860 --> 01:04:10,320
+They are all luminous substances composed of these inorganic elements.
+
+1438
+01:04:13,200 --> 01:04:15,320
+and inside these plastic panels
+
+1439
+01:04:15,320 --> 01:04:18,320
+something that looks a lot like the light colors of a neon sign
+
+1440
+01:04:18,320 --> 01:04:21,000
+It's all made of silvery material
+
+1441
+01:04:22,000 --> 01:04:25,260
+It also includes going to a concert like this or that
+
+1442
+01:04:25,260 --> 01:04:27,560
+Don't you take two bright sticks?
+
+1443
+01:04:27,560 --> 01:04:31,280
+It's all made of these organic substances that have undergone chemical reactions.
+
+1444
+01:04:31,280 --> 01:04:33,180
+the light emitted
+
+1445
+01:04:33,180 --> 01:04:34,580
+seen by our eyes
+
+1446
+01:04:34,580 --> 01:04:37,780
+What we're talking about here are all so-called additive colors.
+
+1447
+01:04:37,780 --> 01:04:42,580
+Most of the additive colors are composed of silver or aura substances
+
+1448
+01:04:44,180 --> 01:04:46,420
+There is also a silver light silver light
+
+1449
+01:04:46,420 --> 01:04:49,620
+Where the application of silver light or aura is used
+
+1450
+01:04:49,620 --> 01:04:51,980
+make your white look whiter
+
+1451
+01:04:51,980 --> 01:04:55,880
+This is used because we people like pure white color very much
+
+1452
+01:04:56,000 --> 01:04:57,600
+including my sports socks
+
+1453
+01:04:57,600 --> 01:04:59,600
+be very white
+
+1454
+01:04:59,600 --> 01:05:00,600
+whiter whiter
+
+1455
+01:05:00,000 --> 01:05:02,000
+The better it is, the more beautiful it is
+
+1456
+01:05:02,500 --> 01:05:09,000
+There are also these clothes, you can see that there are these additives in this washing powder
+
+1457
+01:05:09,300 --> 01:05:13,700
+Under ultraviolet light it will appear blue light
+
+1458
+01:05:14,500 --> 01:05:17,000
+The paper towels used in our toilets are also screw-shaped
+
+1459
+01:05:17,000 --> 01:05:19,700
+I won't add this thing to hand paper, because it doesn't need to be very white
+
+1460
+01:05:19,700 --> 01:05:22,100
+Because the paper towels are usually yellowish
+
+1461
+01:05:22,300 --> 01:05:24,800
+But our print is like this paper
+
+1462
+01:05:25,800 --> 01:05:27,700
+The paper used for printing should be laid out better
+
+1463
+01:05:27,700 --> 01:05:30,500
+This fluorescent substance must be added inside
+
+1464
+01:05:31,100 --> 01:05:33,100
+as seen in this picture
+
+1465
+01:05:34,300 --> 01:05:36,900
+On the right is the hand paper, this is A4 printing paper
+
+1466
+01:05:37,100 --> 01:05:42,000
+A4 printing paper will emit blue light when viewed under ultraviolet light
+
+1467
+01:05:42,000 --> 01:05:42,800
+this one doesn't
+
+1468
+01:05:43,200 --> 01:05:46,400
+So in the case of blue light emitted
+
+1469
+01:05:46,400 --> 01:05:48,400
+This white will look whiter
+
+1470
+01:05:49,200 --> 01:05:53,500
+This is called a fluorescent additive, or a fluorescent whitening agent
+
+1471
+01:05:54,000 --> 01:05:56,700
+This thing will be used in many places
+
+1472
+01:05:56,700 --> 01:05:59,700
+Including the paper we just talked about
+
+1473
+01:06:00,000 --> 01:06:03,060
+Including that cloth like that white one
+
+1474
+01:06:03,060 --> 01:06:04,100
+to look white
+
+1475
+01:06:04,100 --> 01:06:05,660
+So it must add this thing
+
+1476
+01:06:05,660 --> 01:06:07,060
+will look whiter
+
+1477
+01:06:07,060 --> 01:06:08,660
+There are also many electrical supplies like that
+
+1478
+01:06:08,660 --> 01:06:09,860
+It's inside the white shell
+
+1479
+01:06:09,860 --> 01:06:11,560
+Added all of these
+
+1480
+01:06:11,560 --> 01:06:13,600
+The so-called fluorescent whitening agent
+
+1481
+01:06:13,600 --> 01:06:17,560
+This has an effect of making the white whiter whiter
+
+1482
+01:06:17,560 --> 01:06:19,400
+Including the white sneakers too
+
+1483
+01:06:19,400 --> 01:06:22,060
+This fluorescent whitening agent is added to everything.
+
+1484
+01:06:24,560 --> 01:06:26,200
+The last display
+
+1485
+01:06:26,200 --> 01:06:29,060
+I will quickly talk about this ten-year relationship
+
+1486
+01:06:29,160 --> 01:06:31,820
+This has been eliminated
+
+1487
+01:06:31,820 --> 01:06:33,920
+The display method of impression tube
+
+1488
+01:06:33,920 --> 01:06:36,360
+It actually uses a lot of this
+
+1489
+01:06:36,360 --> 01:06:38,160
+fluorescent powder in this
+
+1490
+01:06:38,160 --> 01:06:41,620
+This is also a display of color called additive
+
+1491
+01:06:41,620 --> 01:06:44,720
+The same is true for TVs including this plasma
+
+1492
+01:06:44,720 --> 01:06:49,060
+All rely on the glow of its fluorescent powder
+
+1493
+01:06:49,060 --> 01:06:52,220
+to present this picture
+
+1494
+01:06:52,220 --> 01:06:55,660
+This is plasma or impression tube
+
+1495
+01:06:55,660 --> 01:06:59,020
+In fact, they have all been eliminated
+
+1496
+01:06:59,020 --> 01:07:00,040
+there is another
+
+1497
+01:07:00,000 --> 01:07:02,700
+What this light-emitting display will use is
+
+1498
+01:07:02,700 --> 01:07:05,900
+We see this LED light bulb everywhere now
+
+1499
+01:07:05,900 --> 01:07:10,700
+This is also a light-emitting photoelectric product
+
+1500
+01:07:10,700 --> 01:07:15,900
+Some semiconductor materials are used in it.
+
+1501
+01:07:15,900 --> 01:07:18,100
+substances composed of these elements
+
+1502
+01:07:18,100 --> 01:07:22,100
+These substances after passing the current
+
+1503
+01:07:22,100 --> 01:07:23,900
+it sparks light out
+
+1504
+01:07:23,900 --> 01:07:26,500
+This phenomenon is called electroluminescence
+
+1505
+01:07:26,500 --> 01:07:29,500
+Because the substances used here are all inorganic compounds
+
+1506
+01:07:29,500 --> 01:07:33,400
+You can see that there is no carbon, hydrogen, oxygen and nitrogen in this
+
+1507
+01:07:33,400 --> 01:07:35,000
+elements in organic matter
+
+1508
+01:07:35,000 --> 01:07:37,800
+So these substances are inorganic materials
+
+1509
+01:07:37,800 --> 01:07:45,000
+It can be used as a light-emitting material for LED bulbs
+
+1510
+01:07:45,000 --> 01:07:47,600
+This LED light bulb can also be used as a screen
+
+1511
+01:07:47,600 --> 01:07:50,100
+This screen is super large and placed on that TV
+
+1512
+01:07:50,100 --> 01:07:53,100
+It's for the big screen on the wall
+
+1513
+01:07:53,100 --> 01:07:56,000
+This is like this popular place in Taipei City
+
+1514
+01:07:56,000 --> 01:07:58,000
+And this is the NASDAQ CPPCC exchange
+
+1515
+01:07:58,000 --> 01:08:00,500
+150% of this big Taipei City
+
+1516
+01:08:00,000 --> 01:08:02,400
+They're a video wall six stories high
+
+1517
+01:08:02,400 --> 01:08:05,400
+are lined up with LED bulbs
+
+1518
+01:08:05,400 --> 01:08:07,800
+We just looked at a few very common
+
+1519
+01:08:07,800 --> 01:08:09,000
+flat panel display
+
+1520
+01:08:09,000 --> 01:08:11,000
+Includes traditional acoustic tubes
+
+1521
+01:08:11,000 --> 01:08:14,600
+including deprecated
+
+1522
+01:08:14,600 --> 01:08:16,000
+plasma display
+
+1523
+01:08:16,000 --> 01:08:19,800
+What still exists is this LCD
+
+1524
+01:08:19,800 --> 01:08:23,200
+LCD is not an additive color display
+
+1525
+01:08:23,200 --> 01:08:24,800
+It is a complementary color display
+
+1526
+01:08:24,800 --> 01:08:27,800
+Because it's light passing through this colored green light sheet
+
+1527
+01:08:27,800 --> 01:08:30,600
+and filter out the colors we want to see
+
+1528
+01:08:30,600 --> 01:08:32,800
+This is a complementary color display
+
+1529
+01:08:32,800 --> 01:08:35,000
+The last thing I want to talk about is a flat panel monitor
+
+1530
+01:08:35,000 --> 01:08:38,600
+It is the so-called LED made of organic materials.
+
+1531
+01:08:38,600 --> 01:08:42,400
+Just now we saw that this LED is made of inorganic materials
+
+1532
+01:08:42,400 --> 01:08:46,400
+It is because it is composed of these inorganic elements
+
+1533
+01:08:46,400 --> 01:08:50,900
+In recent years, it has begun to appear
+
+1534
+01:08:50,900 --> 01:08:54,700
+It is an electric exposure display made of organic materials
+
+1535
+01:08:54,700 --> 01:08:57,400
+Where is this display used for?
+
+1536
+01:08:57,400 --> 01:08:59,500
+Both of these were also eliminated.
+
+1537
+01:08:59,500 --> 01:09:00,000
+Now
+
+1538
+01:09:00,000 --> 01:09:02,840
+Only these two things are still available in the market
+
+1539
+01:09:05,960 --> 01:09:07,400
+Should have killed it didn't kill it
+
+1540
+01:09:07,400 --> 01:09:08,000
+see next
+
+1541
+01:09:09,000 --> 01:09:11,500
+This was the front page headline in that newspaper a few years ago
+
+1542
+01:09:11,500 --> 01:09:15,500
+this samsung it spends a lot of money on a full page front page
+
+1543
+01:09:15,500 --> 01:09:16,500
+when that ad
+
+1544
+01:09:16,500 --> 01:09:17,700
+because they made this
+
+1545
+01:09:17,700 --> 01:09:20,000
+This Galaxy Note
+
+1546
+01:09:20,000 --> 01:09:22,500
+With this Galaxy S smartphone
+
+1547
+01:09:23,000 --> 01:09:26,300
+What is used here is called organic light-emitting secondary
+
+1548
+01:09:27,500 --> 01:09:29,300
+Referred to as OLED
+
+1549
+01:09:31,000 --> 01:09:34,000
+Now this OLED can be made into a 77-inch large electronic machine
+
+1550
+01:09:34,000 --> 01:09:38,000
+This one was recently in Las Vegas, USA
+
+1551
+01:09:38,000 --> 01:09:40,000
+Displayed in the Electronic Communications Exhibition
+
+1552
+01:09:40,000 --> 01:09:42,000
+LG shows in this
+
+1553
+01:09:42,500 --> 01:09:45,000
+Just like an LCD, it can be made into such a large electronic machine
+
+1554
+01:09:45,000 --> 01:09:47,000
+And it's still made into a curved surface
+
+1555
+01:09:47,500 --> 01:09:49,000
+very attractive
+
+1556
+01:09:49,000 --> 01:09:53,000
+Compared with OLD, this LCD has some advantages.
+
+1557
+01:09:53,000 --> 01:09:54,000
+I won't talk about the time relationship
+
+1558
+01:09:54,000 --> 01:09:55,500
+Its picture is clearer
+
+1559
+01:09:55,500 --> 01:09:57,000
+It has a wider viewing angle
+
+1560
+01:09:57,000 --> 01:09:59,000
+That camera is still relatively power efficient.
+
+1561
+01:09:59,000 --> 01:10:00,000
+It also has a relatively large Indian number
+
+1562
+01:10:00,000 --> 01:10:04,100
+These organic LEs can also be used as white light
+
+1563
+01:10:04,100 --> 01:10:06,800
+White light means that you add red, blue, and green together
+
+1564
+01:10:06,800 --> 01:10:09,300
+it will turn white and you can use it for lighting
+
+1565
+01:10:09,300 --> 01:10:15,100
+Just like the energy-saving light bulbs in our house, we can use this instead
+
+1566
+01:10:15,100 --> 01:10:19,600
+This glowing substance, these are all organic substances
+
+1567
+01:10:19,600 --> 01:10:22,700
+It must be synthesized in the laboratory
+
+1568
+01:10:22,700 --> 01:10:28,100
+Just like Wayne Perkins synthesized in the laboratory
+
+1569
+01:10:28,700 --> 01:10:30,800
+He wants to synthesize the medicine of kulin
+
+1570
+01:10:30,800 --> 01:10:33,900
+At that time, because he couldn't figure it out, he didn't understand the chemistry
+
+1571
+01:10:33,900 --> 01:10:35,400
+Now we know very well
+
+1572
+01:10:35,400 --> 01:10:37,400
+It must be designed according to his chemical structure
+
+1573
+01:10:37,400 --> 01:10:40,400
+Because different chemical structures will show different colors
+
+1574
+01:10:40,400 --> 01:10:42,800
+Like the one on the right hand side is red and orange
+
+1575
+01:10:42,800 --> 01:10:45,600
+Yellow and green in the middle and blue on the left
+
+1576
+01:10:45,600 --> 01:10:48,700
+Different chemical structures will produce different light colors
+
+1577
+01:10:48,700 --> 01:10:51,900
+Organic light-emitting diodes require a variety of different
+
+1578
+01:10:51,900 --> 01:10:57,100
+Luminous substances to match to make the whole screen
+
+1579
+01:10:58,100 --> 01:11:00,200
+This is the end
+
+1580
+01:11:00,000 --> 01:11:03,020
+The second chapter talks a lot because I'm a chemist
+
+1581
+01:11:03,020 --> 01:11:06,020
+I went to take a few photos in our laboratory
+
+1582
+01:11:06,020 --> 01:11:08,520
+Photos of chemical synthesis for everyone to see
+
+1583
+01:11:08,520 --> 01:11:11,020
+Start with the simplest glass bottle
+
+1584
+01:11:11,020 --> 01:11:16,220
+What we ended up with is this material that glows red
+
+1585
+01:11:16,220 --> 01:11:20,180
+But this red fluorescent material was originally something like this
+
+1586
+01:11:20,180 --> 01:11:22,060
+Reflected to a stage like here
+
+1587
+01:11:22,060 --> 01:11:23,900
+a can of stuff that becomes usima black
+
+1588
+01:11:23,900 --> 01:11:27,100
+What you want is from inside a can of this usima black
+
+1589
+01:11:27,100 --> 01:11:28,100
+separate it
+
+1590
+01:11:28,100 --> 01:11:29,900
+You see this red substance over here
+
+1591
+01:11:29,900 --> 01:11:34,900
+There will be yellow and green fluorescent substances in the same can
+
+1592
+01:11:34,900 --> 01:11:37,900
+You use this separation technique
+
+1593
+01:11:37,900 --> 01:11:38,900
+after separating it
+
+1594
+01:11:38,900 --> 01:11:41,900
+Collect this jar separately
+
+1595
+01:11:41,900 --> 01:11:43,900
+After removing the solvent
+
+1596
+01:11:43,900 --> 01:11:44,900
+solid will produce
+
+1597
+01:11:44,900 --> 01:11:47,900
+We collect it in this glass bottle
+
+1598
+01:11:47,900 --> 01:11:50,900
+This is a typical chemistry lab
+
+1599
+01:11:50,900 --> 01:11:52,900
+A practice of synthetic materials
+
+1600
+01:11:52,900 --> 01:11:55,900
+This is what we use modern chemical technology
+
+1601
+01:11:55,900 --> 01:11:58,900
+Prepare this colored substance by yourself
+
+1602
+01:11:58,900 --> 01:12:00,900
+It's just that this is an invention
+
+1603
+01:12:00,000 --> 01:12:05,120
+Its light-type material is the same as that of Perkin William 150 years ago
+
+1604
+01:12:06,800 --> 01:12:08,480
+Of course it can't be the same
+
+1605
+01:12:08,480 --> 01:12:10,400
+they don't have that modern equipment
+
+1606
+01:12:10,400 --> 01:12:14,480
+There is no chemical laboratory like it is available now
+
+1607
+01:12:15,760 --> 01:12:19,800
+This is an example of our own actual
+
+1608
+01:12:19,800 --> 01:12:23,600
+We designed and synthesized a chemical substance like this
+
+1609
+01:12:23,600 --> 01:12:26,560
+it is fluorescent red
+
+1610
+01:12:26,560 --> 01:12:31,280
+It can be made inside this element of the red OLED
+
+1611
+01:12:31,280 --> 01:12:34,000
+Is it a pixel like this?
+
+1612
+01:12:34,000 --> 01:12:36,480
+It is used in Samsung smartphones
+
+1613
+01:12:36,480 --> 01:12:40,680
+It's just that there are about 600 such things on the panel of the mobile phone
+
+1614
+01:12:40,680 --> 01:12:41,600
+stuffed in here
+
+1615
+01:12:41,600 --> 01:12:43,120
+Each one is made very small
+
+1616
+01:12:43,120 --> 01:12:46,560
+So the resolution of this picture can be increased to a very high
+
+1617
+01:12:46,560 --> 01:12:48,080
+We are not a panel
+
+1618
+01:12:48,080 --> 01:12:50,240
+We're just demonstrating in the lab that
+
+1619
+01:12:50,240 --> 01:12:51,280
+we can do it too
+
+1620
+01:12:51,280 --> 01:12:53,440
+We just made a big one, which is easier to make.
+
+1621
+01:12:53,760 --> 01:12:57,280
+A real panel phone needs millions of pieces to squeeze it inside
+
+1622
+01:12:57,280 --> 01:12:59,040
+So each one is made very, very small
+
+1623
+01:13:00,000 --> 01:13:06,160
+This can be regarded as the summary of the last report of today’s knowledge miss
+
+1624
+01:13:06,160 --> 01:13:08,960
+I'm talking about dyes from that
+
+1625
+01:13:08,960 --> 01:13:12,040
+From the traditional dyeing and finishing process
+
+1626
+01:13:12,040 --> 01:13:14,840
+The inventor is this William Bergin
+
+1627
+01:13:14,840 --> 01:13:16,900
+We now call him the father of chemical engineering
+
+1628
+01:13:16,900 --> 01:13:23,040
+The production of the original dyes was based on the application of its disappearing color presentation
+
+1629
+01:13:23,040 --> 01:13:25,080
+Speaking of the application of optoelectronics in the future?
+
+1630
+01:13:25,080 --> 01:13:28,160
+Everything becomes the presentation of additive colors
+
+1631
+01:13:28,160 --> 01:13:30,720
+Either subtractive or additive
+
+1632
+01:13:30,720 --> 01:13:33,800
+These colored substances are used
+
+1633
+01:13:33,800 --> 01:13:36,860
+One is the color of bone protection
+
+1634
+01:13:36,860 --> 01:13:39,680
+One is the color of the light it emits
+
+1635
+01:13:39,680 --> 01:13:44,280
+I will talk about the application of this fashionable technology later.
+
+1636
+01:13:44,280 --> 01:13:46,340
+Includes various panels
+
+1637
+01:13:46,340 --> 01:13:49,660
+The panel of the mobile phone or the screen of the laptop
+
+1638
+01:13:49,660 --> 01:13:53,000
+Or now we see that they have done the electronic machine 77 inches
+
+1639
+01:13:53,000 --> 01:13:57,340
+Such a large electronic screen can be used with these luminous substances
+
+1640
+01:13:57,340 --> 01:14:00,060
+In addition, it is still in the development stage
+
+1641
+01:14:00,000 --> 01:14:06,400
+Solar cells are also the last manifestation of the application of these dyes
+
+1642
+01:14:06,400 --> 01:14:11,400
+This era has progressed from about 150 years ago.
+
+1643
+01:14:11,400 --> 01:14:16,400
+William Perkins to the present technology transition
+
+1644
+01:14:16,400 --> 01:14:19,400
+It's actually I think it's unbelievably hot
+
+1645
+01:14:19,400 --> 01:14:21,400
+You would never have thought to say
+
+1646
+01:14:21,400 --> 01:14:25,400
+These dyes can be applied to current technologies like these
+
+1647
+01:14:25,400 --> 01:14:28,400
+Well, it's almost time now
+
+1648
+01:14:31,000 --> 01:14:40,000
+Ok, thank you Dr. Chen for the wonderful colorful world
+
+1649
+01:14:40,000 --> 01:14:47,000
+Now you are welcome to ask questions
+
+1650
+01:14:47,000 --> 01:14:48,000
+please
+
+1651
+01:14:49,000 --> 01:14:54,000
+Thank you teacher Caiying for teaching me twice that one should be two lottery draws
+
+1652
+01:14:54,000 --> 01:14:56,000
+There should be a problem with improving the color
+
+1653
+01:14:56,000 --> 01:15:00,000
+You should also remember if you reversed the color or said that you were bathed
+
+1654
+01:15:00,000 --> 01:15:02,460
+I see I see so it's too hot girl
+
+1655
+01:15:02,460 --> 01:15:04,960
+Everything is reflected, what I see is white
+
+1656
+01:15:04,960 --> 01:15:06,460
+but sometimes i see
+
+1657
+01:15:06,460 --> 01:15:08,460
+I'll try it if it's a color bomb black
+
+1658
+01:15:08,460 --> 01:15:10,960
+But obviously there is too much fire shining on it
+
+1659
+01:15:10,960 --> 01:15:12,460
+I still think it is
+
+1660
+01:15:12,460 --> 01:15:13,460
+but say so
+
+1661
+01:15:13,460 --> 01:15:15,960
+It's supposed to be black and suck all the light out
+
+1662
+01:15:15,960 --> 01:15:16,960
+is it?
+
+1663
+01:15:16,960 --> 01:15:17,960
+I just want to ask
+
+1664
+01:15:17,960 --> 01:15:19,000
+why say still
+
+1665
+01:15:19,000 --> 01:15:21,960
+You said this situation is actually
+
+1666
+01:15:21,960 --> 01:15:26,460
+It is absorbing and reflecting at the same time
+
+1667
+01:15:26,460 --> 01:15:28,460
+coexist at the same time
+
+1668
+01:15:28,460 --> 01:15:31,460
+The example I just gave is very
+
+1669
+01:15:31,460 --> 01:15:35,460
+The dichotomy is that there is reflection and there is no absorption
+
+1670
+01:15:35,460 --> 01:15:36,460
+Or if there is absorption there is no reflection
+
+1671
+01:15:36,460 --> 01:15:39,120
+In fact most things are both
+
+1672
+01:15:39,120 --> 01:15:40,620
+So you're clearly a black thing
+
+1673
+01:15:40,620 --> 01:15:44,260
+You can still see its light reflected
+
+1674
+01:15:44,260 --> 01:15:46,120
+and its reflection
+
+1675
+01:15:46,120 --> 01:15:49,160
+Because its surface is very flat
+
+1676
+01:15:49,160 --> 01:15:51,920
+Very flat surfaces reflect light easily
+
+1677
+01:15:51,920 --> 01:15:54,620
+But it's transparent again
+
+1678
+01:15:54,620 --> 01:15:55,820
+so it has part of the light
+
+1679
+01:15:55,820 --> 01:15:57,320
+actually penetrates through
+
+1680
+01:15:57,320 --> 01:15:59,320
+absorbed by its dye
+
+1681
+01:16:00,000 --> 01:16:01,040
+appear black
+
+1682
+01:16:01,040 --> 01:16:02,400
+But there is some light
+
+1683
+01:16:02,400 --> 01:16:04,440
+it doesn't pass through
+
+1684
+01:16:04,440 --> 01:16:05,920
+it is the surface
+
+1685
+01:16:05,920 --> 01:16:08,000
+smooth things are reflected
+
+1686
+01:16:08,500 --> 01:16:10,840
+So you'll see this sickness
+
+1687
+01:16:10,840 --> 01:16:11,560
+obviously black
+
+1688
+01:16:11,560 --> 01:16:14,240
+Why can I still see the light reflected?
+
+1689
+01:16:15,640 --> 01:16:17,340
+Then you can send more
+
+1690
+01:16:17,340 --> 01:16:20,500
+Because like us a kettle keeps filling
+
+1691
+01:16:20,500 --> 01:16:21,240
+then it will break
+
+1692
+01:16:21,240 --> 01:16:21,960
+The balloon keeps inflating
+
+1693
+01:16:21,960 --> 01:16:22,500
+will break
+
+1694
+01:16:22,500 --> 01:16:24,040
+that light is energy
+
+1695
+01:16:24,040 --> 01:16:27,160
+That one assumes the black car is over there
+
+1696
+01:16:27,160 --> 01:16:28,200
+it's shiny
+
+1697
+01:16:28,200 --> 01:16:30,400
+Always absorbing, always absorbing, always absorbing
+
+1698
+01:16:30,400 --> 01:16:33,000
+Why doesn't it seem broken or broken
+
+1699
+01:16:33,000 --> 01:16:35,400
+Because that energy is not yet big enough
+
+1700
+01:16:35,400 --> 01:16:36,700
+like that
+
+1701
+01:16:36,700 --> 01:16:39,400
+But it keeps absorbing light and always absorbing light
+
+1702
+01:16:39,400 --> 01:16:40,700
+An accompanying series is
+
+1703
+01:16:40,700 --> 01:16:42,700
+it's getting hotter and hotter
+
+1704
+01:16:42,700 --> 01:16:44,800
+But it's so hot that it doesn't mean that the temperature keeps going up.
+
+1705
+01:16:44,800 --> 01:16:45,600
+it goes to a point
+
+1706
+01:16:45,600 --> 01:16:48,900
+Because the object itself is exposed to sunlight
+
+1707
+01:16:48,900 --> 01:16:50,400
+exposure to light
+
+1708
+01:16:50,400 --> 01:16:52,700
+it emits heat
+
+1709
+01:16:52,700 --> 01:16:53,900
+it will reach a balance
+
+1710
+01:16:53,900 --> 01:16:56,200
+It is also dissipating heat
+
+1711
+01:16:56,200 --> 01:16:57,200
+light keeps shining
+
+1712
+01:16:57,200 --> 01:16:58,700
+It also keeps cooling
+
+1713
+01:16:58,700 --> 01:17:00,000
+watch this at last
+
+1714
+01:17:00,000 --> 01:17:04,660
+The total energy and its released energy will finally reach a balance
+
+1715
+01:17:04,660 --> 01:17:07,000
+For example, most of our experience is
+
+1716
+01:17:07,000 --> 01:17:09,500
+under the sun
+
+1717
+01:17:09,500 --> 01:17:13,300
+The body of the car will be sunburned, right?
+
+1718
+01:17:13,300 --> 01:17:15,500
+That temperature is about 50 degrees C
+
+1719
+01:17:15,500 --> 01:17:20,300
+The degree of heat dissipation has something to do with your material.
+
+1720
+01:17:20,300 --> 01:17:23,200
+Most of them will reach a stage of equilibrium
+
+1721
+01:17:23,200 --> 01:17:28,000
+If you really use very strong light to illuminate, for example, laser light
+
+1722
+01:17:28,700 --> 01:17:33,300
+That heat is far greater than its ability to relax
+
+1723
+01:17:33,300 --> 01:17:36,400
+Your metal will be melted away, right?
+
+1724
+01:17:36,400 --> 01:17:40,500
+This depends entirely on whether your input and output have reached a balance
+
+1725
+01:17:45,200 --> 01:17:46,200
+ask holy teacher
+
+1726
+01:17:46,200 --> 01:17:52,500
+The dyes that everyone sells are for visible light absorption and reflection
+
+1727
+01:17:52,500 --> 01:17:53,500
+developed
+
+1728
+01:17:53,500 --> 01:17:56,700
+Are there any dyes for invisible light
+
+1729
+01:17:56,700 --> 01:17:57,200
+have
+
+1730
+01:17:57,200 --> 01:17:57,700
+have
+
+1731
+01:17:57,700 --> 01:17:58,700
+I just don't remember saying
+
+1732
+01:17:58,700 --> 01:17:59,700
+because
+
+1733
+01:18:00,000 --> 01:18:02,300
+We can't see without light
+
+1734
+01:18:02,860 --> 01:18:04,860
+Today I mainly focus on what we can see with our eyes
+
+1735
+01:18:04,860 --> 01:18:06,300
+usually visible light
+
+1736
+01:18:06,600 --> 01:18:09,740
+Then what you're talking about is, for example, the light outside the arc of a mirror.
+
+1737
+01:18:09,940 --> 01:18:12,040
+Or infrared light and ultraviolet light
+
+1738
+01:18:12,400 --> 01:18:13,460
+it is also part of the light
+
+1739
+01:18:13,460 --> 01:18:14,660
+but our eyes can't see
+
+1740
+01:18:15,660 --> 01:18:17,740
+But this one has a dye like this
+
+1741
+01:18:18,260 --> 01:18:20,240
+If it is a luminous dye
+
+1742
+01:18:20,240 --> 01:18:25,040
+That is, the wavelength of your light should exceed about 700 nanometers
+
+1743
+01:18:25,900 --> 01:18:28,440
+That is the infrared light, the mirror arc or the outer light of the mirror arc.
+
+1744
+01:18:29,200 --> 01:18:33,200
+If its wavelength is shorter than about 450
+
+1745
+01:18:33,540 --> 01:18:35,200
+that becomes ultraviolet light
+
+1746
+01:18:36,200 --> 01:18:38,900
+Then it's about solar cells
+
+1747
+01:18:39,400 --> 01:18:41,680
+Because visible light makes up only a small fraction of the
+
+1748
+01:18:41,680 --> 01:18:42,180
+yes
+
+1749
+01:18:42,180 --> 01:18:44,040
+So if it's the dye
+
+1750
+01:18:45,400 --> 01:18:46,540
+Is it possible to apply in
+
+1751
+01:18:47,000 --> 01:18:48,740
+Can make full use of solar energy
+
+1752
+01:18:50,040 --> 01:18:54,140
+A visible dye has a wavelength of
+
+1753
+01:18:54,140 --> 01:18:55,740
+in the range of visible light
+
+1754
+01:18:56,040 --> 01:18:57,740
+But the sun is actually very wide
+
+1755
+01:19:00,000 --> 01:19:04,000
+Depends on whether your material is made of organic materials or inorganic materials
+
+1756
+01:19:04,340 --> 01:19:08,840
+Inorganic materials are the solar panels we see on the market now
+
+1757
+01:19:09,620 --> 01:19:13,000
+Those are all composed of thin or inorganic elements
+
+1758
+01:19:13,400 --> 01:19:15,620
+The range of light absorption is very long
+
+1759
+01:19:15,760 --> 01:19:18,200
+absorbs in the infrared range
+
+1760
+01:19:20,000 --> 01:19:21,080
+so yes indeed
+
+1761
+01:19:21,540 --> 01:19:24,000
+We do research in the hope that
+
+1762
+01:19:24,160 --> 01:19:25,720
+Are we using organic materials?
+
+1763
+01:19:25,720 --> 01:19:29,480
+We just want to say that the range of organic materials that can absorb light
+
+1764
+01:19:29,480 --> 01:19:33,060
+stretch him out into the range of infrared light
+
+1765
+01:19:33,400 --> 01:19:36,120
+But it's not easy to do it with organic materials
+
+1766
+01:19:36,640 --> 01:19:38,120
+Not as easy to make as inorganic materials
+
+1767
+01:19:41,680 --> 01:19:43,280
+Ok please finally because
+
+1768
+01:19:44,760 --> 01:19:46,200
+The four questions
+
+1769
+01:19:46,200 --> 01:19:49,160
+That is to say, the sun is yellowish in the morning
+
+1770
+01:19:49,160 --> 01:19:52,880
+What was his eye shadow that was reddish that night
+
+1771
+01:19:53,280 --> 01:19:58,360
+The second one is the spectrum of sunlight and fluorescent lamps
+
+1772
+01:19:58,360 --> 01:19:59,760
+is it the same
+
+1773
+01:20:00,000 --> 01:20:03,080
+Isn't there a glass that allows the sunlight to pass through
+
+1774
+01:20:03,080 --> 01:20:06,400
+But fluorescent lamps can't see through
+
+1775
+01:20:06,660 --> 01:20:07,940
+Is there a way through this
+
+1776
+01:20:07,940 --> 01:20:11,520
+Then the Egyptian you just mentioned is
+
+1777
+01:20:12,040 --> 01:20:14,340
+The latest synthetic
+
+1778
+01:20:14,600 --> 01:20:17,660
+you want to hear that topic in england
+
+1779
+01:20:17,660 --> 01:20:19,720
+again the first human
+
+1780
+01:20:20,220 --> 01:20:22,020
+Synthetic pigments, these two
+
+1781
+01:20:22,520 --> 01:20:24,060
+where is the difference
+
+1782
+01:20:24,320 --> 01:20:24,580
+good
+
+1783
+01:20:25,080 --> 01:20:26,360
+The last one is to say
+
+1784
+01:20:26,880 --> 01:20:28,160
+black should be
+
+1785
+01:20:28,320 --> 01:20:29,960
+Easiest to absorb light
+
+1786
+01:20:29,960 --> 01:20:31,740
+But in nature why
+
+1787
+01:20:32,000 --> 01:20:36,600
+Why is it developed that the nocturnal element is earth-colored to absorb light
+
+1788
+01:20:36,860 --> 01:20:41,480
+No development is black to absorb light
+
+1789
+01:20:42,760 --> 01:20:45,560
+It's fun for me to answer your questions one by one
+
+1790
+01:20:47,360 --> 01:20:48,900
+the first you say that
+
+1791
+01:20:49,160 --> 01:20:51,200
+morning dusk
+
+1792
+01:20:51,460 --> 01:20:55,800
+Why is the color of the sun's light different from the color of the light in the middle of the day?
+
+1793
+01:20:56,060 --> 01:20:57,340
+this fact
+
+1794
+01:20:57,340 --> 01:20:59,900
+It has nothing to do with the material, it's all because
+
+1795
+01:21:00,000 --> 01:21:03,560
+So the light, the morning light or the yellow light
+
+1796
+01:21:03,560 --> 01:21:05,640
+it shines on the surface of the earth
+
+1797
+01:21:05,640 --> 01:21:08,200
+It has to penetrate the thicker atmosphere
+
+1798
+01:21:09,520 --> 01:21:11,960
+The sun is directly above in the schedule
+
+1799
+01:21:12,120 --> 01:21:15,840
+the depth of the atmosphere through which the earth passes
+
+1800
+01:21:16,000 --> 01:21:19,720
+day and dusk, morning and dusk
+
+1801
+01:21:19,720 --> 01:21:23,120
+The thickness of the atmosphere it penetrates is different
+
+1802
+01:21:23,640 --> 01:21:26,040
+Are there many in the atmosphere?
+
+1803
+01:21:27,040 --> 01:21:29,760
+presence of floating particles
+
+1804
+01:21:29,760 --> 01:21:33,520
+These floating particles and your light, light
+
+1805
+01:21:33,520 --> 01:21:36,240
+The incoming light, the sun's rays will make some
+
+1806
+01:21:37,000 --> 01:21:39,400
+phenomenon of diffraction or refraction
+
+1807
+01:21:39,400 --> 01:21:42,160
+This will make your light the sun's rays
+
+1808
+01:21:42,160 --> 01:21:44,960
+Certain wavelengths of light are particularly intensified
+
+1809
+01:21:44,960 --> 01:21:48,680
+Some wavelengths of light are particularly weak
+
+1810
+01:21:48,680 --> 01:21:50,480
+so you would render
+
+1811
+01:21:50,480 --> 01:21:52,480
+Morning and evening light are different
+
+1812
+01:21:52,920 --> 01:21:54,080
+this is
+
+1813
+01:21:54,360 --> 01:21:56,840
+This is actually a physical optics reason
+
+1814
+01:21:57,240 --> 01:22:00,040
+I'm a chemistry student, in fact I'm not very
+
+1815
+01:22:00,000 --> 01:22:02,700
+But the first reason you just asked
+
+1816
+01:22:02,860 --> 01:22:05,000
+Basically we interpret it this way
+
+1817
+01:22:05,160 --> 01:22:08,000
+because it passes through the atmosphere at different thicknesses
+
+1818
+01:22:08,160 --> 01:22:10,800
+There are many floating particles in the atmosphere
+
+1819
+01:22:10,960 --> 01:22:12,200
+this will diffract
+
+1820
+01:22:12,360 --> 01:22:14,200
+This existence is an optical phenomenon
+
+1821
+01:22:14,360 --> 01:22:17,860
+will change the wavelength of some part of that sunlight
+
+1822
+01:22:19,540 --> 01:22:21,300
+Then the second question you asked is
+
+1823
+01:22:21,460 --> 01:22:22,160
+Black
+
+1824
+01:22:22,340 --> 01:22:23,700
+no you asked
+
+1825
+01:22:23,860 --> 01:22:25,540
+that glass is
+
+1826
+01:22:25,540 --> 01:22:31,140
+Glass sun rays can pass through
+
+1827
+01:22:31,300 --> 01:22:33,340
+Can the fluorescent lamp work?
+
+1828
+01:22:33,500 --> 01:22:34,500
+No
+
+1829
+01:22:34,660 --> 01:22:36,300
+you ask a question
+
+1830
+01:22:36,460 --> 01:22:40,000
+Is the light from a fluorescent tube the same as the sun's light?
+
+1831
+01:22:40,160 --> 01:22:40,940
+Is the spectrum
+
+1832
+01:22:41,100 --> 01:22:41,900
+is the same spectrum
+
+1833
+01:22:42,060 --> 01:22:43,100
+I say different
+
+1834
+01:22:43,260 --> 01:22:45,240
+is there a way to make a glass
+
+1835
+01:22:45,400 --> 01:22:48,800
+That is to say, the outside cannot see the inside
+
+1836
+01:22:48,960 --> 01:22:51,100
+But you can see it from the outside
+
+1837
+01:22:51,260 --> 01:22:52,740
+just according to it
+
+1838
+01:22:52,900 --> 01:22:54,140
+pure glass no way
+
+1839
+01:22:54,260 --> 01:22:56,460
+but you can on the surface of the glass
+
+1840
+01:22:57,940 --> 01:23:00,000
+Apply some material to achieve
+
+1841
+01:23:00,000 --> 01:23:01,000
+the purpose of this
+
+1842
+01:23:02,200 --> 01:23:04,720
+For example, the most traditional way is to
+
+1843
+01:23:04,720 --> 01:23:06,800
+you are like a mirror
+
+1844
+01:23:06,800 --> 01:23:09,120
+You can add a reflective one inside
+
+1845
+01:23:09,120 --> 01:23:10,680
+translucent reflector
+
+1846
+01:23:11,320 --> 01:23:12,360
+You can't see the inside from the outside
+
+1847
+01:23:12,360 --> 01:23:13,800
+But you can still see the outside
+
+1848
+01:23:13,800 --> 01:23:14,960
+But when the website
+
+1849
+01:23:14,960 --> 01:23:17,440
+outside or see inside
+
+1850
+01:23:17,440 --> 01:23:21,000
+I mean use them sunlight and daylight
+
+1851
+01:23:21,000 --> 01:23:22,440
+The difference with the spectrum
+
+1852
+01:23:22,960 --> 01:23:24,920
+That is to say, let the sunlight pass through
+
+1853
+01:23:24,920 --> 01:23:26,480
+Let the sunlight not see through
+
+1854
+01:23:26,480 --> 01:23:28,320
+As far as the website is concerned, sunlight cannot penetrate through it.
+
+1855
+01:23:28,920 --> 01:23:31,920
+Even if you throw it outside at night, you can't see inside.
+
+1856
+01:23:31,920 --> 01:23:34,920
+this is a bit difficult
+
+1857
+01:23:34,920 --> 01:23:36,480
+because the solar spectrum
+
+1858
+01:23:36,480 --> 01:23:39,480
+basically covers all the rays
+
+1859
+01:23:40,480 --> 01:23:42,320
+If you want to let the sun's rays
+
+1860
+01:23:42,320 --> 01:23:44,480
+If everything penetrates the past
+
+1861
+01:23:44,480 --> 01:23:46,720
+should say so
+
+1862
+01:23:46,720 --> 01:23:49,880
+Fluorescent Tubes It Doesn't Cover All
+
+1863
+01:23:49,880 --> 01:23:51,680
+All bands of sunlight
+
+1864
+01:23:51,680 --> 01:23:53,920
+So you can do a thing
+
+1865
+01:23:53,920 --> 01:23:56,680
+Limit light from fluorescent tubes
+
+1866
+01:23:57,000 --> 01:23:59,200
+Penetration does not penetrate
+
+1867
+01:23:59,200 --> 01:24:00,040
+but you are hard
+
+1868
+01:24:00,000 --> 01:24:01,400
+make a sun ray
+
+1869
+01:24:02,400 --> 01:24:04,000
+make a glass plate
+
+1870
+01:24:04,200 --> 01:24:06,600
+Selectively let the sun's rays penetrate
+
+1871
+01:24:07,000 --> 01:24:07,700
+impenetrable
+
+1872
+01:24:08,100 --> 01:24:11,000
+Because the solar spectrum is a relatively complete band
+
+1873
+01:24:11,700 --> 01:24:15,600
+On the contrary, it is easier to limit the light of fluorescent tubes
+
+1874
+01:24:15,800 --> 01:24:17,100
+because it's not all
+
+1875
+01:24:19,300 --> 01:24:23,000
+So you just put some fluorescent tubes
+
+1876
+01:24:24,000 --> 01:24:26,200
+The material that absorbs fluorescent tubes
+
+1877
+01:24:26,300 --> 01:24:27,400
+sit in the glass
+
+1878
+01:24:27,600 --> 01:24:30,400
+In this way, the light of the fluorescent tube cannot penetrate
+
+1879
+01:24:30,600 --> 01:24:32,300
+But the sun is still
+
+1880
+01:24:32,500 --> 01:24:37,000
+Because the sun's rays have a wider range of rays in its spectrum
+
+1881
+01:24:37,600 --> 01:24:39,400
+But it's not hard to do it the other way around
+
+1882
+01:24:41,800 --> 01:24:45,500
+I just wish the sun could come in
+
+1883
+01:24:46,000 --> 01:24:47,700
+it was the time of fluorescent tubes
+
+1884
+01:24:47,800 --> 01:24:51,800
+It is so that at night, the outside cannot see the inside
+
+1885
+01:24:51,900 --> 01:24:53,900
+Then why didn't this thing come out?
+
+1886
+01:24:54,700 --> 01:24:57,000
+Because the spectrum of fluorescent tubes is relatively narrow
+
+1887
+01:24:57,400 --> 01:24:59,900
+we are easier
+
+1888
+01:25:00,000 --> 01:25:03,800
+The narrow spectrum makes it impossible to get in and out
+
+1889
+01:25:03,800 --> 01:25:11,320
+But if it is wide, we must make it all to absorb the sun's rays
+
+1890
+01:25:11,320 --> 01:25:13,880
+Then, of course, sunlight will be absorbed.
+
+1891
+01:25:14,440 --> 01:25:17,200
+but you can make a tube that absorbs fluorescent light
+
+1892
+01:25:17,200 --> 01:25:19,760
+but some sun rays remain
+
+1893
+01:25:19,760 --> 01:25:20,920
+not absorbed by it
+
+1894
+01:25:21,600 --> 01:25:22,800
+do it the other way around
+
+1895
+01:25:22,800 --> 01:25:26,800
+But it's not easy to do it the other way around
+
+1896
+01:25:27,000 --> 01:25:30,320
+It is easier for us to limit things with a narrower spectrum
+
+1897
+01:25:30,320 --> 01:25:32,720
+But there is no way to limit the full spectrum of things
+
+1898
+01:25:33,840 --> 01:25:34,320
+like this
+
+1899
+01:25:37,200 --> 01:25:39,600
+Ig2 and that
+
+1900
+01:25:40,960 --> 01:25:45,640
+Both are actually the first inventions
+
+1901
+01:25:45,640 --> 01:25:49,760
+But Ig's invention color uses different materials
+
+1902
+01:25:49,760 --> 01:25:51,440
+Ig2 uses inorganic materials
+
+1903
+01:25:52,880 --> 01:25:54,520
+Purkin I also use organic materials
+
+1904
+01:25:54,520 --> 01:25:59,480
+Inorganic materials are virtually unchanged in their composition
+
+1905
+01:26:00,000 --> 01:26:11,220
+It is derived from these fine acids, fine acid stones, malachite
+
+1906
+01:26:11,220 --> 01:26:16,900
+It is made up of atoms or ions of metals
+
+1907
+01:26:16,900 --> 01:26:21,220
+it's just throwing it together and re-creating it
+
+1908
+01:26:21,220 --> 01:26:24,980
+Its composition has not been altered at all
+
+1909
+01:26:24,980 --> 01:26:26,380
+it just reformulates it
+
+1910
+01:26:27,100 --> 01:26:29,900
+Purkin-Wheel, different
+
+1911
+01:26:29,900 --> 01:26:34,900
+It is dismantling the original molecule
+
+1912
+01:26:34,900 --> 01:26:37,540
+put it back together again
+
+1913
+01:26:37,540 --> 01:26:39,980
+That's a chemical reaction
+
+1914
+01:26:39,980 --> 01:26:41,740
+Although the Egyptians are also doing chemical reactions
+
+1915
+01:26:41,740 --> 01:26:44,100
+The chemical reaction between the two is not the same
+
+1916
+01:26:44,100 --> 01:26:46,780
+One is organic synthesis and the other is inorganic synthesis
+
+1917
+01:26:46,780 --> 01:26:50,860
+So if you speak in a broad sense, there is nothing wrong
+
+1918
+01:26:50,860 --> 01:26:55,660
+Egypt can also be said to be the first color to be artificially formulated.
+
+1919
+01:26:55,660 --> 01:26:59,900
+Purkin-Wheel is equal to creating something from scratch
+
+1920
+01:27:00,000 --> 01:27:04,560
+Invent a new substance
+
+1921
+01:27:05,280 --> 01:27:07,680
+This is a place where the two are not the same
+
+1922
+01:27:08,760 --> 01:27:14,400
+We also only call Pokéware the father of chemical engineering
+
+1923
+01:27:14,400 --> 01:27:16,000
+because it lived in modern times
+
+1924
+01:27:16,600 --> 01:27:19,320
+The Egyptians made that color at that time
+
+1925
+01:27:19,320 --> 01:27:21,720
+But because it was too early
+
+1926
+01:27:22,000 --> 01:27:25,400
+There is no way to say that an industry will be produced.
+
+1927
+01:27:26,400 --> 01:27:28,400
+That era was a bit different
+
+1928
+01:27:28,800 --> 01:27:31,000
+if the egyptian is later
+
+1929
+01:27:31,000 --> 01:27:32,640
+Maybe at that time they will also send
+
+1930
+01:27:32,640 --> 01:27:38,400
+At that time, an industrial-scale production of this scale will be developed.
+
+1931
+01:27:41,400 --> 01:27:42,400
+professor
+
+1932
+01:27:42,400 --> 01:27:45,400
+that is that black
+
+1933
+01:27:45,400 --> 01:27:48,080
+Black should be the most absorbing color
+
+1934
+01:27:48,080 --> 01:27:50,800
+Why Nature Is Green To Absorb That
+
+1935
+01:27:53,200 --> 01:27:54,400
+Leaf green tree
+
+1936
+01:27:55,400 --> 01:27:56,400
+no
+
+1937
+01:27:56,400 --> 01:28:00,400
+Black means that several places have been absorbed
+
+1938
+01:28:00,000 --> 01:28:01,200
+absorbed it, right?
+
+1939
+01:28:01,600 --> 01:28:02,760
+that's right
+
+1940
+01:28:02,760 --> 01:28:05,160
+If all the sun's rays are absorbed
+
+1941
+01:28:05,160 --> 01:28:05,720
+just want it
+
+1942
+01:28:05,960 --> 01:28:07,320
+All are absorbed everywhere
+
+1943
+01:28:07,320 --> 01:28:08,060
+just rely on
+
+1944
+01:28:08,400 --> 01:28:09,960
+by that black substance
+
+1945
+01:28:10,360 --> 01:28:12,400
+but you can see this nature
+
+1946
+01:28:13,520 --> 01:28:15,720
+except something is black
+
+1947
+01:28:15,720 --> 01:28:17,320
+charcoal is black
+
+1948
+01:28:17,520 --> 01:28:19,320
+Nothing seems black
+
+1949
+01:28:20,520 --> 01:28:23,000
+The charcoal is not actually
+
+1950
+01:28:23,000 --> 01:28:25,000
+United speaking is not an organic substance
+
+1951
+01:28:26,800 --> 01:28:29,720
+As far as we are concerned, there is life and there is no life
+
+1952
+01:28:29,720 --> 01:28:30,880
+words to distinguish in the future
+
+1953
+01:28:31,120 --> 01:28:33,080
+so living things
+
+1954
+01:28:33,080 --> 01:28:36,520
+You'd be hard-pressed to find something all black one at a time
+
+1955
+01:28:38,640 --> 01:28:41,720
+This if you really want to get to the bottom of it
+
+1956
+01:28:41,720 --> 01:28:43,480
+You may want to ask God about this
+
+1957
+01:28:43,480 --> 01:28:44,280
+I do not want
+
+1958
+01:28:44,680 --> 01:28:47,080
+it the birth of this life of life
+
+1959
+01:28:47,080 --> 01:28:49,680
+made of organic matter
+
+1960
+01:28:49,680 --> 01:28:53,640
+But organic matter is rarely seen and said to be completely black
+
+1961
+01:28:56,920 --> 01:28:59,480
+So I am more like this. Did you answer your question?
+
+1962
+01:29:00,000 --> 01:29:02,100
+That laver is purple
+
+1963
+01:29:02,100 --> 01:29:06,600
+The pigment absorption of that seaweed
+
+1964
+01:29:06,600 --> 01:29:08,800
+Can wide and other abilities be entered into the wall at night?
+
+1965
+01:29:08,800 --> 01:29:09,700
+you asked very well
+
+1966
+01:29:09,700 --> 01:29:11,100
+That seaweed
+
+1967
+01:29:11,100 --> 01:29:13,800
+In fact it is because the color is very dark
+
+1968
+01:29:13,800 --> 01:29:15,700
+after you dilute the color
+
+1969
+01:29:15,700 --> 01:29:17,200
+it's not actually black
+
+1970
+01:29:17,900 --> 01:29:19,600
+it's actually purple
+
+1971
+01:29:19,600 --> 01:29:21,000
+Otherwise, it wouldn't be called laver.
+
+1972
+01:29:21,800 --> 01:29:24,100
+It's just because the color is very dark
+
+1973
+01:29:25,700 --> 01:29:28,300
+But you go to analyze its color in fact
+
+1974
+01:29:28,400 --> 01:29:30,000
+it's not actually black
+
+1975
+01:29:30,000 --> 01:29:31,000
+it's actually purple
+
+1976
+01:29:31,000 --> 01:29:32,200
+of a certain color
+
+1977
+01:29:36,200 --> 01:29:38,000
+OK, ask the professor
+
+1978
+01:29:38,000 --> 01:29:40,800
+Just now we talked about asking the professor
+
+1979
+01:29:40,800 --> 01:29:45,700
+Use of Exciting Phosphors and Non-Exciting Phosphors
+
+1980
+01:29:45,700 --> 01:29:48,100
+where is the biggest difference
+
+1981
+01:29:48,100 --> 01:29:50,500
+There are also pros and cons of both
+
+1982
+01:29:50,500 --> 01:29:51,000
+Thanks
+
+1983
+01:29:51,000 --> 01:29:51,400
+good
+
+1984
+01:29:51,800 --> 01:29:52,800
+because of time
+
+1985
+01:29:52,800 --> 01:29:54,700
+We're going to get it down to that detail
+
+1986
+01:29:54,700 --> 01:29:56,100
+you ask me questions
+
+1987
+01:29:56,200 --> 01:29:57,700
+In fact, it is my research
+
+1988
+01:29:57,700 --> 01:29:59,000
+where the expertise is doing
+
+1989
+01:30:00,000 --> 01:30:09,900
+Its priorities actually have their own priorities. Let me first say that what I am best at is organic light-emitting diodes.
+
+1990
+01:30:10,400 --> 01:30:19,200
+The two things lead to a very different manufacturing process. The manufacturing process of organic light-emitting diodes is not like that of inorganic light-emitting diodes.
+
+1991
+01:30:19,600 --> 01:30:27,600
+There will be no high-temperature processing stage, because the materials are different,
+
+1992
+01:30:27,600 --> 01:30:37,500
+It makes all very thin films, and the inorganic must use high heat to perform the fusion action.
+
+1993
+01:30:38,500 --> 01:30:45,500
+Because the material is different, organic actually does not need high temperature, it uses a little temperature, about 100 degrees C is enough,
+
+1994
+01:30:45,800 --> 01:30:52,900
+In fact, inorganic materials need to use 300 or 400 degrees C to make thin films. This is because the manufacturing process is different.
+
+1995
+01:30:52,900 --> 01:30:58,800
+The difference in the manufacturing process will lead to the difference in the equipment you use when making it.
+
+1996
+01:31:00,000 --> 01:31:04,940
+Using high heat to make films, the equipment is very expensive
+
+1997
+01:31:06,100 --> 01:31:07,300
+consumes energy
+
+1998
+01:31:07,860 --> 01:31:10,600
+Organic does not require high heat
+
+1999
+01:31:10,960 --> 01:31:14,800
+So its equipment is different
+
+2000
+01:31:15,060 --> 01:31:17,700
+Again, because it is not used for high temperature and high heat
+
+2001
+01:31:17,700 --> 01:31:20,600
+so it can sit on this soft board
+
+2002
+01:31:21,400 --> 01:31:24,100
+Because generally we talk about soft plastic sheets
+
+2003
+01:31:24,800 --> 01:31:26,700
+You can bend when you sit on a soft surface
+
+2004
+01:31:26,900 --> 01:31:28,500
+Bending Now Everyone's Talking
+
+2005
+01:31:28,500 --> 01:31:31,800
+The scoopable panel is an attractive application
+
+2006
+01:31:32,500 --> 01:31:35,400
+Inorganic materials because of the need to use high heat
+
+2007
+01:31:35,400 --> 01:31:37,800
+so it can't sit on a soft board
+
+2008
+01:31:38,100 --> 01:31:40,000
+So what about this inorganic LED?
+
+2009
+01:31:40,000 --> 01:31:43,800
+It can't be made into a curved or fishable display
+
+2010
+01:31:44,400 --> 01:31:45,000
+no way
+
+2011
+01:31:45,900 --> 01:31:48,900
+Because if you want to be fishable, you must sit on a hard board
+
+2012
+01:31:49,600 --> 01:31:50,700
+It is due to high heat
+
+2013
+01:31:50,700 --> 01:31:52,100
+no way to sit on the plastic sheet
+
+2014
+01:31:52,100 --> 01:31:54,600
+The plastic sheet just melts, so there's no way to do that.
+
+2015
+01:31:55,200 --> 01:31:57,600
+Then there's both because that
+
+2016
+01:31:58,400 --> 01:32:00,100
+It's a lot of telecommunications
+
+2017
+01:32:00,000 --> 01:32:01,600
+In fact, there is something different
+
+2018
+01:32:02,600 --> 01:32:07,000
+So it actually varies in efficiency
+
+2019
+01:32:07,500 --> 01:32:09,800
+And if you talk about the lighting
+
+2020
+01:32:09,800 --> 01:32:11,400
+There will be some difference in brightness
+
+2021
+01:32:11,700 --> 01:32:14,200
+In terms of efficiency and brightness
+
+2022
+01:32:14,200 --> 01:32:16,000
+Or is it actually better to be inorganic?
+
+2023
+01:32:16,000 --> 01:32:17,100
+Organic is worse
+
+2024
+01:32:17,600 --> 01:32:19,400
+So each has pros and cons
+
+2025
+01:32:20,500 --> 01:32:23,700
+Also, organic materials are cheaper to make
+
+2026
+01:32:24,900 --> 01:32:25,800
+inorganic material
+
+2027
+01:32:26,400 --> 01:32:29,300
+I will use some expensive and rare metals for the net
+
+2028
+01:32:29,400 --> 01:32:30,500
+that will be more expensive
+
+2029
+01:32:30,500 --> 01:32:32,300
+So in terms of cost
+
+2030
+01:32:32,900 --> 01:32:36,400
+Organic materials are so-called OLEDs
+
+2031
+01:32:36,600 --> 01:32:38,000
+cost is cheaper
+
+2032
+01:32:39,100 --> 01:32:41,100
+But this is entangled again
+
+2033
+01:32:41,100 --> 01:32:43,500
+That is to say but its organic OLED
+
+2034
+01:32:44,100 --> 01:32:46,100
+Its efficiency and brightness are relatively poor
+
+2035
+01:32:46,600 --> 01:32:48,100
+So in order to make up for this efficiency and brightness
+
+2036
+01:32:48,100 --> 01:32:49,100
+you do more
+
+2037
+01:32:49,400 --> 01:32:52,500
+So it's cheap but not really cheap
+
+2038
+01:32:53,500 --> 01:32:56,100
+This is where many issues are entangled together.
+
+2039
+01:32:56,100 --> 01:32:58,700
+But basically they have their own strengths
+
+2040
+01:33:00,000 --> 01:33:01,000
+right
+
+2041
+01:33:01,000 --> 01:33:02,000
+right
+
+2042
+01:33:02,000 --> 01:33:03,000
+right
+
+2043
+01:33:03,000 --> 01:33:07,000
+How does this matter in simple terms
+
+2044
+01:33:07,000 --> 01:33:09,000
+There are many things involved
+
+2045
+01:33:09,000 --> 01:33:10,000
+good
+
+2046
+01:33:10,000 --> 01:33:11,000
+later
+
+2047
+01:33:11,000 --> 01:33:13,000
+Professor I want to ask a simple question
+
+2048
+01:33:13,000 --> 01:33:18,000
+Is this kind of light-emitting secondary body harmful to health?
+
+2049
+01:33:18,000 --> 01:33:21,000
+Because I see that mobile phones are becoming more and more common now
+
+2050
+01:33:21,000 --> 01:33:24,000
+Small-sized big-sized TVs keep getting bigger
+
+2051
+01:33:24,000 --> 01:33:26,000
+colorful
+
+2052
+01:33:26,000 --> 01:33:30,000
+But my thought is whether it is harmful to our health
+
+2053
+01:33:30,000 --> 01:33:31,000
+then if there is harm
+
+2054
+01:33:31,000 --> 01:33:33,000
+how much it hurts
+
+2055
+01:33:33,000 --> 01:33:38,000
+This question has been raised by many people
+
+2056
+01:33:38,000 --> 01:33:40,000
+In fact it's
+
+2057
+01:33:40,000 --> 01:33:41,000
+because it
+
+2058
+01:33:41,000 --> 01:33:44,000
+Basically the light it emits
+
+2059
+01:33:44,000 --> 01:33:48,000
+It is very similar to the traditional light
+
+2060
+01:33:48,000 --> 01:33:51,000
+If you want to explore carefully, say
+
+2061
+01:33:51,000 --> 01:33:52,000
+That
+
+2062
+01:33:52,000 --> 01:33:53,000
+what kind of light
+
+2063
+01:33:53,000 --> 01:33:54,000
+that is
+
+2064
+01:33:54,000 --> 01:33:55,000
+it
+
+2065
+01:33:55,000 --> 01:33:56,000
+it
+
+2066
+01:33:56,000 --> 01:33:57,000
+it
+
+2067
+01:33:57,000 --> 01:33:58,000
+it
+
+2068
+01:33:58,000 --> 01:33:59,000
+it
+
+2069
+01:33:59,000 --> 01:34:00,000
+it
+
+2070
+01:34:00,000 --> 01:34:01,000
+it
+
+2071
+01:34:01,000 --> 01:34:02,000
+it
+
+2072
+01:34:02,000 --> 01:34:03,000
+it
+
+2073
+01:34:03,000 --> 01:34:04,000
+it
+
+2074
+01:34:04,000 --> 01:34:05,000
+it
+
+2075
+01:34:05,000 --> 01:34:06,000
+it
+
+2076
+01:34:06,000 --> 01:34:07,000
+it
+
+2077
+01:34:07,000 --> 01:34:08,000
+it
+
+2078
+01:34:08,000 --> 01:34:09,000
+it
+
+2079
+01:34:09,000 --> 01:34:10,000
+it
+
+2080
+01:34:10,000 --> 01:34:11,000
+it
+
+2081
+01:34:11,000 --> 01:34:12,000
+it
+
+2082
+01:34:12,000 --> 01:34:13,000
+it
+
+2083
+01:34:13,000 --> 01:34:14,000
+it
+
+2084
+01:34:14,000 --> 01:34:15,000
+it
+
+2085
+01:34:15,000 --> 01:34:16,000
+it
+
+2086
+01:34:16,000 --> 01:34:17,000
+it
+
+2087
+01:34:00,000 --> 01:34:03,960
+Is light harmful to the human body more or less
+
+2088
+01:34:04,760 --> 01:34:07,120
+This is not easy to define clearly
+
+2089
+01:34:07,880 --> 01:34:09,040
+Generally we talk
+
+2090
+01:34:09,240 --> 01:34:11,680
+Ultraviolet light can be harmful to our body
+
+2091
+01:34:12,400 --> 01:34:15,920
+But the traditional glowing things
+
+2092
+01:34:15,920 --> 01:34:17,600
+It actually has a lot of UV light too
+
+2093
+01:34:18,880 --> 01:34:20,200
+that for example
+
+2094
+01:34:20,200 --> 01:34:25,360
+As for these relatively modern LED light bulbs
+
+2095
+01:34:25,800 --> 01:34:27,440
+or that energy saving light bulb
+
+2096
+01:34:27,760 --> 01:34:31,280
+Its ultraviolet light content is also no more than
+
+2097
+01:34:31,880 --> 01:34:34,200
+Generally, where do the light bulbs come from?
+
+2098
+01:34:36,000 --> 01:34:39,200
+Because the light diagrams of the two are actually a bit different
+
+2099
+01:34:39,960 --> 01:34:41,440
+so its ultraviolet part
+
+2100
+01:34:41,440 --> 01:34:44,280
+In fact, there is indeed a difference
+
+2101
+01:34:44,640 --> 01:34:46,160
+But the difference between the two
+
+2102
+01:34:46,160 --> 01:34:47,040
+i don't know
+
+2103
+01:34:49,520 --> 01:34:53,440
+To what extent is it harmful to human health?
+
+2104
+01:34:53,960 --> 01:34:56,320
+Of course, if you look like this in any January of this year
+
+2105
+01:34:57,280 --> 01:34:58,400
+under the sun
+
+2106
+01:34:58,560 --> 01:35:00,120
+Of course that effect I will often
+
+2107
+01:35:00,000 --> 01:35:01,420
+will show up
+
+2108
+01:35:02,860 --> 01:35:05,240
+On the contrary, on the contrary, what I will say later is to say
+
+2109
+01:35:05,860 --> 01:35:07,540
+Current lighting fixtures
+
+2110
+01:35:07,540 --> 01:35:10,240
+Much brighter than traditional lighting fixtures
+
+2111
+01:35:10,960 --> 01:35:15,300
+On the contrary, the damage of this is greater than the amount of ultraviolet light.
+
+2112
+01:35:15,540 --> 01:35:18,660
+Because too much light always hurts the eyes
+
+2113
+01:35:19,740 --> 01:35:24,120
+So now a lot of lighting is changed to LED lighting
+
+2114
+01:35:24,120 --> 01:35:25,860
+That light is very bright, isn't it?
+
+2115
+01:35:26,020 --> 01:35:27,860
+will be bright enough to dazzle
+
+2116
+01:35:28,460 --> 01:35:29,540
+traditional lamps
+
+2117
+01:35:29,540 --> 01:35:31,000
+because it's not that bright
+
+2118
+01:35:31,260 --> 01:35:34,200
+So its damage to the eyes is actually relatively slight
+
+2119
+01:35:35,200 --> 01:35:37,700
+If you look at the intensity of the light
+
+2120
+01:35:37,700 --> 01:35:41,500
+there would be a worrying place like this
+
+2121
+01:35:42,200 --> 01:35:45,900
+It takes a long time to be exposed like this
+
+2122
+01:35:45,900 --> 01:35:47,840
+to show this symptom
+
+2123
+01:35:50,700 --> 01:35:54,040
+Is it the so-called light pollution?
+
+2124
+01:35:54,040 --> 01:35:55,000
+light pollution
+
+2125
+01:35:55,640 --> 01:35:58,540
+It's too bright, just don't look at it if it's too bright
+
+2126
+01:35:58,540 --> 01:35:59,960
+Why is there so much light on this point
+
+2127
+01:36:00,000 --> 01:36:03,220
+ok, is there any problem
+
+2128
+01:36:04,900 --> 01:36:05,900
+OK
+
+2129
+01:36:05,900 --> 01:36:09,740
+How to solve the toxicity of dye
+
+2130
+01:36:10,620 --> 01:36:12,260
+dye toxicity
+
+2131
+01:36:12,260 --> 01:36:14,400
+you say this these dyes
+
+2132
+01:36:14,400 --> 01:36:16,900
+In fact, it's more or less toxic.
+
+2133
+01:36:16,900 --> 01:36:18,260
+How to deal with it
+
+2134
+01:36:18,260 --> 01:36:22,260
+Just like the general dye toxicity solution
+
+2135
+01:36:22,260 --> 01:36:23,260
+Meltase
+
+2136
+01:36:23,260 --> 01:36:25,260
+let red settle
+
+2137
+01:36:25,260 --> 01:36:28,260
+What method do we use for general dyes
+
+2138
+01:36:28,260 --> 01:36:30,680
+to analyze to quantify
+
+2139
+01:36:30,680 --> 01:36:34,180
+that is an analytical tool
+
+2140
+01:36:34,180 --> 01:36:37,180
+to do quantitative testing
+
+2141
+01:36:37,180 --> 01:36:39,220
+For example, what happened to them a while ago?
+
+2142
+01:36:39,220 --> 01:36:41,380
+Didn't the industry peer ratio have to be analyzed?
+
+2143
+01:36:41,380 --> 01:36:43,180
+How much is there in it?
+
+2144
+01:36:43,180 --> 01:36:44,680
+is the same method
+
+2145
+01:36:44,680 --> 01:36:46,680
+is using the same method
+
+2146
+01:36:46,680 --> 01:36:51,180
+Food testing for those various ingredients
+
+2147
+01:36:51,180 --> 01:36:55,180
+Some of it is used, Zhi Puyi is doing the inspection
+
+2148
+01:36:55,180 --> 01:36:58,800
+Some are for actual quantitative analysis
+
+2149
+01:36:58,800 --> 01:37:00,300
+go to assess say
+
+2150
+01:37:00,000 --> 01:37:01,600
+Inside content of multiple tubes
+
+2151
+01:37:01,700 --> 01:37:03,600
+the technique is the same
+
+2152
+01:37:03,700 --> 01:37:07,200
+There is no need to rely on any special method
+
+2153
+01:37:10,000 --> 01:37:10,800
+good
+
+2154
+01:37:10,900 --> 01:37:13,800
+Why does some of the fuel recede and some
+
+2155
+01:37:13,900 --> 01:37:14,600
+oh
+
+2156
+01:37:14,700 --> 01:37:18,000
+That one is destroyed by chemicals
+
+2157
+01:37:18,100 --> 01:37:20,100
+Organic matter is easily explained as
+
+2158
+01:37:20,200 --> 01:37:21,500
+I also said at the beginning
+
+2159
+01:37:21,600 --> 01:37:23,400
+The shape of that color is because of its
+
+2160
+01:37:23,500 --> 01:37:24,700
+many double bonds
+
+2161
+01:37:24,800 --> 01:37:26,600
+Carbon-carbon double bonds accumulate together
+
+2162
+01:37:26,700 --> 01:37:28,200
+After the light shines for a long time
+
+2163
+01:37:28,200 --> 01:37:30,100
+Or after it shines for a long time
+
+2164
+01:37:30,200 --> 01:37:32,600
+Some of that double bond will be destroyed
+
+2165
+01:37:32,700 --> 01:37:34,600
+After the double bond is broken
+
+2166
+01:37:34,700 --> 01:37:35,600
+after its number dwindles
+
+2167
+01:37:35,700 --> 01:37:38,200
+its color will disappear completely
+
+2168
+01:37:38,300 --> 01:37:41,200
+That inorganic material is another way of explaining
+
+2169
+01:37:41,300 --> 01:37:43,400
+is its color
+
+2170
+01:37:43,500 --> 01:37:45,800
+is in fact related to its constituent elements
+
+2171
+01:37:45,900 --> 01:37:47,600
+Oxidation state is related
+
+2172
+01:37:47,700 --> 01:37:48,600
+after a long time
+
+2173
+01:37:48,700 --> 01:37:53,000
+Those oxidation states will be oxidized by air
+
+2174
+01:37:53,100 --> 01:37:53,300
+right
+
+2175
+01:37:53,400 --> 01:37:55,700
+Once its oxidation state is changed
+
+2176
+01:37:55,800 --> 01:37:57,800
+Its color will also be changed
+
+2177
+01:37:57,800 --> 01:38:00,000
+that often just disappears
+
+2178
+01:38:00,000 --> 01:38:04,000
+This is to see whether it is human pigment dye
+
+2179
+01:38:04,000 --> 01:38:06,460
+There will be this problem of getting this fading
+
+2180
+01:38:06,460 --> 01:38:09,460
+It's just a matter of time
+
+2181
+01:38:09,460 --> 01:38:12,460
+ok one last question this way in the middle
+
+2182
+01:38:12,460 --> 01:38:16,460
+So, how do you tell the difference between the fluorescent light and the aura?
+
+2183
+01:38:16,460 --> 01:38:21,460
+I could spend an hour explaining to you
+
+2184
+01:38:21,460 --> 01:38:25,460
+This leads to the basic phenomenon of photophysics.
+
+2185
+01:38:26,460 --> 01:38:30,460
+yes in short
+
+2186
+01:38:30,460 --> 01:38:35,460
+The length of life of their light is not the same
+
+2187
+01:38:37,460 --> 01:38:42,460
+Theoretically, they are produced from different states
+
+2188
+01:38:44,460 --> 01:38:47,460
+So if you're going to say what can we do
+
+2189
+01:38:47,460 --> 01:38:49,460
+eyes can't tell the difference
+
+2190
+01:38:49,460 --> 01:38:51,460
+Because of the difference in the speed of his time
+
+2191
+01:38:51,460 --> 01:38:54,460
+beyond the limits of human vision
+
+2192
+01:38:54,460 --> 01:38:56,460
+we can't tell the difference
+
+2193
+01:38:56,460 --> 01:39:00,460
+Which is faster or slower needs to be distinguished by instruments
+
+2194
+01:39:00,000 --> 01:39:04,040
+There is also their fluorescent light and aura of the same substance
+
+2195
+01:39:04,200 --> 01:39:06,340
+its wavelength is different
+
+2196
+01:39:06,500 --> 01:39:10,840
+Usually the aura is longer and the fluorescence is shorter
+
+2197
+01:39:11,000 --> 01:39:15,340
+That also requires you to rely on instruments and equipment to control
+
+2198
+01:39:15,500 --> 01:39:17,040
+Simultaneously two lights are recorded
+
+2199
+01:39:17,200 --> 01:39:19,500
+You know that the one with the long wavelength is the aura
+
+2200
+01:39:19,660 --> 01:39:21,200
+The short wavelength is fluorescence
+
+2201
+01:39:21,360 --> 01:39:24,500
+It can be divided from these two ways
+
+2202
+01:39:24,660 --> 01:39:27,340
+Sorry to ask Professor Lin again
+
+2203
+01:39:27,340 --> 01:39:30,500
+So about the Liao legacy lamp we talked about just now
+
+2204
+01:39:30,680 --> 01:39:34,340
+That is to say, too strong will affect the eyes
+
+2205
+01:39:34,500 --> 01:39:38,180
+To make the lights in our house the best is to say
+
+2206
+01:39:38,340 --> 01:39:40,540
+Use about how much brightness like this
+
+2207
+01:39:40,700 --> 01:39:43,380
+For the upper half of the eyes and then bright enough thank you
+
+2208
+01:39:45,040 --> 01:39:47,000
+it's very important
+
+2209
+01:39:47,680 --> 01:39:49,280
+I'm not very clear about this
+
+2210
+01:39:49,440 --> 01:39:52,300
+You might ask your doctor for a better understanding
+
+2211
+01:39:52,980 --> 01:39:57,300
+Because we need different brightness for different occasions
+
+2212
+01:39:57,340 --> 01:39:59,740
+Right, for example, our weaknesses don't need to be very bright
+
+2213
+01:40:00,000 --> 01:40:01,300
+because it's time to sleep
+
+2214
+01:40:01,300 --> 01:40:02,600
+but the office
+
+2215
+01:40:02,600 --> 01:40:03,600
+because we want to see something
+
+2216
+01:40:03,600 --> 01:40:04,800
+be bright with me
+
+2217
+01:40:04,800 --> 01:40:08,600
+But the human eye has a limit
+
+2218
+01:40:08,600 --> 01:40:11,300
+Ask the ophthalmologist about the limit
+
+2219
+01:40:11,300 --> 01:40:12,500
+may be clearer
+
+2220
+01:40:12,500 --> 01:40:14,400
+makes sense thank you
+
+2221
+01:40:14,400 --> 01:40:15,300
+OK
+
+2222
+01:40:15,300 --> 01:40:18,200
+Our K-A mates really thank you
+
+2223
+01:40:18,200 --> 01:40:19,400
+then our first thank you
+
+2224
+01:40:19,400 --> 01:40:22,200
+This wonderful interview with Dr. Chen
+
+2225
+01:40:22,200 --> 01:40:23,200
+thank you all
+
