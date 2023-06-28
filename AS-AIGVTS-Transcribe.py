@@ -52,6 +52,7 @@ def translate_srt_file_by_googletrans(lang, sliced_part_srt, sliced_part_subtitl
 for k, v in youtube_list.items():
     start_time = datetime.now()
     try:
+        print("processing ", v)
         yt = YouTube(f"https://www.youtube.com/watch?v={v}", use_oauth=True)
         audio_stream = yt.streams.filter(only_audio=True).first()
         audio_stream.download(output_path="/tmp/", filename=f"audio_{k}")
