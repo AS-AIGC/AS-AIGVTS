@@ -4,4 +4,4 @@ openai_whisper==20230314
 pydub==0.25.1
 pysrt==1.1.2
 pytube==15.0.0
-tqdm==4.65.0
+tqdm==4.66.4
